@@ -1,0 +1,710 @@
+/* ============================================================
+   THE DAILY YESTERDAY — estilos "papel viejo / New Yorker"
+   ============================================================
+   La idea general: fondo color papel envejecido, tinta casi
+   negra (no negro puro, la tinta vieja es marrón oscura),
+   tipografías con serif, columnas de texto como un diario
+   de verdad, y detalles: filetes (líneas), capitular, etc.
+   ============================================================ */
+
+/* ---- Paleta y fuentes base ---- */
+:root {
+  --papel:        #f0e6d0;   /* color base del papel            */
+  --papel-oscuro: #e6d9bc;   /* zonas sombreadas del papel      */
+  --tinta:        #26201a;   /* "negro" de tinta vieja          */
+  --tinta-suave:  #5a4f3f;   /* gris amarronado para secundario */
+  --rojo-sello:   #8d2b1e;   /* rojo lacre para acentos         */
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  background: #3a3129; /* mesa oscura detrás del papel */
+  font-family: 'Old Standard TT', Georgia, 'Times New Roman', serif;
+  color: var(--tinta);
+  padding: 24px 12px;
+}
+
+/* La "hoja" del diario: un bloque centrado con textura de papel.
+   La textura se hace con gradientes superpuestos (manchas suaves
+   y un leve oscurecido en los bordes), sin usar imágenes. */
+.hoja {
+  position: relative; /* necesario para apoyarle el "grano" encima */
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 36px 44px 48px;
+  background:
+    /* la marca de doblez vertical, como diario plegado */
+    linear-gradient(90deg, transparent 0 63%, rgba(80,60,30,.10) 63.4%, rgba(255,255,255,.20) 63.9%, transparent 64.6%),
+    /* mancha de humedad en una esquina */
+    radial-gradient(ellipse 130px 90px at 97% 1%, rgba(110,80,30,.18), transparent 70%),
+    radial-gradient(ellipse at 20% 10%, rgba(255,255,255,.35), transparent 55%),
+    radial-gradient(ellipse at 85% 90%, rgba(120,90,40,.14), transparent 60%),
+    radial-gradient(ellipse at 50% 50%, transparent 60%, rgba(90,70,40,.18) 100%),
+    var(--papel);
+  box-shadow: 0 10px 40px rgba(0,0,0,.55), 0 2px 8px rgba(0,0,0,.4);
+}
+
+/* EL GRANO DEL PAPEL: una capa de "ruido" apoyada sobre toda la
+   hoja. El ruido lo genera el navegador con un filtro de SVG
+   (feTurbulence) incrustado como fondo: no hay ninguna imagen.
+   "pointer-events: none" hace que los clics la atraviesen.     */
+.hoja::after {
+  content: "";
+  position: absolute;
+  inset: 0;               /* = top/right/bottom/left: 0 */
+  pointer-events: none;
+  mix-blend-mode: multiply;
+  opacity: .35;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3CfeComponentTransfer%3E%3CfeFuncA type='linear' slope='0.12'/%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23g)'/%3E%3C/svg%3E");
+}
+
+/* ============================================================
+   CABEZAL (masthead): nombre del diario, fecha, lema
+   ============================================================ */
+.cabezal { text-align: center; }
+
+.cabezal .fila-superior {
+  display: flex;
+  justify-content: space-between;
+  font-size: .78rem;
+  font-style: italic;
+  color: var(--tinta-suave);
+  border-bottom: 1px solid var(--tinta);
+  padding-bottom: 6px;
+  letter-spacing: .04em;
+}
+
+.cabezal h1 {
+  /* Letra gótica ("blackletter"), la de los nameplates clásicos.
+     Va en peso normal: las góticas no se engrosan bien. */
+  font-family: 'UnifrakturMaguntia', Georgia, serif;
+  font-weight: normal;
+  font-size: clamp(2.8rem, 8vw, 5.2rem);
+  letter-spacing: .01em;
+  margin: 12px 0 8px;
+  cursor: pointer; /* el nombre del diario te lleva a la portada */
+}
+
+.cabezal .lema {
+  font-style: italic;
+  font-size: .95rem;
+  color: var(--tinta-suave);
+  margin-bottom: 12px;
+}
+
+/* Filete doble clásico bajo el cabezal */
+.filete-doble {
+  border-top: 3px solid var(--tinta);
+  border-bottom: 1px solid var(--tinta);
+  height: 6px;
+  margin: 4px 0 0;
+}
+
+/* Línea con la fecha histórica de la edición que se está viendo */
+.linea-edicion {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: .82rem;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  padding: 8px 2px;
+  border-bottom: 1px solid var(--tinta);
+}
+
+/* ============================================================
+   EL ARCHIVO: columna izquierda con las décadas desplegables
+   ============================================================
+   La página se parte en dos con "grid": una columna angosta
+   fija para el archivo y el resto para la noticia.          */
+.contenido {
+  display: grid;
+  grid-template-columns: 52px 1fr;
+  gap: 26px;
+  margin-top: 26px;
+}
+
+/* El archivo arranca CERRADO: solo se ve la pestaña vertical.
+   El panel se abre al pasar el mouse (hover), al navegar con
+   teclado (focus-within) o con clic (clase "fijado" del JS). */
+.archivo {
+  /* "sticky": la pestaña acompaña al lector cuando baja */
+  position: sticky;
+  top: 16px;
+  align-self: start;
+}
+
+/* La pestaña: texto vertical, como el lomo de un libro */
+.archivo-tab {
+  writing-mode: vertical-rl;    /* letras de arriba hacia abajo */
+  background: none;
+  border: none;
+  border-right: 3px double var(--tinta);
+  cursor: pointer;
+  font-family: inherit;
+  font-variant: small-caps;
+  font-size: .95rem;
+  letter-spacing: .3em;
+  color: var(--tinta-suave);
+  padding: 18px 14px;
+}
+
+.archivo:hover .archivo-tab,
+.archivo.fijado .archivo-tab {
+  color: var(--rojo-sello);
+  border-right-color: var(--rojo-sello);
+}
+
+/* El panel con las décadas: un "cajón" que flota sobre la nota.
+   Cerrado es invisible y está corrido 12px a la izquierda; al
+   abrirse se desliza a su lugar (la transición hace el efecto). */
+.archivo-panel {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 5;
+  width: 240px;
+  max-height: calc(100vh - 40px);
+  overflow-y: auto;
+  background: var(--papel);
+  border: 1px solid var(--tinta);
+  box-shadow: 8px 10px 24px rgba(0,0,0,.3);
+  padding: 14px 18px 18px;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateX(-12px);
+  transition: opacity .2s, transform .2s, visibility .2s;
+}
+
+.archivo:hover .archivo-panel,
+.archivo:focus-within .archivo-panel,
+.archivo.fijado .archivo-panel {
+  opacity: 1;
+  visibility: visible;
+  transform: none;
+}
+
+.archivo .titulo-seccion {
+  text-align: center;
+  font-size: .78rem;
+  letter-spacing: .3em;
+  text-transform: uppercase;
+  color: var(--tinta-suave);
+  border-bottom: 3px double var(--tinta);
+  padding-bottom: 8px;
+  margin-bottom: 6px;
+}
+
+.archivo .titulo-seccion::before,
+.archivo .titulo-seccion::after { content: " ❦ "; }
+
+/* --- Cada década es un bloque plegable --- */
+.decada { border-bottom: 1px dotted var(--tinta-suave); }
+
+.decada > button {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+  color: var(--tinta);
+  font-size: .88rem;
+  font-weight: bold;
+  font-variant: small-caps;
+  letter-spacing: .06em;
+  padding: 9px 2px;
+}
+
+.decada > button:hover { color: var(--rojo-sello); }
+
+/* El triangulito que indica abierto/cerrado */
+.decada .flecha {
+  font-size: .7rem;
+  transition: transform .2s;
+}
+.decada.abierta .flecha { transform: rotate(90deg); }
+
+/* La cantidad de noticias de esa década, en chiquito */
+.decada .cantidad {
+  font-weight: normal;
+  font-size: .7rem;
+  font-style: italic;
+  color: var(--tinta-suave);
+  margin-left: auto;
+  margin-right: 8px;
+}
+
+/* La lista de noticias: oculta por defecto... */
+.lista-eventos { display: none; padding: 0 0 8px; list-style: none; }
+/* ...y visible sólo cuando la década tiene la clase "abierta" */
+.decada.abierta .lista-eventos { display: block; }
+
+.evento button {
+  width: 100%;
+  text-align: left;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+  color: var(--tinta);
+  font-size: .8rem;
+  line-height: 1.35;
+  padding: 5px 2px 5px 16px;
+}
+
+.evento button:hover { color: var(--rojo-sello); }
+
+.evento .anio { font-weight: bold; }
+.evento .corto { font-style: italic; color: var(--tinta-suave); }
+
+/* La noticia que se está leyendo, marcada en rojo lacre */
+.evento.activo button,
+.evento.activo .corto { color: var(--rojo-sello); }
+.evento.activo button { border-left: 3px solid var(--rojo-sello); padding-left: 13px; }
+
+/* ============================================================
+   LA NOTICIA
+   ============================================================ */
+.nota { min-width: 0; } /* evita que el texto empuje la grilla */
+
+/* Etiqueta "UN DÍA COMO HOY" o "DE NUESTRO ARCHIVO" */
+.etiqueta {
+  display: inline-block;
+  font-size: .7rem;
+  letter-spacing: .25em;
+  text-transform: uppercase;
+  color: var(--papel);
+  background: var(--rojo-sello);
+  padding: 4px 12px;
+  margin-bottom: 14px;
+}
+
+.nota .volanta {
+  font-size: .85rem;
+  letter-spacing: .22em;
+  text-transform: uppercase;
+  color: var(--tinta-suave);
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.nota h2 {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: clamp(1.7rem, 4.6vw, 3rem);
+  line-height: 1.12;
+  text-align: center;
+  font-weight: 900;
+  margin: 0 auto 16px;
+  max-width: 21em;
+}
+
+.nota .bajada {
+  font-style: italic;
+  font-size: 1.08rem;
+  line-height: 1.5;
+  text-align: center;
+  color: var(--tinta-suave);
+  max-width: 38em;
+  margin: 0 auto 18px;
+}
+
+.nota .dateline {
+  text-align: center;
+  font-size: .8rem;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  margin-bottom: 22px;
+}
+
+.nota .dateline::before { content: "— "; }
+.nota .dateline::after  { content: " —"; }
+
+/* El cuerpo en columnas, como un diario impreso.
+   "column-count" parte el texto solo; el navegador
+   balancea las columnas por nosotros. */
+.nota .cuerpo {
+  column-count: 3;
+  column-gap: 28px;
+  column-rule: 1px solid rgba(38,32,26,.35); /* filete entre columnas */
+  text-align: justify;
+  font-size: .98rem;
+  line-height: 1.62;
+  border-top: 1px solid var(--tinta);
+  padding-top: 18px;
+}
+
+.nota .cuerpo p { margin-bottom: 1em; text-indent: 1.4em; }
+.nota .cuerpo p:first-child { text-indent: 0; }
+
+/* LA CAPITULAR: la primera letra gigante del primer párrafo.
+   "::first-letter" es un selector de CSS que agarra justo eso. */
+.nota .cuerpo p:first-child::first-letter {
+  float: left;
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 3.4em;
+  line-height: .82;
+  padding: 4px 8px 0 0;
+  font-weight: bold;
+  color: var(--rojo-sello);
+}
+
+/* ============================================================
+   EL GRABADO: la ilustración de la noticia
+   ============================================================
+   El truco grande acá es "mix-blend-mode: multiply": hace que
+   los blancos de la imagen se fundan con el papel (como tinta
+   impresa de verdad), en vez de quedar como un rectángulo
+   blanco pegado. El filtro le saca el color y le da tono sepia. */
+.grabado {
+  margin: 0 auto 24px;
+  max-width: 480px;
+}
+
+.grabado img {
+  display: block;
+  width: 100%;
+  filter: grayscale(1) sepia(.42) contrast(1.08) brightness(1.03);
+  mix-blend-mode: multiply;
+  border: 1px solid var(--tinta);
+  padding: 6px;              /* margencito entre el marco y la imagen */
+}
+
+.grabado figcaption {
+  font-size: .78rem;
+  font-style: italic;
+  text-align: center;
+  color: var(--tinta-suave);
+  margin-top: 8px;
+  letter-spacing: .04em;
+}
+
+/* ============================================================
+   LA SECUELA: "la historia continuó" — la noticia del día
+   siguiente o el desenlace, como un recorte pegado al final.
+   ============================================================ */
+.secuela {
+  margin: 28px auto 0;
+  max-width: 44em;
+  border: 3px double var(--tinta);
+  padding: 18px 24px;
+  background: rgba(120, 90, 40, .07); /* apenas más tostado que el papel */
+}
+
+.secuela .marbete {
+  text-align: center;
+  font-size: .7rem;
+  font-weight: bold;
+  letter-spacing: .3em;
+  text-transform: uppercase;
+  color: var(--rojo-sello);
+  margin-bottom: 10px;
+}
+
+.secuela h3 {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 1.35rem;
+  line-height: 1.2;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.secuela p {
+  font-size: .92rem;
+  line-height: 1.55;
+  text-align: justify;
+  margin-bottom: .8em;
+}
+
+.secuela p:last-child { margin-bottom: 0; }
+
+/* Cierre decorativo al final de la nota */
+.fin-nota {
+  text-align: center;
+  font-size: 1.2rem;
+  color: var(--tinta-suave);
+  margin-top: 18px;
+}
+
+/* ============================================================
+   LA PORTADA: la nota del día en versión "tapa" + recortes
+   ============================================================ */
+
+/* En la portada el primer párrafo va en una sola columna
+   centrada (pisa el column-count: 3 de .cuerpo porque esta
+   regla está escrita después en la hoja de estilos). */
+.cuerpo-uno {
+  column-count: 1;
+  max-width: 42em;
+  margin: 0 auto;
+}
+
+.seguir { text-align: center; margin-top: 10px; }
+
+.seguir button {
+  font-family: inherit;
+  font-variant: small-caps;
+  letter-spacing: .08em;
+  font-size: .95rem;
+  background: none;
+  border: 1px solid var(--tinta);
+  color: var(--tinta);
+  padding: 8px 24px;
+  cursor: pointer;
+}
+
+.seguir button:hover {
+  color: var(--papel);
+  background: var(--rojo-sello);
+  border-color: var(--rojo-sello);
+}
+
+/* --- Los recortes del mes ("También en julio...") --- */
+.teasers {
+  margin-top: 34px;
+  border-top: 3px double var(--tinta);
+  padding-top: 12px;
+}
+
+.teasers .titulo-seccion {
+  text-align: center;
+  font-size: .78rem;
+  letter-spacing: .3em;
+  text-transform: uppercase;
+  color: var(--tinta-suave);
+  margin-bottom: 16px;
+}
+
+.teasers .titulo-seccion::before,
+.teasers .titulo-seccion::after { content: " ❦ "; }
+
+.teaser-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.teaser {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+  color: var(--tinta);
+  text-align: left;
+  padding: 0 18px;
+}
+
+/* filete vertical entre recortes, como columnas de diario */
+.teaser + .teaser { border-left: 1px solid rgba(38,32,26,.35); }
+
+.teaser .fecha-teaser {
+  display: block;
+  font-size: .72rem;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--tinta-suave);
+  margin-bottom: 6px;
+}
+
+.teaser .titulo-teaser {
+  display: block;
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 700;
+  font-size: 1.05rem;
+  line-height: 1.25;
+  margin-bottom: 6px;
+}
+
+.teaser .recorte {
+  display: block;
+  font-size: .85rem;
+  font-style: italic;
+  line-height: 1.45;
+  color: var(--tinta-suave);
+}
+
+.teaser:hover .titulo-teaser { color: var(--rojo-sello); }
+
+/* El enlace "◂ Portada" en la línea de edición */
+.linea-edicion a { color: inherit; text-decoration: none; }
+.linea-edicion a:hover { color: var(--rojo-sello); }
+
+/* ============================================================
+   PIE DE PÁGINA
+   ============================================================ */
+footer {
+  margin-top: 36px;
+  border-top: 3px double var(--tinta);
+  padding-top: 10px;
+  text-align: center;
+  font-size: .72rem;
+  font-style: italic;
+  color: var(--tinta-suave);
+}
+
+/* ============================================================
+   PANTALLAS CHICAS (celular): el archivo pasa arriba de la
+   nota (una sola columna) y el texto usa menos columnas.
+   ============================================================ */
+@media (max-width: 800px) {
+  .hoja { padding: 22px 18px 30px; }
+  .contenido { grid-template-columns: 1fr; gap: 14px; }
+  .archivo { position: static; }
+  /* En el celular no hay hover: la pestaña va horizontal y el
+     panel se abre con un toque, empujando el contenido. */
+  .archivo-tab {
+    writing-mode: horizontal-tb;
+    width: 100%;
+    text-align: left;
+    border-right: none;
+    border-bottom: 1px solid var(--tinta);
+    padding: 8px 2px;
+  }
+  .archivo-panel {
+    display: none;             /* cerrado del todo (sin flotar) */
+    position: static;
+    width: auto;
+    max-height: none;
+    border: none;
+    border-bottom: 1px solid var(--tinta);
+    box-shadow: none;
+    padding: 4px 0 12px;
+    transform: none;
+  }
+  .archivo.fijado .archivo-panel {
+    display: block;
+    opacity: 1;
+    visibility: visible;
+  }
+  .nota .cuerpo { column-count: 2; }
+}
+@media (max-width: 520px) {
+  .nota .cuerpo { column-count: 1; }
+  .cabezal .fila-superior { font-size: .62rem; }
+}
+
+/* ============================================================
+   EL CINTILLO: la fila de "secciones" bajo el cabezal, que
+   lleva de una cara del diario a la otra (histórico <-> hoy).
+   ============================================================ */
+.cintillo {
+  text-align: center;
+  font-variant: small-caps;
+  letter-spacing: .18em;
+  font-size: .92rem;
+  padding: 7px 0;
+  border-bottom: 1px solid var(--tinta);
+}
+
+.cintillo a { color: var(--tinta); text-decoration: none; }
+.cintillo a:hover { color: var(--rojo-sello); }
+.cintillo a.actual { color: var(--rojo-sello); font-weight: bold; }
+.cintillo .sep { margin: 0 14px; color: var(--tinta-suave); }
+
+/* ============================================================
+   LA EDICIÓN DE HOY (hoy.html): noticias de los medios del día
+   en formato agregador: titular + resumen corto + fuente.
+   ============================================================ */
+
+/* La nota principal del día, arriba de todo */
+.destacada-dia { margin-top: 30px; }
+
+/* Botón-enlace para leer la nota completa en el medio original */
+.leer-fuente {
+  display: inline-block;
+  font-variant: small-caps;
+  letter-spacing: .08em;
+  font-size: .95rem;
+  border: 1px solid var(--tinta);
+  color: var(--tinta);
+  text-decoration: none;
+  padding: 7px 22px;
+}
+
+.leer-fuente:hover {
+  color: var(--papel);
+  background: var(--rojo-sello);
+  border-color: var(--rojo-sello);
+}
+
+/* Cada sección del día (El País, Economía, El Mundo, Deportes) */
+.seccion-dia {
+  margin-top: 36px;
+  border-top: 3px double var(--tinta);
+  padding-top: 10px;
+}
+
+.seccion-dia .titulo-seccion {
+  text-align: center;
+  font-size: .8rem;
+  letter-spacing: .3em;
+  text-transform: uppercase;
+  color: var(--tinta-suave);
+  margin-bottom: 16px;
+}
+
+.seccion-dia .titulo-seccion::before,
+.seccion-dia .titulo-seccion::after { content: " ❦ "; }
+
+/* Las notas de la sección, en columnas de diario: "columns"
+   reparte solo, y "column-rule" pone el filete entre medio. */
+.grilla-dia {
+  column-count: 3;
+  column-gap: 28px;
+  column-rule: 1px solid rgba(38,32,26,.35);
+}
+
+/* Cada nota es un enlace entero al medio original */
+.nota-dia {
+  display: block;
+  break-inside: avoid;        /* que la nota no se corte entre columnas */
+  color: var(--tinta);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--tinta-suave);
+  padding-bottom: 12px;
+  margin-bottom: 14px;
+}
+
+.nota-dia h4 {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 700;
+  font-size: 1.08rem;
+  line-height: 1.22;
+  margin-bottom: 6px;
+}
+
+.nota-dia:hover h4 { color: var(--rojo-sello); }
+
+.nota-dia .resumen {
+  font-size: .88rem;
+  line-height: 1.5;
+  text-align: justify;
+  margin-bottom: 7px;
+}
+
+.nota-dia .fuente {
+  font-size: .72rem;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--tinta-suave);
+}
+
+.nota-dia .fuente::after { content: " ⟶"; }
+
+/* Si todavía no se generó la edición del día */
+.aviso-sin-edicion {
+  text-align: center;
+  padding: 60px 20px;
+  font-style: italic;
+  color: var(--tinta-suave);
+}
+
+@media (max-width: 800px) {
+  .grilla-dia { column-count: 2; }
+}
+@media (max-width: 520px) {
+  .grilla-dia { column-count: 1; }
+  .cintillo .sep { margin: 0 8px; }
+}

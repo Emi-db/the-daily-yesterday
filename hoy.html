@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Daily Yesterday — La Edición de Hoy</title>
+
+<!-- Las mismas tipografías y estilos que el archivo histórico -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:ital,wght@0,700;0,900;1,600&family=Old+Standard+TT:ital@0;1&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+<div class="hoja">
+
+  <!-- ================= CABEZAL ================= -->
+  <header class="cabezal">
+    <div class="fila-superior">
+      <span>Fundado en el porvenir</span>
+      <span>Precio: dos reales</span>
+    </div>
+    <h1 onclick="location.href='index.html'" title="Ir al archivo histórico">The Daily Yesterday</h1>
+    <p class="lema">« Todas las noticias de todos los ayeres »</p>
+    <div class="filete-doble"></div>
+    <nav class="cintillo">
+      <a href="index.html">El Archivo Histórico</a>
+      <span class="sep">·</span>
+      <a href="hoy.html" class="actual">La Edición de Hoy</a>
+      <span class="sep">·</span>
+      <a href="mundo.html">El Mundo</a>
+    </nav>
+    <div class="linea-edicion">
+      <span id="edicion-numero">La Edición de Hoy</span>
+      <span id="edicion-fecha"><!-- la fecha de la edición generada --></span>
+    </div>
+  </header>
+
+  <!-- ================= LA EDICIÓN ================= -->
+  <main class="nota" id="edicion-del-dia">
+    <!-- se completa con JS leyendo edicion.js -->
+  </main>
+
+  <footer>
+    Los titulares y resúmenes pertenecen a sus respectivos medios; cada nota enlaza a la fuente original.
+    <span id="pie-generada"></span>
+  </footer>
+
+</div>
+
+<!-- Los datos de la edición (los genera generar_edicion.py).
+     El "?v=fecha" evita que el navegador muestre la edición de
+     ayer desde su caché: cada día pide el archivo fresco. -->
+<script>
+  document.write('<script src="edicion.js?v=' + new Date().toISOString().slice(0, 10) + '"><\/script>');
+</script>
+
+<!-- ...y la lógica que los muestra. -->
+<script>
+// ============================================================
+//  LA EDICIÓN DE HOY
+//  Todo el contenido viene de edicion.js, que fue generado por
+//  generar_edicion.py. Esta página solo lo acomoda en la hoja:
+//  la primera nota va grande (la "tapa") y el resto en columnas
+//  por sección. Cada nota es un enlace al medio original.
+// ============================================================
+
+function armarEdicion() {
+  const contenedor = document.getElementById("edicion-del-dia");
+
+  // Si edicion.js no existe o vino vacío, lo decimos con gracia.
+  // "typeof" pregunta si la variable EDICION siquiera existe.
+  if (typeof EDICION === "undefined" || !EDICION.secciones || EDICION.secciones.length === 0) {
+    contenedor.innerHTML = `
+      <div class="aviso-sin-edicion">
+        La edición de hoy todavía no salió de la imprenta.<br>
+        (Hay que correr <b>generar_edicion.py</b> para imprimirla.)
+      </div>`;
+    return;
+  }
+
+  document.getElementById("edicion-fecha").textContent = EDICION.fecha;
+  document.getElementById("pie-generada").textContent =
+    ` Edición cerrada a las ${EDICION.generada}.`;
+
+  // ---- La nota de tapa: la primera de la primera sección ----
+  const tapa = EDICION.secciones[0].notas[0];
+  let html = `
+    <section class="destacada-dia">
+      <div class="volanta">${EDICION.secciones[0].nombre} · La noticia del día</div>
+      <h2>${tapa.titulo}</h2>
+      <p class="bajada">${tapa.resumen}</p>
+      <div class="dateline">Fuente: ${tapa.fuente}</div>
+      <div class="seguir">
+        <a class="leer-fuente" href="${tapa.link}" target="_blank" rel="noopener">
+          Leer la nota completa en ${tapa.fuente} ⟶
+        </a>
+      </div>
+    </section>`;
+
+  // ---- Las secciones, cada una con sus notas en columnas ----
+  EDICION.secciones.forEach((seccion, numeroSeccion) => {
+    // En la primera sección salteamos la nota que ya fue de tapa
+    const notas = numeroSeccion === 0 ? seccion.notas.slice(1) : seccion.notas;
+    if (notas.length === 0) return;
+
+    const notasHTML = notas.map(nota => `
+      <a class="nota-dia" href="${nota.link}" target="_blank" rel="noopener">
+        <h4>${nota.titulo}</h4>
+        <p class="resumen">${nota.resumen}</p>
+        <span class="fuente">${nota.fuente}</span>
+      </a>`).join("");
+
+    html += `
+      <section class="seccion-dia">
+        <div class="titulo-seccion">${seccion.nombre}</div>
+        <div class="grilla-dia">${notasHTML}</div>
+      </section>`;
+  });
+
+  contenedor.innerHTML = html;
+}
+
+armarEdicion();
+</script>
+
+</body>
+</html>

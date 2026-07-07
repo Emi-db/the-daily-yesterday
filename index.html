@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Daily Yesterday</title>
+
+<!-- Tipografías de época (Google Fonts):
+     · UnifrakturMaguntia: letra gótica para el nombre del diario,
+       como el New York Times o el Washington Post.
+     · Playfair Display: serif de alto contraste para titulares,
+       nacida de la tipografía de imprenta del siglo XVIII.
+     · Old Standard TT: recreación de la letra de los libros y
+       diarios de fines del 1800, para el cuerpo del texto.       -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:ital,wght@0,700;0,900;1,600&family=Old+Standard+TT:ital@0;1&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+<div class="hoja">
+
+  <!-- ================= CABEZAL ================= -->
+  <header class="cabezal">
+    <div class="fila-superior">
+      <span>Fundado en el porvenir</span>
+      <span>Precio: dos reales</span>
+    </div>
+    <h1>The Daily Yesterday</h1>
+    <p class="lema">« Todas las noticias de todos los ayeres »</p>
+    <div class="filete-doble"></div>
+    <!-- El cintillo: las "secciones" del diario -->
+    <nav class="cintillo">
+      <a href="index.html" class="actual">El Archivo Histórico</a>
+      <span class="sep">·</span>
+      <a href="hoy.html">La Edición de Hoy</a>
+      <span class="sep">·</span>
+      <a href="mundo.html">El Mundo</a>
+    </nav>
+    <div class="linea-edicion">
+      <span id="edicion-numero">Edición histórica</span>
+      <span id="edicion-fecha"><!-- acá va la fecha del día histórico --></span>
+    </div>
+  </header>
+
+  <!-- ============ ARCHIVO (izquierda) + NOTICIA (derecha) ============ -->
+  <div class="contenido">
+
+    <nav class="archivo">
+      <!-- La pestaña: lo único visible con el archivo cerrado -->
+      <button class="archivo-tab" id="archivo-tab" title="El archivo del diario: clic para dejarlo abierto">❦ El Archivo</button>
+      <!-- El panel con las décadas: aparece al pasar el mouse o al hacer clic -->
+      <div class="archivo-panel">
+        <div class="titulo-seccion">El Archivo</div>
+        <div id="archivo-lista"><!-- las décadas se generan con JS --></div>
+      </div>
+    </nav>
+
+    <main class="nota" id="nota">
+      <!-- se completa con JS -->
+    </main>
+
+  </div>
+
+  <footer>
+    The Daily Yesterday — crónicas escritas como si el diario hubiera estado ahí.
+    Los hechos son históricos; la redacción, de época imaginada.
+  </footer>
+
+</div>
+
+<!-- Primero cargamos los datos (las noticias). El "?v=fecha" es
+     un truco anti-caché: al cambiar cada día, el navegador pide
+     el archivo fresco en vez de mostrar una copia vieja guardada. -->
+<script>
+  document.write('<script src="noticias.js?v=' + new Date().toISOString().slice(0, 10) + '"><\/script>');
+</script>
+
+<!-- ...y después la lógica que las muestra. -->
+<script>
+// ============================================================
+//  LÓGICA DEL DIARIO
+// ============================================================
+
+// Los meses en castellano para armar fechas lindas.
+const MESES = ["enero","febrero","marzo","abril","mayo","junio",
+               "julio","agosto","septiembre","octubre","noviembre","diciembre"];
+
+// "1816-07-09" -> { anio: 1816, mes: 7, dia: 9 }
+// (parseInt convierte el texto "07" en el número 7)
+function partesDeFecha(fechaISO) {
+  const [a, m, d] = fechaISO.split("-");
+  return { anio: parseInt(a), mes: parseInt(m), dia: parseInt(d) };
+}
+
+// "1816-07-09" -> "9 de julio de 1816"
+function fechaLarga(fechaISO) {
+  const f = partesDeFecha(fechaISO);
+  return `${f.dia} de ${MESES[f.mes - 1]} de ${f.anio}`;
+}
+
+// ------------------------------------------------------------
+// 1) LA PORTADA
+//    Al abrir, el diario está "en el presente": muestra la fecha
+//    de hoy, una noticia destacada en versión tapa (titular +
+//    grabado + primer párrafo) y recortes de otros hechos del
+//    mismo mes calendario. Solo al abrir una noticia completa
+//    el diario "viaja" a esa fecha.
+// ------------------------------------------------------------
+
+// Día del año (1 a 365): un número que cambia cada día pero es
+// igual durante todo el día -> sirve para la "rotación" diaria.
+function diaDelAnio() {
+  const hoy = new Date();
+  const inicioAnio = new Date(hoy.getFullYear(), 0, 1);
+  return Math.floor((hoy - inicioAnio) / 86400000) + 1;
+}
+
+// ¿Qué noticia va de tapa hoy?
+//  - Si hoy (día y mes) coincide con algún hecho -> ése.
+//  - Si no, una "del archivo" que rota según el día del año.
+function elegirDestacada() {
+  const hoy = new Date();
+  const coincide = EVENTOS.findIndex(ev => {
+    const f = partesDeFecha(ev.fecha);
+    return f.dia === hoy.getDate() && f.mes === hoy.getMonth() + 1;
+  });
+  if (coincide !== -1) return { indice: coincide, esEfemeride: true };
+  return { indice: diaDelAnio() % EVENTOS.length, esEfemeride: false };
+}
+
+// Los recortes de abajo: otros hechos del mismo mes calendario
+// (sin importar el año). Si el mes viene flojo, completamos con
+// el archivo rotativo hasta juntar tres.
+function elegirTeasers(indiceExcluido) {
+  const mesActual = new Date().getMonth() + 1;
+
+  const delMes = EVENTOS
+    .map((ev, i) => ({ ev, i }))   // guardamos cada evento con su posición
+    .filter(x => x.i !== indiceExcluido && partesDeFecha(x.ev.fecha).mes === mesActual)
+    .sort((a, b) => partesDeFecha(a.ev.fecha).dia - partesDeFecha(b.ev.fecha).dia);
+
+  const elegidos = delMes.slice(0, 3);
+  const huboDelMes = elegidos.length > 0;
+
+  let paso = 0;
+  while (elegidos.length < 3 && paso < EVENTOS.length) {
+    const i = (diaDelAnio() * 7 + paso * 3) % EVENTOS.length;
+    paso++;
+    if (i === indiceExcluido || elegidos.some(x => x.i === i)) continue;
+    elegidos.push({ ev: EVENTOS[i], i });
+  }
+  return { elegidos, huboDelMes };
+}
+
+function mostrarPortada() {
+  const hoy = new Date();
+
+  // El cabezal vuelve al presente
+  document.getElementById("edicion-fecha").textContent =
+    `${hoy.getDate()} de ${MESES[hoy.getMonth()]} de ${hoy.getFullYear()}`;
+  document.getElementById("edicion-numero").textContent = "Portada";
+
+  // La destacada, con su etiqueta
+  const { indice, esEfemeride } = elegirDestacada();
+  const ev = EVENTOS[indice];
+  const anios = hoy.getFullYear() - partesDeFecha(ev.fecha).anio;
+  const etiqueta = esEfemeride
+    ? `Un día como hoy · hace ${anios} años`
+    : "De nuestro archivo";
+
+  // Los recortes del mes
+  const { elegidos, huboDelMes } = elegirTeasers(indice);
+  const tituloTeasers = huboDelMes
+    ? `También en ${MESES[hoy.getMonth()]}, en la historia`
+    : "De las portadas del archivo";
+
+  const teasersHTML = elegidos.map(x => {
+    // Recortamos la bajada a ~120 letras, cuidando no cortar
+    // una palabra por la mitad (el replace saca la última
+    // palabra incompleta).
+    const recorte = x.ev.bajada.length > 120
+      ? x.ev.bajada.slice(0, 117).replace(/\s+\S*$/, "") + "…"
+      : x.ev.bajada;
+    return `
+      <button class="teaser" data-indice="${x.i}">
+        <span class="fecha-teaser">${fechaLarga(x.ev.fecha)}</span>
+        <span class="titulo-teaser">${x.ev.corto}</span>
+        <span class="recorte">${recorte}</span>
+      </button>`;
+  }).join("");
+
+  document.getElementById("nota").innerHTML = `
+    <div style="text-align:center"><span class="etiqueta">${etiqueta}</span></div>
+    <div class="volanta">${ev.volanta}</div>
+    <h2>${ev.titulo}</h2>
+    <p class="bajada">${ev.bajada}</p>
+    <div class="dateline">${ev.lugar}, ${fechaLarga(ev.fecha)}</div>
+    <figure class="grabado">
+      <img src="img/${ev.fecha}.jpg" alt="${ev.corto}"
+           onerror="this.parentElement.style.display='none'">
+      <figcaption>${ev.corto} — de los archivos ilustrados de este diario (Wikimedia Commons)</figcaption>
+    </figure>
+    <div class="cuerpo cuerpo-uno"><p>${ev.cuerpo[0]}</p></div>
+    <div class="seguir"><button id="seguir-leyendo">Seguir leyendo esta edición ⟶</button></div>
+    <section class="teasers">
+      <div class="titulo-seccion">${tituloTeasers}</div>
+      <div class="teaser-grid">${teasersHTML}</div>
+    </section>
+  `;
+
+  // El botón de la tapa abre la noticia completa (conservando la
+  // etiqueta), y cada recorte abre la suya.
+  document.getElementById("seguir-leyendo")
+    .addEventListener("click", () => mostrarNota(indice, etiqueta));
+  document.querySelectorAll(".teaser").forEach(boton =>
+    boton.addEventListener("click", () => mostrarNota(parseInt(boton.dataset.indice), null)));
+
+  // En la portada, ninguna noticia del archivo está "activa"
+  document.querySelectorAll(".evento.activo").forEach(e => e.classList.remove("activo"));
+  window.scrollTo({ top: 0 });
+}
+
+// ------------------------------------------------------------
+// 2) Dibujar la nota elegida
+// ------------------------------------------------------------
+function mostrarNota(indice, etiqueta) {
+  const ev = EVENTOS[indice];
+
+  // La fecha del cabezal pasa a ser la del día histórico:
+  // el diario entero "viaja" a esa fecha. A la izquierda queda
+  // el enlace para volver a la portada (al presente).
+  document.getElementById("edicion-fecha").textContent = fechaLarga(ev.fecha);
+  document.getElementById("edicion-numero").innerHTML =
+    `<a href="#" class="volver">◂ Portada</a> &nbsp;·&nbsp; Edición N.º ${indice + 1} de ${EVENTOS.length}`;
+  document.querySelector("#edicion-numero .volver").addEventListener("click", e => {
+    e.preventDefault(); // que el "#" no haga saltar la página
+    mostrarPortada();
+  });
+
+  // Armamos el HTML de la nota. map() convierte cada párrafo
+  // en "<p>...</p>" y join() los pega todos en un solo texto.
+  const parrafos = ev.cuerpo.map(p => `<p>${p}</p>`).join("");
+  const etiquetaHTML = etiqueta ? `<div style="text-align:center"><span class="etiqueta">${etiqueta}</span></div>` : "";
+
+  // El grabado: buscamos una imagen llamada como la fecha
+  // (img/1816-07-09.jpg). Si no existe, "onerror" esconde el
+  // marco entero y la nota queda solo con texto. Así se pueden
+  // agregar noticias sin imagen sin que se rompa nada.
+  const grabadoHTML = `
+    <figure class="grabado">
+      <img src="img/${ev.fecha}.jpg" alt="${ev.corto}"
+           onerror="this.parentElement.style.display='none'">
+      <figcaption>${ev.corto} — de los archivos ilustrados de este diario (Wikimedia Commons)</figcaption>
+    </figure>`;
+
+  // La secuela ("la historia continuó"): solo si la noticia
+  // tiene el campo "secuela" en noticias.js. Es la noticia del
+  // día siguiente o el desenlace, como un recorte al pie.
+  let secuelaHTML = "";
+  if (ev.secuela) {
+    const s = ev.secuela;
+    secuelaHTML = `
+      <aside class="secuela">
+        <div class="marbete">La historia continuó</div>
+        <h3>${s.titulo}</h3>
+        <div class="dateline">${s.lugar}, ${fechaLarga(s.fecha)}</div>
+        ${s.cuerpo.map(p => `<p>${p}</p>`).join("")}
+      </aside>`;
+  }
+
+  document.getElementById("nota").innerHTML = `
+    ${etiquetaHTML}
+    <div class="volanta">${ev.volanta}</div>
+    <h2>${ev.titulo}</h2>
+    <p class="bajada">${ev.bajada}</p>
+    <div class="dateline">${ev.lugar}, ${fechaLarga(ev.fecha)}</div>
+    ${grabadoHTML}
+    <div class="cuerpo">${parrafos}</div>
+    ${secuelaHTML}
+    <div class="fin-nota">❦</div>
+  `;
+
+  // Marcar la noticia activa en el archivo y, de paso,
+  // asegurarnos de que su década esté desplegada.
+  document.querySelectorAll(".evento").forEach(item => {
+    const esLaActiva = parseInt(item.dataset.indice) === indice;
+    item.classList.toggle("activo", esLaActiva);
+    if (esLaActiva) item.closest(".decada").classList.add("abierta");
+  });
+
+  // En el celular, elegida la noticia, el archivo se cierra solo
+  // (en escritorio el cajón se guarda cuando el mouse se retira).
+  if (window.innerWidth <= 800) {
+    document.querySelector(".archivo").classList.remove("fijado");
+  }
+
+  // Y arrancamos la lectura desde arriba de la página
+  window.scrollTo({ top: 0 });
+}
+
+// ------------------------------------------------------------
+// 3) Construir el archivo: décadas que se despliegan en noticias
+// ------------------------------------------------------------
+function armarArchivo() {
+  const lista = document.getElementById("archivo-lista");
+
+  // Paso 1: agrupar los eventos por década.
+  // Math.floor(1816 / 10) * 10 = 1810 -> "década de 1810".
+  // "grupos" queda como { 1810: [3,4,5], 1940: [9,10], ... }
+  // (los números son las posiciones de cada evento en EVENTOS)
+  const grupos = {};
+  EVENTOS.forEach((ev, i) => {
+    const decada = Math.floor(partesDeFecha(ev.fecha).anio / 10) * 10;
+    if (!grupos[decada]) grupos[decada] = [];
+    grupos[decada].push(i);
+  });
+
+  // Paso 2: crear un bloque plegable por cada década, en orden.
+  Object.keys(grupos).sort((a, b) => a - b).forEach(decada => {
+    const indices = grupos[decada];
+
+    const bloque = document.createElement("div");
+    bloque.className = "decada";
+
+    // El botón de la década: flecha + nombre + cantidad de notas
+    const botonDecada = document.createElement("button");
+    botonDecada.innerHTML = `
+      <span>Década de ${decada}</span>
+      <span class="cantidad">${indices.length}</span>
+      <span class="flecha">▶</span>
+    `;
+    // Abrir/cerrar: solo agrega o saca la clase "abierta";
+    // el CSS hace el resto (muestra u oculta la lista).
+    botonDecada.addEventListener("click", () => {
+      bloque.classList.toggle("abierta");
+    });
+    bloque.appendChild(botonDecada);
+
+    // La lista de noticias de esa década
+    const ul = document.createElement("ul");
+    ul.className = "lista-eventos";
+    indices.forEach(i => {
+      const ev = EVENTOS[i];
+      const li = document.createElement("li");
+      li.className = "evento";
+      li.dataset.indice = i;   // guardamos la posición para encontrarla después
+
+      const botonEvento = document.createElement("button");
+      botonEvento.title = ev.titulo;
+      botonEvento.innerHTML =
+        `<span class="anio">${partesDeFecha(ev.fecha).anio}</span> · <span class="corto">${ev.corto}</span>`;
+      botonEvento.addEventListener("click", () => mostrarNota(i, null));
+
+      li.appendChild(botonEvento);
+      ul.appendChild(li);
+    });
+    bloque.appendChild(ul);
+
+    lista.appendChild(bloque);
+  });
+}
+
+// ------------------------------------------------------------
+// Arranque: primero ordenamos el archivo por fecha, así en
+// noticias.js las noticias nuevas se agregan al final sin
+// preocuparse por el orden (las fechas "AAAA-MM-DD" se ordenan
+// bien comparándolas como texto). Después armamos todo.
+// ------------------------------------------------------------
+EVENTOS.sort((a, b) => a.fecha.localeCompare(b.fecha));
+armarArchivo();
+
+// El nombre del diario siempre lleva de vuelta a la portada
+const nombreDiario = document.querySelector(".cabezal h1");
+nombreDiario.title = "Volver a la portada";
+nombreDiario.addEventListener("click", mostrarPortada);
+
+// La pestaña del archivo: con el mouse alcanza pasar por encima
+// (eso lo hace el CSS); el clic lo deja FIJADO abierto (o lo
+// vuelve a cerrar). En pantallas táctiles el clic es la única vía.
+document.getElementById("archivo-tab").addEventListener("click", () => {
+  document.querySelector(".archivo").classList.toggle("fijado");
+});
+
+mostrarPortada();
+</script>
+
+</body>
+</html>
