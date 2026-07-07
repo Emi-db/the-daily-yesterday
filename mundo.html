@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Daily Yesterday — El Mundo / The World</title>
+
+<!-- Las mismas tipografías y estilos que el resto del diario -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:ital,wght@0,700;0,900;1,600&family=Old+Standard+TT:ital@0;1&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+<div class="hoja">
+
+  <!-- ================= CABEZAL ================= -->
+  <header class="cabezal">
+    <div class="fila-superior">
+      <span>Fundado en el porvenir</span>
+      <span>Precio: dos reales</span>
+    </div>
+    <h1 onclick="location.href='index.html'" title="Ir al archivo histórico">The Daily Yesterday</h1>
+    <p class="lema">« Todas las noticias de todos los ayeres »</p>
+    <div class="filete-doble"></div>
+    <nav class="cintillo">
+      <a href="index.html">El Archivo Histórico</a>
+      <span class="sep">·</span>
+      <a href="hoy.html">La Edición de Hoy</a>
+      <span class="sep">·</span>
+      <a href="mundo.html" class="actual">El Mundo</a>
+    </nav>
+    <div class="linea-edicion">
+      <span id="edicion-numero">La Edición Internacional</span>
+      <a href="#" id="cambiar-idioma">Read in English</a>
+      <span id="edicion-fecha"></span>
+    </div>
+  </header>
+
+  <!-- ================= LA EDICIÓN ================= -->
+  <main class="nota" id="edicion-del-dia">
+    <!-- se completa con JS leyendo edicion_mundo.js -->
+  </main>
+
+  <footer id="pie-mundo">
+    Los titulares y resúmenes pertenecen a sus respectivos medios; cada nota enlaza a la fuente original.
+    <span id="pie-generada"></span>
+  </footer>
+
+</div>
+
+<!-- Los datos (los genera generar_edicion.py: {es: {...}, en: {...}}).
+     El "?v=fecha" evita que el navegador muestre la edición de
+     ayer desde su caché: cada día pide el archivo fresco. -->
+<script>
+  document.write('<script src="edicion_mundo.js?v=' + new Date().toISOString().slice(0, 10) + '"><\/script>');
+</script>
+
+<!-- ...y la lógica que los muestra, en el idioma elegido. -->
+<script>
+// ============================================================
+//  LA EDICIÓN INTERNACIONAL, en dos idiomas
+//  No traducimos nada: edicion_mundo.js trae DOS ediciones
+//  completas (es/en) hechas con medios de cada idioma. Acá solo
+//  elegimos cuál mostrar. La elección queda guardada en
+//  localStorage (una memoria chiquita del navegador) para que
+//  la próxima visita arranque en el mismo idioma.
+// ============================================================
+
+// Los textos fijos de la página, en cada idioma
+const TEXTOS = {
+  es: {
+    tituloEdicion: "La Edición Internacional",
+    volantaTapa: "La noticia del día",
+    fuente: "Fuente",
+    leer: "Leer la nota completa en",
+    cierre: "Edición cerrada a las",
+    pie: "Los titulares y resúmenes pertenecen a sus respectivos medios; cada nota enlaza a la fuente original.",
+    botonIdioma: "Read in English",
+    vacio: "La edición de hoy todavía no salió de la imprenta.<br>(Hay que correr <b>generar_edicion.py</b> para imprimirla.)"
+  },
+  en: {
+    tituloEdicion: "The World Edition",
+    volantaTapa: "Top story",
+    fuente: "Source",
+    leer: "Read the full story at",
+    cierre: "Edition closed at",
+    pie: "Headlines and summaries belong to their respective outlets; every story links to the original source.",
+    botonIdioma: "Leer en español",
+    vacio: "Today's edition hasn't left the printing press yet.<br>(Run <b>generar_edicion.py</b> to print it.)"
+  }
+};
+
+// El idioma guardado de la visita anterior, o español de entrada
+let idioma = localStorage.getItem("idioma-mundo") || "es";
+
+function armarEdicionMundo() {
+  const t = TEXTOS[idioma];
+  const contenedor = document.getElementById("edicion-del-dia");
+
+  // Textos fijos del cabezal y el pie
+  document.documentElement.lang = idioma;
+  document.getElementById("edicion-numero").textContent = t.tituloEdicion;
+  document.getElementById("cambiar-idioma").textContent = t.botonIdioma;
+  document.getElementById("pie-mundo").firstChild.textContent = t.pie + " ";
+
+  if (typeof EDICION_MUNDO === "undefined" || !EDICION_MUNDO[idioma] ||
+      EDICION_MUNDO[idioma].secciones.length === 0) {
+    contenedor.innerHTML = `<div class="aviso-sin-edicion">${t.vacio}</div>`;
+    return;
+  }
+
+  const edicion = EDICION_MUNDO[idioma];
+  document.getElementById("edicion-fecha").textContent = edicion.fecha;
+  document.getElementById("pie-generada").textContent = `${t.cierre} ${edicion.generada}.`;
+
+  // ---- La nota de tapa: la primera de la primera sección ----
+  const tapa = edicion.secciones[0].notas[0];
+  let html = `
+    <section class="destacada-dia">
+      <div class="volanta">${edicion.secciones[0].nombre} · ${t.volantaTapa}</div>
+      <h2>${tapa.titulo}</h2>
+      <p class="bajada">${tapa.resumen}</p>
+      <div class="dateline">${t.fuente}: ${tapa.fuente}</div>
+      <div class="seguir">
+        <a class="leer-fuente" href="${tapa.link}" target="_blank" rel="noopener">
+          ${t.leer} ${tapa.fuente} ⟶
+        </a>
+      </div>
+    </section>`;
+
+  // ---- Las secciones, cada una con sus notas en columnas ----
+  edicion.secciones.forEach((seccion, numeroSeccion) => {
+    const notas = numeroSeccion === 0 ? seccion.notas.slice(1) : seccion.notas;
+    if (notas.length === 0) return;
+
+    const notasHTML = notas.map(nota => `
+      <a class="nota-dia" href="${nota.link}" target="_blank" rel="noopener">
+        <h4>${nota.titulo}</h4>
+        <p class="resumen">${nota.resumen}</p>
+        <span class="fuente">${nota.fuente}</span>
+      </a>`).join("");
+
+    html += `
+      <section class="seccion-dia">
+        <div class="titulo-seccion">${seccion.nombre}</div>
+        <div class="grilla-dia">${notasHTML}</div>
+      </section>`;
+  });
+
+  contenedor.innerHTML = html;
+}
+
+// El botón de idioma: cambia, guarda la elección y redibuja
+document.getElementById("cambiar-idioma").addEventListener("click", e => {
+  e.preventDefault();
+  idioma = idioma === "es" ? "en" : "es";
+  localStorage.setItem("idioma-mundo", idioma);
+  armarEdicionMundo();
+  window.scrollTo({ top: 0 });
+});
+
+armarEdicionMundo();
+</script>
+
+</body>
+</html>
