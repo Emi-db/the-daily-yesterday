@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- El ícono del diario: una "Y" de tinta sobre papel viejo -->
+  <rect x="2" y="2" width="60" height="60" rx="10" fill="#f0e6d0" stroke="#26201a" stroke-width="3"/>
+  <line x1="12" y1="14" x2="52" y2="14" stroke="#8d2b1e" stroke-width="3"/>
+  <text x="32" y="50" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-style="italic" font-size="40" fill="#26201a">Y</text>
+</svg>
