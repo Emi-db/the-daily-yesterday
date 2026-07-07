@@ -1,0 +1,39 @@
+# ============================================================
+#  LA IMPRENTA EN LA NUBE
+#  GitHub Actions: todos los días a las 10:00 UTC (07:00 de
+#  Argentina), GitHub presta una computadora que corre la
+#  imprenta y guarda la edición nueva en el repositorio.
+#  Como el sitio se sirve desde el repositorio, el diario
+#  amanece actualizado sin que ninguna PC nuestra esté prendida.
+# ============================================================
+name: Edición diaria
+
+on:
+  schedule:
+    - cron: "0 10 * * *"     # minuto 0, hora 10 UTC, todos los días
+  workflow_dispatch:          # botón para dispararla a mano (para probar)
+
+permissions:
+  contents: write             # permiso para guardar la edición en el repo
+
+jobs:
+  imprimir:
+    runs-on: ubuntu-latest
+    steps:
+      # 1) Traer el repositorio a la computadora prestada
+      - uses: actions/checkout@v4
+
+      # 2) Python ya viene instalado en ubuntu-latest, y nuestra
+      #    imprenta usa solo la biblioteca estándar: directo a imprimir.
+      - name: Generar la edición del día
+        run: python generar_edicion.py
+
+      # 3) Guardar edicion.js y edicion_mundo.js en el repositorio
+      #    (solo si hay cambios; si los feeds fallaran, no rompe nada)
+      - name: Guardar la edición
+        run: |
+          git config user.name "La Imprenta"
+          git config user.email "imprenta@thedailyyesterday.com"
+          git add edicion.js edicion_mundo.js
+          git diff --cached --quiet || git commit -m "Edición del día"
+          git push
