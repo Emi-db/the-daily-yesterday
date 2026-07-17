@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "3 de julio de 2026",
-    "generada": "16:56",
+    "fecha": "17 de julio de 2026",
+    "generada": "18:49",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "\"Me da miedo lo que voy a ver allá dentro\": BBC Mundo visita la morgue improvisada de Los Silos, donde los cadáveres se acumulan al aire libre tras los terremotos en Venezuela",
-            "link": "https://www.bbc.com/mundo/articles/c4gyjxxdkxno?at_medium=RSS&at_campaign=rss",
-            "resumen": "En una morgue improvisada en La Guaira, decenas de familias enfrentan un proceso doloroso y prolongado para identificar a sus seres queridos tras los devastadores terremotos. La mayoría de los rostros son irreconocibles.",
+            "titulo": "Vuelo 901: las incógnitas que rodean el caso del avión derribado por un atacante suicida en Panamá un día después del atentado a la AMIA en Argentina",
+            "link": "https://www.bbc.com/mundo/articles/cly09e1eddwo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Tras más de tres décadas de incógnitas e impunidad, el esclarecimiento del caso parece hoy más probable que nunca. Con un imputado extraditado desde Venezuela y que Israel vincula a Hezbolá, la Fiscalía panameña lo investiga como \"un acto…",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "El Papa ensalza las “oleadas de inmigrantes” que construyeron EE UU en un mensaje para su 250 aniversario",
-            "link": "https://elpais.com/internacional/2026-07-03/el-papa-ensalza-las-oleadas-de-inmigrantes-que-construyeron-ee-uu-en-un-mensaje-para-su-250-aniversario.html",
-            "resumen": "El Pontífice, que pasará el día de la conmemoración en la isla de Lampedusa, dice que “la grandeza moral de una nación se manifiesta en su capacidad para proteger a los más vulnerables”",
+            "titulo": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota",
+            "link": "https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html",
+            "resumen": "El presidente desclasifica información en parte ya conocida y no vinculante, que incluye archivos de la CIA sobre Venezuela. El republicano está en una cruzada para arrojar dudas sobre las ‘midterms’, en las que los suyos llevan las de…",
             "fuente": "El País"
           },
           {
-            "titulo": "Australia: millones de conejos amenazan uno de los ecosistemas más frágiles del planeta",
-            "link": "https://www.france24.com/es/programas/en-foco/20260703-australia-millones-de-conejos-amenazan-uno-de-los-ecosistemas-m%C3%A1s-fr%C3%A1giles-del-planeta",
-            "resumen": "Lo que para millones de personas es una mascota, en Australia se ha convertido en una de las mayores amenazas para la biodiversidad. Introducidos por colonos británicos en el siglo XIX para la caza deportiva, los conejos se reprodujeron…",
+            "titulo": "La reforma migratoria de Kast en Chile: ¿control fronterizo o criminalización de la migración?",
+            "link": "https://www.france24.com/es/programas/enlace/20260717-la-reforma-migratoria-de-kast-en-chile-control-fronterizo-o-criminalizaci%C3%B3n-de-la-migraci%C3%B3n",
+            "resumen": "El Gobierno de José Antonio Kast impulsa una profunda reforma migratoria con la que busca reforzar el control fronterizo, acelerar las expulsiones de migrantes en situación irregular y penalizar el ingreso clandestino a Chile. La…",
             "fuente": "France 24"
           },
           {
-            "titulo": "\"Los terremotos marcan a los países durante décadas y las consecuencias emocionales se llevan para siempre\"",
-            "link": "https://www.bbc.com/mundo/articles/cvge0vnwgzno?at_medium=RSS&at_campaign=rss",
-            "resumen": "La portavoz de la Cruz Roja Internacional, Susana Arroyo, habla con BBC Mundo desde La Guaira, donde los equipos de ayuda intentan atender las necesidades básicas de los damnificados.",
+            "titulo": "Un terremoto de magnitud 7,3 sacude la costa del Pacífico frente a México y Guatemala",
+            "link": "https://www.bbc.com/mundo/articles/c2046pq84vpo?at_medium=RSS&at_campaign=rss",
+            "resumen": "El sismo ocurrió minutos antes de 9 de la mañana (hora local) cerca de la ciudad de Tapachula, México.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Delcy Rodríguez culpa a “laboratorios mediáticos” del caos en las primeras horas tras el doble terremoto en Venezuela",
-            "link": "https://elpais.com/america/2026-07-03/delcy-rodriguez-culpa-a-laboratorios-mediaticos-del-caos-en-las-primeras-horas-tras-el-doble-terremoto-en-venezuela.html",
-            "resumen": "La presidenta encargada de Venezuela defiende su gestión y niega que el despliegue de rescate fuera lento o insuficiente",
+            "titulo": "China tacha de “invenciones” las acusaciones de Trump sobre su supuesta injerencia en las elecciones de 2020",
+            "link": "https://elpais.com/internacional/2026-07-17/china-tacha-de-invenciones-las-acusaciones-de-trump-sobre-su-supuesta-injerencia-en-las-elecciones-de-2020.html",
+            "resumen": "Las declaraciones del líder estadounidense, cargando directamente contra Pekín, amenazan con enturbiar la relación bilateral antes del próximo encuentro entre el republicano y Xi",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "El paro de los extranjeros repunta ligeramente en plena regularización, pese a que casi siempre retrocede en junio",
-            "link": "https://elpais.com/economia/2026-07-03/el-paro-de-los-extranjeros-repunta-ligeramente-en-plena-regularizacion-pese-a-que-casi-siempre-retrocede-en-junio.html",
-            "resumen": "El Gobierno dice que unos 160.000 extranjeros regularizados son nuevos afiliados a la Seguridad Social, pero cree que es pronto para precisar cuántos se han apuntado al desempleo",
+            "titulo": "Bruselas plantea acabar con los subsidios a los combustibles fósiles y extender la vida de las nucleares",
+            "link": "https://elpais.com/economia/2026-07-17/bruselas-plantea-acabar-con-los-subsidios-a-los-combustibles-fosiles-y-extender-la-vida-de-las-nucleares.html",
+            "resumen": "La Comisión Europea presenta un plan de acción para intensificar la electrificación de Europa que aboga por prolongar la actividad de plantas como la de Almaraz",
             "fuente": "El País"
           },
           {
-            "titulo": "Von der Leyen pide nuevos ingresos para evitar recortes de hasta el 40% en la UE",
-            "link": "https://www.expansion.com/economia/2026/07/03/6a47e55ce5fdead50d8b45c4.html",
-            "resumen": "La presidenta de la Comisión Europea hace un llamamiento a que los países acuerden vías para lograr nuevos recursos propios que alimenten el presupuesto comunitario. Leer",
+            "titulo": "Continúa la crisis en la cúpula de la AEAT: cesan a la directora de Recursos Humanos",
+            "link": "https://www.expansion.com/economia/2026/07/17/6a59eecae5fdea9c408b459c.html",
+            "resumen": "María Consuelo Sánchez deja el cargo tras la salida de Soledad Fernández Doctor como directora general. Celso González toma el relevo como director de Recursos Humanos desde este viernes. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "El Gobierno fija el 5 de noviembre para el lanzamiento de la TDT en ultra alta definición y el nuevo canal ‘SIETE’",
-            "link": "https://elpais.com/economia/2026-07-03/el-gobierno-fija-el-5-de-noviembre-para-el-lanzamiento-de-la-tdt-en-ultra-alta-definicion-y-el-nuevo-canal-siete.html",
-            "resumen": "Los usuarios tendrán que resintonizar varios canales como Clan, DKISS, Atreseries, BeMad y Boing",
+            "titulo": "Madrid concentra el 21% de la inversión estatal ejecutada y Cataluña baja al 8,6%",
+            "link": "https://elpais.com/economia/2026-07-17/madrid-concentra-el-21-de-la-inversion-estatal-ejecutada-y-cataluna-baja-al-86.html",
+            "resumen": "La Generalitat pierde peso en la inversión realizada por el Estado en pleno debate sobre la financiación autonómica",
             "fuente": "El País"
           },
           {
-            "titulo": "Las hijas de Andic mantienen que Jonathan había pactado con su padre salir de Mango",
-            "link": "https://www.expansion.com/catalunya/2026/07/03/6a47c7f7e5fdea9e088b4591.html",
-            "resumen": "Tras declarar ante la juez, las dos hijas del fundador de la empresa de moda han reiterado su \"absoluta convicción respecto a la inocencia de su hermano\". Leer",
+            "titulo": "La banca gana un récord de 18.000 millones por el dinamismo comercial",
+            "link": "https://www.expansion.com/empresas/banca/2026/07/17/6a593fe6468aeba6138b457a.html",
+            "resumen": "Las ganancias conjuntas de los seis bancos cotizados habrían aumentado alrededor de un 5,5%. El sector tiene a tiro cerrar su quinto año récord consecutivo. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Hacienda recauda 24.721 millones en la campaña de la renta, un 20% más",
-            "link": "https://elpais.com/economia/2026-07-03/hacienda-recauda-24721-millones-en-la-campana-de-la-renta-un-20-mas.html",
-            "resumen": "Más de 50.000 contribuyentes rectificaron su declaración para evitar comprobaciones y sanciones, según los datos provisionales difundidos por la Agencia Tributaria",
+            "titulo": "Los trabajadores que se incorporen ahora al mercado trabajarán de media casi 37 años, dos más que en 2015",
+            "link": "https://elpais.com/economia/2026-07-17/los-trabajadores-que-se-incorporen-ahora-al-mercado-trabajaran-de-media-casi-37-anos-dos-mas-que-en-2015.html",
+            "resumen": "El avance español es uno de los más bajos de la Unión Europea, según las proyecciones de Eurostat. La carrera más larga corresponde a los holandeses, con 44 años",
             "fuente": "El País"
           }
         ]
@@ -78,33 +78,33 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "Ratones y humanos olfatean igual",
-            "link": "https://elpais.com/ciencia/2026-07-03/ratones-y-humanos-olfatean-igual.html",
-            "resumen": "Dos estudios diferentes encuentran resultados similares: los roedores también huelen de una vez y las personas procesan los olores como los animales",
+            "titulo": "Dos asteroides reciben la visita inédita de sondas espaciales en una semana",
+            "link": "https://elpais.com/ciencia/2026-07-17/dos-asteroides-reciben-la-visita-inedita-de-sondas-espaciales-en-una-semana.html",
+            "resumen": "La nave china Tianwen 2 y la japonesa Hayabusa 2 han transmitido fotografías e información de estos pequeños mundos",
             "fuente": "El País"
           },
           {
-            "titulo": "El lenguaje de los otros animales: Cómo la IA nos está ayudando a entender la comunicación en otras especies",
-            "link": "https://elpais.com/tecnologia/2026-07-03/el-lenguaje-de-los-otros-animales-como-la-ia-nos-esta-ayudando-a-entender-la-comunicacion-en-otras-especies.html",
-            "resumen": "Hemos dado el paso de querer que los animales entiendan lenguaje humano, a querer entender cómo se comunican entre ellos, ¿Estamos dispuestos a escuchar lo que tengan que decir?",
+            "titulo": "Kimi K3, la IA china que ha puesto en guardia a Silicon Valley",
+            "link": "https://elpais.com/tecnologia/2026-07-17/kimi-k3-la-ia-china-que-ha-puesto-en-guardia-a-silicon-valley.html",
+            "resumen": "El nuevo modelo, el mayor del mundo de código abierto, vuelve a colocar a China en la carrera por liderar los avances de esta tecnología",
             "fuente": "El País"
           },
           {
-            "titulo": "Rescate en el espacio: despega la misión de emergencia para salvar un telescopio de la NASA",
-            "link": "https://elpais.com/ciencia/2026-07-03/rescate-en-el-espacio-despega-la-mision-de-emergencia-para-salvar-un-telescopio-de-la-nasa.html",
-            "resumen": "La empresa Katalyst ha diseñado y lanzado, en solo nueve meses, un robot que deberá atrapar el observatorio espacial ‘Swift’ y subirlo a una órbita más alta antes de que la atmósfera terrestre lo engulla",
+            "titulo": "¿Qué ciencia puede realizarse con 50.000 euros al año?",
+            "link": "https://elpais.com/ciencia/2026-07-17/que-ciencia-puede-realizarse-con-50000-euros-al-ano.html",
+            "resumen": "“Esta limitación presupuestaria dificulta afrontar los experimentos complejos que hoy exige buena parte de la investigación en múltiples campos”, denuncian los autores",
             "fuente": "El País"
           },
           {
-            "titulo": "Las notas de la comunidad de X no funcionan con la política: “No mitigan los riesgos que generan en los procesos electorales”",
-            "link": "https://elpais.com/tecnologia/2026-07-01/las-notas-de-la-comunidad-de-x-no-funcionan-con-la-politica-no-mitigan-los-riesgos-que-generan-en-los-procesos-electorales.html",
-            "resumen": "Una nueva investigación muestra la utilidad de este sistema de lucha contra la desinformación, pero detecta su fracaso en momentos polarizados como unas elecciones",
+            "titulo": "Pedofilia en ‘streaming’, gran mercado de tarjetas robadas y más pequeña de lo que parece: así es la ‘dark web’",
+            "link": "https://elpais.com/tecnologia/2026-07-17/pedofilia-en-streaming-gran-mercado-de-tarjetas-robadas-y-mas-pequena-de-lo-que-parece-asi-es-la-dark-web.html",
+            "resumen": "Un grupo de investigadores españoles aclara en un nuevo estudio cuánto material delictivo original hay en el rincón más profundo de internet",
             "fuente": "El País"
           },
           {
-            "titulo": "Cataluña impulsa una investigación sobre los efectos del eclipse solar en el cuerpo humano",
-            "link": "https://elpais.com/ciencia/2026-07-03/cataluna-impulsa-una-investigacion-sobre-los-efectos-del-eclipse-solar-en-el-cuerpo-humano.html",
-            "resumen": "El Govern busca 5.000 voluntarios en la experiencia bautizada como Solaris, para recopilar datos biométricos durante el fenómeno del 12 de agosto",
+            "titulo": "La ratopina reina con su olor: hallan la molécula con la que bloquea la fertilidad de otras hembras",
+            "link": "https://elpais.com/ciencia/2026-07-16/la-ratopina-reina-con-su-olor-hallan-la-molecula-con-la-que-bloquea-la-fertilidad-de-otras-hembras.html",
+            "resumen": "Un estudio identifica la señal química con la que la líder mantiene su dominio en la reproducción y altera las hormonas de la colonia",
             "fuente": "El País"
           }
         ]
@@ -113,74 +113,74 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "El truco del MVP",
-            "link": "https://www.marca.com/futbol/mundial/2026/07/03/razon-grandes-estrellas-mundial-son-elegidas-mvp-pesar-partido.html",
-            "resumen": "En determinados encuentros, el galardón ha sido cuestionado por la persona que lo ha recibido&nbsp;",
+            "titulo": "La selección española por comunidades autónomas: de dónde es cada jugador y cuál aporta más a España",
+            "link": "https://www.marca.com/futbol/mundial/2026/07/17/seleccion-espanola-comunidades-autonomas-jugador-aporta-espana.html",
+            "resumen": "Los jugadores que aporta cada uno de los territorios de España a 'La Roja'",
             "fuente": "Marca"
           },
           {
-            "titulo": "Cuatro ausencias de peso en la sesión antes de viajar a Dallas, pero sin alarmismo",
-            "link": "https://www.mundodeportivo.com/seleccion-espanola/20260703/1004202548/cuatro-ausencias-peso-sesion-viajar-dallas-alarmismo.html",
-            "resumen": "La selección española ha vuelto este lunes al trabajo tras superar a Austria en los dieciseisavos de final del Mundial . El equipo de Luis de la Fuente se ha ejercitado en el Dignity Health Sports Park, el estadio de Los Angeles Galaxy,…",
+            "titulo": "Lamine y Porro, parte del trabajo con el grupo",
+            "link": "https://www.mundodeportivo.com/seleccion-espanola/20260717/1004207587/lamine-yamal-porro-parte-trabajo-grupo.html",
+            "resumen": "Buenas noticias para la selección española a solo dos días de la final del Mundial. Lamine Yamal y Pedro Porro se han entrenado con el grupo en la parte colectiva de la sesión prevista por Luis de la Fuente , una señal muy positiva…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "El mensaje de Enzo horas después del \"no\" del Real Madrid",
-            "link": "https://www.marca.com/futbol/real-madrid/2026/07/03/mensaje-enzo-fernandez-horas-despues-real-madrid-dios-cumple-promesas.html",
-            "resumen": "El centrocampista argentino compartió un versículo bíblico en su Instagram horas después de que el club blanco desmintiera su interés en ficharlo",
+            "titulo": "¿Quién quieres que gane el Mundial? Prohibido votar a españoles y argentinos...",
+            "link": "https://www.marca.com/futbol/mundial/2026/07/17/espana-argentina-final-mundial-parte-planeta.html",
+            "resumen": "Selecciona entre las dos finalistas del partido del domingo",
             "fuente": "Marca"
           },
           {
-            "titulo": "\"Estoy 100% seguro de que no soy un genio; pero también 100% seguro de que no soy tonto\"",
-            "link": "https://www.marca.com/futbol/mundial/2026/07/03/ancelotti-confiesa-situacion-neymar-filosofia-le-llevado-ganar.html",
-            "resumen": "El seleccionador de Brasil abre las puertas a Folha do São Paulo para explicar su forma de entender el fútbol y la vida",
-            "fuente": "Marca"
-          },
-          {
-            "titulo": "La prensa croata tira de sarcasmo tras el doloroso KO ante Portugal",
-            "link": "https://www.mundodeportivo.com/futbol/mundial/20260703/1004202356/prensa-croata-tira-sarcasmo-matanovic-hubiera-sido-calvo.html",
-            "resumen": "Los aficionados y los medios croatas reaccionaron con indignación y dolor tras la eliminación de su selección en e l Mundial de Estados Unidos, México y Canadá , al caer 2-1 ante Portuga l en Toronto en un partido marcado por la polémica…",
+            "titulo": "El Barça no entra al trapo con Gil Marín y opta por esperar",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260717/1004207486/barca-no-entra-trapo-gil-marin-opta-esperar.html",
+            "resumen": "Coincidiendo con la madrugada de Estados Unidos, con la delegación del Barça en Nueva York para presenciar la final de este domingo entre España y Argentina, el Atlético de Madrid difundía un mensaje muy duro del CEO del Atlético de…",
             "fuente": "Mundo Deportivo"
+          },
+          {
+            "titulo": "Jorge Luis Borges: el argentino al que no gustaba el fútbol... y que entendía el fútbol",
+            "link": "https://www.marca.com/futbol/mundial/opinion/2026/07/17/jorge-luis-borges-argentino-gustaba-futbol-entendia-futbol.html",
+            "resumen": "",
+            "fuente": "Marca"
           }
         ]
       }
     ]
   },
   "en": {
-    "fecha": "July 3, 2026",
-    "generada": "16:56",
+    "fecha": "July 17, 2026",
+    "generada": "18:49",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
-            "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.",
+            "titulo": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
+            "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
             "fuente": "BBC"
           },
           {
-            "titulo": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
-            "link": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
-            "resumen": "Indian prime minister has a habit of collecting awards on his travels, some as their first and only recipient As Narendra Modi touched down in Seychelles over the weekend, the archipelago nation in the Indian Ocean swiftly bestowed one of…",
+            "titulo": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
+            "link": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
+            "resumen": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolation facility in ⁠Kenya after…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "It’s Day 1 of the Supreme Leader’s Funeral, and Allies Gather in Iran",
-            "link": "https://www.nytimes.com/2026/07/03/world/middleeast/iran-funeral-supreme-leader.html",
-            "resumen": "Foreign dignitaries paid their respects to Ayatollah Ali Khamenei on Friday as days of ceremonies got underway.",
+            "titulo": "Andy Burnham Becomes Labour Leader and Is Set to Be Britain’s Prime Minister",
+            "link": "https://www.nytimes.com/live/2026/07/17/world/uk-burnham-starmer-labour",
+            "resumen": "Mr. Burnham promised more public control of essential services, a shift of power toward local governments and a push for economic growth.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Polish PM warns critical months ahead in face of Russian threat",
-            "link": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack.",
+            "titulo": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+            "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+            "resumen": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
-            "link": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
-            "resumen": "Authorities say rainy season getting deadlier, with Ghana reporting 13 dead and floods hitting Benin, Togo and Nigeria Floods in Côte d’Ivoire have killed 59 people since May, the communication minister told a cabinet meeting in Abidjan.…",
+            "titulo": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
+            "link": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
+            "resumen": "Critics say Foreign Office figures send ‘global message about the role the country wants to play on international stage’ Labour’s foreign aid cuts mean reductions of as much as 90% in the bilateral support the UK will give to some African…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
-            "link": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Employers are being urged to use their \"common sense\" to allow staff to work flexibly where they can.",
+            "titulo": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
+            "link": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country.",
             "fuente": "BBC"
           },
           {
-            "titulo": "UK summer bookings jump as Britons put off overseas holidays by travel fears",
-            "link": "https://www.theguardian.com/business/2026/jul/03/uk-summer-bookings-jump-britons-ditch-overseas-holidays-for-staycations",
-            "resumen": "Reports of ‘stampede’ for stays near water amid concerns over cancelled flights, higher air fares and EU border delays Summer bookings at Britain’s hotels and holiday parks have jumped, compared with last year, as fears about flight…",
+            "titulo": "‘Laws were broken’: multistate effort to stop Paramount’s $111bn merger heads to court",
+            "link": "https://www.theguardian.com/media/2026/jul/17/paramount-warner-bros-merger",
+            "resumen": "Attorneys general from 12 states are suing to block the Paramount-Warner Bros deal they say violates antitrust law A last-ditch effort to block the merger between Paramount Skydance and Warner Bros Discovery (WBD) is heading to court as…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "David S. Doty, Judge Who Helped Shape the Modern N.F.L., Dies at 96",
-            "link": "https://www.nytimes.com/2026/07/03/sports/football/david-s-doty-dead.html",
-            "resumen": "He presided over the 1993 agreement that led to free agency and the salary cap, and for years oversaw the league’s disputes with its players.",
+            "titulo": "X and Music Publishers Retreat From Lawsuits",
+            "link": "https://www.nytimes.com/2026/07/17/arts/music/x-music-lawsuits.html",
+            "resumen": "Elon Musk’s social media platform and the music companies agreed to dismiss dueling claims, from 2023 and 2026. They have not said why.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "No-gift policy for Taylor Swift, but how much should you give at a wedding?",
-            "link": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Wedding lists are being replaced by cash requests, but guests are divided over how much to give.",
+            "titulo": "Five headaches Andy Burnham will have to deal with as PM",
+            "link": "https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&at_campaign=rss",
+            "resumen": "From defence spending to housing - the next UK leader has a series of challenges to deal with.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Starling Bank to cut 130 jobs and boost investment in AI to reduce costs",
-            "link": "https://www.theguardian.com/business/2026/jul/03/starling-bank-cuts-130-jobs-boosts-ai-investment",
-            "resumen": "The London-based fintech says restructuring is necessary to reduce ‘duplicate’ roles Business live – latest updates Starling Bank has said it will cut more than 100 jobs as it invests more heavily in artificial intelligence to push down…",
+            "titulo": "How do you actually shop local in New York City?",
+            "link": "https://www.theguardian.com/us-news/2026/jul/17/how-to-shop-local-nyc",
+            "resumen": "Shopping local ensures a future for cultures and communities, says Caroline Weaver, creator of the Locavore Guide digital directory When I signed the lease for my new apartment in Brooklyn, the relief of having survived the brutal New…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,34 +224,34 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Record-breaking temps in US as 4th July holiday begins",
-            "link": "https://www.bbc.co.uk/news/videos/cx2v1e9dpn9o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Record-breaking heatwave hits US as Fourth of July holiday weekend gets underway.",
+            "titulo": "EU proposes slowing down cuts to carbon emissions for businesses",
+            "link": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Under the proposals, the EU plans to relax its emissions trading system to give companies more time to reduce their carbon output.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Sitting for more than 30 minutes at a time linked to higher risk of cancer death",
-            "link": "https://www.theguardian.com/science/2026/jul/02/sitting-minutes-cancer-death-risk-study",
-            "resumen": "Study suggests even light activity such as ironing could reduce health risks linked to prolonged sedentary behaviour Sitting for longer than half an hour at a time each day raises the risk of dying from cancer, a study suggests.…",
+            "titulo": "Earth-like exoplanet found to have an atmosphere",
+            "link": "https://www.theguardian.com/science/2026/jul/16/atmosphere-lhs-1140b-exoplanet-could-water-scientists",
+            "resumen": "Scientists discover the first confirmed atmosphere around rocky planet outside our solar system that is within the habitable zone The search for life outside our solar system has taken another twist as researchers revealed they have…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "A Mission to Save NASA’s Swift Telescope Launches to Orbit",
-            "link": "https://www.nytimes.com/2026/07/03/science/nasa-swift-telescope-rescue-mission.html",
-            "resumen": "A refrigerator-size spacecraft will try to grab onto Swift and nudge it to a higher orbit, enabling it to continue observing powerful cosmic explosions.",
+            "titulo": "A Mathematical Tribute to the Soccer Ball",
+            "link": "https://www.nytimes.com/2026/07/17/science/mathematical-tribute-soccer-ball.html",
+            "resumen": "As the World Cup final approaches, take a moment to appreciate the beautiful symmetries of humanity’s favorite truncated icosahedron.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Statins helping people with obesity match those of healthy weight on key metrics, study finds",
-            "link": "https://www.theguardian.com/society/2026/jul/02/over-40s-obesity-normal-bmi-cholesterol-blood-pressure-study-finds",
-            "resumen": "Differences in unhealthy cholesterol levels and blood pressure found to have ‘narrowed or disappeared’ in over-40s Many adults living with obesity have “indistinguishable” cholesterol and blood pressure levels compared with those who are…",
+            "titulo": "US Republicans accuse Canada of wildfire inaction",
+            "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Canadian leader Mark Carney says both countries have a responsibility to fight climate change.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Brain implant helps paralysed man to feed himself and drink from cup",
+            "link": "https://www.theguardian.com/science/2026/jul/16/neural-bypass-brain-implant-paralysed-man-feed-himself-drink-from-cup",
+            "resumen": "Keith Thomas can move arms and hands, and feel sensation of touch after ‘double neural bypass’ and months of training A man who was paralysed from the chest down in a swimming accident six years ago has been able to feed himself and drink…",
             "fuente": "The Guardian"
-          },
-          {
-            "titulo": "Scientists React to the Lab-Made, Yet Lifelike, SpudCell",
-            "link": "https://www.nytimes.com/2026/07/02/science/spudcell-scientists-reaction.html",
-            "resumen": "This cell-like structure can grow, feed, divide and compete. Researchers ponder what it means for the future of synthetic biology and our definition of “life.”",
-            "fuente": "N.Y. Times"
           }
         ]
       },
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "England v Mexico set to move to earlier kick-off time",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cvgmz3jyq9qo?at_medium=RSS&at_campaign=rss",
-            "resumen": "England's World Cup last-16 tie with Mexico is set to be moved to 19:00 BST on Sunday because of the threat of storms.",
+            "titulo": "The 'ultimate all-round sportsman' - Sobers could do it all",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c2xx42dle4go?at_medium=RSS&at_campaign=rss",
+            "resumen": "Sir Garfield Sobers, who has died aged 89, was rightly chosen as one of the leading five cricketers of the 20th century - and will be remembered as arguably the best all-rounder in the history of the game.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Australia v Egypt: World Cup 2026 last 32 – live",
-            "link": "https://www.theguardian.com/football/live/2026/jul/03/australia-v-egypt-world-cup-2026-last-32-live",
-            "resumen": "⚽️ Kick-off time: 1pm local/2pm EDT/7pm BST/4am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Scott A message to all Australian fans who have got up early / talked the whole night through. And to think England fans are moaning…",
+            "titulo": "The Open 2026: Herbert and Burns shoot record-equalling 62s on day two at Royal Birkdale – live",
+            "link": "https://www.theguardian.com/sport/live/2026/jul/17/the-open-2026-day-two-updates-from-birkdale-live",
+            "resumen": "️Updates from the second round at Royal Birkdale ️ Official leaderboard | Mail David with your thoughts An opening birdie for the 2011 champion Darren Clarke. He’s +2. Apropos of nothing, and just because I happen to have the stat to…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Hamilton takes pole for Silverstone sprint race",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/c5yzw13683no?at_medium=RSS&at_campaign=rss",
-            "resumen": "Ferrari's Lewis Hamilton pips Mercedes' Kimi Antonelli to a stunning pole position for the sprint race at the British Grand Prix.",
+            "titulo": "Keep calm and carry on - Spain trust team identity to deliver World Cup",
+            "link": "https://www.bbc.co.uk/sport/football/articles/czxedvre7ryo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Former Spain captain Cesar Azpilicueta explains why Luis de la Fuente's side have confidence in the collective as they prepare for Sunday's World Cup final against Argentina.",
             "fuente": "BBC"
           },
           {
-            "titulo": "England’s game against Mexico could be moved to noon local time, 7pm UK time Sunday",
-            "link": "https://www.theguardian.com/football/2026/jul/03/england-mexico-match-timing",
-            "resumen": "Game originally set to kick off at 6pm local time Could be rescheduled due to risk of thunderstorms Fifa is in discussions over moving the kick-off time of Mexico v England to earlier in day on Sunday due to risk of weather disruption…",
+            "titulo": "Tom Pidcock surges up standings while Mauro Schmid wins Tour de France stage 13",
+            "link": "https://www.theguardian.com/sport/2026/jul/17/tom-pidcock-surges-up-standings-while-mauro-schmid-wins-tour-de-france-stage-13",
+            "resumen": "British rider moves into fourth in general classification Schmid claims first Tour win after mass breakaway Tom Pidcock leapt up the overall standings in the Tour de France, briefly climbing as high as second place, after a fulminating…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Djokovic matches Federer's Wimbledon wins record",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/cevlkr4jxy4o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Novak Djokovic claims his latest piece of history as he equals Roger Federer's record total of 105 men's singles match wins at Wimbledon by battling past Arthur Rinderknech.",
+            "titulo": "Antonelli tops FP2 as Gasly crashes heavily at Spa",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/cm2g9z3pr3yo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Alpine's Pierre causes a red flag with a heavy crash in Friday practice at the Belgian Grand Prix as Mercedes' Kimi Antonelli set out his stall for the weekend with fastest time.",
             "fuente": "BBC"
           }
         ]

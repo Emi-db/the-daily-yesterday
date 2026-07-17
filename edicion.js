@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "3 de julio de 2026",
-  "generada": "16:56",
+  "fecha": "17 de julio de 2026",
+  "generada": "18:49",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "La Cámara Federal acumuló dos causas del rulo con el dólar y quedaron a cargo del juez Lijo",
-          "link": "https://www.clarin.com/politica/camara-federal-acumulo-causas-rulo-dolar-quedaron-cargo-juez-lijo_0_qOMHlVUmbZ.html",
-          "resumen": "Había una disputa entre ese magistrado y María Servini, que investigan las maniobras durante el gobierno de Alberto Fernández.",
+          "titulo": "Carrió criticó a Horacio Rosatti y denunció irregularidades en la selección de jueces",
+          "link": "https://www.clarin.com/politica/carrio-critico-horacio-rosatti-denuncio-irregularidades-seleccion-jueces_0_EUqvvhR1Ua.html",
+          "resumen": "La fundadora de la Coalición Cívica centró sus cuestionamientos en el Consejo de la Magistratura y el Ministerio de Justicia. \"Una audiencia, una entrevista, no puede alterar el resultado del examen y del orden de mérito\", advirtió.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Pilotos argentinos volaron por primera vez los aviones caza F-16 comprados a Dinamarca",
-          "link": "https://www.lanacion.com.ar/politica/pilotos-argentinos-volaron-por-primera-vez-los-aviones-caza-f-16-comprados-a-dinamarca-nid03072026/",
-          "resumen": "Fue en el Área Material Río Cuarto, en Córdoba, tras el entrenamiento recibido en Estados Unidos; avances en las negociaciones por el armamento militar que tendrán las aeronaves",
+          "titulo": "La OA postergó la fecha de presentación de las declaraciones juradas de funcionarios públicos",
+          "link": "https://www.lanacion.com.ar/politica/la-oa-postergo-la-fecha-de-presentacion-de-las-declaraciones-juradas-de-funcionarios-publicos-nid17072026/",
+          "resumen": "El plazo vencía el 31 de este mes, pero se extendió hasta fines de agosto; alegan que el cambio responde a que se pospuso también el límite para Ganancias y Bienes Personales",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Karina Milei se puso al frente de la mesa política y llamó a una reunión antes de tratar las reformas en el Congreso",
-          "link": "https://www.infobae.com/politica/2026/07/03/karina-milei-se-puso-al-frente-de-la-mesa-politica-y-llamo-a-una-reunion-antes-de-tratar-las-reformas-en-el-congreso/",
-          "resumen": "La hermana presidencial convocó a un encuentro el próximo martes en Casa Rosada. Se incorpora un nuevo integrante a ese esquema de poder. Los temas que se pondrán en debate",
+          "titulo": "Tras el contundente reclamo de la AMIA, el Gobierno prometió colaborar con la causa pero no tiene en carpeta nuevas medidas",
+          "link": "https://www.infobae.com/politica/2026/07/17/tras-el-contundente-reclamo-de-la-amia-el-gobierno-prometio-colaborar-con-la-causa-pero-no-tiene-en-carpeta-nuevas-medidas/",
+          "resumen": "Fuentes inobjetables del oficialismo marcan que no hay en carpeta nuevos proyectos legislativos como los que solicitó esta mañana el presidente de AMIA, Osvaldo Armoza. Reconocen que debe acelerarse con juicio en ausencia. “No puede nacer…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Cristina Kirchner y los condenados de Vialidad presentaron recursos para demorar el remate de los bienes",
-          "link": "https://www.clarin.com/politica/fallo-corte-suprema-faltan-decisiones-clave-rematarle-bienes-cristina-kirchner_0_j2w2cdBqB4.html",
-          "resumen": "El máximo tribunal avaló que devuelvan $685.000 millones. Pero aún resta que resuelva las presentaciones de la ex presidenta, Lázaro Báez y los otros condenados para frenar las ejecuciones.",
+          "titulo": "Frente a Milei, AMIA renovó sus críticas a la Justicia y habló de cajoneo del expediente",
+          "link": "https://www.clarin.com/politica/frente-milei-amia-renovo-criticas-justicia-hablo-cajoneo-expediente_0_ucQpeEuBzN.html",
+          "resumen": "Lo hizo el presidente de la mutual judía, Osvaldo Armoza, en el acto central que homenajea a las 85 víctimas del ataque terrorista del 18 de julio de 1994. Estuvieron los hermanos Javier y Karina Milei en primera fila junto al jefe de…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Ferraresi renunció a la intendencia de Avellaneda para “asumir desafíos” de la mano de Kicillof",
-          "link": "https://www.lanacion.com.ar/politica/ferraresi-renuncio-a-la-intendencia-de-avellaneda-para-asumir-desafios-de-la-mano-de-kicillof-nid03072026/",
-          "resumen": "Se especula con un cargo en el gabinete provincial o una incipiente recorrida de campaña para la Gobernación en 2027",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: tras el acto de la AMIA, definen el operativo para recibir a la selección argentina",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-debate-por-la-ley-de-tierras-y-el-operativo-para-recibir-a-la-nid17072026/",
+          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "La justicia santafesina suspendió el proceso de venta de SanCor",
-          "link": "https://www.clarin.com/rural/justicia-santafesina-suspendio-proceso-venta-sancor_0_FzzLrgAVVp.html",
-          "resumen": "Lo hizo la Cámara de Apelaciones en lo Civil, Comercial y Laboral a partir de una presentación realizada por Fidulac, compañía presidida por el empresario Gustavo Scaglione, en la cual denunció irregularidades en el proceso. La láctea…",
+          "titulo": "Ganancias: Caputo se reúne con contadores por los dólares del colchón y piden postergar el pago del impuesto a agosto",
+          "link": "https://www.clarin.com/economia/ganancias-caputo-reune-contadores-dolares-colchon-piden-postergar-pago-impuesto-agosto_0_CUQDYgFkvT.html",
+          "resumen": "Buscan que el fisco estire el plazo que empieza el 27 de julio, pero el Gobierno por el momento lo descarta. La norma que impulsa el Ejecutivo tiene un cambio decisivo en Ganancias.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 3 de julio, minuto a minuto",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid03072026/",
-          "resumen": "La divisa oficial opera a $1510 para venta; el dólar blue cotiza a $1515 para la misma operación",
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 17 de julio, minuto a minuto",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid17072026/",
+          "resumen": "La divisa oficial opera a $1500 para la venta; el dólar blue cotiza a $1525 para esa operación",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La Nación y las Provincias perdieron $6,5 billones de recaudación en el primer semestre",
-          "link": "https://www.ambito.com/economia/la-nacion-y-las-provincias-perdieron-65-billones-recaudacion-el-primer-semestre-n6295779",
-          "resumen": "La caída de los ingresos obedece a la menor actividad económica y a la reducción de impuestos. La rebaja de retenciones al campo generó una mayor pérdida en el gobierno federal.",
+          "titulo": "El Gobierno incorporó utilidades del BCRA al Presupuesto, pero le pide al Congreso que limite esa herramienta",
+          "link": "https://www.ambito.com/economia/el-gobierno-incorporo-utilidades-del-bcra-al-presupuesto-pero-le-pide-al-congreso-que-limite-esa-herramienta-n6300683",
+          "resumen": "En mayo tomó $24,4 billones y esta semana lo sumó al Presupuesto mediante un DNU. Ahora los ingresos previstos para el año subieron a $173,1 billones, mientras que los gastos ascendieron a $147,2 billones.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Garrafa Social en invierno: el paso a paso para tramitar el subsidio y cómo funciona el beneficio",
-          "link": "https://www.clarin.com/economia/garrafa-social-invierno-paso-paso-tramitar-subsidio-funciona-beneficio_0_UbnW5LOGue.html",
-          "resumen": "El beneficio funciona bajo el Régimen de Subsidios Energéticos Focalizados (SEF). Para acceder se deben cumplir con ciertos requisitos económicos.",
+          "titulo": "La mitad de los RIGI aprobados para minería son para el litio, con más de US$ 6.000 millones",
+          "link": "https://www.clarin.com/energia-y-mineria/mitad-rigi-aprobados-mineria-litio-us-6000-millones_0_HDTewcj1TD.html",
+          "resumen": "De 21 proyectos con RIGI aprobados, 12 son para proyectos mineros de litio, cobre, oro y plata, entre nuevas minas y ampliaciones de producción ya existentes. Tras un período de precios bajos, el litio alcanzó a mediados de mayo su nivel…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "“Dólares del colchón”: a tres semanas del vencimiento, el nuevo Régimen Simplificado de Ganancias espera una ley clave",
-          "link": "https://www.lanacion.com.ar/economia/dolares-del-colchon-a-tres-semanas-del-vencimiento-el-nuevo-regimen-simplificado-de-ganancias-espera-nid03072026/",
-          "resumen": "La iniciativa que busca facilitar el uso de los “dólares del colchón” ya tendría más de 100.000 inscriptos, aunque aún no se aprobaron las modificaciones prometidas",
+          "titulo": "Dólares del colchón: el Gobierno postergó la declaración jurada de Ganancias para darle tiempo al Congreso a aprobar la nueva ley",
+          "link": "https://www.lanacion.com.ar/economia/dolares-del-colchon-el-gobierno-postergo-la-declaracion-jurada-de-ganancias-para-darle-tiempo-al-nid17072026/",
+          "resumen": "La presentación se extenderá hasta el 28 de agosto, pero el pago del impuesto mantendrá su vencimiento del 27 de julio",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Panorama internacional: ¿Cuál independencia celebra el EE.UU. de Donald Trump?",
-          "link": "https://www.clarin.com/mundo/panorama-internacional-independencia-celebra-eeuu-donald-trump_0_9PvTrueaAg.html",
-          "resumen": "El 250 aniversario este sábado de la emancipación interpela a un presidente que va por el camino contrario al de los valores que impulsaron los Padres Fundadores, con el desprecio a la prensa, la ignorancia del balance de poderes, la…",
+          "titulo": "Fuerte terremoto y alerta de tsunami en México: 7,3 grados sobre la costa del Pacífico",
+          "link": "https://www.clarin.com/mundo/fuerte-terremoto-mexico-73-grados-costa-pacifico_0_b82Tw11Ol9.html",
+          "resumen": "Un fuerte sismo azotó el país este viernes justo en la frontera con Guatemala. Se sintió desde Ciudad de México hasta El Salvador",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Perú proclama presidenta a Keiko Fujimori tras un dramático recuento y una mínima diferencia de votos",
-          "link": "https://www.lanacion.com.ar/el-mundo/peru-proclama-presidenta-a-keiko-fujimori-tras-un-dramatico-recuento-y-una-minima-diferencia-de-nid03072026/",
-          "resumen": "La líder conservadora asumirá el 28 de julio en medio de un país partido, con denuncias de fraude de la izquierda y el desafío de devolver estabilidad a una nación marcada por años de crisis política",
+          "titulo": "El plan ambicioso de la NASA para Artemis III: tres cohetes, dos acoplamientos en órbita y una operación sin precedentes",
+          "link": "https://www.lanacion.com.ar/el-mundo/el-plan-ambicioso-de-la-nasa-para-artemis-iii-tres-cohetes-dos-acoplamientos-en-orbita-y-una-nid17072026/",
+          "resumen": "La expedición, prevista para 2027, pondrá a prueba sistemas clave; los resultados serán fundamentales para las próximas misiones que encare la agencia",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Un crucero que zarpó desde San Francisco tiene 125 infectados de norovirus: el germen ya había experimentado un brote en mayo",
-          "link": "https://www.clarin.com/mundo/crucero-zarpo-san-francisco-125-infectados-norovirus-germen-experimentado-brote-mayo_0_BYSlythEKV.html",
-          "resumen": "Se trata del crucero Ruby Princess, que realizaba un viaje hacia Canadá y Alaska. El norovirus puede causar gastroenteritis aguda y la aparición repentina de cuadros graves de vómitos y diarrea.",
+          "titulo": "Fue un superviviente político ruso, hasta que aparecieron los hombres enmascarados",
+          "link": "https://www.clarin.com/new-york-times-international-weekly/superviviente-politico-ruso-aparecieron-hombres-enmascarados_0_E2lQwUcrKI.html",
+          "resumen": "Boris B. Nadezhdin, un abierto opositor a la guerra en Ucrania, afirma saber por qué fue detenido: «Entre nuestros dirigentes reina el pánico y el caos».",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Un geólogo explicó en detalle por qué se produjeron los dos terremotos consecutivos en Venezuela y si puede volver a ocurrir",
-          "link": "https://www.lanacion.com.ar/el-mundo/un-geologo-explico-en-detalle-por-que-se-produjeron-los-dos-terremotos-consecutivos-en-venezuela-y-nid25062026/",
-          "resumen": "Andrés Folguera señaló en LN+ que ambos sismos se originaron por el destrabe de una falla geológica activa que acumuló tensión durante un siglo; el domingo una potente réplica desató el pánico en la región centro-norte del país",
+          "titulo": "Tres cohetes y cuatro astronautas: cómo será Artemis III, la misión más compleja de la NASA en años",
+          "link": "https://www.lanacion.com.ar/el-mundo/tres-cohetes-y-cuatro-astronautas-como-sera-artemis-iii-la-mision-mas-compleja-de-la-nasa-en-anos-nid14072026/",
+          "resumen": "La expedición, prevista para 2027, pondrá a prueba sistemas clave en órbita terrestre; los resultados serán fundamentales para las próximas misiones",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Susto en un avión en Uruguay: hubo fuego en un motor que se tragó un pájaro y debió regresar al aeropuerto",
-          "link": "https://www.clarin.com/mundo/susto-avion-uruguay-fuego-motor-trago-pajaro-debio-regresar-aeropuerto_0_SPJMr1TK9i.html",
-          "resumen": "La aeronave con 160 pasajeros iba rumbo a Perú. El piloto debió aplicar una maniobra de emergencia y volver al aeropuerto de Montevideo.",
+          "titulo": "El agente del ICE que mató a un joven colombiano en Minesota tiene un largo historial de violencia: \"Alguien debería cortarte el cuello\"",
+          "link": "https://www.clarin.com/mundo/agente-ice-mato-joven-colombiano-minesota-largo-historial-violencia-alguien-deberia-cortarte-cuello_0_1T8Lvvgxwv.html",
+          "resumen": "David Brouillette tiene un historial de comportamiento aterrador. Es un veterano del Ejército que ha lidiado con graves problemas de salud mental desde su infancia. El testimonio de su familia.",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Max Verstappen podría dejar Red Bull: la cláusula, la reunión con McLaren y las señales que alimentan el rumor",
-          "link": "https://www.clarin.com/deportes/max-verstappen-podria-dejar-red-bull-clausula-reunion-mclaren-senales-alimentan-rumor_0_CSNfcCU4YS.html",
-          "resumen": "El tetracampeón tiene contrato hasta 2028, pero el bajo rendimiento de Red Bull reactivó las especulaciones sobre una salida. Las versiones de un contacto con McLaren, las respuestas de Verstappen y Zak Brown y por qué las próximas tres…",
+          "titulo": "Pep Guardiola eligió a su favorita entre Argentina y España para la final del Mundial, y se volvió a rendir ante Messi",
+          "link": "https://www.clarin.com/deportes/pep-guardiola-eligio-favorita-argentina-espana-final-mundial-volvio-rendir-messi_0_it98USU8AD.html",
+          "resumen": "El DT palpitó la definición de este domingo con una mirada imparcial. Marcó qué necesita el conjunto de Luis de la Fuente para hacer diferencia. Y elogicó el torneo que está haciendo su exdirigido en el Barcelona.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Australia vs. Egipto, EN VIVO por el Mundial 2026: minuto a minuto del partido",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/australia-vs-egipto-en-vivo-por-el-mundial-2026-nid03072026/",
-          "resumen": "El encuentro se disputará desde las 15 horas en el Dallas Stadium; todos los detalles",
+          "titulo": "Cuándo juegan los Pumas vs. Inglaterra, por el Nations Championship 2026",
+          "link": "https://www.lanacion.com.ar/deportes/rugby/cuando-juegan-los-pumas-vs-inglaterra-por-el-nations-championship-2026-nid17072026/",
+          "resumen": "El encuentro correspondiente a la tercera fecha del certamen se disputará este sábado en Santiago del Estero; el último partido de local para la selección argentina",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Alfaro, a lo Alfaro: \"Francia es una tormenta eléctrica\"",
-          "link": "https://www.ole.com.ar/mundial/mundial-2026/mundial-2026-paraguay-francia-alfaro_0_smmMVX0fp0.html",
-          "resumen": "El DT de Paraguay habló antes del partido por los octavos de final del Mundial ante el gran favorito. Y dejó frases con su sello indeleble.",
+          "titulo": "Lamine Yamal y Pedro Porro volvieron a entrenar a la par del grupo antes de enfrentar a la Argentina",
+          "link": "https://www.ole.com.ar/mundial/mundial-2026/lamine-yamal-espana-pedro-porro_0_GgX6PSyUaT.html",
+          "resumen": "Ambos terminaron la semi contra Francia con molestias y el jueves no practicaron con sus compañeros para evitar riesgos, pero regresaron a la actividad este viernes.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Matiné, el hermano menor de Discoteca Núñez, sorprende al anunciar su retiro a los 20 años: \"Dejé el fútbol\"",
-          "link": "https://www.clarin.com/deportes/matine-hermano-menor-discoteca-nunez-sorprende-anunciar-retiro-20-anos-deje-futbol_0_t2PB3J4BZy.html",
-          "resumen": "Se destacó en las selecciones juveniles de Uruguay. Su último club profesional fue el Liverpool de Montevideo.",
+          "titulo": "Las dos caras de Alpine: Colapinto fue séptimo en la mejor FP2 de la temporada y Pierre Gasly destrozó su auto en el GP de Bélgica",
+          "link": "https://www.clarin.com/deportes/pierre-gasly-destrozo-alpine-gp-belgica-despues-franco-colapinto-hizo-mejor-vuelta_0_QzwXXyTjVa.html",
+          "resumen": "El piloto francés perdió el control de su monoplaza en la FP2. Ocurrió a la salida de la curva 13 y se lamentó por la radio. Fue luego de que el argentino quedara séptimo en los relojes.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Evangelina Anderson lució una bikini de la selección en Marbella y encendió las redes: “Siempre alentando”",
-          "link": "https://www.lanacion.com.ar/deportes/evangelina-anderson-lucio-una-bikini-de-la-seleccion-en-marbella-y-encendio-las-redes-siempre-nid03072026/",
-          "resumen": "La modelo está de vacaciones en el Viejo continente pero no se olvida de alentar al equipo nacional en el Mundial; su álbum de fotos en la playa",
+          "titulo": "Iker Casillas, exarquero campeón del mundo con España, en la previa de la final contra la selección argentina: “No habrá una cuarta estrella”",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/iker-casillas-exarquero-campeon-del-mundo-con-espana-en-la-previa-de-la-final-contra-la-seleccion-nid17072026/",
+          "resumen": "El histórico arquero español volvió a apuntar contra la Scaloneta en la antesala de la definición del Mundial 2026; publicó un mensaje en redes sociales en el que respaldó a la Roja y aseguró que impedirán que la Argentina conquiste un…",
           "fuente": "La Nación"
         }
       ]
