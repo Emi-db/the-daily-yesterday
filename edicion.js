@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "17 de julio de 2026",
-  "generada": "18:49",
+  "fecha": "18 de julio de 2026",
+  "generada": "10:54",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Carrió criticó a Horacio Rosatti y denunció irregularidades en la selección de jueces",
-          "link": "https://www.clarin.com/politica/carrio-critico-horacio-rosatti-denuncio-irregularidades-seleccion-jueces_0_EUqvvhR1Ua.html",
-          "resumen": "La fundadora de la Coalición Cívica centró sus cuestionamientos en el Consejo de la Magistratura y el Ministerio de Justicia. \"Una audiencia, una entrevista, no puede alterar el resultado del examen y del orden de mérito\", advirtió.",
+          "titulo": "Milei navega en la ola de nacionalismo y el inesperado resurgir de Malvinas",
+          "link": "https://www.clarin.com/politica/milei-navega-ola-nacionalismo-inesperado-resurgir-malvinas_0_KitHXqhObR.html",
+          "resumen": "El Presidente se cuida de no aparecer usando el éxito de la selección y tardó en referirse a la bandera que exhibieron los jugadores. El giro en la política sobre las Islas. Villarruel aprovecha que Bullrich la sube al ring.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La OA postergó la fecha de presentación de las declaraciones juradas de funcionarios públicos",
-          "link": "https://www.lanacion.com.ar/politica/la-oa-postergo-la-fecha-de-presentacion-de-las-declaraciones-juradas-de-funcionarios-publicos-nid17072026/",
-          "resumen": "El plazo vencía el 31 de este mes, pero se extendió hasta fines de agosto; alegan que el cambio responde a que se pospuso también el límite para Ganancias y Bienes Personales",
+          "titulo": "La propuesta que toma forma para la recepción de los jugadores y las dos opciones posibles",
+          "link": "https://www.lanacion.com.ar/politica/la-propuesta-que-toma-forma-para-la-recepcion-de-los-jugadores-y-las-dos-opciones-posibles-nid17072026/",
+          "resumen": "Las autoridades trabajan al unísono con el fin de delinear la estrategia para cuando llegue la selección; la palabra final la tendrá la AFA de “Chiqui” Tapia",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Tras el contundente reclamo de la AMIA, el Gobierno prometió colaborar con la causa pero no tiene en carpeta nuevas medidas",
-          "link": "https://www.infobae.com/politica/2026/07/17/tras-el-contundente-reclamo-de-la-amia-el-gobierno-prometio-colaborar-con-la-causa-pero-no-tiene-en-carpeta-nuevas-medidas/",
-          "resumen": "Fuentes inobjetables del oficialismo marcan que no hay en carpeta nuevos proyectos legislativos como los que solicitó esta mañana el presidente de AMIA, Osvaldo Armoza. Reconocen que debe acelerarse con juicio en ausencia. “No puede nacer…",
+          "titulo": "Las victorias legislativas que logró Milei en el primer semestre y las reformas que impulsará tras el receso invernal",
+          "link": "https://www.infobae.com/politica/2026/07/18/las-victorias-legislativas-que-logro-milei-en-el-primer-semestre-y-las-reformas-que-impulsara-tras-el-receso-invernal/",
+          "resumen": "El Gobierno logró avanzar con leyes que llevaban décadas de debate, como la reforma laboral, el acuerdo Mercosur-UE y la baja de la edad de imputabilidad. El tema prioritario que marcará la segunda mitad del año",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Frente a Milei, AMIA renovó sus críticas a la Justicia y habló de cajoneo del expediente",
-          "link": "https://www.clarin.com/politica/frente-milei-amia-renovo-criticas-justicia-hablo-cajoneo-expediente_0_ucQpeEuBzN.html",
-          "resumen": "Lo hizo el presidente de la mutual judía, Osvaldo Armoza, en el acto central que homenajea a las 85 víctimas del ataque terrorista del 18 de julio de 1994. Estuvieron los hermanos Javier y Karina Milei en primera fila junto al jefe de…",
+          "titulo": "Trolls libertarios difundieron una fake news sobre Máximo Kirchner, el Dibu Martínez y las Malvinas en la previa de la final con España",
+          "link": "https://www.clarin.com/politica/trolls-libertarios-difundieron-fake-news-maximo-kirchner-dibu-martinez-malvinas-previa-final-espana_0_pbHTqnvGP0.html",
+          "resumen": "Publicaron y replicaron en X un video falso del diputado nacional del kirchnerismo con declaraciones truchas en las que criticaba al ídolo argentino. “Nuestro arquero parece estar más preocupado por su club en Inglaterra que por las…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: tras el acto de la AMIA, definen el operativo para recibir a la selección argentina",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-debate-por-la-ley-de-tierras-y-el-operativo-para-recibir-a-la-nid17072026/",
-          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "titulo": "Pierde impulso un viejo anhelo de Milei para la industria del fútbol",
+          "link": "https://www.lanacion.com.ar/politica/pierde-impulso-un-viejo-anhelo-de-milei-para-la-industria-del-futbol-nid18072026/",
+          "resumen": "Los millones de dólares y el show del Mundial en el país de Trump entusiasman al Gobierno con reimpulsar su proyecto de Sociedades Anónimas Deportivas, pero no hay intención de confrontar ahora con Chiqui Tapia",
           "fuente": "La Nación"
         }
       ]
@@ -42,34 +42,34 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Ganancias: Caputo se reúne con contadores por los dólares del colchón y piden postergar el pago del impuesto a agosto",
-          "link": "https://www.clarin.com/economia/ganancias-caputo-reune-contadores-dolares-colchon-piden-postergar-pago-impuesto-agosto_0_CUQDYgFkvT.html",
-          "resumen": "Buscan que el fisco estire el plazo que empieza el 27 de julio, pero el Gobierno por el momento lo descarta. La norma que impulsa el Ejecutivo tiene un cambio decisivo en Ganancias.",
+          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este sábado 18 de julio",
+          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-sabado-18-julio_0_6vBshp7iXY.html",
+          "resumen": "Mirá la cotización para la compra y venta del dólar tarjeta hoy. Cotizaciones, evolución, previsiones e información para el cambio de monedas.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 17 de julio, minuto a minuto",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid17072026/",
-          "resumen": "La divisa oficial opera a $1500 para la venta; el dólar blue cotiza a $1525 para esa operación",
+          "titulo": "“La mejor del planeta”: el mayor exportador mundial de carne eligió a una empresa argentina para resguardar su seguridad sanitaria",
+          "link": "https://www.lanacion.com.ar/economia/campo/la-mejor-del-planeta-el-mayor-exportador-mundial-de-carne-eligio-a-una-empresa-argentina-para-nid17072026/",
+          "resumen": "Si bien dejó de vacunar contra la fiebre aftosa, Brasil tendrá un banco de emergencia con la firma Biogénesis Bagó; el ministro de Agricultura del vecino país visitó la planta",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El Gobierno incorporó utilidades del BCRA al Presupuesto, pero le pide al Congreso que limite esa herramienta",
-          "link": "https://www.ambito.com/economia/el-gobierno-incorporo-utilidades-del-bcra-al-presupuesto-pero-le-pide-al-congreso-que-limite-esa-herramienta-n6300683",
-          "resumen": "En mayo tomó $24,4 billones y esta semana lo sumó al Presupuesto mediante un DNU. Ahora los ingresos previstos para el año subieron a $173,1 billones, mientras que los gastos ascendieron a $147,2 billones.",
+          "titulo": "Alerta por un \"Súper Niño\": el fenómeno climático podría alterar los dólares del agro, los commodities y la inflación",
+          "link": "https://www.ambito.com/economia/alerta-un-super-nino-el-fenomeno-climatico-podria-alterar-los-dolares-del-agro-los-commodities-y-la-inflacion-n6300744",
+          "resumen": "El fenómeno ya se confirmó en el país y podría intensificarse durante los meses decisivos para la campaña agrícola. Para la Argentina, mayores precipitaciones podrían elevar la producción y las exportaciones, aunque los excesos también…",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "La mitad de los RIGI aprobados para minería son para el litio, con más de US$ 6.000 millones",
-          "link": "https://www.clarin.com/energia-y-mineria/mitad-rigi-aprobados-mineria-litio-us-6000-millones_0_HDTewcj1TD.html",
-          "resumen": "De 21 proyectos con RIGI aprobados, 12 son para proyectos mineros de litio, cobre, oro y plata, entre nuevas minas y ampliaciones de producción ya existentes. Tras un período de precios bajos, el litio alcanzó a mediados de mayo su nivel…",
-          "fuente": "Clarín"
+          "titulo": "“Ustedes son los Messi”: la metáfora futbolera del canciller Quirno que puso eufóricos a empresarios del agro",
+          "link": "https://www.lanacion.com.ar/economia/campo/ustedes-son-los-messi-la-metafora-futbolera-del-canciller-quirno-que-puso-euforicos-a-empresarios-nid17072026/",
+          "resumen": "En la Exposición Rural de Palermo, el funcionario destacó el avance de los acuerdos comerciales y prometió profundizar la apertura de mercados para las exportaciones argentinas",
+          "fuente": "La Nación"
         },
         {
-          "titulo": "Dólares del colchón: el Gobierno postergó la declaración jurada de Ganancias para darle tiempo al Congreso a aprobar la nueva ley",
-          "link": "https://www.lanacion.com.ar/economia/dolares-del-colchon-el-gobierno-postergo-la-declaracion-jurada-de-ganancias-para-darle-tiempo-al-nid17072026/",
-          "resumen": "La presentación se extenderá hasta el 28 de agosto, pero el pago del impuesto mantendrá su vencimiento del 27 de julio",
-          "fuente": "La Nación"
+          "titulo": "El costo de la construcción se aceleró al 2,6% en junio y la mano de obra lideró los aumentos",
+          "link": "https://www.ambito.com/economia/el-costo-la-construccion-se-acelero-al-26-junio-y-la-mano-obra-lidero-los-aumentos-n6300831",
+          "resumen": "El incremento fue explicado por un aumento de 1,8% en materiales, 3,3% en mano de obra y 2,8% en gastos generales, según INDEC.",
+          "fuente": "Ámbito"
         }
       ]
     },
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Fuerte terremoto y alerta de tsunami en México: 7,3 grados sobre la costa del Pacífico",
-          "link": "https://www.clarin.com/mundo/fuerte-terremoto-mexico-73-grados-costa-pacifico_0_b82Tw11Ol9.html",
-          "resumen": "Un fuerte sismo azotó el país este viernes justo en la frontera con Guatemala. Se sintió desde Ciudad de México hasta El Salvador",
+          "titulo": "La memoria de la Guerra Civil española y sus espantos, 90 años después",
+          "link": "https://www.clarin.com/mundo/memoria-guerra-civil-espanola-espantos-90-anos-despues_0_B8uo5c2WMS.html",
+          "resumen": "El 18 de julio de 1936 el general Francisco Franco anunció que se rebelaba contra el gobierno republicano. Nueve décadas después sigue vivo el recuerdo de años de muertes, dolor y venganza.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El plan ambicioso de la NASA para Artemis III: tres cohetes, dos acoplamientos en órbita y una operación sin precedentes",
-          "link": "https://www.lanacion.com.ar/el-mundo/el-plan-ambicioso-de-la-nasa-para-artemis-iii-tres-cohetes-dos-acoplamientos-en-orbita-y-una-nid17072026/",
-          "resumen": "La expedición, prevista para 2027, pondrá a prueba sistemas clave; los resultados serán fundamentales para las próximas misiones que encare la agencia",
+          "titulo": "Comenzó la construcción del estadio más grande del mundo: albergará 115.000 personas y se inaugurará en 2030",
+          "link": "https://www.lanacion.com.ar/el-mundo/comenzo-la-construccion-del-estadio-mas-grande-del-mundo-albergara-115-mil-personas-y-se-inaugurara-nid16072026/",
+          "resumen": "El Gran Estadio Hassan II se encontrará en la ciudad marroquí de Casablanca y está diseñado para que sus más de cien mil espectadores puedan ubicarse sentados",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Fue un superviviente político ruso, hasta que aparecieron los hombres enmascarados",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/superviviente-politico-ruso-aparecieron-hombres-enmascarados_0_E2lQwUcrKI.html",
-          "resumen": "Boris B. Nadezhdin, un abierto opositor a la guerra en Ucrania, afirma saber por qué fue detenido: «Entre nuestros dirigentes reina el pánico y el caos».",
+          "titulo": "EE.UU. se desentendió acerca de la bandera de Malvinas exhibida por los jugadores, aunque respaldó \"el derecho a expresarse\"",
+          "link": "https://www.clarin.com/mundo/eeuu-desentendio-acerca-bandera-malvinas-exhibida-jugadores-respaldo-derecho-expresarse_0_9ASjcvLJ7Z.html",
+          "resumen": "Desde el Departamento de Estado, en Washington, informaron que “no toman posición sobre símbolos exhibidos por hinchas en eventos deportivos”. La FIFA aún no se expidió acerca del tema pero habría una sanción económica para la AFA.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Tres cohetes y cuatro astronautas: cómo será Artemis III, la misión más compleja de la NASA en años",
-          "link": "https://www.lanacion.com.ar/el-mundo/tres-cohetes-y-cuatro-astronautas-como-sera-artemis-iii-la-mision-mas-compleja-de-la-nasa-en-anos-nid14072026/",
-          "resumen": "La expedición, prevista para 2027, pondrá a prueba sistemas clave en órbita terrestre; los resultados serán fundamentales para las próximas misiones",
+          "titulo": "¿Memoria completa? A 90 años del día en que España se dividió en dos bandos que combatieron a muerte",
+          "link": "https://www.lanacion.com.ar/el-mundo/memoria-completa-a-90-anos-del-dia-en-que-espana-se-dividio-en-dos-bandos-que-combatieron-a-muerte-nid18072026/",
+          "resumen": "La Guerra Civil, considerada un “laboratorio” de la Segunda Guerra, dejó más de medio millón de fallecidos y una grieta que sigue separando a los españoles; el lúcido testimonio para LA NACION de un combatiente veterano catalán de 110 años",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El agente del ICE que mató a un joven colombiano en Minesota tiene un largo historial de violencia: \"Alguien debería cortarte el cuello\"",
-          "link": "https://www.clarin.com/mundo/agente-ice-mato-joven-colombiano-minesota-largo-historial-violencia-alguien-deberia-cortarte-cuello_0_1T8Lvvgxwv.html",
-          "resumen": "David Brouillette tiene un historial de comportamiento aterrador. Es un veterano del Ejército que ha lidiado con graves problemas de salud mental desde su infancia. El testimonio de su familia.",
+          "titulo": "Un deslizamiento de tierra en el centro de China sepulta a más de 10 edificios residenciales: al menos 8 muertos y más de 30 desaparecidos",
+          "link": "https://www.clarin.com/mundo/deslizamiento-tierra-centro-china-sepulta-10-edificios-residenciales-8-muertos-30-desaparecidos_0_EIyLwA8fb5.html",
+          "resumen": "Las intensas lluvias en el centro del país provocaron el desprendimiento de grandes rocas y taludes de tierra. Hay más de 2.000 evacuados. La tragedia tuvo como principal epicentro, la localidad de Chongqing.",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Pep Guardiola eligió a su favorita entre Argentina y España para la final del Mundial, y se volvió a rendir ante Messi",
-          "link": "https://www.clarin.com/deportes/pep-guardiola-eligio-favorita-argentina-espana-final-mundial-volvio-rendir-messi_0_it98USU8AD.html",
-          "resumen": "El DT palpitó la definición de este domingo con una mirada imparcial. Marcó qué necesita el conjunto de Luis de la Fuente para hacer diferencia. Y elogicó el torneo que está haciendo su exdirigido en el Barcelona.",
+          "titulo": "Ritual cumplido: la Selección Argentina tuvo su asado previo a la final del Mundial 2026 contra España",
+          "link": "https://www.clarin.com/deportes/ritual-cumplido-seleccion-argentina-asado-previo-final-mundial-2026-espana_0_VZc5AlZM5h.html",
+          "resumen": "Como en la antesala de cada uno de los partidos de esta Copa del Mundo, la cena en la concentración se repitió pese a la mudanza a Nueva York. Mirá el video.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Cuándo juegan los Pumas vs. Inglaterra, por el Nations Championship 2026",
-          "link": "https://www.lanacion.com.ar/deportes/rugby/cuando-juegan-los-pumas-vs-inglaterra-por-el-nations-championship-2026-nid17072026/",
-          "resumen": "El encuentro correspondiente a la tercera fecha del certamen se disputará este sábado en Santiago del Estero; el último partido de local para la selección argentina",
+          "titulo": "Por qué esta selección argentina es la mejor de todos los tiempos",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/por-que-esta-seleccion-argentina-es-la-mejor-de-todos-los-tiempos-nid18072026/",
+          "resumen": "La selección jugará su séptima final de Mundial, la sexta en 48 años, el mismo período que pasó entre la primera y la segunda",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Lamine Yamal y Pedro Porro volvieron a entrenar a la par del grupo antes de enfrentar a la Argentina",
-          "link": "https://www.ole.com.ar/mundial/mundial-2026/lamine-yamal-espana-pedro-porro_0_GgX6PSyUaT.html",
-          "resumen": "Ambos terminaron la semi contra Francia con molestias y el jueves no practicaron con sus compañeros para evitar riesgos, pero regresaron a la actividad este viernes.",
+          "titulo": "A qué hora juegan Los Pumas vs. Inglaterra y dónde se podrá ver hoy EN VIVO el partido por el Nations Championship",
+          "link": "https://www.ole.com.ar/rugby/hora-juegan-pumas-vs-inglaterra-ver-hoy-vivo-partido-nations-championship_0_btARCEcXI2.html",
+          "resumen": "En Santiago del Estero, por la tercera fecha del torneo de selecciones que enfrenta al Sur con el Norte, Argentina recibirá al seleccionado inglés. Seguilo en Olé.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Las dos caras de Alpine: Colapinto fue séptimo en la mejor FP2 de la temporada y Pierre Gasly destrozó su auto en el GP de Bélgica",
-          "link": "https://www.clarin.com/deportes/pierre-gasly-destrozo-alpine-gp-belgica-despues-franco-colapinto-hizo-mejor-vuelta_0_QzwXXyTjVa.html",
-          "resumen": "El piloto francés perdió el control de su monoplaza en la FP2. Ocurrió a la salida de la curva 13 y se lamentó por la radio. Fue luego de que el argentino quedara séptimo en los relojes.",
+          "titulo": "Tripichio explotó tras la eliminación de San Lorenzo en Copa Argentina: \"Es un papelón\" y apuntó contra la dirigencia",
+          "link": "https://www.clarin.com/deportes/tripichio-exploto-eliminacion-san-lorenzo-copa-argentina-papelon-apunto-dirigencia_0_YZdTBlTAYb.html",
+          "resumen": "El mediocampista cuestionó el manejo de la pretemporada, recordó que el plantel estuvo dos semanas sin entrenador y habló de un club \"muy desprolijo\". También lamentó que varios futbolistas fueran promovidos desde la Reserva pocos días…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Iker Casillas, exarquero campeón del mundo con España, en la previa de la final contra la selección argentina: “No habrá una cuarta estrella”",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/iker-casillas-exarquero-campeon-del-mundo-con-espana-en-la-previa-de-la-final-contra-la-seleccion-nid17072026/",
-          "resumen": "El histórico arquero español volvió a apuntar contra la Scaloneta en la antesala de la definición del Mundial 2026; publicó un mensaje en redes sociales en el que respaldó a la Roja y aseguró que impedirán que la Argentina conquiste un…",
+          "titulo": "Mundial 2026, en vivo: Inglaterra y Francia definen el tercer puesto y la Argentina se entrena de cara a España",
+          "link": "https://www.lanacion.com.ar/deportes/mundial-2026-en-vivo-toda-la-previa-de-la-final-contra-espana-y-las-declaraciones-de-trump-y-scaloni-nid18072026/",
+          "resumen": "El minuto a minuto de las últimas noticias de la selección argentina, declaraciones de los jugadores y entrenadores, y repercusiones sobre los partidos",
           "fuente": "La Nación"
         }
       ]
