@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "18 de julio de 2026",
-    "generada": "10:54",
+    "fecha": "19 de julio de 2026",
+    "generada": "11:02",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "\"Tenía que mostrarle al partido comunista chino que no me puede controlar\": el disidente que pasó 40 horas en un bote inflable en el mar para escapar de su país",
-            "link": "https://www.bbc.com/mundo/articles/cddj7mdn864o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Dong Guangping, quien se ha reasentado en Canadá, relata su peligrosa huida de China a Corea del Sur.",
+            "titulo": "Argentina y España, dos \"enemigos íntimos\" que disputan una final de Mundial inédita",
+            "link": "https://www.bbc.com/mundo/articles/c1j1lz2k7epo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Estadísticas, curiosidades y antecedentes futbolísticos de argentinos y españoles, que este domingo se cruzan por primera vez en la final de un Mundial.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota",
-            "link": "https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html",
-            "resumen": "El presidente desclasifica información en parte ya conocida y no vinculante, que incluye archivos de la CIA sobre Venezuela. El republicano está en una cruzada para arrojar dudas sobre las ‘midterms’, en las que los suyos llevan las de…",
+            "titulo": "Nadie protesta en la Rusia de Putin, pero la guerra empieza a pasar factura a su popularidad",
+            "link": "https://elpais.com/internacional/2026-07-19/nadie-protesta-en-la-rusia-de-putin-pero-la-guerra-empieza-a-pasar-factura-a-su-popularidad.html",
+            "resumen": "Las bajas en el frente, la amenaza de un nuevo reclutamiento masivo y los recortes en el suministro de combustible reducen el apoyo social al Kremlin",
             "fuente": "El País"
           },
           {
-            "titulo": "Miles de ucranianos protestan por segundo día contra la destitución del ministro de Defensa Fedorov",
-            "link": "https://www.france24.com/es/europa/20260718-miles-de-ucranianos-protestan-por-segundo-d%C3%ADa-contra-la-destituci%C3%B3n-del-ministro-de-defensa-fedorov",
-            "resumen": "Por segundo día consecutivo, miles de personas se manifestaron en Kiev contra la destitución de Mykhailo Fedorov, el joven ministro de Defensa que impulsó la guerra de drones de Ucrania y que chocó abiertamente con el alto mando militar.",
+            "titulo": "Estados Unidos lanza bombardeos contra Irán por octava jornada consecutiva",
+            "link": "https://www.france24.com/es/medio-oriente/20260719-estados-unidos-lanza-bombardeos-contra-ir%C3%A1n-por-octava-jornada-consecutiva",
+            "resumen": "El conflicto entre Washington y Teherán entró en una nueva fase de escalada después de que Estados Unidos anunciara una nueva ofensiva aérea contra posiciones iraníes por octava jornada consecutiva, en respuesta a un ataque que dejó dos…",
             "fuente": "France 24"
           },
           {
-            "titulo": "\"Si sobreviví fue para encontrarlos\": la joven que se niega a abandonar los escombros donde se encuentran los cuerpos de sus familiares a 3 semanas de los terremotos en Venezuela",
-            "link": "https://www.bbc.com/mundo/articles/c5y08m32vpqo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Lorena Laya encontró los restos de su madrastra y su hermana menor dos semanas después de los sismos. Aún espera recuperar los cuerpos de su padre y su hermano en La Guaira.",
+            "titulo": "Quién es Gianni Infantino y cómo llegó a ser el hombre más poderoso (y polémico) del fútbol mundial",
+            "link": "https://www.bbc.com/mundo/articles/cwy0yvdzzyvo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Gianni Infantino ha tenido roces con los sindicatos y el fútbol europeo, pero tras 10 años como presidente de la FIFA, sigue estando en una posición inexpugnable. Te contamos por qué.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "China tacha de “invenciones” las acusaciones de Trump sobre su supuesta injerencia en las elecciones de 2020",
-            "link": "https://elpais.com/internacional/2026-07-17/china-tacha-de-invenciones-las-acusaciones-de-trump-sobre-su-supuesta-injerencia-en-las-elecciones-de-2020.html",
-            "resumen": "Las declaraciones del líder estadounidense, cargando directamente contra Pekín, amenazan con enturbiar la relación bilateral antes del próximo encuentro entre el republicano y Xi",
+            "titulo": "Andy Burnham, un político fuera de la burbuja",
+            "link": "https://elpais.com/internacional/2026-07-19/andy-burnham-un-politico-fuera-de-la-burbuja.html",
+            "resumen": "El exalcalde de Mánchester, nuevo líder del laborismo británico e inminente primer ministro, ha construido su reputación desde el contacto directo con la población y lejos del poder de Londres",
             "fuente": "El País"
           }
         ]
@@ -43,9 +43,9 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Las hipotecas al 100% existen, pero son puntuales, más caras y para perfiles muy solventes",
-            "link": "https://cincodias.elpais.com/mercados-financieros/2026-07-18/las-hipotecas-al-100-existen-pero-son-puntuales-mas-caras-y-para-perfiles-muy-solventes.html",
-            "resumen": "La continua subida del precio de la vivienda hace imposible para muchas personas ahorrar el dinero necesario para la entrada",
+            "titulo": "Carlos Cuerpo, el vuelo imperturbable de un vicepresidente",
+            "link": "https://elpais.com/economia/2026-07-19/carlos-cuerpo-el-vuelo-imperturbable-de-un-vicepresidente.html",
+            "resumen": "Mide los decibelios del Congreso en una aplicación, hace meditación e intenta hablar de Economía entre las preguntas de corrupción. En sus primeros 100 días como ‘número dos’ del Gobierno, quiere otro sentido para la palabra “político”",
             "fuente": "El País"
           },
           {
@@ -55,9 +55,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "Eurobonos rentables, prácticos, a ras de suelo",
-            "link": "https://elpais.com/economia/2026-07-18/eurobonos-rentables-practicos-a-ras-de-suelo.html",
-            "resumen": "Las emisiones sectoriales de esta idea van normalizando la idea de deuda común. Ya no son una excepción, sino otro mecanismo de financiación, menos doloroso",
+            "titulo": "Entrada a las 15, salida antes de las 12: por qué cada vez se accede más tarde y se sale más pronto de los hoteles",
+            "link": "https://elpais.com/economia/2026-07-19/entrada-a-las-15-salida-antes-de-las-12-por-que-cada-vez-se-accede-mas-tarde-y-se-sale-mas-pronto-de-los-hoteles.html",
+            "resumen": "Las cadenas reservan la ampliación gratuita de horarios a los clientes de sus programas de fidelidad. Al resto se la ofrecen mediante un cobro que se ha convertido en una nueva línea de negocio",
             "fuente": "El País"
           },
           {
@@ -67,9 +67,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "Bruselas plantea acabar con los subsidios a los combustibles fósiles y extender la vida de las nucleares",
-            "link": "https://elpais.com/economia/2026-07-17/bruselas-plantea-acabar-con-los-subsidios-a-los-combustibles-fosiles-y-extender-la-vida-de-las-nucleares.html",
-            "resumen": "La Comisión Europea presenta un plan de acción para intensificar la electrificación de Europa que aboga por prolongar la actividad de plantas como la de Almaraz",
+            "titulo": "Empresas que contratan detectives para investigar bajas sospechosas: dónde están los límites en la lucha contra el absentismo",
+            "link": "https://elpais.com/economia/negocios/2026-07-19/empresas-que-contratan-detectives-para-investigar-bajas-sospechosas-donde-estan-los-limites-en-la-lucha-contra-el-absentismo.html",
+            "resumen": "Esta prueba pericial tiene límites estrictos; una mala planificación o ejecución iría en contra de la compañía",
             "fuente": "El País"
           }
         ]
@@ -113,33 +113,33 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "Dos cabezazos doblegan al nuevo Rayo de Beñat San José",
-            "link": "https://www.marca.com/futbol/rayo/2026/07/17/dos-cabezazos-doblegan-nuevo-rayo-benat-san-jose.html",
-            "resumen": "Camello marcó el tanto de los vallecanos en el segundo tiempo",
+            "titulo": "El Tour, en directo:&nbsp;el Solaison, primer final en un puerto fuera de categoría",
+            "link": "https://www.marca.com/ciclismo/tour-francia/2026/07/19/6a5c8f436c283cdca8c894f9.html",
+            "resumen": "Te contamos en directo otra nueva jornada de montaña del Tour con final en alto",
             "fuente": "Marca"
           },
           {
-            "titulo": "Laporta pone fecha a la vigencia de la oferta por Julián Álvarez",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260718/1004207683/laporta-pone-fecha-vigencia-oferta-julian-alvarez.html",
-            "resumen": "Joan Laporta , presidente del FC Barcelona , respondió a Miguel Ángel Gil Marín, CEO del Atlético de Madrid , quien en una entrevista a los medios oficiales del club colchonero le había criticado duramente por el intento de fichar a…",
+            "titulo": "Laporta responde al Atlético: \"Un club grande no puede permitirse jugadores a disgusto\"",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260719/1004207974/laporta-responde-atletico-sobre-julian-club-grande-no-permitirse-jugadores-disgusto.html",
+            "resumen": "Joan Laporta volvió a referirse este sábado a la operación por Julián Álvarez en el acto de previa de la final del Mundial en Nueva York que organizó la RFEF. El presidente del Barça aseguró que un gran club no puede retener a un…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Capdevila pide ayuda a Trump para estar en la final: \"¡Me han denegado el ESTA!\"",
-            "link": "https://www.marca.com/futbol/seleccion/2026/07/17/capdevila-pide-ayuda-trump-final-me-han-denegado.html",
-            "resumen": "El exinternacional español, campeón en 2010, estaba invitado a la final.",
+            "titulo": "La trampa que espera a España",
+            "link": "https://www.marca.com/futbol/mundial/2026/07/19/final-presion.html",
+            "resumen": "España llega como el equipo que mejor roba del Mundial y Argentina como el que mejor esquiva el robo",
             "fuente": "Marca"
           },
           {
-            "titulo": "Cita de Laporta y Echevarría con Eto'o en Nueva York por los viejos tiempos",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260718/1004207689/cita-laporta-echevarria-eto-nueva-york-viejos-tiempos.html",
-            "resumen": "Samuel Eto'o , exdelantero del FC Barcelona entre 2004 y 2009 y actual presidente de la Federación de Camerún, descubrió en su redes sociales la cita que mantuvo con Joan Laporta y Alejandro Echevarría en un restaurante de Nueva York,…",
+            "titulo": "Laporta saca partido al Mundial: \"Aquí se hacen muchos pasillos y muchas reuniones\"",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260719/1004207975/laporta-saca-partido-mundial-pasillos-muchas-reuniones.html",
+            "resumen": "La presencia del Barça en Estados Unidos con motivo de la final del Mundial no solo ha servido para acompañar a la selección española. Joan Laporta explicó antes de la final contra Argentina que estos días también están siendo…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "El Villarreal se estrena en pretemporada con derrota ante el Benfica",
-            "link": "https://www.marca.com/futbol/villarreal/2026/07/17/villarreal-estrena-pretemporada-derrota-benfica.html",
-            "resumen": "El encuentro ha sido&nbsp;el debut de Iñigo Pérez en el banquillo amarillo",
+            "titulo": "Unicaja y Barça negocian el traspaso del pívot Balcerowski",
+            "link": "https://www.marca.com/baloncesto/acb/2026/07/19/unicaja-barca-negocian-traspaso-pivot-balcerowski.html",
+            "resumen": "El 'center' polaco dejará una buena suma en la entidad malagueña",
             "fuente": "Marca"
           }
         ]
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "July 18, 2026",
-    "generada": "10:54",
+    "fecha": "July 19, 2026",
+    "generada": "11:02",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "US strikes hit Iran for seventh consecutive night",
-            "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-            "resumen": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
+            "titulo": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+            "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+            "resumen": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "São Tomé and Príncipe heads to polls in tense presidential election",
+            "link": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
+            "resumen": "Incumbent Carlos Vila Nova hopes to defeat his former party and secure second term as independent Voters in São Tomé and Príncipe go to the polls for a presidential election on Sunday as one of Africa’s least populous countries seeks to…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "Why Tokyo’s New Shorts Policy is Sparking Debate in Japan",
+            "link": "https://www.nytimes.com/2026/07/19/world/asia/japan-cool-biz-tokyo-shorts-heat.html",
+            "resumen": "The Tokyo government is allowing workers to wear shorts for the first time this summer, prompting delicate questions about etiquette and hairy legs.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Tate brothers arrested in US as further UK charges take total to 59",
+            "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
             "fuente": "BBC"
           },
           {
             "titulo": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
             "link": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
             "resumen": "Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt duped Sitting on his porch in Teshie near Accra,…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
-            "link": "https://www.nytimes.com/2026/07/18/world/europe/tilman-fertitta-superyacht-italy-ambassador.html",
-            "resumen": "Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-            "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
-            "link": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
-            "resumen": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolation facility in ⁠Kenya after…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,9 +189,9 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
-            "link": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "It's a small but growing problem in the property market - here's how to protect yourself.",
+            "titulo": "New EU border system tripling time at passport control, airport boss says",
+            "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
             "fuente": "BBC"
           },
           {
@@ -201,15 +201,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "World Cup Final Drives Billions in Bets on Kalshi and Polymarket",
-            "link": "https://www.nytimes.com/2026/07/18/business/world-cup-kalshi-polymarket.html",
-            "resumen": "The soccer tournament has helped propel the prediction markets to new user records, creating what may be the largest gambling event in history.",
+            "titulo": "The Case of the 3:30 Emails",
+            "link": "https://www.nytimes.com/2026/07/19/business/delayed-email-glitch.html",
+            "resumen": "Plus: Are you really paying attention to me on Zoom?",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
-            "link": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country.",
+            "titulo": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
+            "link": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
+            "resumen": "It's a small but growing problem in the property market - here's how to protect yourself.",
             "fuente": "BBC"
           },
           {
@@ -224,15 +224,15 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Diamonds and 'cab to orbit': Rocket aiming to transform India's space ambitions takes off",
-            "link": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
-            "resumen": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
+            "titulo": "Is Burnham promising a new dawn for North Sea oil and gas?",
+            "link": "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The incoming PM is expected to announce fresh support for the North Sea from day one of his premiership.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Earth-like exoplanet found to have an atmosphere",
-            "link": "https://www.theguardian.com/science/2026/jul/16/atmosphere-lhs-1140b-exoplanet-could-water-scientists",
-            "resumen": "Scientists discover the first confirmed atmosphere around rocky planet outside our solar system that is within the habitable zone The search for life outside our solar system has taken another twist as researchers revealed they have…",
+            "titulo": "Weatherwatch: How English summer clouds can warn of trouble ahead",
+            "link": "https://www.theguardian.com/news/2026/jul/17/weatherwatch-english-summer-clouds-warn-bumps-ahead",
+            "resumen": "Mackerel skies and mare’s tails signal arrival of warm fronts that push moisture to high altitudes and creates distinctive clouds “Mare’s tails and mackerel scales make lofty ships to carry low sails,” runs an old English saying about…",
             "fuente": "The Guardian"
           },
           {
@@ -242,16 +242,16 @@ const EDICION_MUNDO = {
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Brain implant helps paralysed man to feed himself and drink from cup",
-            "link": "https://www.theguardian.com/science/2026/jul/16/neural-bypass-brain-implant-paralysed-man-feed-himself-drink-from-cup",
-            "resumen": "Keith Thomas can move arms and hands, and feel sensation of touch after ‘double neural bypass’ and months of training A man who was paralysed from the chest down in a swimming accident six years ago has been able to feed himself and drink…",
-            "fuente": "The Guardian"
+            "titulo": "Perseid meteors to light up night sky in one of the year's most active showers",
+            "link": "https://www.bbc.co.uk/weather/articles/c7vg667m4y5o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The Perseid meteor shower will light up the night sky over the next five weeks.",
+            "fuente": "BBC"
           },
           {
-            "titulo": "Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered",
-            "link": "https://www.nytimes.com/2026/07/17/science/space/two-super-puff-planets-discovered.html",
-            "resumen": "They’re less dense than cotton candy, and they will help astrophysicists better understand the most unusual ways giant planets can form.",
-            "fuente": "N.Y. Times"
+            "titulo": "Earth-like exoplanet found to have an atmosphere",
+            "link": "https://www.theguardian.com/science/2026/jul/16/atmosphere-lhs-1140b-exoplanet-could-water-scientists",
+            "resumen": "Scientists discover the first confirmed atmosphere around rocky planet outside our solar system that is within the habitable zone The search for life outside our solar system has taken another twist as researchers revealed they have…",
+            "fuente": "The Guardian"
           }
         ]
       },
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Life after Kane - are England facing a false nine future?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cp87llz7539o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Are England facing the prospect of using a false nine up front once record scorer Harry Kane calls time on his international career?",
+            "titulo": "Messi on the brink of history - will it be his last World Cup game?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Argentina captain Lionel Messi will play his 34th World Cup match in Sunday's final, but will it be his last appearance?",
             "fuente": "BBC"
           },
           {
-            "titulo": "DeChambeau will play on at the Open despite anger over two-stroke penalty",
-            "link": "https://www.theguardian.com/sport/2026/jul/17/bryson-dechambeau-the-open-participation-in-doubt-two-stroke-penalty-golf",
-            "resumen": "American’s participation over weekend was in doubt DeChambeau: ‘I don’t agree with it, but it is what it is’ Bryson DeChambeau’s ongoing participation in the Open Championship was in doubt until after midnight on Friday, after…",
+            "titulo": "Nappy factor? New dad Sam Burns steals march on chasing pack to lead Open",
+            "link": "https://www.theguardian.com/sport/2026/jul/18/new-dad-sam-burns-steals-march-on-chasing-pack-to-lead-open-after-third-day",
+            "resumen": "American two shots clear of Ryan Fox and Kim Si-woo Burns playing because wife gave birth earlier than expected After one of the more fiery 24 hours in Open history, how appropriate that a golfer named Burns leads going into the final…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "All Blacks punish Ireland in dominant Eden Park win",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c4gk5exp8eko?at_medium=RSS&at_campaign=rss",
-            "resumen": "Ruthless New Zealand score five tries to overwhelm Ireland and preserve their 32-year unbeaten run at Eden Park in a largely one-sided Nations Championship contest.",
+            "titulo": "Has Saka shown Tuchel he's too good to leave out?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c0ejnwj0n4jo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Bukayo Saka’s World Cup hat-trick against France reignited the selection debate and Thomas Tuchel’s decision to leave him out of the semi-final.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Caitlin Clark pours in career-high 45 points as Fever edge Storm in thriller",
-            "link": "https://www.theguardian.com/sport/2026/jul/17/caitlin-clark-45-points-10-assists-fever-storm-wnba-record",
-            "resumen": "Clark records first 40-10 game in WNBA history Career-high 45 sets new Fever franchise record Indiana survive late rally to beat Seattle 110-107 Caitlin Clark scored a career-high 45 points and had 10 assists for the first 40-10 game in…",
+            "titulo": "Tempo coach Sandy Brondello suspended over ‘protected species’ comment about Angel Reese",
+            "link": "https://www.theguardian.com/sport/2026/jul/18/sandy-brondello-suspended-angel-reese-protected-species-wnba-toronto-tempo",
+            "resumen": "Coach suspended one game by WNBA Brondello apologizes directly to Angel Reese League cites professionalism standards Toronto Tempo coach Sandy Brondello was suspended for one game by the WNBA for an inappropriate comment she used during a…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "The harrowing dark side of England's World Cup exit",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cwymljn8y10o?at_medium=RSS&at_campaign=rss",
-            "resumen": "During a major football tournament such as the World Cup, some women and girls are constantly living in fear - because domestic abuse rises when England play, research shows.",
+            "titulo": "Argentina coach accuses England of lack of respect",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cn4nvx0zxzqo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Argentina heach coach Felipe Contepomi walks out of his news conference after the 31-24 defeat by England in the Nations Championship.",
             "fuente": "BBC"
           }
         ]
