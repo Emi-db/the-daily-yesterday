@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "19 de julio de 2026",
-    "generada": "11:02",
+    "fecha": "20 de julio de 2026",
+    "generada": "12:07",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Argentina y España, dos \"enemigos íntimos\" que disputan una final de Mundial inédita",
-            "link": "https://www.bbc.com/mundo/articles/c1j1lz2k7epo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Estadísticas, curiosidades y antecedentes futbolísticos de argentinos y españoles, que este domingo se cruzan por primera vez en la final de un Mundial.",
+            "titulo": "España borra del campo a la Argentina de Messi y consigue su segundo Mundial con un gran juego de equipo",
+            "link": "https://www.bbc.com/mundo/articles/c304pv10g95o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Tras conseguir el título en Sudáfrica 2010, la Roja de Luis de la Fuente logra su segunda estrella al imponerse a Argentina en la prórroga.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Nadie protesta en la Rusia de Putin, pero la guerra empieza a pasar factura a su popularidad",
-            "link": "https://elpais.com/internacional/2026-07-19/nadie-protesta-en-la-rusia-de-putin-pero-la-guerra-empieza-a-pasar-factura-a-su-popularidad.html",
-            "resumen": "Las bajas en el frente, la amenaza de un nuevo reclutamiento masivo y los recortes en el suministro de combustible reducen el apoyo social al Kremlin",
+            "titulo": "Burnham se estrena como primer ministro con la promesa de más estabilidad política",
+            "link": "https://elpais.com/internacional/2026-07-20/burnham-se-estrena-como-primer-ministro-con-la-promesa-de-mas-estabilidad-politica.html",
+            "resumen": "El nuevo jefe de Gobierno del Reino Unido comenzará hoy mismo a nombrar a los miembros de su Ejecutivo",
             "fuente": "El País"
           },
           {
-            "titulo": "Estados Unidos lanza bombardeos contra Irán por octava jornada consecutiva",
-            "link": "https://www.france24.com/es/medio-oriente/20260719-estados-unidos-lanza-bombardeos-contra-ir%C3%A1n-por-octava-jornada-consecutiva",
-            "resumen": "El conflicto entre Washington y Teherán entró en una nueva fase de escalada después de que Estados Unidos anunciara una nueva ofensiva aérea contra posiciones iraníes por octava jornada consecutiva, en respuesta a un ataque que dejó dos…",
+            "titulo": "La pasión del fútbol se toma España tras ganar la Copa del Mundo 2026",
+            "link": "https://www.france24.com/es/video/20260720-la-pasi%C3%B3n-del-f%C3%BAtbol-se-toma-espa%C3%B1a-tras-ganar-la-copa-del-mundo-2026",
+            "resumen": "🇪🇸🏆 ¡España es campeona del Mundial 2026! Tras el triunfo de la selección ante Argentina en la final del torneo, la pasión del fútbol se tomó las calles de todo el país.",
             "fuente": "France 24"
           },
           {
-            "titulo": "Quién es Gianni Infantino y cómo llegó a ser el hombre más poderoso (y polémico) del fútbol mundial",
-            "link": "https://www.bbc.com/mundo/articles/cwy0yvdzzyvo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Gianni Infantino ha tenido roces con los sindicatos y el fútbol europeo, pero tras 10 años como presidente de la FIFA, sigue estando en una posición inexpugnable. Te contamos por qué.",
+            "titulo": "Por qué el triunfo de España frente a Argentina fue una victoria para el fútbol y el juego limpio",
+            "link": "https://www.bbc.com/mundo/articles/cgr70d5lnj1o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Describir un resultado como una \"victoria para el fútbol\" puede parecer un cliché manido, pero la final del Mundial de 2026 se acerca más que ningún otro partido a hacer realidad ese aforismo.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Andy Burnham, un político fuera de la burbuja",
-            "link": "https://elpais.com/internacional/2026-07-19/andy-burnham-un-politico-fuera-de-la-burbuja.html",
-            "resumen": "El exalcalde de Mánchester, nuevo líder del laborismo británico e inminente primer ministro, ha construido su reputación desde el contacto directo con la población y lejos del poder de Londres",
+            "titulo": "La Hungría pos-Orbán emprende una transición democrática exprés",
+            "link": "https://elpais.com/internacional/2026-07-20/la-transicion-democratica-expres-de-la-hungria-pos-orban.html",
+            "resumen": "Las reformas legislativas de Péter Magyar generan las primeras críticas, mientras el régimen de Fidesz de desintegra a gran velocidad y pierde la jefatura de Estado",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Carlos Cuerpo, el vuelo imperturbable de un vicepresidente",
-            "link": "https://elpais.com/economia/2026-07-19/carlos-cuerpo-el-vuelo-imperturbable-de-un-vicepresidente.html",
-            "resumen": "Mide los decibelios del Congreso en una aplicación, hace meditación e intenta hablar de Economía entre las preguntas de corrupción. En sus primeros 100 días como ‘número dos’ del Gobierno, quiere otro sentido para la palabra “político”",
+            "titulo": "El reparto a domicilio no encuentra la puerta de la rentabilidad y acelera su concentración",
+            "link": "https://elpais.com/economia/2026-07-20/el-reparto-a-domicilio-no-encuentra-la-puerta-de-la-rentabilidad-y-acelera-su-concentracion.html",
+            "resumen": "Las grandes pérdidas generadas tras el auge de la pandemia fuerzan la fusión de operadores y dejan el sector en manos de tres grupos: Uber, Doordash y Napsers",
             "fuente": "El País"
           },
           {
-            "titulo": "El euríbor da otro empuje a la rentabilidad del ahorro",
-            "link": "https://www.expansion.com/inversion/2026/07/18/6a5a8b05468aebe6678b4597.html",
-            "resumen": "Los bancos nacionales y europeos suben el nivel de competencia mientras el índice hipotecario vuelve a acercarse a la cota del 3%. Leer",
+            "titulo": "Sareb se liquidará en año y medio con 18.000 viviendas sin vender",
+            "link": "https://www.expansion.com/empresas/banca/2026/07/20/6a5d2a86468aebd70e8b4573.html",
+            "resumen": "Desde su creación ha traspasado 71.000 pisos de la cartera de adjudicados que resultó de la crisis financiera. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Entrada a las 15, salida antes de las 12: por qué cada vez se accede más tarde y se sale más pronto de los hoteles",
-            "link": "https://elpais.com/economia/2026-07-19/entrada-a-las-15-salida-antes-de-las-12-por-que-cada-vez-se-accede-mas-tarde-y-se-sale-mas-pronto-de-los-hoteles.html",
-            "resumen": "Las cadenas reservan la ampliación gratuita de horarios a los clientes de sus programas de fidelidad. Al resto se la ofrecen mediante un cobro que se ha convertido en una nueva línea de negocio",
+            "titulo": "La Generalitat admite la “pérdida de dinamismo” del mercado de alquiler tras fijar precios máximos",
+            "link": "https://elpais.com/espana/catalunya/2026-07-20/la-generalitat-admite-la-perdida-de-dinamismo-del-mercado-de-alquiler-tras-fijar-precios-maximos.html",
+            "resumen": "Un informe de Economía apunta a que una parte de esa oferta ha ido al alquiler de temporada y de habitaciones",
             "fuente": "El País"
           },
           {
-            "titulo": "El fondo de Pablo Casado pujará para mantener los Falcon",
-            "link": "https://www.expansion.com/empresas/2026/07/18/6a5a6ad9468aeb75538b4573.html",
-            "resumen": "El acuerdo marco, valorado en hasta 120 millones de euros, incluye también los Airbus A310, como el que usó Sánchez para ir a la Cumbre de la OTAN en Ankara (Turquía). Leer",
+            "titulo": "Bruselas impone a AliExpress una multa récord de 550 millones por vender productos ilegales",
+            "link": "https://www.expansion.com/empresas/2026/07/20/6a5df92be5fdea6c568b4578.html",
+            "resumen": "La Comisión Europea considera probado que la plataforma tiene \"fallos sistémicos\" que permiten la distribución de falsificaciones y productos peligrosos en la UE. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Empresas que contratan detectives para investigar bajas sospechosas: dónde están los límites en la lucha contra el absentismo",
-            "link": "https://elpais.com/economia/negocios/2026-07-19/empresas-que-contratan-detectives-para-investigar-bajas-sospechosas-donde-estan-los-limites-en-la-lucha-contra-el-absentismo.html",
-            "resumen": "Esta prueba pericial tiene límites estrictos; una mala planificación o ejecución iría en contra de la compañía",
+            "titulo": "Muere David Lucas, secretario de Estado de Vivienda",
+            "link": "https://elpais.com/economia/vivienda/2026-07-20/muere-david-lucas-secretario-de-estado-de-vivienda.html",
+            "resumen": "El Ministerio ha anunciado el fallecimiento del político madrileño a los 58 años a consecuencia de un cáncer",
             "fuente": "El País"
           }
         ]
@@ -78,9 +78,9 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "Científicos denuncian que la congelación de fondos los estrangula: “Tocamos a 2.000 euros al mes para cinco personas”",
-            "link": "https://elpais.com/ciencia/2026-07-18/cientificos-denuncian-que-la-congelacion-de-fondos-los-estrangula-tocamos-a-2000-euros-al-mes-para-cinco-personas.html",
-            "resumen": "Los investigadores explican que la partida del Ministerio de Ciencia supone apenas 50.000 euros al año por proyecto. Las sociedades científicas exigen duplicar el presupuesto",
+            "titulo": "Para reconocer a un mamífero hay que ver sus dientes",
+            "link": "https://elpais.com/ciencia/2026-07-20/para-reconocer-a-un-mamifero-hay-que-ver-sus-dientes.html",
+            "resumen": "No fue el pelo, las mamas o la sangre caliente. El desarrollo de una mandíbula sólida con una dentadura especializada fue una de las primeras características distintivas del grupo",
             "fuente": "El País"
           },
           {
@@ -90,9 +90,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Dos asteroides reciben la visita inédita de sondas espaciales en una semana",
-            "link": "https://elpais.com/ciencia/2026-07-17/dos-asteroides-reciben-la-visita-inedita-de-sondas-espaciales-en-una-semana.html",
-            "resumen": "La nave china Tianwen 2 y la japonesa Hayabusa 2 han transmitido fotografías e información de estos pequeños mundos",
+            "titulo": "Científicos denuncian que la congelación de fondos los estrangula: “Tocamos a 2.000 euros al mes para cinco personas”",
+            "link": "https://elpais.com/ciencia/2026-07-18/cientificos-denuncian-que-la-congelacion-de-fondos-los-estrangula-tocamos-a-2000-euros-al-mes-para-cinco-personas.html",
+            "resumen": "Los investigadores explican que la partida del Ministerio de Ciencia supone apenas 50.000 euros al año por proyecto. Las sociedades científicas exigen duplicar el presupuesto",
             "fuente": "El País"
           },
           {
@@ -102,9 +102,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "¿Qué ciencia puede realizarse con 50.000 euros al año?",
-            "link": "https://elpais.com/ciencia/2026-07-17/que-ciencia-puede-realizarse-con-50000-euros-al-ano.html",
-            "resumen": "“Esta limitación presupuestaria dificulta afrontar los experimentos complejos que hoy exige buena parte de la investigación en múltiples campos”, denuncian los autores",
+            "titulo": "Dos asteroides reciben la visita inédita de sondas espaciales en una semana",
+            "link": "https://elpais.com/ciencia/2026-07-17/dos-asteroides-reciben-la-visita-inedita-de-sondas-espaciales-en-una-semana.html",
+            "resumen": "La nave china Tianwen 2 y la japonesa Hayabusa 2 han transmitido fotografías e información de estos pequeños mundos",
             "fuente": "El País"
           }
         ]
@@ -113,33 +113,33 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "El Tour, en directo:&nbsp;el Solaison, primer final en un puerto fuera de categoría",
-            "link": "https://www.marca.com/ciclismo/tour-francia/2026/07/19/6a5c8f436c283cdca8c894f9.html",
-            "resumen": "Te contamos en directo otra nueva jornada de montaña del Tour con final en alto",
+            "titulo": "No era solo ganar el Mundial, era salvar el fútbol",
+            "link": "https://www.marca.com/futbol/mundial/2026/07/20/ganar-mundial-salvar-futbol.html",
+            "resumen": "La contracrónica de la final del Mundial 2026: España - Argentina",
             "fuente": "Marca"
           },
           {
-            "titulo": "Laporta responde al Atlético: \"Un club grande no puede permitirse jugadores a disgusto\"",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260719/1004207974/laporta-responde-atletico-sobre-julian-club-grande-no-permitirse-jugadores-disgusto.html",
-            "resumen": "Joan Laporta volvió a referirse este sábado a la operación por Julián Álvarez en el acto de previa de la final del Mundial en Nueva York que organizó la RFEF. El presidente del Barça aseguró que un gran club no puede retener a un…",
+            "titulo": "El mundo se rinde a España: \"La selección más grande del siglo XXI\"",
+            "link": "https://www.mundodeportivo.com/futbol/mundial/20260720/1004208300/mundo-rinde-espana-seleccion-grande-siglo-xxi.html",
+            "resumen": "España es campeona del mundo por segunda vez en la historia y la prensa mundial se rindió, una vez acabada la final, al juego de la selección dirigida por Luis de la Fuente. La Roja se coronó ante Argentina gracias a un gol de Ferran…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "La trampa que espera a España",
-            "link": "https://www.marca.com/futbol/mundial/2026/07/19/final-presion.html",
-            "resumen": "España llega como el equipo que mejor roba del Mundial y Argentina como el que mejor esquiva el robo",
+            "titulo": "\"Error garrafal de Messi pidiendo la expulsión de Cucurella\"",
+            "link": "https://www.marca.com/radio/2026/07/19/alfonso-perez-burrull-ve-roja-cucurella-taparse-boca-error-garrafal-messi-pedir-expulsion.html",
+            "resumen": "Esto opinaba el experto arbitral de Radio MARCA",
             "fuente": "Marca"
           },
           {
-            "titulo": "Laporta saca partido al Mundial: \"Aquí se hacen muchos pasillos y muchas reuniones\"",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260719/1004207975/laporta-saca-partido-mundial-pasillos-muchas-reuniones.html",
-            "resumen": "La presencia del Barça en Estados Unidos con motivo de la final del Mundial no solo ha servido para acompañar a la selección española. Joan Laporta explicó antes de la final contra Argentina que estos días también están siendo…",
+            "titulo": "Minuto 106 ¡Ferran! Segunda estrella",
+            "link": "https://www.mundodeportivo.com/opinion/20260720/1004208270/minuto-106-ferran-segunda-estrella.html",
+            "resumen": "Ni Messi ni Lamine , Ferran . Minuto 106, Nico retrasó el balón con la cabeza y el jugador valenciano del Barça de 26 años empalmó un zurdazo impresionante y dio la segunda estrella a la selección española frente a una Argentina que no…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Unicaja y Barça negocian el traspaso del pívot Balcerowski",
-            "link": "https://www.marca.com/baloncesto/acb/2026/07/19/unicaja-barca-negocian-traspaso-pivot-balcerowski.html",
-            "resumen": "El 'center' polaco dejará una buena suma en la entidad malagueña",
+            "titulo": "Así ha sido el espectáculo del descanso de la final del Mundial, en imágenes: Madonna, BTS, Shakira...",
+            "link": "https://www.marca.com/tiramillas/musica/album/2026/07/19/asi-sido-espectaculo-descanso-final-mundial-imagenes-madonna-bts-shakira.html",
+            "resumen": "El descanso de la final del Mundial 2026 estuvo a la altura de la cita más importante del fútbol. El espectáculo reunió sobre el escenario a grandes estrellas de la música internacional como Justin Bieber, Madonna, BTS, Shakira y otros…",
             "fuente": "Marca"
           }
         ]
@@ -147,16 +147,16 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "July 19, 2026",
-    "generada": "11:02",
+    "fecha": "July 20, 2026",
+    "generada": "12:07",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+            "titulo": "US soldier killed and one injured after Iranian attack in Iraq",
             "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-            "resumen": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
+            "resumen": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
             "fuente": "BBC"
           },
           {
@@ -166,15 +166,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Why Tokyo’s New Shorts Policy is Sparking Debate in Japan",
-            "link": "https://www.nytimes.com/2026/07/19/world/asia/japan-cool-biz-tokyo-shorts-heat.html",
-            "resumen": "The Tokyo government is allowing workers to wear shorts for the first time this summer, prompting delicate questions about etiquette and hairy legs.",
+            "titulo": "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
+            "link": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
+            "resumen": "U.S. and Iranian attacks are unfolding in a way that risks a wider war they cannot contain, analysts warn, unless they can return to negotiations quickly.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Tate brothers arrested in US as further UK charges take total to 59",
-            "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+            "titulo": "Boy, 13, dies during World Cup celebrations in Spain",
+            "link": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Two other young people were injured after a fountain partially collapsed in Salamanca's Ciudad Rodrigo.",
             "fuente": "BBC"
           },
           {
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "New EU border system tripling time at passport control, airport boss says",
-            "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+            "titulo": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
+            "link": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The Irish airline said oil prices had increased costs meanwhile Brent crude surpassed $90.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Trump has normalized crypto. Is it the path to the next financial collapse? | Eduardo Porter",
+            "link": "https://www.theguardian.com/business/2026/jul/18/trump-crypto-us-economy",
+            "resumen": "Cheerleading by the president, who made $1.2bn last year off uninsured currency, does not bode well for US economy The scale of the graft is decidedly off the charts, but the revelation that Donald Trump raked in a personal fortune of…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "U.S. Average Gas Price Returns to $4 a Gallon as Iran Crisis Escalates",
+            "link": "https://www.nytimes.com/2026/07/20/business/four-dollar-gas-iran-war.html",
+            "resumen": "A month ago, drivers were enjoying some relief at the pump after the U.S. and Iran signed a deal intended to reopen the Strait of Hormuz. Now, prices are rising again.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Jobs, benefits and taxes: What Andy Burnham means for your finances",
+            "link": "https://www.bbc.co.uk/news/articles/crkvj0ngzexo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The person in charge of the country will change but the financial challenges remain the same.",
             "fuente": "BBC"
           },
           {
             "titulo": "‘Laws were broken’: multistate effort to stop Paramount’s $111bn merger heads to court",
             "link": "https://www.theguardian.com/media/2026/jul/17/paramount-warner-bros-merger",
             "resumen": "Attorneys general from 12 states are suing to block the Paramount-Warner Bros deal they say violates antitrust law A last-ditch effort to block the merger between Paramount Skydance and Warner Bros Discovery (WBD) is heading to court as…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "The Case of the 3:30 Emails",
-            "link": "https://www.nytimes.com/2026/07/19/business/delayed-email-glitch.html",
-            "resumen": "Plus: Are you really paying attention to me on Zoom?",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
-            "link": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "It's a small but growing problem in the property market - here's how to protect yourself.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "How do you actually shop local in New York City?",
-            "link": "https://www.theguardian.com/us-news/2026/jul/17/how-to-shop-local-nyc",
-            "resumen": "Shopping local ensures a future for cultures and communities, says Caroline Weaver, creator of the Locavore Guide digital directory When I signed the lease for my new apartment in Brooklyn, the relief of having survived the brutal New…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,15 +224,15 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Is Burnham promising a new dawn for North Sea oil and gas?",
-            "link": "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The incoming PM is expected to announce fresh support for the North Sea from day one of his premiership.",
+            "titulo": "Going with the flow: Renewable energy battery breakthrough",
+            "link": "https://www.bbc.co.uk/news/articles/c3dyd4l8250o?at_medium=RSS&at_campaign=rss",
+            "resumen": "A 3D-printed battery designed at Queen's University Belfast could speed up energy storage research.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Weatherwatch: How English summer clouds can warn of trouble ahead",
-            "link": "https://www.theguardian.com/news/2026/jul/17/weatherwatch-english-summer-clouds-warn-bumps-ahead",
-            "resumen": "Mackerel skies and mare’s tails signal arrival of warm fronts that push moisture to high altitudes and creates distinctive clouds “Mare’s tails and mackerel scales make lofty ships to carry low sails,” runs an old English saying about…",
+            "titulo": "AI-altered images on birdwatching forums putting research at risk",
+            "link": "https://www.theguardian.com/environment/2026/jul/20/ai-slop-manipulated-fake-images-birds-citizen-science-aoe",
+            "resumen": "Experts warn increase in enhanced photos on birding platforms creating fake sightings, threatening credibility of tool used by scientists For many birdwatchers, recording a species outside its normal range is the holy grail. In the UK,…",
             "fuente": "The Guardian"
           },
           {
@@ -242,15 +242,15 @@ const EDICION_MUNDO = {
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Perseid meteors to light up night sky in one of the year's most active showers",
-            "link": "https://www.bbc.co.uk/weather/articles/c7vg667m4y5o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The Perseid meteor shower will light up the night sky over the next five weeks.",
+            "titulo": "Controversial farm subsidy scheme gets billion pound budget",
+            "link": "https://www.bbc.co.uk/news/articles/cr7kn49y3vdo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The protest-hit Sustainable Farming Scheme has been introduced after almost a decade in development.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Earth-like exoplanet found to have an atmosphere",
-            "link": "https://www.theguardian.com/science/2026/jul/16/atmosphere-lhs-1140b-exoplanet-could-water-scientists",
-            "resumen": "Scientists discover the first confirmed atmosphere around rocky planet outside our solar system that is within the habitable zone The search for life outside our solar system has taken another twist as researchers revealed they have…",
+            "titulo": "Could AI be conscious?",
+            "link": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
+            "resumen": "Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications In January, the AI company Anthropic published a new constitution for Claude, its most advanced large language model (LLM), which…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Messi on the brink of history - will it be his last World Cup game?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Argentina captain Lionel Messi will play his 34th World Cup match in Sunday's final, but will it be his last appearance?",
+            "titulo": "Best goal, best player, best fans - BBC reporters' World Cup awards",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cdxd1pq4nrko?at_medium=RSS&at_campaign=rss",
+            "resumen": "BBC Sport reporters pick their best moments of the tournament - and you can vote for yours.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Nappy factor? New dad Sam Burns steals march on chasing pack to lead Open",
-            "link": "https://www.theguardian.com/sport/2026/jul/18/new-dad-sam-burns-steals-march-on-chasing-pack-to-lead-open-after-third-day",
-            "resumen": "American two shots clear of Ryan Fox and Kim Si-woo Burns playing because wife gave birth earlier than expected After one of the more fiery 24 hours in Open history, how appropriate that a golfer named Burns leads going into the final…",
+            "titulo": "Vingegaard crashes out of Tour de France after ‘inhuman’ 2am doping control",
+            "link": "https://www.theguardian.com/sport/2026/jul/19/jonas-vingegaard-crashes-out-tour-de-france-remco-evenepoel-wins-stage-15",
+            "resumen": "Dane was woken by doping control at 2am on day of stage Remco Evenepoel outsprints Pogacar to claim victory Jonas Vingegaard crashed out of the Tour de France on the first Alpine stage on Sunday, only hours after being woken up in the…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Has Saka shown Tuchel he's too good to leave out?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c0ejnwj0n4jo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Bukayo Saka’s World Cup hat-trick against France reignited the selection debate and Thomas Tuchel’s decision to leave him out of the semi-final.",
+            "titulo": "Stay or go - at 28, Rashford faces big Man Utd call",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cy8m7n5827xo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The World Cup is over, and Marcus Rashford returns home not knowing if his future at club level lies with Manchester United.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Tempo coach Sandy Brondello suspended over ‘protected species’ comment about Angel Reese",
-            "link": "https://www.theguardian.com/sport/2026/jul/18/sandy-brondello-suspended-angel-reese-protected-species-wnba-toronto-tempo",
-            "resumen": "Coach suspended one game by WNBA Brondello apologizes directly to Angel Reese League cites professionalism standards Toronto Tempo coach Sandy Brondello was suspended for one game by the WNBA for an inappropriate comment she used during a…",
+            "titulo": "Angel Reese accepts Brondello’s apology after ‘protected species’ comment lands ban",
+            "link": "https://www.theguardian.com/sport/2026/jul/20/angel-reese-accepts-brondellos-apology-after-protected-species-comments-lands-ban",
+            "resumen": "Toronto coach made comment during Friday’s game Term common in Australia but could be seen as racist Angel Reese has accepted Toronto Tempo coach Sandy Brondello’s apology for an inappropriate comment about the Atlanta Dream star. The…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Argentina coach accuses England of lack of respect",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cn4nvx0zxzqo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Argentina heach coach Felipe Contepomi walks out of his news conference after the 31-24 defeat by England in the Nations Championship.",
+            "titulo": "Could Infantino really push through a 64-team World Cup?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cly7ley50g9o?at_medium=RSS&at_campaign=rss",
+            "resumen": "If we have learned one thing from Gianni Infantino's Fifa tenure, it is that more is better. That could mean 64 teams at the World Cup.",
             "fuente": "BBC"
           }
         ]
