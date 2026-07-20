@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "19 de julio de 2026",
-  "generada": "11:02",
+  "fecha": "20 de julio de 2026",
+  "generada": "12:07",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "El operativo del Gobierno que monitorea Lionel Messi y el error que dejó a todos en off side",
-          "link": "https://www.clarin.com/politica/operativo-gobierno-monitorea-lionel-messi-error-dejo-off-side_0_A1kk5ACpvC.html",
-          "resumen": "El Presidente habla directo con un miembro importante de la comitiva en Estados Unidos. Sus propuestas para el festejo y el equilibrio que hacen con el crack argentino. La polémica por Malvinas sacudió a la Casa Rosada.",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: el Gobierno espera la respuesta de la Selección para definir el sitio del festejo y si declara feriado nacional",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-gobierno-espera-respuesta-seleccion-definir-sitio-festejo-dia-laborable_0_kqXyYpbkzS.html",
+          "resumen": "El Presidente dijo que \"hay seis alternativas\" para organizar un encuentro con los jugadores. \"Estamos a la espera de lo que los jugadores decidan\", afirmó el mandatario.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Milei vuelve a desafiar a Lula y visita a tres presidentes sudamericanos para consolidar su “liderazgo” en la región",
-          "link": "https://www.lanacion.com.ar/politica/milei-vuelve-a-desafiar-a-lula-y-visita-a-tres-presidentes-sudamericanos-para-consolidar-su-nid19072026/",
-          "resumen": "En las próximas dos semanas, el Presidente verá a Flávio Bolsonaro, que competirá en octubre contra el mandatario brasileño; estará en las juras de Fujimori y De la Espriella y verá a Noboa",
+          "titulo": "Javier Milei y sus medidas, en vivo: el operativo por la llegada de los jugadores y la interna peronista",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-operativo-por-la-llegada-de-los-jugadores-y-la-interna-nid20072026/",
+          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El Gobierno apuesta a que el buen clima mundialista se sostenga hasta el anuncio de la visita del Papa",
-          "link": "https://www.infobae.com/politica/2026/07/19/el-gobierno-apuesta-a-que-el-buen-clima-mundialista-se-sostenga-hasta-el-anuncio-de-la-visita-del-papa/",
-          "resumen": "En Casa Rosada no temen un bajón post euforia, sea cual sea el resultado de la final ante España. Esperan que la designación del nuevo nuncio de León XIV en el país encienda los ánimos en torno al otro gran evento internacional del 2026.…",
+          "titulo": "Javier Milei da marcha atrás y le devuelve parte de las cajas a la CGT",
+          "link": "https://www.clarin.com/politica/javier-milei-da-marcha-devuelve-parte-cajas-cgt_0_mWyqrSwQqz.html",
+          "resumen": "El Gobierno modificó por decreto la reglamentación de la reforma laboral y sacó a los aportes patronales extraordinarios del tope del 2% que regía desde junio. Es un guiño a los gremiosy un revés para el ala dura que impulsaba el recorte…",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "El informe patrimonial sobre Adorni arrojó “sorpresas” en el rubro de las criptomonedas",
+          "link": "https://www.lanacion.com.ar/politica/el-informe-patrimonial-sobre-adorni-arrojo-sorpresas-en-el-rubro-de-las-criptomonedas-nid20072026/",
+          "resumen": "El análisis técnico que recibió el fiscal Pollicita amplió el mapa de movimientos vinculados al dinero digital del exjefe de Gabinete; será llamado a dar explicaciones tras la feria judicial",
+          "fuente": "La Nación"
+        },
+        {
+          "titulo": "Sin la Copa y sin Messi en el avión, vuelve Tapia y deberá enfrentar tres frentes de tormenta tras la pausa del Mundial",
+          "link": "https://www.infobae.com/politica/2026/07/20/sin-la-copa-y-sin-messi-en-el-avion-vuelve-tapia-y-debera-enfrentar-tres-frentes-de-tormenta-tras-la-pausa-del-mundial/",
+          "resumen": "El presidente de la AFA aterrizará esta tarde en Ezeiza con la ausencia de varios referentes de la Selección. Deberá afrontar causas judiciales, la tensión con el Gobierno y una nueva etapa económica y deportiva para la entidad",
           "fuente": "Infobae"
-        },
-        {
-          "titulo": "\"No intentes entenderla\": el video de la Orquesta Estable del Colón tocando \"Muchachos\" antes de la final Argentina vs España",
-          "link": "https://www.clarin.com/politica/intentes-entenderla-video-orquesta-estable-colon-tocando-muchachos-final-argentina-vs-espana_0_0FYyUXsoJU.html",
-          "resumen": "Ocurrió el viernes después de la interpretación de \"Carmina Burana\" en el Palacio Libertad. La reacción de Javier Milei.",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "El silencio de la gobernación y la Legislatura de Buenos Aires ampara a Martín Insaurralde",
-          "link": "https://www.lanacion.com.ar/politica/el-silencio-de-la-gobernacion-y-la-legislatura-de-buenos-aires-ampara-a-martin-insaurralde-nid19072026/",
-          "resumen": "Un proyecto de ley de La Libertad Avanza para investigar al exministro fue cajoneado en la Cámara baja",
-          "fuente": "La Nación"
         }
       ]
     },
@@ -42,15 +42,21 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Dólar CCL hoy: a cuánto cotiza este domingo 19 de julio",
-          "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-domingo-19-julio_0_m4DmNNpp4z.html",
-          "resumen": "Mirá la cotización para la compra y venta del dólar CCL hoy. Cotizaciones, evolución, previsiones e información para el cambio de monedas.",
+          "titulo": "Dólar hoy en Venezuela: precio y cotización de la divisa este lunes 20 de julio de 2026",
+          "link": "https://www.clarin.com/economia/dolar-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-lunes-20-de-julio-de-2026_0_eRnVbU5HZ8.html",
+          "resumen": "Mirá la cotización del dólar en Venezuela, su variación y los valores de referencia. Cómo es la tendencia de la moneda estadounidense en lo que va del año.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Estiman que otros 5.000 argentinos viajarán a EEUU para la final del Mundial 2026 y gastarán u$s58 millones",
-          "link": "https://www.ambito.com/economia/estiman-que-otros-5000-argentinos-viajaran-eeuu-la-final-del-mundial-2026-y-gastaran-us58-millones-n6300996",
-          "resumen": "Un informe privado proyectó que miles de hinchas partirán hacia Nueva Jersey para acompañar a la Selección argentina en la final frente a España. Solo esos nuevos viajeros demandarán una cifra millonaria.",
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 20 de julio, minuto a minuto",
+          "link": "https://www.lanacion.com.ar/economia/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid20072026/",
+          "resumen": "La divisa oficial opera a $1500 para la venta; el dólar blue cotiza a $1530 para esa operación",
+          "fuente": "La Nación"
+        },
+        {
+          "titulo": "China mantuvo sus tasas de interés de referencia sin cambios por decimocuarto mes consecutivo",
+          "link": "https://www.ambito.com/economia/china-mantuvo-sus-tasas-interes-referencia-cambios-decimocuarto-mes-consecutivo-n6301417",
+          "resumen": "La decisión se da en un contexto económico de crecimiento del PBI más lento en tres años y débil consumo. Los detalles, en la nota.",
           "fuente": "Ámbito"
         },
         {
@@ -60,16 +66,10 @@ const EDICION = {
           "fuente": "La Nación"
         },
         {
-          "titulo": "La city celebra el dato de la inflación de junio, pero enciende luces amarillas sobre el frente fiscal",
-          "link": "https://www.ambito.com/economia/la-city-celebra-el-dato-la-inflacion-junio-pero-enciende-luces-amarillas-el-frente-fiscal-n6300724",
-          "resumen": "Las principales consultoras coincidieron en que la desaceleración de los precios refuerza el proceso de desinflación. No obstante, advirtieron por el incumplimiento de la meta fiscal con el FMI y señalaron que la elevada mora crediticia…",
+          "titulo": "Prorrogan el funcionamiento de la agencia que se encarga de reorganizar a las empresas estatales",
+          "link": "https://www.ambito.com/economia/prorrogan-dos-anos-la-agencia-transformacion-empresas-publicas-y-amplian-sus-funciones-n6301401",
+          "resumen": "El Poder Ejecutivo extendió la vigencia de la unidad creada para coordinar la transformación de las empresas estatales, ratificó a sus principales autoridades e incorporó nuevas funciones vinculadas con la representación societaria y el…",
           "fuente": "Ámbito"
-        },
-        {
-          "titulo": "Qué hace falta para consolidar la baja de la inflación",
-          "link": "https://www.lanacion.com.ar/economia/que-hace-falta-para-consolidar-la-baja-de-la-inflacion-nid19072026/",
-          "resumen": "El anuncio del Gobierno sobre el proyecto de reforma de la Carta Orgánica del Banco Central puede representar un paso gigante en la búsqueda de la estabilidad económica; la falta de independencia del BCRA está trayendo hoy consecuencias…",
-          "fuente": "La Nación"
         }
       ]
     },
@@ -77,9 +77,9 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Elon Musk tuvo que ceder ante la Unión Europea para evitar una multa millonaria",
-          "link": "https://www.clarin.com/mundo/elon-musk-ceder-union-europea-evitar-multa-millonaria_0_WIed0nveUL.html",
-          "resumen": "El hombre más rico del mundo debió aceptar las regulaciones del bloque y aplicar “un plan de medidas correctivas” en su plataforma X. Deberá ser más transparente en su política de publicidad y permitir acceso a datos públicos.",
+          "titulo": "Cuba liberó a un artista disidente tras cinco años de encarcelamiento: ya está en Miami",
+          "link": "https://www.clarin.com/mundo/cuba-libero-artista-disidente-anos-encarcelamiento-miami_0_AeTFxBi1Mi.html",
+          "resumen": "Es Luis Otero Alcántara, quien viajó en avión a Estados Unidos. La Casa Blanca le concedió un amparo migratorio.",
           "fuente": "Clarín"
         },
         {
@@ -89,21 +89,21 @@ const EDICION = {
           "fuente": "La Nación"
         },
         {
-          "titulo": "En un audaz ataque con cientos de drones, Ucrania golpeó dos enormes locales de venta on line en Rusia: al menos 8 muertos y decenas de heridos",
-          "link": "https://www.clarin.com/mundo/audaz-ataque-cientos-drones-ucrania-golpeo-enormes-locales-venta-on-line-rusia-8-muertos-decenas-heridos_0_b3A8tbZmRf.html",
-          "resumen": "La ofensiva fue en Moscú y Tambov. El blanco fueron almacenes desde donde se distribuyen piezas para drones rusos. Moscú denunció un \"acto terrorista\". El presidente ucraniano afirmó que es una respuesta a los bombardeos rusos.",
+          "titulo": "Renunció uno de los políticos más poderosos de Alemania por tener un bebé por vientre de alquiler",
+          "link": "https://www.clarin.com/mundo/renuncio-politicos-poderosos-alemania-tener-bebe-vientre-alquiler_0_1P75cPArvL.html",
+          "resumen": "Es Jens Spahn, jefe parlamentario del oficialismo. La ley germana prohíbe la gestación subrogada. Su viaje a EE.UU. para esa práctica generó rechazos.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Estados Unidos bombardeó bases de Irán y crece la tensión en el estrecho de Ormuz",
-          "link": "https://www.lanacion.com.ar/el-mundo/estados-unidos-bombardeo-bases-de-iran-y-crece-la-tension-en-el-estrecho-de-ormuz-nid19072026/",
-          "resumen": "El Pentágono lanzó una ofensiva contra objetivos estratégicos de la Guardia Revolucionaria en represalia por la muerte de soldados",
+          "titulo": "Del banderazo a la desilusión: así vivieron los argentinos en Madrid la derrota ante España",
+          "link": "https://www.lanacion.com.ar/el-mundo/del-banderazo-a-la-desilusion-asi-vivieron-los-argentinos-en-madrid-la-derrota-ante-espana-nid20072026/",
+          "resumen": "La capital española pasó de los banderazos albicelestes de la víspera a una celebración multitudinaria por el título local; entre la resignación y el orgullo, la comunidad argentina siguió alentando a la selección de Lionel Scaloni pese a…",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El alcalde de Nueva York, Zohran Mamdani, dijo que está analizando arrestar a Benjamin Netanyahu cuando vaya a la asamblea de la ONU",
-          "link": "https://www.clarin.com/mundo/alcalde-nueva-york-zohran-mamdani-dijo-analizando-arrestar-benjamin-netanyahu-vaya-asamblea-onu_0_9NMUaVQu0f.html",
-          "resumen": "\"Sea lo que sea que la ley me permita hacer en la ciudad de Nueva York, eso haremos\", le aseguró Mamdani al New York Times. La Asamblea General de Naciones Unidas será en septiembre. En 2024, la CPI ordenó la detención del premier…",
+          "titulo": "Los rusos pierden la paciencia con Vladimir Putin: la falta de combustible derrumba por la guerra la imagen del líder del Kremlin",
+          "link": "https://www.clarin.com/mundo/rusos-pierden-paciencia-vladimir-putin-falta-combustible-derrumba-guerra-imagen-lider-kremlin_0_lpRxYdYhD8.html",
+          "resumen": "La población ha aguantado estoicamente la falta de éxitos en el frente, aunque una mayoría abogue por el fin de los combates, pero el problema es que la guerra llama ahora a sus puertas. Pero las interminables colas en las estaciones de…",
           "fuente": "Clarín"
         }
       ]
@@ -112,34 +112,34 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Unai Simón, el otro muro de España: el arquero solo recibió un gol y desafía el récord mundial de Lionel Messi en la final del Mundial 2026",
-          "link": "https://www.clarin.com/deportes/unai-simon-muro-espana-arquero-solo-recibio-gol-desafia-record-mundial-lionel-messi-final-mundial-2026_0_KZyvDTrS1m.html",
-          "resumen": "Gracias a una defensa impecable de sus compañeros, solo le remataron diez veces. Cómo está el historial contra el capitán de la Albiceleste.",
+          "titulo": "Mundial 2026, EN VIVO: el día después de la final, agradecimiento a los hinchas y el regreso a casa de los jugadores de la Selección argentina",
+          "link": "https://www.clarin.com/deportes/mundial-2026-vivo-dia-despues-final-agradecimiento-hinchas-regreso-casa-jugadores-seleccion-argentina_0_S2z1tZ1DC8.html",
+          "resumen": "Tras el triunfo de España en una final rabiosa, los futbolistas argentinos emprenden viaje a distintos destinos. Al menos cuatro de ellos regresarán a Buenos Aires, otros van a Europa o se quedan en Estados Unidos.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Argentina vs. España, EN VIVO por el Mundial 2026: hora, TV y las formaciones",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/argentina-vs-espana-en-vivo-por-el-mundial-2026-nid19072026/",
-          "resumen": "El partido se disputará a las 16 horas en el New York New Jersey Stadium; todos los detalles del encuentro",
+          "titulo": "The Telegraph celebró la victoria de España y calificó como “delincuentes” a los jugadores de la selección argentina",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/the-telegraph-celebro-la-victoria-de-espana-y-califico-como-delincuentes-a-los-jugadores-de-la-nid19072026/",
+          "resumen": "El diario británico apuntó contra la albiceleste y criticó a algunos futbolistas de la Scaloneta; “Cualquier otro resultado habría sido un auténtico crimen”, escribió",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Todo sigue igual: Coudet no le encuentra la vuelta a un River que suma golpazos",
-          "link": "https://www.ole.com.ar/river-plate/river-eduardo-coudet-derrota-aldosivi-copa-argentina_0_6Ok4GPveyq.html",
-          "resumen": "El DT reconoció que no logra plasmar en la cancha lo que trabaja en la práctica. Post pretemporada y con caras nuevas, el equipo dejó la misma imagen preocupante con la que cerró el semestre pasado.",
+          "titulo": "El promedio: ¿cuánto tiempo tiene que esperar la gente de cada país para ser campeona del mundo?",
+          "link": "https://www.ole.com.ar/mundial/mundial-2026/seleccion-mundial-tiempo-esperar-promedio-ranking-copa-mundo_0_xKJBkKs0dK.html",
+          "resumen": "España se consagró campeona, ajustando su media de años consecutivos sin ganar el Mundial, ranking en el que Brasil lidera con 19 años.",
           "fuente": "Olé"
         },
         {
-          "titulo": "La final del Mundial quiere parecerse al Super Bowl: por qué el show del entretiempo de Argentina - España preocupa a Scaloni",
-          "link": "https://www.clarin.com/deportes/final-mundial-quiere-parecerse-super-bowl-show-entretiempo-argentina-espana-preocupa-scaloni_0_q8i1mSGMEH.html",
-          "resumen": "Habrá un show con Chris Martin, líder de Coldplay, Madonna, BTS, Justin Bieber, Gustavo Dudamel, Shakira y Burna Boy, quienes interpretarán, entre otros temas, Dai Dai, la canción oficial del torneo. FIFA anunció que duraría 17 minutos,…",
+          "titulo": "La Selección vuela hacia la Argentina: la caminata solitaria de un Scaloni emocionado y una despedida triste",
+          "link": "https://www.clarin.com/deportes/seleccion-vuela-argentina-caminata-solitaria-scaloni-emocionado-despedida-triste_0_rjTo3RuZDv.html",
+          "resumen": "En el hotel apenas había un puñado de hinchas de la Albiceleste para saludar a un equipo con el que el pueblo se identificó. El avión de la Scaloneta llegará este lunes,pero todavía es una incógnita su continuidad.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Partidos de HOY, domingo 19 de julio: agenda, horario y por dónde ver EN VIVO el Mundial 2026",
-          "link": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-domingo-19-julio-2026-agenda-ole-horario-ver-vivo-online-mundial-2026_0_5Td0jcWaSJ.html",
-          "resumen": "La Scaloneta se mide ante España en un cruce crucial que paralizará al país. ¡Mirá!",
-          "fuente": "Olé"
+          "titulo": "Argentina resistió hasta donde pudo, pero España encontró en el alargue el gol que la consagró campeona del mundo",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/argentina-vs-espana-en-vivo-por-el-mundial-2026-nid19072026/",
+          "resumen": "La selección sufrió la expulsión de Enzo Fernández, que la condicionó, y no logró repetir el título de Qatar; los europeos celebran en Nueva Jersey",
+          "fuente": "La Nación"
         }
       ]
     }
