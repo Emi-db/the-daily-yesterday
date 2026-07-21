@@ -708,3 +708,67 @@ footer {
   .grilla-dia { column-count: 1; }
   .cintillo .sep { margin: 0 8px; }
 }
+
+/* ============================================================
+   LAS MANCHETAS (portada): las tres secciones del diario como
+   botones-sello con relieve. El truco del "relieve" es una
+   sombra dura desplazada; al pasar el mouse el botón se hunde
+   (se mueve hacia la sombra) y se entinta de rojo lacre.
+   ============================================================ */
+.manchetas {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin: 18px 0 4px;
+  flex-wrap: wrap;
+}
+.mancheta {
+  flex: 1 1 200px;
+  max-width: 280px;
+  text-decoration: none;
+  color: var(--tinta);
+  border: 2px solid var(--tinta);
+  box-shadow: 3px 3px 0 var(--tinta);
+  padding: 10px 14px 12px;
+  text-align: center;
+  background: rgba(255,255,255,.18);
+  transition: all .1s ease;
+  cursor: pointer;
+}
+.mancheta:hover {
+  background: var(--rojo-sello);
+  color: var(--papel);
+  box-shadow: 1px 1px 0 var(--tinta);
+  transform: translate(2px, 2px);
+}
+.mancheta b {
+  display: block;
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  font-size: 1.12rem;
+  letter-spacing: .02em;
+}
+.mancheta span {
+  font-style: italic;
+  font-size: .8rem;
+  color: var(--tinta-suave);
+}
+.mancheta:hover span { color: var(--papel-oscuro); }
+.mancheta .flechita {
+  display: block;
+  font-style: normal;
+  font-variant: small-caps;
+  letter-spacing: .28em;
+  font-size: .78rem;
+  margin-top: 6px;
+  color: var(--rojo-sello);
+}
+.mancheta:hover .flechita { color: var(--papel); }
+
+/* En pantallas chicas, las manchetas se apilan más compactas */
+@media (max-width: 700px) {
+  .manchetas { gap: 10px; }
+  .mancheta { padding: 7px 10px 8px; }
+  .mancheta b { font-size: 1rem; }
+  .mancheta .flechita { display: none; }
+}

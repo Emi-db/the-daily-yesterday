@@ -52,13 +52,24 @@
     <h1>The Daily Yesterday</h1>
     <p class="lema">« Todas las noticias de todos los ayeres »</p>
     <div class="filete-doble"></div>
-    <!-- El cintillo: las "secciones" del diario -->
-    <nav class="cintillo">
-      <a href="index.html" class="actual">El Archivo Histórico</a>
-      <span class="sep">·</span>
-      <a href="hoy.html">La Edición de Hoy</a>
-      <span class="sep">·</span>
-      <a href="mundo.html">El Mundo</a>
+    <!-- Las "manchetas": las secciones del diario como botones-sello
+         con relieve, para que se note que son puertas de entrada. -->
+    <nav class="manchetas">
+      <a class="mancheta" href="archivo.html">
+        <b>El Archivo Histórico</b>
+        <span id="cuenta-cronicas">crónicas · 1347–2022</span>
+        <i class="flechita">Abrir sección ⟶</i>
+      </a>
+      <a class="mancheta" href="hoy.html">
+        <b>La Edición de Hoy</b>
+        <span>los titulares de esta mañana</span>
+        <i class="flechita">Abrir sección ⟶</i>
+      </a>
+      <a class="mancheta" href="mundo.html">
+        <b>El Mundo</b>
+        <span>edición internacional · ES/EN</span>
+        <i class="flechita">Abrir sección ⟶</i>
+      </a>
     </nav>
     <div class="linea-edicion">
       <span id="edicion-numero">Edición histórica</span>
@@ -127,11 +138,10 @@ function fechaLarga(fechaISO) {
 
 // ------------------------------------------------------------
 // 1) LA PORTADA
-//    Al abrir, el diario está "en el presente": muestra la fecha
-//    de hoy, una noticia destacada en versión tapa (titular +
-//    grabado + primer párrafo) y recortes de otros hechos del
-//    mismo mes calendario. Solo al abrir una noticia completa
-//    el diario "viaja" a esa fecha.
+//    Al abrir, el diario está "en el presente": la fecha de hoy
+//    y UNA sola noticia destacada en versión tapa (titular,
+//    bajada y grabado). La portada es un vestíbulo despejado:
+//    solo al abrir la crónica el diario "viaja" a esa fecha.
 // ------------------------------------------------------------
 
 // Día del año (1 a 365): un número que cambia cada día pero es
@@ -155,30 +165,6 @@ function elegirDestacada() {
   return { indice: diaDelAnio() % EVENTOS.length, esEfemeride: false };
 }
 
-// Los recortes de abajo: otros hechos del mismo mes calendario
-// (sin importar el año). Si el mes viene flojo, completamos con
-// el archivo rotativo hasta juntar tres.
-function elegirTeasers(indiceExcluido) {
-  const mesActual = new Date().getMonth() + 1;
-
-  const delMes = EVENTOS
-    .map((ev, i) => ({ ev, i }))   // guardamos cada evento con su posición
-    .filter(x => x.i !== indiceExcluido && partesDeFecha(x.ev.fecha).mes === mesActual)
-    .sort((a, b) => partesDeFecha(a.ev.fecha).dia - partesDeFecha(b.ev.fecha).dia);
-
-  const elegidos = delMes.slice(0, 3);
-  const huboDelMes = elegidos.length > 0;
-
-  let paso = 0;
-  while (elegidos.length < 3 && paso < EVENTOS.length) {
-    const i = (diaDelAnio() * 7 + paso * 3) % EVENTOS.length;
-    paso++;
-    if (i === indiceExcluido || elegidos.some(x => x.i === i)) continue;
-    elegidos.push({ ev: EVENTOS[i], i });
-  }
-  return { elegidos, huboDelMes };
-}
-
 function mostrarPortada() {
   const hoy = new Date();
 
@@ -195,27 +181,6 @@ function mostrarPortada() {
     ? `Un día como hoy · hace ${anios} años`
     : "De nuestro archivo";
 
-  // Los recortes del mes
-  const { elegidos, huboDelMes } = elegirTeasers(indice);
-  const tituloTeasers = huboDelMes
-    ? `También en ${MESES[hoy.getMonth()]}, en la historia`
-    : "De las portadas del archivo";
-
-  const teasersHTML = elegidos.map(x => {
-    // Recortamos la bajada a ~120 letras, cuidando no cortar
-    // una palabra por la mitad (el replace saca la última
-    // palabra incompleta).
-    const recorte = x.ev.bajada.length > 120
-      ? x.ev.bajada.slice(0, 117).replace(/\s+\S*$/, "") + "…"
-      : x.ev.bajada;
-    return `
-      <button class="teaser" data-indice="${x.i}">
-        <span class="fecha-teaser">${fechaLarga(x.ev.fecha)}</span>
-        <span class="titulo-teaser">${x.ev.corto}</span>
-        <span class="recorte">${recorte}</span>
-      </button>`;
-  }).join("");
-
   document.getElementById("nota").innerHTML = `
     <div style="text-align:center"><span class="etiqueta">${etiqueta}</span></div>
     <div class="volanta">${ev.volanta}</div>
@@ -227,20 +192,12 @@ function mostrarPortada() {
            onerror="this.parentElement.style.display='none'">
       <figcaption>${ev.corto} — de los archivos ilustrados de este diario (Wikimedia Commons)</figcaption>
     </figure>
-    <div class="cuerpo cuerpo-uno"><p>${ev.cuerpo[0]}</p></div>
-    <div class="seguir"><button id="seguir-leyendo">Seguir leyendo esta edición ⟶</button></div>
-    <section class="teasers">
-      <div class="titulo-seccion">${tituloTeasers}</div>
-      <div class="teaser-grid">${teasersHTML}</div>
-    </section>
+    <div class="seguir"><button id="seguir-leyendo">Leer esta crónica ⟶</button></div>
   `;
 
-  // El botón de la tapa abre la noticia completa (conservando la
-  // etiqueta), y cada recorte abre la suya.
+  // El botón de la tapa abre la noticia completa (conservando la etiqueta)
   document.getElementById("seguir-leyendo")
     .addEventListener("click", () => mostrarNota(indice, etiqueta));
-  document.querySelectorAll(".teaser").forEach(boton =>
-    boton.addEventListener("click", () => mostrarNota(parseInt(boton.dataset.indice), null)));
 
   // En la portada, ninguna noticia del archivo está "activa"
   document.querySelectorAll(".evento.activo").forEach(e => e.classList.remove("activo"));
@@ -395,6 +352,11 @@ function armarArchivo() {
 // ------------------------------------------------------------
 EVENTOS.sort((a, b) => a.fecha.localeCompare(b.fecha));
 armarArchivo();
+
+// La mancheta del Archivo muestra cuántas crónicas hay: se cuenta
+// sola, así no hay que acordarse de actualizar el número.
+document.getElementById("cuenta-cronicas").textContent =
+  `${EVENTOS.length} crónicas · 1347–2022`;
 
 // El nombre del diario siempre lleva de vuelta a la portada
 const nombreDiario = document.querySelector(".cabezal h1");
