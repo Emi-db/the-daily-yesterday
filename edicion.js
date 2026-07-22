@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "21 de julio de 2026",
+  "fecha": "22 de julio de 2026",
   "generada": "11:40",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "El gobierno inició el trámite para cubrir otro cargo clave en Comodoro Py, donde se investiga la corrupción",
-          "link": "https://www.clarin.com/politica/gobierno-inicio-tramite-cubrir-cargo-clave-comodoro-py-investiga-corrupcion_0_8tIniO7Ers.html",
-          "resumen": "Luego de rechazar el pedido del juez Martín Irurzun para permanecer en su cargo con 75 años, empezó el concurso para ocupar su sillón en la Cámara Federal.",
+          "titulo": "Dilma Rousseff y un mensaje a Milei: \"Me gustaría que Argentina intente volver a los BRICS\"",
+          "link": "https://www.clarin.com/politica/dilma-rousseff-mensaje-milei-gustaria-argentina-intente-volver-brics_0_h17JWvcGUB.html",
+          "resumen": "Clarín habló con la expresidenta de Brasil en Shanghái. Actualmente preside el Nuevo Banco de Desarrollo (NDB) de los BRICS.",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Javier Milei y sus medidas, en vivo: movimientos en el oficialismo y reactivación de la agenda parlamentaria",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-movimientos-en-el-oficialismo-y-reactivacion-de-la-agenda-nid22072026/",
+          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "fuente": "La Nación"
+        },
+        {
+          "titulo": "Mendoza: piden el juicio político para la vicegobernadora por sus dichos contra la selección de Francia",
+          "link": "https://www.infobae.com/politica/2026/07/22/mendoza-piden-el-juicio-politico-para-la-vicegobernadora-por-sus-dichos-contra-la-seleccion-de-francia/",
+          "resumen": "Hebe Casado enfrenta diversos proyectos que solicitan formalmente su destitución por “conducta impropia” y “mal desempeño de sus funciones”",
+          "fuente": "Infobae"
+        },
+        {
+          "titulo": "Sigue el rediseño libertario de Comodoro Py: analizan reducir la cantidad de jueces en la Cámara Federal de Casación Penal",
+          "link": "https://www.clarin.com/politica/sigue-rediseno-libertario-comodoro-py-analizan-reducir-cantidad-jueces-camara-federal-casacion-penal_0_f1afPlDAEx.html",
+          "resumen": "Es el tribunal más importante del país por debajo de la Corte: revisa condenas y controla todas las causas por corrupción. Cuatro de sus trece puestos están vacantes y hay un concurso para cubrir tres lugares, pero con objeciones y…",
           "fuente": "Clarín"
         },
         {
           "titulo": "Javier Milei y sus medidas, en vivo: el mensaje del Presidente a la selección y el proyecto para suspender las PASO",
           "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mensaje-del-presidente-a-la-seleccion-y-el-proyecto-para-nid21072026/",
           "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-          "fuente": "La Nación"
-        },
-        {
-          "titulo": "Los motivos ocultos del Gobierno y la CGT para acordar cambios en la restricción que afectaba a la caja sindical",
-          "link": "https://www.infobae.com/politica/2026/07/21/los-motivos-ocultos-del-gobierno-y-la-cgt-para-acordar-una-modificacion-en-la-restriccion-que-afectaba-a-la-caja-sindical/",
-          "resumen": "La renuencia a renegociar unos 800 convenios colectivos por parte de empresarios y sindicalistas es una de las razones que explican por qué se corrigió una norma a pedido de la central obrera. La amenaza de judicialización, otra de las…",
-          "fuente": "Infobae"
-        },
-        {
-          "titulo": "Miriam Bregman gana centralidad: crece en las encuestas y en el PRO y el PJ siguen una eventual candidatura en la Ciudad",
-          "link": "https://www.clarin.com/politica/miriam-bregman-gana-centralidad-crece-encuestas-pro-pj-siguen-eventual-candidatura-ciudad_0_X7feEZydmt.html",
-          "resumen": "La referente del Frente de Izquierda aparece con una intención de voto superior a la de elecciones anteriores y en el Gobierno porteño ya la ubican en un piso de entre 8 y 10 puntos.",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "El Gobierno designó a Javier Lanari como director del Banco Nación",
-          "link": "https://www.lanacion.com.ar/politica/el-gobierno-designo-a-javier-lanari-como-director-del-banco-nacion-nid21072026/",
-          "resumen": "El exsecretario de Comunicación y Prensa ocupará el lugar que dejó Gonzalo Pascual y completará un período que vence el 4 de febrero de 2028",
           "fuente": "La Nación"
         }
       ]
@@ -42,34 +42,34 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Dólar hoy en Venezuela: precio y cotización de la divisa este martes 21 de julio de 2026",
-          "link": "https://www.clarin.com/economia/dolar-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-martes-21-de-julio-de-2026_0_PhBBz8cJfF.html",
-          "resumen": "Mirá la cotización del dólar en Venezuela, su variación y los valores de referencia. Cómo es la tendencia de la moneda estadounidense en lo que va del año.",
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 22 de julio, minuto a minuto",
+          "link": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-miercoles-22-julio-minuto-minuto_0_ukxXGKILKH.html",
+          "resumen": "Seguí los cambios de las cotizaciones del dólar este miércoles 22 de julio, minuto a minuto.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 21 de julio, minuto a minuto",
-          "link": "https://www.lanacion.com.ar/economia/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid21072026/",
-          "resumen": "La divisa oficial cerró el lunes a $1505 para la venta; el dólar blue cotiza a $1540 para esa operación",
-          "fuente": "La Nación"
-        },
-        {
-          "titulo": "Reforma laboral: el Gobierno eliminó el tope del 2% a los aportes y contribuciones sindicales sobre los salarios",
-          "link": "https://www.ambito.com/economia/reforma-laboral-el-gobierno-elimino-el-tope-del-2-los-aportes-y-contribuciones-sindicales-los-salarios-n6301609",
-          "resumen": "En la reglamentación del 1° de julio, el Ejecutivo había fijado que los aportes de los trabajadores no podían superar el 2% y que se calcularan únicamente sobre el salario básico. Ahora eliminó ese límite y amplió la base de cálculo a…",
+          "titulo": "El lado B del carry trade global",
+          "link": "https://www.ambito.com/economia/el-lado-b-del-carry-trade-global-n6302213",
+          "resumen": "Un combo inusual ha transformado a la capital japonesa en la más barata del mundo entre sus pares desarrollados. Mucho tiene que ver el comportamiento del yen, y en particular del “carry trade” global. Pero esto podría cambiar frente a…",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Fecha de cobro de Anses: el cronograma de pagos para este martes 21 de julio",
-          "link": "https://www.lanacion.com.ar/economia/fecha-de-cobro-de-anses-el-cronograma-de-pagos-para-este-martes-21-de-julio-nid21072026/",
-          "resumen": "El organismo previsional sigue con el calendario de pagos de jubilaciones mínimas y la AUH, entre otras prestaciones sociales",
+          "titulo": "Salario de la UATRE: cuánto cobra un trabajador rural en julio 2026",
+          "link": "https://www.lanacion.com.ar/economia/salario-de-la-uatre-cuanto-cobra-un-trabajador-rural-en-julio-2026-nid15072026/",
+          "resumen": "El acuerdo fue homologado por la Secretaría de Trabajo; cuáles son las cifras para las distintas categorías y la suma fija",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Plazo fijo en julio: cuánto hay que invertir para generar $250.000 en un mes",
-          "link": "https://www.ambito.com/economia/plazo-fijo-julio-cuanto-hay-que-invertir-generar-250000-un-mes-n6301526",
-          "resumen": "Las tasas nominales anuales muestran diferencias entre bancos y modifican el monto necesario para alcanzar el objetivo.",
+          "titulo": "Advierten que los dólares de Vaca Muerta no alcanzan: el rol de la política industrial y las lecciones de 3 países",
+          "link": "https://www.ambito.com/economia/advierten-que-los-dolares-vaca-muerta-no-alcanzan-el-rol-la-politica-industrial-y-las-lecciones-3-paises-n6302183",
+          "resumen": "Desde la organización Fundar sostienen que las exportaciones de productos primarios por habitante pueden triplicarse a 2035, pero aun así no alcanzarían los niveles de los países más ricos en recursos naturales.",
           "fuente": "Ámbito"
+        },
+        {
+          "titulo": "Nueva paritaria: cuánto gana un camionero en julio con el aumento confirmado",
+          "link": "https://www.lanacion.com.ar/economia/nueva-paritaria-cuanto-gana-un-camionero-en-julio-con-el-aumento-confirmado-nid13072026/",
+          "resumen": "Los trabajadores que transportan bienes en todo el territorio nacional reciben un aumento del 1,5%; cómo queda el salario, según la categoría",
+          "fuente": "La Nación"
         }
       ]
     },
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "El dilema del rearme europeo: se protege de Rusia, pero beneficia a China y a Vladimir Putin",
-          "link": "https://www.clarin.com/mundo/dilema-rearme-europeo-protege-rusia-beneficia-china-vladimir-putin_0_X00aTYKy5T.html",
-          "resumen": "El año pasado los 27 países de la Unión Europea aumentaron un 20% de media su gasto militar para llegar a un porcentaje de gasto sobre PBI que no se veía desde el fin de la Guerra Fría. Pero la industria europea necesita materias primas…",
+          "titulo": "A casi un mes del terremoto en Venezuela, ya son más de 5.300 los muertos y miles de personas siguen desaparecidas",
+          "link": "https://www.clarin.com/mundo/mes-terremoto-venezuela-5300-muertos-miles-personas-siguen-desaparecidas_0_MeFFuqcpme.html",
+          "resumen": "El dato lo difundió el presidente de la Asamblea Nacional, Jorge Rodríguez. Si bien no hay registros oficiales, se estima que hay más de 29.000 personas desaparecidas.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Murió un adolescente de 13 años durante los festejos por el triunfo de España en el Mundial",
-          "link": "https://www.lanacion.com.ar/el-mundo/murio-un-adolescente-de-13-anos-durante-los-festejos-por-el-triunfo-de-espana-en-el-mundial-nid20072026/",
-          "resumen": "El joven se encontraba sobre una fuente en medio de la celebración tras el triunfo del seleccionado español; otras dos personas resultaron heridas",
+          "titulo": "Austria convirtió la casa natal de Adolf Hitler en una comisaría",
+          "link": "https://www.lanacion.com.ar/sociedad/austria-convirtio-la-casa-natal-de-adolf-hitler-en-una-comisaria-nid22072026/",
+          "resumen": "La medida se tomó, según autoridades, para controlar las peregrinaciones neonazis que distintos grupos extremistas realizaban con frecuencia",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Donald Trump impone aranceles del 50% a la mayoría de las importaciones de Canadá",
-          "link": "https://www.clarin.com/mundo/donald-trump-impone-aranceles-50-mayoria-importaciones-canada_0_9aWF6SZPUD.html",
-          "resumen": "La medida que entrará en vigor dentro de treinta días y excluye, entre otros, la energía, la potasa, los minerales críticos y el pescado. El presidente de Estados Unidos sostiene que Canadá ha discriminado injustamente a los automóviles,…",
+          "titulo": "Estados Unidos ahora pone el foco en Nicaragua y dice que \"no se quedará de brazos cruzados\" ante la avanzada del régimen de Ortega para eliminar las elecciones",
+          "link": "https://www.clarin.com/mundo/estados-unidos-ahora-pone-foco-nicaragua-dice-quedara-brazos-cruzados-ortega-elimina-elecciones_0_6mHeUp2F3Y.html",
+          "resumen": "El autócrata presidente nicaragüense dijo el domingo que en su país \"no volverá a haber elecciones\" y mandó al Parlamento a avanzar con reformas antidemocráticas. Washington le restringió la visa a más de 2.350 funcionarios y sus…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Artemis III: quiénes son los cuatro astronautas de la nueva misión de la NASA",
-          "link": "https://www.lanacion.com.ar/el-mundo/artemis-iii-quienes-son-los-cuatro-astronautas-de-la-nueva-mision-de-la-nasa-nid19072026/",
-          "resumen": "La agencia espacial estadounidense confirmó a los integrantes de la próxima tripulación; la misión, prevista para 2027, pondrá a prueba tecnologías clave para el regreso de los humanos a la Luna",
+          "titulo": "Un restaurante con estrellas Michelin servía un postre con hormigas: el dueño enfrenta una pena de cárcel",
+          "link": "https://www.lanacion.com.ar/el-mundo/un-restaurante-con-estrellas-michelin-servia-un-postre-con-hormigas-el-dueno-enfrenta-una-pena-de-nid22072026/",
+          "resumen": "Está acusado de servir insectos prohibidos importados de Tailandia y Estados Unidos; eran ingredientes de un sorbete",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Declaran estado de \"catástrofe\" en algunas zonas de Chile por fuertes temporales: hay 5 muertos y 100.000 personas aisladas",
-          "link": "https://www.clarin.com/mundo/declaran-estado-catastrofe-zonas-chile-fuertes-temporales-5-muertos-100000-personas-aisladas_0_viO8rJrqn3.html",
-          "resumen": "Diez de las 16 regiones del país permanecen con alertas meteorológicas a raíz de la llegada de un sistema frontal a fines de la semana pasada que trajo consigo temporales, fuertes vientos, nevascas y deslizamientos de tierra desde el…",
+          "titulo": "Estados Unidos castiga a Canadá con un arancel del 50 por ciento y anuncia que sancionará a otros 60 países: podría incluir a la Argentina",
+          "link": "https://www.clarin.com/mundo/estados-unidos-castiga-canada-arancel-50-ciento-anuncia-sancionara-60-paises-podria-incluir-argentina_0_LbpX5eMP6P.html",
+          "resumen": "El país firmó un Tratado de Comercio e Inversión en febrero, que fue anulado por el fallo de la Corte Suprema y quedó en el limbo. Como ese pacto incluía cláusulas sobre trabajo forzado, le correspondería entonces ahora un 10%, un arancel…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "¿El final de la Scaloneta? Las señales que acercan a Lionel Scaloni a la despedida del ciclo más exitoso de la Selección Argentina",
-          "link": "https://www.clarin.com/deportes/final-scaloneta-senales-acercan-lionel-scaloni-despedida-ciclo-exitoso-seleccion-argentina_0_qHw41VVsLO.html",
-          "resumen": "Las declaraciones del Gringo significaron un cimbronazo después de la derrota en la final ante España. Un momento de retrospección y reflexión hasta diciembre, cuando se le vence el contrato.",
+          "titulo": "El semáforo de la Selección en el Mundial 2026: Messi fue el más aprobado, muchos no explotaron y tres quedaron en deuda",
+          "link": "https://www.clarin.com/deportes/semaforo-seleccion-mundial-2026-messi-aprobado-explotaron-quedaron-deuda_0_g9UQVaR30A.html",
+          "resumen": "Leo superó todas las expectativas y redondeó un torneo memorable. Lautaro Martínez, Facu Medina y el Cuti Romero cumplieron. Otros alternaron buenas y malas, como Julián Alvarez.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "¿Sigue en la selección argentina?: El comunicado completo del Dibu Martínez tras la derrota de la Argentina vs. España",
-          "link": "https://www.lanacion.com.ar/deportes/sigue-en-la-seleccion-argentina-el-comunicado-completo-del-dibu-martinez-tras-la-derrota-de-la-nid21072026/",
-          "resumen": "El arquero de la Albiceleste lanzó un sentido posteo en Instagram y abrió la puerta a una posible despedida",
+          "titulo": "La final de las conspiraciones",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/la-final-de-las-conspiraciones-nid22072026/",
+          "resumen": "",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El duro regreso a 'La Nuestra'",
-          "link": "https://www.ole.com.ar/opinion/final-mundial-vuelta-futbol-argentino-regreso-opinion-francotirador-ole_0_2SiQNPr9gM.html",
-          "resumen": "Se acabó el Mundial de haters, de los odiadores seriales de la Argentina, pero volverán las miserias de siempre. Una deuda interna -hasta la Copa del 2030- que nadie parece estar dispuesto a pagar.",
+          "titulo": "Troglio con Olé: \"Defiendo mis ideas políticas porque es una forma de mantener a mis viejos vivos\"",
+          "link": "https://www.ole.com.ar/futbol-primera/pedro-troglio-banfield-maradona_0_itIE577KHa.html",
+          "resumen": "El entrenador de Banfield analizó el fútbol actual, su vínculo con Maradona, el Mundial y abrió el arcón de los recuerdos en una charla exclusiva.",
           "fuente": "Olé"
         },
         {
-          "titulo": "¿Y ahora qué, Lionel? La decisión de Messi que nunca se espera que llegue y cómo reciclar a la Selección sin el mejor de la historia",
-          "link": "https://www.clarin.com/deportes/ahora-lionel-decision-messi-espera-llegue-reciclar-seleccion-mejor-historia_0_r5QoPEQSC8.html",
-          "resumen": "La Pulga será quien decida hasta dónde y cuándo seguirá como futbolista de la Albiceleste. Con el Inter Miami tiene contrato hasta 2028, cuando se disputará la Copa América, y todavía queda pendiente la Finalissima.",
+          "titulo": "El Ojo de Troglio: \"Las conspiraciones, los arbitrajes y las arengas, un clásico que ya vivimos en Italia 90\"",
+          "link": "https://www.clarin.com/deportes/ojo-troglio-conspiraciones-arbitrajes-arengas-clasico-vivimos-italia-90_0_R7Ez4d5LaN.html",
+          "resumen": "La final entre Argentina y España sigue siendo motivo de polémica y discusión. Se viralizó una imagen de Messi hablando con los jugadores antes del partido. Lo mismo pasó con Maradona, 36 años atrás, cuando perdimos con Alemania.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Messi ya está en la Argentina: llegó a Rosario para pasar unos días con su familia",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/messi-ya-esta-en-la-argentina-llego-a-rosario-para-pasar-unos-dias-con-su-familia-nid21072026/",
-          "resumen": "El avión que trasladó al 10 de la selección desde Miami aterrizó cerca de las 6.30; se quedará en un barrio privado de Funes y luego se reincorporará al Inter Miami",
+          "titulo": "Los psicólogos coinciden en que Scaloni es el modelo de líder ideal",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/los-psicologos-coinciden-en-que-scaloni-es-el-modelo-de-lider-ideal-nid21072026/",
+          "resumen": "En comunicación con LN+, el especialista Adriel Levy analizó el impacto emocional del plantel tras la derrota; destacó la gestión del técnico argentino en la final del Mundial",
           "fuente": "La Nación"
         }
       ]
