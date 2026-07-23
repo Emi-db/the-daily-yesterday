@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "22 de julio de 2026",
-    "generada": "11:40",
+    "fecha": "23 de julio de 2026",
+    "generada": "11:44",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "¿Por qué Irán está arriesgando tanto por el estrecho de Ormuz?",
-            "link": "https://www.bbc.com/mundo/articles/c70gekd822wo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Ninguna de las opciones a las que se enfrentan los líderes iraníes ofrece un camino claro hacia la victoria, mientras continúa el conflicto con Estados Unidos.",
+            "titulo": "3 investigaciones internacionales sobre Nicolás Maduro y su gobierno además del proceso judicial de Nueva York",
+            "link": "https://www.bbc.com/mundo/articles/cx2djl7pqj9o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Mientras en Estados Unidos se acusa al exmandatario por narcotráfico, otras investigaciones se centran en posibles crímenes de lesa humanidad.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Zelenski releva al jefe del ejército en Ucrania tras seis días de protestas",
-            "link": "https://elpais.com/internacional/2026-07-21/zelenski-releva-al-jefe-del-ejercito-en-ucrania-tras-seis-dias-de-protestas.html",
-            "resumen": "La destitución del ministro de Defensa, enfrentado al comandante de las Fuerzas Armadas, abrió una crisis política y militar acompañada de una ola de descontento que se ha extendido a Kiev y otras ciudades",
+            "titulo": "Zelenski trata de cerrar la crisis con un giro en la forma de conducir la guerra",
+            "link": "https://elpais.com/internacional/2026-07-22/zelenski-trata-de-cerrar-la-crisis-con-un-giro-en-la-forma-de-gestionar-la-guerra.html",
+            "resumen": "El nuevo jefe de las Fuerzas Armadas de Ucrania es Mijailo Drapaty, que aporta un aire nuevo al cargo frente al depuesto Oleksandr Sirski, anclado en una visión soviética del conflicto",
             "fuente": "El País"
           },
           {
-            "titulo": "\"No los vamos a abandonar bajo las ruinas\": un mes después, Venezuela sigue desenterrando a sus muertos",
-            "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260722-no-los-vamos-a-abandonar-bajo-las-ruinas-un-mes-despu%C3%A9s-venezuela-sigue-desenterrando-a-sus-muertos",
-            "resumen": "Después de 30 días del doble terremoto que dejó más de 5.200 muertos, el Gobierno de Venezuela convocó a pruebas de ADN para identificar cuerpos, pero aún no publica una cifra de desaparecidos. Los registros ciudadanos acumulan decenas de…",
+            "titulo": "India: ante la revuelta estudiantil, Modi promete castigar \"severamente\" los fraudes en los exámenes",
+            "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260723-india-ante-la-revuelta-estudiantil-modi-promete-castigar-severamente-los-fraudes-en-los-ex%C3%A1menes",
+            "resumen": "En el cuarto día de protestas estudiantiles en India, el primer ministro Narendra Modi rompió este jueves su silencio y prometió castigar \"severamente\" a los responsables de los fraudes en los exámenes de acceso a la universidad que…",
             "fuente": "France 24"
           },
           {
-            "titulo": "EE.UU. advierte a Daniel Ortega que no se quedará \"de brazos cruzados\" ante el anuncio de que no volverá a haber elecciones en Nicaragua",
-            "link": "https://www.bbc.com/mundo/articles/c980ljw9e3ro?at_medium=RSS&at_campaign=rss",
-            "resumen": "El jefe de la diplomacia estadounidense dice que el anuncio \"deja al descubierto la verdadera naturaleza autoritaria\" del matrimonio presidencial Ortega-Murillo y llama a comunidad internacional a unirse frente a los ataques contra los…",
+            "titulo": "\"¿Cuál fue su crimen?\": la BBC visita la escuela iraní en la que murieron 120 niños en un ataque atribuido a EE.UU.",
+            "link": "https://www.bbc.com/mundo/articles/cn8nx5r0yy7o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Casi cinco meses después, el dolor sigue muy presente cuando una maestra y una madre recuerdan el horror del ataque en Minab.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Hegseth reclama decenas de miles de millones para la guerra de Irán mientras aumentan los soldados muertos de EE UU",
-            "link": "https://elpais.com/internacional/2026-07-21/hegseth-reclama-decenas-de-miles-de-millones-para-la-guerra-de-iran-mientras-aumentan-los-soldados-muertos-de-ee-uu.html",
-            "resumen": "Son ya 18 los soldados estadounidenses caídos desde el inicio del conflicto, que según el secretario de Defensa ha costado 37.500 millones de dólares",
+            "titulo": "Grecia gana el pulso y la UE aprueba un paquete de sanciones a Rusia menos ambicioso de lo previsto",
+            "link": "https://elpais.com/internacional/2026-07-23/grecia-gana-el-pulso-y-la-ue-aprueba-un-paquete-de-sanciones-a-rusia-menos-ambicioso-de-lo-previsto.html",
+            "resumen": "Bruselas acepta incluir una exención a la prohibición de transportar gas licuado ruso para beneficiar a una gran empresa griega",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "La victoria de La Roja: un catalizador para la economía española, pero a muy corto plazo",
-            "link": "https://elpais.com/economia/2026-07-22/la-victoria-de-la-roja-un-catalizador-para-la-economia-espanola-pero-a-muy-corto-plazo.html",
-            "resumen": "El triunfo en el Mundial abona el terreno para que el PIB crezca por el repunte de las exportaciones y la visibilidad internacional durante los próximos meses",
+            "titulo": "El Gobierno propone a Yolanda Díaz como directora general de la OIT, el organismo de la ONU dedicado al trabajo",
+            "link": "https://elpais.com/economia/2026-07-23/el-gobierno-propone-a-yolanda-diaz-como-directora-general-de-la-oit-el-organismo-de-la-onu-dedicado-al-trabajo.html",
+            "resumen": "La vicepresidenta segunda aspira a desplazar al togolés Gilbert F. Houngbo, acusado por los sindicatos de alinearse con Trump. De ganar, Díaz no tomaría posesión del cargo hasta noviembre de 2027",
             "fuente": "El País"
           },
           {
-            "titulo": "Inflexion, Kutxabank y familias vascas entran en Salto y la valoran en más de 1.500 millones",
-            "link": "https://www.expansion.com/empresas/2026/07/22/6a608ee5468aeb7e538b457f.html",
-            "resumen": "Urrutia (Asúa Inversiones), Galíndez (Beraunberri) y Poza (Key Wolf) relevan a Peninsula Capital y Sofina en el capital de la compañía, mientras que Alantra, junto a Indar, y Florac reinvierten y seguirán en el accionariado. Los…",
+            "titulo": "Repsol lanza otro plan masivo de recompra de acciones tras triplicar el beneficio",
+            "link": "https://www.expansion.com/empresas/energia/2026/07/23/6a61a2b6468aeb99128b456e.html",
+            "resumen": "La primera petrolera gana 2.201 millones hasta junio, más que lo que ganó durante todo 2025, por la escalada de precios del crudo por la guerra del Golfo. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Las huelgas en España se triplican hasta el mes de mayo",
-            "link": "https://elpais.com/economia/2026-07-22/las-huelgas-en-espana-se-triplican-hasta-el-mes-de-mayo.html",
-            "resumen": "Las protestas de médicos y docentes, especialmente en Cataluña, impulsan los conflictos. Los sindicatos advierten de que los paros irán a más si no hay un acuerdo nacional de convenios",
+            "titulo": "Bruselas multa a Google con 890 millones por favorecer a sus propios servicios y obstaculizar los de la competencia",
+            "link": "https://elpais.com/economia/2026-07-23/bruselas-multa-a-google-con-890-millones-por-favorecer-a-sus-propios-servicios-y-obstaculizar-los-de-la-competencia.html",
+            "resumen": "La Comisión Europea da 60 días a la filial de Alphabet para proponer soluciones",
             "fuente": "El País"
           },
           {
-            "titulo": "Iberdrola dispara beneficios un 22% por México y enfila los 7.000 millones para 2026",
-            "link": "https://www.expansion.com/empresas/energia/2026/07/22/6a605a20468aebc3408b4570.html",
-            "resumen": "La venta de activos catapulta los resultados, que mantienen su buena racha en un momento en el que el primer grupo energético español se vuelca con su estrategia en redes, con compras como Caruna, la mayor distibuidora de luz de…",
+            "titulo": "Quiénes son los asesores fiscales de las grandes fortunas de España",
+            "link": "https://www.expansion.com/juridico/actualidad-tendencias/2026/07/23/6a61cc05468aeb225a8b457a.html",
+            "resumen": "Medio centenar de asesores fiscales sobresalen por sus conocimientos técnicos y su experiencia en la gestión de grandes patrimonios. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Voy a actualizar la renta, ¿dónde encuentro el dato del IPC y con cuánta antelación he de comunicárselo al inquilino?",
-            "link": "https://elpais.com/economia/vivienda/consultorio/2026-07-22/voy-a-actualizar-la-renta-donde-encuentro-el-dato-del-ipc-y-con-cuanta-antelacion-he-de-comunicarselo-al-inquilino.html",
-            "resumen": "Los lectores envían sus preguntas al consultorio de vivienda de EL PAÍS en colaboración con Legálitas",
+            "titulo": "El ingreso mínimo vital apenas llega al 44% de los hogares con condiciones para recibirlo",
+            "link": "https://elpais.com/economia/2026-07-23/el-ingreso-minimo-vital-apenas-llega-al-44-de-los-hogares-con-condiciones-para-recibirlo.html",
+            "resumen": "La Airef concluye que más de la mitad de los posibles beneficiarios ni siquiera solicitan esta renta y anuncia que dejará de hacer la evaluación",
             "fuente": "El País"
           }
         ]
@@ -78,9 +78,21 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "Una terapia solo para Connor: un adolescente camina por primera vez sin ayuda gracias a una ‘tirita’ genética",
-            "link": "https://elpais.com/ciencia/2026-07-21/una-terapia-solo-para-connor-un-adolescente-camina-por-primera-vez-sin-ayuda-gracias-a-una-tirita-genetica.html",
-            "resumen": "Un tratamiento experimental contra la epilepsia hecho a medida para cada paciente ofrece esperanza contra enfermedades neurológicas raras e incurables",
+            "titulo": "España impulsa la nueva guía internacional contra la pubertad precoz",
+            "link": "https://elpais.com/ciencia/2026-07-23/espana-impulsa-la-nueva-guia-internacional-contra-la-pubertad-precoz.html",
+            "resumen": "El país ha sido clave en las nuevas directrices para el tratamiento de una dolencia rara, pero potencialmente grave, que en ocasiones va acompañada de tumores cerebrales",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Así funciona Kimi K3, la IA china que asusta a Silicon Valley",
+            "link": "https://elpais.com/tecnologia/2026-07-23/asi-funciona-kimi-k3-la-ia-china-que-asusta-a-silicon-valley.html",
+            "resumen": "En la última semana dos modelos del país asiático han acaparado titulares y comentarios: cómo son y qué impacto tendrán",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Ninguna ciencia se hace con 50.000 euros",
+            "link": "https://elpais.com/ciencia/2026-07-22/ninguna-ciencia-se-hace-con-50000-euros.html",
+            "resumen": "La convocatoria de Proyectos de Generación de Conocimiento de 2025 es la mayor de su historia. Es un avance objetivo, aunque ello no impide un debate legítimo sobre la necesidad de seguir incrementando estas cuantías",
             "fuente": "El País"
           },
           {
@@ -90,21 +102,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Tras la pista en La Rioja de una nueva especie de dinosaurio",
-            "link": "https://elpais.com/ciencia/2026-07-21/tras-la-pista-en-la-rioja-de-una-nueva-especie-de-dinosaurio.html",
-            "resumen": "Los restos localizados en la localidad de Igea refuerzan la hipótesis de que allí vivió un ejemplar herbívoro de grandes dimensiones hace 120 millones de años",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "‘Captchas’: ¿Ha logrado Google que todos entrenemos a su IA sin saberlo?",
-            "link": "https://elpais.com/tecnologia/2026-07-22/captchas-ha-logrado-google-que-todos-entrenemos-a-su-ia-sin-saberlo.html",
-            "resumen": "El servicio fue creado hace 15 años con doble propósito: como filtro de seguridad para el tráfico de ‘bots’ y como generador de bases de datos para entrenar inteligencia artificial",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Para reconocer a un mamífero hay que ver sus dientes",
-            "link": "https://elpais.com/ciencia/2026-07-20/para-reconocer-a-un-mamifero-hay-que-ver-sus-dientes.html",
-            "resumen": "No fue el pelo, las mamas o la sangre caliente. El desarrollo de una mandíbula sólida con una dentadura especializada fue una de las primeras características distintivas del grupo",
+            "titulo": "Una terapia solo para Connor: un adolescente camina por primera vez sin ayuda gracias a una ‘tirita’ genética",
+            "link": "https://elpais.com/ciencia/2026-07-21/una-terapia-solo-para-connor-un-adolescente-camina-por-primera-vez-sin-ayuda-gracias-a-una-tirita-genetica.html",
+            "resumen": "Un tratamiento experimental contra la epilepsia hecho a medida para cada paciente ofrece esperanza contra enfermedades neurológicas raras e incurables",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Sekulic ya es culé",
-            "link": "https://www.mundodeportivo.com/baloncesto/acb/20260722/1004209015/oficial-aleksander-sekulic-nuevo-entrenador-barca.html",
-            "resumen": "Se acabó la espera. El Barça ha anunciado este miércoles a Aleksander Sekulic como nuevo entrenador del primer equipo para las dos próximas temporadas. El técnico esloveno, de 48 años, firma hasta el 30 de junio de 2028 y se convierte en…",
+            "titulo": "La presentación de Adeyemi como nuevo jugador del Barça, en directo",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209278/adeyemi-presentacion-directo-ultima-hora-fc-barcelona.html",
+            "resumen": "",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,32 +131,32 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Sekulic se reencontrará en el Barça con una cara muy conocida",
-            "link": "https://www.mundodeportivo.com/baloncesto/acb/20260722/1004209001/sekulic-reencontrara-barca-cara-conocida.html",
-            "resumen": "Aleksander Sekulic será el próximo entrenador del Barça . El seleccionador esloveno tomará el relevo de Xavi Pascual en el banquillo azulgrana tras la marcha del técnico catalán al Dubái Basketball. A sus 48 años, Sekulic afronta el reto…",
-            "fuente": "Mundo Deportivo"
-          },
-          {
             "titulo": "Caballero Scaloni",
             "link": "https://www.marca.com/futbol/mundial/2026/07/21/senorio-scaloni-perdimos-mejores-chicos-hay-veces-bueno-reconocer.html",
             "resumen": "El seleccionador de Argentina reconoce la superioridad de España en la final y huye de las quejas arbitrales y las protestas de sus jugadores",
             "fuente": "Marca"
+          },
+          {
+            "titulo": "Ferran desconecta en Ibiza a la espera de resolver su futuro",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209370/ferran-desconecta-ibiza-espera-resolver-futuro.html",
+            "resumen": "Después de convertirse en el héroe nacional, tras su gol en la final del Mundial ante Argentina que valió para darle el título a España, Ferran Torres aprovecha para desconectar en Ibiza. Tras pasar unas horas en Barcelona, donde llegó el…",
+            "fuente": "Mundo Deportivo"
           }
         ]
       }
     ]
   },
   "en": {
-    "fecha": "July 22, 2026",
-    "generada": "11:40",
+    "fecha": "July 23, 2026",
+    "generada": "11:44",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
-            "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
+            "titulo": "US signs landmark nuclear deal with Saudi Arabia",
+            "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+            "resumen": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
             "fuente": "BBC"
           },
           {
@@ -166,15 +166,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Ukraine’s New Military Chief Faces a Monumental Test",
-            "link": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-military-chief-drapatyi.html",
-            "resumen": "Maj. Gen. Mykhailo Drapatyi faces a balancing act between asserting the independence favored by military reformers and accommodating political input on battlefield strategy.",
+            "titulo": "‘We Will All Die From Ebola Here’: Virus Stalks Crowded Camps in Congo",
+            "link": "https://www.nytimes.com/2026/07/23/world/africa/ebola-camps-congo-water-aid.html",
+            "resumen": "There are a million people displaced by violence in the epicenter. They live in dangerous conditions and are fighting the virus with very little clean water.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Zelensky sacks Ukraine's top army commander after days of protests",
-            "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
+            "titulo": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+            "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+            "resumen": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
             "fuente": "BBC"
           },
           {
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Some food prices have fallen – but inflation expected to rise from here",
-            "link": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
-            "resumen": "June's fall in inflation will be welcomed by the new prime minister but analysts warn the fall is temporary.",
+            "titulo": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
+            "link": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss",
+            "resumen": "A group including the former England footballer write to the new PM telling him \"we can afford it\".",
             "fuente": "BBC"
           },
           {
-            "titulo": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
-            "link": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs",
-            "resumen": "Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products Donald Trump is imposing 50% tariffs on most Canadian goods in response to the country retaliating against previous US…",
+            "titulo": "Oil prices near $100 a barrel after US attacks Iran and Houthis hit tankers in Red Sea – business live",
+            "link": "https://www.theguardian.com/business/live/2026/jul/23/andy-burnham-business-rates-pubs-clubs-live-music-vape-shops-european-central-bank-ecb-interest-rates-latest-news-updates",
+            "resumen": "Live, rolling coverage of business, economics and financial markets as traders fear attacks from Yemen and Iran creating ‘two-chokepoint problem’ The Houthi attacks off the coast of Yemen targeted Saudi Arabian tankers, but two Chinese…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Global Oil Price Vaults Over $95 a Barrel as War Threats Intensify",
-            "link": "https://www.nytimes.com/2026/07/22/business/oil-prices-iran-war.html",
-            "resumen": "The risk of continued fighting and a threatened blockade in the Red Sea added to uncertainty about the flow of energy from the region.",
+            "titulo": "Google Hit With $1 Billion Fine By EU Over Search Engine Practices",
+            "link": "https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html",
+            "resumen": "At a tense moment for trans-Atlantic trade, the European Union accused Google of anti-competitive business practices.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Most bus fares in England to be capped at £2 from January",
-            "link": "https://www.bbc.co.uk/news/articles/cz64l78n5vpo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The government says the policy will \"help with the cost of living and give people the breathing space they need\"",
+            "titulo": "Airport drop-off fees up by a third - here are the priciest",
+            "link": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The cost of parking closest to the terminal has hit £10 at two of the UK's airports.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Judge orders pause on Paramount-Warner merger after challenge from 12 states",
-            "link": "https://www.theguardian.com/film/2026/jul/20/judge-pause-paramount-warner-bros-merger",
-            "resumen": "$81bn merger halted for at least two weeks after US states sued to block deal, saying it would ‘extinguish competition’ A federal judge on Monday ordered Paramount and Warner Bros Discovery to halt their $81bn merger for at least two…",
+            "titulo": "US senator accuses Barclays of ‘failure’ to investigate ex-CEO’s ties to Epstein",
+            "link": "https://www.theguardian.com/business/2026/jul/23/us-senator-barclays-jes-staley-jeffrey-epstein-failure-links-elizabeth-warren",
+            "resumen": "Exclusive: Elizabeth Warren claims bank did not ‘meaningfully investigate’ Jes Staley’s links with sex offender The leading US senator Elizabeth Warren has called for urgent answers from Barclays over what she claimed was its “apparent…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "UK's largest wind farm to be rebuilt with fewer, larger turbines",
-            "link": "https://www.bbc.co.uk/news/articles/cvgl9vp4vqvo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Whitelee Windfarm has been producing electricity for about 20 years on a stretch of moorland near Eaglesham but is reaching the end of its life.",
+            "titulo": "When can you see the Perseid meteor shower?",
+            "link": "https://www.bbc.co.uk/news/videos/cr5965695nyo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The Perseid meteor shower is set to light up the night sky, putting on a spectacular treat for skygazers.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Rivers of magma once bubbled beneath crust of Mars, research suggests",
-            "link": "https://www.theguardian.com/science/2026/jul/22/magma-rivers-beneath-mars-crust-study",
-            "resumen": "Finding widens selection of rocky planets that may once have been habitable Mars once had rivers of magma bubbling beneath its crust, new research suggests. The surprise find makes it more probable that Mars could have supported life and…",
+            "titulo": "Orcas seen ramming prey so hard it explodes may be playing game",
+            "link": "https://www.theguardian.com/environment/2026/jul/23/orcas-ramming-prey-hard-explodes-playing-game",
+            "resumen": "Scientists believe sunfish-smashing behaviour could be form of entertainment or to help younger whales feed Orcas have been observed ramming into giant fish so hard that the prey explode, possibly as a form of gory entertainment. On…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Monkeys Understand Shapes in Almost the Same Way as Humans",
-            "link": "https://www.nytimes.com/2026/07/21/science/monkeys-cognition-shapes-geometry.html",
-            "resumen": "Our geometric intuition, long considered something that sets us apart, seems to be shared with other primates.",
+            "titulo": "With Saudi Deal, Trump Loosens Nuclear Standards for One Close Ally",
+            "link": "https://www.nytimes.com/2026/07/22/us/politics/trump-saudi-nuclear-standards.html",
+            "resumen": "Nuclear experts say it throws fuel on the smoldering fire of atomic proliferation, creating a destabilizing situation that could raise the risk of nuclear war.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Great Apes kiss and cuddle to keep the peace, says study",
-            "link": "https://www.bbc.co.uk/news/articles/c5y045vprg5o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Hugging before stressful events may be an ancient way of building trust, say scientists studying apes.",
+            "titulo": "River levels approach all-time low as drought announcement looms",
+            "link": "https://www.bbc.co.uk/news/articles/c80n5rvx917o?at_medium=RSS&at_campaign=rss",
+            "resumen": "An announcement is expected from NRW as some river levels are reported to be nearing all-time lows.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Milky Way flipped in collision with dwarf galaxy 10bn years ago, astronomers say",
-            "link": "https://www.theguardian.com/science/2026/jul/21/milky-way-disc-flip-collision-dwarf-galaxy-astronomers",
-            "resumen": "Durham University researchers find cataclysmic direct hit with Gaia Sausage sent Milky Way into its current position Astronomers have found evidence that the Milky Way was flipped on its side following a direct hit from a wayward galaxy…",
+            "titulo": "Space datacenters proposed by Musk and Bezos ‘catastrophic’ for planet, experts warn",
+            "link": "https://www.theguardian.com/science/2026/jul/23/space-datacenters-bezos-blue-origin",
+            "resumen": "New US petition demands review of plans from tech companies amid fears of environmental destruction Space datacenters proposed by SpaceX , Jeff Bezos’s Blue Origin and others would release staggering levels of pollution that would…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Southampton boss Eckert charged by FA over Spygate",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c93480l4ex7o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Southampton head coach Tonda Eckert is charged by the Football Association for his role in the Spygate scandal.",
+            "titulo": "No men's Ashes Test in north of England - full 2027 schedule",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c1e1zl2qgpxo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Neither Old Trafford nor Headingley will host a men's Ashes Test between England and Australia next summer.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Tour de France 2026: stage 17 updates and a big day for the breakaway – live",
-            "link": "https://www.theguardian.com/sport/live/2026/jul/22/tour-de-france-2026-stage-17-live-cycling-updates",
-            "resumen": "Route runs 174.7km from Chambéry to Voiron Stage-by-stage guide | Team guide | Email Niall The row over late-night doping tests rumbles on at this year’s Tour, after Jonas Vingegaard and Tadej Pogacar were visited at 2am and 5am…",
+            "titulo": "Tour de France 2026: stage 18 heads for summit finish at Orcières-Merlette – live",
+            "link": "https://www.theguardian.com/sport/live/2026/jul/23/tour-de-france-2026-stage-18-summit-finish-orcieres-merlette-live",
+            "resumen": "Stage leaves from Voiron for latest mountains test Anti-doping chiefs reject Seixas favouritism | Mail Tom 161km to go The five riders up the road are Mathis le Berre (TotalEnergies), Jonas Abrahamsen (Uno-X Mobility), Nikolya Vinokurov,…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Financial exceptions could be made for Guardiola - Italian FA",
-            "link": "https://www.bbc.co.uk/sport/football/articles/czxqdv4818yo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Pep Guardiola has held talks about becoming Italy head coach, Italian Football Federation president Giovanni Malago has confirmed.",
+            "titulo": "Newcastle agree £34m deal for Monaco's Bamba",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cr593z81lqno?at_medium=RSS&at_campaign=rss",
+            "resumen": "Midfielder Aladji Bamba is due to arrive on Thursday for a medical and to sign a long-term contract.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Amazon founder Jeff Bezos in talks to join consortium seeking 30% stake in Liverpool",
-            "link": "https://www.theguardian.com/football/2026/jul/22/amazon-founder-jeff-bezos-consortium-stake-liverpool-football",
-            "resumen": "Billionaire keen to be part of Amit ­Bhatia’s £1.35bn bid Bezos has previously explored buying NFL franchises Amazon founder Jeff Bezos has held talks about joining the consortium that is seeking to buy around 30% of Liverpool. The group…",
+            "titulo": "Cooper Lutkenhaus: US track phenom on family ties, LA 2028 and balancing stardom with high school",
+            "link": "https://www.theguardian.com/sport/2026/jul/23/cooper-lutkenhaus-us-track-championships-interview",
+            "resumen": "The 17-year-old dreamed of playing for the Dallas Cowboys. Now he is America’s next big track star, with another chance for gold at this week’s US championships George Lutkenhaus and his family were rushing to the airport. There was a…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Why Chelsea have signed so many Man City academy graduates",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cpd7nqnq2w6o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Morgan Rogers is the latest ex-Man City academy player to join Chelsea and will be reunited with more former City team-mates.",
+            "titulo": "Wolves training cancelled after Arokodare refuses to leave pitch",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cr5934j1jmdo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Wolves striker Tolu Arokodare forces the cancellation of a training session as he refuses to leave the pitch.",
             "fuente": "BBC"
           }
         ]
