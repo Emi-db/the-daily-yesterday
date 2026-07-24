@@ -428,10 +428,13 @@ function armarArchivo() {
 EVENTOS.sort((a, b) => a.fecha.localeCompare(b.fecha));
 armarArchivo();
 
-// Bajo el buscador, cuántas crónicas hay: se cuenta sola, así
-// no hay que acordarse de actualizar el número.
+// Bajo el buscador, cuántas crónicas hay y de qué año a qué año:
+// se calcula solo (EVENTOS ya está ordenado por fecha), así no
+// hay que acordarse de actualizar nada al agregar crónicas.
+const primerAnio = parseInt(EVENTOS[0].fecha.slice(0, 4));
+const ultimoAnio = parseInt(EVENTOS[EVENTOS.length - 1].fecha.slice(0, 4));
 document.getElementById("cuenta-cronicas").textContent =
-  `${EVENTOS.length} crónicas · 1347–2022`;
+  `${EVENTOS.length} crónicas · ${primerAnio}–${ultimoAnio}`;
 
 // El nombre del diario siempre lleva de vuelta a la portada
 const nombreDiario = document.querySelector(".cabezal h1");
