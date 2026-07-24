@@ -5,3 +5,6 @@ __pycache__/
 # Archivos del sistema operativo
 Thumbs.db
 .DS_Store
+
+# Bocetos de diseno: referencia local, no se publican
+boceto-*.html
