@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "23 de julio de 2026",
-  "generada": "11:44",
+  "fecha": "24 de julio de 2026",
+  "generada": "11:28",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Estafa por US$ 10 millones a Camioneros: Moyano llamó a asamblea extraordinaria para remover a un dirigente",
-          "link": "https://www.clarin.com/politica/estafa-us-10-millones-camioneros-moyano-llamo-asamblea-extraordinaria-remover-dirigente_0_NOx51UImsU.html",
-          "resumen": "Es Claudio Balazic, ex secretario Administrativo del sindicato y hombre de extrema confianza del jefe camionero. Votarán la revocación de su mandato.",
+          "titulo": "Compras de 53.000 kilos de pescado, sobreprecios y horas extras: así descubrieron la estafa millonaria a Camioneros",
+          "link": "https://www.clarin.com/politica/compras-53000-kilos-pescado-sobreprecios-horas-extras-descubrieron-estafa-millonaria-camioneros_0_yldM1NyZsQ.html",
+          "resumen": "Por el fraude de US$ 10 millones fue removido un dirigente clave del gremio. En una asamblea, Hugo Moyano dio los detalles de la maniobra y se despegó de cualquier responsabilidad.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: movimientos sindicales y repercusiones del Mundial",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-movimientos-sindicales-y-repercusiones-del-mundial-nid23072026/",
-          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "titulo": "El Gobierno designó a Fernando Subirats como nuevo subsecretario de Comunicación y Medios Públicos",
+          "link": "https://www.lanacion.com.ar/politica/el-gobierno-designo-a-fernando-subirats-como-nuevo-subsecretario-de-comunicacion-y-medios-publicos-nid24072026/",
+          "resumen": "Era director de Radio Nacional desde el año pasado y tiene trayectoria en el área; estará bajo la órbita de Fabián Fernández",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La Provincia de Buenos Aires renovó el sistema de licencias profesionales y desde la oposición cuestionaron la medida",
-          "link": "https://www.infobae.com/politica/2026/07/14/la-provincia-anuncio-un-nuevo-sistema-de-licencias-profesionales-y-desde-la-oposicion-cuestionaron-la-medida/",
-          "resumen": "La presentación formal la hicieron el intendente de San Nicolás de los Arroyos, Santiago Passaglia y su hermano Manuel, diputado bonaerense. Apuntaron al aumento en los costos: “Esto no les conviene a los laburantes”",
+          "titulo": "Sicarios cibernéticos en el mar: la guerra electrónica que amenaza a la flota pesquera Argentina",
+          "link": "https://www.infobae.com/politica/2026/07/24/sicarios-ciberneticos-en-el-mar-la-guerra-electronica-que-amenaza-a-la-flota-pesquera-argentina/",
+          "resumen": "En las Jornadas de Intereses Marítimos Argentinos realizadas el 16 y 17 de julio en Mar del Plata, el dirigente de la AACPYPP sostuvo que las vulnerabilidades digitales ya alcanzan al Atlántico Sur",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Horacio Rodríguez Larreta le cierra la puerta al PRO y sondea un acuerdo con el peronismo no K para 2027",
-          "link": "https://www.clarin.com/politica/horacio-rodriguez-larreta-cierra-puerta-pro-sondea-acuerdo-peronismo-k-2027_0_olzAud222V.html",
-          "resumen": "El ex jefe de Gobierno porteño rechaza negociar con los Macri si apuestan a una alianza estratégica con el mileísmo. Apunta a llegar a un balotaje de la mano del voto moderado.",
+          "titulo": "Con retoques, el oficialismo quiere volver a la carga con el proyecto para agravar penas por falsas denuncias",
+          "link": "https://www.clarin.com/politica/retoques-oficialismo-quiere-volver-carga-proyecto-agravar-penas-falsas-denuncias_0_OVNNJGJ22t.html",
+          "resumen": "El texto había sido dictaminado en abril pero no tenía los votos garantizados para ser llevado al recinto.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El intendente de Castelli impulsa un proyecto para lograr autonomía plena y recrudece el debate por la reelección indefinida",
-          "link": "https://www.lanacion.com.ar/politica/el-intendente-de-castelli-impulsa-un-proyecto-para-lograr-autonomia-plena-y-recrudece-el-debate-por-nid23072026/",
-          "resumen": "Francisco Echarren, del PJ, promueve una convención constituyente para redactar una carta orgánica que regule las elecciones locales y ponga en manos del municipio las decisiones sanitarias o tributarias y la seguridad",
+          "titulo": "Javier Milei y sus medidas, en vivo: el proyecto de “inocencia fiscal 2″ y las propuestas en al Congreso",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-proyecto-de-inocencia-fiscal-2-y-las-propuestas-en-al-congreso-nid24072026/",
+          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         }
       ]
@@ -42,34 +42,34 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 23 de julio, minuto a minuto",
-          "link": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-jueves-23-julio-minuto-minuto_0_XAIXlXQT5s.html",
-          "resumen": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotizó el oficial y cuál fue el precio del paralelo este jueves 23 de julio, minuto a minuto",
+          "titulo": "Ethereum hoy: cotización y precio del ETH este viernes 24 de julio de 2026",
+          "link": "https://www.clarin.com/economia/ethereum-hoy-cotizacion-y-precio-del-eth-este-viernes-24-de-julio-de-2026_0_A5sVTQgjPx.html",
+          "resumen": "El valor actualizado de la segunda criptomoneda más importante por capitalización. Origen e historia de Ethereum.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La Unión Europea presiona Rusia con nuevas sanciones al petróleo y las finanzas",
-          "link": "https://www.ambito.com/economia/la-union-europea-presiona-rusia-nuevas-sanciones-al-petroleo-y-las-finanzas-n6302671",
-          "resumen": "Alcanzó un consenso para imponer un vigésimo primer paquete de sanciones a Rusia, tras semanas de negociaciones. Se prorroga el techo de u$s44 por barril al crudo ruso y se limitan transacciones financieras y contra las criptomonedas.",
-          "fuente": "Ámbito"
-        },
-        {
-          "titulo": "Salario de la UATRE: cuánto cobra un trabajador rural en julio 2026",
-          "link": "https://www.lanacion.com.ar/economia/salario-de-la-uatre-cuanto-cobra-un-trabajador-rural-en-julio-2026-nid15072026/",
-          "resumen": "El acuerdo fue homologado por la Secretaría de Trabajo; cuáles son las cifras para las distintas categorías y la suma fija",
+          "titulo": "Preocupación libertaria: advierten que en la Legislatura bonaerense no avanzan proyectos para responder a los reclamos del campo",
+          "link": "https://www.lanacion.com.ar/economia/campo/alerta-en-la-legislatura-bonaerense-admiten-que-no-avanzan-proyectos-para-responder-a-los-reclamos-nid23072026/",
+          "resumen": "La presidenta de la Comisión de Asuntos Agrarios de Diputados, Analía Corvino (LLA), y el vicepresidente de la comisión homónima del Senado, Gonzalo Cabezas (LLA), señalaron que la actividad parlamentaria es escasa y que las principales…",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Los fondos soberanos ya gestionan u$s15 billones y redoblan su apuesta por la IA",
-          "link": "https://www.ambito.com/economia/los-fondos-soberanos-gestionan-15-billones-dolares-activos-n6302598",
-          "resumen": "Cuando se habla de grandes inversores globales, sin duda los llamados “Sovereign Wealth Funds” dicen presente, cada vez más. En la actualidad administran inversiones por el equivalente a 25 veces el PBI de Argentina. Cada año surge uno…",
+          "titulo": "Alerta para la actividad económica: estiman que en junio se mantuvo bajo presión tras un mayo peor de lo esperado",
+          "link": "https://www.ambito.com/economia/alerta-la-actividad-economica-estiman-que-junio-se-mantuvo-presion-un-mayo-peor-lo-esperado-n6302882",
+          "resumen": "La actividad cayó por segundo mes en mayo, mientras los datos de junio anticipan más bajas en consumo e industrias clave.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Nueva paritaria: cuánto gana un camionero en julio con el aumento confirmado",
-          "link": "https://www.lanacion.com.ar/economia/nueva-paritaria-cuanto-gana-un-camionero-en-julio-con-el-aumento-confirmado-nid13072026/",
-          "resumen": "Los trabajadores que transportan bienes en todo el territorio nacional reciben un aumento del 1,5%; cómo queda el salario, según la categoría",
+          "titulo": "Plazo fijo: cuál es la tasa de interés banco por banco este viernes 24 de julio",
+          "link": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-viernes-24-de-julio-nid24072026/",
+          "resumen": "El Banco Central de la República Argentina (BCRA) permite a los ahorristas conocer el rendimiento de estos instrumentos de inversión en pesos con una tabla comparativa de tasas",
           "fuente": "La Nación"
+        },
+        {
+          "titulo": "Lo que se dice en las mesas: inversores ya empiezan a descontar un escenario dual para la economía y la política en 2027",
+          "link": "https://www.ambito.com/economia/lo-que-se-dice-las-mesas-inversores-ya-empiezan-descontar-un-escenario-dual-la-y-la-politica-2027-n6303105",
+          "resumen": "En las mesas de dinero analizan las perspectivas para el próximo año, con foco en la evolución de la economía, el escenario electoral y las vulnerabilidades financieras. La mejora de la calificación crediticia, el comportamiento de los…",
+          "fuente": "Ámbito"
         }
       ]
     },
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Rusos y ucranianos atacan los almacenes de comercio electrónico: ¿Cuál es la razón detrás de esta táctica de guerra?",
-          "link": "https://www.clarin.com/mundo/rusos-ucranianos-atacan-almacenes-comercio-electronico-razon-detras-tactica-guerra_0_GVycaiLtJU.html",
-          "resumen": "Varios trabajadores han muerto en bombardeos contra almacenes de venta electrónica con drones y misiles, que han causado pérdidas millonarias a las compañías y, sobre todo, a sus clientes. Ambos bandos aseguran que dichas instalaciones…",
+          "titulo": "Panorama internacional: Brasil, una batalla electoral no solo de los brasileños",
+          "link": "https://www.clarin.com/mundo/panorama-internacional-brasil-batalla-electoral-solo-brasilenos_0_V2ITjukQMb.html",
+          "resumen": "Este sábado se proclama la candidatura de Flávio Bolsonaro, un esfuerzo ceremonial para detener el alboroto y críticas en el espacio derechista contra el postulante en unas elecciones donde EE.UU. ha intensificado su presencia por medio…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Quién era Facundo Rico, el ingeniero argentino asesinado en España por una sospecha de infidelidad",
-          "link": "https://www.lanacion.com.ar/el-mundo/quien-era-facundo-rico-el-ingeniero-argentino-asesinado-en-espana-por-un-hombre-que-creia-que-su-nid23072026/",
-          "resumen": "La víctima, de 37 años, vivía en el barrio de Las Tablas, Madrid; según las investigaciones, iba al mismo gimnasio que la mujer y fue apuñalado hasta morir",
+          "titulo": "A un mes del doble terremoto, Venezuela enfrenta una tragedia sin final",
+          "link": "https://www.lanacion.com.ar/el-mundo/a-un-mes-del-doble-terremoto-venezuela-enfrenta-una-tragedia-sin-final-nid24072026/",
+          "resumen": "El dolor por las vidas perdidas y la devastación material hoy marcan a miles de sus ciudadanos; frente a la magnitud de la tragedia, la reconstrucción rápida y efectiva de las zonas afectadas es una tarea urgente e impostergable",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Ahora el alcalde de Nueva York, Zohran Mamdani, dice que no podrá arrestar a Netanyahu cuando vaya a la asamblea de la ONU",
-          "link": "https://www.clarin.com/mundo/ahora-alcalde-nueva-york-zohran-mamdani-dice-podra-arrestar-netanyahu-vaya-asamblea-onu_0_DPFOLw9AjF.html",
-          "resumen": "Reconoció que no cuenta \"con la autoridad legal independiente\" para hacer cumplir la orden de arresto contra el primer ministro, pero instó a que Trump lo haga. La Corte Penal Internacional acusa al líder israelí de crímenes de guerra y…",
+          "titulo": "La primera ministra de Japón reveló que duerme de cero a tres horas y encendió las alarmas",
+          "link": "https://www.clarin.com/mundo/primera-ministra-japon-revelo-duerme-cero-horas-encendio-alarmas_0_R3oCy1C2yF.html",
+          "resumen": "Sanae Takaichi contó en sus redes sociales que en estos días logró conciliar \"cinco horas completas de sueño por primera vez en mucho tiempo\". En su publicación, desgranó la ajetreada agenda que lleva adelante y despertó debates sobre los…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Los pilotos de un vuelo de British Airways sufrieron una intoxicación alimentaria durante un viaje de más de 10 horas",
-          "link": "https://www.lanacion.com.ar/el-mundo/los-pilotos-de-un-vuelo-de-british-airways-sufrieron-una-intoxicacion-en-mitad-de-un-viaje-de-mas-de-nid23072026/",
-          "resumen": "Uno de ellos quedó “incapacitado” a 30.000 pies de altura y tuvo que recibir oxígeno; la aerolínea de bandera del Reino Unido inició una investigación tras el episodio",
+          "titulo": "Trump reactiva la guerra comercial con aranceles a 60 socios comerciales",
+          "link": "https://www.lanacion.com.ar/estados-unidos/trump-reactiva-la-guerra-comercial-con-aranceles-a-60-socios-comerciales-nid23072026/",
+          "resumen": "Una nueva batería de gravámenes, de entre el 10% y el 12,5%, entrará en vigor este viernes bajo el argumento de combatir el trabajo forzoso, luego del fallo adverso de la Corte Suprema; cómo queda la posición argentina",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El príncipe George cumple 13 años y ya se prepara para heredar el trono en Gran Bretaña",
-          "link": "https://www.clarin.com/mundo/principe-george-cumple-13-anos-prepara-heredar-trono-gran-bretana_0_eEbl39MMs7.html",
-          "resumen": "El hijo mayor de William y Kate irá a estudiar al exclusivo y aristocrático colegio Eton, como su padre y su tío Harry. La apuesta de la realeza británica para un futuro monarca diferente a sus predecesores.",
+          "titulo": "Declaran la emergencia por los incendios en las afueras de Madrid: hay más de 10 mil evacuados",
+          "link": "https://www.clarin.com/mundo/declaran-emergencia-incendios-afueras-madrid-10-mil-evacuados_0_pOHLtCSLmM.html",
+          "resumen": "Isabel Díaz Ayuso había pedido que se declarara la emergencia por \"la gravedad y simultaneidad de incendios forestales\". La Unidad Militar de Emergencias asumirá el mando de la operación. Se esperan condiciones meteorológicas muy adversas…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Vuelve el fútbol en Europa: cuándo empiezan las cinco grandes ligas y las copas internacionales tras el Mundial 2026",
-          "link": "https://www.clarin.com/deportes/vuelve-futbol-europa-empiezan-grandes-ligas-copas-internacionales-mundial-2026_0_k34SPP8VEU.html",
-          "resumen": "LaLiga será la primera en regresar, el 15 de agosto, seguida por la Premier League, la Serie A y la Ligue 1 una semana después. La Bundesliga arrancará el 28 de agosto, mientras que la Champions League iniciará su fase de liga en…",
+          "titulo": "Gero Arias vs Viruzz: a qué hora es la pelea de boxeo de La Velada del Año VI 2026",
+          "link": "https://www.clarin.com/internacional/gero-arias-vs-viruzz-hora-pelea-boxeo-velada-ano-vi-2026_0_0QoNwRUWuR.html",
+          "resumen": "El evento de boxeo organizado por Ibai Llanos tendrá lugar este sábado 25 de julio. El argentino y el español se verán las caras en el ring del Estadio La Cartuja de Sevilla.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Gukesh Dommaraju: otro último puesto para ¿el peor campeón mundial de la historia?",
-          "link": "https://www.lanacion.com.ar/deportes/ajedrez/gukesh-dommaraju-otro-ultimo-puesto-para-el-peor-campeon-mundial-de-la-historia-nid23072026/",
-          "resumen": "El ajedrecista indio terminó en la posición más baja en un torneo jugado en su ciudad",
+          "titulo": "Jürgen Klopp asumió como DT de Alemania: “Si se comportan mal y no dejan en paz a mi familia, me voy”",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/jurgen-klopp-asumio-como-dt-de-alemania-si-se-comportan-mal-y-no-dejan-en-paz-a-mi-familia-me-voy-nid24072026/",
+          "resumen": "La selección de Alemania viene encadenando fracasos en Mundiales; en la última cita quedó eliminada de manera sorpresiva en los dieciseisavos de final tras caer ante Paraguay",
           "fuente": "La Nación"
         },
         {
-          "titulo": "De Papelito a Chipi Chipi: los refuerzos más llamativos del mercado de pases del Torneo Clausura",
-          "link": "https://www.ole.com.ar/futbol-primera/mercado-pases-refuerzos-llamativos-nombres-incorporaciones-riestra-liga-profesional_0_heaazjU1aK.html",
-          "resumen": "Varios clubes se movieron de manera silenciosa y cerraron distintas apuestas que en Olé repasamos al detalle...",
+          "titulo": "Jürgen Klopp asumió en Alemania y fue claro: “No quiero jugar como Argentina, Francia o España”",
+          "link": "https://www.ole.com.ar/futbol-internacional/jurgen-klopp-nuevo-entrenador-seleccion-alemania-futbol-identidad-mundial-eurocopa-proyecto-liga-objetivos-presentacion-argentina-francia-espana_0_aTEwyEprAI.html",
+          "resumen": "El nuevo entrenador de la Mannschaft fue presentado oficialmente y explicó cuál será la identidad de su equipo. También habló del compromiso, la intensidad y el futuro del seleccionado.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Comienza el Clausura: una por una, todas las nuevas reglas arbitrales que se vieron en el Mundial y llegan al fútbol argentino",
-          "link": "https://www.clarin.com/deportes/comienza-clausura-todas-nuevas-reglas-arbitrales-vieron-mundial-llegan-futbol-argentino_0_d0TDtu2Ol5.html",
-          "resumen": "Se aplicarán cuentas regresivas en los saques laterales, los saques de meta y los cambios. Ya no se podrá hacer tiempo simulando lesiones y el VAR tendrá nuevas acciones a revisar. El arbitraje de la AFA reunió a jugadores y técnicos con…",
+          "titulo": "Angie Velasco vs Alondrissa en La Velada del Año VI 2026: a qué hora es el combate",
+          "link": "https://www.clarin.com/internacional/angie-velasco-vs-alondrissa-velada-ano-vi-2026-hora-combate_0_4HBrqQnpju.html",
+          "resumen": "La rosarina y la puertorriqueña se subirán al ring este sábado 25 de julio en el estadio La Cartuja de Sevilla. Eran amigas desde hacía varios años, pero en la previa del evento el vínculo se rompió.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Partidos de hoy jueves 23 de julio: horario y por dónde ver en vivo online",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/partidos-de-hoy-jueves-23-de-julio-horario-y-por-donde-ver-en-vivo-online-nid23072026/",
-          "resumen": "En la agenda del día se destacan el inicio del Torneo Clausura y el debut de Boca en la Copa Sudamericana; también hay acción en Europa",
+          "titulo": "¿Qué pasó con Colapinto? La razón por la que el piloto argentino no corre en la primera práctica del GP de Hungría",
+          "link": "https://www.lanacion.com.ar/deportes/automovilismo/que-paso-con-colapinto-la-razon-por-la-que-el-piloto-argentino-no-corre-en-la-primera-practica-del-nid24072026/",
+          "resumen": "El pilarense, uno de los representantes de Alpine en el Campeonato Mundial en curso, no saldrá a la pista en el comienzo del fin de semana",
           "fuente": "La Nación"
         }
       ]
