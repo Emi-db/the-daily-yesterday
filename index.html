@@ -152,16 +152,42 @@ function diaDelAnio() {
 }
 
 // ¿Qué noticia va de tapa hoy?
-//  - Si hoy (día y mes) coincide con algún hecho -> ése.
-//  - Si no, una "del archivo" que rota según el día del año.
+//  - La del hecho cuyo día y mes caen MÁS CERCA de hoy en el
+//    calendario, dando la vuelta al año (el 31 de diciembre y
+//    el 1 de enero están a un solo día). Si la más cercana está
+//    a 5 días o menos, va como efeméride (exacta o aproximada).
+//  - Si no hay nada a menos de 5 días, una "del archivo" que
+//    rota según el día del año, como antes.
+
+// Días acumulados al empezar cada mes (año común): enero arranca
+// en 0, febrero en 31, marzo en 59... Sirve para convertir un
+// día/mes en "número de día del año" y poder restar fechas.
+const DIAS_ACUMULADOS = [0,31,59,90,120,151,181,212,243,273,304,334];
+function numeroDeDia(mes, dia) { return DIAS_ACUMULADOS[mes - 1] + dia; }
+
 function elegirDestacada() {
   const hoy = new Date();
-  const coincide = EVENTOS.findIndex(ev => {
+  const hoyNumero = numeroDeDia(hoy.getMonth() + 1, hoy.getDate());
+
+  // Distancia de calendario de cada crónica a hoy (0 = hoy mismo).
+  // Puede haber empates (dos hechos a la misma distancia): se
+  // juntan en "candidatos" y después rotamos entre ellos.
+  let mejorDist = 999;
+  let candidatos = [];
+  EVENTOS.forEach((ev, i) => {
     const f = partesDeFecha(ev.fecha);
-    return f.dia === hoy.getDate() && f.mes === hoy.getMonth() + 1;
+    const directa = Math.abs(numeroDeDia(f.mes, f.dia) - hoyNumero);
+    const dist = Math.min(directa, 365 - directa);  // la vuelta al año
+    if (dist < mejorDist) { mejorDist = dist; candidatos = [i]; }
+    else if (dist === mejorDist) candidatos.push(i);
   });
-  if (coincide !== -1) return { indice: coincide, esEfemeride: true };
-  return { indice: diaDelAnio() % EVENTOS.length, esEfemeride: false };
+
+  if (mejorDist <= 5) {
+    // con empate, cada día le toca a uno distinto de los empatados
+    const indice = candidatos[diaDelAnio() % candidatos.length];
+    return { indice, distancia: mejorDist };
+  }
+  return { indice: diaDelAnio() % EVENTOS.length, distancia: null };
 }
 
 function mostrarPortada() {
@@ -172,13 +198,16 @@ function mostrarPortada() {
     `${hoy.getDate()} de ${MESES[hoy.getMonth()]} de ${hoy.getFullYear()}`;
   document.getElementById("edicion-numero").textContent = "Portada";
 
-  // La destacada, con su etiqueta
-  const { indice, esEfemeride } = elegirDestacada();
+  // La destacada, con su etiqueta según qué tan cerca cayó:
+  // distancia 0 -> el aniversario exacto; 1 a 5 -> "por estos
+  // días"; null -> no hubo nada cerca, va una del archivo.
+  const { indice, distancia } = elegirDestacada();
   const ev = EVENTOS[indice];
   const anios = hoy.getFullYear() - partesDeFecha(ev.fecha).anio;
-  const etiqueta = esEfemeride
-    ? `Un día como hoy · hace ${anios} años`
-    : "De nuestro archivo";
+  let etiqueta;
+  if (distancia === 0)         etiqueta = `Un día como hoy · hace ${anios} años`;
+  else if (distancia !== null) etiqueta = `Por estos días · hace ${anios} años`;
+  else                         etiqueta = "De nuestro archivo";
 
   document.getElementById("nota").innerHTML = `
     <div style="text-align:center"><span class="etiqueta">${etiqueta}</span></div>
