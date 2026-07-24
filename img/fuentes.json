@@ -878,5 +878,29 @@
     "licencia": "CC BY-SA 3.0",
     "licencia_url": "http://creativecommons.org/licenses/by-sa/3.0/",
     "pagina": "https://commons.wikimedia.org/wiki/File:Auschwitz-birkenau-main_track.jpg"
+  },
+  "0000-03-15": {
+    "archivo": "Vincenzo_Camuccini_-_La_morte_di_Cesare_(cropped_3-2).jpg",
+    "verificado": true,
+    "autor": "Vincenzo Camuccini",
+    "licencia": "Public domain",
+    "licencia_url": "",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Vincenzo_Camuccini_-_La_morte_di_Cesare_(cropped_3-2).jpg"
+  },
+  "0079-08-24": {
+    "archivo": "Destruction_of_Pompeii_and_Herculaneum.jpg",
+    "verificado": true,
+    "autor": "John Martin",
+    "licencia": "Public domain",
+    "licencia_url": "",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Destruction_of_Pompeii_and_Herculaneum.jpg"
+  },
+  "1215-06-15": {
+    "archivo": "Magna Carta (British Library Cotton MS Augustus II.106).jpg",
+    "verificado": true,
+    "autor": "Original authors were the barons and King John of England. Uploaded by Earthsound.",
+    "licencia": "Public domain",
+    "licencia_url": "",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Magna_Carta_(British_Library_Cotton_MS_Augustus_II.106).jpg"
   }
 }

@@ -20,6 +20,15 @@ function fechaLegible(fechaISO) {
   return `${parseInt(d)} de ${MESES_BUSCADOR[parseInt(m) - 1]} de ${parseInt(a)}`;
 }
 
+// Las crónicas anteriores a Cristo llevan el campo opcional "aC"
+// (su fecha interna usa el año 0000 para ordenar bien). Esta
+// función muestra el año verdadero: "15 de marzo de 44 a. C."
+function fechaDeEvento(ev) {
+  if (!ev.aC) return fechaLegible(ev.fecha);
+  const [a, m, d] = ev.fecha.split("-");
+  return `${parseInt(d)} de ${MESES_BUSCADOR[parseInt(m) - 1]} de ${ev.aC} a. C.`;
+}
+
 // ------------------------------------------------------------
 // Normalizar: todo a minúsculas y sin tildes. El truco:
 // normalize("NFD") separa "é" en "e" + tilde suelta, y el
@@ -37,7 +46,7 @@ function normalizar(texto) {
 // para una computadora es instantáneo.
 // ------------------------------------------------------------
 const INDICE = EVENTOS.map(ev => {
-  const partes = [ev.fecha, fechaLegible(ev.fecha), ev.corto, ev.volanta,
+  const partes = [ev.fecha, fechaDeEvento(ev), ev.corto, ev.volanta,
                   ev.titulo, ev.bajada, ev.lugar, ev.cuerpo.join(" ")];
   if (ev.secuela) {
     partes.push(ev.secuela.titulo, ev.secuela.lugar, ev.secuela.cuerpo.join(" "));
@@ -140,7 +149,7 @@ function mostrarResultados(consulta) {
     const filas = halladas.map(ev => `
       <li class="resultado">
         <a href="notas/${ev.fecha}.html">
-          <span class="fecha-res">${fechaLegible(ev.fecha)} — ${escaparHTML(ev.lugar)}</span>
+          <span class="fecha-res">${fechaDeEvento(ev)} — ${escaparHTML(ev.lugar)}</span>
           <b>${resaltar(ev.titulo, palabras)}</b>
         </a>
         <p class="extracto">${extracto(ev, palabras)}</p>

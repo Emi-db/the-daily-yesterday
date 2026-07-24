@@ -6,7 +6,7 @@
 <title>The Daily Yesterday</title>
 
 <!-- Metadatos para Google y para compartir enlaces -->
-<meta name="description" content="Un diario que viaja en el tiempo: crónicas de la historia (1347–2022) escritas como si el diario hubiera estado ahí. Recorra los siglos o busque un nombre.">
+<meta name="description" content="Un diario que viaja en el tiempo: crónicas de la historia, del año 44 a. C. a 2022, escritas como si el diario hubiera estado ahí. Recorra los siglos o busque un nombre.">
 <link rel="canonical" href="https://thedailyyesterday.com/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="The Daily Yesterday">
@@ -135,6 +135,18 @@ function fechaLarga(fechaISO) {
   return `${f.dia} de ${MESES[f.mes - 1]} de ${f.anio}`;
 }
 
+// Las crónicas anteriores a Cristo llevan el campo opcional "aC"
+// (por ejemplo aC: 44). Su fecha interna usa el año 0000 —un
+// artificio para que queden primeras al ordenar— y estas dos
+// funciones muestran el año verdadero en su lugar.
+function anioCorto(ev) {
+  return ev.aC ? `${ev.aC} a. C.` : String(partesDeFecha(ev.fecha).anio);
+}
+function fechaDeEvento(ev) {
+  const f = partesDeFecha(ev.fecha);
+  return `${f.dia} de ${MESES[f.mes - 1]} de ${anioCorto(ev)}`;
+}
+
 // ------------------------------------------------------------
 // 1) LA PORTADA
 //    Al abrir, el diario está "en el presente": la fecha de hoy
@@ -203,7 +215,11 @@ function mostrarPortada() {
   // días"; null -> no hubo nada cerca, va una del archivo.
   const { indice, distancia } = elegirDestacada();
   const ev = EVENTOS[indice];
-  const anios = hoy.getFullYear() - partesDeFecha(ev.fecha).anio;
+  // Para los años "a. C." se suma en vez de restar (y se descuenta
+  // 1 porque entre el 1 a. C. y el 1 d. C. no hubo año cero).
+  const anios = ev.aC
+    ? hoy.getFullYear() + ev.aC - 1
+    : hoy.getFullYear() - partesDeFecha(ev.fecha).anio;
   let etiqueta;
   if (distancia === 0)         etiqueta = `Un día como hoy · hace ${anios} años`;
   else if (distancia !== null) etiqueta = `Por estos días · hace ${anios} años`;
@@ -214,7 +230,7 @@ function mostrarPortada() {
     <div class="volanta">${ev.volanta}</div>
     <h2>${ev.titulo}</h2>
     <p class="bajada">${ev.bajada}</p>
-    <div class="dateline">${ev.lugar}, ${fechaLarga(ev.fecha)}</div>
+    <div class="dateline">${ev.lugar}, ${fechaDeEvento(ev)}</div>
     <figure class="grabado">
       <img src="img/${ev.fecha}.jpg" alt="${ev.corto}"
            onerror="this.parentElement.style.display='none'">
@@ -241,7 +257,7 @@ function mostrarNota(indice, etiqueta) {
   // La fecha del cabezal pasa a ser la del día histórico:
   // el diario entero "viaja" a esa fecha. A la izquierda queda
   // el enlace para volver a la portada (al presente).
-  document.getElementById("edicion-fecha").textContent = fechaLarga(ev.fecha);
+  document.getElementById("edicion-fecha").textContent = fechaDeEvento(ev);
   document.getElementById("edicion-numero").innerHTML =
     `<a href="#" class="volver">◂ Portada</a> &nbsp;·&nbsp; Edición N.º ${indice + 1} de ${EVENTOS.length}`;
   document.querySelector("#edicion-numero .volver").addEventListener("click", e => {
@@ -285,7 +301,7 @@ function mostrarNota(indice, etiqueta) {
     <div class="volanta">${ev.volanta}</div>
     <h2>${ev.titulo}</h2>
     <p class="bajada">${ev.bajada}</p>
-    <div class="dateline">${ev.lugar}, ${fechaLarga(ev.fecha)}</div>
+    <div class="dateline">${ev.lugar}, ${fechaDeEvento(ev)}</div>
     ${grabadoHTML}
     <div class="cuerpo">${parrafos}</div>
     ${secuelaHTML}
@@ -356,9 +372,11 @@ function armarArchivo() {
     const bloqueSiglo = document.createElement("div");
     bloqueSiglo.className = "siglo";
 
+    // El "siglo 0" es nuestro cajón para lo anterior a Cristo
+    const nombreSiglo = (parseInt(s) === 0) ? "Siglo I a. C." : `Siglo ${romano(parseInt(s))}`;
     const botonSiglo = document.createElement("button");
     botonSiglo.innerHTML = `
-      <span>Siglo ${romano(parseInt(s))}</span>
+      <span>${nombreSiglo}</span>
       <span class="cantidad">${totalSiglo}</span>
       <span class="flecha">▶</span>
     `;
@@ -378,9 +396,10 @@ function armarArchivo() {
       bloque.className = "decada";
 
       // El botón de la década: flecha + nombre + cantidad de notas
+      const nombreDecada = (parseInt(decada) === 0) ? "Antes de Cristo" : `Década de ${decada}`;
       const botonDecada = document.createElement("button");
       botonDecada.innerHTML = `
-        <span>Década de ${decada}</span>
+        <span>${nombreDecada}</span>
         <span class="cantidad">${indices.length}</span>
         <span class="flecha">▶</span>
       `;
@@ -403,7 +422,7 @@ function armarArchivo() {
         const botonEvento = document.createElement("button");
         botonEvento.title = ev.titulo;
         botonEvento.innerHTML =
-          `<span class="anio">${partesDeFecha(ev.fecha).anio}</span> · <span class="corto">${ev.corto}</span>`;
+          `<span class="anio">${anioCorto(ev)}</span> · <span class="corto">${ev.corto}</span>`;
         botonEvento.addEventListener("click", () => mostrarNota(i, null));
 
         li.appendChild(botonEvento);
@@ -431,10 +450,8 @@ armarArchivo();
 // Bajo el buscador, cuántas crónicas hay y de qué año a qué año:
 // se calcula solo (EVENTOS ya está ordenado por fecha), así no
 // hay que acordarse de actualizar nada al agregar crónicas.
-const primerAnio = parseInt(EVENTOS[0].fecha.slice(0, 4));
-const ultimoAnio = parseInt(EVENTOS[EVENTOS.length - 1].fecha.slice(0, 4));
 document.getElementById("cuenta-cronicas").textContent =
-  `${EVENTOS.length} crónicas · ${primerAnio}–${ultimoAnio}`;
+  `${EVENTOS.length} crónicas · ${anioCorto(EVENTOS[0])} – ${anioCorto(EVENTOS[EVENTOS.length - 1])}`;
 
 // El nombre del diario siempre lleva de vuelta a la portada
 const nombreDiario = document.querySelector(".cabezal h1");

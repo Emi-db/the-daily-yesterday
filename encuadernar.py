@@ -41,6 +41,18 @@ def fecha_larga(fecha_iso):
     a, m, d = fecha_iso.split("-")
     return f"{int(d)} de {MESES[int(m) - 1]} de {int(a)}"
 
+# Las crónicas anteriores a Cristo llevan el campo opcional "aC"
+# (su fecha interna usa el año 0000 para que ordenen primeras).
+# Estos dos ayudantes muestran el año verdadero.
+def anio_corto(ev):
+    if ev.get("aC"):
+        return f"{ev['aC']} a. C."
+    return str(int(ev["fecha"][:4]))
+
+def fecha_de_evento(ev):
+    a, m, d = ev["fecha"].split("-")
+    return f"{int(d)} de {MESES[int(m) - 1]} de {anio_corto(ev)}"
+
 def esc(t):
     """Para poner texto dentro de atributos HTML sin sorpresas."""
     return html.escape(t, quote=True)
@@ -169,22 +181,22 @@ def generar_notas(eventos, fuentes):
         nav = []
         if i > 0:
             ant = eventos[i - 1]
-            nav.append(f'<a href="{ant["fecha"]}.html">◂ {ant["fecha"][:4]} · {ant["corto"]}</a>')
+            nav.append(f'<a href="{ant["fecha"]}.html">◂ {anio_corto(ant)} · {ant["corto"]}</a>')
         nav.append(f'<a href="../archivo.html">El Archivo</a>')
         if i < total - 1:
             sig = eventos[i + 1]
-            nav.append(f'<a href="{sig["fecha"]}.html">{sig["fecha"][:4]} · {sig["corto"]} ▸</a>')
+            nav.append(f'<a href="{sig["fecha"]}.html">{anio_corto(sig)} · {sig["corto"]} ▸</a>')
         nav_html = " &nbsp;·&nbsp; ".join(nav)
 
         cuerpo = linea_edicion(
             f'<a href="../index.html">◂ Portada</a> &nbsp;·&nbsp; Edición N.º {i + 1} de {total}',
-            fecha_larga(fecha),
+            fecha_de_evento(ev),
         ) + f"""
   <main class="nota">
     <div class="volanta">{ev['volanta']}</div>
     <h2>{ev['titulo']}</h2>
     <p class="bajada">{ev['bajada']}</p>
-    <div class="dateline">{ev['lugar']}, {fecha_larga(fecha)}</div>
+    <div class="dateline">{ev['lugar']}, {fecha_de_evento(ev)}</div>
     <figure class="grabado">
       <img src="../img/{fecha}.jpg" alt="{esc(ev['corto'])}"
            onerror="this.parentElement.style.display='none'">
@@ -248,24 +260,27 @@ def generar_archivo(eventos):
         for d in sorted(decadas):
             filas = "".join(
                 f'          <li><a href="notas/{ev["fecha"]}.html" title="{esc(ev["titulo"])}">'
-                f'<b>{fecha_larga(ev["fecha"])}</b> — {ev["corto"]}</a></li>\n'
+                f'<b>{fecha_de_evento(ev)}</b> — {ev["corto"]}</a></li>\n'
                 for ev in decadas[d]
             )
+            # la "década 0" es el cajón de lo anterior a Cristo
+            nombre_decada = "Antes de Cristo" if d == 0 else f"Década de {d}"
             bloques += f"""      <details class="decada-arch">
-        <summary><span class="flecha">▶</span> Década de {d}
+        <summary><span class="flecha">▶</span> {nombre_decada}
           <span class="cantidad-menu">{len(decadas[d])}</span></summary>
         <ul class="lista-cronicas">
 {filas}        </ul>
       </details>
 """
         plural = "crónica" if total == 1 else "crónicas"
+        nombre_siglo = "Siglo I a. C." if s == 0 else f"Siglo {romano(s)}"
         arbol += f"""    <details class="siglo-arch">
-      <summary><span class="flecha">▶</span> Siglo {romano(s)}
+      <summary><span class="flecha">▶</span> {nombre_siglo}
         <span class="cantidad-menu">{total} {plural}</span></summary>
 {bloques}    </details>
 """
 
-    anios = f"{int(eventos[0]['fecha'][:4])}–{int(eventos[-1]['fecha'][:4])}"
+    anios = f"{anio_corto(eventos[0])} – {anio_corto(eventos[-1])}"
     meta = f"""<meta name="description" content="El archivo de The Daily Yesterday: busque una palabra o recorra siglo por siglo las crónicas históricas ({anios}) escritas como si el diario hubiera estado ahí.">
 <link rel="canonical" href="{DOMINIO}/archivo.html">
 """
@@ -275,7 +290,7 @@ def generar_archivo(eventos):
     ) + f"""
   <main class="nota">
     <h2 style="text-align:center">El Archivo Histórico</h2>
-    <p class="bajada" style="text-align:center">De la peste de 1347 a la tercera estrella de 2022:
+    <p class="bajada" style="text-align:center">De los idus de marzo a la tercera estrella de 2022:
       busque una palabra o recorra los siglos.</p>
     <form class="buscador buscador-pagina" id="buscador-archivo">
       <input type="search" id="campo-archivo" name="q"
@@ -303,12 +318,14 @@ def generar_creditos(eventos, fuentes):
         fu = fuentes[fecha]
         ev = por_fecha.get(fecha, {})
         corto = ev.get("corto", fecha)
+        # con ev a mano mostramos el año verdadero (sirve para el a. C.)
+        etiqueta_fecha = fecha_de_evento(ev) if ev else fecha_larga(fecha)
         if fu.get("verificado"):
             lic = fu.get("licencia", "")
             lic_html = (f'<a href="{esc(fu["licencia_url"])}" rel="license">{esc(lic)}</a>'
                         if fu.get("licencia_url") else esc(lic))
             filas += f"""      <li style="margin-bottom:.7rem">
-        <a href="notas/{fecha}.html"><b>{fecha_larga(fecha)} — {corto}</b></a><br>
+        <a href="notas/{fecha}.html"><b>{etiqueta_fecha} — {corto}</b></a><br>
         <a href="{esc(fu.get('pagina', ''))}">{esc(fu.get('archivo', ''))}</a><br>
         Autor: {esc(fu.get('autor', 'no consignado'))} · Licencia: {lic_html}
       </li>
@@ -316,7 +333,7 @@ def generar_creditos(eventos, fuentes):
         else:
             pendientes += 1
             filas += f"""      <li style="margin-bottom:.7rem">
-        <b>{fecha_larga(fecha)} — {corto}</b><br>
+        <b>{etiqueta_fecha} — {corto}</b><br>
         Fuente en verificación (Wikimedia Commons).
       </li>
 """
