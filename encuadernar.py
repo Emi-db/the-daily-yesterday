@@ -90,11 +90,9 @@ def pagina(titulo, meta, cuerpo, raiz=""):
     <p class="lema">« Todas las noticias de todos los ayeres »</p>
     <div class="filete-doble"></div>
     <nav class="cintillo">
-      <a href="{raiz}index.html">El Archivo Histórico</a>
+      <a href="{raiz}index.html">◂ La Portada</a>
       <span class="sep">·</span>
-      <a href="{raiz}hoy.html">La Edición de Hoy</a>
-      <span class="sep">·</span>
-      <a href="{raiz}mundo.html">El Mundo</a>
+      <a href="{raiz}archivo.html">El Archivo Histórico</a>
     </nav>
 {cuerpo}
   <footer>
@@ -102,7 +100,10 @@ def pagina(titulo, meta, cuerpo, raiz=""):
     Los hechos son históricos; la redacción, de época imaginada.<br>
     <a href="{raiz}archivo.html">Índice del archivo</a> ·
     <a href="{raiz}creditos.html">Créditos de los grabados</a> ·
-    <a href="{raiz}privacidad.html">Privacidad</a>
+    <a href="{raiz}privacidad.html">Privacidad</a><br>
+    <span class="otras-ediciones">Otras ediciones:
+      <a href="{raiz}hoy.html">la edición de hoy</a> ·
+      <a href="{raiz}mundo.html">el mundo (ES/EN)</a></span>
   </footer>
 
 </div>
@@ -203,40 +204,93 @@ def generar_notas(eventos, fuentes):
     print(f"notas/: {total} paginas")
 
 # ------------------------------------------------------------
-# 4) El índice del archivo (una página estática con todo)
+# 4) El índice del archivo: un MENÚ de siglos que se despliegan
+#    en décadas, y décadas en crónicas. Usa <details>/<summary>,
+#    que el navegador pliega solo (sin JavaScript), y arriba
+#    lleva el buscador (la lógica vive en buscador.js).
 # ------------------------------------------------------------
-def generar_archivo(eventos):
-    decadas = {}
-    for ev in eventos:
-        d = int(ev["fecha"][:4]) // 10 * 10
-        decadas.setdefault(d, []).append(ev)
+def romano(n):
+    """19 -> "XIX": números romanos para los siglos."""
+    resultado = ""
+    for valor, letra in [(100, "C"), (90, "XC"), (50, "L"), (40, "XL"),
+                         (10, "X"), (9, "IX"), (5, "V"), (4, "IV"), (1, "I")]:
+        while n >= valor:
+            resultado += letra
+            n -= valor
+    return resultado
 
-    secciones = ""
-    for d in sorted(decadas):
-        filas = "".join(
-            f'      <li><a href="notas/{ev["fecha"]}.html">'
-            f'<b>{fecha_larga(ev["fecha"])}</b> — {ev["corto"]}</a><br>'
-            f'<span style="font-style:italic">{ev["titulo"]}</span></li>\n'
-            for ev in decadas[d]
-        )
-        secciones += f"""    <section style="margin-bottom:1.4rem">
-      <div class="titulo-seccion">Década de {d}</div>
-      <ul style="list-style:none; padding:0; line-height:1.5">
-{filas}      </ul>
-    </section>
+# Este bloque se pega tal cual (no es un f-string): carga las
+# crónicas y el buscador con "?v=fecha" anti-caché, el mismo
+# truco de la portada. La barra antes de /script es para que
+# el navegador no confunda el texto con el cierre real.
+SCRIPTS_ARCHIVO = """
+  <script>
+    document.write('<script src="noticias.js?v=' + new Date().toISOString().slice(0, 10) + '"><\\/script>');
+    document.write('<script src="buscador.js?v=' + new Date().toISOString().slice(0, 10) + '"><\\/script>');
+  </script>
 """
-    meta = f"""<meta name="description" content="Todas las crónicas históricas de The Daily Yesterday, de 1347 a 2022, escritas como si el diario hubiera estado ahí.">
+
+def generar_archivo(eventos):
+    # siglo -> década -> crónicas. El año 1816 es siglo XIX:
+    # (1816-1) // 100 + 1 = 19 (el "-1" es porque el año 1900
+    # todavía pertenece al siglo XIX).
+    siglos = {}
+    for ev in eventos:
+        anio = int(ev["fecha"][:4])
+        s = (anio - 1) // 100 + 1
+        siglos.setdefault(s, {}).setdefault(anio // 10 * 10, []).append(ev)
+
+    arbol = ""
+    for s in sorted(siglos):
+        decadas = siglos[s]
+        total = sum(len(evs) for evs in decadas.values())
+        bloques = ""
+        for d in sorted(decadas):
+            filas = "".join(
+                f'          <li><a href="notas/{ev["fecha"]}.html" title="{esc(ev["titulo"])}">'
+                f'<b>{fecha_larga(ev["fecha"])}</b> — {ev["corto"]}</a></li>\n'
+                for ev in decadas[d]
+            )
+            bloques += f"""      <details class="decada-arch">
+        <summary><span class="flecha">▶</span> Década de {d}
+          <span class="cantidad-menu">{len(decadas[d])}</span></summary>
+        <ul class="lista-cronicas">
+{filas}        </ul>
+      </details>
+"""
+        plural = "crónica" if total == 1 else "crónicas"
+        arbol += f"""    <details class="siglo-arch">
+      <summary><span class="flecha">▶</span> Siglo {romano(s)}
+        <span class="cantidad-menu">{total} {plural}</span></summary>
+{bloques}    </details>
+"""
+
+    anios = f"{int(eventos[0]['fecha'][:4])}–{int(eventos[-1]['fecha'][:4])}"
+    meta = f"""<meta name="description" content="El archivo de The Daily Yesterday: busque una palabra o recorra siglo por siglo las crónicas históricas ({anios}) escritas como si el diario hubiera estado ahí.">
 <link rel="canonical" href="{DOMINIO}/archivo.html">
 """
-    cuerpo = linea_edicion("El Archivo completo", f"{len(eventos)} ediciones") + f"""
+    cuerpo = linea_edicion(
+        '<a href="index.html">◂ Portada</a> &nbsp;·&nbsp; El Archivo',
+        f"{len(eventos)} ediciones · {anios}",
+    ) + f"""
   <main class="nota">
-    <h2 style="text-align:center">Todas las ediciones del archivo</h2>
-    <p class="bajada" style="text-align:center">De la peste de 1347 a la tercera estrella de 2022.</p>
-{secciones}  </main>
-"""
+    <h2 style="text-align:center">El Archivo Histórico</h2>
+    <p class="bajada" style="text-align:center">De la peste de 1347 a la tercera estrella de 2022:
+      busque una palabra o recorra los siglos.</p>
+    <form class="buscador buscador-pagina" id="buscador-archivo">
+      <input type="search" id="campo-archivo" name="q"
+             placeholder="Einstein, Malvinas, peste…"
+             aria-label="Buscar en el archivo">
+      <button type="submit">Buscar</button>
+    </form>
+    <div id="zona-resultados"></div>
+    <div class="menu-archivo" id="indice-archivo">
+{arbol}    </div>
+  </main>
+{SCRIPTS_ARCHIVO}"""
     with open(os.path.join(CARPETA, "archivo.html"), "w", encoding="utf-8") as f:
         f.write(pagina("El Archivo — The Daily Yesterday", meta, cuerpo))
-    print("archivo.html: listo")
+    print("archivo.html: menu por siglos + buscador listo")
 
 # ------------------------------------------------------------
 # 5) Créditos de los grabados

@@ -6,7 +6,7 @@
 <title>The Daily Yesterday</title>
 
 <!-- Metadatos para Google y para compartir enlaces -->
-<meta name="description" content="Un diario que viaja en el tiempo: crónicas de la historia (1347–2022) escritas como si el diario hubiera estado ahí, más los titulares de hoy.">
+<meta name="description" content="Un diario que viaja en el tiempo: crónicas de la historia (1347–2022) escritas como si el diario hubiera estado ahí. Recorra los siglos o busque un nombre.">
 <link rel="canonical" href="https://thedailyyesterday.com/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="The Daily Yesterday">
@@ -52,24 +52,22 @@
     <h1>The Daily Yesterday</h1>
     <p class="lema">« Todas las noticias de todos los ayeres »</p>
     <div class="filete-doble"></div>
-    <!-- Las "manchetas": las secciones del diario como botones-sello
-         con relieve, para que se note que son puertas de entrada. -->
+    <!-- La "mancheta": la puerta de entrada al Archivo como botón-sello
+         con relieve, y debajo el buscador. El buscador es un formulario
+         común de HTML: al enviarlo, el navegador arma solo la dirección
+         archivo.html?q=palabra (por el name="q") y el archivo busca. -->
     <nav class="manchetas">
-      <a class="mancheta" href="archivo.html">
+      <a class="mancheta mancheta-principal" href="archivo.html">
         <b>El Archivo Histórico</b>
         <span id="cuenta-cronicas">crónicas · 1347–2022</span>
-        <i class="flechita">Abrir sección ⟶</i>
+        <i class="flechita">Abrir el archivo ⟶</i>
       </a>
-      <a class="mancheta" href="hoy.html">
-        <b>La Edición de Hoy</b>
-        <span>los titulares de esta mañana</span>
-        <i class="flechita">Abrir sección ⟶</i>
-      </a>
-      <a class="mancheta" href="mundo.html">
-        <b>El Mundo</b>
-        <span>edición internacional · ES/EN</span>
-        <i class="flechita">Abrir sección ⟶</i>
-      </a>
+      <form class="buscador" action="archivo.html" method="get">
+        <input type="search" name="q" required
+               placeholder="Buscar en el archivo: Einstein, Malvinas, peste…"
+               aria-label="Buscar en el archivo">
+        <button type="submit">Buscar</button>
+      </form>
     </nav>
     <div class="linea-edicion">
       <span id="edicion-numero">Edición histórica</span>
@@ -101,7 +99,10 @@
     Los hechos son históricos; la redacción, de época imaginada.<br>
     <a href="archivo.html">Índice del archivo</a> ·
     <a href="creditos.html">Créditos de los grabados</a> ·
-    <a href="privacidad.html">Privacidad</a>
+    <a href="privacidad.html">Privacidad</a><br>
+    <span class="otras-ediciones">Otras ediciones:
+      <a href="hoy.html">la edición de hoy</a> ·
+      <a href="mundo.html">el mundo (ES/EN)</a></span>
   </footer>
 
 </div>
@@ -265,11 +266,15 @@ function mostrarNota(indice, etiqueta) {
   `;
 
   // Marcar la noticia activa en el archivo y, de paso,
-  // asegurarnos de que su década esté desplegada.
+  // asegurarnos de que su década Y su siglo estén desplegados
+  // (closest() sube por los "padres" hasta encontrar la clase).
   document.querySelectorAll(".evento").forEach(item => {
     const esLaActiva = parseInt(item.dataset.indice) === indice;
     item.classList.toggle("activo", esLaActiva);
-    if (esLaActiva) item.closest(".decada").classList.add("abierta");
+    if (esLaActiva) {
+      item.closest(".decada").classList.add("abierta");
+      item.closest(".siglo").classList.add("abierta");
+    }
   });
 
   // En el celular, elegida la noticia, el archivo se cierra solo
@@ -283,64 +288,107 @@ function mostrarNota(indice, etiqueta) {
 }
 
 // ------------------------------------------------------------
-// 3) Construir el archivo: décadas que se despliegan en noticias
+// 3) Construir el archivo: siglos que se despliegan en décadas,
+//    y décadas que se despliegan en noticias
 // ------------------------------------------------------------
+
+// 19 -> "XIX": números romanos para los siglos, como en los libros.
+// Se recorre la tabla de mayor a menor restando y anotando letras.
+function romano(n) {
+  const tabla = [[100,"C"],[90,"XC"],[50,"L"],[40,"XL"],[10,"X"],[9,"IX"],[5,"V"],[4,"IV"],[1,"I"]];
+  let resultado = "";
+  tabla.forEach(([valor, letra]) => {
+    while (n >= valor) { resultado += letra; n -= valor; }
+  });
+  return resultado;
+}
+
 function armarArchivo() {
   const lista = document.getElementById("archivo-lista");
 
-  // Paso 1: agrupar los eventos por década.
-  // Math.floor(1816 / 10) * 10 = 1810 -> "década de 1810".
-  // "grupos" queda como { 1810: [3,4,5], 1940: [9,10], ... }
-  // (los números son las posiciones de cada evento en EVENTOS)
-  const grupos = {};
+  // Paso 1: agrupar por siglo y, adentro, por década.
+  // El año 1816 es siglo XIX: (1816-1)/100 redondeado abajo + 1 = 19.
+  // (el "-1" es porque el año 1900 todavía es siglo XIX)
+  // "siglos" queda como { 19: { 1810: [3,4], 1860: [7] }, 20: {...} }
+  // (los números finales son las posiciones de cada evento en EVENTOS)
+  const siglos = {};
   EVENTOS.forEach((ev, i) => {
-    const decada = Math.floor(partesDeFecha(ev.fecha).anio / 10) * 10;
-    if (!grupos[decada]) grupos[decada] = [];
-    grupos[decada].push(i);
+    const anio = partesDeFecha(ev.fecha).anio;
+    const s = Math.floor((anio - 1) / 100) + 1;
+    const decada = Math.floor(anio / 10) * 10;
+    if (!siglos[s]) siglos[s] = {};
+    if (!siglos[s][decada]) siglos[s][decada] = [];
+    siglos[s][decada].push(i);
   });
 
-  // Paso 2: crear un bloque plegable por cada década, en orden.
-  Object.keys(grupos).sort((a, b) => a - b).forEach(decada => {
-    const indices = grupos[decada];
+  // Paso 2: un bloque plegable por siglo...
+  Object.keys(siglos).sort((a, b) => a - b).forEach(s => {
+    const decadas = siglos[s];
+    const totalSiglo = Object.values(decadas).reduce((n, arr) => n + arr.length, 0);
 
-    const bloque = document.createElement("div");
-    bloque.className = "decada";
+    const bloqueSiglo = document.createElement("div");
+    bloqueSiglo.className = "siglo";
 
-    // El botón de la década: flecha + nombre + cantidad de notas
-    const botonDecada = document.createElement("button");
-    botonDecada.innerHTML = `
-      <span>Década de ${decada}</span>
-      <span class="cantidad">${indices.length}</span>
+    const botonSiglo = document.createElement("button");
+    botonSiglo.innerHTML = `
+      <span>Siglo ${romano(parseInt(s))}</span>
+      <span class="cantidad">${totalSiglo}</span>
       <span class="flecha">▶</span>
     `;
-    // Abrir/cerrar: solo agrega o saca la clase "abierta";
-    // el CSS hace el resto (muestra u oculta la lista).
-    botonDecada.addEventListener("click", () => {
-      bloque.classList.toggle("abierta");
+    botonSiglo.addEventListener("click", () => {
+      bloqueSiglo.classList.toggle("abierta");
     });
-    bloque.appendChild(botonDecada);
+    bloqueSiglo.appendChild(botonSiglo);
 
-    // La lista de noticias de esa década
-    const ul = document.createElement("ul");
-    ul.className = "lista-eventos";
-    indices.forEach(i => {
-      const ev = EVENTOS[i];
-      const li = document.createElement("li");
-      li.className = "evento";
-      li.dataset.indice = i;   // guardamos la posición para encontrarla después
+    const cajaDecadas = document.createElement("div");
+    cajaDecadas.className = "decadas";
 
-      const botonEvento = document.createElement("button");
-      botonEvento.title = ev.titulo;
-      botonEvento.innerHTML =
-        `<span class="anio">${partesDeFecha(ev.fecha).anio}</span> · <span class="corto">${ev.corto}</span>`;
-      botonEvento.addEventListener("click", () => mostrarNota(i, null));
+    // ...y adentro, un bloque plegable por cada década, en orden.
+    Object.keys(decadas).sort((a, b) => a - b).forEach(decada => {
+      const indices = decadas[decada];
 
-      li.appendChild(botonEvento);
-      ul.appendChild(li);
+      const bloque = document.createElement("div");
+      bloque.className = "decada";
+
+      // El botón de la década: flecha + nombre + cantidad de notas
+      const botonDecada = document.createElement("button");
+      botonDecada.innerHTML = `
+        <span>Década de ${decada}</span>
+        <span class="cantidad">${indices.length}</span>
+        <span class="flecha">▶</span>
+      `;
+      // Abrir/cerrar: solo agrega o saca la clase "abierta";
+      // el CSS hace el resto (muestra u oculta la lista).
+      botonDecada.addEventListener("click", () => {
+        bloque.classList.toggle("abierta");
+      });
+      bloque.appendChild(botonDecada);
+
+      // La lista de noticias de esa década
+      const ul = document.createElement("ul");
+      ul.className = "lista-eventos";
+      indices.forEach(i => {
+        const ev = EVENTOS[i];
+        const li = document.createElement("li");
+        li.className = "evento";
+        li.dataset.indice = i;   // guardamos la posición para encontrarla después
+
+        const botonEvento = document.createElement("button");
+        botonEvento.title = ev.titulo;
+        botonEvento.innerHTML =
+          `<span class="anio">${partesDeFecha(ev.fecha).anio}</span> · <span class="corto">${ev.corto}</span>`;
+        botonEvento.addEventListener("click", () => mostrarNota(i, null));
+
+        li.appendChild(botonEvento);
+        ul.appendChild(li);
+      });
+      bloque.appendChild(ul);
+
+      cajaDecadas.appendChild(bloque);
     });
-    bloque.appendChild(ul);
 
-    lista.appendChild(bloque);
+    bloqueSiglo.appendChild(cajaDecadas);
+    lista.appendChild(bloqueSiglo);
   });
 }
 

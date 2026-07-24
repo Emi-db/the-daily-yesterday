@@ -710,17 +710,17 @@ footer {
 }
 
 /* ============================================================
-   LAS MANCHETAS (portada): las tres secciones del diario como
-   botones-sello con relieve. El truco del "relieve" es una
+   LAS MANCHETAS (portada): la entrada al Archivo como botón-sello
+   con relieve, y debajo el buscador. El truco del "relieve" es una
    sombra dura desplazada; al pasar el mouse el botón se hunde
    (se mueve hacia la sombra) y se entinta de rojo lacre.
    ============================================================ */
 .manchetas {
   display: flex;
-  justify-content: center;
-  gap: 20px;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
   margin: 18px 0 4px;
-  flex-wrap: wrap;
 }
 .mancheta {
   flex: 1 1 200px;
@@ -772,3 +772,162 @@ footer {
   .mancheta b { font-size: 1rem; }
   .mancheta .flechita { display: none; }
 }
+
+/* La mancheta principal (el Archivo): más grande, ahora que está sola */
+.mancheta-principal {
+  flex: none;
+  width: min(360px, 100%);
+  max-width: 360px;
+  padding: 14px 20px 16px;
+}
+.mancheta-principal b { font-size: 1.3rem; }
+
+/* ============================================================
+   EL BUSCADOR: una caja de texto "de imprenta" con su botón.
+   En la portada envía a archivo.html?q=palabra; en el archivo
+   busca ahí mismo, sin recargar la página.
+   ============================================================ */
+.buscador {
+  display: flex;
+  width: 100%;
+  max-width: 460px;
+  margin: 0 auto;
+}
+.buscador input {
+  flex: 1;
+  min-width: 0;
+  font-family: 'Old Standard TT', serif;
+  font-size: .95rem;
+  color: var(--tinta);
+  padding: 7px 12px;
+  border: 2px solid var(--tinta);
+  border-right: none;
+  background: rgba(255,255,255,.35);
+  outline: none;
+}
+.buscador input:focus { background: rgba(255,255,255,.6); }
+.buscador input::placeholder { font-style: italic; color: var(--tinta-suave); }
+.buscador button {
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  font-size: .82rem;
+  font-variant: small-caps;
+  letter-spacing: .12em;
+  padding: 7px 16px;
+  border: 2px solid var(--tinta);
+  background: var(--tinta);
+  color: var(--papel);
+  cursor: pointer;
+}
+.buscador button:hover { background: var(--rojo-sello); border-color: var(--rojo-sello); }
+.buscador-pagina { margin: 1.2rem auto; }
+
+/* Los resultados de la búsqueda */
+.aviso-resultados { text-align: center; font-style: italic; margin: 1rem 0 .4rem; }
+.aviso-resultados a { color: var(--rojo-sello); }
+.resultados { list-style: none; padding: 0; margin: .4rem 0 1rem; }
+.resultado { border-bottom: 1px dotted var(--tinta-suave); padding: .75rem 0; }
+.resultado a { text-decoration: none; color: var(--tinta); }
+.resultado a:hover b { color: var(--rojo-sello); }
+.resultado .fecha-res {
+  display: block;
+  font-variant: small-caps;
+  letter-spacing: .1em;
+  font-size: .85rem;
+  color: var(--tinta-suave);
+}
+.resultado b { font-family: 'Playfair Display', serif; font-size: 1.08rem; }
+.resultado .extracto { margin: .3rem 0 0; font-size: .92rem; font-style: italic; color: var(--tinta-suave); }
+/* La palabra hallada, marcada como con lápiz de cera */
+mark { background: rgba(141, 43, 30, .16); color: inherit; padding: 0 1px; }
+
+/* ============================================================
+   EL MENÚ DEL ARCHIVO (archivo.html): siglos que se despliegan
+   en décadas, y décadas en crónicas. Usa <details>/<summary>,
+   que el navegador pliega y despliega solo, sin JavaScript.
+   ============================================================ */
+.menu-archivo { margin-top: 1rem; }
+.menu-archivo summary {
+  cursor: pointer;
+  list-style: none;              /* saca el triangulito del navegador... */
+  display: flex;
+  align-items: baseline;
+  gap: .6rem;
+}
+.menu-archivo summary::-webkit-details-marker { display: none; }
+.menu-archivo summary .flecha {  /* ...porque ponemos el nuestro */
+  font-size: .68em;
+  color: var(--rojo-sello);
+  transition: transform .15s;
+}
+.menu-archivo details[open] > summary .flecha { transform: rotate(90deg); }
+.menu-archivo summary .cantidad-menu {
+  margin-left: auto;
+  font-family: 'Old Standard TT', serif;
+  font-style: italic;
+  font-weight: normal;
+  font-size: .8rem;
+  color: var(--tinta-suave);
+}
+.siglo-arch { border-bottom: 1px solid var(--tinta-suave); }
+.siglo-arch > summary {
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  font-size: 1.3rem;
+  padding: .75rem .2rem;
+}
+.siglo-arch > summary:hover { color: var(--rojo-sello); }
+.decada-arch { margin-left: 1.4rem; border-top: 1px dotted var(--tinta-suave); }
+.decada-arch > summary {
+  font-variant: small-caps;
+  letter-spacing: .14em;
+  font-weight: bold;
+  padding: .45rem .2rem;
+}
+.decada-arch > summary:hover { color: var(--rojo-sello); }
+.lista-cronicas { list-style: none; padding: .1rem 0 .7rem 1.5rem; margin: 0; }
+.lista-cronicas li { padding: .22rem 0; }
+.lista-cronicas a { text-decoration: none; color: var(--tinta); }
+.lista-cronicas a:hover { color: var(--rojo-sello); }
+@media (max-width: 520px) {
+  .decada-arch { margin-left: .7rem; }
+  .lista-cronicas { padding-left: .8rem; }
+}
+
+/* ============================================================
+   EL CAJÓN LATERAL, ahora por siglos: cada siglo es un bloque
+   plegable que adentro tiene las décadas de siempre.
+   ============================================================ */
+.siglo { border-bottom: 1px solid var(--tinta-suave); }
+.siglo > button {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: 'Playfair Display', serif;
+  color: var(--tinta);
+  font-size: .95rem;
+  font-weight: 700;
+  padding: 10px 2px;
+}
+.siglo > button:hover { color: var(--rojo-sello); }
+.siglo > button .flecha { font-size: .7rem; transition: transform .2s; }
+.siglo.abierta > button .flecha { transform: rotate(90deg); }
+.siglo > button .cantidad {
+  font-weight: normal;
+  font-size: .7rem;
+  font-style: italic;
+  font-family: 'Old Standard TT', serif;
+  color: var(--tinta-suave);
+  margin-left: auto;
+  margin-right: 8px;
+}
+/* Las décadas del siglo: escondidas hasta que el siglo se abre */
+.siglo .decadas { display: none; margin-left: 8px; }
+.siglo.abierta > .decadas { display: block; }
+
+/* El pie: las ediciones del día, en letra chica y discreta */
+footer .otras-ediciones { font-size: .85em; opacity: .85; }

@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Boceto 2 — Las Manchetas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:ital,wght@0,700;0,900;1,600&family=Old+Standard+TT:ital@0;1&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="estilos.css">
+<style>
+/* ===== BOCETO 2: "LAS MANCHETAS" =====
+   Se conserva la tapa con la efeméride del día, pero la navegación
+   deja de ser un cintillo de texto: son tres botones-sello con
+   relieve, bien de imprenta, bajo el cabezal. La tapa se despeja:
+   solo la noticia destacada, sin los tres recortes de abajo. */
+
+.manchetas {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin: 18px 0 8px;
+  flex-wrap: wrap;
+}
+.mancheta {
+  flex: 1 1 200px;
+  max-width: 280px;
+  text-decoration: none;
+  color: var(--tinta);
+  border: 2px solid var(--tinta);
+  box-shadow: 3px 3px 0 var(--tinta);
+  padding: 10px 14px 12px;
+  text-align: center;
+  background: rgba(255,255,255,.18);
+  transition: all .1s ease;
+  cursor: pointer;
+}
+.mancheta:hover {
+  background: var(--rojo-sello);
+  color: var(--papel);
+  box-shadow: 1px 1px 0 var(--tinta);
+  transform: translate(2px, 2px);
+}
+.mancheta b {
+  display: block;
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  font-size: 1.12rem;
+  letter-spacing: .02em;
+}
+.mancheta span {
+  font-style: italic;
+  font-size: .8rem;
+  color: var(--tinta-suave);
+}
+.mancheta:hover span { color: var(--papel-oscuro); }
+.mancheta .flechita {
+  display: block;
+  font-style: normal;
+  font-variant: small-caps;
+  letter-spacing: .28em;
+  font-size: .78rem;
+  margin-top: 6px;
+  color: var(--rojo-sello);
+}
+.mancheta:hover .flechita { color: var(--papel); }
+
+/* La tapa despejada: solo la destacada */
+.destacada { text-align: center; margin: 30px auto 10px; max-width: 760px; }
+.destacada .volanta {
+  font-variant: small-caps; letter-spacing: .3em; font-size: .85rem;
+  color: var(--rojo-sello); margin-bottom: 8px;
+}
+.destacada h2 {
+  font-family: 'Playfair Display', serif; font-weight: 900;
+  font-size: clamp(1.8rem, 4.5vw, 2.9rem); line-height: 1.12; margin-bottom: 14px;
+}
+.destacada .bajada { font-style: italic; color: var(--tinta-suave); font-size: 1.05rem; margin-bottom: 18px; }
+.destacada img {
+  max-width: min(480px, 90%); border: 1px solid var(--tinta); padding: 6px;
+  background: rgba(255,255,255,.25); filter: sepia(.35) contrast(.95); mix-blend-mode: multiply;
+}
+.destacada .seguir {
+  display: inline-block; margin-top: 18px; padding: 10px 34px;
+  border: 2px solid var(--tinta); box-shadow: 3px 3px 0 var(--tinta);
+  font-variant: small-caps; letter-spacing: .25em; text-decoration: none;
+  color: var(--tinta); background: rgba(255,255,255,.2);
+}
+.destacada .seguir:hover {
+  background: var(--tinta); color: var(--papel); box-shadow: 1px 1px 0 var(--tinta);
+  transform: translate(2px,2px);
+}
+</style>
+</head>
+<body>
+
+<div class="hoja">
+
+  <header class="cabezal">
+    <div class="fila-superior">
+      <span>Fundado en el porvenir</span>
+      <span>Precio: dos reales</span>
+    </div>
+    <h1>The Daily Yesterday</h1>
+    <p class="lema">« Todas las noticias de todos los ayeres »</p>
+    <div class="filete-doble"></div>
+
+    <nav class="manchetas">
+      <a class="mancheta" href="#">
+        <b>El Archivo Histórico</b>
+        <span>90 crónicas · 1347–2022</span>
+        <i class="flechita">Abrir sección ⟶</i>
+      </a>
+      <a class="mancheta" href="#">
+        <b>La Edición de Hoy</b>
+        <span>los titulares de esta mañana</span>
+        <i class="flechita">Abrir sección ⟶</i>
+      </a>
+      <a class="mancheta" href="#">
+        <b>El Mundo</b>
+        <span>edición internacional · ES/EN</span>
+        <i class="flechita">Abrir sección ⟶</i>
+      </a>
+    </nav>
+  </header>
+
+  <main class="destacada">
+    <div class="volanta">Un día como hoy · hace 571 años</div>
+    <h2>Un orfebre de Maguncia fabrica libros sin escribano: la Biblia, copiada por una máquina</h2>
+    <p class="bajada">El maestro Johannes Gutenberg ha terminado una edición entera de la Sagrada
+    Escritura compuesta con letras de metal que se acomodan y se prensan sobre el papel.</p>
+    <img src="img/1455-02-23.jpg" alt="La Biblia de Gutenberg">
+    <br>
+    <a class="seguir" href="#">Leer esta crónica ⟶</a>
+  </main>
+
+  <footer>
+    The Daily Yesterday — crónicas escritas como si el diario hubiera estado ahí.<br>
+    <a href="archivo.html">Índice del archivo</a> ·
+    <a href="creditos.html">Créditos de los grabados</a> ·
+    <a href="privacidad.html">Privacidad</a>
+  </footer>
+
+</div>
+
+</body>
+</html>
