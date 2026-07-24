@@ -135,25 +135,30 @@ body {
   align-self: start;
 }
 
-/* La pestaña: texto vertical, como el lomo de un libro */
+/* La pestaña: texto vertical, como el lomo de un libro, pero
+   con el relieve de botón-sello (borde + sombra dura) para que
+   se note que es apretable. Al usarla se "hunde" y se entinta. */
 .archivo-tab {
   writing-mode: vertical-rl;    /* letras de arriba hacia abajo */
-  background: none;
-  border: none;
-  border-right: 3px double var(--tinta);
+  background: rgba(255,255,255,.18);
+  border: 2px solid var(--tinta);
+  box-shadow: 3px 3px 0 var(--tinta);
   cursor: pointer;
   font-family: inherit;
   font-variant: small-caps;
   font-size: .95rem;
   letter-spacing: .3em;
-  color: var(--tinta-suave);
-  padding: 18px 14px;
+  color: var(--tinta);
+  padding: 18px 8px;
+  transition: all .1s ease;
 }
 
 .archivo:hover .archivo-tab,
 .archivo.fijado .archivo-tab {
-  color: var(--rojo-sello);
-  border-right-color: var(--rojo-sello);
+  background: var(--rojo-sello);
+  color: var(--papel);
+  box-shadow: 1px 1px 0 var(--tinta);
+  transform: translate(2px, 2px);
 }
 
 /* El panel con las décadas: un "cajón" que flota sobre la nota.
@@ -552,15 +557,15 @@ footer {
   .hoja { padding: 22px 18px 30px; }
   .contenido { grid-template-columns: 1fr; gap: 14px; }
   .archivo { position: static; }
-  /* En el celular no hay hover: la pestaña va horizontal y el
-     panel se abre con un toque, empujando el contenido. */
+  /* En el celular no hay hover: la pestaña va horizontal (con el
+     mismo relieve de botón) y el panel se abre con un toque,
+     empujando el contenido. */
   .archivo-tab {
     writing-mode: horizontal-tb;
     width: 100%;
-    text-align: left;
-    border-right: none;
-    border-bottom: 1px solid var(--tinta);
-    padding: 8px 2px;
+    text-align: center;
+    padding: 8px 10px;
+    margin-bottom: 6px;   /* lugar para la sombra del relieve */
   }
   .archivo-panel {
     display: none;             /* cerrado del todo (sin flotar) */
@@ -710,77 +715,23 @@ footer {
 }
 
 /* ============================================================
-   LAS MANCHETAS (portada): la entrada al Archivo como botón-sello
-   con relieve, y debajo el buscador. El truco del "relieve" es una
-   sombra dura desplazada; al pasar el mouse el botón se hunde
-   (se mueve hacia la sombra) y se entinta de rojo lacre.
+   BAJO EL CABEZAL (portada): el buscador y, debajo, el contador
+   de crónicas — un enlace discreto al índice completo.
    ============================================================ */
 .manchetas {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 14px;
+  gap: 8px;
   margin: 18px 0 4px;
 }
-.mancheta {
-  flex: 1 1 200px;
-  max-width: 280px;
-  text-decoration: none;
-  color: var(--tinta);
-  border: 2px solid var(--tinta);
-  box-shadow: 3px 3px 0 var(--tinta);
-  padding: 10px 14px 12px;
-  text-align: center;
-  background: rgba(255,255,255,.18);
-  transition: all .1s ease;
-  cursor: pointer;
-}
-.mancheta:hover {
-  background: var(--rojo-sello);
-  color: var(--papel);
-  box-shadow: 1px 1px 0 var(--tinta);
-  transform: translate(2px, 2px);
-}
-.mancheta b {
-  display: block;
-  font-family: 'Playfair Display', serif;
-  font-weight: 900;
-  font-size: 1.12rem;
-  letter-spacing: .02em;
-}
-.mancheta span {
+.cuenta-archivo {
   font-style: italic;
   font-size: .8rem;
   color: var(--tinta-suave);
+  text-decoration: none;
 }
-.mancheta:hover span { color: var(--papel-oscuro); }
-.mancheta .flechita {
-  display: block;
-  font-style: normal;
-  font-variant: small-caps;
-  letter-spacing: .28em;
-  font-size: .78rem;
-  margin-top: 6px;
-  color: var(--rojo-sello);
-}
-.mancheta:hover .flechita { color: var(--papel); }
-
-/* En pantallas chicas, las manchetas se apilan más compactas */
-@media (max-width: 700px) {
-  .manchetas { gap: 10px; }
-  .mancheta { padding: 7px 10px 8px; }
-  .mancheta b { font-size: 1rem; }
-  .mancheta .flechita { display: none; }
-}
-
-/* La mancheta principal (el Archivo): más grande, ahora que está sola */
-.mancheta-principal {
-  flex: none;
-  width: min(360px, 100%);
-  max-width: 360px;
-  padding: 14px 20px 16px;
-}
-.mancheta-principal b { font-size: 1.3rem; }
+.cuenta-archivo:hover { color: var(--rojo-sello); }
 
 /* ============================================================
    EL BUSCADOR: una caja de texto "de imprenta" con su botón.

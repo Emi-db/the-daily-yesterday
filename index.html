@@ -52,22 +52,20 @@
     <h1>The Daily Yesterday</h1>
     <p class="lema">« Todas las noticias de todos los ayeres »</p>
     <div class="filete-doble"></div>
-    <!-- La "mancheta": la puerta de entrada al Archivo como botón-sello
-         con relieve, y debajo el buscador. El buscador es un formulario
+    <!-- El buscador: la puerta de entrada al archivo. Es un formulario
          común de HTML: al enviarlo, el navegador arma solo la dirección
-         archivo.html?q=palabra (por el name="q") y el archivo busca. -->
+         archivo.html?q=palabra (por el name="q") y el archivo busca.
+         Debajo, el contador de crónicas (lo completa el JS) que además
+         es un enlace discreto al índice completo. -->
     <nav class="manchetas">
-      <a class="mancheta mancheta-principal" href="archivo.html">
-        <b>El Archivo Histórico</b>
-        <span id="cuenta-cronicas">crónicas · 1347–2022</span>
-        <i class="flechita">Abrir el archivo ⟶</i>
-      </a>
       <form class="buscador" action="archivo.html" method="get">
         <input type="search" name="q" required
                placeholder="Buscar en el archivo: Einstein, Malvinas, peste…"
                aria-label="Buscar en el archivo">
         <button type="submit">Buscar</button>
       </form>
+      <a class="cuenta-archivo" id="cuenta-cronicas" href="archivo.html"
+         title="Ver el índice completo del archivo">crónicas · 1347–2022</a>
     </nav>
     <div class="linea-edicion">
       <span id="edicion-numero">Edición histórica</span>
@@ -401,8 +399,8 @@ function armarArchivo() {
 EVENTOS.sort((a, b) => a.fecha.localeCompare(b.fecha));
 armarArchivo();
 
-// La mancheta del Archivo muestra cuántas crónicas hay: se cuenta
-// sola, así no hay que acordarse de actualizar el número.
+// Bajo el buscador, cuántas crónicas hay: se cuenta sola, así
+// no hay que acordarse de actualizar el número.
 document.getElementById("cuenta-cronicas").textContent =
   `${EVENTOS.length} crónicas · 1347–2022`;
 
