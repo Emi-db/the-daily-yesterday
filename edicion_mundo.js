@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "25 de julio de 2026",
-    "generada": "10:59",
+    "fecha": "26 de julio de 2026",
+    "generada": "11:12",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "\"Es el peor incendio de la historia de Madrid\": los fuegos sin control que han obligado a evacuar a decenas de miles de personas en el centro de España",
-            "link": "https://www.bbc.com/mundo/articles/crrvdq8d9x9o?at_medium=RSS&at_campaign=rss",
-            "resumen": "El gobierno de la Comunidad de Madrid alertó a los residentes de la ciudad sobre los efectos de los incendios forestales en la calidad del aire, para que eviten exponerse al humo. También hay alerta en Francia.",
+            "titulo": "Cómo el K-pop se abrió paso en la asfixiante dictadura de Corea del Norte, donde \"solo puede haber un ídolo: Kim Jong-un\"",
+            "link": "https://www.bbc.com/mundo/articles/c70g4pj696ro?at_medium=RSS&at_campaign=rss",
+            "resumen": "Desertores cuentan a la BBC que, a pesar de las restricciones, escuchaban K-pop en Corea del Norte en secreto, a menudo sin saber quiénes eran los artistas. Algunos incluso lograron ver presentaciones, sorprendidos por los ídolos de…",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "El fuego en el suroeste de Francia avanza sin control hacia Burdeos y obliga a nuevas evacuaciones",
-            "link": "https://elpais.com/internacional/2026-07-25/el-fuego-en-el-suroeste-de-francia-avanza-sin-control-hacia-burdeos-y-obliga-a-nuevas-evacuaciones.html",
-            "resumen": "El incendio ha arrasado ya 30.000 hectáreas, el equivalente a casi el triple que la superficie de París. Los fuegos en los departamentos de Gironda y Las Landas han provocado ya el desalojo de 141.000 personas",
+            "titulo": "Trump encuentra en Irán su guerra interminable",
+            "link": "https://elpais.com/internacional/2026-07-26/trump-encuentra-en-iran-su-guerra-interminable.html",
+            "resumen": "La vuelta al enfrentamiento directo con Teherán evidencia la dificultad de EE UU de cerrar un acuerdo de paz y coloca al presidente ante uno de esos conflictos sin salida que prometió abandonar para siempre",
             "fuente": "El País"
           },
           {
-            "titulo": "Sobrevivientes del doble terremoto en Venezuela claman por ayuda un mes después",
-            "link": "https://www.france24.com/es/video/20260725-sobrevivientes-del-doble-terremoto-en-venezuela-claman-por-ayuda-un-mes-despu%C3%A9s",
-            "resumen": "Un mes después del doblete sísmico que cobró la vida de más de 5.000 personas, afectó 856 edificaciones y colapsó 190, según cifras oficiales, la tragedia aún no termina. Es una agonía que se hace eterna con el paso de las horas, porque…",
+            "titulo": "El VIH en Brasil: el programa de salud que redujo el contagio de madres a hijos",
+            "link": "https://www.france24.com/es/video/20260726-el-vih-en-brasil-el-programa-de-salud-que-redujo-el-contagio-de-madres-a-hijos",
+            "resumen": "🇧🇷 Cerca de 41 millones de personas en el mundo conviven con el VIH y millones de niños se contagian por la llamada transmisión vertical de madre a hijos. En Brasil, los programas de prevención y cuidado han permitido que madres…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Qué es la montaña Pickaxe, la instalación secreta y fuertemente protegida de Irán que Trump ha prometido atacar \"con dureza\"",
-            "link": "https://www.bbc.com/mundo/articles/cq89yqezpjyo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Preguntado sobre los informes que indican que Teherán podría haber trasladado centrifugadoras nucleares a la montaña Pickaxe, el presidente Donald Trump prometió que Estados Unidos atacaría el complejo subterráneo \"con mucha fuerza...…",
+            "titulo": "Un muerto y al menos 16 heridos en la Marcha del Orgullo en Berlín después de que un vehículo arrollara a la multitud",
+            "link": "https://www.bbc.com/mundo/articles/c5yv63e67wko?at_medium=RSS&at_campaign=rss",
+            "resumen": "La policía informó que se puso en marcha una intensa búsqueda del conductor del vehículo tras el incidente ocurrido en el centro de la capital alemana.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "La UE moviliza su mecanismo de emergencia por los incendios de España y Francia y avisa: “Nos preparamos para una situación grave”",
-            "link": "https://elpais.com/internacional/2026-07-24/la-ue-moviliza-su-mecanismo-de-emergencia-por-los-incendios-de-espana-y-francia-y-avisa-nos-preparamos-para-una-situacion-grave.html",
-            "resumen": "Siete aviones y helicópteros europeos combaten los fuegos activos, mientras Bruselas advierte que estos episodios serán “más duros y más brutales”",
+            "titulo": "Irán asume el precio de la guerra para preservar el estratégico control de Ormuz",
+            "link": "https://elpais.com/internacional/2026-07-26/iran-asume-el-precio-de-la-guerra-para-preservar-el-estrategico-control-de-ormuz.html",
+            "resumen": "Teherán considera que la renuncia a la baza del paso marítimo amenazaría la supervivencia de la República Islámica",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Bruselas versus Google: una lucha de casi 10 años con más de 10.000 millones en multas bajo la presión de Trump",
-            "link": "https://elpais.com/economia/2026-07-25/bruselas-versus-google-una-lucha-de-casi-10-anos-con-mas-de-10000-millones-en-multas-bajo-la-presion-de-trump.html",
-            "resumen": "La empresa del grupo Alphabet es la que acumula las sanciones más elevadas por conductas contra la competencia en la UE",
+            "titulo": "¿Cuánto se inflan los precios en los anuncios de venta de pisos? Del 11% en Madrid al 35% en Granada",
+            "link": "https://elpais.com/economia/vivienda/2026-07-26/cuanto-se-inflan-los-precios-en-los-anuncios-de-venta-de-pisos-del-11-en-madrid-al-35-en-granada.html",
+            "resumen": "Los datos del coste real de compraventa de vivienda reflejan un margen medio de negociación del 15% sobre la oferta inicial, según un análisis de EL PAÍS",
             "fuente": "El País"
           },
           {
-            "titulo": "Trump erige su tercer muro arancelario: ¿cuáles son los países perdedores y ganadores?",
-            "link": "https://www.expansion.com/economia/2026/07/25/6a63ace9e5fdea65138b45a3.html",
-            "resumen": "EEUU estrena una nueva remesa de tasas internacionales sobre más de 60 países que varían entre el 10% y el 12,5% e incluyen diferentes exenciones según el territorio. Leer",
+            "titulo": "La UME asegura que el incendio entre Ávila y Madrid está contenido, aunque mantiene \"cabezas activas\"",
+            "link": "https://www.expansion.com/sociedad/2026/07/26/6a65ca9de5fdea030a8b456e.html",
+            "resumen": "Tras una noche \"muy compleja\" y con trabajos centrados en proteger las evacuaciones de la población y en contener el avance de algunos frentes en los incendios de Ávila, Madrid y Toledo que han conseguido ser desactivados, las labores de…",
             "fuente": "Expansión"
           },
           {
-            "titulo": "El nuevo muro arancelario de Trump amenaza con triplicar los costes de exportación para sectores clave de la industria española",
-            "link": "https://elpais.com/economia/2026-07-25/el-nuevo-muro-arancelario-de-trump-amenaza-con-triplicar-los-costes-de-exportacion-para-sectores-clave-de-la-industria-espanola.html",
-            "resumen": "Las medidas comerciales anunciadas por Estados Unidos elevarán la factura para los bienes de equipo, los componentes industriales y las manufacturas",
+            "titulo": "‘Caso Holaluz’: ¿el fin de la fiesta de las comercializadoras eléctricas?",
+            "link": "https://elpais.com/economia/2026-07-26/el-gobierno-pone-fin-a-la-fiesta-de-las-comercializadoras-electricas.html",
+            "resumen": "Transición Ecológica endurece los requisitos para vender electricidad y evitar impagos en el sistema. Desde febrero ha planteado la inhabilitación de 54 compañías, entre ellas, la empresa catalana",
             "fuente": "El País"
           },
           {
-            "titulo": "El expresidente que no tenía afán patrimonial",
-            "link": "https://www.expansion.com/opinion/2026/07/25/6a63c849e5fdeac00e8b45b2.html",
-            "resumen": "Leer",
+            "titulo": "El precio de la vivienda sigue disparado en España mientras se modera en Europa",
+            "link": "https://www.expansion.com/inmobiliario/mercado/2026/07/25/6a61f070e5fdea41108b4591.html",
+            "resumen": "El metro cuadrado se encareció un 12,8% en el mercado español en el primer trimestre, casi el triple que en la zona euro (4,7%). Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "¡Que viene el lobo! Viene, ¿y qué?",
-            "link": "https://elpais.com/economia/2026-07-25/que-viene-el-lobo-viene-y-que.html",
-            "resumen": "Esta guerra de desgaste, intermitente y desganada, ni ha desabastecido al planeta de oro negro ni lo ha encarecido mucho más allá de una franja entre 72 y 100 dólares",
+            "titulo": "Jubilados a los 63, el modelo que Alemania quiere liquidar para sanear las pensiones: “Empecé a cotizar a los 16 años”",
+            "link": "https://elpais.com/economia/2026-07-26/jubilados-a-los-63-el-modelo-que-alemania-quiere-liquidar-para-sanear-el-sistema-de-pensiones-empece-a-cotizar-practicamente-a-los-16.html",
+            "resumen": "El país europeo lleva tiempo analizando cómo hacer sostenible el sistema en un contexto de crisis demográfica y aumento de la esperanza de vida",
             "fuente": "El País"
           }
         ]
@@ -78,33 +78,33 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
+            "titulo": "Jorge Pérez Gallego, astrofísico: “En un eclipse total se crea una energía similar a la de un gran concierto, a la de cantar un gol”",
+            "link": "https://elpais.com/ciencia/2026-07-26/jorge-perez-gallego-astrofisico-en-un-eclipse-total-se-crea-una-energia-similar-a-la-de-un-gran-concierto-a-la-de-cantar-un-gol.html",
+            "resumen": "El español que dirige la comunicación del Observatorio Nacional Solar de EE UU advierte de que solo dentro de la banda de totalidad se sentirá algo único en la vida: “Un eclipse del 99,99% no se parece en nada”",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "El problema de los clips ya está aquí: las IA pueden destruir el mundo sin querer",
+            "link": "https://elpais.com/tecnologia/2026-07-26/el-problema-de-los-clips-ya-esta-aqui-las-ia-pueden-destruir-el-mundo-sin-querer.html",
+            "resumen": "Un grupo de tecnólogos imaginó hace más de 20 años qué pasaría al encargar a una máquina que fabrique un objeto sin límites: podía acabar con todo. Esta semana hemos asistido a un ejemplo de que algo así es posible",
+            "fuente": "El País"
+          },
+          {
             "titulo": "Las llamas y el humo obligan a desalojar una estación de la NASA en la Sierra Oeste de Madrid",
             "link": "https://elpais.com/ciencia/2026-07-25/las-llamas-y-el-humo-obligan-a-desalojar-una-estacion-de-la-nasa-en-la-sierra-oeste-de-madrid.html",
             "resumen": "La instalación, con casi 100 trabajadores y situada en Robledo de Chavela, forma parte de la red que sigue las misiones de satélites en el espacio profundo",
             "fuente": "El País"
           },
           {
-            "titulo": "Cuando la inteligencia artificial pone a prueba el Pacto Verde Europeo",
-            "link": "https://elpais.com/tecnologia/2026-07-25/cuando-la-inteligencia-artificial-pone-a-prueba-el-pacto-verde-europeo.html",
-            "resumen": "Bruselas defiende la reducción de emisiones, pero se muestra dispuesta a impulsar la expansión de infraestructuras con un elevado consumo eléctrico y dependientes de combustibles fósiles",
+            "titulo": "Cuando el león de la IA se escapa de la jaula",
+            "link": "https://elpais.com/tecnologia/2026-07-26/cuando-el-leon-de-la-ia-se-escapa-de-la-jaula.html",
+            "resumen": "Podríamos decir que la inteligencia artificial decidió que la manera más eficaz de aprobar el examen era… robar y copiar",
             "fuente": "El País"
           },
           {
             "titulo": "El colapso de la ‘Torre de Babel’: los humanos han perdido miles de idiomas desde la Antigüedad",
             "link": "https://elpais.com/ciencia/2026-07-23/el-colapso-de-la-torre-de-babel-los-humanos-han-perdido-miles-de-idiomas-desde-la-antiguedad.html",
             "resumen": "Según un estudio de ‘Science’, la Tierra alcanzó su mayor diversidad lingüística entre 1.000 y 3.000 años atrás, con un número de lenguas unas diez veces superior a las 7.500 actuales",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Bruselas acusa a TikTok de incumplir la ley por tener cuentas que exponen a los menores a “comportamientos depredadores”",
-            "link": "https://elpais.com/tecnologia/2026-07-24/bruselas-acusa-a-tiktok-de-incumplir-la-ley-por-tener-cuentas-que-exponen-a-los-menores-a-comportamientos-depredadores.html",
-            "resumen": "La configuración de la plataforma facilita la exposición a “contactos no deseados y ciberacoso”, señala la Comisión",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Científicos chinos ocultan la muerte de una niña tras recibir una terapia génica experimental y publican el estudio como un éxito",
-            "link": "https://elpais.com/ciencia/2026-07-24/ocultada-en-china-la-muerte-de-una-nina-de-seis-anos-tras-recibir-una-terapia-genica-experimental.html",
-            "resumen": "Los responsables del tratamiento no alertaron del fallecimiento de la pequeña, que recibió un tratamiento específico para su dolencia, según desvelan ‘Science’ y ‘Retractionwatch’",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Oficial: El OL Lyonnes ficha a Salma Paralluelo",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260725/1004209984/oficial-lyon-ficha-salma-paralluelo.html",
-            "resumen": "Sin dejar de ser uno de los bombazos del veraniego, porque era un secreto a voces, las previsiones se han cumplido. Salma Paralluelo (23 años) ha fichado por el OL Lyonnes . Tras cerrar su etapa en el Barça de cuatro temporadas, que ha…",
+            "titulo": "El Barça sigue queriendo a Julián Álvarez pero no hará locuras",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210184/barca-sigue-queriendo-julian-alvarez-no-hara-locuras.html",
+            "resumen": "El FC Barcelona continúa sin cubrir la vacante dejada por Robert Lewandowski en la posición de ‘9’ y el gran objetivo para reemplazarlo, Julián Álvarez , sigue siendo jugador de un Atlético de Madrid inflexible y cerrado en banda para…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Pere Romeu: \"El equipo está por encima de todo\"",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260725/1004209720/pere-romeu-equipo-esta-encima.html",
-            "resumen": "Pere Romeu (Barcelona, 9 de noviembre de 1993) afronta su tercera temporada al frente del banquillo del FC Barcelona. El lunes 27 arranca la pretemporada y antes compartió una extensa charla con Mundo Deportivo en exclusiva, a la que…",
+            "titulo": "El Barça lo tiene claro con Ferran: si quiere salir debe pedirlo",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210188/barca-claro-ferran-quiere-salir-debe-pedirlo.html",
+            "resumen": "Hoy se cumple una semana del mejor día de la carrera de Ferran Torres, que gusta mucho al Paris Saint-Germain de Luis Enrique . Ahora bien, a Can Barça no han llegado noticias de forma oficial, ni por parte del jugador o sus…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,16 +147,16 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "July 25, 2026",
-    "generada": "10:59",
+    "fecha": "July 26, 2026",
+    "generada": "11:12",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Trump takes swipes at press during White House Correspondents' Dinner",
-            "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+            "titulo": "What we know so far about the Berlin Pride ramming attack",
+            "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+            "resumen": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
             "fuente": "BBC"
           },
           {
@@ -166,15 +166,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Iran Journey Reveals Society’s Wartime Defiance and Hope",
-            "link": "https://www.nytimes.com/2026/07/25/world/middleeast/what-a-journey-through-wartime-iran-revealed.html",
-            "resumen": "From the capital, Tehran, to the holy city of Mashhad, the Iran I saw was a nation of many layers: defiant but also weary, despairing but hopeful.",
+            "titulo": "Live Updates: Extreme Heat and Strong Winds Fuel Wildfires in France and Spain",
+            "link": "https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions",
+            "resumen": "Firefighters are tackling new blazes while others have been contained, and hundreds of thousands of people have been forced to flee. A new heat wave forecast to hit Europe could make conditions worse.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-            "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-            "resumen": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+            "titulo": "France battles fire 'whirlwinds' as another 55,000 evacuated",
+            "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+            "resumen": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
             "fuente": "BBC"
           },
           {
@@ -189,9 +189,9 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "ADHD has rewired the workplace. This is what it means for bosses and workers",
-            "link": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
-            "resumen": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
+            "titulo": "Rental searches for pet friendly properties drop after law change",
+            "link": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Agents say some renters wrongly believe permission to have a pet is guaranteed.",
             "fuente": "BBC"
           },
           {
@@ -201,15 +201,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Tankers Sail Through Red Sea Despite Houthi Blockade",
-            "link": "https://www.nytimes.com/2026/07/25/business/energy-environment/houthi-blockade-red-sea-maps.html",
-            "resumen": "Dozens of ships continued to traverse the Red Sea this week, but with scattered disruption, uncertainty about the passage grows by the hour.",
+            "titulo": "Kids (and Adults) Are Obsessed With Squishy Toys and Fidget Trading",
+            "link": "https://www.nytimes.com/2026/07/26/style/squishy-fidget-toys-trading.html",
+            "resumen": "Kids are making, trading and hunting for squishies, or squeezable, malleable blob toys that come in a variety of forms.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Long overdue, life-changing or frivolous? Your thoughts on wedding rule changes",
-            "link": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The government wants to relax wedding laws so couples can get married almost anywhere.",
+            "titulo": "Primark's new 'supermarket tactic' to woo customers in online price war",
+            "link": "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&at_campaign=rss",
+            "resumen": "Competition from ultra-cheap Chinese retailers and the cost of living crisis could be putting some people off shopping at the store, analysts say.",
             "fuente": "BBC"
           },
           {
@@ -224,15 +224,27 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "It's the cocktail taking young drinkers by storm - but the packaging is 'unrecyclable'",
-            "link": "https://www.bbc.co.uk/news/articles/cr490335z1eo?at_medium=RSS&at_campaign=rss",
-            "resumen": "BuzzBallz cannot be recycled because the metal lid and plastic body are attached, say experts.",
+            "titulo": "'It's like having an amusement park and not opening it' - algae closures take toll",
+            "link": "https://www.bbc.co.uk/news/articles/c1m159e54l9o?at_medium=RSS&at_campaign=rss",
+            "resumen": "There are currently 245 algae blooms across water systems in Northern Ireland.",
             "fuente": "BBC"
           },
           {
-            "titulo": "‘Ozempic face’ and hair loss: what evidence is there for weight-loss drug side-effects?",
-            "link": "https://www.theguardian.com/science/2026/jul/25/weight-loss-drug-side-effects-evidence-nausea-ozempic-face",
-            "resumen": "Research into GLP-1 medications is not always robust but complaints such as digestive problems are well known Weight loss jabs such as Wegovy and Mounjaro have boomed in popularity, and so have reports of myriad side-effects. This week…",
+            "titulo": "Millions of people are losing weight using GLP-1s. How do the drugs affect their love lives?",
+            "link": "https://www.theguardian.com/science/2026/jul/26/glp1-drugs-weight-loss-side-effects-relationship",
+            "resumen": "Prescribing doctors often warn of the medications’ potential side-effects – but unexpected impacts on romantic relationships are less understood For Jennifer, obesity was the obvious culprit for most of her problems. The litigation…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "‘OnlyMarms’: Marmots Are on OnlyFans to Raise Money for Research",
+            "link": "https://www.nytimes.com/2026/07/25/science/ucla-marmot-onlyfans-research-onlymarms.html",
+            "resumen": "A team of scientists uploaded videos of the squirrel-like rodents in the wild on the adult-content site OnlyFans to raise money amid government budget cuts.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Four types of thinker have been identified. Which one are you?",
+            "link": "https://www.theguardian.com/science/2026/jul/25/four-types-of-thinker-which-one-are-you",
+            "resumen": "Investigation finds evidence of distinct groups, from big-picture thinkers to those who sweat the small stuff. Illustrations by Michael Parkin An investigation into what people think about has put the spotlight on the modern mind,…",
             "fuente": "The Guardian"
           },
           {
@@ -240,18 +252,6 @@ const EDICION_MUNDO = {
             "link": "https://www.nytimes.com/2026/07/24/science/spacex-starship-13th-test-flight.html",
             "resumen": "It was the 13th test overall of Starship. The success is a boon to NASA’s moon plans and SpaceX’s hopes to deploy a million data centers in orbit.",
             "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "More than 220,000 evacuated in France and Spain due to wildfires",
-            "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-            "resumen": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Four types of thinker have been identified. Which one are you?",
-            "link": "https://www.theguardian.com/science/2026/jul/25/four-types-of-thinker-which-one-are-you",
-            "resumen": "Investigation finds evidence of distinct groups, from big-picture thinkers to those who sweat the small stuff An investigation into what people think about has put the spotlight on the modern mind, revealing thoughts dominated by work,…",
-            "fuente": "The Guardian"
           }
         ]
       },
@@ -259,34 +259,34 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Unhappy Tottenham players should leave - De Zerbi",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cdewlp710l0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Tottenham Hotspur manager Roberto de Zerbi says players who are not \"proud and happy to stay\" at the club should leave.",
+            "titulo": "After chaotic return, where does Joshua win leave Fury fight?",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/cgr7gyv8zq0o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Where does Anthony Joshua's chaotic comeback win over Kristian Prenga leave the super-fight with Tyson Fury?",
             "fuente": "BBC"
           },
           {
-            "titulo": "‘Maybe he’s a ‌racist’: Donald Trump takes bizarre swipe at NBA great LeBron James",
-            "link": "https://www.theguardian.com/sport/2026/jul/25/president-trump-basketball-lebron-james-racist",
-            "resumen": "US president responds to question about NBA’s ‘best ever’ Trump says Balogun red card review ‘worked out great’ In a bizarre response to being asked to weigh in on the basketball careers of ⁠Michael Jordan and LeBron James, the US…",
+            "titulo": "LeBron James’ final act is about more than basketball. It’s about time | Claire de Lune",
+            "link": "https://www.theguardian.com/sport/2026/jul/25/why-lebron-james-chose-philadelphia-76ers-final-career",
+            "resumen": "The NBA superstar’s shock move to the Philadelphia 76ers isn’t about money or legacy. It’s about confronting the end of a career and making the most of whatever remains The most enormous celebrities, those larger-than-life characters with…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Horror injury overshadows gymnastics silver at Commonwealths",
-            "link": "https://www.bbc.co.uk/sport/articles/c151qlnzw05o?at_medium=RSS&at_campaign=rss",
-            "resumen": "A horror fall from England gymnast Gabriel Langton overshadows his team's silver medal in the team event on the opening night of action at Glasgow 2026.",
+            "titulo": "Gomez injury overshadows winning start for Iraola",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cm2genrg72do?at_medium=RSS&at_campaign=rss",
+            "resumen": "Liverpool start life under Andoni Iraola with a 4-2 win over Sunderland thanks to goals from Kieran Morrison, Dominik Szoboszlai, Federico Chiesa and Lewis Koumas.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Tour de France 2026: stage 20 from Bourg d’Oisans to Alpe d’Huez – live",
-            "link": "https://www.theguardian.com/sport/live/2026/jul/25/tour-de-france-2026-stage-20-from-bourg-doisans-to-alpe-dhuez-live",
-            "resumen": "Stage 20 runs for brutal 170.9km and concludes at Ale d’Huez Share your thoughts with Tom via email 148km to go You have to love Pedersen. He’s trying to bridge across to the peloton and looks like he’s swallowed a mouthful of wasps. Pure…",
+            "titulo": "Tim Tszyu eyes world title tilt after beating Errol Spence Jr in 12-round epic",
+            "link": "https://www.theguardian.com/sport/2026/jul/26/tim-tszyu-beats-errol-spence-jr-in-12-round-epic-boxing",
+            "resumen": "Australian wins on points in middleweight bout in Sydney American bows out of boxing to ‘live that family life’ Tim Tszyu has restored his global reputation with a rousing victory over the US great Errol Spence Jr in the pair’s…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Austin FC academy players under investigation by police and FBI for allegations of youth-on-youth sexual abuse",
-            "link": "https://www.theguardian.com/football/2026/jul/24/austin-fc-academy-investigation-sexual-abuse-mls",
-            "resumen": "Austin FC reported allegations to local law enforcement Multiple sources confirm the ongoing inquiries Multiple players in the academy of Major League Soccer club Austin FC are under investigation by Austin police and the FBI over…",
-            "fuente": "The Guardian"
+            "titulo": "Ramsay-Peaty in tears after missing out on gold again",
+            "link": "https://www.bbc.co.uk/sport/swimming/articles/cz053k47p0ko?at_medium=RSS&at_campaign=rss",
+            "resumen": "An emotional Adam Ramsay-Peaty questions how his future looks after missing out on gold at the Commonwealth Games in Glasgow.",
+            "fuente": "BBC"
           }
         ]
       }

@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "25 de julio de 2026",
-  "generada": "10:59",
+  "fecha": "26 de julio de 2026",
+  "generada": "11:12",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Robaron computadoras del urólogo del padre de Lionel Messi antes del partido con Inglaterra",
-          "link": "https://www.clarin.com/politica/robaron-computadoras-urologo-padre-lionel-messi-partido-inglaterra_0_YIQuobQuuu.html",
-          "resumen": "Desconocidos se llevaron equipos del consultorio de Norberto Bernardo, antes del partido con Inglaterra. La justicia federal realizó allanamientos en casas de sospechosos con resultado negativo. La semana que viene declararán dos testigos.",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente inaugura este domingo la Exposición Rural en Palermo",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-inaugura-domingo-exposicion-rural-palermo_0_l9uvcwhVzH.html",
+          "resumen": "En la 138 edición de la feria que trae el campo a la ciudad por primera vez el acto inaugural se realizará un domingo. Seguí todas las novedades sobre las medidas del gobierno de Javier Milei en la cobertura minuto a minuto de Clarín.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La presencia de Milei en Brasil genera expectativa en el bolsonarismo, pero podría favorecer a Lula",
-          "link": "https://www.lanacion.com.ar/politica/la-presencia-de-milei-en-brasil-genera-expectativa-en-el-bolsonarismo-pero-podria-favorecer-a-lula-nid24072026/",
-          "resumen": "Compartirá un acto proselitista con Flávio Bolsonaro, hijo del expresidente y candidato de la derecha; los analistas locales son escépticos respecto del aporte que pueda hacerle en la campaña",
+          "titulo": "La Justicia de EE.UU. da un paso clave en la investigación sobre la AFA, que podría demorar meses antes de presentar cargos",
+          "link": "https://www.lanacion.com.ar/politica/la-justicia-de-eeuu-da-un-paso-clave-en-la-investigacion-sobre-la-afa-que-podria-demorar-meses-antes-nid26072026/",
+          "resumen": "Los fiscales exigen “confidencialidad extrema”, mientras que la primera ronda de citaciones podría abarcar seis personas",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El presidente Milei visita San Pablo para apoyar a Flávio Bolsonaro en la carrera presidencial",
-          "link": "https://www.infobae.com/politica/2026/07/25/el-presidente-milei-visita-san-pablo-para-apoyar-a-flavio-bolsonaro-en-la-carrera-presidencial/",
-          "resumen": "El Presidente dará hoy un discurso durante la ceremonia y acto de lanzamiento del hijo del exmandatario Jair Bolsonaro. A las 14 retornará al país",
+          "titulo": "Milei hablará hoy en la Exposición Rural: el Campo espera definiciones, el gobierno descartó medidas de gran impacto",
+          "link": "https://www.infobae.com/politica/2026/07/26/milei-hablara-hoy-en-la-exposicion-rural-el-campo-espera-definiciones-el-gobierno-descarto-medidas-de-gran-impacto/",
+          "resumen": "El Presidente dará el discurso central de la inauguración oficial de la 138 edición de la muestra. Aunque se anticipó que “no habrá grandes anuncios”, el sector agropecuario aguarda posibles medidas vinculadas a las retenciones, el…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "La “maldición” de los oficialismos y el desafío electoral de Milei",
-          "link": "https://www.clarin.com/politica/maldicion-oficialismos-desafio-electoral-milei_0_EnxP2rylbb.html",
-          "resumen": "",
+          "titulo": "Las urgencias de los hermanos Milei y la presión sobre Caputo",
+          "link": "https://www.clarin.com/politica/urgencias-hermanos-milei-presion-caputo_0_6OxIE5cYI3.html",
+          "resumen": "Los malos datos de la actividad y del consumo de esta semana preocupan a los encargados de armar la campaña electoral del oficialismo.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El apretón de manos de Milei con “la casta sindical” (parte II)",
-          "link": "https://www.lanacion.com.ar/politica/el-apreton-de-manos-de-milei-con-la-casta-sindical-parte-ii-nid25072026/",
-          "resumen": "El Gobierno flexibiliza dos puntos de la reforma laboral que afectaban la caja de los gremios y negocia por cambios en el sistema de salud; las obras sociales, entre la crisis y los gastos millonarios",
+          "titulo": "El Gobierno quiere dejar a la Corte Suprema afuera del organismo encargado de elegir y remover jueces",
+          "link": "https://www.lanacion.com.ar/politica/el-gobierno-quiere-dejar-a-la-corte-suprema-afuera-del-organismo-encargado-de-elegir-y-remover-nid26072026/",
+          "resumen": "Analiza reformar la ley para reducir sus miembros; es parte de una modificación integral que incluye cerrar juzgados de Comodoro Py y reducir la Cámara de Casación",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Pago de Ganancias: cuáles son las ventajas y advertencias del nuevo régimen simplificado que impulsa el Gobierno",
-          "link": "https://www.clarin.com/economia/pago-ganancias-ventajas-advertencias-nuevo-regimen-simplificado-impulsa-gobierno_0_rMzf8Hei3E.html",
-          "resumen": "Unos 330.000 contribuyentes alcanzados por el impuesto eligieron pasar al nuevo esquema en lugar del tradicional. Fue creado con la Ley de Inocencia Fiscal y volverá a ser rediscutido en el Congreso con cambios. Qué se modifica en las…",
+          "titulo": "Real hoy: precio y a cuánto cotiza este domingo 26 de julio de 2026",
+          "link": "https://www.clarin.com/economia/real-hoy-precio-y-a-cuanto-cotiza-este-domingo-26-de-julio-de-2026_0_0mdMcyHRr3.html",
+          "resumen": "Conocé la variación del real para la compra y venta. La cotización de la divisa de Brasil según el Banco Nación.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Exposición Rural: el tren de la ganadería está en marcha y puede acelerar",
-          "link": "https://www.lanacion.com.ar/economia/campo/exposicion-rural-el-tren-de-la-ganaderia-esta-en-marcha-y-puede-acelerar-nid25072026/",
-          "resumen": "El aumento de los precios y la eliminación de las restricciones para exportar abren un escenario favorable para la actividad",
+          "titulo": "La baja de tasas impulsada por el Gobierno le llegó a las empresas, pero todavía no a las familias",
+          "link": "https://www.lanacion.com.ar/economia/la-baja-de-tasas-impulsada-por-el-gobierno-le-llego-a-las-empresas-pero-todavia-no-a-las-familias-nid26072026/",
+          "resumen": "Los rendimientos del sistema financiero cayeron del 35% en enero a alrededor del 20% en julio, y el costo del adelanto a empresas se derrumbó a 25,6%, pero el de los préstamos personales apenas bajó de 68% a 64,8%; la mora de las…",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Goldman Sachs recortó la proyección de crecimiento de Argentina y puso la mira en las elecciones",
-          "link": "https://www.ambito.com/economia/goldman-sachs-recorto-la-proyeccion-crecimiento-argentina-y-puso-la-mira-las-elecciones-n6303487",
-          "resumen": "El banco redujo del 3% al 2,7% su previsión para este año tras la desaceleración registrada en abril y mayo. Aunque respaldó el rumbo macroeconómico, advirtió que el Gobierno cuenta con un margen limitado para cometer errores.",
+          "titulo": "El comercio ilegal en Argentina ya mueve unos u$s32.000 millones",
+          "link": "https://www.ambito.com/economia/el-comercio-ilegal-argentina-ya-mueve-unos-us32000-millones-n6303618",
+          "resumen": "Un informe advirtió sobre el avance de la falsificación y el contrabando. Alimentos, bebidas, cigarrillos y ropa se encuentran entre los sectores más afectados.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Secretos, peleas y cenas: de Perón a Milei, las visitas más recordadas de los jefes del FMI a Buenos Aires",
-          "link": "https://www.clarin.com/economia/secretos-peleas-cenas-peron-milei-visitas-recordadas-jefes-fmi-buenos-aires_0_Xxwaw81HoF.html",
-          "resumen": "Economía de No Ficción. En 1948 llegó por primera vez el FMI a Buenos Aires. Perón buscaba dólares y el país aún no era miembro del organismo. Las cenas en Olivos que ofrecieron desde Néstor Kirchner a Mauricio Macri a los jefes del Fondo…",
-          "fuente": "Clarín"
+          "titulo": "El Gobierno contrarió la caída del EMAE: \"Está capturando mucho ruido\"",
+          "link": "https://www.ambito.com/economia/el-gobierno-contrario-la-caida-del-emae-esta-capturando-mucho-ruido-n6303616",
+          "resumen": "El viceministro de Economía, José Luis Daza, apuntó que el indicador no registra que \"alcanzamos con superávit fiscal, sin emisión, con superávit externo y con el Banco Central comprando récord de reservas\".",
+          "fuente": "Ámbito"
         },
         {
-          "titulo": "“Un gran padre”: Rip, el toro Angus inspirado en la serie Yellowstone, fue elegido Gran Campeón Macho en Palermo",
-          "link": "https://www.lanacion.com.ar/economia/campo/un-gran-padre-rip-el-toro-angus-inspirado-en-la-serie-yellowstone-fue-elegido-gran-campeon-macho-en-nid24072026/",
-          "resumen": "En la última jornada de clasificación de la Exposición Rural, el ejemplar de la cabaña Don José, de José Maximiliano Mammoliti, se quedó con el máximo premio de la raza más convocante de la muestra; en paralelo, la raza Criolla también…",
+          "titulo": "La carga tributaria efectiva en 2026 será la más baja en los últimos 20 años",
+          "link": "https://www.lanacion.com.ar/economia/la-carga-tributaria-efectiva-en-2026-sera-la-mas-baja-en-los-ultimos-20-anos-nid27072026/",
+          "resumen": "Un informe del Iaraf destacó que, desde la asunción de Javier Milei, hubo eliminaciones y modificaciones en distintos impuestos y por eso disminuyó la presión fiscal",
           "fuente": "La Nación"
         }
       ]
@@ -77,34 +77,34 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Con máxima seguridad, Trump regresó a la cena de corresponsales y bromeó con presentarse a las elecciones de 2028",
-          "link": "https://www.clarin.com/mundo/maxima-seguridad-trump-regreso-cena-corresponsales-bromeo-presentarse-elecciones-2028_0_gMQ5IiFHnc.html",
-          "resumen": "A tres meses del fallido ataque que obligó a suspender la gala, el mandatario estadounidense cumplió con su promesa y asistió al meeting. Dio un discurso a pura sátira, aunque está en guerra contra la prensa.",
+          "titulo": "Venezuela anunció su salida de la Corte Penal Internacional y Estados Unidos felicitó al gobierno de Delcy Rodríguez",
+          "link": "https://www.clarin.com/mundo/venezuela-anuncio-salida-corte-penal-internacional-estados-unidos-felicito-gobierno-delcy-rodriguez_0_gC2DD2B4nl.html",
+          "resumen": "El Departamento de Estado instó a \"desmantelar la CPI\" y pidió que más países abandonen el Estatuto de Roma. Venezuela acusó a la Corte de enfocar desproporcionadamente sus investigaciones en países africanos y latinoamericanos.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "VIDEO: las impactantes imágenes de los incendios forestales en Madrid, que obligaron a evacuar a más de 150.000 personas",
-          "link": "https://www.lanacion.com.ar/el-mundo/video-las-impactantes-imagenes-de-los-incendios-forestales-que-obligaron-a-evacuar-a-mas-de-60000-nid24072026/",
-          "resumen": "Alimentado por las altas temperaturas, los fuertes vientos y la vegetación seca, el fuego se expandió hasta la provincia de Ávila",
+          "titulo": "Una camioneta atropelló a varias personas durante la celebración por el Día del Orgullo en Berlín: un muerto y 16 heridos",
+          "link": "https://www.lanacion.com.ar/el-mundo/un-vehiculo-atropello-a-una-multitud-durante-la-celebracion-por-el-dia-del-orgullo-en-berlin-nid25072026/",
+          "resumen": "El ataque que tuvo lugar en el parque Tiergarten de la capital alemana; la Policía informó que está buscando a los sospechosos",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Israel lanza una potente acción militar en Cisjordania tras un estallido de violencia que dejó varios muertos",
-          "link": "https://www.clarin.com/mundo/israel-lanza-potente-accion-militar-cisjordania-estallido-violencia-dejo-varios-muertos_0_8VMlWR5UPq.html",
-          "resumen": "La muerte de un colono israelí desencadenó una ola de violencia que dejó dos soldados israelíes y cuatro palestinos muertos. El gobierno de Benjamin Netanyahu anunció una \"extensa operación antiterrorista\".",
+          "titulo": "Conmoción en Alemania: un muerto y 16 heridos en un atropello masivo tras el desfile del Orgullo en Berlín",
+          "link": "https://www.clarin.com/mundo/muerto-15-heridos-atropello-masivo-masivo-desfile-orgullo-berlin_0_agoqWdumcA.html",
+          "resumen": "Un auto se metió entre la multitud y arrolló a los participantes de uno de los eventos más masivos de la capital alemana. El vehículo fue abandonado y fuentes policiales confirmaron que aunque no fue atrapado, el conductor \"tendría…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Los socios comerciales de Estados Unidos se indignan con los nuevos aranceles",
-          "link": "https://www.clarin.com/mundo/socios-comerciales-estados-unidos-indignan-nuevos-aranceles_0_KrfFlfAGI4.html",
-          "resumen": "La Unión Europea, Australia y países de Asia lanzaron duras críticas a la medida anunciada por Donald Trump contra 60 naciones. Afirman que es \"injustificada\" la acusación sobre supuesto trabajo forzado en la fabricación de determinados…",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "Por un caso de “agresión sexual” destituyen al fiscal de la Corte Penal Internacional, que acusó a Putin y Netanyahu",
-          "link": "https://www.lanacion.com.ar/el-mundo/por-un-caso-de-agresion-sexual-destituyen-al-fiscal-de-la-corte-penal-internacional-que-acuso-a-nid24072026/",
-          "resumen": "La votación se realizó a puertas cerradas en la ONU; el británico Karim Khan ya había dejado sus funciones el año pasado para que pudieran avanzar las investigaciones",
+          "titulo": "Quedó aislado durante seis noches en la montaña con dos maestras de su hijo y ahora podrían cobrarles el rescate",
+          "link": "https://www.lanacion.com.ar/el-mundo/quedo-aislado-durante-seis-noches-en-la-montana-con-dos-maestras-de-su-hijo-y-ahora-podrian-cobrarle-nid26072026/",
+          "resumen": "Un hombre y dos mujeres viajaron más de 100 kilómetros de madrugada pese a haber una alerta por temporal; sobrevivieron debido a que encontraron un refugio con alimentos, ropa de abrigo y leña",
           "fuente": "La Nación"
+        },
+        {
+          "titulo": "Estados Unidos registra su peor brote de sarampión en 35 años por la caída en la vacunación",
+          "link": "https://www.clarin.com/mundo/estados-unidos-registra-peor-brote-sarampion-35-anos-caida-vacunacion_0_UJkZBpheVj.html",
+          "resumen": "Desde comienzos de este año se registraron más de 2.300 casos. La cifra supera al total de 2025, que ya había marcado un récord. Los expertos advierten que muchas familias suspenden o postergan la vacunación de sus hijos por temor a…",
+          "fuente": "Clarín"
         }
       ]
     },
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Se fue Otamendi, Paredes y Dibu Martínez dudan y Messi sigue en silencio: el paso del tiempo, el rival invencible que pone contra las cuerdas a la Scaloneta",
-          "link": "https://www.clarin.com/deportes/otamendi-paredes-dibu-martinez-dudan-messi-sigue-silencio-paso-tiempo-rival-invencible-pone-cuerdas-scaloneta_0_8wdLlDLzaF.html",
-          "resumen": "Se cerró el Mundial 2026 y a la Selección se le viene un recambio generacional. El capitán, con 39 años, y Ota, que ya se despidió, con 38, fueron los dos más veteranos del plantel. El arquero de Aston Villa y el volante de Boca, con 33 y…",
+          "titulo": "Un sorpresivo ataque de abejas interrumpió y obligó a suspender una final de fútbol en Brasil",
+          "link": "https://www.clarin.com/deportes/sorprendente-ataque-abejas-interrumpio-obligo-suspender-final-futbol-brasil_0_JAkYk1qzNB.html",
+          "resumen": "Jugadores, árbitros, cuerpo técnico y hasta los camarógrafos tuvieron que tirarse al piso y permanecer allí por espacio de varios minutos para evitar ser picados por el invasivo enjambre. Ocurrió en la final del campeonato Baiano de Sub…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Mauricio Sulaimán, pesidente del Consejo Mundial de Boxeo (CMB): “Argentina es una pieza de oro molido en boxeo, falta administrarlo bien”",
-          "link": "https://www.lanacion.com.ar/deportes/boxeo/mauricio-sulaiman-pesidente-del-consejo-mundial-de-boxeo-cmb-argentina-es-una-pieza-de-oro-molido-en-nid25072026/",
-          "resumen": "De paso por Buenos Aires, habló de la actualidad política de este deporte, los proyectos y el camino del olimpismo. Un apellido ilustre",
+          "titulo": "En qué canal pasan el GP de Hungría de la Fórmula 1 2026",
+          "link": "https://www.lanacion.com.ar/deportes/automovilismo/en-que-canal-pasan-el-gp-de-hungria-de-la-formula-1-2026-nid26072026/",
+          "resumen": "En la Argentina hay una sola opción para seguir la carrera en vivo por televisión y otras dos para verla a través de plataformas de streaming",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El tajante descargo de Nacho Fernández contra el arbitraje tras la derrota ante Racing",
-          "link": "https://www.ole.com.ar/gimnasia-y-esgrima/nacho-fernandez-gimnasia-racing-clausura-polemica-arbitro_0_iHko95gvGr.html",
-          "resumen": "El referente de Gimnasia aseguró que el VAR \"influyó en el resultado\" en el Cilindro y perjudicó a su equipo en la primera fecha del Torneo Clausura. ¿Qué dijo?",
+          "titulo": "Qué dijo el técnico del Inter Miami sobre el estado de salud de Germán Berterame",
+          "link": "https://www.ole.com.ar/mls/inter-miami/german-berterame-inter-miami-golpe-cabeza-parte-medico-entrenador_0_zj6HK53ejL.html",
+          "resumen": "El delantero sufrió un durísimo golpe en la cabeza, quedó tendido en el campo de juego y debió ser retirado de emergencia por una ambulancia frente a Montreal.",
           "fuente": "Olé"
         },
         {
-          "titulo": "F1 GP de Hungría con Franco Colapinto, EN VIVO: horarios de la última práctica libre, clasificación y dónde ver la Fórmula 1 este sábado 25 de julio",
-          "link": "https://www.clarin.com/deportes/f1-gp-hungria-franco-colapinto-vivo-horarios-ultima-practica-libre-clasificacion-ver-formula-1-sabado-25-julio_0_d72iB7hCXC.html",
-          "resumen": "El piloto argentino chocó en su única práctica libre del viernes y apenas pudo dar 11 giros. Es la última fecha de la temporada antes del parón de verano.",
+          "titulo": "Lo que dejó La Velada del Año VI: de los gestos de Gastón Edul a la piña de Gero Arias que casi saca del ring a Viruzz",
+          "link": "https://www.clarin.com/deportes/dejo-velada-ano-vi-gestos-gaston-edul-pina-gero-arias-saca-ring-viruzz_0_ccGUGeZZ7z.html",
+          "resumen": "Amado y odiado, la sexta edición del show de boxeo de Ibai Llanos fue un éxito total. Duró más de ocho horas, llenó un estadio y fue seguida por millones en las redes. Tuvo de todo, la derrota del periodista pero también tres triunfazos…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Juan Szafrán, el periodista de los desafíos: la vez que Vilas lo emocionó y la batalla por la vida en la que está “set iguales”",
-          "link": "https://www.lanacion.com.ar/deportes/tenis/juan-szafran-el-periodista-de-los-desafios-la-vez-que-vilas-lo-emociono-y-la-batalla-por-la-vida-en-nid25072026/",
-          "resumen": "Hombre de radio y TV vinculado al tenis, dejó la actividad y se fue a España por un sueño alejado del periodismo; su arrepentimiento con Del Potro y con Sabatini",
+          "titulo": "Partidos de hoy del Torneo Clausura 2026, domingo 26 de julio: horario y por dónde ver en vivo online",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/partidos-de-hoy-del-torneo-clausura-2026-domingo-26-de-julio-horario-y-por-donde-ver-en-vivo-online-nid26072026/",
+          "resumen": "La fecha 1 del segundo certamen de la temporada en la Primera División del fútbol argentino culmina con dos encuentros del Grupo A y uno del B",
           "fuente": "La Nación"
         }
       ]
