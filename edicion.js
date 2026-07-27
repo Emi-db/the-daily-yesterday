@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "26 de julio de 2026",
-  "generada": "11:12",
+  "fecha": "27 de julio de 2026",
+  "generada": "12:48",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente inaugura este domingo la Exposición Rural en Palermo",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-inaugura-domingo-exposicion-rural-palermo_0_l9uvcwhVzH.html",
-          "resumen": "En la 138 edición de la feria que trae el campo a la ciudad por primera vez el acto inaugural se realizará un domingo. Seguí todas las novedades sobre las medidas del gobierno de Javier Milei en la cobertura minuto a minuto de Clarín.",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: en medio del conflicto diplomático con Brasil, el Presidente recibe hoy a la directora del FMI",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-medio-conflicto-diplomatico-brasil-presidente-recibe-hoy-directora-fmi_0_aCTnmvIWdK.html",
+          "resumen": "La cumbre entre el mandatario y Kristalina Georgieva será a partir de las 14 en la Casa Rosada. Esto en medio del roce con Brasil, tras los insultos del jefe de Estado argentino a su par Lula da Silva. Seguí todas las novedades sobre las…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La Justicia de EE.UU. da un paso clave en la investigación sobre la AFA, que podría demorar meses antes de presentar cargos",
-          "link": "https://www.lanacion.com.ar/politica/la-justicia-de-eeuu-da-un-paso-clave-en-la-investigacion-sobre-la-afa-que-podria-demorar-meses-antes-nid26072026/",
-          "resumen": "Los fiscales exigen “confidencialidad extrema”, mientras que la primera ronda de citaciones podría abarcar seis personas",
+          "titulo": "Andrés Malamud analizó las tensiones con Brasil: “Milei está tratando de demostrar que la diplomacia no sirve para nada”",
+          "link": "https://www.lanacion.com.ar/politica/andres-malamud-analizo-las-tensiones-con-brasil-milei-esta-tratando-de-demostrar-que-la-diplomacia-nid27072026/",
+          "resumen": "El analista político se refirió a los dichos del Presidente contra Lula y el juez brasileño Alexandre de Moraes; además, habló sobre la situación económica de la Argentina y la designación de Diego Santilli como jefe de Gabinete",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Milei hablará hoy en la Exposición Rural: el Campo espera definiciones, el gobierno descartó medidas de gran impacto",
-          "link": "https://www.infobae.com/politica/2026/07/26/milei-hablara-hoy-en-la-exposicion-rural-el-campo-espera-definiciones-el-gobierno-descarto-medidas-de-gran-impacto/",
-          "resumen": "El Presidente dará el discurso central de la inauguración oficial de la 138 edición de la muestra. Aunque se anticipó que “no habrá grandes anuncios”, el sector agropecuario aguarda posibles medidas vinculadas a las retenciones, el…",
+          "titulo": "Crisis entre Milei y Lula: la trama política, personal y geopolítica detrás del mayor choque diplomático entre Argentina y Brasil",
+          "link": "https://www.infobae.com/politica/2026/07/27/crisis-entre-milei-y-lula-la-trama-politica-personal-y-geopolitica-detras-del-mayor-choque-diplomatico-entre-argentina-y-brasil/",
+          "resumen": "Los insultos del Presidente a Lula y al juez De Moraes fueron el punto más visible de una disputa que se gestó en la campaña de 2023, se alimentó de una enemistad política e ideológica y hoy también expresa dos visiones opuestas sobre el…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Las urgencias de los hermanos Milei y la presión sobre Caputo",
-          "link": "https://www.clarin.com/politica/urgencias-hermanos-milei-presion-caputo_0_6OxIE5cYI3.html",
-          "resumen": "Los malos datos de la actividad y del consumo de esta semana preocupan a los encargados de armar la campaña electoral del oficialismo.",
+          "titulo": "Tanteos en el peronismo para acercar a Kicillof y Máximo Kirchner: una intendenta lo intentó con un acto por Evita, pero fracasó",
+          "link": "https://www.clarin.com/politica/tanteos-peronismo-acercar-kicillof-maximo-kirchner-intendenta-intento-acto-evita-fracaso_0_6XrmH3ROS6.html",
+          "resumen": "Mariel Fernández invitó al gobernador y al jefe de La Cámpora a la actividad en Moreno. El mandatario riojano Ricardo Quintela prepara para el fin de semana próximo otro evento con el mismo propósito.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El Gobierno quiere dejar a la Corte Suprema afuera del organismo encargado de elegir y remover jueces",
-          "link": "https://www.lanacion.com.ar/politica/el-gobierno-quiere-dejar-a-la-corte-suprema-afuera-del-organismo-encargado-de-elegir-y-remover-nid26072026/",
-          "resumen": "Analiza reformar la ley para reducir sus miembros; es parte de una modificación integral que incluye cerrar juzgados de Comodoro Py y reducir la Cámara de Casación",
+          "titulo": "De Mendiguren le respondió a Milei: “Las ideas se defienden con hechos, no con insultos”",
+          "link": "https://www.lanacion.com.ar/politica/de-mendiguren-le-respondio-a-milei-las-ideas-se-defienden-con-hechos-no-con-insultos-nid27072026/",
+          "resumen": "El exministro negó haber tenido causas o denuncias y sostuvo que las declaraciones del Presidente son “un acto de cobardía”",
           "fuente": "La Nación"
         }
       ]
@@ -42,34 +42,34 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Real hoy: precio y a cuánto cotiza este domingo 26 de julio de 2026",
-          "link": "https://www.clarin.com/economia/real-hoy-precio-y-a-cuanto-cotiza-este-domingo-26-de-julio-de-2026_0_0mdMcyHRr3.html",
-          "resumen": "Conocé la variación del real para la compra y venta. La cotización de la divisa de Brasil según el Banco Nación.",
+          "titulo": "Euro hoy en Paraguay: precio y cotización de la divisa este lunes 27 de julio de 2026",
+          "link": "https://www.clarin.com/economia/euro-hoy-en-paraguay-precio-y-cotizacion-de-la-divisa-este-lunes-27-de-julio-de-2026_0_bdeAWiPYmC.html",
+          "resumen": "Mirá la cotización del euro en Paraguay, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La baja de tasas impulsada por el Gobierno le llegó a las empresas, pero todavía no a las familias",
-          "link": "https://www.lanacion.com.ar/economia/la-baja-de-tasas-impulsada-por-el-gobierno-le-llego-a-las-empresas-pero-todavia-no-a-las-familias-nid26072026/",
-          "resumen": "Los rendimientos del sistema financiero cayeron del 35% en enero a alrededor del 20% en julio, y el costo del adelanto a empresas se derrumbó a 25,6%, pero el de los préstamos personales apenas bajó de 68% a 64,8%; la mora de las…",
+          "titulo": "Kristalina Georgieva llega a la Argentina: reuniones con Milei, Caputo, empresarios y una visita a Vaca Muerta",
+          "link": "https://www.lanacion.com.ar/economia/kristalina-georgieva-llega-manana-a-la-argentina-reuniones-con-milei-caputo-empresarios-y-una-visita-nid26072026/",
+          "resumen": "La directora gerente del FMI iniciará hoy su primera visita al país desde que asumió el cargo; aún es el principal deudor del organismo",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El comercio ilegal en Argentina ya mueve unos u$s32.000 millones",
-          "link": "https://www.ambito.com/economia/el-comercio-ilegal-argentina-ya-mueve-unos-us32000-millones-n6303618",
-          "resumen": "Un informe advirtió sobre el avance de la falsificación y el contrabando. Alimentos, bebidas, cigarrillos y ropa se encuentran entre los sectores más afectados.",
+          "titulo": "El Washington Post destacó la mejora de las perspectivas económicas durante la gestión de Javier Milei",
+          "link": "https://www.ambito.com/economia/el-washington-post-destaco-la-mejora-las-perspectivas-economicas-la-gestion-javier-milei-n6303890",
+          "resumen": "El diario estadounidense volvió a destacar la evolución de la economía argentina y puso el foco en la mejora de la percepción de los mercados y en las recientes revisiones favorables de las calificadoras de riesgo.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "El Gobierno contrarió la caída del EMAE: \"Está capturando mucho ruido\"",
-          "link": "https://www.ambito.com/economia/el-gobierno-contrario-la-caida-del-emae-esta-capturando-mucho-ruido-n6303616",
-          "resumen": "El viceministro de Economía, José Luis Daza, apuntó que el indicador no registra que \"alcanzamos con superávit fiscal, sin emisión, con superávit externo y con el Banco Central comprando récord de reservas\".",
-          "fuente": "Ámbito"
-        },
-        {
-          "titulo": "La carga tributaria efectiva en 2026 será la más baja en los últimos 20 años",
-          "link": "https://www.lanacion.com.ar/economia/la-carga-tributaria-efectiva-en-2026-sera-la-mas-baja-en-los-ultimos-20-anos-nid27072026/",
-          "resumen": "Un informe del Iaraf destacó que, desde la asunción de Javier Milei, hubo eliminaciones y modificaciones en distintos impuestos y por eso disminuyó la presión fiscal",
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 27 de julio de 2026",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid27072026/",
+          "resumen": "La divisa oficial se vendió a $1520 en el cierre de la jornada del viernes; en tanto, el dólar blue cotizó a $1545 para esa operación; qué pasó con el MEP y el CCL",
           "fuente": "La Nación"
+        },
+        {
+          "titulo": "Las ventas de indumentaria cayó 6,9% y solo 1 de cada 6 empresas espera una recuperación",
+          "link": "https://www.ambito.com/economia/las-ventas-indumentaria-cayo-69-y-solo-1-cada-6-empresas-espera-una-recuperacion-n6303884",
+          "resumen": "Aunque la caída se moderó respecto de bimestres anteriores, el consumo continúa deprimido. Ocho de cada diez empresas atribuyen la crisis a la falta de demanda y la mayoría no prevé una mejora en las ventas durante los próximos meses.",
+          "fuente": "Ámbito"
         }
       ]
     },
@@ -77,21 +77,9 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Venezuela anunció su salida de la Corte Penal Internacional y Estados Unidos felicitó al gobierno de Delcy Rodríguez",
-          "link": "https://www.clarin.com/mundo/venezuela-anuncio-salida-corte-penal-internacional-estados-unidos-felicito-gobierno-delcy-rodriguez_0_gC2DD2B4nl.html",
-          "resumen": "El Departamento de Estado instó a \"desmantelar la CPI\" y pidió que más países abandonen el Estatuto de Roma. Venezuela acusó a la Corte de enfocar desproporcionadamente sus investigaciones en países africanos y latinoamericanos.",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "Una camioneta atropelló a varias personas durante la celebración por el Día del Orgullo en Berlín: un muerto y 16 heridos",
-          "link": "https://www.lanacion.com.ar/el-mundo/un-vehiculo-atropello-a-una-multitud-durante-la-celebracion-por-el-dia-del-orgullo-en-berlin-nid25072026/",
-          "resumen": "El ataque que tuvo lugar en el parque Tiergarten de la capital alemana; la Policía informó que está buscando a los sospechosos",
-          "fuente": "La Nación"
-        },
-        {
-          "titulo": "Conmoción en Alemania: un muerto y 16 heridos en un atropello masivo tras el desfile del Orgullo en Berlín",
-          "link": "https://www.clarin.com/mundo/muerto-15-heridos-atropello-masivo-masivo-desfile-orgullo-berlin_0_agoqWdumcA.html",
-          "resumen": "Un auto se metió entre la multitud y arrolló a los participantes de uno de los eventos más masivos de la capital alemana. El vehículo fue abandonado y fuentes policiales confirmaron que aunque no fue atrapado, el conductor \"tendría…",
+          "titulo": "Tiroteo en un festival de Seattle: tres muertos cerca de la emblemática Aguja Espacial",
+          "link": "https://www.clarin.com/mundo/tiroteo-festival-seattle-muertos-cerca-emblematica-aguja-espacial_0_tqhpplCNgF.html",
+          "resumen": "El ataque ocurrió durante el Bite of Seattle, uno de los eventos públicos más concurridos de la ciudad. La Policía confirmó que había varias personas alcanzadas por disparos y montó un operativo en el Seattle Center. Confirmaron la…",
           "fuente": "Clarín"
         },
         {
@@ -101,9 +89,21 @@ const EDICION = {
           "fuente": "La Nación"
         },
         {
-          "titulo": "Estados Unidos registra su peor brote de sarampión en 35 años por la caída en la vacunación",
-          "link": "https://www.clarin.com/mundo/estados-unidos-registra-peor-brote-sarampion-35-anos-caida-vacunacion_0_UJkZBpheVj.html",
-          "resumen": "Desde comienzos de este año se registraron más de 2.300 casos. La cifra supera al total de 2025, que ya había marcado un récord. Los expertos advierten que muchas familias suspenden o postergan la vacunación de sus hijos por temor a…",
+          "titulo": "España enfrenta el mayor incendio forestal de su historia reciente: hay más de cien mil evacuados",
+          "link": "https://www.clarin.com/mundo/espana-enfrenta-mayor-incendio-forestal-historia-reciente_0_LpOnqdKRTm.html",
+          "resumen": "Varios focos en la región de Madrid y en las provincias vecinas amenazaron con converger en un enorme foco alrededor de la capital y forzaron las evacuaciones. Mientras que en Francia los bomberos enfrentan una \"tormenta de fuego\" a…",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Llega una cuarta ola de calor a España y advierten por temperaturas superiores a los 40 grados",
+          "link": "https://www.lanacion.com.ar/el-mundo/llega-una-cuarta-ola-de-calor-a-espana-y-advierten-por-temperaturas-superiores-a-los-40-grados-nid27072026/",
+          "resumen": "Mientras parte de Europa se enfrenta a los graves incendios forestales, la Agencia Estatal de Meteorología anticipó el calor extremo; ya fueron evacuadas aproximadamente 325.000 personas",
+          "fuente": "La Nación"
+        },
+        {
+          "titulo": "Simpatizante de Estado Islámico, de origen libanés, y condenado varias veces: quién era el atacante de la Marcha del Orgullo en Berlín",
+          "link": "https://www.clarin.com/mundo/simpatizante-estado-islamico-origen-libanes-condenado-varias-veces-atacante-marcha-orgullo-berlin_0_uq6JfaxKnN.html",
+          "resumen": "Abdel Ballout, de 21 años, tenía una pena en suspenso por haber cometido un acto grave de violencia contra la seguridad del Estado alemán. El sábado embistió una camioneta contra la multitud durante el desfile y mató a una persona.",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Un sorpresivo ataque de abejas interrumpió y obligó a suspender una final de fútbol en Brasil",
-          "link": "https://www.clarin.com/deportes/sorprendente-ataque-abejas-interrumpio-obligo-suspender-final-futbol-brasil_0_JAkYk1qzNB.html",
-          "resumen": "Jugadores, árbitros, cuerpo técnico y hasta los camarógrafos tuvieron que tirarse al piso y permanecer allí por espacio de varios minutos para evitar ser picados por el invasivo enjambre. Ocurrió en la final del campeonato Baiano de Sub…",
+          "titulo": "Francisco Fiorito, campeón en Andorra: otro adolescente argentino que arrasa en los tableros de ajedrez",
+          "link": "https://www.clarin.com/deportes/francisco-fiorito-campeon-andorra-adolescente-argentino-arrasa-tableros-ajedrez_0_gobf7I71Na.html",
+          "resumen": "A los 15 años, el hermano de Joaquín (19) e hijo de Fabián, ex campeón argentino, conquistó el Abierto de ese país. Con mamá Roxana, la familia reside en España desde fines de 2023. El ajedrez nacional tiene futuro con una camada de…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "En qué canal pasan el GP de Hungría de la Fórmula 1 2026",
-          "link": "https://www.lanacion.com.ar/deportes/automovilismo/en-que-canal-pasan-el-gp-de-hungria-de-la-formula-1-2026-nid26072026/",
-          "resumen": "En la Argentina hay una sola opción para seguir la carrera en vivo por televisión y otras dos para verla a través de plataformas de streaming",
+          "titulo": "El desembarco de LeBron James en Philadelphia Sixer disparó la cifra más increíble de toda su carrera en la NBA",
+          "link": "https://www.lanacion.com.ar/deportes/basquetbol/el-desembarco-de-lebron-james-en-philadelphia-sixer-disparo-la-cifra-mas-increible-de-toda-su-nid27072026/",
+          "resumen": "La máxima estrella de la competencia acordó un vínculo histórico",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Qué dijo el técnico del Inter Miami sobre el estado de salud de Germán Berterame",
-          "link": "https://www.ole.com.ar/mls/inter-miami/german-berterame-inter-miami-golpe-cabeza-parte-medico-entrenador_0_zj6HK53ejL.html",
-          "resumen": "El delantero sufrió un durísimo golpe en la cabeza, quedó tendido en el campo de juego y debió ser retirado de emergencia por una ambulancia frente a Montreal.",
+          "titulo": "A lo Boca: O'Higgins perdió por el campeonato local y con un mix antes de la vuelta de Sudamericana",
+          "link": "https://www.ole.com.ar/futbol-internacional/america/boca-copa-sudamericana-deportes-ohiggins-salio-resultado-perdio_0_qtKndlmwL5.html",
+          "resumen": "El equipo de Bovaglio cayó 2-0 ante Deportes Concepción en una derrota que también lo deja tocado de cara al partido de este jueves frente al Xeneize.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Lo que dejó La Velada del Año VI: de los gestos de Gastón Edul a la piña de Gero Arias que casi saca del ring a Viruzz",
-          "link": "https://www.clarin.com/deportes/dejo-velada-ano-vi-gestos-gaston-edul-pina-gero-arias-saca-ring-viruzz_0_ccGUGeZZ7z.html",
-          "resumen": "Amado y odiado, la sexta edición del show de boxeo de Ibai Llanos fue un éxito total. Duró más de ocho horas, llenó un estadio y fue seguida por millones en las redes. Tuvo de todo, la derrota del periodista pero también tres triunfazos…",
+          "titulo": "Quiso llegar en moto al Mundial, se quebró en el camino y ahora \"caza\" firmas de la Scaloneta para ayudar a las víctimas del terremoto en Venezuela",
+          "link": "https://www.clarin.com/deportes/quiso-llegar-moto-mundial-quebro-camino-ahora-caza-firmas-scaloneta-ayudar-victimas-terremoto-venezuela_0_R5ADQGVIIX.html",
+          "resumen": "La primera que consiguió fue la de Scaloni y monta guardia en Rosario por la de Messi. Después del terremoto decidió que se desprendería de su vehículo para ayudar \"a los que lo necesitan más\". Viaja por el país con una carpa y una bolsa…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Partidos de hoy del Torneo Clausura 2026, domingo 26 de julio: horario y por dónde ver en vivo online",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/partidos-de-hoy-del-torneo-clausura-2026-domingo-26-de-julio-horario-y-por-donde-ver-en-vivo-online-nid26072026/",
-          "resumen": "La fecha 1 del segundo certamen de la temporada en la Primera División del fútbol argentino culmina con dos encuentros del Grupo A y uno del B",
+          "titulo": "El escándalo de prostitución y drogas que involucró a Slavko Vinčić, el árbitro de la final Argentina vs. España que se acaba de retirar",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/el-escandalo-de-prostitucion-y-drogas-que-involucro-a-slavko-vincic-el-arbitro-de-la-final-argentina-nid27072026/",
+          "resumen": "El juez esloveno, encargado de dirigir la definición del Mundial 2026, anunció que dará un paso al costado; estuvo detenido en Bosnia en 2020; quedó liberado y fue completamente desligado de la causa",
           "fuente": "La Nación"
         }
       ]
