@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "27 de julio de 2026",
-  "generada": "12:48",
+  "fecha": "28 de julio de 2026",
+  "generada": "11:49",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: en medio del conflicto diplomático con Brasil, el Presidente recibe hoy a la directora del FMI",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-medio-conflicto-diplomatico-brasil-presidente-recibe-hoy-directora-fmi_0_aCTnmvIWdK.html",
-          "resumen": "La cumbre entre el mandatario y Kristalina Georgieva será a partir de las 14 en la Casa Rosada. Esto en medio del roce con Brasil, tras los insultos del jefe de Estado argentino a su par Lula da Silva. Seguí todas las novedades sobre las…",
+          "titulo": "Antisemitismo, violencia y corrupción: se empieza a definir el futuro de tres jueces federales acusados de mal desempeño",
+          "link": "https://www.clarin.com/politica/antisemitismo-violencia-corrupcion-empieza-definir-futuro-jueces-federales-acusados-mal-desempeno_0_OuXLVeghIK.html",
+          "resumen": "Cuando termine la feria se activarán los juicios políticos a los magistrados que podrían ser destituidos de sus cargos. Uno de ellos, Gastón Salmain, tiene una orden de detención.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Andrés Malamud analizó las tensiones con Brasil: “Milei está tratando de demostrar que la diplomacia no sirve para nada”",
-          "link": "https://www.lanacion.com.ar/politica/andres-malamud-analizo-las-tensiones-con-brasil-milei-esta-tratando-de-demostrar-que-la-diplomacia-nid27072026/",
-          "resumen": "El analista político se refirió a los dichos del Presidente contra Lula y el juez brasileño Alexandre de Moraes; además, habló sobre la situación económica de la Argentina y la designación de Diego Santilli como jefe de Gabinete",
-          "fuente": "La Nación"
-        },
-        {
-          "titulo": "Crisis entre Milei y Lula: la trama política, personal y geopolítica detrás del mayor choque diplomático entre Argentina y Brasil",
-          "link": "https://www.infobae.com/politica/2026/07/27/crisis-entre-milei-y-lula-la-trama-politica-personal-y-geopolitica-detras-del-mayor-choque-diplomatico-entre-argentina-y-brasil/",
-          "resumen": "Los insultos del Presidente a Lula y al juez De Moraes fueron el punto más visible de una disputa que se gestó en la campaña de 2023, se alimentó de una enemistad política e ideológica y hoy también expresa dos visiones opuestas sobre el…",
+          "titulo": "Nombraron tres nuevos funcionarios que ocuparán roles claves en Seguridad, Justicia y la Jefatura de Gabinete",
+          "link": "https://www.infobae.com/politica/2026/07/28/nombraron-tres-nuevos-funcionarios-que-ocuparan-roles-claves-en-seguridad-justicia-y-la-jefatura-de-gabinete/",
+          "resumen": "Se trata de Gonzalo Del Huerto como Subsecretario de Relaciones Parlamentarias, Matías Manfredi en la Subsecretaría de Relaciones con el Poder Judicial y la Comunidad Académica y de Enrique Braun de Corral en el cargo de Subsecretario de…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Tanteos en el peronismo para acercar a Kicillof y Máximo Kirchner: una intendenta lo intentó con un acto por Evita, pero fracasó",
-          "link": "https://www.clarin.com/politica/tanteos-peronismo-acercar-kicillof-maximo-kirchner-intendenta-intento-acto-evita-fracaso_0_6XrmH3ROS6.html",
-          "resumen": "Mariel Fernández invitó al gobernador y al jefe de La Cámpora a la actividad en Moreno. El mandatario riojano Ricardo Quintela prepara para el fin de semana próximo otro evento con el mismo propósito.",
+          "titulo": "Una nueva encuesta preguntó por la \"campaña anti Argentina\": Inglaterra primero y la \"envidia\" por la Selección",
+          "link": "https://www.clarin.com/politica/nueva-encuesta-pregunto-campana-anti-argentina-inglaterra-primero-envidia-seleccion_0_tnmfVBjL22.html",
+          "resumen": "Es un estudio nacional de la consultora Trespuntozero. Por qué nos cuestionan y de dónde vienen las principales críticas. ¿Hay realmente una campaña? ¿Es orquestada o espontánea?",
           "fuente": "Clarín"
         },
         {
-          "titulo": "De Mendiguren le respondió a Milei: “Las ideas se defienden con hechos, no con insultos”",
-          "link": "https://www.lanacion.com.ar/politica/de-mendiguren-le-respondio-a-milei-las-ideas-se-defienden-con-hechos-no-con-insultos-nid27072026/",
-          "resumen": "El exministro negó haber tenido causas o denuncias y sostuvo que las declaraciones del Presidente son “un acto de cobardía”",
-          "fuente": "La Nación"
+          "titulo": "La AGN detectó graves irregularidades en el Plan Nacional de Vivienda durante las gestiones de Macri y Fernández",
+          "link": "https://www.infobae.com/politica/2026/07/28/la-agn-detecto-graves-irregularidades-en-el-plan-nacional-de-vivienda-durante-las-gestiones-de-macri-y-fernandez/",
+          "resumen": "El informe del 28 de agosto de 2024 advirtió obras detenidas, unidades adjudicadas sin finalización y remesas a cuatro provincias sin verificación efectiva, tras revisar 28 acuerdos del Programa 38 y extender el relevamiento hasta marzo…",
+          "fuente": "Infobae"
+        },
+        {
+          "titulo": "Un estudio descarta que la campaña antiargentina haya sido orquestada en redes: \"La hostilidad fue real y masiva, pero su circulación fue dispersa y orgánica\"",
+          "link": "https://www.clarin.com/politica/estudio-descarta-campana-antiargentina-orquestada-redes-hostilidad-real-masiva-circulacion-dispersa-organica_0_mbBS22JFxX.html",
+          "resumen": "La investigación analizó más de 500 mil tuits publicados por 325.627 cuentas. Si bien verificaron una tendencia antiargentina, rechazaron que haya estado organizada. El rol de las cuentas argentinas, el peso del debate futbolístico y qué…",
+          "fuente": "Clarín"
         }
       ]
     },
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Euro hoy en Paraguay: precio y cotización de la divisa este lunes 27 de julio de 2026",
-          "link": "https://www.clarin.com/economia/euro-hoy-en-paraguay-precio-y-cotizacion-de-la-divisa-este-lunes-27-de-julio-de-2026_0_bdeAWiPYmC.html",
-          "resumen": "Mirá la cotización del euro en Paraguay, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 28 de julio, minuto a minuto",
+          "link": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-martes-28-julio-minuto-minuto_0_bvXPCTrbLk.html",
+          "resumen": "Seguí los cambios de las cotizaciones del dólar este martes 28 de julio, minuto a minuto.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Kristalina Georgieva llega a la Argentina: reuniones con Milei, Caputo, empresarios y una visita a Vaca Muerta",
-          "link": "https://www.lanacion.com.ar/economia/kristalina-georgieva-llega-manana-a-la-argentina-reuniones-con-milei-caputo-empresarios-y-una-visita-nid26072026/",
-          "resumen": "La directora gerente del FMI iniciará hoy su primera visita al país desde que asumió el cargo; aún es el principal deudor del organismo",
+          "titulo": "Fecha de cobro de Anses: el cronograma de pagos para este martes 28 de julio",
+          "link": "https://www.lanacion.com.ar/economia/fecha-de-cobro-de-anses-el-cronograma-de-pagos-para-este-martes-28-de-julio-nid28072026/",
+          "resumen": "El organismo previsional continúa con el calendario de pagos de jubilaciones superiores y la Prestación por Desempleo, entre otras asistencias sociales",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El Washington Post destacó la mejora de las perspectivas económicas durante la gestión de Javier Milei",
-          "link": "https://www.ambito.com/economia/el-washington-post-destaco-la-mejora-las-perspectivas-economicas-la-gestion-javier-milei-n6303890",
-          "resumen": "El diario estadounidense volvió a destacar la evolución de la economía argentina y puso el foco en la mejora de la percepción de los mercados y en las recientes revisiones favorables de las calificadoras de riesgo.",
+          "titulo": "Brasil lleva a la OMC la discusión por los aranceles de Donald Trump",
+          "link": "https://www.ambito.com/economia/brasil-lleva-la-omc-la-discusion-los-aranceles-donald-trump-n6304260",
+          "resumen": "Brasilia presentó ante la Organización Mundial del Comercio un pedido de consultas con Washington. El gobierno brasileño considera las medidas injustificadas pero mantiene la voluntad de negociar para revertirlas, con el calor electoral…",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 27 de julio de 2026",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid27072026/",
-          "resumen": "La divisa oficial se vendió a $1520 en el cierre de la jornada del viernes; en tanto, el dólar blue cotizó a $1545 para esa operación; qué pasó con el MEP y el CCL",
-          "fuente": "La Nación"
+          "titulo": "Euro hoy en Venezuela: precio y cotización de la divisa este martes 28 de julio de 2026",
+          "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-martes-28-de-julio-de-2026_0_QhgJ0bV7cF.html",
+          "resumen": "Mirá la cotización del euro en Venezuela, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
+          "fuente": "Clarín"
         },
         {
-          "titulo": "Las ventas de indumentaria cayó 6,9% y solo 1 de cada 6 empresas espera una recuperación",
-          "link": "https://www.ambito.com/economia/las-ventas-indumentaria-cayo-69-y-solo-1-cada-6-empresas-espera-una-recuperacion-n6303884",
-          "resumen": "Aunque la caída se moderó respecto de bimestres anteriores, el consumo continúa deprimido. Ocho de cada diez empresas atribuyen la crisis a la falta de demanda y la mayoría no prevé una mejora en las ventas durante los próximos meses.",
+          "titulo": "Se acelera el cambio demográfico: la caída de la natalidad amenaza el crecimiento del consumo mundial",
+          "link": "https://www.ambito.com/economia/el-consumo-global-amenazado-el-desafio-del-cambio-demografico-n6304208",
+          "resumen": "Según el último Ipsos Generaciones 2026, en 19 de las 20 economías más grandes del planeta la tasa de fecundidad se encuentra por debajo del nivel necesario para reemplazar a la población existente. De modo que menos gente, menos consumo:…",
           "fuente": "Ámbito"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Tiroteo en un festival de Seattle: tres muertos cerca de la emblemática Aguja Espacial",
-          "link": "https://www.clarin.com/mundo/tiroteo-festival-seattle-muertos-cerca-emblematica-aguja-espacial_0_tqhpplCNgF.html",
-          "resumen": "El ataque ocurrió durante el Bite of Seattle, uno de los eventos públicos más concurridos de la ciudad. La Policía confirmó que había varias personas alcanzadas por disparos y montó un operativo en el Seattle Center. Confirmaron la…",
+          "titulo": "Un poderoso terremoto golpea Japón: hay derrumbes y \"varias personas\" atrapadas en un shopping",
+          "link": "https://www.clarin.com/mundo/poderoso-terremoto-golpea-japon-derrumbes-varias-personas-atrapadas-shopping_0_9TsDzhPNVU.html",
+          "resumen": "El sismo de magnitud 7,1 sacudió Kumamoto, a última hora de la tarde del martes, y provocó un aviso temporal de tsunami. Hay viviendas colapsadas, incendios y apagones.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Quedó aislado durante seis noches en la montaña con dos maestras de su hijo y ahora podrían cobrarles el rescate",
-          "link": "https://www.lanacion.com.ar/el-mundo/quedo-aislado-durante-seis-noches-en-la-montana-con-dos-maestras-de-su-hijo-y-ahora-podrian-cobrarle-nid26072026/",
-          "resumen": "Un hombre y dos mujeres viajaron más de 100 kilómetros de madrugada pese a haber una alerta por temporal; sobrevivieron debido a que encontraron un refugio con alimentos, ropa de abrigo y leña",
+          "titulo": "Terremoto en Japón: al menos 50 heridos, edificios derrumbados y miles de hogares sin luz",
+          "link": "https://www.lanacion.com.ar/el-mundo/terremoto-en-japon-al-menos-50-heridos-edificios-derrumbados-y-miles-de-hogares-sin-luz-nid28072026/",
+          "resumen": "El temblor de 7.1 de magnitud ocurrió en la isla de Kyushu; se lanzó una alerta de tsunami pero fue desestimada por falta de actividad",
           "fuente": "La Nación"
         },
         {
-          "titulo": "España enfrenta el mayor incendio forestal de su historia reciente: hay más de cien mil evacuados",
-          "link": "https://www.clarin.com/mundo/espana-enfrenta-mayor-incendio-forestal-historia-reciente_0_LpOnqdKRTm.html",
-          "resumen": "Varios focos en la región de Madrid y en las provincias vecinas amenazaron con converger en un enorme foco alrededor de la capital y forzaron las evacuaciones. Mientras que en Francia los bomberos enfrentan una \"tormenta de fuego\" a…",
+          "titulo": "Confirmaron la identidad: una mujer que figuraba como desaparecida por la dictadura en Chile está viva y reside en Argentina",
+          "link": "https://www.clarin.com/mundo/confirmaron-identidad-mujer-figuraba-desaparecida-dictadura-chile-viva-reside-argentina_0_j6pd1Ykmao.html",
+          "resumen": "Bernarda Vera, que figura en el listado de víctimas de la dictadura de Pinochet, fue descubierta por la TV en Miramar el año pasado. Ahora, diez meses después, el análisis genético reveló que hay \"una probabilidad superior al 99,999%\" de…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Llega una cuarta ola de calor a España y advierten por temperaturas superiores a los 40 grados",
-          "link": "https://www.lanacion.com.ar/el-mundo/llega-una-cuarta-ola-de-calor-a-espana-y-advierten-por-temperaturas-superiores-a-los-40-grados-nid27072026/",
-          "resumen": "Mientras parte de Europa se enfrenta a los graves incendios forestales, la Agencia Estatal de Meteorología anticipó el calor extremo; ya fueron evacuadas aproximadamente 325.000 personas",
+          "titulo": "Claudia Sheinbaum le respondió a Milei y desmintió haber participado de una campaña “antiargentina”",
+          "link": "https://www.lanacion.com.ar/el-mundo/claudia-sheinbaum-le-respondio-a-milei-y-desmintio-haber-participado-de-una-campana-antiargentina-nid27072026/",
+          "resumen": "La presidenta de México sostuvo que su gobierno “no se mete con otros países” y pidió respeto; “Es falso”, manifestó",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Simpatizante de Estado Islámico, de origen libanés, y condenado varias veces: quién era el atacante de la Marcha del Orgullo en Berlín",
-          "link": "https://www.clarin.com/mundo/simpatizante-estado-islamico-origen-libanes-condenado-varias-veces-atacante-marcha-orgullo-berlin_0_uq6JfaxKnN.html",
-          "resumen": "Abdel Ballout, de 21 años, tenía una pena en suspenso por haber cometido un acto grave de violencia contra la seguridad del Estado alemán. El sábado embistió una camioneta contra la multitud durante el desfile y mató a una persona.",
+          "titulo": "También en Estados Unidos: los incendios arrasan más de 700.000 hectáreas",
+          "link": "https://www.clarin.com/mundo/estados-unidos-incendios-arrasan-700000-hectareas_0_itbJ8NS7A6.html",
+          "resumen": "El oeste es el más afectado por los fuegos, especialmente el estado de Oregón, que registra actualmente 21 grandes focos activos que han arrasado casi 134.000 hectáreas. Le siguen, por superficie quemada, California (33.000 hectáreas),…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Francisco Fiorito, campeón en Andorra: otro adolescente argentino que arrasa en los tableros de ajedrez",
-          "link": "https://www.clarin.com/deportes/francisco-fiorito-campeon-andorra-adolescente-argentino-arrasa-tableros-ajedrez_0_gobf7I71Na.html",
-          "resumen": "A los 15 años, el hermano de Joaquín (19) e hijo de Fabián, ex campeón argentino, conquistó el Abierto de ese país. Con mamá Roxana, la familia reside en España desde fines de 2023. El ajedrez nacional tiene futuro con una camada de…",
+          "titulo": "“Gracias por los momentos inolvidables”: Gianni Infantino sorprendió con un mensaje para Nicolás Otamendi",
+          "link": "https://www.clarin.com/deportes/gracias-momentos-inolvidables-gianni-infantino-sorprendio-mensaje-nicolas-otamendi_0_Rb3Avatzha.html",
+          "resumen": "El presidente de la FIFA se refirió a la despedida del defensor de la selección Argentina y le reconoció su “liderazgo y determinación”. Luego de la final del Mundial perdida ante España, en una carta oficial, el dirigente felicitó al…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El desembarco de LeBron James en Philadelphia Sixer disparó la cifra más increíble de toda su carrera en la NBA",
-          "link": "https://www.lanacion.com.ar/deportes/basquetbol/el-desembarco-de-lebron-james-en-philadelphia-sixer-disparo-la-cifra-mas-increible-de-toda-su-nid27072026/",
-          "resumen": "La máxima estrella de la competencia acordó un vínculo histórico",
+          "titulo": "Los psicólogos coinciden en que Scaloni es el modelo de líder ideal: “Cercano, pero firme”",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/los-psicologos-coinciden-en-que-scaloni-es-el-modelo-de-lider-ideal-cercano-pero-firme-nid27072026/",
+          "resumen": "En comunicación con LN+, el especialista Adriel Levy analizó el impacto emocional del plantel tras la derrota; destacó la gestión del técnico argentino en la final del Mundial",
           "fuente": "La Nación"
         },
         {
-          "titulo": "A lo Boca: O'Higgins perdió por el campeonato local y con un mix antes de la vuelta de Sudamericana",
-          "link": "https://www.ole.com.ar/futbol-internacional/america/boca-copa-sudamericana-deportes-ohiggins-salio-resultado-perdio_0_qtKndlmwL5.html",
-          "resumen": "El equipo de Bovaglio cayó 2-0 ante Deportes Concepción en una derrota que también lo deja tocado de cara al partido de este jueves frente al Xeneize.",
+          "titulo": "Video: el plantel de Nacional viajó en buque para la vuelta de Sudamericana con Tigre",
+          "link": "https://www.ole.com.ar/futbol-internacional/sudamericana/nacional-tigre-copa-sudamericana-barco-buquebus-partido-vuelta_0_KfHXvb6shI.html",
+          "resumen": "De cara al partido en Victoria, donde el Matador buscará ponerle el gancho a su clasificación a octavos después del 3-0 en la ida, su rival llegó al país en barco.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Quiso llegar en moto al Mundial, se quebró en el camino y ahora \"caza\" firmas de la Scaloneta para ayudar a las víctimas del terremoto en Venezuela",
-          "link": "https://www.clarin.com/deportes/quiso-llegar-moto-mundial-quebro-camino-ahora-caza-firmas-scaloneta-ayudar-victimas-terremoto-venezuela_0_R5ADQGVIIX.html",
-          "resumen": "La primera que consiguió fue la de Scaloni y monta guardia en Rosario por la de Messi. Después del terremoto decidió que se desprendería de su vehículo para ayudar \"a los que lo necesitan más\". Viaja por el país con una carpa y una bolsa…",
+          "titulo": "Palmeiras rechazó una impresionante oferta por el \"Flaco\" José López",
+          "link": "https://www.clarin.com/deportes/palmeiras-rechazo-impresionante-oferta-flaco-jose-lopez_0_tAyjGlCbsr.html",
+          "resumen": "El club brasileño desestimó una propuesta de 25 millones de euros del Spartak de Moscú por su goleador argentino. Lo consideraron intocable.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El escándalo de prostitución y drogas que involucró a Slavko Vinčić, el árbitro de la final Argentina vs. España que se acaba de retirar",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/el-escandalo-de-prostitucion-y-drogas-que-involucro-a-slavko-vincic-el-arbitro-de-la-final-argentina-nid27072026/",
-          "resumen": "El juez esloveno, encargado de dirigir la definición del Mundial 2026, anunció que dará un paso al costado; estuvo detenido en Bosnia en 2020; quedó liberado y fue completamente desligado de la causa",
+          "titulo": "La carta de Gianni Infantino a la selección argentina tras perder la final del Mundial 2026 ante España",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/la-carta-de-gianni-infantino-a-la-seleccion-argentina-tras-perder-la-final-del-mundial-2026-ante-nid24072026/",
+          "resumen": "El presidente de la FIFA le envió un mensaje a Claudio Tapia para felicitar al plantel por la medalla de plata; destacó la actuación de la albiceleste, reconoció el trabajo de Lionel Scaloni y auguró “nuevos y grandes éxitos” para el…",
           "fuente": "La Nación"
         }
       ]
