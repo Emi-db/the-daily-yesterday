@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "28 de julio de 2026",
-    "generada": "11:49",
+    "fecha": "29 de julio de 2026",
+    "generada": "11:52",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Cómo se compara Keiko con su padre y qué significa que un Fujimori vuelva a gobernar Perú",
-            "link": "https://www.bbc.com/mundo/articles/cn8p8ngk9gno?at_medium=RSS&at_campaign=rss",
-            "resumen": "Existen similitudes y diferencias entre la derechista que asume como presidenta peruana y Alberto Fujimori, quien marcó una era política en Perú.",
+            "titulo": "El mapa que muestra cómo la derecha ha extendido su poder en América Latina (y qué explica esta tendencia)",
+            "link": "https://www.bbc.com/mundo/articles/ckg9x4ejprwo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Los líderes derechistas ganan fuerza en la región al vencer una serie de elecciones y contar con respaldo de Washington. ¿Un fenómeno duradero?",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "La periferia de Burdeos, en vilo por los incendios: “Sabemos que en cualquier momento tendremos que irnos”",
-            "link": "https://elpais.com/internacional/2026-07-27/la-periferia-de-burdeos-en-vilo-por-los-incendios-sabemos-que-en-cualquier-momento-tendremos-que-irnos.html",
-            "resumen": "El fuego obliga al desalojo de más de una decena de pueblos en el suroeste de Francia",
+            "titulo": "Arabia Saudí lanza un ataque coordinado con Estados Unidos contra milicias proiraníes en Irak",
+            "link": "https://elpais.com/internacional/2026-07-29/arabia-saudi-lanza-un-ataque-coordinado-con-estados-unidos-contra-milicias-proiranies-en-irak.html",
+            "resumen": "Estos bombardeos, que han matado 20 milicianos iraquíes, son los primeros ejecutados conjuntamente por Riad y Washington en territorio iraquí y representan una escalada en la guerra contra Irán",
             "fuente": "El País"
           },
           {
-            "titulo": "Japón: un terremoto de magnitud 7,1 deja decenas de heridos y graves daños en el sur del país",
-            "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260728-jap%C3%B3n-un-terremoto-de-magnitud-7-1-deja-decenas-de-heridos-y-graves-da%C3%B1os-en-el-sur-del-pa%C3%ADs",
-            "resumen": "Al menos 50 personas resultaron heridas, más de 150.000 recibieron instrucciones de evacuación y unos 40.000 hogares quedaron sin electricidad tras el terremoto que golpeó el sur de Japón, según autoridades, empresas locales y la cadena…",
+            "titulo": "El fujimorismo vuelve al poder: ¿qué rumbo tomará el dividido Perú con Keiko?",
+            "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260729-el-fujimorismo-vuelve-al-poder-qu%C3%A9-rumbo-tomar%C3%A1-el-dividido-per%C3%BA-con-keiko",
+            "resumen": "La sombra de las condenas internacionales contra el Gobierno de su padre, Alberto Fujimori, por violaciones a los Derechos Humanos siembra un interrogante sobre Keiko Fujimori en un país marcado por la polarización política y un anuncio…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Qué papel tiene realmente la escasez de municiones en que Trump haya puesto en pausa la guerra con Irán",
-            "link": "https://www.bbc.com/mundo/articles/c1d1e3zwpqdo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Washington ha utilizado misiles difíciles de reemplazar durante su guerra contra Teherán. Analizamos si realmente se está quedando sin reservas.",
+            "titulo": "El polémico caso de Bernarda Vera, la chilena declarada desaparecida durante el régimen de Pinochet que hallaron viva en Argentina 5 décadas después",
+            "link": "https://www.bbc.com/mundo/articles/cx2vlxx4n7xo?at_medium=RSS&at_campaign=rss",
+            "resumen": "La mujer, que por décadas se consideró como una de las víctimas de desaparición forzada de la dictadura de Augusto Pinochet en Chile, en realidad está viva y residiendo en Argentina.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Merz abre la puerta a reforzar el seguimiento de islamistas peligrosos tras el atentado de Berlín",
-            "link": "https://elpais.com/internacional/2026-07-28/merz-abre-la-puerta-a-reforzar-el-seguimiento-de-islamistas-peligrosos-tras-el-atentado-de-berlin.html",
-            "resumen": "El presunto autor del ataque, que fue abatido a tiros el domingo, se encontraba en libertad a pesar de haber sido condenado en mayo por preparar una acción grave de violencia contra la seguridad del Estado",
+            "titulo": "Irán lanza misiles contra bases de EE UU en Jordania tras cinco días de pausa en los enfrentamientos",
+            "link": "https://elpais.com/internacional/2026-07-29/estados-unidos-asegura-haber-frustrado-un-ataque-sorpresa-de-teheran-con-misiles-balisticos-contra-sus-bases-en-jordania.html",
+            "resumen": "Amán asegura haber derribado cinco proyectiles en un incidente que muestra la fragilidad del escenario sin hostilidades anunciado por Trump",
             "fuente": "El País"
           }
         ]
@@ -43,34 +43,34 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "La tasa de paro vuelve a bajar del 10% en el segundo trimestre, la más baja desde 2008",
-            "link": "https://elpais.com/economia/2026-07-28/la-tasa-de-paro-vuelve-a-bajar-del-10-en-el-segundo-trimestre-la-mas-baja-desde-2008.html",
-            "resumen": "El número de personas trabajando en España marca un nuevo récord rozando los 22,8 millones, tras crearse 486.000 empleos entre abril y junio",
+            "titulo": "Las dos caras del mercado laboral: la empresa privada tira del empleo en el segundo trimestre mientras el sector público flojea",
+            "link": "https://elpais.com/economia/2026-07-29/las-dos-caras-del-mercado-laboral-la-empresa-privada-tira-del-empleo-en-el-segundo-trimestre-mientras-el-sector-publico-flojea.html",
+            "resumen": "Las comunidades, con un recorte de 42.400 puestos, concentran la destrucción de ocupación. Los más de 190.000 nuevos ocupados de la hostelería encabezan las ganancias del sector privado",
             "fuente": "El País"
           },
           {
-            "titulo": "Sánchez urge a un pacto de Estado contra la emergencia climática tras los incendios",
-            "link": "https://www.expansion.com/economia/2026/07/28/6a687daae5fdea47678b4578.html",
-            "resumen": "El presidente del Gobierno, Pedro Sánchez, ha hecho este martes balance del curso político y ha anunciado la declaración de zonas gravemente afectadas por los incendios. El Gobierno pondrá en marcha nuevas rebajas fiscales para los…",
+            "titulo": "ACS gana un 13% más y eleva su objetivo de crecimiento al 35%",
+            "link": "https://www.expansion.com/empresas/inmobiliario/2026/07/29/6a69e313468aebf42c8b457b.html",
+            "resumen": "ACS ha logrado un beneficio neto en el primer semestre de 510 millones de euros, que supone una mejora del 13,3% respecto a un año antes. El grupo ha elevado el objetivo de crecimiento del año hasta un rango de 30-35% Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Así es la nueva prestación para los afectados por los incendios: quiénes podrán solicitarla y cuánto cobrarán",
-            "link": "https://elpais.com/economia/2026-07-28/asi-es-la-nueva-prestacion-para-los-afectados-por-los-incendios-quienes-podran-solicitarla-y-cuanto-cobraran.html",
-            "resumen": "El trabajador deberá solicitar a su empresa un certificado de suspensión temporal de empleo que esta remitirá al SEPE. La ayuda se cobrará por un máximo de cuatro meses",
+            "titulo": "El país con más inquilinos de Europa busca remedio a la escasez de casas: “Los anuncios desaparecen en minutos”",
+            "link": "https://elpais.com/economia/vivienda/2026-07-29/el-pais-con-mas-inquilinos-de-europa-busca-remedio-a-la-escasez-de-casas-los-anuncios-desaparecen-en-minutos.html",
+            "resumen": "Alemania pone en marcha una promotora pública y refuerza los topes de precios mientras el Gobierno de Merz se enfrenta a los planes de Berlín para nacionalizar parques privados",
             "fuente": "El País"
           },
           {
-            "titulo": "Las energéticas españolas se preparan para liderar la creación de grandes campeones transeuropeos",
-            "link": "https://elpais.com/economia/2026-07-28/las-energeticas-espanolas-se-preparan-para-liderar-la-creacion-de-grandes-campeones-transeuropeos.html",
-            "resumen": "Iberdrola, Naturgy, Enagás, Acciona o Repsol ponen las bases para la consolidación de un sector a nivel comunitario que quiere hacer frente a la amenaza de Estados Unidos, China o Rusia",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Qué papel tiene el seguro ante los daños por incendios",
-            "link": "https://www.expansion.com/empresas/seguros/2026/07/28/6a6880a8e5fdea03498b456e.html",
-            "resumen": "Con independencia de las ayudas que puedan aprobar las autoridades y otras entidades, las aseguradoras son las primeras encargadas de atender y costear los daños provocados por incendios forestales. Leer",
+            "titulo": "El Corte Inglés eleva un 11% el dividendo a sus accionistas, hasta 250 millones",
+            "link": "https://www.expansion.com/empresas/distribucion/2026/07/29/6a69b8f0468aeb60398b456e.html",
+            "resumen": "La compañía destinará al pago a sus accionistas casi el 50% del beneficio neto recurrente cosechado en el último ejercicio. Leer",
             "fuente": "Expansión"
+          },
+          {
+            "titulo": "Hacienda aplaza la reunión sobre financiación autonómica a petición de las comunidades del Partido Popular",
+            "link": "https://elpais.com/economia/2026-07-28/hacienda-aplaza-la-reunion-sobre-financiacion-autonomica-a-peticion-de-las-comunidades-del-partido-popular.html",
+            "resumen": "Los consejeros del PP solicitaron el lunes posponer la cita, alegando falta de tiempo e información para analizar la propuesta del ministerio, que la retrasa al 4 de septiembre",
+            "fuente": "El País"
           }
         ]
       },
@@ -78,33 +78,33 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "Un mapa genético de la fibromialgia apunta a que en la base de la enfermedad hay un fallo en el procesamiento del dolor",
-            "link": "https://elpais.com/salud-y-bienestar/2026-07-28/un-mapa-genetico-de-la-fibromialgia-apunta-a-que-en-la-base-de-la-enfermedad-hay-un-fallo-en-el-procesamiento-del-dolor.html",
-            "resumen": "Un estudio identifica alteraciones en el ADN vinculadas con este síndrome y sostiene que el sistema nervioso desempeña un rol clave en el desarrollo de la dolencia",
+            "titulo": "Las comunidades del PP alegan la crisis de los incendios para dejar en suspenso los fondos para pagar a 3.400 profesores universitarios",
+            "link": "https://elpais.com/educacion/2026-07-29/las-comunidades-del-pp-alegan-la-crisis-de-los-incendios-para-dejar-en-suspenso-los-fondos-para-pagar-a-3400-profesores-universitarios.html",
+            "resumen": "Aunque la reunión se celebraba en remoto, las 11 autonomías no han acudido a la Conferencia General de Política Universitaria por los fuegos, bloqueando la aprobación de 150 millones para sueldos del programa María Goyri",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Con un dispositivo que convierte la luz en sonido y a través de la piel: así pueden disfrutar los invidentes del eclipse",
+            "link": "https://elpais.com/sociedad/2026-07-29/con-un-dispositivo-que-convierte-la-luz-en-sonido-y-a-traves-de-la-piel-asi-pueden-disfrutar-los-invidentes-del-eclipse.html",
+            "resumen": "Un aparato desarrollado en el Instituto de Ciencias del Espacio de la UAB permitirá que los invidentes no se pierdan el fenómeno astronómico",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "De la Thermomix al cortacésped autónomo: así se están llenando las casas de robots",
+            "link": "https://elpais.com/tecnologia/2026-07-29/de-la-thermomix-al-cortacesped-autonomo-asi-se-estan-llenando-las-casas-de-robots.html",
+            "resumen": "Una nueva generación de máquinas autónomas se abre paso en casa y apuntan a un mantenimiento cotidiano del hogar casi invisible",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "¿Se achicharraron los dinosaurios en pocas horas? El meteorito creó una capa de polvo que convirtió el planeta en una parrilla",
+            "link": "https://elpais.com/ciencia/2026-07-28/se-achicharraron-los-dinosaurios-en-pocas-horas-el-asteroide-creo-una-capa-de-polvo-que-convirtio-el-planeta-en-una-parrilla.html",
+            "resumen": "Un estudio apunta a que el calor de los incendios atrapado en la atmósfera acabó en unos momentos con la mayoría de la vida terrestre hace 66 millones de años",
             "fuente": "El País"
           },
           {
             "titulo": "Amigos digitales con IA, la nueva amenaza para la salud mental de los adolescentes",
             "link": "https://elpais.com/tecnologia/2026-07-28/amigos-digitales-con-ia-la-nueva-amenaza-para-la-salud-mental-de-los-adolescentes.html",
             "resumen": "Los psicólogos alertan de que los jóvenes recurren cada vez más a herramientas como ChatGPT en busca de apoyo emocional, una práctica que consideran altamente peligrosa",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Por qué usar gafas de eclipse es la única manera segura de mirar al Sol",
-            "link": "https://elpais.com/ciencia/2026-07-28/por-que-las-gafas-de-eclipse-son-la-unica-proteccion-segura-para-mirar-al-sol.html",
-            "resumen": "El Gobierno y la ONCE comienzan a repartir este martes 2 millones de gafas gratuitas en puntos de venta de cupones y en museos de ciencia",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Proteger la libertad de expresión es mucho más que poder decir lo que te dé la gana",
-            "link": "https://elpais.com/tecnologia/2026-07-27/proteger-la-libertad-de-expresion-es-mucho-mas-que-poder-decir-lo-que-te-de-la-gana.html",
-            "resumen": "La concepción europea sobre este asunto nunca se ha basado en la idea de que “quien habla puede decir cualquier cosa y los demás deben callarse”",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Carlo Maley, biólogo evolutivo: “Nos obsesionamos tanto con eliminar el cáncer que no pensamos en prolongar la vida sin curarlo”",
-            "link": "https://elpais.com/salud-y-bienestar/2026-07-28/carlo-maley-biologo-evolutivo-nos-obsesionamos-tanto-con-eliminar-el-cancer-que-no-pensamos-en-prolongar-la-vida-sin-curarlo.html",
-            "resumen": "El científico propone combatir las resistencias en los tumores con la terapia adaptativa: dando fármacos oncológicos a la mínima dosis posible",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Tasación alta del Barça por Casadó en un mercado al alza",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260728/1004210666/barca-tasa-marc-casado-40-millones.html",
-            "resumen": "Marc Casadó (22 años) subió ayer al avión del Barça rumbo al aeropuerto de East Midlands sin tener su futuro nada claro. Sí sabe que Hansi Flick dio órdenes al club de escuchar ofertas al considerar que tiene suficientes efectivos para la…",
+            "titulo": "Florentino cambia de opinión: el Madrid ya negocia por Rodri con un tope de precio",
+            "link": "https://www.mundodeportivo.com/futbol/real-madrid/20260729/1004211208/florentino-cambia-opinion-madrid-rodri.html",
+            "resumen": "Rodrigo Hernández (30 años) es el gran objetivo que tiene el Real Madrid tras arrebatarle a Yan Diomandé al PSG y dejar muy encarrilada la operación del costamarfileño. El centrocampista español, MVP del Mundial, acaba contrato con el…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Vilablareix rinde homenaje a Cubarsí, su campeón del mundo e hijo pródigo",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260728/1004210825/vilablareix-rinde-homenaje-cubarsi-hijo-prodigo.html",
-            "resumen": "Pau Cubarsí se llevó un auténtico baño de masas este lunes en Vilablareix, su localidad natal. Ante más de 500 personas, que lo recibieron al grito de ' Cu, Cu, Cubarsí ', el central del FC Barcelona fue homenajeado por su exitosa…",
+            "titulo": "El Bournemouth ha rechazado dos propuestas por Kroupi",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211273/bournemouth-rechazado-dos-propuestas-kroupi.html",
+            "resumen": "La dirección deportiva del FC Barcelona , con Deco a la cabeza, sigue trabajando para encontrar el '9' que pueda cubrir el hueco dejado por Robert Lewandowski , que en las últimas cuatro temporadas ha promediado 30 goles por curso. Pese a…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "July 28, 2026",
-    "generada": "11:49",
+    "fecha": "July 29, 2026",
+    "generada": "11:52",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Zelensky to press Trump on air defences while in Washington",
-            "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
+            "titulo": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
+            "link": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
+            "resumen": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Kenya investigating unexpected deaths of 15 elephants in national park",
+            "link": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
+            "resumen": "Potential toxic substance detected in several of 15 elephants found dead in Kenya’s Amboseli national park Officials are investigating the deaths of 15 elephants over the past month in Kenya’s Amboseli national park. The Kenya Wildlife…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate",
+            "link": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html",
+            "resumen": "The continent is experiencing some of its biggest fires and highest temperatures ever. Residents are fleeing, leaders are struggling to respond and “it will get worse,” one climate expert said.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake",
+            "link": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss",
+            "resumen": "At least 13 people have been killed after the earthquake struck the island of Kyushu on Tuesday.",
             "fuente": "BBC"
           },
           {
             "titulo": "Uganda begins emergency food handouts after 19 die from hunger",
             "link": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
             "resumen": "Government move follows months of drought and crop failures in Karamoja, with 1.5m people facing malnutrition Uganda has launched emergency food relief distribution after at least 19 deaths from hunger were reported in an area of…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "Live Updates: Many Feared Trapped in Mall Collapse After Japan Earthquake, Officials Say",
-            "link": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
-            "resumen": "Emergency workers were racing to find people and extinguish fires after the 6.8-magnitude quake struck the southwestern prefecture of Kumamoto.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
-            "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
-            "resumen": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Two Russian men jailed in Angola for terrorism and spying",
-            "link": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
-            "resumen": "The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last year Two Russian men have been found guilty by an Angolan court of terrorism and spying after being accused of planning a coup…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Schools to offer technical subjects to pupils from age 14 in England, Burnham says",
-            "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
+            "titulo": "Ticket prices set to rise by 15p as Heathrow able to recover runway project money",
+            "link": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&at_campaign=rss",
+            "resumen": "UK airport gets green light to charge airlines more to use the hub, which is expected to mean higher fares for flyers.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Cracker Barrel CEO to step down after overseeing logo backlash last year",
-            "link": "https://www.theguardian.com/business/2026/jul/27/julie-masino-cracker-barrel-steps-down",
-            "resumen": "Julie Masino faced criticism as restaurant chain was called ‘woke’ and ‘soulless’ after unveiling modernized logo Cracker Barrel’s CEO, Julie Masino, is stepping down, the restaurant announced on Monday, nearly a year after the company…",
+            "titulo": "Ex-FCC officials warn agency sending ‘chilling message’ with ABC license review",
+            "link": "https://www.theguardian.com/us-news/2026/jul/28/fcc-former-officials-abc-licenses",
+            "resumen": "Ex-officials ask FCC to reject petitions to deny renewal of broadcast licenses for eight stations owned by ABC A group of prominent former Federal Communications Commission (FCC) officials, including key staffers and commissioners…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "The Chips Rout Goes Global",
-            "link": "https://www.nytimes.com/2026/07/28/business/dealbook/chips-market-rout-ai.html",
-            "resumen": "Shares in semiconductor companies plunged in South Korea and Europe, adding fresh doubts to the durability of the artificial intelligence trade.",
+            "titulo": "Big Tech Turmoil Clouds the A.I. Earnings Picture",
+            "link": "https://www.nytimes.com/2026/07/29/business/dealbook/big-tech-ai-earnings.html",
+            "resumen": "The Nasdaq 100 is flirting with correction territory as investors brace for earnings reports from Meta, Microsoft and Amazon.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "What you wear can help you get a job - here's how",
-            "link": "https://www.bbc.co.uk/news/articles/c80neg5rd81o?at_medium=RSS&at_campaign=rss",
-            "resumen": "While you need to answer the questions in an interview, your appearance and mannerisms are also crucial.",
+            "titulo": "Matcha and protein pivot pays off for Greggs as profits rise",
+            "link": "https://www.bbc.co.uk/news/articles/cx2r0nyx99yo?at_medium=RSS&at_campaign=rss",
+            "resumen": "UK's largest fast-food chain says it is changing its menu \"in line with changing tastes and trends\".",
             "fuente": "BBC"
           },
           {
-            "titulo": "Tariffs are Trump’s favorite plaything – and his justifications are absurd | Steven Greenhouse",
-            "link": "https://www.theguardian.com/commentisfree/2026/jul/27/tariffs-are-trumps-favorite-plaything-and-his-justifications-are-absurd",
-            "resumen": "The president is using forced labor as a pretext to slap tariffs on countries around the world With the midterm elections less than four months away, it’s a precarious time for Donald Trump and Republicans: Trump’s war against Iran is…",
+            "titulo": "Apple becomes second $5tn company as investors flee AI stocks",
+            "link": "https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks",
+            "resumen": "Share price rally driven by strong product demand as well as decision to sit out AI spending race, amid wider tech sell-off Apple has become only the second company to pass the $5tn valuation mark, as it benefited from investors fleeing…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,15 +224,15 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "How to see July's full Buck Moon as it rises in the night sky",
-            "link": "https://www.bbc.co.uk/weather/articles/cx2lvg855x8o?at_medium=RSS&at_campaign=rss",
-            "resumen": "July's full Moon, know as the Buck Moon, is set to light up the night sky on Wednesday.",
+            "titulo": "More than half of England officially in drought, Environment Agency says",
+            "link": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Scorching temperatures and very low levels of rain have seen droughts declared across much of England.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Jodrell Bank Observatory facing closure after major funder cuts support",
-            "link": "https://www.theguardian.com/science/2026/jul/27/jodrell-bank-observatory-facing-closure-uk",
-            "resumen": "Scientists say decision is blow to UK astronomy as deep space observatory is home to world-leading facilities Jodrell Bank Observatory, the hub of a world-leading network of radio telescopes, is facing closure after government funding for…",
+            "titulo": "Trump administration needs to stop ‘public harassment’ of Fauci and scientists, open letter says",
+            "link": "https://www.theguardian.com/us-news/2026/jul/28/trump-administration-fauci-scientists",
+            "resumen": "Letter, published before Anthony Fauci will appear before Congress, accuses Republicans of ‘waging a war on individual scientists’ US politics live – latest updates More than 155 scientists, physicians and public health advocates have…",
             "fuente": "The Guardian"
           },
           {
@@ -242,15 +242,15 @@ const EDICION_MUNDO = {
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Tackling the 'nasty' plant that can cause blisters and scars",
-            "link": "https://www.bbc.co.uk/news/articles/c3r0w3pq24yo?at_medium=RSS&at_campaign=rss",
-            "resumen": "A County Tyrone group says it has made progress tackling giant hogweed.",
+            "titulo": "How to see July's Buck Moon light up the night sky",
+            "link": "https://www.bbc.co.uk/weather/articles/cx2lvg855x8o?at_medium=RSS&at_campaign=rss",
+            "resumen": "July's full Moon, know as the Buck Moon, is set to light up the night sky on Wednesday.",
             "fuente": "BBC"
           },
           {
-            "titulo": "How one man’s near-death experience led to the discovery of the first Jurassic sea dragon in Wales",
-            "link": "https://www.theguardian.com/environment/2026/jul/28/matthew-myerscough-fossil-hunting-avalanche-discovery-sea-dragon-wales",
-            "resumen": "Matthew Myerscough’s remarkable find is one of many detailed in his new book. But his journey into fossil hunting began years earlier, when he was caught in an avalanche When Matthew Myerscough walks along a beach, he cannot help hunting…",
+            "titulo": "Jodrell Bank Observatory facing closure after major funder cuts support",
+            "link": "https://www.theguardian.com/science/2026/jul/27/jodrell-bank-observatory-facing-closure-uk",
+            "resumen": "Scientists say decision is blow to UK astronomy as deep space observatory is home to world-leading facilities Jodrell Bank Observatory, the hub of a world-leading network of radio telescopes, is facing closure after government funding for…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Only use VAR when error blatant - referee chiefs",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cm2gyzme6gno?at_medium=RSS&at_campaign=rss",
-            "resumen": "Video assistant referees should only be used to change \"blatantly incorrect\" decisions and clear missed incidents, say European refereeing officials.",
+            "titulo": "Fifa offers $40m if nations back controversial plan",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cvg7vglq9wpo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Fifa has set a deadline of 19 September for member associations to access cash as FA voice disapproval of world governing body's funding plan ahead of emergency Uefa meeting.",
             "fuente": "BBC"
           },
           {
-            "titulo": "F1 summer report card: from top of the class Mercedes to the team that must do better",
-            "link": "https://www.theguardian.com/sport/2026/jul/28/f1-summer-report-card-from-top-of-the-class-to-the-team-that-must-do-better",
-            "resumen": "As the paddock disperses for its traditional mid-season three-week break, the race is on to catch Kimi Antonelli Mercedes came into the season as favourites and have lived up to the billing. Their car has been dominant with eight wins…",
+            "titulo": "Is the World Cup for sale? Here’s what Fifa’s plans mean and what happens next | Paul MacInnes",
+            "link": "https://www.theguardian.com/football/2026/jul/28/fifa-world-cup-plans-explained-gianni-infantino-uefa-football",
+            "resumen": "Gianni Infantino is under fire from Uefa over plans to sell off commercial rights for the tournament but he says they are ‘about the democratisation of football worldwide’ A week after the World Cup finished, Fifa has yet to announce…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Is struggling Ramsay-Peaty nearing the end?",
-            "link": "https://www.bbc.co.uk/sport/swimming/articles/cddj2ynlmpro?at_medium=RSS&at_campaign=rss",
-            "resumen": "Can Adam Ramsay-Peaty return to the top after a disappointing Commonwealth Games or is the end nigh for Britain's former Olympic champion?",
+            "titulo": "Season to end in Europe if war continues - F1 boss",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/cx2r0ne2ky1o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Formula 1 president Stefano Domenicali says the 2026 championship will end in Europe if the conflict in the Middle East makes it impossible to hold the season-closing races in Qatar and Abu Dhabi.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Fifa president Gianni Infantino called to appear before Congress over Trump ties",
-            "link": "https://www.theguardian.com/football/2026/jul/27/gianni-infantino-donald-trump-jamie-raskin",
-            "resumen": "Democrat Jamie Raskin pushes Fifa to release records of contact with Trump, administration and family business Jamie Raskin, the top Democrat on the House judiciary committee, has launched an investigation into Fifa president Gianni…",
+            "titulo": "IPL’s value soars past $20bn to rival NFL as one of world sport’s biggest brands",
+            "link": "https://www.theguardian.com/sport/2026/jul/29/ipl-value-soars-cricket-india-sporting-brand",
+            "resumen": "Two big franchise deals power 10.3% increase IPL second only to NFL in per-match brand value The Indian Premier League’s value has surged to an estimated $20.6bn (£15.5bn), boosted by ownership deals involving two of its biggest…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Local match goes viral over 'finger-clicking' cheating claim",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c86n10548yeo?at_medium=RSS&at_campaign=rss",
-            "resumen": "A viral video appears to show a fielder in a local match clicking his fingers as the ball passes the bat, before the batter is given out caught behind.",
+            "titulo": "Diomande's rapid and remarkable rise to Real Madrid",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cm2g3dd2jxko?at_medium=RSS&at_campaign=rss",
+            "resumen": "Yan Diomande has quickly gone from being a relatively unknown winger to the brink of becoming Real Madrid's record signing.",
             "fuente": "BBC"
           }
         ]
