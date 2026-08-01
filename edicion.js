@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "31 de julio de 2026",
-  "generada": "11:51",
+  "fecha": "1 de agosto de 2026",
+  "generada": "11:09",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Una nueva encuesta enfrentó a Milei y Kicillof: amplia diferencia para primera vuelta, parejo en el balotaje",
-          "link": "https://www.clarin.com/politica/nueva-encuesta-enfrento-milei-kicillof-amplia-diferencia-primera-vuelta-parejo-balotaje_0_0kaDEF0itr.html",
-          "resumen": "Es el último estudio nacional de la consultora RDT. Midió intención de voto para la próxima presidencial. Otros datos clave para la pelea del año que viene.",
+          "titulo": "La interna misionera suma tensión a la ley de venta de tierras a extranjeros en el Senado",
+          "link": "https://www.clarin.com/politica/interna-misionera-suma-tension-ley-venta-tierras-extranjeros-senado_0_Mm4zT5cr2I.html",
+          "resumen": "La pelea entre el gobernador Hugo Passalacqua y el líder local y presidente de la Legislatura Carlos Rovira afecta a dos senadores clave.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: las repercusiones de la cadena nacional y el proyecto de cambios en el BCRA",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-las-repercusiones-de-la-cadena-nacional-y-el-proyecto-de-cambios-nid31072026/",
-          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "titulo": "Milei se reunió con el presidente de Corea del Sur e impulsa acuerdos bilaterales, a la par del Mercosur",
+          "link": "https://www.lanacion.com.ar/politica/milei-se-reunio-con-el-presidente-de-corea-del-sur-e-impulsa-acuerdos-bilaterales-a-la-par-del-nid31072026/",
+          "resumen": "El líder libertario busca imprimirle celeridad a los convenios con el país asiático, un fuerte importador de petróleo; buena sintonía y mesa de trabajo",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Reforma del Banco Central: la cadena nacional actuó como primer paso de la campaña de Milei para la reelección",
-          "link": "https://www.infobae.com/politica/2026/07/31/reforma-del-banco-central-la-cadena-nacional-actuo-como-primer-paso-de-la-campana-de-milei-para-la-reeleccion/",
-          "resumen": "El anuncio fue un “punto de quiebre” hacia el 2027. Cómo sigue el calendario del Gobierno para el cierre del año. La suspensión de las PASO, más cerca",
+          "titulo": "A quince meses de las elecciones, Milei abrió la campaña: discurso repetido y toque nacionalista",
+          "link": "https://www.infobae.com/opinion/2026/08/01/a-quince-meses-de-las-elecciones-milei-abrio-la-campana-discurso-repetido-y-toque-nacionalista/",
+          "resumen": "El Presidente recurre otra vez al dañado mensaje “anticasta”. Y busca colocarse ajeno a “la” política. Lo acaba de exponer en la presentación de la reforma del Banco Central. Apenas antes, había sumado como recurso un DNU contra la…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Cumbre progresista en Uruguay frente al avance de la derecha aliada con Trump: van Kicillof y otros argentinos",
-          "link": "https://www.clarin.com/politica/cumbre-progresista-uruguay-frente-avance-derecha-aliada-trump-van-kicillof-argentinos_0_V6f31Kpmsa.html",
-          "resumen": "Será a fines de agosto. Lo inaugura el presidente Orsi, y se suman Taiana, Fuks y otros. El lema es \"Solidaridad entre los pueblos. Soberanía entre las naciones\".",
+          "titulo": "La \"noche de los bastones largos\", una violenta sangría de la educación",
+          "link": "https://www.clarin.com/politica/noche-bastones-largos-violenta-sangria-educacion_0_MPK2aTKGBd.html",
+          "resumen": "El 29 de julio de 1966 se produjo un avasallamiento de la autonomía universitaria. Fue un mes después del golpe que derribó al gobierno constitucional de Illia.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Qué es el “grillete fiscal”, la adaptación local que quiere Javier Milei de un mecanismo usado en Estados Unidos",
-          "link": "https://www.lanacion.com.ar/politica/que-es-el-grillete-fiscal-la-adaptacion-local-que-quiere-javier-milei-de-un-mecanismo-usado-en-nid30072026/",
-          "resumen": "Fue una de las propuestas anunciadas en el mensaje presidencial de la cadena nacional",
+          "titulo": "Villarruel le respondió a Santilli y dijo que “pretende causar daño a la institucionalidad y conspirar contra la patria”",
+          "link": "https://www.lanacion.com.ar/politica/villarruel-le-respondio-a-santilli-pretende-causar-dano-a-la-institucionalidad-y-conspirar-contra-la-nid31072026/",
+          "resumen": "La vicepresidenta trató al jefe de Gabinete de “exponente de la casta política” y recordó que La Libertad Avanza lo enfrentó en 2023",
           "fuente": "La Nación"
         }
       ]
@@ -42,34 +42,34 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Euro hoy en Venezuela: precio y cotización de la divisa este viernes 31 de julio de 2026",
-          "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-viernes-31-de-julio-de-2026_0_vbtWXWnc8p.html",
-          "resumen": "Mirá la cotización del euro en Venezuela, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
+          "titulo": "Bitcoin hoy: cotización y precio del BTC este sábado 1 de agosto de 2026",
+          "link": "https://www.clarin.com/economia/bitcoin-hoy-cotizacion-y-precio-del-btc-este-sabado-1-de-agosto-de-2026_0_1PpwvwAZzj.html",
+          "resumen": "El valor actualizado del Bitcoin y la comparación con la jornada previa. Las claves para entender la volatilidad de la principal criptomoneda en el mercado.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 31 de julio, minuto a minuto",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid31072026/",
-          "resumen": "Ayer, la divisa oficial operó a $1510 para la venta en el Banco Nación; el dólar blue cotizó a $1565 para esa operación",
+          "titulo": "En un campo produjeron un 70,8% más de carne con una abrupta caída de la huella ambiental y el caso abre la puerta a un mercado digital",
+          "link": "https://www.lanacion.com.ar/economia/campo/un-productor-produjo-mucha-mas-carne-con-una-abrupta-caida-de-la-huella-ambiental-y-el-caso-es-clave-nid28072026/",
+          "resumen": "Durante cinco años, Santa Unión, de Víctor Tonelli, en la Cuenca del Salado, aumentó su productividad, redujo su huella de carbono y logró verificar una disminución de emisiones que ahora puede transformarse también en una fuente de…",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El Gobierno prorroga hasta fin de año la suspensión de ejecuciones fiscales para ONG y el sector salud",
-          "link": "https://www.ambito.com/economia/el-gobierno-prorroga-fin-ano-la-suspension-ejecuciones-fiscales-ong-y-el-sector-salud-n6305563",
-          "resumen": "A través de una resolución publicada este viernes en el Boletín Oficial, el Ministerio de Economía extendió hasta el 31 de diciembre el plazo durante el cual la ARCA no podrá iniciar juicios de ejecución fiscal ni trabar medidas…",
+          "titulo": "Domingo Cavallo pidió avanzar hacia la competencia de monedas y propuso declarar al dólar de curso legal",
+          "link": "https://www.ambito.com/economia/domingo-cavallo-pidio-avanzar-la-competencia-monedas-y-propuso-declarar-al-dolar-curso-legal-n6305958",
+          "resumen": "El exministro de Economía respaldó la reforma de la Carta Orgánica del Banco Central impulsada por el Gobierno, aunque consideró que es insuficiente. Sostuvo que debe complementarse con la declaración del dólar como moneda de curso legal…",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Un negocio poco conocido: la Argentina es una potencia mundial en exportar carne de caballo",
-          "link": "https://www.lanacion.com.ar/economia/campo/belgica-primer-comprador-la-argentina-exporto-un-10-mas-de-carne-de-caballo-y-mantiene-el-segundo-nid30072026/",
-          "resumen": "Entre enero y junio de 2026 se colocaron 7070 toneladas; en valor las ventas subieron un 42%, a US$29,6 millones",
+          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este sábado 01 de agosto",
+          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-sabado-01-agosto_0_awFQTgm9e4.html",
+          "resumen": "Mirá la cotización para la compra y venta del dólar tarjeta hoy. Cotizaciones, evolución, previsiones e información para el cambio de monedas.",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "“Las reglas tienen que ser idénticas para todos”, dijo el CEO de Nestlé",
+          "link": "https://www.lanacion.com.ar/economia/campo/las-reglas-tienen-que-ser-identicas-para-todos-dijo-el-ceo-de-nestle-nid01082026/",
+          "resumen": "Gian Carlo Aubry destacó la recuperación del sector lácteo, reclamó reglas de juego más equilibradas para competir y afirmó que la agricultura regenerativa será clave para cumplir las metas ambientales de la compañía",
           "fuente": "La Nación"
-        },
-        {
-          "titulo": "Lo que se dice en las mesas: la Odisea libertaria alienta el canto de sirenas de los outsiders, y Kristalina paseó sin pena ni gloria",
-          "link": "https://www.ambito.com/economia/lo-que-se-dice-las-mesas-la-odisea-libertaria-alienta-el-canto-sirenas-los-outsiders-y-kristalina-paso-pena-ni-gloria-n6305546",
-          "resumen": "En cada encuentro en las mesas las preguntas giran en los cantos de sirena de los posibles “outsiders” para la carrera electoral. LA titular del FMI Kristalina Georgieva vino de paseo, sin pena ni gloria. Crece la inquietud en el mercado…",
-          "fuente": "Ámbito"
         }
       ]
     },
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Panorama Internacional: Brasil, elecciones y China en la pelea de fondo",
-          "link": "https://www.clarin.com/mundo/panorama-internacional-brasil-elecciones-china-pelea-fondo_0_8xoGzrJR4P.html",
-          "resumen": "EE.UU. avanza sobre Brasil con una variedad de argumentos, el central es que no se disciplina condición necesaria para esmerilar la influencia de Beijing en la región, el principal socio comercial del gigante sudamericano. Con ese…",
+          "titulo": "Un sismo de magnitud 4,7 sacudió a los Campos Flégreos, cerca de Nápoles: al menos ocho personas resultaron heridas",
+          "link": "https://www.clarin.com/mundo/sismo-magnitud-47-sacudio-campos-flegreos-cerca-napoles-personas-resultaron-heridas_0_xunVpx1VaX.html",
+          "resumen": "Ocurrió durante este viernes en la zona sur de Italia. Por espacio de varias horas la gente copó las calles y hubo masivos cortes de luz.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Pedro Sánchez habló de la crisis migratoria en Ceuta: “Hay mafias que trafican con seres humanos”",
-          "link": "https://www.lanacion.com.ar/el-mundo/pedro-sanchez-hablo-de-la-crisis-migratoria-en-ceuta-hay-mafias-que-trafican-con-seres-humanos-nid31072026/",
-          "resumen": "El presidente del gobierno español aseguró que trabaja en conjunto con las autoridades de Marruecos tras la llegada de más de 40.000 personas a esa ciudad; suben a 27 los muertos",
+          "titulo": "Desafían todos los límites con la construcción de El Mukaab, el edificio más grande del mundo en el que entraría 20 veces el Empire State",
+          "link": "https://www.lanacion.com.ar/el-mundo/desafian-todos-los-limites-con-la-construccion-de-el-mukaab-el-edificio-mas-grande-del-mundo-en-el-nid31072026/",
+          "resumen": "Arabia Saudita impulsa una de las obras arquitectónicas más ambiciosas de la historia para diversificar su economía; la estructura, proyectada en Riad, busca redefinir la escala de los desarrollos urbanos globales",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Crisis migratoria en Ceuta, EN VIVO: el minuto a minuto del cruce masivo desde Marruecos",
-          "link": "https://www.clarin.com/mundo/crisis-migratoria-ceuta-vivo-minuto-minuto-cruce-masivo-marruecos_0_HTUBgdHUua.html",
-          "resumen": "Miles de jóvenes marroquíes cruzaron al enclave de España en África, ante la mirada de las fuerzas de seguridad que se vieron superadas. Al menos 19 personas murieron en el intento. El gobierno de Pedro Sánchez movilizó al Ejército para…",
+          "titulo": "Crisis migratoria en España: dudas y un opaco trasfondo político detrás del aluvión de marroquíes en Ceuta",
+          "link": "https://www.clarin.com/mundo/crisis-migratoria-espana-dudas-opaco-trasfondo-politico-detras-aluvion-marroquies-ceuta_0_49bRMqNp9z.html",
+          "resumen": "El desastre en el enclave es un enorme golpe para el presidente Pedro Sánchez. Cómo se orquestó la masiva llegada a través de las redes sociales. Claves de un conflicto que se extiende por Europa y podría traer graves consecuencias.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El gobierno español moviliza al Ejército para intentar contener la crisis migratoria en Ceuta",
-          "link": "https://www.lanacion.com.ar/el-mundo/el-gobierno-espanol-moviliza-al-ejercito-para-intentar-contener-la-crisis-migratoria-en-ceuta-nid30072026/",
-          "resumen": "Miles de personas cruzaron desde Marruecos en medio del caos fronterizo, mientras Madrid reforzó la vigilancia, acordó devoluciones con Rabat y recibió una oferta de asistencia de la Unión Europea",
+          "titulo": "La mirada de dos argentinos: “Fue increíble ver tanta gente deambulando por las calles”",
+          "link": "https://www.lanacion.com.ar/el-mundo/la-mirada-de-dos-argentinos-fue-increible-ver-tanta-gente-deambulando-por-las-calles-nid31072026/",
+          "resumen": "Un matrimonio argentino cuenta desde Ceuta cómo vivieron la repentina entrada de la ola de migrantes que se derramó sobre el enclave; multitudes pacíficas y gestos solidarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "\"Si es culpable, tendrá que pagar\", Lula se refirió a la investigación sobre su hijo por supuesto tráfico de influencias",
-          "link": "https://www.clarin.com/mundo/culpable-pagar-lula-refirio-investigacion-hijo-supuesto-trafico-influencias_0_KoR1wFoD78.html",
-          "resumen": "Un juez de la Corte Suprema investigará a Fábio Luís Lula da Silva por una supuesta intercesión en favor de un lobista ante el Ministerio de Salud y el gabinete de la Presidencia. El mandatario brasileño afirmó que su primogénito no…",
+          "titulo": "Las impresionantes fotos satelitales del masivo ingreso de inmigrantes marroquíes a Ceuta",
+          "link": "https://www.clarin.com/mundo/impresionantes-fotos-satelitales-masivo-ingreso-inmigrantes-marroquies-ceuta_0_2EyDCojGn0.html",
+          "resumen": "Un día después, salieron a la luz las imágenes aéreas del caótico cruce, que ya dejó más de 50 muertos. Se ven desde el aire las densas filas de migrantes superando las barreras limítrofes entre Marruecos y el enclave español. La…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "River, atrapado en una crisis que ya lleva dos años: los números que preocupan y el desafío de Coudet para salir del pozo",
-          "link": "https://www.clarin.com/deportes/river-atrapado-crisis-lleva-anos-numeros-preocupan-desafio-coudet-salir-pozo_0_onixRAGyL1.html",
-          "resumen": "Las cuatro derrotas al hilo exponen una situación de difícil solución. El ciclo del entrenador lleva apenas 22 partidos, pero ya está bajo la lupa.",
+          "titulo": "La leyenda de Manija Mústico: de filetear pescado en el puerto a hacerle un gol a Boca que cambió la historia de Aldosivi",
+          "link": "https://www.clarin.com/deportes/leyenda-manija-mustico-filetear-pescado-puerto-hacerle-gol-boca-cambio-historia-aldosivi_0_NeQyCnaG4P.html",
+          "resumen": "Fue el goleador del primer tricampeonato local del Tiburón y el héroe de una victoria histórica en la Bombonera en 1975. La historia de un ídolo que trabajaba en el Puerto para ganarse la vida mientras enfrentaba a los gigantes del fútbol…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Independiente le ganó a Newell’s 1-0 con un golazo de Santiago Montiel",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/independiente-le-gano-a-newells-1-0-con-un-golazo-de-santiago-montiel-nid30072026/",
-          "resumen": "El equipo de Gustavo Quinteros se impuso en Avellaneda y suma puntaje ideal en el torneo Clausura; la joya del volante zurdo, la diferencia",
+          "titulo": "Partidos de hoy del Torneo Clausura 2026, sábado 1° de agosto: horario y por dónde ver en vivo online",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/partidos-de-hoy-del-torneo-clausura-2026-sabado-1-de-agosto-horario-y-por-donde-ver-en-vivo-online-nid01082026/",
+          "resumen": "La fecha 3 del segundo certamen de la temporada en la Primera División del fútbol argentino comienza con dos encuentros del Grupo A y tres del B",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Golpazo para Fran Cerúndolo en Los Cabos",
-          "link": "https://www.ole.com.ar/tenis/francisco-cerundolo-eliminadolos-cabos-mexico-vs-arthur-gea_0_4PLvD0wxch.html",
-          "resumen": "El argentino cayó en el cemento mexicano por 6-7, 6-4 y 6-0 ante el francés Arthur Gea, 127° del ranking ATP. La mejor raqueta nacional no logró meterse en las semis del ATP 250.",
+          "titulo": "Tras ser recibido por una multitud, el Colo Barco fue declarado Personalidad Destacada en 25 de Mayo",
+          "link": "https://www.ole.com.ar/seleccion/colo-barco-seleccion-argentina-mundial-2026-25-mayo-caravana_0_NhwhWdaSzD.html",
+          "resumen": "El hombre del Chelsea fue ovacionado en su localidad natal, donde le entregaron una importante distinción tras su participación en el Mundial 2026. Mirá el video.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Melisa Gretter, la capitana de la Selección de básquet que se emocionó con la Scaloneta y sueña con volver a un Mundial",
-          "link": "https://www.clarin.com/deportes/melisa-gretter-capitana-seleccion-basquet-emociono-scaloneta-suena-volver-mundial_0_XpIs7LZGey.html",
-          "resumen": "La base de 33 años lidera el recambio del seleccionado argentino, que afrontará el Sudamericano y el Preclasificatorio Olímpico en agosto. Radicada en España desde hace seis temporadas, destacó el orgullo que le generó la actuación de la…",
+          "titulo": "Boca y River, unidos por el espanto en el arranque del Clausura y el objetivo de la Copa Sudamericana",
+          "link": "https://www.clarin.com/deportes/boca-river-unidos-espanto-arranque-clausura-objetivo-copa-sudamericana_0_LLkxNaJWaU.html",
+          "resumen": "Casi como en espejo, los dos muestran serios problemas de funcionamiento y resultados. Obligados a levantar a nivel local, en el continente podrían enfrentarse en una semifinal.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Murió Franco Baresi a los 66 años, leyenda del fútbol italiano y campeón del mundo",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/murio-franco-baresi-a-los-66-anos-leyenda-del-futbol-italiano-y-campeon-del-mundo-nid31072026/",
-          "resumen": "El legendario defensor y capitán emblemático de Milan, conquistó tres Copas de Europa y seis títulos de la Serie A durante su carrera",
+          "titulo": "La FIFA suspendió el proyecto para “privatizar” el Mundial y admitió que “ha generado divisiones”",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/la-fifa-suspendio-el-proyecto-para-privatizar-el-mundial-y-admitio-que-ha-generado-divisiones-nid31072026/",
+          "resumen": "El máximo ente del fútbol descartó la iniciativa tras el rechazo de diversas federaciones, especialmente la UEFA",
           "fuente": "La Nación"
         }
       ]
