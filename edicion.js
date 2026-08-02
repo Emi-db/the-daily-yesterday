@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "1 de agosto de 2026",
+  "fecha": "2 de agosto de 2026",
   "generada": "11:09",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "La interna misionera suma tensión a la ley de venta de tierras a extranjeros en el Senado",
-          "link": "https://www.clarin.com/politica/interna-misionera-suma-tension-ley-venta-tierras-extranjeros-senado_0_Mm4zT5cr2I.html",
-          "resumen": "La pelea entre el gobernador Hugo Passalacqua y el líder local y presidente de la Legislatura Carlos Rovira afecta a dos senadores clave.",
+          "titulo": "Patricia Bullrich: \"Después de la reelección de Milei, quiero ser presidenta\"",
+          "link": "https://www.clarin.com/politica/patricia-bullrich-despues-reeleccion-milei-quiero-presidenta_0_ynMIo5rEUC.html",
+          "resumen": "Espada clave en el Senado, dice que gana la elección en la Ciudad si es candidata a jefa de Gobierno, pero relativiza el peso del cargo. Elogia a Cristina por su estrategia ante la ONU y le hace una crítica al Presidente por sus dichos…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Milei se reunió con el presidente de Corea del Sur e impulsa acuerdos bilaterales, a la par del Mercosur",
-          "link": "https://www.lanacion.com.ar/politica/milei-se-reunio-con-el-presidente-de-corea-del-sur-e-impulsa-acuerdos-bilaterales-a-la-par-del-nid31072026/",
-          "resumen": "El líder libertario busca imprimirle celeridad a los convenios con el país asiático, un fuerte importador de petróleo; buena sintonía y mesa de trabajo",
+          "titulo": "$LIBRA: los millones que transfirió Hayden Davis antes del lanzamiento desembocaron en la financiera vinculada a Novelli",
+          "link": "https://www.lanacion.com.ar/politica/libra-los-millones-que-transfirio-hayden-davis-antes-del-lanzamiento-desembocaron-en-la-financiera-nid02082026/",
+          "resumen": "La huella del dinero que movió el empresario en la antesala al lanzamiento de la moneda digital conduce a una “cueva” que funcionó en Vicente López, en la que solía operar el lobista",
           "fuente": "La Nación"
         },
         {
-          "titulo": "A quince meses de las elecciones, Milei abrió la campaña: discurso repetido y toque nacionalista",
-          "link": "https://www.infobae.com/opinion/2026/08/01/a-quince-meses-de-las-elecciones-milei-abrio-la-campana-discurso-repetido-y-toque-nacionalista/",
-          "resumen": "El Presidente recurre otra vez al dañado mensaje “anticasta”. Y busca colocarse ajeno a “la” política. Lo acaba de exponer en la presentación de la reforma del Banco Central. Apenas antes, había sumado como recurso un DNU contra la…",
+          "titulo": "Estafa por USD 10 millones en el hotel de Camioneros: el pedido a la Justicia que incomoda a Moyano y la empresa bajo sospecha",
+          "link": "https://www.infobae.com/politica/2026/08/02/estafa-por-usd-10-millones-en-el-hotel-de-camioneros-el-pedido-a-la-justicia-que-incomoda-a-moyano-y-la-empresa-bajo-sospecha/",
+          "resumen": "Según el abogado de uno de los imputados en la causa, la pericia para verificar las irregularidades está trabada porque el sindicato aún no entregó documentación. Los tres firmantes de los cheques y la solicitud que apunta a un proveedor",
           "fuente": "Infobae"
         },
         {
-          "titulo": "La \"noche de los bastones largos\", una violenta sangría de la educación",
-          "link": "https://www.clarin.com/politica/noche-bastones-largos-violenta-sangria-educacion_0_MPK2aTKGBd.html",
-          "resumen": "El 29 de julio de 1966 se produjo un avasallamiento de la autonomía universitaria. Fue un mes después del golpe que derribó al gobierno constitucional de Illia.",
+          "titulo": "Paro docente del lunes: el Gobierno hará una \"inspección muestral\" en las escuelas y advierte con sanciones",
+          "link": "https://www.clarin.com/politica/paro-docente-lunes-gobierno-hara-inspeccion-muestral-escuelas-advierte-sanciones_0_995NgaNNYh.html",
+          "resumen": "El Ministerio de Capital Humano dijo que verificará que se cumpla con la prestación del 75% del servicio, declarado esencial por la ley de modernización laboral. Es por la jornada de paro a la que convocó un gremio docente para este 3 de…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Villarruel le respondió a Santilli y dijo que “pretende causar daño a la institucionalidad y conspirar contra la patria”",
-          "link": "https://www.lanacion.com.ar/politica/villarruel-le-respondio-a-santilli-pretende-causar-dano-a-la-institucionalidad-y-conspirar-contra-la-nid31072026/",
-          "resumen": "La vicepresidenta trató al jefe de Gabinete de “exponente de la casta política” y recordó que La Libertad Avanza lo enfrentó en 2023",
+          "titulo": "Gemelo Social Digital: el proyecto que Milei presentó como una revolución, pero quedó reducido a un anuncio",
+          "link": "https://www.lanacion.com.ar/politica/gemelo-social-digital-el-proyecto-que-milei-presento-como-una-revolucion-pero-quedo-reducido-a-un-nid02082026/",
+          "resumen": "El Presidente comunicó su implementación con un video en X, pero dos meses después en el Ministerio de Capital Humano admiten que “no hay nada”",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Bitcoin hoy: cotización y precio del BTC este sábado 1 de agosto de 2026",
-          "link": "https://www.clarin.com/economia/bitcoin-hoy-cotizacion-y-precio-del-btc-este-sabado-1-de-agosto-de-2026_0_1PpwvwAZzj.html",
-          "resumen": "El valor actualizado del Bitcoin y la comparación con la jornada previa. Las claves para entender la volatilidad de la principal criptomoneda en el mercado.",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "En un campo produjeron un 70,8% más de carne con una abrupta caída de la huella ambiental y el caso abre la puerta a un mercado digital",
-          "link": "https://www.lanacion.com.ar/economia/campo/un-productor-produjo-mucha-mas-carne-con-una-abrupta-caida-de-la-huella-ambiental-y-el-caso-es-clave-nid28072026/",
-          "resumen": "Durante cinco años, Santa Unión, de Víctor Tonelli, en la Cuenca del Salado, aumentó su productividad, redujo su huella de carbono y logró verificar una disminución de emisiones que ahora puede transformarse también en una fuente de…",
-          "fuente": "La Nación"
-        },
-        {
-          "titulo": "Domingo Cavallo pidió avanzar hacia la competencia de monedas y propuso declarar al dólar de curso legal",
-          "link": "https://www.ambito.com/economia/domingo-cavallo-pidio-avanzar-la-competencia-monedas-y-propuso-declarar-al-dolar-curso-legal-n6305958",
-          "resumen": "El exministro de Economía respaldó la reforma de la Carta Orgánica del Banco Central impulsada por el Gobierno, aunque consideró que es insuficiente. Sostuvo que debe complementarse con la declaración del dólar como moneda de curso legal…",
-          "fuente": "Ámbito"
-        },
-        {
-          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este sábado 01 de agosto",
-          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-sabado-01-agosto_0_awFQTgm9e4.html",
+          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este domingo 02 de agosto",
+          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-domingo-02-agosto_0_va0W3jbwPz.html",
           "resumen": "Mirá la cotización para la compra y venta del dólar tarjeta hoy. Cotizaciones, evolución, previsiones e información para el cambio de monedas.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "“Las reglas tienen que ser idénticas para todos”, dijo el CEO de Nestlé",
-          "link": "https://www.lanacion.com.ar/economia/campo/las-reglas-tienen-que-ser-identicas-para-todos-dijo-el-ceo-de-nestle-nid01082026/",
-          "resumen": "Gian Carlo Aubry destacó la recuperación del sector lácteo, reclamó reglas de juego más equilibradas para competir y afirmó que la agricultura regenerativa será clave para cumplir las metas ambientales de la compañía",
+          "titulo": "La inflación de julio habría cerrado en torno del 2%, según los analistas",
+          "link": "https://www.lanacion.com.ar/economia/la-inflacion-de-julio-habria-cerrado-en-torno-del-2-segun-los-analistas-nid02082026/",
+          "resumen": "Las proyecciones de las consultoras la ubican entre 1,9% y 2,1%; opinan que se pausó la desaceleración por el impacto del turismo en vacaciones de invierno y una leve alza en los alimentos",
+          "fuente": "La Nación"
+        },
+        {
+          "titulo": "Bernardo Kosacoff: \"La desindustrialización en la Argentina ya está sucediendo, es de largo plazo\"",
+          "link": "https://www.ambito.com/economia/bernardo-kosacoff-la-desindustrializacion-la-argentina-ya-esta-sucediendo-es-largo-plazo-n6306061",
+          "resumen": "El economista especializa en desarrollo y competitividad entiende que el punto de partida es la estabilización macro, pero advierte que el Gobierno debe ahondar en la diversidad de la industria nacional.",
+          "fuente": "Ámbito"
+        },
+        {
+          "titulo": "La mora como drama social: datos oficiales revelan que se triplicaron las denuncias por amenazas y hostigamiento",
+          "link": "https://www.ambito.com/economia/la-mora-como-drama-social-datos-oficiales-revelan-que-se-triplicaron-las-denuncias-amenazas-y-hostigamiento-n6306050",
+          "resumen": "El dato surge de un relevamiento realizado por la provincia de Buenos Aires. Por fuera de la formalidad, la violencia escala en prestamistas de barrio.",
+          "fuente": "Ámbito"
+        },
+        {
+          "titulo": "Emiliano Libman: “No es cierto que el BCRA no va a poder bajo ningún punto de vista asistir al Tesoro”",
+          "link": "https://www.lanacion.com.ar/economia/emiliano-libman-no-es-cierto-que-el-bcra-no-va-a-poder-bajo-ningun-punto-de-vista-asistir-al-tesoro-nid02082026/",
+          "resumen": "Estudió Economía en la UBA, donde también hizo una maestría; luego completó su doctorado en la Universidad de Massachusetts, Amherst (EE.UU.); es investigador asistente del Conicet, miembro del CIMaD (Unsam) y del Cedes e integra el…",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Un sismo de magnitud 4,7 sacudió a los Campos Flégreos, cerca de Nápoles: al menos ocho personas resultaron heridas",
-          "link": "https://www.clarin.com/mundo/sismo-magnitud-47-sacudio-campos-flegreos-cerca-napoles-personas-resultaron-heridas_0_xunVpx1VaX.html",
-          "resumen": "Ocurrió durante este viernes en la zona sur de Italia. Por espacio de varias horas la gente copó las calles y hubo masivos cortes de luz.",
+          "titulo": "Donald Trump afirmó que los aliados ya acordaron bases para dar fin a guerra con Irán y suspenderán nuevos ataques",
+          "link": "https://www.clarin.com/mundo/donald-trump-afirmo-aliados-acordaron-bases-dar-fin-guerra-iran-suspenderan-nuevos-ataques_0_ugsDIK0tRK.html",
+          "resumen": "Según señaló en su cuenta de Truth Social, el acuerdo preliminar alcanza a Israel y a los países de Medio Oriente. El anuncio vino luego de que el mandatario estadounidense tuviera una conversación telefónica con el príncipe heredero…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Desafían todos los límites con la construcción de El Mukaab, el edificio más grande del mundo en el que entraría 20 veces el Empire State",
-          "link": "https://www.lanacion.com.ar/el-mundo/desafian-todos-los-limites-con-la-construccion-de-el-mukaab-el-edificio-mas-grande-del-mundo-en-el-nid31072026/",
-          "resumen": "Arabia Saudita impulsa una de las obras arquitectónicas más ambiciosas de la historia para diversificar su economía; la estructura, proyectada en Riad, busca redefinir la escala de los desarrollos urbanos globales",
+          "titulo": "Trump anunció que Estados Unidos cesará los ataques contra Irán tras un acuerdo alcanzado por sus aliados en la región",
+          "link": "https://www.lanacion.com.ar/el-mundo/trump-anuncio-que-estados-unidos-cesara-los-ataques-contra-iran-tras-un-acuerdo-alcanzados-por-sus-nid02082026/",
+          "resumen": "El mandatario afirmó que el entendimiento contempla la reapertura total del estrecho de Ormuz y el fin de la amenaza nuclear iraní; Israel se suma al compromiso",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Crisis migratoria en España: dudas y un opaco trasfondo político detrás del aluvión de marroquíes en Ceuta",
-          "link": "https://www.clarin.com/mundo/crisis-migratoria-espana-dudas-opaco-trasfondo-politico-detras-aluvion-marroquies-ceuta_0_49bRMqNp9z.html",
-          "resumen": "El desastre en el enclave es un enorme golpe para el presidente Pedro Sánchez. Cómo se orquestó la masiva llegada a través de las redes sociales. Claves de un conflicto que se extiende por Europa y podría traer graves consecuencias.",
+          "titulo": "Tragedia en Perú: 13 muertos luego de estrellarse una avioneta que trasladaba turistas a Nazca",
+          "link": "https://www.clarin.com/mundo/tragedia-peru-13-muertos-luego-estrellarse-avioneta-trasladaba-turistas-nazca_0_ejd7UtFkHa.html",
+          "resumen": "El accidente ocurrió cerca del mediodía. Los fallecidos son 11 turistas, el piloto y el copiloto. La policía ya logró recuperar cuatro cuerpos, aunque las víctimas aun no fueron identificadas.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La mirada de dos argentinos: “Fue increíble ver tanta gente deambulando por las calles”",
-          "link": "https://www.lanacion.com.ar/el-mundo/la-mirada-de-dos-argentinos-fue-increible-ver-tanta-gente-deambulando-por-las-calles-nid31072026/",
-          "resumen": "Un matrimonio argentino cuenta desde Ceuta cómo vivieron la repentina entrada de la ola de migrantes que se derramó sobre el enclave; multitudes pacíficas y gestos solidarios",
+          "titulo": "Cinco provincias de Cuba quedaron sin luz por una falla en la red eléctrica",
+          "link": "https://www.lanacion.com.ar/el-mundo/cinco-provincias-de-cuba-quedaron-sin-luz-por-una-falla-en-la-red-electrica-nid01082026/",
+          "resumen": "El corte afectó a la región occidental de la isla, incluida La Habana; el país sufrió cinco apagones generalizados desde comienzos de año",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Las impresionantes fotos satelitales del masivo ingreso de inmigrantes marroquíes a Ceuta",
-          "link": "https://www.clarin.com/mundo/impresionantes-fotos-satelitales-masivo-ingreso-inmigrantes-marroquies-ceuta_0_2EyDCojGn0.html",
-          "resumen": "Un día después, salieron a la luz las imágenes aéreas del caótico cruce, que ya dejó más de 50 muertos. Se ven desde el aire las densas filas de migrantes superando las barreras limítrofes entre Marruecos y el enclave español. La…",
+          "titulo": "Donald Trump, provocador: publicó en su red social un mapa de Venezuela como estado 51 de Estados Unidos",
+          "link": "https://www.clarin.com/mundo/donald-trump-provocador-publico-red-social-mapa-venezuela-estado-51-estados-unidos_0_5dy2c4yZEz.html",
+          "resumen": "El mensaje llega justo cuando el chavismo inicia un diálogo con la oposición para trazar una hoja de ruta para promover la democracia en el país caribeño. El jefe de la Casa Blanca ya había hablado otras veces de anexionar Venezuela.",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "La leyenda de Manija Mústico: de filetear pescado en el puerto a hacerle un gol a Boca que cambió la historia de Aldosivi",
-          "link": "https://www.clarin.com/deportes/leyenda-manija-mustico-filetear-pescado-puerto-hacerle-gol-boca-cambio-historia-aldosivi_0_NeQyCnaG4P.html",
-          "resumen": "Fue el goleador del primer tricampeonato local del Tiburón y el héroe de una victoria histórica en la Bombonera en 1975. La historia de un ídolo que trabajaba en el Puerto para ganarse la vida mientras enfrentaba a los gigantes del fútbol…",
+          "titulo": "Sébastien Ogier sufrió un espectacular accidente: un vuelco brutal que lo llevó sin escalas al hospital",
+          "link": "https://www.clarin.com/deportes/sebastien-ogier-sufrio-espectacular-accidente-vuelco-brutal-llevo-escalas-hospital_0_Q042aJ3ILV.html",
+          "resumen": "El máximo campeón de WRC junto a Sébastien Loeb, se dio un palazo en el Rally de Finlandia. Fue internado junto a su copiloto, pero ambos están fuera de peligro. Mirá el video.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Partidos de hoy del Torneo Clausura 2026, sábado 1° de agosto: horario y por dónde ver en vivo online",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/partidos-de-hoy-del-torneo-clausura-2026-sabado-1-de-agosto-horario-y-por-donde-ver-en-vivo-online-nid01082026/",
-          "resumen": "La fecha 3 del segundo certamen de la temporada en la Primera División del fútbol argentino comienza con dos encuentros del Grupo A y tres del B",
+          "titulo": "El insólito gol en contra de Casemiro tras dos errores en una misma jugada",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/el-insolito-gol-en-contra-de-casemiro-tras-dos-errores-en-una-misma-jugada-nid02082026/",
+          "resumen": "El mediocampista brasileño protagonizó la desafortunada secuencia que derivó en el empate parcial de Columbus Crew; el partido terminó 2-2 y marcó el regreso de Lionel Messi tras el Mundial",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Tras ser recibido por una multitud, el Colo Barco fue declarado Personalidad Destacada en 25 de Mayo",
-          "link": "https://www.ole.com.ar/seleccion/colo-barco-seleccion-argentina-mundial-2026-25-mayo-caravana_0_NhwhWdaSzD.html",
-          "resumen": "El hombre del Chelsea fue ovacionado en su localidad natal, donde le entregaron una importante distinción tras su participación en el Mundial 2026. Mirá el video.",
+          "titulo": "Partidos de HOY, domingo 2 de agosto: agenda, horario y por dónde ver fútbol EN VIVO",
+          "link": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-domingo-2-agosto-2026-agenda-ole-horario-ver-futbol-vivo-online_0_AMcf4WMDQk.html",
+          "resumen": "Se juega un domingo espectacular por el Torneo Clausura: Boca visita a Newell's en un cruce picante y River recibe a Rosario Central en el Monumental. Además, la grilla se completa con el ascenso y acción internacional.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Boca y River, unidos por el espanto en el arranque del Clausura y el objetivo de la Copa Sudamericana",
-          "link": "https://www.clarin.com/deportes/boca-river-unidos-espanto-arranque-clausura-objetivo-copa-sudamericana_0_LLkxNaJWaU.html",
-          "resumen": "Casi como en espejo, los dos muestran serios problemas de funcionamiento y resultados. Obligados a levantar a nivel local, en el continente podrían enfrentarse en una semifinal.",
+          "titulo": "Racing perdió a dos titulares antes de jugar con Tigre: Santiago Sosa se va a Vasco da Gama y Baltasar Rodríguez quedó afuera por un conflicto",
+          "link": "https://www.clarin.com/deportes/racing-perdio-titulares-jugar-tigre-santiago-sosa-va-vasco-da-gama-baltasar-rodriguez-quedo-afuera-conflicto_0_6bpwy0sAnx.html",
+          "resumen": "El volante fue desafectado de la formación horas antes del partido para evitar riesgos antes de cerrar su transferencia a Brasil. Baltasar Rodríguez no fue convocado tras ausentarse por diferencias con la dirigencia mientras negocia su…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La FIFA suspendió el proyecto para “privatizar” el Mundial y admitió que “ha generado divisiones”",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/la-fifa-suspendio-el-proyecto-para-privatizar-el-mundial-y-admitio-que-ha-generado-divisiones-nid31072026/",
-          "resumen": "El máximo ente del fútbol descartó la iniciativa tras el rechazo de diversas federaciones, especialmente la UEFA",
+          "titulo": "La agenda de la TV y streaming del domingo: River y Rosario Central, el plato fuerte del día, junto con Boca y Newell’s",
+          "link": "https://www.lanacion.com.ar/deportes/la-agenda-de-la-tv-y-streaming-del-domingo-river-y-rosario-central-el-plato-fuerte-del-dia-junto-con-nid02082026/",
+          "resumen": "Fútbol internacional y tenis completan la actividad deportiva en el cierre del fin de semana, disponible a través de las pantallas",
           "fuente": "La Nación"
         }
       ]
