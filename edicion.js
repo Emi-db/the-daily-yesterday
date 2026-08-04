@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "3 de agosto de 2026",
-  "generada": "12:48",
+  "fecha": "4 de agosto de 2026",
+  "generada": "11:53",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: el Gobierno monitorea el paro docente en todo el país y Karina Milei encabeza el Consejo Regional de Seguridad Interior",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-gobierno-monitorea-paro-docente-pais-karina-milei-encabeza-consejo-regional-seguridad-interior_0_LIRj0e6otM.html",
-          "resumen": "La ministra Pettovello anticipó que aplicará la ley que reduce el alcance de las huelgas ante la medida de fuerza de CTERA. Todas las novedades del Gobierno, minuto a minuto.",
+          "titulo": "Qué dice y qué no dice Patricia Bullrich sobre el rol que jugará en las elecciones 2027",
+          "link": "https://www.clarin.com/politica/dice-dice-patricia-bullrich-rol-jugara-elecciones-2027_0_kqDUbkSpIu.html",
+          "resumen": "Reconoció que quiere ser presidenta, no descartó ser compañera de fórmula de Milei y minimizó las chances de ser candidata en Ciudad. Cómo sus movimientos marcan la interna electoral libertaria.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: el tratamiento de la ley de tierras y el viaje de Milei a Ecuador y Colombia",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-tratamiento-de-la-ley-de-tierras-y-el-viaje-de-milei-a-ecuador-nid03082026/",
+          "titulo": "Javier Milei y sus medidas, en vivo: el Gobierno cede para conseguir la Ley de Tierras y busca acuerdos para 2027",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-cede-para-conseguir-la-ley-de-tierras-y-busca-nid04082026/",
           "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Javier Milei: “No somos Suiza, pero estamos mejor; si hay gente que no llega a fin de mes, es menos que cuando iniciamos”",
-          "link": "https://www.infobae.com/politica/2026/08/03/javier-milei-no-somos-suiza-pero-estamos-mejor-si-hay-gente-que-no-llega-a-fin-de-mes-es-menos-que-cuando-iniciamos/",
-          "resumen": "El jefe de Estado volvió a defender el modelo económico de su gobierno y, además, remarcó la importancia del proyecto para reformar la carta orgánica del Banco Central",
+          "titulo": "Demoraron a Facundo Moyano en medio de un confuso episodio tras una discusión con una joven en Belgrano",
+          "link": "https://www.infobae.com/sociedad/policiales/2026/08/04/demoraron-a-facundo-moyano-en-medio-de-un-confuso-episodio-tras-una-discusion-con-su-pareja-en-belgrano/",
+          "resumen": "Ocurrió esta madrugada. Un llamado al 911 alertó sobre una mujer que corría desnuda por avenida del Libertador",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Giro en el Senado: por qué la Rosada cede y acepta retocar la polémica ley de tierras",
-          "link": "https://www.clarin.com/politica/giro-senado-rosada-cede-acepta-retocar-polemica-ley-tierras_0_j9Mha6AIu4.html",
-          "resumen": "Tras meses de frenos en el Senado por el rechazo de la oposición a la extranjerización total, el oficialismo anunciará cambios. Dicen que Sturzenegger y Santilli dieron el OK.",
+          "titulo": "El peronismo fogonea la marcha contra la extranjerización de la tierra y se concentra en bajar el capítulo más polémico",
+          "link": "https://www.clarin.com/politica/peronismo-fogonea-marcha-extranjerizacion-tierra-concentra-bajar-capitulo-polemico_0_el9lh24phL.html",
+          "resumen": "Los dirigentes del PJ mantienen la expectativa de frustrar la aprobación de la polémica iniciativa. La versión 17 de la redacción del proyecto será presentada este martes por Patricia Bullrich.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei redobló la apuesta: “Lula es un ladrón, es corrupto, y lo liberaron por una falla en el procedimiento”",
-          "link": "https://www.infobae.com/politica/2026/08/03/javier-milei-redoblo-la-apuesta-lula-es-un-ladron-es-corrupto-y-lo-liberaron-por-una-falla-en-el-procedimiento/",
-          "resumen": "El presidente volvió a criticar a su par brasileño y aseguró que “no es inocente” en el marco de la causa Lava Jato. Cronología de un conflicto que tensa la relación bilateral",
-          "fuente": "Infobae"
+          "titulo": "Denunciaron a Facundo Moyano por agredir a una mujer en un departamento de Belgrano",
+          "link": "https://www.lanacion.com.ar/seguridad/denunciaron-a-facundo-moyano-por-agredir-a-una-mujer-en-belgrano-nid04082026/",
+          "resumen": "Un llamado al 911 alertó por una situación de violencia; el dirigente sindical fue aprehendido por efectivos de la Policía de la Ciudad",
+          "fuente": "La Nación"
         }
       ]
     },
@@ -42,34 +42,34 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "La liquidación de divisas por parte del agro bajó 3% en julio y en lo que va del año acumula una caída del 16%",
-          "link": "https://www.clarin.com/rural/liquidacion-divisas-parte-agro-3-julio-va-ano-acumula-caida-16_0_mHwnTJe4Wk.html",
-          "resumen": "En el séptimo mes del año, los ingresos alcanzaron los US$ 2.918 millones, 28% por debajo de lo registrado el año pasado. El acumulado de los primeros siete meses se ubicó en US$ 16.297 millones.",
+          "titulo": "Euro hoy en Uruguay: precio y cotización de la divisa este martes 4 de agosto de 2026",
+          "link": "https://www.clarin.com/economia/euro-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-martes-4-de-agosto-de-2026_0_YCN3fc6Dbi.html",
+          "resumen": "Mirá la cotización del euro en Uruguay, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 3 de agosto, minuto a minuto",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid03082026/",
-          "resumen": "La divisa oficial opera a $1510 para la venta en el Banco Nación; el dólar blue cotiza a $1560 para esa operación; qué pasó con el MEP y el CCL",
+          "titulo": "Nueva paritaria: cuánto ganan los empleados de comercio en agosto de 2026 con el aumento confirmado",
+          "link": "https://www.lanacion.com.ar/economia/cuanto-ganan-los-empleados-de-comercio-en-agosto-de-2026-con-el-aumento-confirmado-nid28072026/",
+          "resumen": "Los trabajadores de las distintas categorías tienen un porcentaje de aumento en el octavo mes del año y la entrega de una suma fija",
           "fuente": "La Nación"
         },
         {
-          "titulo": "EEUU confirmó una intervención conjunta con Japón para sostener al yen: la moneda se recupera con fuerza",
-          "link": "https://www.ambito.com/economia/eeuu-confirmo-una-intervencion-conjunta-japon-sostener-al-yen-la-moneda-se-recupera-fuerza-n6306345",
-          "resumen": "La acción en conjunto se produjo luego de que la divisa japonesa tocara su punto más bajo en 40 años. En el mercado no descartan nuevas medidas.",
+          "titulo": "Preocupación en Wall Street: directivos y grandes accionistas muestran el mayor pesimismo en 21 años",
+          "link": "https://www.ambito.com/economia/preocupacion-wall-street-directivos-y-grandes-accionistas-muestran-el-mayor-pesimismo-21-anos-n6306695",
+          "resumen": "Según el accionar de los directivos y principales accionistas respecto de las acciones de sus empresas cotizantes, no habían sido tan pesimistas en más de 20 años. Para algunos analistas es una señal de advertencia sobre la evolución del…",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Euro hoy en Panamá: precio y cotización de la divisa este lunes 3 de agosto de 2026",
-          "link": "https://www.clarin.com/economia/euro-hoy-en-panama-precio-y-cotizacion-de-la-divisa-este-lunes-3-de-agosto-de-2026_0_NgsI6H7gal.html",
-          "resumen": "Mirá la cotización del euro en Panamá, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
-          "fuente": "Clarín"
+          "titulo": "Un experto en inversiones explicó algo poco conocido: “Hay empresas de Japón y Noruega que tienen prohibido invertir en su país, y no es por la economía”",
+          "link": "https://www.lanacion.com.ar/economia/un-experto-en-inversiones-explico-algo-poco-conocido-hay-empresas-de-japon-y-noruega-que-tienen-nid04082026/",
+          "resumen": "En diálogo con LA NACION, Maximiliano Donzelli sugirió por qué no se recomienda concentrar todos los activos en un mismo país",
+          "fuente": "La Nación"
         },
         {
-          "titulo": "Una tradicional estancia desarrolló un modelo imbatible de negocios",
-          "link": "https://www.lanacion.com.ar/economia/campo/una-tradicional-estancia-desarrollo-un-modelo-imbatible-de-negocios-nid03082026/",
-          "resumen": "Las Carreras, en Tafí del Valle, tiene tambo de vacas Jersey, quesos con Indicación Geográfica, producción de papas y granos, turismo y avanzó con una carnicería con hacienda Holando en la ciudad de Tucumán",
-          "fuente": "La Nación"
+          "titulo": "Alerta dólar: el pago de dividendos superó los u$s1.000 millones en junio, récord desde 2010",
+          "link": "https://www.ambito.com/economia/alerta-dolar-el-pago-dividendos-supero-los-us1000-millones-junio-record-2010-n6306675",
+          "resumen": "Esta demanda de las empresas se transformó en otro factor de presión sobre el tio de cambio, junto a la compra para atesoramiento, las importaciones y los vencimientos de deuda pública.",
+          "fuente": "Ámbito"
         }
       ]
     },
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Crisis en Ceuta: ¿Crees que si hubiera tenido trabajo habría ido?",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/crees-trabajo-ido_0_pMBs7My2C0.html",
-          "resumen": "Los migrantes marroquíes describieron su desesperación ante su futuro económico y explicaron qué les llevó a cruzar la frontera con España.",
+          "titulo": "Los documentos clasificados de las SS sobre Erich Priebke, el criminal nazi que huyó a la Argentina y se escondió en Bariloche tras la caída de Hitler",
+          "link": "https://www.clarin.com/mundo/documentos-clasificados-ss-erich-priebke-criminal-nazi-huyo-argentina-escondio-bariloche-caida-hitler_0_Het4yL8kkC.html",
+          "resumen": "El exoficial nazi fue condenado por la matanza de 335 civiles en las Fosas Ardeatinas, en las afueras de Roma, en 1944. Escapó de Europa y se refugió en la Patagonia, donde fue encontrado por un equipo de la cadena de noticias ABC, en…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Cayetana Álvarez de Toledo: “Lo de Ceuta no es una crisis migratoria, sino un ataque contra la soberanía española”",
-          "link": "https://www.lanacion.com.ar/el-mundo/cayetana-alvarez-de-toledo-lo-de-ceuta-no-es-una-crisis-migratoria-sino-un-ataque-contra-la-nid03082026/",
-          "resumen": "La diputada española opinó sobre la irrupción de miles de personas en el territorio fronterizo con Marruecos; destinó críticas al presidente Pedro Sánchez",
+          "titulo": "Guatemala emitió una alerta naranja de “peligro” tras una nueva erupción del volcán de Fuego",
+          "link": "https://www.lanacion.com.ar/el-mundo/guatemala-emitio-una-alerta-naranja-de-peligro-tras-una-nueva-erupcion-del-volcan-de-fuego-nid04082026/",
+          "resumen": "Ubicado 35 kilómetros al suroeste de la capital del país, el cráter volcánico es considerado el más activo de Centroamérica; las autoridades evacuaron dos localidades aledañas",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Incendio en el ferry de Indonesia: buscan sobrevivientes en el agua, pero no saben cuántos pasajeros cayeron al mar",
-          "link": "https://www.clarin.com/mundo/incendio-ferry-indonesia-buscan-sobrevivientes-agua-saben-pasajeros-cayeron-mar_0_auCjAH1Qp2.html",
-          "resumen": "Las autoridades confirmaron que en el Mutiara Sentosa iban más pasajeros que los declarados e intentan determinar la cantidad. Hay al menos cinco muertos. Investigan si las llamas comenzaron en uno de los camiones que transportada la…",
+          "titulo": "Fuertes explosiones, lava y cenizas a más de 6.000 metros de altura: alerta por el volcán de Fuego",
+          "link": "https://www.clarin.com/mundo/fuertes-explosiones-lava-cenizas-6000-metros-altura-alerta-volcan-fuego_0_NmKyYWUL0J.html",
+          "resumen": "Las autoridades de Guatemala evacuaron comunidades cercanas, suspendieron las clases presenciales y declararon la alerta naranja a nivel nacional. Considerado el volcán más activo de Centroamérica, se encuentra a solo 35 kilómetros de la…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Comenzó la construcción de El Mukaab, el edificio más grande del mundo en el que entraría 20 veces el Empire State",
-          "link": "https://www.lanacion.com.ar/el-mundo/desafian-todos-los-limites-con-la-construccion-de-el-mukaab-el-edificio-mas-grande-del-mundo-en-el-nid31072026/",
-          "resumen": "Arabia Saudita impulsa una de las obras arquitectónicas más ambiciosas de la historia para diversificar su economía; la estructura, proyectada en Riad, busca redefinir la escala de los desarrollos urbanos globales",
+          "titulo": "La Unión Europea llevará a cabo una reunión de urgencia para abordar la crisis migratoria en Ceuta",
+          "link": "https://www.lanacion.com.ar/el-mundo/la-union-europea-llevara-a-cabo-una-reunion-de-urgencia-para-abordar-la-crisis-migratoria-en-ceuta-nid04082026/",
+          "resumen": "El encuentro se realizará este martes por videoconferencia; existen diferencias entre España y otros países del bloque que reclaman endurecer las políticas migratorias",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Cuba sufrió otro apagón nacional y volvió a quedar completamente a oscuras",
-          "link": "https://www.clarin.com/mundo/cuba-sufrio-apagon-nacional-volvio-quedar-completamente-oscuras_0_wFtDyoEm4Z.html",
-          "resumen": "La empresa estatal Unión Eléctrica reportó una “desconexión total” del sistema y las autoridades activaron protocolos para restablecer el servicio. La isla acumula seis colapsos generalizados desde enero y once desde fines de 2024, en…",
+          "titulo": "Estados Unidos reportó dos muertos por el brote de diarrea explosiva que se habría originado por lechuga de México",
+          "link": "https://www.clarin.com/mundo/estados-unidos-reporto-muertos-brote-diarrea-explosiva-originado-lechuga-mexico_0_KLSizFpQTG.html",
+          "resumen": "Las víctimas se reportaron en el estado de Michigan. Los expertos sospechan que el vegetal que se sirvió en locales de Taco Bell sería la fuente del brote.",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Vozinha, el nuevo rockstar del fútbol: llegó a Chile para sumarse a Colo Colo y fue recibido por una multitud",
-          "link": "https://www.clarin.com/deportes/vozinha-nuevo-rockstar-futbol-llego-chile-sumarse-colo-colo-recibido-multitud_0_KIiGhYriol.html",
-          "resumen": "El histórico capitán de Cabo Verde arribó a Santiago tras varios retrasos por problemas administrativos y personales. El arquero de 40 años firmará por seis meses y podrá lucir en su camiseta el apodo que se hizo famoso durante la Copa…",
+          "titulo": "La historia de película del argentino que hizo ascender a Aruba en la Copa Davis y preparó el equipo en un container de Cañuelas",
+          "link": "https://www.clarin.com/deportes/historia-pelicula-argentino-hizo-ascender-aruba-copa-davis-preparo-equipo-container-canuelas_0_osOrSMfjQS.html",
+          "resumen": "Claudio Martínez quería que sus jugadores, habituados a las canchas duras, pudieran hacer una adaptación al polvo de ladrillo junto a tenistas formados. El Club Atlético Monte Grande les abrió las puertas y construyó una pequeña casa en…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La reunión de Coudet con el presidente de River y cómo seguir en medio de la crisis",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/river-plate/la-reunion-de-coudet-con-el-presidente-de-river-y-como-seguir-en-medio-de-la-crisis-nid03082026/",
-          "resumen": "El Chacho acusó el impacto de una nueva derrota del equipo, pero está con fuerzas para seguir",
+          "titulo": "Escándalo en Platense: el capitán se quiso meter a la platea a pelear y tuvieron que pararlo entre cuatro",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/platense/escandalo-en-platense-el-capitan-se-quiso-meter-a-la-platea-a-pelear-y-tuvieron-que-pararlo-entre-nid04082026/",
+          "resumen": "Una vez terminado el partido que Talleres le ganó al local por 4 a 0, el estadio Ciudad de Vicente López quedó envuelto en violentas escenas",
           "fuente": "La Nación"
         },
         {
-          "titulo": "¿Qué dijo Tim Payne después de su debut con un golazo en Olimpia?",
-          "link": "https://www.ole.com.ar/futbol-internacional/america/timpayne-debut-golazo-olimpia_0_6i4U73SDWk.html",
-          "resumen": "Tras un inolvidable estreno en el 5-0 ante Rubio Ñu, el neozelandés viral en el Mundial 2026 destacó: \"Marcar un gol es agradable, pero ganar el partido es lo más importante\".",
+          "titulo": "Veron y el “raro” de los borrados de River",
+          "link": "https://www.ole.com.ar/river-plate/veron-river-jugadores-apartados-coudet_0_3F4ADaapRj.html",
+          "resumen": "El presidente de Estudiantes se refirió a la situación de los futbolistas cortados del plantel de Eduardo Coudet, que siguen entrenándose apartados y a contraturno.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Gales le retiró su apoyo a Gianni Infantino y se convirtió en la primera federación que rompe con el presidente de la FIFA",
-          "link": "https://www.clarin.com/deportes/gales-retiro-apoyo-gianni-infantino-convirtio-primera-federacion-rompe-presidente-fifa_0_baFVxCfyVf.html",
-          "resumen": "La Asociación de Fútbol de Gales anunció que no respaldará la reelección del dirigente para el ciclo 2027-2031. La decisión llega tras la polémica por el fallido proyecto para abrir el negocio del Mundial a inversores privados.",
+          "titulo": "Leonel Flores, la última joya de Boca: \"Cuando me pongo esta camiseta, tengo que dejar todo adentro de la cancha\"",
+          "link": "https://www.clarin.com/deportes/leonel-flores-ultima-joya-boca-pongo-camiseta-dejar-adentro-cancha_0_6SorIGSCtM.html",
+          "resumen": "El 16 de julio tuvo su bautismo ante Sarmiento en la Copa Argentina y respondió con un grito histórico. Por primera vez en diez años, un futbolista de la cantera debutó con gol. La frase que define su perfil: \"Tengo que dar el doble de lo…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "River igualó la peor racha de caídas consecutivas de su historia",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/river-plate/river-igualo-la-peor-racha-de-caidas-consecutivas-de-su-historia-nid03082026/",
-          "resumen": "El club de Núñez sigue batiendo récords negativos, en una crisis impensada; el sábado se mide ante Tigre",
+          "titulo": "La nueva vida de Tim Payne en Paraguay: chipa guazú, fútbol y una casa moderna",
+          "link": "https://www.lanacion.com.ar/deportes/la-nueva-vida-de-tim-payne-en-paraguay-chipa-guazu-futbol-y-una-casa-moderna-nid03082026/",
+          "resumen": "El futbolista que fue furor en el Mundial debutó en el Olimpia de la mejor manera posible; cómo es su vida familiar luego de dejar todo atrás",
           "fuente": "La Nación"
         }
       ]

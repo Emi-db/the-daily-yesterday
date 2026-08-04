@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "3 de agosto de 2026",
-    "generada": "12:48",
+    "fecha": "4 de agosto de 2026",
+    "generada": "11:53",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "3 maneras en las que Petro marcó un antes y un después en Colombia (y cuál será su rol tras dejar la presidencia)",
-            "link": "https://www.bbc.com/mundo/articles/c62e8z37p3zo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Guste más o menos a simpatizantes o detractores, el mandato de Petro rompió moldes y hereda legados.",
+            "titulo": "\"Los carteles no existen\": la provocadora idea que critica la guerra contra el narco en México",
+            "link": "https://www.bbc.com/mundo/articles/cpq8ex8v8xxo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Oswaldo Zavala señala que la política antidrogas de Washington ha sostenido un discurso generalizador sobre el narcotráfico que genera una narrativa entorno a la delincuencia organizada de México.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Trump asegura que las conversaciones con Irán se reanudarán este lunes",
-            "link": "https://elpais.com/internacional/2026-08-03/trump-asegura-que-las-conversaciones-con-iran-se-reanudaran-este-lunes.html",
-            "resumen": "El presidente de EE UU trata de rebajar el enfrentamiento de los últimos días para volver a un alto el fuego. Teherán niega el inicio de nuevas negociaciones",
+            "titulo": "¿Un musulmán progresista o una centrista respaldada por Israel?: los demócratas libran en Míchigan una batalla clave para su futuro",
+            "link": "https://elpais.com/us/2026-08-04/un-musulman-progresista-o-una-centrista-respaldada-por-israel-los-democratas-libran-en-michigan-una-batalla-clave-para-su-futuro.html",
+            "resumen": "Las primarias del martes para el Senado mostrarán si la oleada izquierdista llega a uno de los Estados decisivos en las elecciones de noviembre",
             "fuente": "El País"
           },
           {
-            "titulo": "Trump anuncia conversaciones con Irán mientras aumentan las expectativas por Ormuz",
-            "link": "https://www.france24.com/es/medio-oriente/20260803-trump-anuncia-conversaciones-con-ir%C3%A1n-mientras-aumentan-las-expectativas-por-ormuz",
-            "resumen": "El presidente de Estados Unidos, Donald Trump, aseguró que este lunes 3 de agosto comenzarían conversaciones con Irán, en un nuevo giro tras días de amenazas militares. La posibilidad de un acuerdo para reabrir el estrecho de Ormuz y…",
+            "titulo": "Mucho dinero y conflicto de intereses: Truth Social vende acceso anticipado a las publicaciones de Trump",
+            "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260804-mucho-dinero-y-conflicto-de-intereses-truth-social-vende-acceso-r%C3%A1pido-a-las-publicaciones-de-trump",
+            "resumen": "El 1 de agosto, Donald Trump Media lanzó oficialmente Truth API, un servicio que permitirá a clientes de pago tener un acceso anticipado a las cuentas más influyentes de la red social Truth Social, entre las que está la del presidente…",
             "fuente": "France 24"
           },
           {
-            "titulo": "\"El escándalo de los exámenes de la UNAM es una oportunidad para abandonar la escuela tradicional basada en la memoria\"",
-            "link": "https://www.bbc.com/mundo/articles/c330rvm4xpzo?at_medium=RSS&at_campaign=rss",
-            "resumen": "El colombiano Julián de Zubiría lleva toda su carrera en la pedagogía argumentando que la educación basada en la memoria debe cambiar. La llegada de la inteligencia artificial, que puede boicotear procesos como la admisión a la…",
+            "titulo": "Qué es la Red Foxtrot, el enigmático grupo criminal escandinavo acusado de atacar objetivos israelíes y judíos en nombre de Irán",
+            "link": "https://www.bbc.com/mundo/articles/c9w0ydjdzgjo?at_medium=RSS&at_campaign=rss",
+            "resumen": "La Red Foxtrot, sancionada por los gobiernos del Reino Unido y Estados Unidos, está acusada de contratar sicarios adolescentes para asesinar a objetivos en varios países europeos a instancias de Irán.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "El centro de deportación de migrantes de Italia en Albania sigue casi vacío por segundo año consecutivo",
-            "link": "https://elpais.com/internacional/2026-08-03/el-centro-de-deportacion-de-migrantes-de-italia-en-albania-sigue-casi-vacio-por-segundo-ano-consecutivo.html",
-            "resumen": "La agresividad de Meloni con Ceuta se debe en parte a que le sirve para intentar superar el fracaso de su modelo: queda fuera del Pacto de Asilo de la UE, que ya permite opciones menos costosas, y el tribunal europeo aún debe aclarar si…",
+            "titulo": "Cuba registra dos apagones nacionales en menos de 24 horas",
+            "link": "https://elpais.com/internacional/2026-08-04/cuba-registra-dos-apagones-nacionales-en-menos-de-24-horas.html",
+            "resumen": "Las autoridades trabajan para restablecer totalmente la electricidad en la isla, cuyo sistema, obsoleto y afectado por las restricciones estadounidenses, ha colapsado siete veces en 2026",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "La llegada de turistas a España sigue marcando récords pero frena el crecimiento en junio",
-            "link": "https://elpais.com/economia/2026-08-03/la-llegada-de-turistas-a-espana-sigue-marcando-records-pero-frena-el-crecimiento-en-junio.html",
-            "resumen": "En los seis primeros meses de 2026 se contabilizaron 46,5 millones de viajeros, un 4,6% más que en 2025, pero el sexto mes fue por primera vez más flojo que mayo",
+            "titulo": "La regularización impulsa el empleo en julio y España gana 41.727 afiliaciones",
+            "link": "https://elpais.com/economia/2026-08-04/la-regularizacion-impulsa-el-empleo-en-julio-y-espana-gana-41727-afiliaciones.html",
+            "resumen": "Los hombres extranjeros empujan el mercado laboral y aceleran el ritmo de creación de empleo anual hasta el 3%, aunque el paro se dispara en 19.517 personas",
             "fuente": "El País"
           },
           {
-            "titulo": "Alarma en sectores clave de la economía española por la escasez de mano de obra",
-            "link": "https://www.expansion.com/economia/2026/08/03/6a6f8e8c468aeb4a6d8b4584.html",
-            "resumen": "Los empresarios piden que la formación se alinee con las demandas del tejido productivo. Leer",
+            "titulo": "El Ibex alcanza por primera vez los 20.000 puntos",
+            "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/04/6a717c40468aeb14038b45a5.html",
+            "resumen": "Los resultados vuelven a dar aire a la renta variable. El rally de Palantir mejora los ánimos en el sector tecnológico, y la contención en el precio del petróleo relaja las ventas en el conjunto de los mercados. El Ibex, tras cerrar ayer…",
             "fuente": "Expansión"
           },
           {
-            "titulo": "La creación anual de empleo extranjero supera por primera vez la de españoles",
-            "link": "https://elpais.com/economia/2026-08-03/la-creacion-anual-de-empleo-extranjero-supera-por-primera-vez-la-de-espanoles.html",
-            "resumen": "La regularización extraordinaria propicia que más de la mitad de la afiliación a la Seguridad Social generada en el año sea de foráneos: hasta junio aportaron el 58% de los nuevos puestos",
+            "titulo": "Alicante se libra del caos en los nuevos controles fronterizos de la UE: “Es un proceso sencillo, pero el concepto es discriminatorio”",
+            "link": "https://elpais.com/economia/2026-08-04/alicante-se-libra-del-caos-en-los-nuevos-controles-fronterizos-de-la-ue-es-un-proceso-sencillo-pero-el-concepto-es-discriminatorio.html",
+            "resumen": "Los pasajeros del aeropuerto, uno de los más frecuentados por británicos, destacan la agilidad del registro que ha provocado largas colas en otros puntos de Europa, aunque relatan episodios de confusión por los nuevos procedimientos",
             "fuente": "El País"
           },
           {
-            "titulo": "España, arrinconada ante la reunión de la UE por la crisis migratoria en Ceuta",
-            "link": "https://www.expansion.com/economia/2026/08/02/6a6f9342468aeb6a5a8b459a.html",
-            "resumen": "Los ministros de Interior europeos se reúnen este martes. Sánchez denuncia la falta de solidaridad, mientras que 22 países avisan del efecto llamada del proceso de regularización. Leer",
+            "titulo": "Tres valores para actualizar la cartera en agosto",
+            "link": "https://www.expansion.com/mercados/2026/08/04/6a708d3f468aebcc3c8b457a.html",
+            "resumen": "Los resultados empresariales han dado gasolina a los mercados para asaltar sus récords históricos. En algunos casos, estas subidas pueden haber generado precios de entrada menos atractivos. Los analistas de GVC Gaesco identifican dos…",
             "fuente": "Expansión"
           },
           {
-            "titulo": "BBVA consigna la fianza íntegra de 1,17 millones de euros impuesta por el caso Villarejo",
-            "link": "https://cincodias.elpais.com/companias/2026-08-03/bbva-consigna-la-fianza-integra-de-117-millones-de-euros-impuesta-por-el-caso-villarejo.html",
-            "resumen": "El banco aporta 754.000 euros en nombre de nueve exdirectivos a través de una póliza de Mapfre y el resto lo pone mediante un aval",
+            "titulo": "Bruselas investiga la legalidad del pago de 23,5 millones de España a la japonesa JGC por un laudo de renovables",
+            "link": "https://elpais.com/economia/2026-08-04/bruselas-investiga-la-legalidad-del-pago-de-235-millones-de-espana-a-la-japonesa-jgc-por-un-laudo-de-renovables.html",
+            "resumen": "La Comisión Europea estudia si la compensación al inversor extracomunitario puede constituir una ayuda de Estado contraria a la norma",
             "fuente": "El País"
           }
         ]
@@ -78,9 +78,21 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "El solitario y doloroso final de los tigres dientes de sable",
-            "link": "https://elpais.com/ciencia/2026-08-03/el-solitario-y-doloroso-final-de-los-tigres-dientes-de-sable.html",
-            "resumen": "Un estudio de las vértebras de más de 850 esmilodontes revela una alta proporción de mutaciones genéticas, producto de la reproducción endogámica",
+            "titulo": "¿Te preocupa el tiempo que hará donde vas a ver el eclipse? De momento, incertidumbre, sobre todo en la costa norte",
+            "link": "https://elpais.com/ciencia/2026-08-04/te-preocupa-el-tiempo-que-hara-donde-vas-a-ver-el-eclipse-de-momento-incertidumbre-sobre-todo-en-la-costa-norte.html",
+            "resumen": "Los pronósticos a día de hoy apuntan a que va a ser un día estable. La Aemet publicará a partir del viernes una predicción especial, con un visor interactivo de nubes y mapas",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "“No pensé que yo pudiera caer”: el auge de las falsas ofertas laborales que se difunden por WhatsApp y otras redes de mensajería",
+            "link": "https://elpais.com/tecnologia/2026-08-04/no-pense-que-yo-pudiera-caer-el-auge-de-las-falsas-ofertas-laborales-que-se-difunden-por-whatsapp-y-otras-redes-de-mensajeria.html",
+            "resumen": "Las ofertas de trabajo remoto se han convertido en el nuevo anzuelo del cibercrimen a través de redes organizadas que mezclan ingeniería social, criptomonedas y suplantación de empresas reales para vaciar cuentas y desaparecer sin dejar…",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "El minuto y medio de fama de la España vaciada: el eclipse total ocultará el Camino de Santiago",
+            "link": "https://elpais.com/ciencia/2026-08-04/el-minuto-y-medio-de-fama-de-la-espana-vaciada-el-eclipse-total-ocultara-el-camino-de-santiago.html",
+            "resumen": "De los hoteles rurales llenos a la incertidumbre por los albergues que no admiten reserva, los pueblos de la ruta jacobea aprovechan su experiencia con peregrinos para recibir una avalancha indeterminada de visitas por el fenómeno…",
             "fuente": "El País"
           },
           {
@@ -90,21 +102,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "¿Demasiada proteína? Los dudosos beneficios del nutriente de moda",
-            "link": "https://elpais.com/salud-y-bienestar/2026-08-02/demasiada-proteina-los-dudosos-beneficios-del-nutriente-de-moda.html",
-            "resumen": "Nueve de cada diez productos que se promocionan como ricos en proteína no son saludables. Un metaanálisis pone en entredicho los beneficios del macronutriente del que más se habla",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Anthropic anuncia que sus programas de IA también hackearon por su cuenta tres empresas tras el incidente de OpenAI",
-            "link": "https://elpais.com/tecnologia/2026-07-31/anthropic-anuncia-que-sus-programas-de-ia-tambien-hackearon-por-su-cuenta-tres-empresas-tras-el-incidente-de-openai.html",
-            "resumen": "La compañía creadora de Claude ha revisado más de 140.000 sesiones y ha descubierto que se escaparon de un entorno de pruebas como ChatGPT",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "El rayo verde, un fascinante fenómeno óptico que servirá de postre al eclipse solar en Baleares",
-            "link": "https://elpais.com/ciencia/2026-08-01/el-rayo-verde-un-fascinante-fenomeno-optico-que-servira-de-postre-al-eclipse-solar-en-baleares.html",
-            "resumen": "El destello esmeralda que fascinó a la protagonista de una novela de Julio Verne podrá aparecer durante unos instantes después del fenómeno astronómico total del 12 de agosto sobre la costa de Mallorca",
+            "titulo": "Cuenta atrás para el Día del Eclipse: claves para prepararse ante el fenómeno astronómico del siglo",
+            "link": "https://elpais.com/ciencia/2026-08-04/cuenta-atras-para-el-dia-del-eclipse-claves-para-prepararse-ante-el-fenomeno-astronomico-del-siglo.html",
+            "resumen": "¿Cuándo, dónde, cómo verlo? EL PAÍS comienza su cobertura especial de un evento único",
             "fuente": "El País"
           }
         ]
@@ -113,33 +113,33 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "Lamine Yamal, totalmente enamorado: \"Si encontráis a una chica más guapa me rapo las cejas\"",
-            "link": "https://www.marca.com/tiramillas/2026/07/30/lamine-yamal-totalmente-enamorado-encontrais-chica-guapa-me-rapo-cejas-video.html",
-            "resumen": "",
+            "titulo": "El portero Hallgrímsson renueva con el Barça hasta 2029",
+            "link": "https://www.marca.com/balonmano/2026/08/04/portero-hallgrimsson-renueva-barca-2029.html",
+            "resumen": "Fichó el pasado verano procedente del Orlen Wisla Plock polaco",
             "fuente": "Marca"
           },
           {
-            "titulo": "Cuenta atrás para un Julián que ya sigue el plan de trabajo del Atlético",
-            "link": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260803/1004212718/comienza-cuenta-julian-sigue-plan-trabajo-atletico.html",
-            "resumen": "Sólo queda una semana para que Julián Alvarez vuelva a lucir los colores del Atlético de Madrid . El 10 de agosto es la fecha marcada para que el internacional argentino vuelva al trabajo con el conjunto rojiblanco, el mismo día que el…",
+            "titulo": "Joan Laporta reaparece tras su arritmia para presentar a Bisiwu",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004213060/joan-laporta-reaparece-arritmia-presentar-bisiwu.html",
+            "resumen": "El presidente del FC Barcelona , Joan Laporta , volvió a aparecer en público después de que hace unos días estuviera hospitalizado por culpa de una arritmia. El máximo mandatario azulgrana, ya recuperado, llegó este martes a mediodía a…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Cancelo aún no se suma a la pretemporada con el Al-Hilal",
-            "link": "https://www.marca.com/futbol/barcelona/2026/07/30/cancelo-aun-suma-pretemporada-hilal.html",
-            "resumen": "Su compañero de selección, Rúben Neves, ya ha pasado la revisión médica",
+            "titulo": "Las nuevas reglas para esta temporada... con un experimento incluido",
+            "link": "https://www.marca.com/futbol/2026/08/04/cta-publica-nuevas-reglas-entraran-vigor-temporada-2026-27.html",
+            "resumen": "Varias novedades con las lesiones de los porteros, sustituciones, los saques de portería...&nbsp;",
             "fuente": "Marca"
           },
           {
-            "titulo": "La amenaza del Arsenal por Julián pierde fuelle",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212694/amenaza-arsenal-julian-pierde-fuelle.html",
-            "resumen": "El futuro de Julián Álvarez (26 años) sigue lleno de incógnitas. El delantero argentino es el gran objetivo del FC Barcelona para reforzar la plantilla, pero el Atlético de Madrid no está por la labor de traspasarlo al club azulgrana y…",
+            "titulo": "El Barça mantiene el plan con Julián Álvarez",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004212929/barca-mantiene-plan-julian-alvarez.html",
+            "resumen": "El Barça sigue manteniendo su plan de intentar fichar a Julián Álvarez (26 años). No es una operación sencilla dada la postura frontalmente opuesta a una venta del Atlético de Madrid. Sin embargo, el club azulgrana sabe que la postura del…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Inés García y Lamine Yamal disfrutan de sus primeras vacaciones juntos: \"Espectacular\"",
-            "link": "https://www.marca.com/tiramillas/sociedad/2026/07/30/ines-garcia-lamine-yamal-disfrutan-cena-arabe-durante-vacaciones-espectacular.html",
-            "resumen": "La pareja ha acudido a un restaurante árabe a cenar y lo ha inmortalizado",
+            "titulo": "\"Sólo hay un capitán\": el grito de los tifosi para despedir a Baresi",
+            "link": "https://www.marca.com/futbol/2026/08/04/hay-capitan-emocionante-homenaje-milanismo-ultimo-adios-franco-baresi.html",
+            "resumen": "Este martes se ofició el funeral del mítico futbolista rossonero en la&nbsp;Basílica de San Ambrosio",
             "fuente": "Marca"
           }
         ]
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "August 3, 2026",
-    "generada": "12:48",
+    "fecha": "August 4, 2026",
+    "generada": "11:53",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Iran denies Trump's claim that new talks will begin on Monday",
-            "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-            "resumen": "While Iran denies that talks with the US are taking place, it is currently in negotiations with Oman over Strait of Hormuz access.",
+            "titulo": "More than 150 migrants rescued after boat catches fire in Channel",
+            "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
-            "link": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
-            "resumen": "People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospects Four days ago, Youssef El Abbas saw an opportunity to reclaim the life he had lost seven years earlier. News was circulating…",
+            "titulo": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
+            "link": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
+            "resumen": "European Commission president says work needed in five areas of migration control including returning more people The president of the European Commission has called for action to strengthen Europe’s borders after tens of thousands of…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Spain’s Leader Is Seen as Soft on Migrants, but He Acted Fast on Ceuta",
-            "link": "https://www.nytimes.com/2026/08/03/world/europe/spain-ceuta-migrants-sanchez.html",
-            "resumen": "After thousands poured into the Spanish territory in North Africa, the pro-immigration policies of Prime Minister Pedro Sánchez were blamed. The reality is more complex.",
+            "titulo": "Russia Turns Ukraine’s Gas Stations From Social Hubs Into Deadly Targets",
+            "link": "https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html",
+            "resumen": "Drone attacks have hit hundreds of gas stations in apparent retaliation for Ukraine’s attacks on Russian oil refineries.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-            "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-            "resumen": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+            "titulo": "Ukraine strikes more Wildberries sites as five killed in Moscow region",
+            "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
-            "link": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
-            "resumen": "Activists in the region say politicians regard LGBTQ+ people as ‘the easiest scapegoats to maintain their power’ A growing number of west African countries are implementing or strengthening anti-LGBTQ+ laws, amid local political pressures…",
+            "titulo": "How Ceuta migrant crisis exposes divisions within Europe - The Latest",
+            "link": "https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest",
+            "resumen": "Dozens of people died attempting to reach the Spanish enclave of Ceuta after an estimated 50,000 crossed from Morocco last week. The incident has led to a political crisis in Spain and criticism from EU countries. Lucy Hough speaks to the…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,9 +189,9 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
-            "link": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
+            "titulo": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
+            "link": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Higher oil prices boost the energy giant's results while environmental groups accuse it of profiteering.",
             "fuente": "BBC"
           },
           {
@@ -201,21 +201,21 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Trump’s ‘Perimeter of a Deal’ Rallies the Market",
-            "link": "https://www.nytimes.com/2026/08/03/business/dealbook/trump-iran-deal-oil-market.html",
-            "resumen": "Bullish investors are out in force on Monday despite more mixed messages about potential U.S.-Iran peace talks.",
+            "titulo": "Why Wall Street Is Feeling So Bullish",
+            "link": "https://www.nytimes.com/2026/08/04/business/dealbook/wall-street-bullish-stocks.html",
+            "resumen": "Booming corporate profits are driving the S&P 500 near another record, dampening concerns about the war, inflation and more.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "US and Japan take action to prop up yen in rare joint move",
-            "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+            "titulo": "Apple issues new challenge against UK order for access to private user data",
+            "link": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss",
+            "resumen": "It is the latest development in the ongoing dispute between Apple and the Home Office over data privacy.",
             "fuente": "BBC"
           },
           {
             "titulo": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes",
             "link": "https://www.theguardian.com/business/2026/aug/03/oil-prices-fall-europe-stock-markets-donald-trump-iran-us-brent-crude",
-            "resumen": "Brent crude drops by 5% after US president claimed talks on Middle East peace deal would resume Business live – latest updates Crude oil prices fell sharply while stocks and government bonds rallied on Monday after Donald Trump cancelled…",
+            "resumen": "Brent crude drops by 5% after US president claimed talks on Middle East peace deal would resume Crude oil prices fell sharply while stocks and government bonds rallied on Monday after Donald Trump cancelled planned strikes on Iran and…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "'You can't describe the loss' - the reality of bovine TB on farmers",
-            "link": "https://www.bbc.co.uk/news/articles/c982m8p74lvo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Wildlife intervention proposals are controversial but farmers say they are needed to reduce bTB.",
+            "titulo": "What will happen when a SpaceX rocket collides with the Moon?",
+            "link": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Artists, writers and scientists urge UK government to save Jodrell Bank Observatory",
-            "link": "https://www.theguardian.com/science/2026/aug/03/jodrell-bank-observatory-artists-writers-scientists-letter",
-            "resumen": "New Order and Simon Armitage among more than 100 signatories to criticise ‘foolish and shortsighted’ cuts More than 100 artists, writers and scientists have called for the UK government to save the “world’s clearest eyes on the sky”,…",
+            "titulo": "Children using social media at younger age appear to do worse in school tests",
+            "link": "https://www.theguardian.com/science/2026/aug/03/children-using-social-media-younger-age-worse-school-tests",
+            "resumen": "Pupils who open accounts aged 11 to 12 score lower in some subjects than those who wait a few years, study finds Children who open social media accounts at the start of secondary school appear to perform worse in tests than those who…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Archaeologists Find Hundreds of Ancient Glyphs in the Amazon",
-            "link": "https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html",
-            "resumen": "The geometric earthwork structures, carved into the ground with embankments and ditches, are in some cases more than 2,500 years old, researchers said.",
+            "titulo": "Meet the Bee Vet, Now Making Hive Calls",
+            "link": "https://www.nytimes.com/2026/08/03/science/honeybees-veterinary-medicine.html",
+            "resumen": "Veterinarians are gingerly embracing the honeybee, a vital pollinator for agriculture but one that’s in increasing danger.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Italy putting nearly all major cities on highest heat alert",
-            "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
+            "titulo": "Rhine falls to record low levels as drought strains Europe's rivers",
+            "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
             "fuente": "BBC"
           },
           {
-            "titulo": "‘They are such neat, busy little folk’: the unexpected superpowers of the common woodlouse",
-            "link": "https://www.theguardian.com/environment/2026/aug/03/common-woodlouse-invertebrate-of-the-year",
-            "resumen": "This detritivore – known by a range of colourful names – tidies up our world and can withstand toxic pollution Revealed: the top 10 invertebrates of the year Chucky pig. Slater. Monkey pea. Roly-poly. Boat-builder. Butchy boy. Cheeselog.…",
+            "titulo": "The fight to save a historic English landscape - podcast",
+            "link": "https://www.theguardian.com/science/audio/2026/aug/04/wildlife-trusts-fight-to-save-historic-english-landscape-podcast",
+            "resumen": "Madeleine Finlay travels to the Rothbury estate in Northumberland, in north-east England. It’s a piece of land that has been in the same family for 700 years, but now it has been put up for sale and the UK’s Wildlife Trusts are trying to…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "English FA set to join Welsh in withdrawing support for Infantino",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The English Football Association is set to write to Fifa president Gianni Infantino withdrawing its support amid the fallout from his scrapped plans to sell off stakes in Fifa competitions to private investors.",
+            "titulo": "Fifa private money plan had to be scrapped - Wenger",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Fifa's chief of global football development Arsene Wenger says the decision to scrap the plan to have private investment in Fifa competitions was \"absolutely necessary\".",
             "fuente": "BBC"
           },
           {
-            "titulo": "Pressure on Gianni Infantino increases as Uefa members prepare to oppose re-election",
-            "link": "https://www.theguardian.com/football/2026/aug/02/gianni-infantino-fifa-president-pressure-uefa-members-prepare-oppose-re-election",
-            "resumen": "Nations to withdraw letters of support for Fifa president Appetite to ensure Infantino quickly removed from post European countries are planning to increase the pressure on Gianni Infantino with a mass withdrawal of letters supporting his…",
+            "titulo": "Mauricio Pochettino’s US return is risky, expensive and probably unnecessary | Leander Schaerlaeckens",
+            "link": "https://www.theguardian.com/football/2026/aug/03/mauricio-pochettino-usmnt-return",
+            "resumen": "In giving the head coach another World Cup cycle, US Soccer is tempting fate for negligible benefit Mauricio Pochettino and US Soccer enjoyed their time together. Or, rather, they enshoyed it, as Pochettino would pronounce it in his thick…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Liverpool ship four second-half goals to leave Iraola with much to ponder",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cr7k03gy028o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Liverpool conclude their pre-season US tour with a 4-2 defeat against Leeds, having held a two-goal half-time lead in Chicago.",
+            "titulo": "Arsenal in talks to sign Newcastle's Guimaraes",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckg9k2yvywxo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Arsenal open direct talks with Newcastle United to sign captain Bruno Guimaraes.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Sophie Cunningham isn’t rejecting politics. She’s cashing in on them",
-            "link": "https://www.theguardian.com/sport/2026/aug/02/sophie-cunningham-politics-wnba-culture-war-comment",
-            "resumen": "Conservatives once demanded sports stay apolitical. Now they’ve embraced a new culture-war politics, and Sophie Cunningham has become one of its most valuable stars Invoking a wounded innocence that their desire for sports to be simple,…",
+            "titulo": "LAFC co-managing owner Larry Berg voted as next MLS commissioner",
+            "link": "https://www.theguardian.com/football/2026/aug/03/larry-berg-mls-commissioner-vote",
+            "resumen": "Berg is a senior partner at private equity firm 26North Commissioner will take over on 1 January 2027 The Major League Soccer board of governors has voted to install Los Angeles FC co-managing owner Larry Berg as the league’s next…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Celtic drawn against LASK as other Scottish sides discover opponents",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cddjm88m4vno?at_medium=RSS&at_campaign=rss",
-            "resumen": "Celtic will play against Austrian champions LASK in the Champions League play-off round as four other Scottish sides discover potential Europa League and Conference League opponents",
+            "titulo": "Stokes would love to coach England in future",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cgljg1ezyr9o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Ben Stokes says he would love to become England head coach in the future, as he expresses concerns about the toll captaincy could take on Joe Root.",
             "fuente": "BBC"
           }
         ]
