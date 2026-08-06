@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "5 de agosto de 2026",
-  "generada": "11:49",
+  "fecha": "6 de agosto de 2026",
+  "generada": "11:55",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Javier Milei celebró la llegada del Papa León XIV a la Argentina: \"Es un acontecimiento de enorme trascendencia espiritual e institucional para el país\"",
-          "link": "https://www.clarin.com/politica/javier-milei-celebro-llegada-papa-leon-xiv-argentina-acontecimiento-trascendencia-espiritual-institucional-pais_0_5S4NDHx023.html",
-          "resumen": "La Oficina del Presidente emitió un comunicado en el que asegura que garantizó todas las condiciones de seguridad y logística para la llegada del Sumo Pontífice.",
+          "titulo": "Reunión en el Congreso y \"retiro ideológico\": en medio de la crisis con Brasil, referentes de Bolsonaro se juntan con diputados de Milei",
+          "link": "https://www.clarin.com/politica/reunion-congreso-retiro-ideologico-medio-crisis-brasil-referentes-bolsonaro-juntan-diputados-milei_0_7XhtOfRTQY.html",
+          "resumen": "Participan del Foro Alberdiano Internacional que organiza Sebastián Pareja. Suscribirán un documento y participan de un encuentro en Mercedes. Asisten Martín Menem y Lilia Lemoine y diputados de 10 países. Quirno confirmó la organización…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Jorge García Cuerva: “La visita de León XIV es un desafío; se vienen meses de mucho trabajo”",
-          "link": "https://www.lanacion.com.ar/politica/jorge-garcia-cuerva-la-visita-de-leon-xiv-es-un-desafio-se-vienen-meses-de-mucho-trabajo-nid05082026/",
-          "resumen": "El arzobispo porteño contó cómo organizan la logística para la llegada del líder de la Iglesia y remarcó su importancia",
+          "titulo": "Ley de propiedad privada en el Senado, EN VIVO: se debate el proyecto de Milei, minuto a minuto",
+          "link": "https://www.lanacion.com.ar/politica/ley-de-propiedad-privada-en-el-senado-en-vivo-se-debate-el-proyecto-de-milei-minuto-a-minuto-nid06082026/",
+          "resumen": "El oficialismo busca aprobar el proyecto en la Cámara alta en una jornada de alta tensión política; se prevé una gran movilización en las inmediaciones del Congreso",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: \"Una alegría enorme\", la reacción del Gobierno a la confirmación de la visita de León XIV al país",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-alegria-enorme-reaccion-gobierno-confirmacion-visita-leon-xiv-pais_0_LJ51BuOzNR.html",
-          "resumen": "El canciller Pablo Quirno publicó un mensaje en redes tras la confirmación del viaje del Papa a la Argentina el 8 de noviembre. Todas las novedades del Gobierno, minuto a minuto.",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "Milei, sobre el viaje del papa León XIV: “Una visita histórica para todos los argentinos”",
-          "link": "https://www.lanacion.com.ar/politica/milei-sobre-el-viaje-del-papa-leon-xiv-una-visita-historica-para-todos-los-argentinos-nid05082026/",
-          "resumen": "El Presidente compartió la noticia luego de que fuera confirmada por el Vaticano; el Sumo Pontífice pasará tres días en el país",
-          "fuente": "La Nación"
-        },
-        {
-          "titulo": "Sin unidad ni elecciones: aumentan los conflictos en los PJ de Salta y Jujuy y el peronismo se divide",
-          "link": "https://www.infobae.com/politica/2026/08/05/sin-unidad-ni-elecciones-aumentan-los-conflictos-en-los-pj-de-salta-y-jujuy-y-el-peronismo-se-divide/",
-          "resumen": "El gobernador Gustavo Sáenz se quedó con el control del partido en la provincia. El candidato de Carolina Moisés se mantuvo en pie luego de que la junta electoral bajara la lista opositora. Divisiones marcadas",
+          "titulo": "Marcha contra la ley de propiedad privada en Congreso, en vivo: la protesta se mantendrá pese a la tormenta",
+          "link": "https://www.infobae.com/sociedad/2026/08/06/marcha-contra-la-ley-de-propiedad-privada-en-congreso-en-vivo-ultimas-noticias-noticias-de-hoy-6-de-agosto/",
+          "resumen": "Pese al retiro del capítulo que trataba las modificaciones a la Ley de Tierras, hay una convocatoria vigente contra el proyecto de “Ley de Inviolabilidad de la Propiedad Privada”",
           "fuente": "Infobae"
+        },
+        {
+          "titulo": "Guerra de los canales de noticias: debutó +Perfil y TN amplió su liderazgo, mientras A24 se acercó a C5N",
+          "link": "https://www.clarin.com/politica/guerra-canales-noticias-debuto-perfil-tn-amplio-liderazgo-a24-acerco-c5n_0_PbOjRa2IlU.html",
+          "resumen": "El nuevo canal de Editorial Perfil comenzó con una programación encabezada por Longobardi, Fontevecchia y Caruso, además de cinco \"tertulias\" de periodistas. TN creció en julio, A24 redujo casi a la mitad la diferencia con C5N, LN+ siguió…",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
+          "link": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+          "resumen": "Los comicios del año próximo definirán los principales cargos del Poder Ejecutivo y la renovación de bancas en el Congreso; qué se elige según la jurisdicción",
+          "fuente": "La Nación"
         }
       ]
     },
@@ -42,34 +42,34 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Euro hoy en Venezuela: precio y cotización de la divisa este miércoles 5 de agosto de 2026",
-          "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-miercoles-5-de-agosto-de-2026_0_sJ1SOm3q7a.html",
-          "resumen": "Mirá la cotización del euro en Venezuela, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 6 de agosto, minuto a minuto",
+          "link": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-jueves-6-agosto-minuto-minuto_0_MJO7OEpYWD.html",
+          "resumen": "Seguí los cambios de las cotizaciones del dólar este jueves 6 de agosto, minuto a minuto.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 5 de agosto de 2026",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid05082026/",
-          "resumen": "La divisa oficial se vende a $1515; en tanto, el dólar blue cotiza a $1545 para esa operación; qué pasa con el MEP y el CC",
+          "titulo": "Cuáles son los tres signos con “menos suerte” en agosto de 2026 en la Argentina, según la inteligencia artificial",
+          "link": "https://www.lanacion.com.ar/tecnologia/cuales-son-los-tres-signos-con-menos-suerte-en-agosto-de-2026-en-la-argentina-segun-la-inteligencia-nid04082026/",
+          "resumen": "La herramienta tecnológica se adentró en el terreno de la astrología e identificó conductas para dar un veredicto",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Quién es Joyce Wong, la nueva auditora de las cuentas de Argentina para el FMI",
-          "link": "https://www.ambito.com/economia/quien-es-joyce-wong-la-nueva-auditora-las-cuentas-argentina-el-fmi-n6307119",
-          "resumen": "La economista portuguesa reemplazó a Bikas Joshi. No será su primer contacto con el país: en 2018 integró el equipo que supervisó las metas del acuerdo firmado con el gobierno de Mauricio Macri.",
+          "titulo": "La UIA celebra la visita de León XIV y reivindica la figura de Enrique Shaw, el futuro primer beato empresario",
+          "link": "https://www.ambito.com/economia/la-uia-celebra-la-visita-leon-xiv-y-reivindica-la-figura-enrique-shaw-el-futuro-primer-beato-empresario-n6307531",
+          "resumen": "El Papa tuvo un gesto con la central empresaria al enviar un mensaje con motivo de la 31 Conferencia Industrial. Shaw impulsó desde la UIA el régimen de asignaciones familiares.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Ley de semillas: tras meses de negociaciones, el Gobierno, la industria y los ruralistas ven más cerca un acuerdo",
-          "link": "https://www.lanacion.com.ar/economia/campo/ley-de-semillas-tras-meses-de-negociaciones-el-gobierno-la-industria-y-los-ruralistas-ven-mas-cerca-nid04082026/",
-          "resumen": "En un panel realizado en el Congreso de Aapresid, representantes del Gobierno, las semilleras y las entidades de productores coincidieron en que las posiciones se aproximaron para actualizar la normativa vigente desde 1973; persisten…",
+          "titulo": "Euro hoy en Uruguay: precio y cotización de la divisa este jueves 6 de agosto de 2026",
+          "link": "https://www.clarin.com/economia/euro-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-jueves-6-de-agosto-de-2026_0_pc7pkne0EI.html",
+          "resumen": "Mirá la cotización del euro en Uruguay, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Calendario Anses: cuándo cobro la AUH en agosto 2026 si mi DNI termina en 2",
+          "link": "https://www.lanacion.com.ar/economia/calendario-anses-cuando-cobro-la-auh-en-agosto-2026-si-mi-dni-termina-en-2-nid06082026/",
+          "resumen": "El calendario de pagos de la Anses para el octavo mes del año incluye la fecha de cobro de los beneficiarios de la Asignación Universal por Hijo con documento finalizado en 2",
           "fuente": "La Nación"
-        },
-        {
-          "titulo": "Se interrumpió la baja de pobreza: llegó al 30% de la población y sumó 600.000 personas en el primer trimestre",
-          "link": "https://www.ambito.com/economia/se-interrumpio-la-baja-pobreza-alcanzo-al-30-la-poblacion-y-sumo-600000-personas-n6307050",
-          "resumen": "La baja de la pobreza que empezó tras la devaluación de 2023 se interrumpió, en medio de un mercado laboral altamente precarizado y la desaceleración de la mejora de ingresos. Uno de cada cinco trabajadores es pobre.",
-          "fuente": "Ámbito"
         }
       ]
     },
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "El papa León XIV visitará la Argentina en noviembre: estará en Buenos Aires, Córdoba y Luján",
-          "link": "https://www.clarin.com/mundo/confirman-visita-argentina-papa-leon-xiv_0_UAKsykfzBr.html",
-          "resumen": "La visita fue confirmada esta mañana por el director de la Sala de Prensa de Santa Sede, Matteo Bruni. Llegará al país el domingo 8 de noviembre y estará hasta el miércoles 11. Es parte de una gira que incluye a Uruguay y Perú. Es primera…",
+          "titulo": "El entramado de las \"viudas negras\" de Rusia: la oscura estafa de matrimonios exprés para cobrar compensaciones de militares caídos",
+          "link": "https://www.clarin.com/mundo/entramado-viudas-negras-rusia-oscura-estafa-matrimonios-expres-cobrar-compensaciones-militares-caidos_0_L5o9KyqWQF.html",
+          "resumen": "Aprovechando la guerra contra Ucrania, mujeres rusas se casan con soldados para cobrar la indemnización que brinda el Estado. En algunos casos, el pago llega a ser de más de 100 mil dólares. Se denunciaron redes diseñadas para engañar a…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "¿Tendríamos que hacer permanente el horario de verano?",
-          "link": "https://www.clarin.com/mundo/hacer-permanente-horario-verano_0_Tymf4ZjkbN.html",
-          "resumen": "Contar con más luz al final del día tiene su precio: amaneceres mucho más tardíos durante el invierno en gran parte de Estados Unidos. Diferentes integrantes del ámbito científico han documentado las consecuencias del caso para la salud…",
+          "titulo": "Alerta en Perú por un incendio forestal en Machu Picchu que afecta el servicio de trenes hacia el santuario",
+          "link": "https://www.clarin.com/mundo/alerta-peru-incendio-forestal-machu-picchu-afecta-servicio-trenes-santuario_0_9l8YEY2m4i.html",
+          "resumen": "El fuego ya afectó a 1,5 hectáreas de bosque primario. La empresa Perú Rail confirmó que el martes algunas frecuencias de trenes no operaron.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Quién fue el único Papa que visitó la Argentina: de su viaje en colectivo a la recorrida de diez ciudades en 6 días",
-          "link": "https://www.lanacion.com.ar/el-mundo/quien-fue-el-unico-papa-que-visito-la-argentina-de-su-viaje-en-colectivo-a-la-recorrida-de-diez-nid05082026/",
-          "resumen": "San Juan Pablo II vino al país en dos oportunidades: la primera vez en 1982 y estuvo 31 horas, y la segunda en 1987; León XIV será el segundo sumo pontífice en pisar el país",
+          "titulo": "Recuperaron el cuerpo de Nirmal Purja en Pakistán: “Ahora puede emprender su viaje final de regreso a casa”",
+          "link": "https://www.lanacion.com.ar/el-mundo/recuperaron-el-cuerpo-de-nirmal-purja-en-pakistan-ahora-puede-emprender-su-viaje-final-de-regreso-a-nid05082026/",
+          "resumen": "Desde la agencia que organizó la expedición aseguraron que ya recuperaron el cuerpo del famoso alpinista tras una misión “extremadamente difícil”; a su vez, confirmaron que aún hay tres cuerpos desaparecidos",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Detienen a un hombre armado en un campo de golf de Trump en Estados Unidos",
-          "link": "https://www.clarin.com/mundo/detienen-hombre-armado-campo-golf-trump-estados-unidos_0_8BzabVezHz.html",
-          "resumen": "El presidente estadounidense viajó este martes al club donde ocurrió el incidente con el fin de participar de una cena de recaudación de fondos para el Comité Nacional Republicano. El sospechoso, identificado como Jeanine John Taele, fue…",
+          "titulo": "Investigan un incidente entre un avión comercial y el helicóptero de Donald Trump en el cielo de Washington",
+          "link": "https://www.clarin.com/mundo/investigan-incidente-avion-comercial-helicoptero-donald-trump-cielo-washington_0_DDVolmRYZA.html",
+          "resumen": "El Marine One despegó de la Casa Blanca llevando al presidente de Estados Unidos. El vuelo de la subsidiaria de American Airlines partió del aeropuerto Ronald Reagan. Pasaron a menos de una milla de distancia, según los reportes.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La familia de Cristiano Ronaldo compró tres lotes en Brasil: así es el condominio con playa artificial y canales navegables que adquirieron",
-          "link": "https://www.lanacion.com.ar/el-mundo/la-familia-de-cristiano-ronaldo-compro-tres-lotes-en-brasil-asi-es-el-condominio-con-playa-nid04082026/",
-          "resumen": "La madre y la hermana del futbolista portugués compraron terrenos en un exclusivo desarrollo inmobiliario de Rio Grande do Sul que contará con exclusivas comodidades; los detalles",
+          "titulo": "Luca Parmitano, piloto de la misión Artemis III al ser presentado: “Espero tener algo italiano en el menú”",
+          "link": "https://www.lanacion.com.ar/el-mundo/luca-parmitano-piloto-de-la-mision-artemis-iii-al-ser-presentado-espero-tener-algo-italiano-en-el-nid06082026/",
+          "resumen": "El astronauta de la Agencia Espacial Europea es uno de los cuatro integrantes de la nueva delegación; bromeó con la posibilidad de llevar comida de su país al espacio",
           "fuente": "La Nación"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Boca se pone al día vs Estudiantes de La Plata, sin Muslera, y busca su primera victoria en el Torneo Clausura: hora y formaciones",
-          "link": "https://www.clarin.com/deportes/boca-pone-dia-vs-estudiantes-plata-muslera-busca-primera-victoria-torneo-clausura-hora-formaciones_0_Wi2oF22TWn.html",
-          "resumen": "Arruabarrena tendrá los mismos citados por tercer encuentro consecutivo en el torneo local. Quién es el árbitro y cómo ver en vivo por TV.",
+          "titulo": "La tajante respuesta de Lionel Messi sobre los rumores de la salida de su hijo Thiago del Inter Miami a La Masía de Barcelona",
+          "link": "https://www.clarin.com/deportes/tajante-respuesta-lionel-messi-rumores-salida-hijo-thiago-inter-miami-masia-barcelona_0_tbhD8DmiKp.html",
+          "resumen": "Las redes sociales instalaron en las últimas horas que el hijo mayor del capitán argentino dejaría las inferiores de Inter Miami para incorporarse a La Masía. Antes del debut frente a Atlético San Luis por la Leagues Cup, Leo fue…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Ferrari activó en la pista y en los papeles a Hamilton y a Leclerc, pero hunde a la promesa que debutó de apuro en 2024",
-          "link": "https://www.lanacion.com.ar/deportes/automovilismo/ferrari-activo-en-la-pista-y-en-los-papeles-a-hamilton-y-a-leclerc-pero-hunde-a-la-promesa-que-nid05082026/",
-          "resumen": "El presente de la Scuderia y de sus pilotos no ofrece espacio a Oliver Bearman, actualmente en Haas y un proyecto que forjó la casa de Maranello",
+          "titulo": "Lautaro Martínez y Agustina Gandolfo compartieron sus vacaciones con un famoso extenista: “¡Qué equipo!”",
+          "link": "https://www.lanacion.com.ar/deportes/lautaro-martinez-y-agustina-gandolfo-compartieron-sus-vacaciones-con-un-famoso-extenista-que-equipo-nid06082026/",
+          "resumen": "A través de sus redes sociales, la influencer mendocina publicó una postal del atardecer que su familia disfrutó con la de un exdeportista argentino",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Molina, cada vez más cerca de la Roma",
-          "link": "https://www.ole.com.ar/futbol-internacional/italia/molina-roma-transferencia-atletico-oferta-negociaciones_0_Epe3N5nSxS.html",
-          "resumen": "El lateral de la Selección Argentina está a un paso de mudarse a la capital italiana luego de que La Loba aumentara su oferta. Los detalles.",
+          "titulo": "Cacique Medina, tras la derrota ante Boca: \"Este partido fue el más flojo de los tres\" y la ausencia de Muslera",
+          "link": "https://www.ole.com.ar/estudiantes/cacique-medina-derrota-boca-declaraciones-estudiantes-clausura_0_vonE8NpZLe.html",
+          "resumen": "El DT de Estudiantes habló luego de la caída 1-0 frente al Xeneize en Parque Patricios.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Todos contra Infantino: el presidente de la FIFA junta fuerzas en Marruecos, las sedes del Mundial 2026 reclaman y una cumbre puede definir su futuro",
-          "link": "https://www.clarin.com/deportes/infantino-presidente-fifa-junta-fuerzas-marruecos-sedes-mundial-2026-reclaman-cumbre-puede-definir-futuro_0_vyZVbtGSNv.html",
-          "resumen": "El suizo reaparecerá este miércoles en Rabat, en una reunión de emergencia. La UEFA, en tanto, planea dar un golpe en la mesa el próximo 12 de agosto.",
+          "titulo": "El container de River, bajo la lupa: el millonario ahorro por los borrados, los que se fueron de Cantilo y los que todavía esperan resolver su futuro",
+          "link": "https://www.clarin.com/deportes/container-river-lupa-millonario-ahorro-borrados-cantilo-todavia-esperan-resolver-futuro_0_oqcZskhOiU.html",
+          "resumen": "Es el lugar donde la dirigencia decidió enviar a entrenar a los 14 jugadores separados del plantel y que, al no haber vestuarios terminados, tuvieron que cambiarse en uno de los contenedores del predio. Esa maniobra explica por qué pudo…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El mundo contra Infantino: la mayor obra de autodestrucción después de “cortarse solo”",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/el-mundo-contra-infantino-la-mayor-obra-de-autodestruccion-despues-de-cortarse-solo-nid05082026/",
-          "resumen": "El presidente de la FIFA, muy complicado después de intentar vender la comercialización de los mundiales",
+          "titulo": "Partidos de hoy, jueves 6 de agosto: horario y por dónde ver en vivo online",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/partidos-de-hoy-jueves-6-de-agosto-horario-y-por-donde-ver-en-vivo-online-nid06082026/",
+          "resumen": "En la agenda del día se destaca el cierre de la segunda fecha del Torneo Clausura y la continuidad de la Leagues Cup; también hay acción en el Viejo Continente",
           "fuente": "La Nación"
         }
       ]

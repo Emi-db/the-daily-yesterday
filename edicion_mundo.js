@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "5 de agosto de 2026",
-    "generada": "11:49",
+    "fecha": "6 de agosto de 2026",
+    "generada": "11:55",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "\"Ver a los niños abrazar a sus peluches te da un respiro, una alegría\": los venezolanos que asisten a las víctimas del doble terremoto con sus propios recursos",
-            "link": "https://www.bbc.com/mundo/articles/cpvw14lvm79o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Restaurar juguetes, repartir almuerzos en hospitales, reciclar ropa o fabricar bolsas mortuorias son algunas de las tareas que emprendieron voluntarios para aliviar los efectos de la devastación.",
+            "titulo": "Los graves efectos que los científicos temen en América Latina por el fenómeno del \"Súper El Niño\"",
+            "link": "https://www.bbc.com/mundo/articles/crrvepyp5g2o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Un parte importante de la región experimentará un clima más extremo, como olas de calor, sequía o lluvias torrenciales, por el fenómeno de El Niño, que se pronostica \"muy fuerte\" este año.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Estados Unidos y Brasil escenifican un duelo diplomático entre gigantes",
-            "link": "https://elpais.com/america/2026-08-05/estados-unidos-y-brasil-escenifican-un-duelo-diplomatico-entre-gigantes.html",
-            "resumen": "El Gobierno de Lula acusa a la Administración de Trump de mentir y de buscar interferir en las elecciones presidenciales de octubre. Washington cancela el visado de la embajadora brasileña",
+            "titulo": "Irán insiste en mantener el control del estrecho de Ormuz mientras Trump amenaza con abrirlo por la fuerza",
+            "link": "https://elpais.com/internacional/2026-08-05/iran-insiste-en-mantener-el-control-del-estrecho-de-ormuz-mientras-trump-amenaza-con-abrirlo-por-la-fuerza.html",
+            "resumen": "Teherán propone a Omán un sistema que le atribuiría la supervisión del tráfico y el cobro de tasas vinculadas a cuestiones de seguridad y el medio ambiente",
             "fuente": "El País"
           },
           {
-            "titulo": "Bolivia: Santa Cruz enfrenta ola de violencia por disputas entre grupos criminales brasileños",
-            "link": "https://www.france24.com/es/video/20260805-bolivia-santa-cruz-enfrenta-ola-de-violencia-por-disputas-entre-grupos-criminales-brasile%C3%B1os",
-            "resumen": "La región de Santa Cruz vive una escalada de violencia ligada a las facciones brasileñas PCC y Comando Vermelho. La disputa busca controlar rutas de tráfico de cocaína hacia el exterior. El Gobierno boliviano desplegó 250 policías en San…",
+            "titulo": "¿Negligencia del ICE? Qué se sabe de la muerte de un migrante salvadoreño en un centro de detención",
+            "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260806-negligencia-del-ice-qu%C3%A9-se-sabe-de-la-muerte-de-un-migrante-salvadore%C3%B1o-en-un-centro-de-detenci%C3%B3n",
+            "resumen": "Edwin López Cornejo estaba recluido en Delaney Hall cuando fue declarado muerto. La agencia gubernamental migratoria ICE la catalogó como una emergencia médica. Por su parte, la familia -que pidió una investigación externa- afirmó que el…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Las nuevas barreras terrestres que Israel construye en Gaza y obligan a más familias a desplazarse",
-            "link": "https://www.bbc.com/mundo/articles/c9d8g33237jo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Expertos han declarado a la BBC que los movimientos de tierra sugieren que Israel está planeando establecer una frontera interna a largo plazo en la Franja de Gaza.",
+            "titulo": "Las insólitas tensiones de EE.UU. y Argentina con el Brasil de Lula a dos meses de las elecciones presidenciales",
+            "link": "https://www.bbc.com/mundo/articles/cwyeww0yxy5o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Los roces diplomáticos, las críticas políticas y los gestos de recelo de Trump y Milei hacia el presidente brasileño abren interrogantes sobre sus posibles efectos políticos en unos comicios clave para la región.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Brasil retira a su embajador en Argentina en rechazo a los insultos de Milei contra Lula",
-            "link": "https://elpais.com/argentina/2026-08-05/brasil-retira-a-su-embajador-en-argentina-en-rechazo-a-los-insultos-de-milei-contra-lula.html",
-            "resumen": "El Gobierno brasileño rebaja la relación diplomática entre las dos mayores economías de la región al nivel de encargados de negocios",
+            "titulo": "La llegada de Burnham como primer ministro da un nuevo impulso a los laboristas en el Reino Unido",
+            "link": "https://elpais.com/internacional/2026-08-06/la-llegada-de-burnham-como-primer-ministro-da-un-nuevo-impulso-a-los-laboristas-en-el-reino-unido.html",
+            "resumen": "El mandatario toma la iniciativa y marca el ritmo de la política británica durante sus dos primeras semanas en el poder",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
+            "titulo": "La aportación clave de la comunidad marroquí en España: “Las remesas son críticas para Marruecos”",
+            "link": "https://elpais.com/economia/2026-08-06/la-aportacion-clave-de-la-comunidad-marroqui-en-espana-las-remesas-son-criticas-para-marruecos.html",
+            "resumen": "El dinero enviado desde España representa más del 1% del PIB del país magrebí, mientras que el procedente de toda la emigración alcanza el 7,5%",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "España roza el máximo histórico de 50 millones por la población extranjera",
+            "link": "https://www.expansion.com/economia/2026/08/06/6a743489468aebcd6a8b458e.html",
+            "resumen": "España añadió 104.178 personas más a sus estadísticas de población en el segundo trimestre de 2026 hasta situarse en un nuevo máximo histórico de 49.801.559 habitantes, con 444.205 personas más que hace un año. De nuevo el impulso de la…",
+            "fuente": "Expansión"
+          },
+          {
+            "titulo": "La UE se suma a la ola proteccionista con varias normas que favorecen a las empresas europeas frente a las de terceros países",
+            "link": "https://elpais.com/economia/2026-08-06/la-ue-se-suma-a-la-ola-proteccionista-con-varias-normas-que-favorecen-a-las-empresas-europeas-frente-a-las-de-terceros-paises.html",
+            "resumen": "Las tensiones geopolíticas acentúan una tendencia mundial que ya empezaron gigantes como Estados Unidos, China o la India",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "BBVA atrae a un millón de jóvenes con ventajas para viajar al extranjero",
+            "link": "https://www.expansion.com/empresas/banca/2026/08/06/6a734604468aeb1d378b45a2.html",
+            "resumen": "El 'Pack Viajes' para menores de 30 años lanzado hace dos años permite ahorrar comisiones en el extranjero. Leer",
+            "fuente": "Expansión"
+          },
+          {
             "titulo": "La Fed autoriza la compra de Webster por el Santander y la operación se cerrará en dos semanas",
             "link": "https://cincodias.elpais.com/companias/2026-08-05/la-fed-autoriza-la-compra-de-webster-por-el-santander-y-la-operacion-se-podria-cerrar-en-dos-semanas.html",
             "resumen": "La entidad española se hará con la estadounidense a cambio de más de 10.000 millones",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Santander acelera la adquisición de Webster tras lograr la autorización de la Fed",
-            "link": "https://www.expansion.com/empresas/banca/2026/08/05/6a72e9b2e5fdeaf6248b4580.html",
-            "resumen": "El banco, que prevé cerrar la compra el 20 de agosto, se compromete a minimizar el impacto del cierre de oficinas. La Fed avala el control antiblanqueo de Santander, cuestionado en algunos comentarios públicos remitidos al supervisor…",
-            "fuente": "Expansión"
-          },
-          {
-            "titulo": "La actividad de la zona euro se anota el mejor registro desde el inicio de la guerra en Irán",
-            "link": "https://cincodias.elpais.com/economia/2026-08-05/la-actividad-de-la-zona-euro-se-anota-el-mejor-registro-desde-el-inicio-de-la-guerra-en-iran.html",
-            "resumen": "El índice PMI global se situó en 52 puntos en julio, dos puntos más que el mes anterior, impulsado por el sector servicios",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Santander ingresa casi 7 millones con el alquiler de sus sedes y del campo de golf",
-            "link": "https://www.expansion.com/empresas/banca/2026/08/05/6a71f726e5fdea8c448b456f.html",
-            "resumen": "El grupo impulsa la \"autofinanciación de gastos\" con el arrendamiento de espacios de sus sedes en España y del campo de golf de la Ciudad Financiera. También negocia la venta de su sede en Brasil a Brookfield. Leer",
-            "fuente": "Expansión"
-          },
-          {
-            "titulo": "La misión imposible de ascender en la Seguridad Social: solo 27 funcionarios aprueban para casi 1.000 plazas de promoción interna",
-            "link": "https://elpais.com/economia/2026-08-05/la-mision-imposible-de-ascender-en-la-seguridad-social-solo-27-funcionarios-aprueban-para-casi-1000-plazas-de-promocion-interna.html",
-            "resumen": "UGT reclama un cambio en el modelo de oposición para quienes ya trabajan en el organismo",
             "fuente": "El País"
           }
         ]
@@ -78,33 +78,33 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "Ana Fernández-Sesma, bióloga: “Hay muchos chulitos que van de antivacunas, pero sí se inmunizan, y se lo callan”",
-            "link": "https://elpais.com/ciencia/2026-08-05/ana-fernandez-sesma-biologa-hay-muchos-chulitos-que-van-de-antivacunas-pero-si-se-inmunizan-y-se-lo-callan.html",
-            "resumen": "La directora de biología del Hospital Monte Sinai de Nueva York reflexiona sobre la próxima pandemia y el desmantelamiento del sistema científico en EE UU",
+            "titulo": "Así chocó contra la Luna el cohete perdido de Elon Musk: una sonda coreana capta el cráter que dejó el accidente",
+            "link": "https://elpais.com/ciencia/2026-08-06/asi-choco-contra-la-luna-el-cohete-perdido-de-elon-musk-una-sonda-coreana-capta-el-crater-que-dejo-el-accidente.html",
+            "resumen": "El impacto del Falcon 9, que ha despertado el interés de las agencias espaciales y los astrónomos aficionados, obliga a repensar el lanzamiento de futuras misiones espaciales",
             "fuente": "El País"
           },
           {
-            "titulo": "Reino Unido eleva la alerta tras descubrir conductas peligrosas de la IA de Anthropic y OpenAI: “Es el primer engaño dirigido a una persona real”",
-            "link": "https://elpais.com/tecnologia/2026-08-05/reino-unido-eleva-la-alerta-tras-descubrir-conductas-peligrosas-en-la-ia-de-anthropic-y-openai-es-el-primer-engano-dirigido-a-una-persona-real.html",
-            "resumen": "El británico Instituto de Seguridad de la IA advierte de que los agentes más avanzados perpetraron actividades prohibidas “potencialmente dañinas dirigidas hacia personas y organizaciones reales” para lograr sus objetivos",
+            "titulo": "Los modelos de IA de OpenAI se comunicaron en un extraño lenguaje antes del hackeo: “Tarea imposible, compañeros lo están haciendo”",
+            "link": "https://elpais.com/tecnologia/2026-08-06/las-ia-de-openai-se-comunicaron-en-un-extrano-lenguaje-antes-del-hackeo-tarea-imposible-companeros-lo-estan-haciendo.html",
+            "resumen": "Meta se suma también a las compañías que han anunciado que su IA atacó otras plataformas",
             "fuente": "El País"
           },
           {
-            "titulo": "Dime cómo es tu siesta y te diré cómo estás de salud: lo que algunas cabezadas revelan sobre el envejecimiento",
-            "link": "https://elpais.com/salud-y-bienestar/2026-08-05/dime-como-es-tu-siesta-y-te-dire-como-estas-de-salud-lo-que-algunas-cabezadas-revelan-sobre-el-envejecimiento.html",
-            "resumen": "El tiempo total de sueño va disminuyendo de forma lineal según envejecemos. Los médicos consideran los reposos matutinos prolongados una señal negativa",
+            "titulo": "El eclipse une la España vaciada con Marruecos para revelar los secretos de la corona solar",
+            "link": "https://elpais.com/ciencia/2026-08-06/el-eclipse-une-la-espana-vaciada-con-marruecos-para-revelar-los-secretos-de-la-corona-solar.html",
+            "resumen": "Palencia impulsará el mayor proyecto de cooperación y ciencia vinculado al gran fenómeno astronómico de este 12 de agosto",
             "fuente": "El País"
           },
           {
-            "titulo": "“Nos vemos allí el 15 de agosto”. Así debaten miles de marroquíes en Facebook y WhatsApp si habrá una nueva entrada masiva a Ceuta",
-            "link": "https://elpais.com/tecnologia/2026-08-04/nos-vemos-alli-el-15-de-agosto-asi-debaten-miles-de-marroquies-en-facebook-y-whatsapp-si-habra-una-nueva-entrada-masiva-a-ceuta.html",
-            "resumen": "En las redes más usadas por la juventud marroquí se cruzan consejos, burlas y peticiones sobre un posible asalto a la frontera en los próximos días",
+            "titulo": "Google nombra científico jefe al premio Nobel Demis Hassabis",
+            "link": "https://elpais.com/tecnologia/2026-08-05/google-nombra-cientifico-jefe-al-premio-nobel-demis-hassabis.html",
+            "resumen": "El científico británico, cofundador de DeepMind, asume un rol más ejecutivo en la tecnológica con el objetivo de impulsar la investigación en IA",
             "fuente": "El País"
           },
           {
-            "titulo": "Los beneficios del “color más feo del mundo”: una década de evidencias avalan el empaquetado genérico del tabaco",
-            "link": "https://elpais.com/sociedad/2026-08-05/los-beneficios-del-color-mas-feo-del-mundo-una-decada-de-evidencias-avalan-el-empaquetado-generico-del-tabaco.html",
-            "resumen": "Veinte países han implantado la medida apoyándose en decenas de estudios e informes, pero en España se mantienen las presiones contra Sanidad",
+            "titulo": "Los hoteles disparan los precios por el eclipse: 900 euros por una noche de hotel en Soria y 500 en Teruel",
+            "link": "https://elpais.com/ciencia/2026-08-06/los-hoteles-disparan-los-precios-por-el-eclipse-900-euros-por-una-noche-de-hotel-en-soria-y-500-en-teruel.html",
+            "resumen": "Un análisis de 5.574 alojamientos en más de 200 municipios muestra cuánto se han encarecido las reservas en la franja de la totalidad",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "El Barça sigue luchando por Julián como fichaje prioritario",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260805/1004213229/barca-tope-fichaje-julian-alvarez.html",
-            "resumen": "El FC Barcelona sigue pensando en Julián Álvarez (26 años) como su gran objetivo de mercado para la actual ventana de transferencias, t al como ya explicó MD ayer , a pesar de la oposición frontal del Atlético de Madrid a vender al…",
+            "titulo": "El Barça, a la expectativa con Rodri: si él lanza una señal irá a por él",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213643/barca-expectativa-rodri-lanza-senal-estudiara.html",
+            "resumen": "El planteamiento del FC Barcelona con Rodrigo Hernández, Rodri , (30 años), medio del Manchester City , es claro: están a la expectativa de si cambia de postura porque hasta ayer le veían enfocado a fichar por el Real Madrid. Y es que la…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "El 1x1 del 'stage' en Saint George's Park",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260805/1004213187/1x1-stage-saint-george-s-park.html",
-            "resumen": "El 'stage' de Saint George's Park dejó una serie de conclusiones para Flick , algunas de las cuales declaró públicamente en sus elogios a algunos de los jugadores del filial. El técnico tiene ahora las ideas muy claras cuando el mercado…",
+            "titulo": "The Athletic: El Barça explora el fichaje de Rodri",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213638/the-athletic-barca-explora-fichaje-rodri.html",
+            "resumen": "Noticia de impacto que puede agitar el mercado. Según informa 'The Athletic', el FC Barcelona estaría estudiando el fichaje de Rodri Hernández (30 años) para reforzar la plantilla. El mediocentro del Manchester City también ha sido…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "August 5, 2026",
-    "generada": "11:49",
+    "fecha": "August 6, 2026",
+    "generada": "11:55",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
-            "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
+            "titulo": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+            "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
             "fuente": "BBC"
           },
           {
-            "titulo": "El Niño could push 50m people into acute hunger before end of next year",
-            "link": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
-            "resumen": "UN forecasters warn of worsening conditions in 45 countries currently experiencing severe food insecurity About 50 million people are likely to be pushed into acute hunger before the end of next year by the rapidly developing El Niño…",
+            "titulo": "‘Morocco feels emboldened’: Trump’s influence in spotlight after Ceuta disaster",
+            "link": "https://www.theguardian.com/world/2026/aug/06/trump-influence-morocco-spotlight-ceuta-border-disaster",
+            "resumen": "Washington-Rabat ties under scrutiny as questions swirl over what led to deadly influx into tiny Spanish territory The cosy relationship between Washington and Rabat has long been flaunted by both sides, from Morocco’s announcement this…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "How the Ukraine War Became a Fight for the Skies",
-            "link": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html",
-            "resumen": "Russia and Ukraine are producing ever larger numbers of innovative aerial weapons, hoping for a breakthrough as ground combat is largely frozen.",
+            "titulo": "Venezuela’s Response to Earthquakes Exposes Government’s Shortcomings",
+            "link": "https://www.nytimes.com/2026/08/06/world/americas/venezuela-earthquakes-response-rodriguez.html",
+            "resumen": "The government turned to the world to respond to twin quakes. But years of shrinking budgets and political repression weakened its ability to rescue countless people trapped in rubble.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Pakistan restricts international media reporting",
-            "link": "https://www.bbc.co.uk/news/articles/cn0n9w95n70o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Anyone working for foreign media, including Pakistanis, will now need permission to report from anywhere outside three major cities.",
+            "titulo": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+            "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
-            "link": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
-            "resumen": "In today’s newsletter: The past week shows how quickly images, rumours and ​right-wing political opportunism can eclipse the facts on the ground Good morning. Last week, an estimated 72,000 migrants began crossing into a tiny Spanish…",
+            "titulo": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
+            "link": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+            "resumen": "State department informs Congress of planned closures in Canada, Grenada, Japan, Indonesia and Cameroon The US state department is to shut five foreign consulates and missions across Asia, Africa, North America and the Caribbean, drawing…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,34 +189,34 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Government to prioritise job creation in awarding public contracts under new rules",
-            "link": "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The changes are part of government efforts to tackle the youth unemployment crisis.",
+            "titulo": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+            "link": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
             "fuente": "BBC"
           },
           {
-            "titulo": "US stock market hits record highs as AI profits pile and oil prices ease",
-            "link": "https://www.theguardian.com/business/2026/aug/04/stock-market-records-ai-profits-oil-prices-ease",
-            "resumen": "S&P 500 shot up 1.8% and the main measure of Wall Street’s health topped its prior all-time high set a few months ago The US stock market rallied to records on Tuesday as profits kept piling up for companies and as oil prices eased. The…",
+            "titulo": "Judge signals Trump’s defamation lawsuit against Wall Street Journal may be dismissed again",
+            "link": "https://www.theguardian.com/media/2026/aug/05/trump-defamation-lawsuit-murdoch-dismissal",
+            "resumen": "Obama-appointed judge seemed unmoved by Trump attorneys’ arguments in case also naming Murdoch A federal judge in Florida seemed skeptical of arguments from Donald Trump ’s legal team on Wednesday over whether the court should allow a…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "The New York Times’ Revenue Rises 11%",
-            "link": "https://www.nytimes.com/2026/08/05/business/media/new-york-times-earnings-q2.html",
-            "resumen": "The company said it added 280,000 digital subscribers in the second quarter.",
+            "titulo": "Follow the Markets and Track Stocks With These Free Apps",
+            "link": "https://www.nytimes.com/2026/08/06/technology/personaltech/finance-stocks-apps.html",
+            "resumen": "Google Finance and Apple’s Stocks app have added new features over the years to make them more useful for tracking the markets and your investments.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Vegetables to get smaller and more expensive due to hot weather, farmers warn",
-            "link": "https://www.bbc.co.uk/news/articles/c4gwv9590xeo?at_medium=RSS&at_campaign=rss",
-            "resumen": "This year's harvest could be the worst on record due to the exceptionally dry spring and summer.",
-            "fuente": "BBC"
+            "titulo": "‘They’re selling the safety of the traveling public’: TSA workers decry Trump privatization push",
+            "link": "https://www.theguardian.com/us-news/2026/aug/05/tsa-trump-privatization-push",
+            "resumen": "Union exploring options to oppose program that would put US airport screening into hands of private contractors The labor union representing workers at the Transportation Security Administration (TSA) is raising alarms over a new program…",
+            "fuente": "The Guardian"
           },
           {
-            "titulo": "David Ellison claims opposition to his mega-merger stems from potential CNN control",
-            "link": "https://www.theguardian.com/business/2026/aug/04/cnn-mega-merger-david-ellison",
-            "resumen": "With $111bn deal to acquire cable network’s parent company stalled in courts, Ellison courts public Speaking out on the lawsuit against the big merger between Paramount Skydance and Warner Bros Discovery (WBD), Paramount ’s CEO, David…",
-            "fuente": "The Guardian"
+            "titulo": "Why So Many C.E.O.s Are Getting a Chief of Staff",
+            "link": "https://www.nytimes.com/2026/08/06/business/ceos-chief-of-staff.html",
+            "resumen": "The position as a trusted sounding board is in high demand as business gets more complex — and everyone wants to get in on the latest bureaucratic fad.",
+            "fuente": "N.Y. Times"
           }
         ]
       },
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
-            "link": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
-            "resumen": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
+            "titulo": "Majority of England's rivers and lakes fail new environmental review",
+            "link": "https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss",
+            "resumen": "A comprehensive assessment of England's waterways is the first in six years and shows little improvement.",
             "fuente": "BBC"
           },
           {
-            "titulo": "SpaceX rocket thought to have crashed into the moon in unintentional collision",
-            "link": "https://www.theguardian.com/science/2026/aug/05/spacex-rocket-moon-crash-impact-falcon-9",
-            "resumen": "Four-tonne piece of SpaceX Falcon 9 rocket believed to have hit lunar surface on Wednesday at 5,400 miles an hour A four-tonne piece of a discarded SpaceX rocket that has been floating in space since last year is believed to have…",
+            "titulo": "‘Spectral lines’ and a giant plume: what science saw when the SpaceX rocket hit the moon",
+            "link": "https://www.theguardian.com/science/2026/aug/06/spacex-rocket-crash-into-moon-impact",
+            "resumen": "Sodium and lithium gas was detected in a plume thought to span tens of kilometres, created when part of a SpaceX rocket crashed into the lunar surface A telescope in Chile has captured evidence of the impact caused by part of a SpaceX…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Video: Dolphin Carries Dead Calf in What Experts Call Mourning",
-            "link": "https://www.nytimes.com/2026/08/04/science/dolphin-mother-dead-calf.html",
-            "resumen": "Footage posted by a conservancy group offers an unusual glimpse of a common behavior by dolphins that often goes unobserved.",
+            "titulo": "Butterflies Take Flight in Face of Climate Change and Extreme Weather",
+            "link": "https://www.nytimes.com/2026/08/05/science/butterflies-climate-change-extreme-weather.html",
+            "resumen": "In 32 of the countries included in a recent study, at least a quarter of the native butterfly species had moved to new areas.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Mysterious elephant deaths in Kenya raise questions around pesticides",
-            "link": "https://www.bbc.co.uk/news/articles/cx27p32jzj2o?at_medium=RSS&at_campaign=rss",
-            "resumen": "A wave of Kenyan elephant deaths has been blamed on pesticides, but experts tell the BBC they are doubtful.",
+            "titulo": "Marmots facing money troubles turn to OnlyFans",
+            "link": "https://www.bbc.co.uk/news/articles/c5ywqp5z5yzo?at_medium=RSS&at_campaign=rss",
+            "resumen": "A Colorado lab researching the ground-squirrels comes up with an innovative way to raise money after funding cuts.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Specieswatch: Wild deer release millions of tonnes of methane a year",
-            "link": "https://www.theguardian.com/environment/2026/aug/05/specieswatch-wild-deer-release-millions-tonnes-methane-annually",
-            "resumen": "Scientists find ruminants emit more of greenhouse gas individually than cows, although total contribution tiny compared with domesticated livestock When cows belch and fart they release methane, which is warming the planet, but how does…",
+            "titulo": "Unprecedented images may explain one of greatest mysteries of the sun",
+            "link": "https://www.theguardian.com/science/2026/aug/05/unprecedented-images-may-explain-one-of-greatest-mysteries-of-the-sun",
+            "resumen": "Highest-ever resolution pictures of our star could help show why its corona is millions of degrees hotter than its surface Golden bands and swirling vortices have been spotted on the sun in the most detailed images ever captured of the…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Key questions as Infantino faces Fifa executives",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c62vd95ljp0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Fifa president Gianni Infantino will face senior leaders of football's world governing body on Wednesday. This is what is expected to happen.",
+            "titulo": "Barcelona? Real Madrid? Man City's Rodri has a decision to make",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cglj6p6n9l8o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Midfielder Rodri may have a huge decision to make this summer on whether to join Real Madrid or Barcelona, should he decide to leave Manchester City.",
             "fuente": "BBC"
           },
           {
-            "titulo": "From media deals to roster rules: five priorities for MLS’s new commissioner",
-            "link": "https://www.theguardian.com/football/2026/aug/05/mls-new-commissioner-larry-berg-priorities",
-            "resumen": "Larry Berg will have plenty of things on his to-do list when he officially starts as the league’s commissioner in January As Larry Berg fielded his first wave of questions as MLS commissioner-elect, he tried to make clear his ambitious…",
+            "titulo": "Game, set, Chat: how tennis players use AI to scout opponents and run their lives",
+            "link": "https://www.theguardian.com/sport/2026/aug/05/ai-chatgpt-robots-tennis-players-scouting-technology",
+            "resumen": "The emergence of GenAI has led to a generational shift with stars conflicted on the impact of technology on their sport Not so long ago, Emma Raducanu was on her phone when she found herself wondering what her comprehensive usage of…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Salah mobbed at airport before Trabzonspor move",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cn8negllz1ko?at_medium=RSS&at_campaign=rss",
-            "resumen": "Turkish club Trabzonspor are set to confirm the signing of Egypt captain and former Liverpool forward Mohamed Salah.",
+            "titulo": "England recall Pope & Lawrence for Pakistan Tests but Bethell out",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/crl7911zk40o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Surrey duo Ollie Pope and Dan Lawrence are recalled to the England squad for the first two Tests against Pakistan.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Fifa accused of using ‘blackmail’ to force support for Infantino’s re-election bid",
-            "link": "https://www.theguardian.com/football/2026/aug/04/arsene-wenger-gianni-infantino-grafstrom-criticise-world-cup-plan-fifa",
-            "resumen": "Jordan FA president says Fifa threatened to block funds Secretary general calls selloff plan ‘sad and reproachable’ The Jordan Football Association president, Prince Ali bin al-Hussein, has accused Gianni Infantino’s administration of…",
+            "titulo": "NWSL sets plans for early start, summer break next season to account for 2027 World Cup",
+            "link": "https://www.theguardian.com/football/2026/aug/05/nwsl-2027-schedule-womens-world-cup",
+            "resumen": "Opening day is 11 February, in line with LA Super Bowl World Cup, MLS shift offer opportunities and challenges League explores options after Victory+ streamer collapse The NWSL on Wednesday revealed the schedule footprint for its 2027…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Transfer 'shark' De Zerbi hopes to drag Spurs up from depths",
-            "link": "https://www.bbc.co.uk/sport/football/articles/crrv2dvgppjo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Through his self-confessed love of the transfer window, Tottenham boss Roberto de Zerbi hopes he can guide his club back up the Premier League table.",
+            "titulo": "Olympic champion curler Muirhead comes out of retirement",
+            "link": "https://www.bbc.co.uk/sport/articles/cwymv01lrn4o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Winter Olympic gold medallist Eve Muirhead revokes her retirement, saying being Team GB's chef de mission at this year's Games has inspired her to return to curling after four years away.",
             "fuente": "BBC"
           }
         ]
