@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "6 de agosto de 2026",
-  "generada": "11:55",
+  "fecha": "7 de agosto de 2026",
+  "generada": "10:40",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Reunión en el Congreso y \"retiro ideológico\": en medio de la crisis con Brasil, referentes de Bolsonaro se juntan con diputados de Milei",
-          "link": "https://www.clarin.com/politica/reunion-congreso-retiro-ideologico-medio-crisis-brasil-referentes-bolsonaro-juntan-diputados-milei_0_7XhtOfRTQY.html",
-          "resumen": "Participan del Foro Alberdiano Internacional que organiza Sebastián Pareja. Suscribirán un documento y participan de un encuentro en Mercedes. Asisten Martín Menem y Lilia Lemoine y diputados de 10 países. Quirno confirmó la organización…",
+          "titulo": "La orden de Karina tras las críticas a Sturzenegger: “Todos los proyectos tienen que pasar por Santilli”",
+          "link": "https://www.clarin.com/politica/orden-karina-criticas-sturzenegger-proyectos-pasar-santilli_0_6mKS4UihTY.html",
+          "resumen": "En el entorno de la hermanísima se quejan de los \"libre pensadores\" que plantean un diálogo directo con el Presidente y advierten que \"no cuidan\" a Milei. Resaltan que el jefe de Gabinete “se ganó la confianza” y apuestan al tándem que…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Ley de propiedad privada en el Senado, EN VIVO: se debate el proyecto de Milei, minuto a minuto",
-          "link": "https://www.lanacion.com.ar/politica/ley-de-propiedad-privada-en-el-senado-en-vivo-se-debate-el-proyecto-de-milei-minuto-a-minuto-nid06082026/",
-          "resumen": "El oficialismo busca aprobar el proyecto en la Cámara alta en una jornada de alta tensión política; se prevé una gran movilización en las inmediaciones del Congreso",
+          "titulo": "Javier Milei y sus medidas, en vivo: la media sanción a la ley de propiedad privada y sus repercusiones",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-media-sancion-a-la-ley-de-propiedad-privada-y-sus-nid07082026/",
+          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Marcha contra la ley de propiedad privada en Congreso, en vivo: la protesta se mantendrá pese a la tormenta",
-          "link": "https://www.infobae.com/sociedad/2026/08/06/marcha-contra-la-ley-de-propiedad-privada-en-congreso-en-vivo-ultimas-noticias-noticias-de-hoy-6-de-agosto/",
-          "resumen": "Pese al retiro del capítulo que trataba las modificaciones a la Ley de Tierras, hay una convocatoria vigente contra el proyecto de “Ley de Inviolabilidad de la Propiedad Privada”",
+          "titulo": "El dilema de Kicillof: cómo es el método para evitar largas filas en una elección concurrente que estudian en la Provincia",
+          "link": "https://www.clarin.com/politica/dilema-kicillof-metodo-evitar-largas-filas-eleccion-concurrente-estudian-provincia_0_Bdh05dLUOI.html",
+          "resumen": "La mayoría de los gobernadores desdoblará su elección pero el mandatario bonaerense aún duda por su posible candidatura presidencial. Los números que explican el caso exitoso en Santiago del Estero y la contracara del caos en la Ciudad en…",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Villarruel defendió la autorización excepcional a Fernández Sagasti para que votara de manera virtual",
+          "link": "https://www.lanacion.com.ar/politica/villarruel-defendio-su-autorizacion-excepcional-a-fernandez-sagasti-para-votar-virtualmente-nid06082026/",
+          "resumen": "La vicepresidenta había firmado un decreto que le permitía a la senadora peronista participar desde Mendoza, con el acuerdo del cuerpo; un planteo de Patricia Bullrich lo impidió",
+          "fuente": "La Nación"
+        },
+        {
+          "titulo": "El Gobierno declaró como organización terrorista a la banda narco ecuatoriana Chone Killers",
+          "link": "https://www.infobae.com/politica/2026/08/07/el-gobierno-declaro-como-orgaizacion-terrorista-a-la-banda-narco-ecuatoriana-chone-killers/",
+          "resumen": "La medida dispuso la incorporación de la banda al Registro Público de Personas y Entidades vinculadas a Actos de Terrorismo y su Financiamiento, lo que habilita sanciones financieras y restricciones operativas contra el grupo en…",
           "fuente": "Infobae"
-        },
-        {
-          "titulo": "Guerra de los canales de noticias: debutó +Perfil y TN amplió su liderazgo, mientras A24 se acercó a C5N",
-          "link": "https://www.clarin.com/politica/guerra-canales-noticias-debuto-perfil-tn-amplio-liderazgo-a24-acerco-c5n_0_PbOjRa2IlU.html",
-          "resumen": "El nuevo canal de Editorial Perfil comenzó con una programación encabezada por Longobardi, Fontevecchia y Caruso, además de cinco \"tertulias\" de periodistas. TN creció en julio, A24 redujo casi a la mitad la diferencia con C5N, LN+ siguió…",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
-          "link": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-          "resumen": "Los comicios del año próximo definirán los principales cargos del Poder Ejecutivo y la renovación de bancas en el Congreso; qué se elige según la jurisdicción",
-          "fuente": "La Nación"
         }
       ]
     },
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 6 de agosto, minuto a minuto",
-          "link": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-jueves-6-agosto-minuto-minuto_0_MJO7OEpYWD.html",
-          "resumen": "Seguí los cambios de las cotizaciones del dólar este jueves 6 de agosto, minuto a minuto.",
+          "titulo": "“Corta la secuencia de fragilidad”: las ventas de maquinaria agrícola saltaron un 45% mensual en julio, con las cosechadoras liderando el rebote",
+          "link": "https://www.clarin.com/rural/corta-secuencia-fragilidad-ventas-maquinaria-agricola-saltaron-45-mensual-julio-cosechadoras-liderando-rebote_0_zBuHR5Slx7.html",
+          "resumen": "Se patentaron 696 unidades, un 16% más que en el mismo mes del año pasado. El mercado de tractores también rebotó, aunque preocupa la \"informalidad\" en el segmento.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Cuáles son los tres signos con “menos suerte” en agosto de 2026 en la Argentina, según la inteligencia artificial",
-          "link": "https://www.lanacion.com.ar/tecnologia/cuales-son-los-tres-signos-con-menos-suerte-en-agosto-de-2026-en-la-argentina-segun-la-inteligencia-nid04082026/",
-          "resumen": "La herramienta tecnológica se adentró en el terreno de la astrología e identificó conductas para dar un veredicto",
+          "titulo": "Mateo Salvatto: “El principal error es incorporar inteligencia artificial sin saber para qué”",
+          "link": "https://www.lanacion.com.ar/economia/campo/mateo-salvatto-el-principal-error-es-incorporar-inteligencia-artificial-sin-saber-para-que-nid07082026/",
+          "resumen": "Durante un panel junto a referentes de Bayer, el emprendedor planteó en Aapresid que las empresas deben empezar por revisar sus procesos antes de decidir qué herramientas tecnológicas utilizar",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La UIA celebra la visita de León XIV y reivindica la figura de Enrique Shaw, el futuro primer beato empresario",
-          "link": "https://www.ambito.com/economia/la-uia-celebra-la-visita-leon-xiv-y-reivindica-la-figura-enrique-shaw-el-futuro-primer-beato-empresario-n6307531",
-          "resumen": "El Papa tuvo un gesto con la central empresaria al enviar un mensaje con motivo de la 31 Conferencia Industrial. Shaw impulsó desde la UIA el régimen de asignaciones familiares.",
+          "titulo": "Ejecutivos de IDEA: el 80% espera una mejora moderada de la economía local",
+          "link": "https://www.ambito.com/economia/ejecutivos-idea-el-80-espera-una-mejora-moderada-la-local-n6308047",
+          "resumen": "El relevamiento, realizado entre 218 directivos de empresas socias de IDEA, muestra una visión positiva para los próximos 12 meses, aunque con una evaluación más cautelosa del último año.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Euro hoy en Uruguay: precio y cotización de la divisa este jueves 6 de agosto de 2026",
-          "link": "https://www.clarin.com/economia/euro-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-jueves-6-de-agosto-de-2026_0_pc7pkne0EI.html",
-          "resumen": "Mirá la cotización del euro en Uruguay, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
+          "titulo": "Acuerdo automotor con Ecuador, que baja de 28% a 10% los aranceles a los vehículos locales",
+          "link": "https://www.clarin.com/economia/acuerdo-automotor-ecuador-baja-28-10-aranceles-vehiculos-locales_0_CaqIWDUnPX.html",
+          "resumen": "Se firmó en Quito, durante el viaje de Milei y el ministro Caputo dijo que permitirá \"duplicar\" las exportaciones en 2027. El arancel para los vehículos híbridos de fabricación local será cero.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Calendario Anses: cuándo cobro la AUH en agosto 2026 si mi DNI termina en 2",
-          "link": "https://www.lanacion.com.ar/economia/calendario-anses-cuando-cobro-la-auh-en-agosto-2026-si-mi-dni-termina-en-2-nid06082026/",
-          "resumen": "El calendario de pagos de la Anses para el octavo mes del año incluye la fecha de cobro de los beneficiarios de la Asignación Universal por Hijo con documento finalizado en 2",
+          "titulo": "Dólar a $1500: Bausili justificó la intervención del Tesoro en el mercado cambiario",
+          "link": "https://www.lanacion.com.ar/economia/dolar-a-us1500-bausili-justifico-la-intervencion-del-tesoro-en-el-mercado-cambiario-nid06082026/",
+          "resumen": "Aventuró que la inflación “seguirá bajando”; afirmó que confía en que en breve se pueda poner en marcha el proceso de remonetización de la economía",
           "fuente": "La Nación"
         }
       ]
@@ -77,34 +77,34 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "El entramado de las \"viudas negras\" de Rusia: la oscura estafa de matrimonios exprés para cobrar compensaciones de militares caídos",
-          "link": "https://www.clarin.com/mundo/entramado-viudas-negras-rusia-oscura-estafa-matrimonios-expres-cobrar-compensaciones-militares-caidos_0_L5o9KyqWQF.html",
-          "resumen": "Aprovechando la guerra contra Ucrania, mujeres rusas se casan con soldados para cobrar la indemnización que brinda el Estado. En algunos casos, el pago llega a ser de más de 100 mil dólares. Se denunciaron redes diseñadas para engañar a…",
+          "titulo": "Panorama Internacional: Donald Trump en Brasil, un jefe de campaña en problemas",
+          "link": "https://www.clarin.com/mundo/panorama-internacional-donald-trump-brasil-jefe-campana-problemas_0_0guiJbcy8V.html",
+          "resumen": "La decisión de EE.UU. de cancelar la visa de la embajadora de Brasil, aparte de la gravedad del hecho, forma parte de una estratégica a favor del candidato opositor Flávio Bolsonaro, que paradójicamente suele favorecer las posibilidades…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Alerta en Perú por un incendio forestal en Machu Picchu que afecta el servicio de trenes hacia el santuario",
-          "link": "https://www.clarin.com/mundo/alerta-peru-incendio-forestal-machu-picchu-afecta-servicio-trenes-santuario_0_9l8YEY2m4i.html",
-          "resumen": "El fuego ya afectó a 1,5 hectáreas de bosque primario. La empresa Perú Rail confirmó que el martes algunas frecuencias de trenes no operaron.",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "Recuperaron el cuerpo de Nirmal Purja en Pakistán: “Ahora puede emprender su viaje final de regreso a casa”",
-          "link": "https://www.lanacion.com.ar/el-mundo/recuperaron-el-cuerpo-de-nirmal-purja-en-pakistan-ahora-puede-emprender-su-viaje-final-de-regreso-a-nid05082026/",
-          "resumen": "Desde la agencia que organizó la expedición aseguraron que ya recuperaron el cuerpo del famoso alpinista tras una misión “extremadamente difícil”; a su vez, confirmaron que aún hay tres cuerpos desaparecidos",
+          "titulo": "Comenzó la construcción del edificio más alto de América Latina: superará los 470 metros",
+          "link": "https://www.lanacion.com.ar/el-mundo/comenzo-la-construccion-del-edificio-mas-alto-de-america-latina-medira-mas-de-470-metros-de-altura-nid06082026/",
+          "resumen": "El megaproyecto se erige en Monterrey como una pieza de ingeniería de vanguardia; promete transformar el perfil urbano regional al alcanzar niveles de altura sin precedentes",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Investigan un incidente entre un avión comercial y el helicóptero de Donald Trump en el cielo de Washington",
-          "link": "https://www.clarin.com/mundo/investigan-incidente-avion-comercial-helicoptero-donald-trump-cielo-washington_0_DDVolmRYZA.html",
-          "resumen": "El Marine One despegó de la Casa Blanca llevando al presidente de Estados Unidos. El vuelo de la subsidiaria de American Airlines partió del aeropuerto Ronald Reagan. Pasaron a menos de una milla de distancia, según los reportes.",
+          "titulo": "Uruguay declaró alerta roja por un ciclón extratropical: al menos un muerto",
+          "link": "https://www.clarin.com/mundo/uruguay-declaro-alerta-roja-ciclon-extratropical-muerto_0_xTBPRArtWF.html",
+          "resumen": "Pronostican vientos de hasta 120 kilómetros por hora y los organismos del Estado deberán suspender casi todas sus actividades. Un hombre falleció al ser alcanzado por un rayo.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Luca Parmitano, piloto de la misión Artemis III al ser presentado: “Espero tener algo italiano en el menú”",
-          "link": "https://www.lanacion.com.ar/el-mundo/luca-parmitano-piloto-de-la-mision-artemis-iii-al-ser-presentado-espero-tener-algo-italiano-en-el-nid06082026/",
-          "resumen": "El astronauta de la Agencia Espacial Europea es uno de los cuatro integrantes de la nueva delegación; bromeó con la posibilidad de llevar comida de su país al espacio",
+          "titulo": "Tras el revés en la Corte, Trump vuelve a la carga contra la ciudadanía por derecho de nacimiento en EE.UU.",
+          "link": "https://www.lanacion.com.ar/estados-unidos/tras-el-reves-en-la-corte-trump-vuelve-a-la-carga-contra-la-ciudadania-por-derecho-de-nacimiento-en-nid06082026/",
+          "resumen": "El presidente firmó dos órdenes ejecutivas para restringirla, al ampliar la definición de las personas no elegibles para obtenerla y prohibir el llamado “turismo de nacimiento”",
           "fuente": "La Nación"
+        },
+        {
+          "titulo": "Economía de \"resistencia\": los iraníes ajustan cada gasto para sobrevivir tras cinco meses de guerra contra Estados Unidos e Israel",
+          "link": "https://www.clarin.com/mundo/economia-resistencia-iranies-ajustan-gasto-sobrevivir-meses-guerra-estados-unidos-israel_0_zMcRT40zh0.html",
+          "resumen": "La economía de Irán ya estaba debilitada por décadas de sanciones internacionales, pero el conflicto ha empeorado una situación que para muchas familias se ha vuelto insostenible. Como consecuencia, la inflación alcanzó el 66% interanual…",
+          "fuente": "Clarín"
         }
       ]
     },
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "La tajante respuesta de Lionel Messi sobre los rumores de la salida de su hijo Thiago del Inter Miami a La Masía de Barcelona",
-          "link": "https://www.clarin.com/deportes/tajante-respuesta-lionel-messi-rumores-salida-hijo-thiago-inter-miami-masia-barcelona_0_tbhD8DmiKp.html",
-          "resumen": "Las redes sociales instalaron en las últimas horas que el hijo mayor del capitán argentino dejaría las inferiores de Inter Miami para incorporarse a La Masía. Antes del debut frente a Atlético San Luis por la Leagues Cup, Leo fue…",
+          "titulo": "Tomás Lavanini regresa a Los Pumas tras casi dos años: \"Es una nueva oportunidad, un nuevo desafío para mí\"",
+          "link": "https://www.clarin.com/deportes/tomas-lavanini-regresa-pumas-anos-nueva-oportunidad-nuevo-desafio_0_MCOqTDxb7x.html",
+          "resumen": "El jugador no volvió a ser convocado desde octubre de 2024 y su último partido fue ante Sudáfrica. Ese año fue llamado en esa única ventana y luego fue desafectado por lesión.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Lautaro Martínez y Agustina Gandolfo compartieron sus vacaciones con un famoso extenista: “¡Qué equipo!”",
-          "link": "https://www.lanacion.com.ar/deportes/lautaro-martinez-y-agustina-gandolfo-compartieron-sus-vacaciones-con-un-famoso-extenista-que-equipo-nid06082026/",
-          "resumen": "A través de sus redes sociales, la influencer mendocina publicó una postal del atardecer que su familia disfrutó con la de un exdeportista argentino",
+          "titulo": "Del Potro y la luz al final del túnel: de evaluar el retiro a ganar una medalla olímpica en Río 2016",
+          "link": "https://www.lanacion.com.ar/deportes/tenis/del-potro-y-la-luz-al-final-del-tunel-de-evaluar-el-retiro-a-ganar-una-medalla-olimpica-en-rio-2016-nid07082026/",
+          "resumen": "Un año después de pensar seriamente en el final de su carrera tras varias cirugías de muñeca, el tandilense tuvo una recuperación milagrosa y en Brasil vivió momentos inolvidables; a una década de un capítulo épico del deporte nacional",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Cacique Medina, tras la derrota ante Boca: \"Este partido fue el más flojo de los tres\" y la ausencia de Muslera",
-          "link": "https://www.ole.com.ar/estudiantes/cacique-medina-derrota-boca-declaraciones-estudiantes-clausura_0_vonE8NpZLe.html",
-          "resumen": "El DT de Estudiantes habló luego de la caída 1-0 frente al Xeneize en Parque Patricios.",
+          "titulo": "Lamine Yamal revolucionó Colombia: posó con la camiseta y cantó una canción viral con los hinchas",
+          "link": "https://www.ole.com.ar/futbol-internacional/america/lamine-yamal-colombia-camiseta-cancion-viral-medellin_0_juc3bzZNJT.html",
+          "resumen": "El campeón del mundo visitó Medellín e hizo enloquecer a los simpatizantes cafeteros antes de regresar a Barcelona. Mirá el video.",
           "fuente": "Olé"
         },
         {
-          "titulo": "El container de River, bajo la lupa: el millonario ahorro por los borrados, los que se fueron de Cantilo y los que todavía esperan resolver su futuro",
-          "link": "https://www.clarin.com/deportes/container-river-lupa-millonario-ahorro-borrados-cantilo-todavia-esperan-resolver-futuro_0_oqcZskhOiU.html",
-          "resumen": "Es el lugar donde la dirigencia decidió enviar a entrenar a los 14 jugadores separados del plantel y que, al no haber vestuarios terminados, tuvieron que cambiarse en uno de los contenedores del predio. Esa maniobra explica por qué pudo…",
+          "titulo": "Del frío al horno: la ultramaratonista española que corrió bajo 52 grados y lo comparó con una \"air fryer\"",
+          "link": "https://www.clarin.com/deportes/frio-horno-ultramaratonista-espanola-corrio-52-grados-comparo-air-fryer_0_sI2009bXjc.html",
+          "resumen": "Se trata de Carmen Pérez, ganadora de la edición 2026 con un nuevo récord femenino de la prueba. Cómo es la preparación para la carrera de 217 kilómetros que expone a los participantes a condiciones extremas.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Partidos de hoy, jueves 6 de agosto: horario y por dónde ver en vivo online",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/partidos-de-hoy-jueves-6-de-agosto-horario-y-por-donde-ver-en-vivo-online-nid06082026/",
-          "resumen": "En la agenda del día se destaca el cierre de la segunda fecha del Torneo Clausura y la continuidad de la Leagues Cup; también hay acción en el Viejo Continente",
+          "titulo": "Guillermo Barros Schelotto, la pícara oveja blanca de los entrenadores argentinos que siempre maneja el tiempo",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/guillermo-barros-schelotto-la-picara-oveja-blanca-de-los-entrenadores-argentinos-que-siempre-maneja-nid07082026/",
+          "resumen": "En un ambiente cargado de urgencias, vive en su propio ecosistema: arma su Vélez con la calma que solo dan la experiencia y la seguridad en uno mismo",
           "fuente": "La Nación"
         }
       ]
