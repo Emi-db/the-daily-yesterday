@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "7 de agosto de 2026",
-  "generada": "10:40",
+  "fecha": "8 de agosto de 2026",
+  "generada": "10:19",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "La orden de Karina tras las críticas a Sturzenegger: “Todos los proyectos tienen que pasar por Santilli”",
-          "link": "https://www.clarin.com/politica/orden-karina-criticas-sturzenegger-proyectos-pasar-santilli_0_6mKS4UihTY.html",
-          "resumen": "En el entorno de la hermanísima se quejan de los \"libre pensadores\" que plantean un diálogo directo con el Presidente y advierten que \"no cuidan\" a Milei. Resaltan que el jefe de Gabinete “se ganó la confianza” y apuestan al tándem que…",
+          "titulo": "Fue capitán de River, su frase sobre un \"silencio atroz\" todavía retumba en el fútbol y ahora entra a la política: será candidato a intendente libertario",
+          "link": "https://www.clarin.com/politica/capitan-river-frase-silencio-atroz-todavia-retumba-futbol-ahora-entra-politica-candidato-intendente-libertario_0_t9YxPkkICD.html",
+          "resumen": "Oscar Ahumada anunció que competirá en las elecciones del año que viene en Zárate. \"Me encantaría encontrarme con Milei\", dice el ex futbolista, que se dedicó a los desarrollos inmobiliarios.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: la media sanción a la ley de propiedad privada y sus repercusiones",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-media-sancion-a-la-ley-de-propiedad-privada-y-sus-nid07082026/",
-          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "titulo": "El misterioso tren de vida de Facundo Moyano y el resurgir económico de un gremio en extinción",
+          "link": "https://www.lanacion.com.ar/politica/el-misterioso-tren-de-vida-de-facundo-moyano-y-el-resurgir-economico-de-un-gremio-en-extincion-nid08082026/",
+          "resumen": "El sindicalista se mudó de San Telmo a un edificio en Barrancas de Belgrano y suele ahorrar en efectivo; el gremio de peajes pierde afiliados, pero renovó su flota de autos y cambió de sede",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El dilema de Kicillof: cómo es el método para evitar largas filas en una elección concurrente que estudian en la Provincia",
-          "link": "https://www.clarin.com/politica/dilema-kicillof-metodo-evitar-largas-filas-eleccion-concurrente-estudian-provincia_0_Bdh05dLUOI.html",
-          "resumen": "La mayoría de los gobernadores desdoblará su elección pero el mandatario bonaerense aún duda por su posible candidatura presidencial. Los números que explican el caso exitoso en Santiago del Estero y la contracara del caos en la Ciudad en…",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "Villarruel defendió la autorización excepcional a Fernández Sagasti para que votara de manera virtual",
-          "link": "https://www.lanacion.com.ar/politica/villarruel-defendio-su-autorizacion-excepcional-a-fernandez-sagasti-para-votar-virtualmente-nid06082026/",
-          "resumen": "La vicepresidenta había firmado un decreto que le permitía a la senadora peronista participar desde Mendoza, con el acuerdo del cuerpo; un planteo de Patricia Bullrich lo impidió",
-          "fuente": "La Nación"
-        },
-        {
-          "titulo": "El Gobierno declaró como organización terrorista a la banda narco ecuatoriana Chone Killers",
-          "link": "https://www.infobae.com/politica/2026/08/07/el-gobierno-declaro-como-orgaizacion-terrorista-a-la-banda-narco-ecuatoriana-chone-killers/",
-          "resumen": "La medida dispuso la incorporación de la banda al Registro Público de Personas y Entidades vinculadas a Actos de Terrorismo y su Financiamiento, lo que habilita sanciones financieras y restricciones operativas contra el grupo en…",
+          "titulo": "Fentanilo mortal: La ex funcionaria encargada de controlar los medicamentos dijo 33 veces “no recuerdo” ante el juez que la investiga",
+          "link": "https://www.infobae.com/politica/2026/08/08/fentanilo-mortal-la-ex-funcionaria-encargada-de-controlar-los-medicamentos-dijo-33-veces-no-recuerdo-ante-el-juez-que-la-investiga/",
+          "resumen": "Alejandra Mantecon Fumadó, ex directora del Instituto Nacional de Medicamentos (INAME) declaró que a los laboratorios de Ariel García Furfaro debían ir con custodia personal porque los inspectores estaban atemorizados porque las…",
           "fuente": "Infobae"
+        },
+        {
+          "titulo": "Milei, la “patria” y los límites del discurso libertario",
+          "link": "https://www.clarin.com/politica/milei-patria-limites-discurso-libertario_0_ZsbJw80m6k.html",
+          "resumen": "El Gobierno no conecta con el sentimiento colectivo y paga los costos en la calle y en el Congreso. La noción de soberanía y Trump, claves en el cuestionamiento. La intrépida señal de Santiago Caputo a Estados Unidos.",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Afiliados de Camioneros interrumpieron la actividad de una planta de OCA en protesta por despidos",
+          "link": "https://www.lanacion.com.ar/politica/trabajadores-del-sindicato-de-camioneros-interrumpieron-la-actividad-de-una-planta-de-oca-en-nid07082026/",
+          "resumen": "Afiliados de la rama Correos golpearon a un empleado de seguridad y llevaron a cabo una asamblea en las instalaciones para denunciar desvinculaciones producto de una mudanza",
+          "fuente": "La Nación"
         }
       ]
     },
@@ -42,34 +42,34 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "“Corta la secuencia de fragilidad”: las ventas de maquinaria agrícola saltaron un 45% mensual en julio, con las cosechadoras liderando el rebote",
-          "link": "https://www.clarin.com/rural/corta-secuencia-fragilidad-ventas-maquinaria-agricola-saltaron-45-mensual-julio-cosechadoras-liderando-rebote_0_zBuHR5Slx7.html",
-          "resumen": "Se patentaron 696 unidades, un 16% más que en el mismo mes del año pasado. El mercado de tractores también rebotó, aunque preocupa la \"informalidad\" en el segmento.",
+          "titulo": "Dudas con las cifras de inflación y un presidente que llama al Banco Central: ¿Argentina? No, EE.UU.",
+          "link": "https://www.clarin.com/economia/dudas-cifras-inflacion-presidente-llama-banco-central-argentina-eeuu_0_CQoXLS301K.html",
+          "resumen": "Economía de No Ficción. En Washington introdujeron cambios en una medición de la inflación y se armó revuelo dentro de la oposición. Además Trump estaría llamando casi a diario a la Reserva Federal. En la Argentina, con el nuevo IPC del…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Mateo Salvatto: “El principal error es incorporar inteligencia artificial sin saber para qué”",
-          "link": "https://www.lanacion.com.ar/economia/campo/mateo-salvatto-el-principal-error-es-incorporar-inteligencia-artificial-sin-saber-para-que-nid07082026/",
-          "resumen": "Durante un panel junto a referentes de Bayer, el emprendedor planteó en Aapresid que las empresas deben empezar por revisar sus procesos antes de decidir qué herramientas tecnológicas utilizar",
+          "titulo": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 8 de agosto",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-8-de-agosto-nid08082026/",
+          "resumen": "La cotización de la moneda estadounidense se mantiene igual que el último día hábil; cómo fue el comportamiento de la divisa informal y los dólares financieros",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Ejecutivos de IDEA: el 80% espera una mejora moderada de la economía local",
-          "link": "https://www.ambito.com/economia/ejecutivos-idea-el-80-espera-una-mejora-moderada-la-local-n6308047",
-          "resumen": "El relevamiento, realizado entre 218 directivos de empresas socias de IDEA, muestra una visión positiva para los próximos 12 meses, aunque con una evaluación más cautelosa del último año.",
+          "titulo": "Consejos para rendir los dólares en Estados Unidos: claves para no gastar de más en el viaje",
+          "link": "https://www.ambito.com/economia/consejos-rendir-los-dolares-estados-unidos-claves-no-gastar-mas-el-viaje-n6307255",
+          "resumen": "Una buena planificación antes de salir y pequeñas decisiones cotidianas pueden marcar una diferencia importante en el presupuesto durante la estadía.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Acuerdo automotor con Ecuador, que baja de 28% a 10% los aranceles a los vehículos locales",
-          "link": "https://www.clarin.com/economia/acuerdo-automotor-ecuador-baja-28-10-aranceles-vehiculos-locales_0_CaqIWDUnPX.html",
-          "resumen": "Se firmó en Quito, durante el viaje de Milei y el ministro Caputo dijo que permitirá \"duplicar\" las exportaciones en 2027. El arancel para los vehículos híbridos de fabricación local será cero.",
-          "fuente": "Clarín"
+          "titulo": "Multaron en más de $1800 millones a un buque extranjero que pescaba ilegalmente en aguas argentinas",
+          "link": "https://www.lanacion.com.ar/economia/campo/multaron-en-mas-de-1800-millones-a-un-buque-extranjero-que-pescaba-ilegalmente-en-aguas-argentinas-nid07082026/",
+          "resumen": "Se trata del Hai Xiang 2, de bandera de Vanuatu; según informó la Secretaría de Agricultura, es la cuarta embarcación extranjera sancionada en lo que va del año y su detección se logró a partir del monitoreo de sus movimientos y velocidad",
+          "fuente": "La Nación"
         },
         {
-          "titulo": "Dólar a $1500: Bausili justificó la intervención del Tesoro en el mercado cambiario",
-          "link": "https://www.lanacion.com.ar/economia/dolar-a-us1500-bausili-justifico-la-intervencion-del-tesoro-en-el-mercado-cambiario-nid06082026/",
-          "resumen": "Aventuró que la inflación “seguirá bajando”; afirmó que confía en que en breve se pueda poner en marcha el proceso de remonetización de la economía",
-          "fuente": "La Nación"
+          "titulo": "Las dos caras del consumo: crece el gasto privado, pero cae la venta de productos masivos y se resiente el humor social",
+          "link": "https://www.ambito.com/economia/las-dos-caras-del-consumo-crece-el-gasto-privado-pero-cae-la-venta-productos-masivos-y-se-resiente-el-humor-social-n6308456",
+          "resumen": "\"El consumo masivo es el que más cambia el humor social de las personas y hay que considerarlo en un período electoral\", advirtieron especialistas durante el CtB Summit, organizado por la Cámara de Empresas de Investigación Social y de…",
+          "fuente": "Ámbito"
         }
       ]
     },
@@ -77,9 +77,9 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Panorama Internacional: Donald Trump en Brasil, un jefe de campaña en problemas",
-          "link": "https://www.clarin.com/mundo/panorama-internacional-donald-trump-brasil-jefe-campana-problemas_0_0guiJbcy8V.html",
-          "resumen": "La decisión de EE.UU. de cancelar la visa de la embajadora de Brasil, aparte de la gravedad del hecho, forma parte de una estratégica a favor del candidato opositor Flávio Bolsonaro, que paradójicamente suele favorecer las posibilidades…",
+          "titulo": "Después de 16 años, el gobierno venezolano liberó a una jueza que estaba presa por \"corrupción espiritual\"",
+          "link": "https://www.clarin.com/mundo/despues-16-anos-gobierno-venezolano-libero-jueza-presa-corrupcion-espiritual_0_RmTZqzuzDZ.html",
+          "resumen": "Recientemente le descubrieron tres lesiones tumorales en distintas partes del cuerpo. Hugo Chávez había pedido que fuera encarcelada a 30 años luego de que le diera la libertad bajo fianza a un banquero.",
           "fuente": "Clarín"
         },
         {
@@ -89,21 +89,21 @@ const EDICION = {
           "fuente": "La Nación"
         },
         {
-          "titulo": "Uruguay declaró alerta roja por un ciclón extratropical: al menos un muerto",
-          "link": "https://www.clarin.com/mundo/uruguay-declaro-alerta-roja-ciclon-extratropical-muerto_0_xTBPRArtWF.html",
-          "resumen": "Pronostican vientos de hasta 120 kilómetros por hora y los organismos del Estado deberán suspender casi todas sus actividades. Un hombre falleció al ser alcanzado por un rayo.",
+          "titulo": "Como respuesta a Meloni, España estableció controles fronterizos a viajeros desde Italia",
+          "link": "https://www.clarin.com/mundo/respuesta-meloni-espana-establecio-controles-fronterizos-viajeros-italia_0_BsAHNUzOy3.html",
+          "resumen": "El Gobierno de Pedro Sánchez estableció restricciones similares al cierre temporal del espacio Schengen que había dispuesto Roma. En principio, durarán hasta el 7 de septiembre. La premier italiana endureció su postura y reiteró que no…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Tras el revés en la Corte, Trump vuelve a la carga contra la ciudadanía por derecho de nacimiento en EE.UU.",
-          "link": "https://www.lanacion.com.ar/estados-unidos/tras-el-reves-en-la-corte-trump-vuelve-a-la-carga-contra-la-ciudadania-por-derecho-de-nacimiento-en-nid06082026/",
-          "resumen": "El presidente firmó dos órdenes ejecutivas para restringirla, al ampliar la definición de las personas no elegibles para obtenerla y prohibir el llamado “turismo de nacimiento”",
+          "titulo": "De la Espriella asumió en Colombia y proclamó el inicio “de la recuperación del orden”",
+          "link": "https://www.lanacion.com.ar/el-mundo/de-la-espriella-asumio-en-colombia-y-proclamo-el-inicio-de-la-recuperacion-del-orden-nid07082026/",
+          "resumen": "El dirigente puso fin al mandato de izquierda de Petro y reafirmó sus promesas de campaña ordenando una ofensiva contra el terrorismo y las organizaciones criminales",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Economía de \"resistencia\": los iraníes ajustan cada gasto para sobrevivir tras cinco meses de guerra contra Estados Unidos e Israel",
-          "link": "https://www.clarin.com/mundo/economia-resistencia-iranies-ajustan-gasto-sobrevivir-meses-guerra-estados-unidos-israel_0_zMcRT40zh0.html",
-          "resumen": "La economía de Irán ya estaba debilitada por décadas de sanciones internacionales, pero el conflicto ha empeorado una situación que para muchas familias se ha vuelto insostenible. Como consecuencia, la inflación alcanzó el 66% interanual…",
+          "titulo": "Nuevo ataque de Rusia a Ucrania: dos heridos y daños e incendio en un estadio de fútbol",
+          "link": "https://www.clarin.com/mundo/nuevo-ataque-rusia-ucrania-heridos-danos-incendio-estadio-futbol_0_g8b6pCQFUs.html",
+          "resumen": "El club Chornomorets de Odesa anunció la suspensión del partido previsto para este sábado.",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Tomás Lavanini regresa a Los Pumas tras casi dos años: \"Es una nueva oportunidad, un nuevo desafío para mí\"",
-          "link": "https://www.clarin.com/deportes/tomas-lavanini-regresa-pumas-anos-nueva-oportunidad-nuevo-desafio_0_MCOqTDxb7x.html",
-          "resumen": "El jugador no volvió a ser convocado desde octubre de 2024 y su último partido fue ante Sudáfrica. Ese año fue llamado en esa única ventana y luego fue desafectado por lesión.",
+          "titulo": "River anotó a Thiago Almada en la lista de buena fe de la Sudamericana y dio a los convocados ante Tigre con uno de los nuevos refuerzos",
+          "link": "https://www.clarin.com/deportes/river-anoto-thiago-almada-lista-buena-fe-sudamericana-dio-convocados-tigre-nuevos-refuerzos_0_Di1co7RLX9.html",
+          "resumen": "El delantero de la Selección arribará al país este fin de semana. Pero antes, el equipo de Coudet buscará cortar la mala racha en Victoria. Francisco Ortega debutaría ante el Matador.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Del Potro y la luz al final del túnel: de evaluar el retiro a ganar una medalla olímpica en Río 2016",
-          "link": "https://www.lanacion.com.ar/deportes/tenis/del-potro-y-la-luz-al-final-del-tunel-de-evaluar-el-retiro-a-ganar-una-medalla-olimpica-en-rio-2016-nid07082026/",
-          "resumen": "Un año después de pensar seriamente en el final de su carrera tras varias cirugías de muñeca, el tandilense tuvo una recuperación milagrosa y en Brasil vivió momentos inolvidables; a una década de un capítulo épico del deporte nacional",
+          "titulo": "Enner Valencia habló antes de su llegada a Boca: “Espero estar a la altura física y mentalmente”",
+          "link": "https://www.lanacion.com.ar/deportes/enner-valencia-hablo-antes-de-su-llegada-a-boca-espero-estar-a-la-altura-fisica-y-mentalmente-nid08082026/",
+          "resumen": "El futbolista ecuatoriano de 36 años dialogó con la prensa de su país previo a embarcarse rumbo a Buenos Aires",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Lamine Yamal revolucionó Colombia: posó con la camiseta y cantó una canción viral con los hinchas",
-          "link": "https://www.ole.com.ar/futbol-internacional/america/lamine-yamal-colombia-camiseta-cancion-viral-medellin_0_juc3bzZNJT.html",
-          "resumen": "El campeón del mundo visitó Medellín e hizo enloquecer a los simpatizantes cafeteros antes de regresar a Barcelona. Mirá el video.",
+          "titulo": "A Victoria por la victoria: River y las claves para cortar la mala racha vs. Tigre",
+          "link": "https://www.ole.com.ar/river-plate/river-plate-eduardo-coudet-tigre_0_VvFcCqfjfn.html",
+          "resumen": "Con Almada alentando a la distancia, necesita de manera urgente cortar el sangrado de las derrotas. Debutarían Ortega y Andrada. Partidazo.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Del frío al horno: la ultramaratonista española que corrió bajo 52 grados y lo comparó con una \"air fryer\"",
-          "link": "https://www.clarin.com/deportes/frio-horno-ultramaratonista-espanola-corrio-52-grados-comparo-air-fryer_0_sI2009bXjc.html",
-          "resumen": "Se trata de Carmen Pérez, ganadora de la edición 2026 con un nuevo récord femenino de la prueba. Cómo es la preparación para la carrera de 217 kilómetros que expone a los participantes a condiciones extremas.",
+          "titulo": "Enner Valencia, antes de viajar a Buenos Aires para sumarse a Boca: \"Voy a dar todo de mí para lograr campeonatos\"",
+          "link": "https://www.clarin.com/deportes/enner-valencia-viajar-buenos-aires-sumarse-boca-voy-dar-lograr-campeonatos_0_zyOjuYoKdC.html",
+          "resumen": "Enner Valencia viaja a Buenos Aires para sumarse a Boca. El ecuatoriano contó por qué eligió al conjunto de la Ribera. \"Voy a dar todo de mí para lograr campeonatos\", aseguró.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Guillermo Barros Schelotto, la pícara oveja blanca de los entrenadores argentinos que siempre maneja el tiempo",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/guillermo-barros-schelotto-la-picara-oveja-blanca-de-los-entrenadores-argentinos-que-siempre-maneja-nid07082026/",
-          "resumen": "En un ambiente cargado de urgencias, vive en su propio ecosistema: arma su Vélez con la calma que solo dan la experiencia y la seguridad en uno mismo",
+          "titulo": "Volea, smash y unos reflejos que sorprendieron al planeta tenis: el punto más increíble del año",
+          "link": "https://www.lanacion.com.ar/deportes/tenis/volea-smash-y-unos-reflejos-que-sorprendieron-al-planeta-tenis-el-punto-mas-increible-del-ano-nid07082026/",
+          "resumen": "Ocurrió en Montreal, durante el Masters 1000 de Canadá; Thiago Tirante volvió a ganar y pasó a octavos",
           "fuente": "La Nación"
         }
       ]
