@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "8 de agosto de 2026",
-    "generada": "10:19",
+    "fecha": "9 de agosto de 2026",
+    "generada": "10:20",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "3 momentos que marcaron la posesión de Abelardo de la Espriella como presidente de Colombia (y qué dicen sobre cómo será su gobierno)",
-            "link": "https://www.bbc.com/mundo/articles/cz64y70l8wzo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Con una oración, un discurso en un batallón militar y un vendedor de panela, De la Espriella le imprimió su propio estilo al acto de procesión.",
+            "titulo": "Cómo Italia, un país famoso por la saludable dieta mediterránea, acabó teniendo tantos niños obesos",
+            "link": "https://www.bbc.com/mundo/articles/cx2mrppm26do?at_medium=RSS&at_campaign=rss",
+            "resumen": "La dieta mediterránea constituía un modelo de vida saludable; sin embargo, los niños italianos se encuentran entre los que presentan mayor sobrepeso en Europa, según la OMS.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Abelardo de la Espriella jura ante los congresistas pero da su primer discurso a los militares",
-            "link": "https://elpais.com/america-colombia/2026-08-08/abelardo-de-la-espriella-jura-ante-los-congresistas-pero-da-su-primer-discurso-a-los-militares.html",
-            "resumen": "El nuevo presidente de Colombia traslada la ceremonia de Bogotá a Cali y concede un inusual protagonismo a la religión",
+            "titulo": "La rebelión de la Generación Z sacude el sur del mundo",
+            "link": "https://elpais.com/internacional/2026-08-09/la-rebelion-de-la-generacion-z-sacude-el-sur-del-mundo.html",
+            "resumen": "El movimiento de las ‘cucarachas’ en la India es el enésimo episodio de un profundo malestar social que se abate sobre los pilares del poder tradicional",
             "fuente": "El País"
           },
           {
-            "titulo": "Seguridad, religión y corrupción: las claves del primer discurso de De la Espriella como presidente",
-            "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260808-seguridad-religi%C3%B3n-y-corrupci%C3%B3n-las-claves-del-primer-discurso-de-de-la-espriella-como-presidente",
-            "resumen": "Por primera vez, un presidente de Colombia es investido fuera de Bogotá. Abelardo de la Espriella asumió oficialmente como jefe de Estado este viernes 7 de agosto. El ultraderechista tomó posesión del cargo en Cali, en el suroeste del…",
+            "titulo": "Informe de Washington: el cáncer de Joe Biden se extendió y su salud se agrava",
+            "link": "https://www.france24.com/es/video/20260809-informe-de-washington-el-c%C3%A1ncer-de-joe-biden-se-extendi%C3%B3-y-su-salud-se-agrava",
+            "resumen": "El expresidente de Estados Unidos, Joe Biden, enfrenta un agravamiento de su salud: su hijo Hunter reveló el 8 de agosto de 2026 que el cáncer de próstata que padece se ha extendido a los huesos y otras partes del cuerpo, provocándole…",
             "fuente": "France 24"
           },
           {
-            "titulo": "España impone controles fronterizos a Italia y se agudiza la tensión entre Sánchez y Meloni por la llegada de migrantes a Ceuta",
-            "link": "https://www.bbc.com/mundo/articles/czxq1ppnw18o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Italia introdujo controles fronterizos tras la llegada masiva de unos 78.000 migrantes procedentes del vecino Marruecos al enclave español de Ceuta. España responde con una medida recíproca.",
+            "titulo": "Cómo los hermanos Batista levantaron el mayor imperio cárnico del mundo, cayeron en desgracia y volvieron a la cima",
+            "link": "https://www.bbc.com/mundo/articles/cy07klle5nzo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Desde una pequeña carnicería brasileña hasta la mayor productora de carne del mundo, pasando por uno de los más grandes escándalos de corrupción de su país, la historia de Wesley y Joesley Batista parece de película.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Abelardo de la Espriella convierte su investidura en una cumbre de la derecha: “Colombia, desde ahora, deja de ser un paria”",
-            "link": "https://elpais.com/america-colombia/2026-08-08/abelardo-de-la-espriella-convierte-su-investidura-en-una-cumbre-de-la-derecha-colombia-desde-ahora-deja-de-ser-un-paria.html",
-            "resumen": "Los presidentes Milei, Kast y Noboa asisten a la toma de posesión del nuevo presidente de Colombia, con quienes ha mantenido reuniones bilaterales",
+            "titulo": "Las primarias demócratas muestran la decreciente influencia política de Israel en Estados Unidos",
+            "link": "https://elpais.com/internacional/2026-08-09/las-primarias-democratas-muestran-la-decreciente-influencia-politica-de-israel-en-estados-unidos.html",
+            "resumen": "El éxito del izquierdista El-Sayed en las primarias de Míchigan, pese a los 30 millones de dólares en su contra del ‘lobby’ israelí, expone el progresivo alejamiento de los aliados tradicionales",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
+            "titulo": "Subidas de precios y calor extremo: por qué caen las cifras de franceses y alemanes que veranean en España",
+            "link": "https://elpais.com/economia/2026-08-09/subidas-de-precios-y-calor-extremo-por-que-caen-las-cifras-de-franceses-y-alemanes-que-veranean-en-espana.html",
+            "resumen": "La debilidad de ambas economías, sumada al encarecimiento de los servicios y a la subida de las temperaturas, explican el retroceso de dos de los principales mercados turísticos del país",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Greg Abel pone por fin a trabajar la montaña de efectivo de Warren Buffett",
+            "link": "https://www.expansion.com/economia/2026/08/08/6a773693468aeb85698b4592.html",
+            "resumen": "El máximo responsable de Berkshire Hathaway pone fin a una racha de ventas de más de tres años al invertir 20.000 millones de dólares netos en acciones. Leer",
+            "fuente": "Expansión"
+          },
+          {
+            "titulo": "Sin refugio frente a la precarización del alquiler: “Está afectando a gente de todas las edades”",
+            "link": "https://elpais.com/economia/2026-08-09/sin-refugio-frente-a-la-precarizacion-del-alquiler-esta-afectando-a-gente-de-todas-las-edades.html",
+            "resumen": "Jóvenes sin vía de entrada al mercado y vecinos con rentas antiguas amenazados de desahucio ilustran que arrendar habitaciones o un contrato indefinido han dejado de ser garantía de acceso a la vivienda",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Así han creado su fortuna los abogados más ricos del mundo",
+            "link": "https://www.expansion.com/economia/2026/08/07/6a7629a2468aeb24308b4583.html",
+            "resumen": "Los asesores de 'M&A' ocupan el Olimpo de la profesión, pero quienes más dinero ganan son quienes lideran los grandes litigios, los divorcios de los famosos y los abogados de las grandes tecnológicas. Leer",
+            "fuente": "Expansión"
+          },
+          {
             "titulo": "Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo",
             "link": "https://elpais.com/economia/2026-08-07/trump-vuelve-a-la-carga-para-despedir-a-lisa-cook-de-la-fed-pese-a-la-oposicion-del-supremo.html",
             "resumen": "El presidente estadounidense envía una carta a la gobernadora de la Reserva Federal para intentar despedirla pese a que el Supremo blindó la autonomía del organismo",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Ránking de las grandes cotizadas: los grupos del Ibex logran beneficios récord hasta junio",
-            "link": "https://www.expansion.com/empresas/2026/08/08/6a75ef2a468aeb89668b4578.html",
-            "resumen": "Las grandes cotizadas españolas sostienen sus beneficios históricos en el primer semestre del año por el tirón de la banca y los buenos resultados de Repsol, Endesa, Iberdrola y ACS, entre otras. Los ingresos y el ebitda de los grupos del…",
-            "fuente": "Expansión"
-          },
-          {
-            "titulo": "La compra de viviendas en junio pone fin a cinco meses de caídas al crecer un 1,6%",
-            "link": "https://elpais.com/economia/2026-08-07/la-compra-de-viviendas-en-junio-pone-fin-a-cinco-meses-de-caidas-al-crecer-un-16.html",
-            "resumen": "El mercado cierra el primer semestre del año con cerca de 348.000 transacciones, según el INE, unas 10.000 menos que en 2025",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "El aumento de los beneficios apunta a máximos más altos",
-            "link": "https://www.expansion.com/empresas/2026/08/08/6a7622fbe5fdea6f3e8b457c.html",
-            "resumen": "Invertir en máximos bursátiles ha dado históricamente mejores resultados que hacerlo durante las caídas, más aún cuando la tendencia alcista viene respaldada por el crecimiento de los beneficios y no por una expansión de los múltiplos. Leer",
-            "fuente": "Expansión"
-          },
-          {
-            "titulo": "Inveready y Mayoral asumen el control de Parlem",
-            "link": "https://elpais.com/economia/2026-08-07/inveready-y-mayoral-asumen-el-control-de-parlem.html",
-            "resumen": "La junta de accionistas respalda la reestructuración financiera de la operadora catalana con el canje de deuda y la ampliación de capital",
             "fuente": "El País"
           }
         ]
@@ -78,9 +78,9 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "Vivir el eclipse en una ‘star-party’ en Guadalajara con un astrónomo local: “Alguno incluso estallará en llanto”",
-            "link": "https://elpais.com/ciencia/2026-08-08/vivir-el-eclipse-en-una-star-party-en-guadalajara-con-un-astronomo-local-alguno-incluso-estallara-en-llanto.html",
-            "resumen": "Los limpios cielos de la provincia, que tiene algunas de las comarcas más despobladas de Europa, han hecho de ella un semillero de vocaciones astronómicas",
+            "titulo": "Llega el día de las dos noches: millones de españoles buscan su lugar para ver el eclipse",
+            "link": "https://elpais.com/ciencia/2026-08-09/llega-el-dia-de-las-dos-noches-millones-de-espanoles-buscan-su-lugar-para-ver-el-eclipse.html",
+            "resumen": "Con destinos del interior con lleno total desde hace más de un año y miles de personas que tomarán una decisión a última hora, España vivirá este 12 de agosto un fenómeno astronómico único que supondrá un desafío para las autoridades",
             "fuente": "El País"
           },
           {
@@ -90,9 +90,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "La ciencia de los veranos eternos: ¿por qué los veranos de la infancia parecen no acabar nunca?",
-            "link": "https://elpais.com/ciencia/2026-08-08/la-ciencia-de-los-veranos-eternos-por-que-los-veranos-de-la-infancia-parecen-no-acabar-nunca.html",
-            "resumen": "La atención, la curiosidad y la emoción moldean nuestra percepción del tiempo, y por eso el tiempo vuela cuando nos hacemos mayores",
+            "titulo": "Vivir el eclipse en una ‘star-party’ en Guadalajara con un astrónomo local: “Alguno incluso estallará en llanto”",
+            "link": "https://elpais.com/ciencia/2026-08-08/vivir-el-eclipse-en-una-star-party-en-guadalajara-con-un-astronomo-local-alguno-incluso-estallara-en-llanto.html",
+            "resumen": "Los limpios cielos de la provincia, que tiene algunas de las comarcas más despobladas de Europa, han hecho de ella un semillero de vocaciones astronómicas",
             "fuente": "El País"
           },
           {
@@ -102,9 +102,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Primer parte de la Aemet para el eclipse: nubes solo en el área cantábrica, litoral gallego, Alborán y montañas del norte y el este",
-            "link": "https://elpais.com/ciencia/2026-08-07/primer-parte-de-la-aemet-para-el-eclipse-nubes-en-zonas-de-montana-del-norte-y-el-este-de-la-peninsula.html",
-            "resumen": "El país queda dividido en una extensa zona de confort, donde se verá perfectamente, otra zona de nerviosismo con posibles nubes de evolución y una zona de resignación donde lo más probable es que esté cubierto",
+            "titulo": "La ciencia de los veranos eternos: ¿por qué los veranos de la infancia parecen no acabar nunca?",
+            "link": "https://elpais.com/ciencia/2026-08-08/la-ciencia-de-los-veranos-eternos-por-que-los-veranos-de-la-infancia-parecen-no-acabar-nunca.html",
+            "resumen": "La atención, la curiosidad y la emoción moldean nuestra percepción del tiempo, y por eso el tiempo vuela cuando nos hacemos mayores",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "La opción de compra del Liverpool por Araujo es de 55 millones",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260808/1004214228/opcion-compra-liverpool-araujo-55-millones.html",
-            "resumen": "La cesión de Ronald Araujo al Liverpool fue la bomba del mercado del viernes. La noticia saltó al filo de la medianoche y este sábado el defensa uruguayo ya no viaja con la plantilla del FC Barcelona al triangular de Udine y encara su…",
+            "titulo": "La estrategia con Julián no cambia pese a las palabras de Simeone",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260809/1004214466/estrategia-julian-no-cambia-pese-palabras-simeone.html",
+            "resumen": "Las declaraciones del ‘ Cholo ’ Simeone en Seúl, durante la pretemporada del Atlético, en las que reafirmó la postura del club rojiblanco respecto a Julián Álvarez , no han modificado la estrategia del Barcelona para intentar fichar al…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Simeone: \"La situación de Julián es clara, el club ha tomado una decisión\"",
-            "link": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260808/1004214224/simeone-situacion-julian-clara-club-tomado-decision.html",
-            "resumen": "Diego Simeone, entrenador del Atlético de Madrid , ha ofrecido la primera rueda de prensa del verano desde Seúl, donde el conjunto rojiblanco está realizando una mini gira que finalizará el domingo con un partido amistoso frente al…",
+            "titulo": "Sigue la carrera de Moto2, en directo",
+            "link": "https://www.mundodeportivo.com/motor/motogp/20260809/1004214384/motogp-carrera-silverstone-directo-gran-premio-gran-bretana-marc-marquez-jorge-martin.html",
+            "resumen": "",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,16 +147,16 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "August 8, 2026",
-    "generada": "10:19",
+    "fecha": "August 9, 2026",
+    "generada": "10:20",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Child among three killed in Russian missile attacks near Kyiv",
-            "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+            "titulo": "Israel accused of weaponising archaeology at ancient West Bank sites",
+            "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+            "resumen": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
             "fuente": "BBC"
           },
           {
@@ -166,15 +166,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Whirling for 7 Days and Nights, in Search of Ecstasy",
+            "titulo": "Whirling Like Dervishes in Turkey, but Open to Everyone",
             "link": "https://www.nytimes.com/2026/08/08/world/europe/turkey-sema-whirling-dervish-islam.html",
             "resumen": "Hundreds of people attended a seven-day retreat in the Turkish countryside seeking transcendence through sema, the spiritual practice of whirling.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "The phone book that led us to Assad's spy chief in hiding",
-            "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
-            "resumen": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+            "titulo": "Fifa criticises campaign to oust president Infantino",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
+            "resumen": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
             "fuente": "BBC"
           },
           {
@@ -189,9 +189,9 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "How a 90-second power outage sparked chaos for rail commuters",
-            "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The incident raised questions about how a disrupted power supply can have such a widespread impact.",
+            "titulo": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+            "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
+            "resumen": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
             "fuente": "BBC"
           },
           {
@@ -201,15 +201,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Medicare Advantage’s Perks Are Getting Scrutiny",
-            "link": "https://www.nytimes.com/2026/08/08/business/medicare-advantage-benefits.html",
-            "resumen": "Officials said no to health plans that wanted to expand extra benefits to cover medical marijuana, streaming services and shopping clubs. More changes are coming in 2027.",
+            "titulo": "Kalshi’s Tarek Mansour Isn’t Interested in Management Advice",
+            "link": "https://www.nytimes.com/2026/08/09/business/kalshi-tarek-mansour-prediction-markets.html",
+            "resumen": "Tarek Mansour co-founded the fast-growing prediction market company shortly after graduating from M.I.T., aiming to provide a “mathematical, objective” view of the world.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Goodwin considers selling part of defence business",
-            "link": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The firm is a key supplier of components to UK and US frigate and submarine programmes.",
+            "titulo": "How a 90-second power outage sparked chaos for rail commuters",
+            "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The incident raised questions about how a disrupted power supply can have such a widespread impact.",
             "fuente": "BBC"
           },
           {
@@ -224,15 +224,15 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Hosepipe bans in force as drought declared - is your area affected?",
-            "link": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
-            "resumen": "More than 20 million households have been placed under hosepipe bans due to higher demand and low rainfall.",
+            "titulo": "Rare turtle to be sent back home in 5,000-mile 'incredibly emotional' trip",
+            "link": "https://www.bbc.co.uk/news/articles/c62vd6j5llgo?at_medium=RSS&at_campaign=rss",
+            "resumen": "A rare turtle is being flown home to the Caribbean Sea after being found washed up in Wales.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Safety fears as scientists make first viruses designed by AI",
-            "link": "https://www.theguardian.com/science/2026/aug/06/safety-fears-as-scientists-make-first-viruses-designed-by-ai",
-            "resumen": "Researchers say breakthrough offers hope for new medicines but also raises urgent biosecurity questions Scientists have made the first viruses designed by artificial intelligence in a milestone that raises hopes for new medicines but also…",
+            "titulo": "One of UK’s best fossil collections sold overseas in ‘loss to the nation’",
+            "link": "https://www.theguardian.com/science/ng-interactive/2026/aug/09/one-of-uks-best-fossil-collections-sold-overseas-in-loss-to-the-nation",
+            "resumen": "Exclusive: Lack of funds left British museums unable to pay eight-figure sum for collection, which went to Abu Dhabi institution Britain’s Jurassic gold rush: the fossil hunters chasing fortunes on Dorset’s beaches One of the most…",
             "fuente": "The Guardian"
           },
           {
@@ -242,15 +242,15 @@ const EDICION_MUNDO = {
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Is this the best day of the year for stargazing?",
-            "link": "https://www.bbc.co.uk/news/videos/cd7l49xn14go?at_medium=RSS&at_campaign=rss",
-            "resumen": "Put 12 August in the diary for some of the best astronomical events of the year.",
+            "titulo": "Most of sun to be eclipsed across island of Ireland",
+            "link": "https://www.bbc.co.uk/news/articles/c39epmz7ex4o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Skywatchers are set to witness two major celestial events next week, with a deep partial solar eclipse followed by the peak of the Perseid meteor shower.",
             "fuente": "BBC"
           },
           {
-            "titulo": "E-scooters far more dangerous than motorbikes or cycles, analysis suggests",
-            "link": "https://www.theguardian.com/science/2026/aug/06/e-scooters-more-dangerous-than-motorbikes-or-cycles-analysis",
-            "resumen": "Study of accidents in England and Wales shows e-scooter riders three times more likely to suffer traumatic brain injury than bikers Electric scooter riders are three times more likely to suffer traumatic brain injuries than motorcyclists,…",
+            "titulo": "Where in the UK will get the best view of the solar eclipse?",
+            "link": "https://www.theguardian.com/science/2026/aug/08/when-where-how-uk-best-view-of-the-solar-eclipse",
+            "resumen": "When, where and how to get the optimal view of the first solar eclipse to be visible across the country this century For the first time this century, people across the UK will be able to see an almost total solar eclipse in the evening…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,34 +259,34 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Life as a Wag in the transfer window",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
-            "resumen": "What is life like for footballers' families during the transfer window where a last-minute deal means you need to uproot your life and move hundreds of miles?",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots",
-            "link": "https://www.theguardian.com/football/2026/aug/07/gianni-infantino-world-cup-sell-off-debacle-fifa-crisis",
-            "resumen": "It has been a remarkable few days for an institution that may be irredeemable but this is a story that stretches back to a decision in 2010 There are decades in which nothing happens, and weeks in which decades happen, and those weeks…",
+            "titulo": "Fred Richard coasts to first national title at US gymnastics championships",
+            "link": "https://www.theguardian.com/sport/2026/aug/09/frederick-richard-us-gymnastics-all-around-title",
+            "resumen": "22-year-old finishes two points clear of Shane Wiskus Paris bronze medalist rebounds from difficult 2025 Nedoroscik falters as Hoopes wins pommel horse gold Frederick Richard won his first US men’s gymnastics all-around title Saturday…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Inside Newcastle 2.0 - how the project is changing",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cd7lzdpjlg2o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Matthias Jaissle will take charge of his first friendly as Newcastle United head coach against Valencia as a new era begins.",
+            "titulo": "Tielemans cameo against PSG hints at Man Utd future",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ce34k3qve4no?at_medium=RSS&at_campaign=rss",
+            "resumen": "Manchester United's £35m signing Youri Tielemans makes an impressive debut in the 1-1 friendly draw against Paris St-Germain in Gothenburg.",
             "fuente": "BBC"
           },
           {
-            "titulo": "‘This is where I belong’: Katelyn Ohashi’s Olympic comeback is fueled by joy, not redemption",
-            "link": "https://www.theguardian.com/sport/2026/aug/07/katelyn-ohashi-olympic-comeback-la-2028-gymnastics",
-            "resumen": "A decade after leaving elite gymnastics behind, the viral UCLA star is chasing a spot at LA 2028 on her own terms – and inspiring a new generation Every morning, Katelyn Ohashi gets up and makes a smoothie and then walks her…",
+            "titulo": "Sky’s DiJonai Carrington posts ‘white privilege’ after ejection for hard foul on Sophie Cunningham",
+            "link": "https://www.theguardian.com/sport/2026/aug/08/sophie-cunningham-foul-dijonai-carrington-ejected-wnba",
+            "resumen": "Carrington tossed for Flagrant 2 on Cunningham Chicago player tags Fever in social media post Clark’s eighth technical triggers one-game ban DiJonai Carrington of the Chicago Sky was ejected Saturday after being called for a Flagrant 2…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Infantino denies claims Uefa paid off alleged 'lover'",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
-            "resumen": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.",
+            "titulo": "New season, new boss - will Alexander-Arnold be key figure at Real Madrid?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c78gvzvwql0o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Trent Alexander-Arnold faces a defining second season at Real Madrid as he looks to prove his worth under Jose Mourinho.",
             "fuente": "BBC"
+          },
+          {
+            "titulo": "How Trabzonspor shocked Turkish rivals to make Mohamed Salah their Black Sea saviour",
+            "link": "https://www.theguardian.com/football/2026/aug/09/mohamed-salah-trabzonspor-turkish-rivals-istanbul",
+            "resumen": "Never before has a big name rejected Istanbul for Trabzon, but former Liverpool striker was offered more than riches It began with a text sent during the World Cup. Ertugrul Dogan, the president of Trabzonspor, was watching Egypt when he…",
+            "fuente": "The Guardian"
           }
         ]
       }

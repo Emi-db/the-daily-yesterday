@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "8 de agosto de 2026",
-  "generada": "10:19",
+  "fecha": "9 de agosto de 2026",
+  "generada": "10:20",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Fue capitán de River, su frase sobre un \"silencio atroz\" todavía retumba en el fútbol y ahora entra a la política: será candidato a intendente libertario",
-          "link": "https://www.clarin.com/politica/capitan-river-frase-silencio-atroz-todavia-retumba-futbol-ahora-entra-politica-candidato-intendente-libertario_0_t9YxPkkICD.html",
-          "resumen": "Oscar Ahumada anunció que competirá en las elecciones del año que viene en Zárate. \"Me encantaría encontrarme con Milei\", dice el ex futbolista, que se dedicó a los desarrollos inmobiliarios.",
+          "titulo": "Las fisuras en el Gobierno y una misteriosa campaña anti-Milei",
+          "link": "https://www.clarin.com/politica/fisuras-gobierno-misteriosa-campana-anti-milei_0_tMBrDNDT4Q.html",
+          "resumen": "El Presidente tuvo que retroceder varias veces en una semana caliente. La reacción de Karina Milei y los errores de los ministros. Las tres famosas que complicaron a toda una administración.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El misterioso tren de vida de Facundo Moyano y el resurgir económico de un gremio en extinción",
-          "link": "https://www.lanacion.com.ar/politica/el-misterioso-tren-de-vida-de-facundo-moyano-y-el-resurgir-economico-de-un-gremio-en-extincion-nid08082026/",
-          "resumen": "El sindicalista se mudó de San Telmo a un edificio en Barrancas de Belgrano y suele ahorrar en efectivo; el gremio de peajes pierde afiliados, pero renovó su flota de autos y cambió de sede",
+          "titulo": "La AFA apunta al plan “calesita” en la Justicia y mira de reojo las novedades que puedan llegar desde Estados Unidos",
+          "link": "https://www.lanacion.com.ar/politica/la-afa-apunta-al-plan-calesita-en-la-justicia-y-mira-de-reojo-las-novedades-que-puedan-llegar-desde-nid09082026/",
+          "resumen": "El miércoles, la Cámara de Casación realizará una audiencia para definir quién investigará la causa por la mansión de Pilar; la disputa por otros expedientes",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Fentanilo mortal: La ex funcionaria encargada de controlar los medicamentos dijo 33 veces “no recuerdo” ante el juez que la investiga",
-          "link": "https://www.infobae.com/politica/2026/08/08/fentanilo-mortal-la-ex-funcionaria-encargada-de-controlar-los-medicamentos-dijo-33-veces-no-recuerdo-ante-el-juez-que-la-investiga/",
-          "resumen": "Alejandra Mantecon Fumadó, ex directora del Instituto Nacional de Medicamentos (INAME) declaró que a los laboratorios de Ariel García Furfaro debían ir con custodia personal porque los inspectores estaban atemorizados porque las…",
+          "titulo": "Las preocupaciones que afloraron en el Gobierno y la hipótesis de una interna libertaria para 2027",
+          "link": "https://www.infobae.com/politica/2026/08/09/las-preocupaciones-que-afloraron-en-el-gobierno-y-la-hipotesis-de-una-interna-libertaria-para-2027/",
+          "resumen": "Hubo una fuerte autocrítica dentro de la Mesa Política por la estrategia legislativa. Las lecturas sobre cómo corregir el sendero de las negociaciones con aliados. La oposición dialoguista mira la coyuntura y no descarta un nuevo…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Milei, la “patria” y los límites del discurso libertario",
-          "link": "https://www.clarin.com/politica/milei-patria-limites-discurso-libertario_0_ZsbJw80m6k.html",
-          "resumen": "El Gobierno no conecta con el sentimiento colectivo y paga los costos en la calle y en el Congreso. La noción de soberanía y Trump, claves en el cuestionamiento. La intrépida señal de Santiago Caputo a Estados Unidos.",
+          "titulo": "El radicalismo bonaerense se relanzó con nuevas autoridades y un acto en La Plata: \"Queremos el poder para gobernar\"",
+          "link": "https://www.clarin.com/politica/radicalismo-bonaerense-relanzo-nuevas-autoridades-acto-plata-queremos-poder-gobernar_0_aTtxzj5zcF.html",
+          "resumen": "Emiliano Balbín llegó como cabeza de lista y es el presidente del Comité Provincia de la UCR. Pablo Nicoletti quedó a cargo de la Convención bonaerense. Un grupo de intendentes se abrió horas antes del acto.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Afiliados de Camioneros interrumpieron la actividad de una planta de OCA en protesta por despidos",
-          "link": "https://www.lanacion.com.ar/politica/trabajadores-del-sindicato-de-camioneros-interrumpieron-la-actividad-de-una-planta-de-oca-en-nid07082026/",
-          "resumen": "Afiliados de la rama Correos golpearon a un empleado de seguridad y llevaron a cabo una asamblea en las instalaciones para denunciar desvinculaciones producto de una mudanza",
+          "titulo": "Turbulencias en la sala de máquinas",
+          "link": "https://www.lanacion.com.ar/politica/turbulencias-en-la-sala-de-maquinas-nid08082026/",
+          "resumen": "El Gobierno volvió a exhibir desorden interno y un Milei más desconectado de la gestión; a más de un mes de la salida de Adorni no recupera sintonía social; los límites del reformismo permanente",
           "fuente": "La Nación"
         }
       ]
@@ -42,34 +42,34 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Dudas con las cifras de inflación y un presidente que llama al Banco Central: ¿Argentina? No, EE.UU.",
-          "link": "https://www.clarin.com/economia/dudas-cifras-inflacion-presidente-llama-banco-central-argentina-eeuu_0_CQoXLS301K.html",
-          "resumen": "Economía de No Ficción. En Washington introdujeron cambios en una medición de la inflación y se armó revuelo dentro de la oposición. Además Trump estaría llamando casi a diario a la Reserva Federal. En la Argentina, con el nuevo IPC del…",
+          "titulo": "La industria pelea entre volver a ser y la dura realidad",
+          "link": "https://www.clarin.com/economia/industria-pelea-volver-dura-realidad_0_w9tnwO7J1W.html",
+          "resumen": "La industria creció en junio 2% contra el mismo mes del año pasado, pero cayó en 2,2% en el semestre. Un informe privado proyecta que van a cerrar 3.000 empresas este año.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 8 de agosto",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-8-de-agosto-nid08082026/",
+          "titulo": "Milei 2.0.: nace una nueva sociedad de poderosos",
+          "link": "https://www.lanacion.com.ar/economia/milei-20-nace-una-nueva-sociedad-de-poderosos-nid09082026/",
+          "resumen": "El boom de Vaca Muerta y el despegue minero están cambiando el mapa del poder y empieza a emerger un establishment propio de la economía que impulsa el Presidente; la embajada de EE.UU., muy activa en la defensa de sus empresas",
+          "fuente": "La Nación"
+        },
+        {
+          "titulo": "El plazo fijo sigue por el piso: cuánto hay que invertir para generar $50.000 en 30 días",
+          "link": "https://www.ambito.com/economia/el-plazo-fijo-sigue-el-piso-cuanto-hay-que-invertir-generar-50000-30-dias-n6307858",
+          "resumen": "Las tasas de los depósitos tradicionales siguen lejos de los niveles de meses anteriores y obligan a los inversores a inmovilizar montos cada vez más altos.",
+          "fuente": "Ámbito"
+        },
+        {
+          "titulo": "Qué dice un reciente libro sobre un desafío clave para Argentina: cómo hacer para que las reglas sobrevivan a los gobiernos",
+          "link": "https://www.clarin.com/economia/dice-reciente-libro-desafio-clave-argentina-hacer-reglas-sobrevivan-gobiernos_0_7DpAAAQt9u.html",
+          "resumen": "El constitucionalista Juan Vicente Sola presentó la segunda edición de “Constitución y Economía” y destacó la importancia de analizar las consecuencias económicas de las decisiones del Estado.",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Dólar hoy y dólar blue hoy: a cuánto cotiza este domingo 9 de agosto",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-domingo-9-de-agosto-nid09082026/",
           "resumen": "La cotización de la moneda estadounidense se mantiene igual que el último día hábil; cómo fue el comportamiento de la divisa informal y los dólares financieros",
           "fuente": "La Nación"
-        },
-        {
-          "titulo": "Consejos para rendir los dólares en Estados Unidos: claves para no gastar de más en el viaje",
-          "link": "https://www.ambito.com/economia/consejos-rendir-los-dolares-estados-unidos-claves-no-gastar-mas-el-viaje-n6307255",
-          "resumen": "Una buena planificación antes de salir y pequeñas decisiones cotidianas pueden marcar una diferencia importante en el presupuesto durante la estadía.",
-          "fuente": "Ámbito"
-        },
-        {
-          "titulo": "Multaron en más de $1800 millones a un buque extranjero que pescaba ilegalmente en aguas argentinas",
-          "link": "https://www.lanacion.com.ar/economia/campo/multaron-en-mas-de-1800-millones-a-un-buque-extranjero-que-pescaba-ilegalmente-en-aguas-argentinas-nid07082026/",
-          "resumen": "Se trata del Hai Xiang 2, de bandera de Vanuatu; según informó la Secretaría de Agricultura, es la cuarta embarcación extranjera sancionada en lo que va del año y su detección se logró a partir del monitoreo de sus movimientos y velocidad",
-          "fuente": "La Nación"
-        },
-        {
-          "titulo": "Las dos caras del consumo: crece el gasto privado, pero cae la venta de productos masivos y se resiente el humor social",
-          "link": "https://www.ambito.com/economia/las-dos-caras-del-consumo-crece-el-gasto-privado-pero-cae-la-venta-productos-masivos-y-se-resiente-el-humor-social-n6308456",
-          "resumen": "\"El consumo masivo es el que más cambia el humor social de las personas y hay que considerarlo en un período electoral\", advirtieron especialistas durante el CtB Summit, organizado por la Cámara de Empresas de Investigación Social y de…",
-          "fuente": "Ámbito"
         }
       ]
     },
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Después de 16 años, el gobierno venezolano liberó a una jueza que estaba presa por \"corrupción espiritual\"",
-          "link": "https://www.clarin.com/mundo/despues-16-anos-gobierno-venezolano-libero-jueza-presa-corrupcion-espiritual_0_RmTZqzuzDZ.html",
-          "resumen": "Recientemente le descubrieron tres lesiones tumorales en distintas partes del cuerpo. Hugo Chávez había pedido que fuera encarcelada a 30 años luego de que le diera la libertad bajo fianza a un banquero.",
+          "titulo": "Confirman las muertes de los pilotos del helicóptero que quedó atrapado en medio del incendio forestal, tras estrellarse en Utah",
+          "link": "https://www.clarin.com/mundo/confirman-muertes-pilotos-helicoptero-quedo-atrapado-medio-incendio-forestal-estrellarse-utah_0_rttm4yHUhq.html",
+          "resumen": "La aeronave participaba de las tareas para combatir el fuego cerca de Richfield y llevaba a dos personas a bordo al momento que se vino abajo. \"Las llamas nos impidieron llegar para rescatar a nuestros hombres\", confirmaron de manera…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Comenzó la construcción del edificio más alto de América Latina: superará los 470 metros",
-          "link": "https://www.lanacion.com.ar/el-mundo/comenzo-la-construccion-del-edificio-mas-alto-de-america-latina-medira-mas-de-470-metros-de-altura-nid06082026/",
-          "resumen": "El megaproyecto se erige en Monterrey como una pieza de ingeniería de vanguardia; promete transformar el perfil urbano regional al alcanzar niveles de altura sin precedentes",
+          "titulo": "La ofensiva del ICE se intensifica: récord de arrestos y una nueva estrategia para detener migrantes en EE.UU.",
+          "link": "https://www.lanacion.com.ar/estados-unidos/la-ofensiva-del-ice-se-intensifica-record-de-arrestos-y-una-nueva-estrategia-para-detener-migrantes-nid09082026/",
+          "resumen": "El foco en los aeropuertos y la demora de los trámites de regularización dejaron a miles de migrantes más expuestos a ser arrestados",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Como respuesta a Meloni, España estableció controles fronterizos a viajeros desde Italia",
-          "link": "https://www.clarin.com/mundo/respuesta-meloni-espana-establecio-controles-fronterizos-viajeros-italia_0_BsAHNUzOy3.html",
-          "resumen": "El Gobierno de Pedro Sánchez estableció restricciones similares al cierre temporal del espacio Schengen que había dispuesto Roma. En principio, durarán hasta el 7 de septiembre. La premier italiana endureció su postura y reiteró que no…",
+          "titulo": "Mauro Vieira: “Argentina debe cesar de inmediato las agresiones para volver al camino de la normalidad en la relación”",
+          "link": "https://www.clarin.com/politica/mauro-vieira-argentina-debe-cesar-inmediato-agresiones-volver-camino-normalidad-relacion_0_AF1UG8mgY5.html",
+          "resumen": "Definiciones del canciller brasileño sobre el enfriamiento de las relaciones entre los gobiernos de Lula y Milei, en conversación exclusiva con Clarín.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "De la Espriella asumió en Colombia y proclamó el inicio “de la recuperación del orden”",
-          "link": "https://www.lanacion.com.ar/el-mundo/de-la-espriella-asumio-en-colombia-y-proclamo-el-inicio-de-la-recuperacion-del-orden-nid07082026/",
-          "resumen": "El dirigente puso fin al mandato de izquierda de Petro y reafirmó sus promesas de campaña ordenando una ofensiva contra el terrorismo y las organizaciones criminales",
+          "titulo": "Playas vacías y “olor insoportable”: así México libra una dura batalla contra el sargazo",
+          "link": "https://www.lanacion.com.ar/el-mundo/playas-vacias-y-olor-insoportable-asi-mexico-libra-una-dura-batalla-contra-el-sargazo-nid08082026/",
+          "resumen": "Barcos especializados de la Marina trabajan en la remoción de la alfombra de algas que cubre las aguas del caribe en un esfuerzo por atenuar el impacto en el mayor polo de turismo internacional del país",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Nuevo ataque de Rusia a Ucrania: dos heridos y daños e incendio en un estadio de fútbol",
-          "link": "https://www.clarin.com/mundo/nuevo-ataque-rusia-ucrania-heridos-danos-incendio-estadio-futbol_0_g8b6pCQFUs.html",
-          "resumen": "El club Chornomorets de Odesa anunció la suspensión del partido previsto para este sábado.",
+          "titulo": "Con el modelo de Venezuela, Estados Unidos ahora busca al próximo líder de Cuba",
+          "link": "https://www.clarin.com/mundo/modelo-venezuela-estados-unidos-ahora-busca-proximo-lider-cuba_0_cHFXrQSTaj.html",
+          "resumen": "El gobierno de Donald Trump no apunta a un cambio total de régimen sino a una modificación. Buscan una figura de la dictadura que sea vertical con Washington y pueda gobernar.",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "River anotó a Thiago Almada en la lista de buena fe de la Sudamericana y dio a los convocados ante Tigre con uno de los nuevos refuerzos",
-          "link": "https://www.clarin.com/deportes/river-anoto-thiago-almada-lista-buena-fe-sudamericana-dio-convocados-tigre-nuevos-refuerzos_0_Di1co7RLX9.html",
-          "resumen": "El delantero de la Selección arribará al país este fin de semana. Pero antes, el equipo de Coudet buscará cortar la mala racha en Victoria. Francisco Ortega debutaría ante el Matador.",
+          "titulo": "Lionel Messi y la orfandad: el dolor por la muerte de Jorge y el legado irreversible de un padre",
+          "link": "https://www.clarin.com/deportes/lionel-messi-orfandad-dolor-muerte-jorge-legado-irreversible-padre_0_ToCKPtqmQZ.html",
+          "resumen": "El hombre que acompañó a Leo dejó una huella imposible de borrar. Ahora, al mejor de todos le toca atravesar el dolor más universal: quedarse sin su viejo.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Enner Valencia habló antes de su llegada a Boca: “Espero estar a la altura física y mentalmente”",
-          "link": "https://www.lanacion.com.ar/deportes/enner-valencia-hablo-antes-de-su-llegada-a-boca-espero-estar-a-la-altura-fisica-y-mentalmente-nid08082026/",
-          "resumen": "El futbolista ecuatoriano de 36 años dialogó con la prensa de su país previo a embarcarse rumbo a Buenos Aires",
+          "titulo": "La despedida a Jorge Messi: mensajes, repercusiones y últimas noticias del papá de Lionel Messi hoy",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/la-despedida-de-jorge-messi-mensajes-repercusiones-y-ultimas-noticias-del-papa-de-lionel-messi-hoy-nid09082026/",
+          "resumen": "El padre de Lionel tenía 68 años y estaba internado en Rosario; el último adiós es en el cementerio El Prado en una ceremonia íntima; las novedades minuto a minuto",
           "fuente": "La Nación"
         },
         {
-          "titulo": "A Victoria por la victoria: River y las claves para cortar la mala racha vs. Tigre",
-          "link": "https://www.ole.com.ar/river-plate/river-plate-eduardo-coudet-tigre_0_VvFcCqfjfn.html",
-          "resumen": "Con Almada alentando a la distancia, necesita de manera urgente cortar el sangrado de las derrotas. Debutarían Ortega y Andrada. Partidazo.",
+          "titulo": "Partidos de HOY, domingo 9 de agosto: agenda, horario y por dónde ver fútbol EN VIVO",
+          "link": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-domingo-9-agosto-2026-agenda-ole-horario-ver-futbol-vivo_0_XaDK1QNw5o.html",
+          "resumen": "Desde el plato fuerte entre San Lorenzo y Huracán en el Torneo Clausura hasta choques estelares en Europa y el ascenso argentino.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Enner Valencia, antes de viajar a Buenos Aires para sumarse a Boca: \"Voy a dar todo de mí para lograr campeonatos\"",
-          "link": "https://www.clarin.com/deportes/enner-valencia-viajar-buenos-aires-sumarse-boca-voy-dar-lograr-campeonatos_0_zyOjuYoKdC.html",
-          "resumen": "Enner Valencia viaja a Buenos Aires para sumarse a Boca. El ecuatoriano contó por qué eligió al conjunto de la Ribera. \"Voy a dar todo de mí para lograr campeonatos\", aseguró.",
+          "titulo": "Así quedaron las tablas del Torneo Clausura 2026: River sigue último y Vélez hizo negocio con Boca en la anual",
+          "link": "https://www.clarin.com/deportes/quedaron-tablas-torneo-clausura-2026-river-ultimo-velez-hizo-negocio-boca-anual_0_Ub0oNWVW2h.html",
+          "resumen": "El equipo de Coudet sufre una racha histórica: está último y sin goles a favor. Los dirigidos por el Vasco Arruabarrena perdieron una buena chance con el Fortín. Todos los resultados y cómo sigue la fecha 4 de la Liga Profesional.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Volea, smash y unos reflejos que sorprendieron al planeta tenis: el punto más increíble del año",
-          "link": "https://www.lanacion.com.ar/deportes/tenis/volea-smash-y-unos-reflejos-que-sorprendieron-al-planeta-tenis-el-punto-mas-increible-del-ano-nid07082026/",
-          "resumen": "Ocurrió en Montreal, durante el Masters 1000 de Canadá; Thiago Tirante volvió a ganar y pasó a octavos",
+          "titulo": "Jorge Messi, el padre y consejero que siempre quiso tener una familia de clase media y acompañó a Leo a la cima",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/quien-era-jorge-messi-padre-y-representante-del-futbolista-argentino-nid08082026/",
+          "resumen": "Falleció en una clínica de Rosario a los 68 años; los recuerdos de los que lo conocían: asados, inversiones y una oficina en su bar, que este sábado estuvo cerrado",
           "fuente": "La Nación"
         }
       ]
