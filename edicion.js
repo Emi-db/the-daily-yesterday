@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "9 de agosto de 2026",
-  "generada": "10:20",
+  "fecha": "10 de agosto de 2026",
+  "generada": "10:55",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Las fisuras en el Gobierno y una misteriosa campaña anti-Milei",
-          "link": "https://www.clarin.com/politica/fisuras-gobierno-misteriosa-campana-anti-milei_0_tMBrDNDT4Q.html",
-          "resumen": "El Presidente tuvo que retroceder varias veces en una semana caliente. La reacción de Karina Milei y los errores de los ministros. Las tres famosas que complicaron a toda una administración.",
+          "titulo": "En el PJ advierten que no habilitarán una candidatura de Cristina Kirchner en 2027",
+          "link": "https://www.clarin.com/politica/pj-advierten-habilitaran-candidatura-cristina-kirchner-2027_0_g70TtnTSen.html",
+          "resumen": "Dicen que permitir su postulación haría que la Justicia Federal intervenga el partido. Se caería así el plan de CFK para condicionar a Kicillof en la interna.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La AFA apunta al plan “calesita” en la Justicia y mira de reojo las novedades que puedan llegar desde Estados Unidos",
-          "link": "https://www.lanacion.com.ar/politica/la-afa-apunta-al-plan-calesita-en-la-justicia-y-mira-de-reojo-las-novedades-que-puedan-llegar-desde-nid09082026/",
-          "resumen": "El miércoles, la Cámara de Casación realizará una audiencia para definir quién investigará la causa por la mansión de Pilar; la disputa por otros expedientes",
+          "titulo": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
+          "link": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+          "resumen": "Los comicios del año próximo definirán los principales cargos del Poder Ejecutivo y la renovación de bancas en el Congreso; qué se elige según la jurisdicción",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Las preocupaciones que afloraron en el Gobierno y la hipótesis de una interna libertaria para 2027",
-          "link": "https://www.infobae.com/politica/2026/08/09/las-preocupaciones-que-afloraron-en-el-gobierno-y-la-hipotesis-de-una-interna-libertaria-para-2027/",
-          "resumen": "Hubo una fuerte autocrítica dentro de la Mesa Política por la estrategia legislativa. Las lecturas sobre cómo corregir el sendero de las negociaciones con aliados. La oposición dialoguista mira la coyuntura y no descarta un nuevo…",
+          "titulo": "Senado: libertarios buscan dejar atrás los errores de las últimas semanas para reordenar la agenda",
+          "link": "https://www.infobae.com/politica/2026/08/10/senado-libertarios-buscan-dejar-atras-los-errores-de-las-ultimas-semanas-para-reordenar-la-agenda/",
+          "resumen": "",
           "fuente": "Infobae"
         },
         {
-          "titulo": "El radicalismo bonaerense se relanzó con nuevas autoridades y un acto en La Plata: \"Queremos el poder para gobernar\"",
-          "link": "https://www.clarin.com/politica/radicalismo-bonaerense-relanzo-nuevas-autoridades-acto-plata-queremos-poder-gobernar_0_aTtxzj5zcF.html",
-          "resumen": "Emiliano Balbín llegó como cabeza de lista y es el presidente del Comité Provincia de la UCR. Pablo Nicoletti quedó a cargo de la Convención bonaerense. Un grupo de intendentes se abrió horas antes del acto.",
+          "titulo": "Jorge Macri ya tantea a Patricia Bullrich como una posible rival en 2027 en la Ciudad de Buenos Aires: \"La competencia saca lo mejor de cada uno\"",
+          "link": "https://www.clarin.com/politica/jorge-macri-tantea-patricia-bullrich-posible-rival-2027-ciudad-buenos-aires-competencia-saca-mejor_0_kQvOrR6pdO.html",
+          "resumen": "El jefe de Gobierno de la Ciudad de Buenos Aires fue consultado por las declaraciones de la senadora libertaria, quien no descartó postularse para sucederlo. \"Está buenísimo\", evaluó sobre una eventual rivalidad el próximo año.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Turbulencias en la sala de máquinas",
-          "link": "https://www.lanacion.com.ar/politica/turbulencias-en-la-sala-de-maquinas-nid08082026/",
-          "resumen": "El Gobierno volvió a exhibir desorden interno y un Milei más desconectado de la gestión; a más de un mes de la salida de Adorni no recupera sintonía social; los límites del reformismo permanente",
+          "titulo": "Javier Milei y sus medidas, en vivo: un nuevo foco de conflicto con Brasil y los desafíos del Gobierno en el Congreso",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-un-nuevo-foco-de-conflicto-con-brasil-y-los-desafios-del-gobierno-nid10082026/",
+          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "La industria pelea entre volver a ser y la dura realidad",
-          "link": "https://www.clarin.com/economia/industria-pelea-volver-dura-realidad_0_w9tnwO7J1W.html",
-          "resumen": "La industria creció en junio 2% contra el mismo mes del año pasado, pero cayó en 2,2% en el semestre. Un informe privado proyecta que van a cerrar 3.000 empresas este año.",
+          "titulo": "El Banco Ciudad presentó su reporte 2025 y obtuvo el segundo retorno más alto del mercado",
+          "link": "https://www.clarin.com/economia/banco-ciudad-presento-reporte-2025-obtuvo-segundo-retorno-alto-mercado_0_d755vYGX4N.html",
+          "resumen": "El resultado neto del ejercicio 2025 fue de $129.441 millones, con un retorno sobre el patrimonio (ROE) de 7,3%.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Milei 2.0.: nace una nueva sociedad de poderosos",
-          "link": "https://www.lanacion.com.ar/economia/milei-20-nace-una-nueva-sociedad-de-poderosos-nid09082026/",
-          "resumen": "El boom de Vaca Muerta y el despegue minero están cambiando el mapa del poder y empieza a emerger un establishment propio de la economía que impulsa el Presidente; la embajada de EE.UU., muy activa en la defensa de sus empresas",
+          "titulo": "Cuánto cobran los cocineros en agosto de 2026",
+          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-cocineros-en-agosto-de-2026-nid07082026/",
+          "resumen": "A la espera de una nueva negociación paritarias, los trabajadores del sector reciben los mismos montos que el mes anterior",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El plazo fijo sigue por el piso: cuánto hay que invertir para generar $50.000 en 30 días",
-          "link": "https://www.ambito.com/economia/el-plazo-fijo-sigue-el-piso-cuanto-hay-que-invertir-generar-50000-30-dias-n6307858",
-          "resumen": "Las tasas de los depósitos tradicionales siguen lejos de los niveles de meses anteriores y obligan a los inversores a inmovilizar montos cada vez más altos.",
+          "titulo": "Belgrano Cargas: el Gobierno cambió el esquema de privatización y definió qué hará con los fondos de la venta de trenes",
+          "link": "https://www.ambito.com/economia/belgrano-cargas-el-gobierno-cambio-el-esquema-privatizacion-y-definio-que-hara-los-fondos-la-venta-trenes-n6308872",
+          "resumen": "El Ejecutivo modificó el mecanismo financiero previsto para la privatización de Belgrano Cargas y Logística. El dinero obtenido por el remate del material rodante será destinado a un fideicomiso exclusivo.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Qué dice un reciente libro sobre un desafío clave para Argentina: cómo hacer para que las reglas sobrevivan a los gobiernos",
-          "link": "https://www.clarin.com/economia/dice-reciente-libro-desafio-clave-argentina-hacer-reglas-sobrevivan-gobiernos_0_7DpAAAQt9u.html",
-          "resumen": "El constitucionalista Juan Vicente Sola presentó la segunda edición de “Constitución y Economía” y destacó la importancia de analizar las consecuencias económicas de las decisiones del Estado.",
+          "titulo": "Dólar blue hoy: a cuánto cotiza este lunes 10 de agosto",
+          "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-lunes-10-agosto_0_DU0768Eafo.html",
+          "resumen": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Dólar hoy y dólar blue hoy: a cuánto cotiza este domingo 9 de agosto",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-domingo-9-de-agosto-nid09082026/",
-          "resumen": "La cotización de la moneda estadounidense se mantiene igual que el último día hábil; cómo fue el comportamiento de la divisa informal y los dólares financieros",
+          "titulo": "Paritaria de la construcción: cuánto cobra un albañil en agosto 2026 con el aumento confirmado por la Uocra",
+          "link": "https://www.lanacion.com.ar/economia/paritaria-de-la-construccion-cuanto-cobra-un-albanil-en-agosto-2026-con-el-aumento-confirmado-por-la-nid06082026/",
+          "resumen": "Los trabajadores del sector tienen una suba salarial del 1,9%; cómo queda la grilla para este mes",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Confirman las muertes de los pilotos del helicóptero que quedó atrapado en medio del incendio forestal, tras estrellarse en Utah",
-          "link": "https://www.clarin.com/mundo/confirman-muertes-pilotos-helicoptero-quedo-atrapado-medio-incendio-forestal-estrellarse-utah_0_rttm4yHUhq.html",
-          "resumen": "La aeronave participaba de las tareas para combatir el fuego cerca de Richfield y llevaba a dos personas a bordo al momento que se vino abajo. \"Las llamas nos impidieron llegar para rescatar a nuestros hombres\", confirmaron de manera…",
+          "titulo": "Encontraron ocho cadáveres desmembrados en fosas clandestinas dentro de una mina ilegal en Ecuador",
+          "link": "https://www.clarin.com/mundo/encontraron-cadaveres-desmembrados-fosas-clandestinas-dentro-mina-ilegal-ecuador_0_Olrl6t9Awy.html",
+          "resumen": "Las víctimas fueron halladas enterradas a unos dos metros de profundidad. La Policía también descubrió vehículos incendiados y analiza denuncias por otras desapariciones.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La ofensiva del ICE se intensifica: récord de arrestos y una nueva estrategia para detener migrantes en EE.UU.",
-          "link": "https://www.lanacion.com.ar/estados-unidos/la-ofensiva-del-ice-se-intensifica-record-de-arrestos-y-una-nueva-estrategia-para-detener-migrantes-nid09082026/",
-          "resumen": "El foco en los aeropuertos y la demora de los trámites de regularización dejaron a miles de migrantes más expuestos a ser arrestados",
-          "fuente": "La Nación"
-        },
-        {
-          "titulo": "Mauro Vieira: “Argentina debe cesar de inmediato las agresiones para volver al camino de la normalidad en la relación”",
-          "link": "https://www.clarin.com/politica/mauro-vieira-argentina-debe-cesar-inmediato-agresiones-volver-camino-normalidad-relacion_0_AF1UG8mgY5.html",
-          "resumen": "Definiciones del canciller brasileño sobre el enfriamiento de las relaciones entre los gobiernos de Lula y Milei, en conversación exclusiva con Clarín.",
+          "titulo": "Aviones F-16 interceptaron dos aeronaves que violaron el espacio aéreo del club donde estaba Donald Trump",
+          "link": "https://www.clarin.com/mundo/aviones-f-16-interceptaron-aeronaves-violaron-espacio-aereo-club-donald-trump_0_VTJaQBdA65.html",
+          "resumen": "\"Todas las aeronaves fueron escoltadas fuera de la zona de forma segura\", informó el organismo en su cuenta X. Ocurrió en la zona de Nueva Jersey, donde el presidente de Estados Unidos pasó el fin de semana.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Playas vacías y “olor insoportable”: así México libra una dura batalla contra el sargazo",
-          "link": "https://www.lanacion.com.ar/el-mundo/playas-vacias-y-olor-insoportable-asi-mexico-libra-una-dura-batalla-contra-el-sargazo-nid08082026/",
-          "resumen": "Barcos especializados de la Marina trabajan en la remoción de la alfombra de algas que cubre las aguas del caribe en un esfuerzo por atenuar el impacto en el mayor polo de turismo internacional del país",
+          "titulo": "Europa se prepara para otra agobiante ola de calor extremo, la quinta desde mayo",
+          "link": "https://www.clarin.com/mundo/europa-prepara-agobiante-ola-calor-extremo-quinta-mayo_0_BerrHVkjJl.html",
+          "resumen": "Esta semana, marcas de entre 35 y 42° afectarán Italia, España y Francia. Y agravarán el riesgo de incendios. Reino Unido es otro de los países en alerta.",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Artemis III: quiénes son los cuatro astronautas para la nueva misión de la NASA en 2027",
+          "link": "https://www.lanacion.com.ar/el-mundo/artemis-iii-quienes-son-los-cuatro-astronautas-para-la-nueva-mision-de-la-nasa-en-2027-nid10082026/",
+          "resumen": "La agencia espacial estadounidense confirmó a los integrantes de la próxima tripulación; la misión pondrá a prueba tecnologías clave para el regreso de los humanos a la Luna",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Con el modelo de Venezuela, Estados Unidos ahora busca al próximo líder de Cuba",
-          "link": "https://www.clarin.com/mundo/modelo-venezuela-estados-unidos-ahora-busca-proximo-lider-cuba_0_cHFXrQSTaj.html",
-          "resumen": "El gobierno de Donald Trump no apunta a un cambio total de régimen sino a una modificación. Buscan una figura de la dictadura que sea vertical con Washington y pueda gobernar.",
+          "titulo": "Sin municiones: el Pentágono presiona a empresas de defensa para que aumenten la producción de armas en Estados Unidos",
+          "link": "https://www.clarin.com/mundo/municiones-pentagono-presiona-empresas-defensa-aumenten-produccion-armas-estados-unidos_0_UQlG1ovP7P.html",
+          "resumen": "Señaló en un comunicado que el departamento se centraba activamente en aumentar las adquisiciones de municiones, con el fin de proporcionar “las armas que nuestros combatientes necesitan al ritmo que exige la amenaza”. Los recientes…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Lionel Messi y la orfandad: el dolor por la muerte de Jorge y el legado irreversible de un padre",
-          "link": "https://www.clarin.com/deportes/lionel-messi-orfandad-dolor-muerte-jorge-legado-irreversible-padre_0_ToCKPtqmQZ.html",
-          "resumen": "El hombre que acompañó a Leo dejó una huella imposible de borrar. Ahora, al mejor de todos le toca atravesar el dolor más universal: quedarse sin su viejo.",
+          "titulo": "La muerte de Jorge Messi: el recuerdo de los vecinos de La Bajada, el barrio de la infancia de Lionel",
+          "link": "https://www.clarin.com/deportes/muerte-jorge-messi-recuerdo-vecinos-bajada-barrio-infancia-lionel_0_Em6BRJkPpg.html",
+          "resumen": "Carlos, Noemí y Jorge siguen viviendo allí, al sur de Rosario, y destacan la sencillez del padre del capitán de la Selección. El kioskero de la cuadra le mostró a Clarín una foto de Leo en los noventa y la señora de enfrente exhibió el…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La despedida a Jorge Messi: mensajes, repercusiones y últimas noticias del papá de Lionel Messi hoy",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/la-despedida-de-jorge-messi-mensajes-repercusiones-y-ultimas-noticias-del-papa-de-lionel-messi-hoy-nid09082026/",
-          "resumen": "El padre de Lionel tenía 68 años y estaba internado en Rosario; el último adiós es en el cementerio El Prado en una ceremonia íntima; las novedades minuto a minuto",
+          "titulo": "Detuvieron a un jugador de fútbol en Santa Fe por golpear al árbitro luego de ser expulsado",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/detuvieron-a-un-jugador-de-futbol-en-santa-fe-por-golpear-al-arbitro-luego-de-ser-expulsado-nid10082026/",
+          "resumen": "El hecho ocurrió en la ciudad de Capitán Bermúdez, durante el encuentro que disputaban Santa Catalina y Barrio Quinta por el torneo de la Liga Regional Sanlorencina",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Partidos de HOY, domingo 9 de agosto: agenda, horario y por dónde ver fútbol EN VIVO",
-          "link": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-domingo-9-agosto-2026-agenda-ole-horario-ver-futbol-vivo_0_XaDK1QNw5o.html",
-          "resumen": "Desde el plato fuerte entre San Lorenzo y Huracán en el Torneo Clausura hasta choques estelares en Europa y el ascenso argentino.",
+          "titulo": "Partidos de HOY, lunes 10 de agosto: agenda, horario y por dónde ver fútbol EN VIVO",
+          "link": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-lunes-10-agosto-dia-hora-ver-tv-online-formaciones_0_Z84vbJyp0b.html",
+          "resumen": "Sigue la actividad de la cuarta fecha del Torneo Clausura, hay acción en el ascenso, en varias ligas de Sudamérica y más. Conocé la agenda completa del día.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Así quedaron las tablas del Torneo Clausura 2026: River sigue último y Vélez hizo negocio con Boca en la anual",
-          "link": "https://www.clarin.com/deportes/quedaron-tablas-torneo-clausura-2026-river-ultimo-velez-hizo-negocio-boca-anual_0_Ub0oNWVW2h.html",
-          "resumen": "El equipo de Coudet sufre una racha histórica: está último y sin goles a favor. Los dirigidos por el Vasco Arruabarrena perdieron una buena chance con el Fortín. Todos los resultados y cómo sigue la fecha 4 de la Liga Profesional.",
+          "titulo": "El codazo de Maravilla Martínez que dejó con 10 a Racing: ¿se pierde el clásico ante Boca?",
+          "link": "https://www.clarin.com/deportes/codazo-maravilla-martinez-dejo-10-racing-pierde-clasico-boca_0_BMk8Rd3KIs.html",
+          "resumen": "El delantero recibió la roja directa tras un codazo a Kevin Gutiérrez que fue revisado por el VAR. A la espera de la resolución del Tribunal de Disciplina, podría recibir una segunda por la gravedad de la infracción y su antecedente…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Jorge Messi, el padre y consejero que siempre quiso tener una familia de clase media y acompañó a Leo a la cima",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/quien-era-jorge-messi-padre-y-representante-del-futbolista-argentino-nid08082026/",
-          "resumen": "Falleció en una clínica de Rosario a los 68 años; los recuerdos de los que lo conocían: asados, inversiones y una oficina en su bar, que este sábado estuvo cerrado",
+          "titulo": "El insólito penal que cobraron para San Martín de Tucumán en la Primera Nacional",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/el-insolito-penal-que-cobraron-para-san-martin-de-tucuman-ante-san-martin-de-san-juan-nid10082026/",
+          "resumen": "El árbitro sancionó una supuesta mano tras un remate que había dado en la pierna; el club visitante calificó la decisión de “vergonzosa”",
           "fuente": "La Nación"
         }
       ]
