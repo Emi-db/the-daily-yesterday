@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "10 de agosto de 2026",
-  "generada": "10:55",
+  "fecha": "11 de agosto de 2026",
+  "generada": "10:40",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "En el PJ advierten que no habilitarán una candidatura de Cristina Kirchner en 2027",
-          "link": "https://www.clarin.com/politica/pj-advierten-habilitaran-candidatura-cristina-kirchner-2027_0_g70TtnTSen.html",
-          "resumen": "Dicen que permitir su postulación haría que la Justicia Federal intervenga el partido. Se caería así el plan de CFK para condicionar a Kicillof en la interna.",
+          "titulo": "Avanza la concesión del Canal de la Ciudad al dueño de Blender y Carajo",
+          "link": "https://www.clarin.com/politica/avanza-concesion-canal-ciudad-dueno-blender-carajo_0_9BlhJGgtAz.html",
+          "resumen": "El Gobierno porteño preadjudicó la emisora a Cale Group, la empresa de Augusto Marini, que ofreció un canon de $50 millones mensuales durante cinco años. Comenzaron las reuniones para reubicar en otras área de la Ciudad a los empleados de…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
-          "link": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-          "resumen": "Los comicios del año próximo definirán los principales cargos del Poder Ejecutivo y la renovación de bancas en el Congreso; qué se elige según la jurisdicción",
+          "titulo": "Javier Milei y sus medidas, en vivo: los acuerdos del Gobierno de cara a 2027 y la agenda legislativa en Diputados",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-los-acuerdos-del-gobierno-de-cara-a-2027-y-la-agenda-legislativa-nid11082026/",
+          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Senado: libertarios buscan dejar atrás los errores de las últimas semanas para reordenar la agenda",
-          "link": "https://www.infobae.com/politica/2026/08/10/senado-libertarios-buscan-dejar-atras-los-errores-de-las-ultimas-semanas-para-reordenar-la-agenda/",
-          "resumen": "",
+          "titulo": "Actualizaron los canales para la inscripción de usuarios de explosivos y sustancias controladas",
+          "link": "https://www.infobae.com/politica/2026/08/11/actualizaron-los-canales-para-la-inscripcion-de-usuarios-de-explosivos-y-sustancias-controladas/",
+          "resumen": "El RENAR estableció que la plataforma Tramites a Distancia (TAD) será el único habilitado. Además indicaron que los requisito para operar con este tipo de materiales no cambiaron, sino que se pasó a una instancia digital",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Jorge Macri ya tantea a Patricia Bullrich como una posible rival en 2027 en la Ciudad de Buenos Aires: \"La competencia saca lo mejor de cada uno\"",
-          "link": "https://www.clarin.com/politica/jorge-macri-tantea-patricia-bullrich-posible-rival-2027-ciudad-buenos-aires-competencia-saca-mejor_0_kQvOrR6pdO.html",
-          "resumen": "El jefe de Gobierno de la Ciudad de Buenos Aires fue consultado por las declaraciones de la senadora libertaria, quien no descartó postularse para sucederlo. \"Está buenísimo\", evaluó sobre una eventual rivalidad el próximo año.",
+          "titulo": "\"Torpeza política\": en el bloque peronista del Senado le pasan factura a una camporista",
+          "link": "https://www.clarin.com/politica/torpeza-politica-bloque-peronista-senado-pasan-factura-camporista_0_vminlfY3Zv.html",
+          "resumen": "Es por el pedido de una senadora para votar por Zoom. Dicen que no consultó a su bloque. Los peligros.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: un nuevo foco de conflicto con Brasil y los desafíos del Gobierno en el Congreso",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-un-nuevo-foco-de-conflicto-con-brasil-y-los-desafios-del-gobierno-nid10082026/",
-          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "titulo": "Los límites del programa de Milei",
+          "link": "https://www.lanacion.com.ar/politica/los-limites-del-programa-de-milei-nid11082026/",
+          "resumen": "El error de confundir política con ciencia; factores de la caída del poder adquisitivo; el Gran Buenos Aires a merced de cuatro empresarios; irregularidades con el fondo vial; estalló la nueva guerra misionera; ¿Lula gana votos con los…",
           "fuente": "La Nación"
         }
       ]
@@ -42,34 +42,34 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "El Banco Ciudad presentó su reporte 2025 y obtuvo el segundo retorno más alto del mercado",
-          "link": "https://www.clarin.com/economia/banco-ciudad-presento-reporte-2025-obtuvo-segundo-retorno-alto-mercado_0_d755vYGX4N.html",
-          "resumen": "El resultado neto del ejercicio 2025 fue de $129.441 millones, con un retorno sobre el patrimonio (ROE) de 7,3%.",
+          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este martes 11 de agosto",
+          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-martes-11-agosto_0_qTy3qcg7Lf.html",
+          "resumen": "Mirá la cotización para la compra y venta del dólar tarjeta hoy. Cotizaciones, evolución, previsiones e información para el cambio de monedas.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Cuánto cobran los cocineros en agosto de 2026",
-          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-cocineros-en-agosto-de-2026-nid07082026/",
-          "resumen": "A la espera de una nueva negociación paritarias, los trabajadores del sector reciben los mismos montos que el mes anterior",
+          "titulo": "Quiso entrar con granos de maíz y de soja desde Perú y lo frenaron en el aeropuerto",
+          "link": "https://www.lanacion.com.ar/economia/campo/quiso-entrar-con-granos-de-maiz-y-de-soja-desde-peru-y-lo-frenaron-en-el-aeropuerto-nid10082026/",
+          "resumen": "El Senasa realizó un procedimiento en el equipaje de un pasajero que llegó desde ese país a Córdoba",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Belgrano Cargas: el Gobierno cambió el esquema de privatización y definió qué hará con los fondos de la venta de trenes",
-          "link": "https://www.ambito.com/economia/belgrano-cargas-el-gobierno-cambio-el-esquema-privatizacion-y-definio-que-hara-los-fondos-la-venta-trenes-n6308872",
-          "resumen": "El Ejecutivo modificó el mecanismo financiero previsto para la privatización de Belgrano Cargas y Logística. El dinero obtenido por el remate del material rodante será destinado a un fideicomiso exclusivo.",
+          "titulo": "Para Guzmán, la morosidad no es un asunto entre privados y el BCRA \"tiene el mandato de atacar el problema\"",
+          "link": "https://www.ambito.com/economia/para-guzman-la-morosidad-no-es-un-asunto-privados-y-el-bcra-tiene-el-mandato-atacar-el-problema-n6309293",
+          "resumen": "El exministro de Economía cuestionó el rumbo del Gobierno, reclamó mayor margen de autonomía frente al FMI y advirtió por el deterioro del sistema productivo y laboral de cara a 2027.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Dólar blue hoy: a cuánto cotiza este lunes 10 de agosto",
-          "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-lunes-10-agosto_0_DU0768Eafo.html",
-          "resumen": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
-          "fuente": "Clarín"
+          "titulo": "El Niño activó las alarmas en Buenos Aires y piden acciones urgentes",
+          "link": "https://www.lanacion.com.ar/economia/campo/el-nino-activo-las-alarmas-en-la-provincia-y-piden-acciones-urgentes-nid10082026/",
+          "resumen": "Carbap advirtió que la provincia llega ante el fenómeno climático con una infraestructura deteriorada, pocas obras hidráulicas y 120.000 kilómetros de caminos rurales con escaso mantenimiento; temen que las lluvias compliquen la siembra y…",
+          "fuente": "La Nación"
         },
         {
-          "titulo": "Paritaria de la construcción: cuánto cobra un albañil en agosto 2026 con el aumento confirmado por la Uocra",
-          "link": "https://www.lanacion.com.ar/economia/paritaria-de-la-construccion-cuanto-cobra-un-albanil-en-agosto-2026-con-el-aumento-confirmado-por-la-nid06082026/",
-          "resumen": "Los trabajadores del sector tienen una suba salarial del 1,9%; cómo queda la grilla para este mes",
-          "fuente": "La Nación"
+          "titulo": "Importaciones \"puerta a puerta\" cuadruplicaron su peso sobre la venta de ropa y electrónica, con precios hasta 54% más bajos",
+          "link": "https://www.ambito.com/economia/importaciones-puerta-puerta-cuadruplicaron-su-peso-la-venta-ropa-y-electronica-precios-54-mas-bajos-n6309241",
+          "resumen": "Mientras las compras externas asociadas a la producción caen, aquellas vinculadas al consumo siguen en alza. El courier afecta al comercio minorista, ya golpeado por los bajos salarios.",
+          "fuente": "Ámbito"
         }
       ]
     },
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Encontraron ocho cadáveres desmembrados en fosas clandestinas dentro de una mina ilegal en Ecuador",
-          "link": "https://www.clarin.com/mundo/encontraron-cadaveres-desmembrados-fosas-clandestinas-dentro-mina-ilegal-ecuador_0_Olrl6t9Awy.html",
-          "resumen": "Las víctimas fueron halladas enterradas a unos dos metros de profundidad. La Policía también descubrió vehículos incendiados y analiza denuncias por otras desapariciones.",
+          "titulo": "Terremoto en Colombia: un argentino permanece desaparecido y su familia no logra contactarlo",
+          "link": "https://www.clarin.com/mundo/terremoto-colombia-sanjuanino-permanece-desaparecido-familia-logra-contactarlo_0_riYUVFWaBc.html",
+          "resumen": "Carlos Luis Cáceres tiene 69 años, es de San Juan y fue visto por última vez el lunes en la zona de Pereira-Dosquebradas, donde reside desde hace cinco años. Sus familiares aseguran que las comunicaciones continúan colapsadas y…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Aviones F-16 interceptaron dos aeronaves que violaron el espacio aéreo del club donde estaba Donald Trump",
-          "link": "https://www.clarin.com/mundo/aviones-f-16-interceptaron-aeronaves-violaron-espacio-aereo-club-donald-trump_0_VTJaQBdA65.html",
-          "resumen": "\"Todas las aeronaves fueron escoltadas fuera de la zona de forma segura\", informó el organismo en su cuenta X. Ocurrió en la zona de Nueva Jersey, donde el presidente de Estados Unidos pasó el fin de semana.",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "Europa se prepara para otra agobiante ola de calor extremo, la quinta desde mayo",
-          "link": "https://www.clarin.com/mundo/europa-prepara-agobiante-ola-calor-extremo-quinta-mayo_0_BerrHVkjJl.html",
-          "resumen": "Esta semana, marcas de entre 35 y 42° afectarán Italia, España y Francia. Y agravarán el riesgo de incendios. Reino Unido es otro de los países en alerta.",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "Artemis III: quiénes son los cuatro astronautas para la nueva misión de la NASA en 2027",
-          "link": "https://www.lanacion.com.ar/el-mundo/artemis-iii-quienes-son-los-cuatro-astronautas-para-la-nueva-mision-de-la-nasa-en-2027-nid10082026/",
-          "resumen": "La agencia espacial estadounidense confirmó a los integrantes de la próxima tripulación; la misión pondrá a prueba tecnologías clave para el regreso de los humanos a la Luna",
+          "titulo": "Un fuerte terremoto de magnitud 7,4 sacudió a Colombia: hubo réplicas en distintos distritos y al menos 132 muertos",
+          "link": "https://www.lanacion.com.ar/el-mundo/fuerte-terremoto-de-magnitud-74-sacude-a-colombia-y-se-siente-en-bogota-y-quito-nid10082026/",
+          "resumen": "El flamante presidente De la Espriella confirmó la cifra de víctimas y declaró “la situación de desastre nacional”; el epicentro fue localizado cerca de San José del Palmar; hay personas atrapadas tras serios daños estructurales",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Sin municiones: el Pentágono presiona a empresas de defensa para que aumenten la producción de armas en Estados Unidos",
-          "link": "https://www.clarin.com/mundo/municiones-pentagono-presiona-empresas-defensa-aumenten-produccion-armas-estados-unidos_0_UQlG1ovP7P.html",
-          "resumen": "Señaló en un comunicado que el departamento se centraba activamente en aumentar las adquisiciones de municiones, con el fin de proporcionar “las armas que nuestros combatientes necesitan al ritmo que exige la amenaza”. Los recientes…",
+          "titulo": "Un contenedor de comida, un avión señuelo y una amenaza de Irán: así fue la operación secreta para sacar a Donald Trump de Turquía",
+          "link": "https://www.clarin.com/mundo/contenedor-comida-avion-senuelo-amenaza-iran-operacion-secreta-sacar-donald-trump-turquia_0_zI0O6RtYRQ.html",
+          "resumen": "La maniobra fue revelada y corroborada por medios estadounidenses, en base a fuentes cercanas a la Casa Blanca. Según esas versiones, el operativo incluyó un despliegue diseñado para ocultar el verdadero itinerario del mandatario durante…",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Fuerte terremoto de 7,4 en Colombia: el temblor sacudió a todo el país este 10 de agosto",
+          "link": "https://www.lanacion.com.ar/el-mundo/fuerte-terremoto-de-74-en-colombia-en-vivo-el-temblor-sacudio-a-todo-el-pais-hoy-10-de-agosto-nid10082026/",
+          "resumen": "El epicentro se registró en San José del Palmar, en el departamento del Chocó, a unos 280 kilómetros al oeste de Bogotá, y afectó a gran parte del territorio; se registraron al menos 111 muertos",
+          "fuente": "La Nación"
+        },
+        {
+          "titulo": "Terremoto en Colombia: el recuerdo de la tragedia del gran sismo de 1999 en la ciudad de Armenia",
+          "link": "https://www.clarin.com/mundo/terremoto-colombia-recuerdo-tragedia-gran-sismo-1999-ciudad-armenia_0_4JxvvVVeXU.html",
+          "resumen": "La capital del departamento del Quindío tembló el 25 de enero de 1999 y causó 1.185 muertos en la zona cafetera del centro del país. Tuvo una magnitud de 6,1, a una profundidad de 21 kilómetros, con epicentro en la localidad de Córdoba.",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "La muerte de Jorge Messi: el recuerdo de los vecinos de La Bajada, el barrio de la infancia de Lionel",
-          "link": "https://www.clarin.com/deportes/muerte-jorge-messi-recuerdo-vecinos-bajada-barrio-infancia-lionel_0_Em6BRJkPpg.html",
-          "resumen": "Carlos, Noemí y Jorge siguen viviendo allí, al sur de Rosario, y destacan la sencillez del padre del capitán de la Selección. El kioskero de la cuadra le mostró a Clarín una foto de Leo en los noventa y la señora de enfrente exhibió el…",
+          "titulo": "Manual de instrucciones para entender la guerra por el poder en la FIFA: quiénes desafían a Infantino y qué debe pasar para que haya un cambio de mando en el fútbol mundial",
+          "link": "https://www.clarin.com/deportes/manual-instrucciones-entender-guerra-poder-fifa-desafian-infantino-debe-pasar-cambio-mando-futbol-mundial_0_X8oqRi6Lfn.html",
+          "resumen": "UEFA, AFC y Concacaf profundizaron su enfrentamiento con Gianni Infantino y ya se mueven las posibles alternativas. El 18 de noviembre vence el plazo para presentar candidatos y la elección será el 18 de marzo de 2027.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Detuvieron a un jugador de fútbol en Santa Fe por golpear al árbitro luego de ser expulsado",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/detuvieron-a-un-jugador-de-futbol-en-santa-fe-por-golpear-al-arbitro-luego-de-ser-expulsado-nid10082026/",
-          "resumen": "El hecho ocurrió en la ciudad de Capitán Bermúdez, durante el encuentro que disputaban Santa Catalina y Barrio Quinta por el torneo de la Liga Regional Sanlorencina",
+          "titulo": "Partidos de hoy, martes 11 de agosto: horarios y por dónde ver en vivo online",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/partidos-de-hoy-martes-11-de-agosto-horarios-y-por-donde-ver-en-vivo-online-nid11082026/",
+          "resumen": "En la agenda del día se destaca el inicio de los octavos de las copas Libertadores y Sudamericana y el cierre de la cuarta fecha del Torneo Clausura; también hay acción en el Viejo Continente",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Partidos de HOY, lunes 10 de agosto: agenda, horario y por dónde ver fútbol EN VIVO",
-          "link": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-lunes-10-agosto-dia-hora-ver-tv-online-formaciones_0_Z84vbJyp0b.html",
-          "resumen": "Sigue la actividad de la cuarta fecha del Torneo Clausura, hay acción en el ascenso, en varias ligas de Sudamérica y más. Conocé la agenda completa del día.",
+          "titulo": "Coudet, entre el What's up? y el Whatsapp, entre la historia y la histeria",
+          "link": "https://www.ole.com.ar/opinion/coudet-paciencia-thiago-almada-refuerzo-river-millonarios-opinion-francotirador-ole_0_3zjScWzC0m.html",
+          "resumen": "Le cabe al Chacho pero también a cualquier entrenador. Le cabe a los hinchas de River pero también a los de cualquier club argento. A veces, por más billetera que se tenga, los éxitos tardan en llegar. ¿Cuánto dura la paciencia?",
           "fuente": "Olé"
         },
         {
-          "titulo": "El codazo de Maravilla Martínez que dejó con 10 a Racing: ¿se pierde el clásico ante Boca?",
-          "link": "https://www.clarin.com/deportes/codazo-maravilla-martinez-dejo-10-racing-pierde-clasico-boca_0_BMk8Rd3KIs.html",
-          "resumen": "El delantero recibió la roja directa tras un codazo a Kevin Gutiérrez que fue revisado por el VAR. A la espera de la resolución del Tribunal de Disciplina, podría recibir una segunda por la gravedad de la infracción y su antecedente…",
+          "titulo": "Vuelve la Copa Libertadores: cuatro ilusiones argentinas y dos semanas de cruces de alto voltaje en los octavos de final",
+          "link": "https://www.clarin.com/deportes/vuelve-copa-libertadores-ilusiones-argentinas-semanas-cruces-alto-voltaje-octavos-final_0_OUfpzaO6or.html",
+          "resumen": "Independiente Rivadavia, Estudiantes, Platense y Rosario Central son los cuatro representantes argentinos que siguen en carrera. Flamengo-Cruzeiro y Palmeiras-Cerro Porteño aparecen entre los grandes duelos de una instancia que se…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El insólito penal que cobraron para San Martín de Tucumán en la Primera Nacional",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/el-insolito-penal-que-cobraron-para-san-martin-de-tucuman-ante-san-martin-de-san-juan-nid10082026/",
-          "resumen": "El árbitro sancionó una supuesta mano tras un remate que había dado en la pierna; el club visitante calificó la decisión de “vergonzosa”",
+          "titulo": "Astrada y Fucks se cruzaron por el penal que reclamó River en la derrota ante Tigre: “Es solamente una opinión”",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/astrada-y-fucks-se-cruzaron-por-el-penal-que-reclamo-river-en-la-derrota-ante-tigre-es-solamente-una-nid11082026/",
+          "resumen": "El debate giró entorno a la decisión del árbitro Andrés Gariano de no sancionar la falta y se disparó a raíz de la opinión de Juan Pablo Varsky, quien fue criticado en redes sociales por considerar correcta la visión del juez",
           "fuente": "La Nación"
         }
       ]
