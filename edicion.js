@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "11 de agosto de 2026",
-  "generada": "10:40",
+  "fecha": "12 de agosto de 2026",
+  "generada": "10:49",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Avanza la concesión del Canal de la Ciudad al dueño de Blender y Carajo",
-          "link": "https://www.clarin.com/politica/avanza-concesion-canal-ciudad-dueno-blender-carajo_0_9BlhJGgtAz.html",
-          "resumen": "El Gobierno porteño preadjudicó la emisora a Cale Group, la empresa de Augusto Marini, que ofreció un canon de $50 millones mensuales durante cinco años. Comenzaron las reuniones para reubicar en otras área de la Ciudad a los empleados de…",
+          "titulo": "Nueva encuesta y sorpresa: lideraron tres opositores, Milei quedó cuarto y un famoso último",
+          "link": "https://www.clarin.com/politica/nueva-encuesta-sorpresa-lideraron-opositores-milei-quedo-cuarto-famoso-ultimo_0_VwQxyhfC33.html",
+          "resumen": "Es un estudio nacional de la UBA que midió a 16 políticos y potenciales candidatos. Todos terminaron con más imagen negativa que positiva salvo una diputada.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: los acuerdos del Gobierno de cara a 2027 y la agenda legislativa en Diputados",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-los-acuerdos-del-gobierno-de-cara-a-2027-y-la-agenda-legislativa-nid11082026/",
+          "titulo": "Javier Milei y sus medidas, en vivo: el Gobierno busca retomar la iniciativa en el Congreso y reactiva la mesa política",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-busca-retomar-la-iniciativa-en-el-congreso-y-reactiva-nid12082026/",
           "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Actualizaron los canales para la inscripción de usuarios de explosivos y sustancias controladas",
-          "link": "https://www.infobae.com/politica/2026/08/11/actualizaron-los-canales-para-la-inscripcion-de-usuarios-de-explosivos-y-sustancias-controladas/",
-          "resumen": "El RENAR estableció que la plataforma Tramites a Distancia (TAD) será el único habilitado. Además indicaron que los requisito para operar con este tipo de materiales no cambiaron, sino que se pasó a una instancia digital",
+          "titulo": "Modo preelectoral: el Gobierno busca rescatar proyectos de ley para rearmar puentes con los aliados",
+          "link": "https://www.infobae.com/politica/2026/08/12/modo-preelectoral-el-gobierno-busca-rescatar-proyectos-de-ley-para-rearmar-puentes-con-los-aliados/",
+          "resumen": "En la previa de los acuerdos desempolvan iniciativas de bajo perfil pero impacto directo. Reducción del IVA a la mandioca y un cambio en el régimen de banquinas para cerrar heridas tras los roces por los pliegos judiciales y el traspié…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "\"Torpeza política\": en el bloque peronista del Senado le pasan factura a una camporista",
-          "link": "https://www.clarin.com/politica/torpeza-politica-bloque-peronista-senado-pasan-factura-camporista_0_vminlfY3Zv.html",
-          "resumen": "Es por el pedido de una senadora para votar por Zoom. Dicen que no consultó a su bloque. Los peligros.",
+          "titulo": "Escándalo en General Rodríguez: un funcionario denunció a un concejal de su propio partido, Fuerza Patria, por vínculos con narcos",
+          "link": "https://www.clarin.com/politica/escandalo-general-rodriguez-funcionario-denuncio-concejal-propio-partido-fuerza-patria-vinculos-narcos_0_DXnTbFDTmn.html",
+          "resumen": "Se trata de Javier Tarragona, edil kirchnerista del partido del oeste del conurbano. La denuncia fue radicada por el secretario de Seguridad, Justicia y Política Criminal del distrito.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Los límites del programa de Milei",
-          "link": "https://www.lanacion.com.ar/politica/los-limites-del-programa-de-milei-nid11082026/",
-          "resumen": "El error de confundir política con ciencia; factores de la caída del poder adquisitivo; el Gran Buenos Aires a merced de cuatro empresarios; irregularidades con el fondo vial; estalló la nueva guerra misionera; ¿Lula gana votos con los…",
+          "titulo": "Prueba para el Gobierno: los jueces Yadarola y Bertuzzi defienden en el Senado sus nominaciones para un tribunal penal estratégico",
+          "link": "https://www.lanacion.com.ar/politica/prueba-para-el-gobierno-los-jueces-yadarola-y-bertuzzi-defienden-en-el-senado-sus-nominaciones-para-nid12082026/",
+          "resumen": "Ambos magistrados están propuestos por Milei para la Cámara Federal porteña, que tiene la función de revisar causas que tramitan en Comodoro Py, como los casos Andis, $LIBRA",
           "fuente": "La Nación"
         }
       ]
@@ -42,34 +42,34 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este martes 11 de agosto",
-          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-martes-11-agosto_0_qTy3qcg7Lf.html",
-          "resumen": "Mirá la cotización para la compra y venta del dólar tarjeta hoy. Cotizaciones, evolución, previsiones e información para el cambio de monedas.",
+          "titulo": "Las pymes industriales siguen con baja de su actividad y eliminando empleos",
+          "link": "https://www.clarin.com/economia/pymes-industriales-siguen-baja-actividad-eliminando-empleos_0_EL3mLjOYZm.html",
+          "resumen": "Así lo arroja la encuesta del Observatorio Pyme del segundo trimestre del año. Hacia adelante, en medio de un panorama de contracción, hay expectativas de mayor actividad y rentabilidad para 2027.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Quiso entrar con granos de maíz y de soja desde Perú y lo frenaron en el aeropuerto",
-          "link": "https://www.lanacion.com.ar/economia/campo/quiso-entrar-con-granos-de-maiz-y-de-soja-desde-peru-y-lo-frenaron-en-el-aeropuerto-nid10082026/",
-          "resumen": "El Senasa realizó un procedimiento en el equipaje de un pasajero que llegó desde ese país a Córdoba",
+          "titulo": "La Justicia de EE.UU. descargó el teléfono de un exdirectivo de la AFA y analiza sus movimientos comerciales",
+          "link": "https://www.lanacion.com.ar/politica/la-justicia-de-eeuu-descargo-el-telefono-de-un-exdirectivo-de-la-afa-y-analiza-sus-movimientos-nid11082026/",
+          "resumen": "Se trata de Leandro Petersen, exdirector de Marketing de la asociación; ya contrató a un estudio de abogados en Miami, donde fue radicada la investigación",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Para Guzmán, la morosidad no es un asunto entre privados y el BCRA \"tiene el mandato de atacar el problema\"",
-          "link": "https://www.ambito.com/economia/para-guzman-la-morosidad-no-es-un-asunto-privados-y-el-bcra-tiene-el-mandato-atacar-el-problema-n6309293",
-          "resumen": "El exministro de Economía cuestionó el rumbo del Gobierno, reclamó mayor margen de autonomía frente al FMI y advirtió por el deterioro del sistema productivo y laboral de cara a 2027.",
+          "titulo": "El Gobierno definió en qué podrán invertir los fondos del FAL y fijó límites para las carteras",
+          "link": "https://www.ambito.com/economia/el-gobierno-definio-que-podran-invertir-los-fondos-del-fal-y-fijo-limites-las-carteras-n6309800",
+          "resumen": "La Resolución 1276/2026 fijó las pautas para administrar los recursos del Fondo de Asistencia Laboral. Podrán invertirse en deuda del Estado nacional, provincias y Ciudad, depósitos bancarios y obligaciones negociables privadas.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "El Niño activó las alarmas en Buenos Aires y piden acciones urgentes",
-          "link": "https://www.lanacion.com.ar/economia/campo/el-nino-activo-las-alarmas-en-la-provincia-y-piden-acciones-urgentes-nid10082026/",
-          "resumen": "Carbap advirtió que la provincia llega ante el fenómeno climático con una infraestructura deteriorada, pocas obras hidráulicas y 120.000 kilómetros de caminos rurales con escaso mantenimiento; temen que las lluvias compliquen la siembra y…",
+          "titulo": "Una láctea paralizada se prepara para reactivar sus actividades la semana que viene y procesar 100.000 litros de leche diarios",
+          "link": "https://www.clarin.com/rural/lactea-paralizada-prepara-reactivar-actividades-semana-viene-procesar-100000-litros-leche-diarios_0_D2JYBQdNiW.html",
+          "resumen": "Tras su compra a mediados del mes pasado, el dueño de Sudamericana de Lácteos espera comenzar a producir en los próximos días, tras más de medio año de inactividad.",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Retiran carne argentina en los Estados Unidos que no pasó por una reinspección obligatoria",
+          "link": "https://www.lanacion.com.ar/economia/campo/retiran-carne-argentina-de-los-estados-unidos-porque-no-paso-por-una-reinspeccion-obligatoria-nid11082026/",
+          "resumen": "Se trata de unas 13,4 toneladas de cortes que un importador envió a un cliente final que, presuntamente por un error, omitió cumplir con ese paso; descartan un problema sanitario",
           "fuente": "La Nación"
-        },
-        {
-          "titulo": "Importaciones \"puerta a puerta\" cuadruplicaron su peso sobre la venta de ropa y electrónica, con precios hasta 54% más bajos",
-          "link": "https://www.ambito.com/economia/importaciones-puerta-puerta-cuadruplicaron-su-peso-la-venta-ropa-y-electronica-precios-54-mas-bajos-n6309241",
-          "resumen": "Mientras las compras externas asociadas a la producción caen, aquellas vinculadas al consumo siguen en alza. El courier afecta al comercio minorista, ya golpeado por los bajos salarios.",
-          "fuente": "Ámbito"
         }
       ]
     },
@@ -77,34 +77,34 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Terremoto en Colombia: un argentino permanece desaparecido y su familia no logra contactarlo",
-          "link": "https://www.clarin.com/mundo/terremoto-colombia-sanjuanino-permanece-desaparecido-familia-logra-contactarlo_0_riYUVFWaBc.html",
-          "resumen": "Carlos Luis Cáceres tiene 69 años, es de San Juan y fue visto por última vez el lunes en la zona de Pereira-Dosquebradas, donde reside desde hace cinco años. Sus familiares aseguran que las comunicaciones continúan colapsadas y…",
+          "titulo": "Drama en Afganistán: los talibán dejan a 2,4 millones de niñas sin educación secundaria",
+          "link": "https://www.clarin.com/mundo/drama-afganistan-taliban-dejan-24-millones-ninas-educacion-secundaria_0_5O5QRMOBYZ.html",
+          "resumen": "En 2026, el número de niñas afectadas aumentó en 200.000 respecto a 2025. Y \"si la prohibición persiste, cerca de cuatro millones de niñas podrían verse privadas de ella de aquí a 2030\", afirma la UNESCO.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Un fuerte terremoto de magnitud 7,4 sacudió a Colombia: hubo réplicas en distintos distritos y al menos 132 muertos",
-          "link": "https://www.lanacion.com.ar/el-mundo/fuerte-terremoto-de-magnitud-74-sacude-a-colombia-y-se-siente-en-bogota-y-quito-nid10082026/",
-          "resumen": "El flamante presidente De la Espriella confirmó la cifra de víctimas y declaró “la situación de desastre nacional”; el epicentro fue localizado cerca de San José del Palmar; hay personas atrapadas tras serios daños estructurales",
+          "titulo": "A qué hora y dónde se verá el eclipse solar hoy, miércoles 12 de agosto",
+          "link": "https://www.lanacion.com.ar/el-mundo/a-que-hora-y-donde-se-vera-el-eclipse-solar-hoy-miercoles-12-de-agosto-nid12082026/",
+          "resumen": "El fenómeno astronómico cubrirá de oscuridad parte del hemisferio norte; cuáles son los horarios de inicio en cada región y la equivalencia para seguirlo desde la Argentina",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Un contenedor de comida, un avión señuelo y una amenaza de Irán: así fue la operación secreta para sacar a Donald Trump de Turquía",
-          "link": "https://www.clarin.com/mundo/contenedor-comida-avion-senuelo-amenaza-iran-operacion-secreta-sacar-donald-trump-turquia_0_zI0O6RtYRQ.html",
-          "resumen": "La maniobra fue revelada y corroborada por medios estadounidenses, en base a fuentes cercanas a la Casa Blanca. Según esas versiones, el operativo incluyó un despliegue diseñado para ocultar el verdadero itinerario del mandatario durante…",
+          "titulo": "Pereira, la \"ciudad zombie\" devastada por el terremoto en Colombia",
+          "link": "https://www.clarin.com/mundo/pereira-ciudad-zombie-devastada-terremoto-colombia_0_OeMqesxfFA.html",
+          "resumen": "Es, después de Cali, la localidad más golpeada por el potente sismo del lunes. Sin electricidad y casi incomunicados, los habitantes siguen buscando a familiares desaparecidos y llorando frente a las ruinas de sus casas.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Fuerte terremoto de 7,4 en Colombia: el temblor sacudió a todo el país este 10 de agosto",
-          "link": "https://www.lanacion.com.ar/el-mundo/fuerte-terremoto-de-74-en-colombia-en-vivo-el-temblor-sacudio-a-todo-el-pais-hoy-10-de-agosto-nid10082026/",
-          "resumen": "El epicentro se registró en San José del Palmar, en el departamento del Chocó, a unos 280 kilómetros al oeste de Bogotá, y afectó a gran parte del territorio; se registraron al menos 111 muertos",
+          "titulo": "España, en vilo por un eclipse total de sol, un raro fenómeno astronómico que no se registra desde hace más de un siglo",
+          "link": "https://www.clarin.com/mundo/espana-vilo-eclipse-total-sol-raro-fenomeno-astronomico-registra-hace-siglo_0_BTOdU6nTIk.html",
+          "resumen": "Será este miércoles y se podrá ver en varios países de Europa. Millones de personas se preparan para ir a verlo a los lugares donde se podrá presenciar mejor. El último eclipse de esta clase se vio en 1905.",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Se hizo una inseminación y 40 años después descubrió un dato aterrador sobre el donante",
+          "link": "https://www.lanacion.com.ar/el-mundo/se-hizo-una-inseminacion-y-40-anos-despues-descubrio-un-dato-aterrador-sobre-el-donante-nid11082026/",
+          "resumen": "La mujer, de 71 años, decidió llevar el caso ante la Justicia y su hijo descubrió que tendría al menos nueve medio hermanos",
           "fuente": "La Nación"
-        },
-        {
-          "titulo": "Terremoto en Colombia: el recuerdo de la tragedia del gran sismo de 1999 en la ciudad de Armenia",
-          "link": "https://www.clarin.com/mundo/terremoto-colombia-recuerdo-tragedia-gran-sismo-1999-ciudad-armenia_0_4JxvvVVeXU.html",
-          "resumen": "La capital del departamento del Quindío tembló el 25 de enero de 1999 y causó 1.185 muertos en la zona cafetera del centro del país. Tuvo una magnitud de 6,1, a una profundidad de 21 kilómetros, con epicentro en la localidad de Córdoba.",
-          "fuente": "Clarín"
         }
       ]
     },
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Manual de instrucciones para entender la guerra por el poder en la FIFA: quiénes desafían a Infantino y qué debe pasar para que haya un cambio de mando en el fútbol mundial",
-          "link": "https://www.clarin.com/deportes/manual-instrucciones-entender-guerra-poder-fifa-desafian-infantino-debe-pasar-cambio-mando-futbol-mundial_0_X8oqRi6Lfn.html",
-          "resumen": "UEFA, AFC y Concacaf profundizaron su enfrentamiento con Gianni Infantino y ya se mueven las posibles alternativas. El 18 de noviembre vence el plazo para presentar candidatos y la elección será el 18 de marzo de 2027.",
+          "titulo": "Repleta de argentinos, la Liga de España abre su temporada como campeón del mundo: con Yamal y Mbappé se anima a pelear el trono con la Premier League",
+          "link": "https://www.clarin.com/deportes/repleta-argentinos-liga-espana-abre-temporada-campeon-mundo-yamal-mbappe-anima-pelear-trono-premier-league_0_gUcozYM8P0.html",
+          "resumen": "Después de 27 días de la victoria sobre Argentina en Nueva Jersey, Deportivo Alavés y Getafe abren el campeonato. En el ranking de federaciones europeas que la UEFA elabora en base a los resultados obtenidos en sus competiciones recuperó…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Partidos de hoy, martes 11 de agosto: horarios y por dónde ver en vivo online",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/partidos-de-hoy-martes-11-de-agosto-horarios-y-por-donde-ver-en-vivo-online-nid11082026/",
-          "resumen": "En la agenda del día se destaca el inicio de los octavos de las copas Libertadores y Sudamericana y el cierre de la cuarta fecha del Torneo Clausura; también hay acción en el Viejo Continente",
+          "titulo": "Partidos de hoy, miércoles 12 de agosto: horarios y por dónde ver en vivo online",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/partidos-de-hoy-miercoles-12-de-agosto-horarios-y-por-donde-ver-en-vivo-online-nid12082026/",
+          "resumen": "Se disputan varios compromisos de la Copa Libertadores y la Sudamericana, además de la Supercopa de Europa y un encuentro de la Copa Argentina",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Coudet, entre el What's up? y el Whatsapp, entre la historia y la histeria",
-          "link": "https://www.ole.com.ar/opinion/coudet-paciencia-thiago-almada-refuerzo-river-millonarios-opinion-francotirador-ole_0_3zjScWzC0m.html",
-          "resumen": "Le cabe al Chacho pero también a cualquier entrenador. Le cabe a los hinchas de River pero también a los de cualquier club argento. A veces, por más billetera que se tenga, los éxitos tardan en llegar. ¿Cuánto dura la paciencia?",
+          "titulo": "El tío de Almada: \"Thiago me acompañaba a todos los partidos en las Inferiores de River y hacía de alcanpelotas\"",
+          "link": "https://www.ole.com.ar/river-plate/river-almada-tio-inferiores-alcanzapelotas-alejandro-ruiz_0_xEUkrDzs3Q.html",
+          "resumen": "Alejandro Ruíz, tío del refuerzo estrella de River, recuerda con cariño los días en que su sobrino lo acompañaba a los partidos y se mezclaba con el equipo.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Vuelve la Copa Libertadores: cuatro ilusiones argentinas y dos semanas de cruces de alto voltaje en los octavos de final",
-          "link": "https://www.clarin.com/deportes/vuelve-copa-libertadores-ilusiones-argentinas-semanas-cruces-alto-voltaje-octavos-final_0_OUfpzaO6or.html",
-          "resumen": "Independiente Rivadavia, Estudiantes, Platense y Rosario Central son los cuatro representantes argentinos que siguen en carrera. Flamengo-Cruzeiro y Palmeiras-Cerro Porteño aparecen entre los grandes duelos de una instancia que se…",
+          "titulo": "Las Leonas, a días del debut en el Mundial 2026: Granatto y Alonso, las líderes que quieren mantener a Argentina en el podio",
+          "link": "https://www.clarin.com/deportes/leonas-dias-debut-mundial-2026-granatto-alonso-lideres-quieren-mantener-argentina-podio_0_U6w6siFJWw.html",
+          "resumen": "La Albiceleste lleva 24 años casi ininterrumpidamente entre los tres mejores de las Copas del Mundo. Este sábado debutan en la edición que se celebra en Bélgica y Países Bajos.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Astrada y Fucks se cruzaron por el penal que reclamó River en la derrota ante Tigre: “Es solamente una opinión”",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/astrada-y-fucks-se-cruzaron-por-el-penal-que-reclamo-river-en-la-derrota-ante-tigre-es-solamente-una-nid11082026/",
-          "resumen": "El debate giró entorno a la decisión del árbitro Andrés Gariano de no sancionar la falta y se disparó a raíz de la opinión de Juan Pablo Varsky, quien fue criticado en redes sociales por considerar correcta la visión del juez",
+          "titulo": "La inesperada propuesta que recibió el Pollo Vignolo para convertirse en futbolista de Primera división",
+          "link": "https://www.lanacion.com.ar/deportes/la-inesperada-propuesta-que-recibio-el-pollo-vignolo-para-convertirse-en-futbolista-de-primera-nid11082026/",
+          "resumen": "El conductor y relator fue convocado por el club uruguayo Real Montevideo para integrar sus filas; el acuerdo fue gestionado por el influencer Valentín Scarsini tras una serie de tratativas informales",
           "fuente": "La Nación"
         }
       ]
