@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "13 de agosto de 2026",
-  "generada": "10:50",
+  "fecha": "14 de agosto de 2026",
+  "generada": "10:46",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "La crisis de los morosos también golpea a los militares: uno de cada cuatro no puede pagar sus deudas",
-          "link": "https://www.clarin.com/politica/crisis-morosos-golpea-militares-puede-pagar-deudas_0_lBmEfxAez8.html",
-          "resumen": "Junto con los efectivos de las fuerzas de seguridad están hoy entre los empleados del Estado que son mayores deudores. La mora abarca a créditos con bancos, con el Instituto de Ayuda Financiera de las FFAA (IAF) y las billeteras virtuales.",
+          "titulo": "\"Industria del juicio\": nuevo récord de demandas laborales pese a la vigencia de la reforma de Milei",
+          "link": "https://www.clarin.com/politica/industria-juicio-nuevo-record-demandas-laborales-pese-vigencia-reforma-milei_0_Wt0VOeapJ9.html",
+          "resumen": "En los primeros siete meses del año se acumularon 72.525 nuevos juicios contra el sistema de riesgos de trabajo y la proyección para todo 2026 supera las 137.000 demandas, un fuerte aumento respecto a 2025. Santa Fe lidera la suba de la…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: movimientos en Diputados y cumbre opositora",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-movimientos-en-diputados-y-cumbre-opositora-nid13082026/",
+          "titulo": "Javier Milei y sus medidas, en vivo: las repercusiones de la inflación de julio y el armado electoral de cara al 2027",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-las-repercusiones-de-la-inflacion-de-julio-y-el-armado-electoral-nid14082026/",
           "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Valdés respaldó la eliminación de las PASO, pero advirtió al Gobierno: “La pérdida de tiempo en la política tiene sus consecuencias”",
-          "link": "https://www.infobae.com/politica/2026/08/13/valdes-respaldo-la-eliminacion-de-las-paso-pero-advirtio-al-gobierno-la-perdida-de-tiempo-en-la-politica-tiene-sus-consecuencias/",
-          "resumen": "El gobernador de Corrientes puso en duda que la Casa Rosada pueda resolver a la brevedad la suspensión de las internas, como se creía hace algunas semanas. En diálogo con Infobae, conversó sobre la Ley de Tierras, el desvío de fondos para…",
+          "titulo": "Kicillof no frena su armado pese al acercamiento con Massa y Máximo Kirchner y prepara un acto nacional",
+          "link": "https://www.infobae.com/politica/2026/08/14/kicillof-no-frena-su-armado-pese-al-acercamiento-con-massa-y-maximo-kirchner-y-prepara-un-acto-nacional/",
+          "resumen": "El gobernador bonaerense apuesta a que una PASO ordende la discusión interna del peronismo. Al igual que el resto de los sectores, defenderá las Primarias para llegar a un esquema de unidad, pero no pausará su plan de expansión",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Nueva encuesta electoral: ventaja de La Libertad Avanza para primera vuelta, empate en el balotaje",
-          "link": "https://www.clarin.com/politica/nueva-encuesta-electoral-ventaja-libertad-avanza-primera-vuelta-empate-balotaje_0_ibkWDwCRq5.html",
-          "resumen": "Lo muestra un estudio nacional de la Facultad de Psicología de la Universidad de Buenos Aires. Midió tres parámetros para 2027: cambio o continuidad, intención de voto por espacio y Milei vs. Kicillof.",
+          "titulo": "La estrecha relación entre el Gobierno e Israel: ahora le dan clases de hebreo a los efectivos de la PSA",
+          "link": "https://www.clarin.com/politica/estrecha-relacion-gobierno-israel-ahora-dan-clases-hebreo-efectivos-psa_0_YMEogtrDkP.html",
+          "resumen": "Es para recibir los vuelos de El Al, la empresa israelí que unirá Buenos Aires-Tel Aviv. Habrá medidas de seguridad distinta para el embarque de esos aviones. Quién es la nueva embajadora de Netanyahu en la Argentina",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El Gobierno amplió a las cárceles provinciales el bloqueo de celulares activados dentro de los penales",
-          "link": "https://www.lanacion.com.ar/politica/el-gobierno-amplio-a-las-carceles-provinciales-el-bloqueo-de-celulares-activados-dentro-de-los-nid13082026/",
-          "resumen": "La medida alcanza a las provincias que adhieran al procedimiento nacional; las compañías deberán inhabilitar el equipo, la identificación del abonado y la línea telefónica cuando lo solicite el Ministerio de Seguridad",
+          "titulo": "Un gobierno necesitado de gobernabilidad y certezas",
+          "link": "https://www.lanacion.com.ar/politica/un-gobierno-necesitado-de-gobernabilidad-y-certezas-nid13082026/",
+          "resumen": "El encuentro de ayer en la Casa Rosada con lo que queda de Pro fue una muestra gratis de las dificultades que atraviesa el oficialismo, tanto como de las enormes fragilidades del submarino amarillo",
           "fuente": "La Nación"
         }
       ]
@@ -42,34 +42,34 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Real hoy: precio y a cuánto cotiza este jueves 13 de agosto de 2026",
-          "link": "https://www.clarin.com/economia/real-hoy-precio-y-a-cuanto-cotiza-este-jueves-13-de-agosto-de-2026_0_yXDFWa5iUK.html",
-          "resumen": "Conocé la variación del real para la compra y venta. La cotización de la divisa de Brasil según el Banco Nación.",
+          "titulo": "Terminó el Preventivo de Crisis de Metalfor: según el gremio, la empresa propuso echar al 70% de los empleados",
+          "link": "https://www.clarin.com/rural/termino-preventivo-crisis-metalfor-gremio-empresa-propuso-echar-70-empleados_0_PTCkyUcy16.html",
+          "resumen": "Así lo indicó el abogado de la UOM. La empresa de maquinaria agrícola hoy cuenta con 600 empleados. La firma con base en Marcos Juárez atraviesa una dura crisis financiera, productiva y comercial.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Tiene 700.000 vacas: en una región aumenta el traslado de hacienda por El Niño y hay ventas de urgencia",
-          "link": "https://www.lanacion.com.ar/economia/campo/tiene-700000-vacas-en-una-region-aumenta-el-traslado-de-hacienda-por-el-nino-y-hay-ventas-de-nid12082026/",
-          "resumen": "En el departamento de Vera, entre otros lugares del norte de Santa Fe, llovió más de lo habitual y ante las perspectivas de más precipitaciones los productores buscan llevar los animales a otros lugares",
+          "titulo": "El dilema inversor: del riesgo kuka al riesgo libertario",
+          "link": "https://www.lanacion.com.ar/economia/el-dilema-inversor-del-riesgo-kuka-al-riesgo-libertario-nid13082026/",
+          "resumen": "El oficialismo avanza con anteojeras, sin vocación de consenso, aun cuando las encuestas muestran que el electorado que lo acompañó estoicamente en el proceso de cambio empieza a flaquear",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El INDEC da a conocer la inflación de julio: qué espera el mercado y qué puede llevar el IPC por encima del 2%",
-          "link": "https://www.ambito.com/economia/el-indec-da-conocer-la-inflacion-julio-que-espera-el-mercado-y-que-puede-llevar-el-ipc-encima-del-2-n6310205",
-          "resumen": "El mercado proyecta un IPC de entre 1,9% y 2,2%, luego del 1,9% de junio. El ministro de Economía, Luis Caputo, anticipó un rango de hasta 2,3%, mientras el salto de la inflación porteña al 2,9% agregó cautela a las estimaciones.",
+          "titulo": "Créditos en dólares para todas las empresas: qué oportunidades abre la flexibilización y cuáles son los riesgos",
+          "link": "https://www.ambito.com/economia/creditos-dolares-todas-las-empresas-que-oportunidades-abre-la-flexibilizacion-y-cuales-son-los-riesgos-n6310645",
+          "resumen": "El Gobierno busca generar movilizar los depósitos en dólares e incentivar el crédito. Sin embargo, la apreciación cambiaria y la proximidad de las elecciones generan dudas entre algunos expertos.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Nuevo dueño: comienza a producir 350 toneladas de quesos por mes la planta láctea paralizada durante seis meses",
-          "link": "https://www.lanacion.com.ar/economia/campo/nuevo-dueno-comienza-a-producir-350-toneladas-de-quesos-por-mes-la-planta-lactea-paralizada-durante-nid12082026/",
-          "resumen": "Sudamericana de Lácteos, ubicada en Díaz, Santa Fe, volverá a elaborar la próxima semana con una recepción diaria de 100.000 litros de leche",
+          "titulo": "El serrucho de los precios: las cuatro claves que explican por qué a la inflación le cuesta aflojar",
+          "link": "https://www.clarin.com/economia/serrucho-precios-claves-explican-por-inflacion-cuesta-aflojar_0_ggskOCwIOM.html",
+          "resumen": "El índice de precios de julio marcó 2,1%, después del 1,9% de junio. El dato interrumpió tres meses consecutivos a la baja.",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "“Me deprimía o hacía algo creativo”: se quedó sin trabajo, se reinventó y ahora vende quesos con sorprendentes sabores",
+          "link": "https://www.lanacion.com.ar/economia/campo/me-deprimia-o-hacia-algo-creativo-se-quedo-sin-trabajo-se-reinvento-y-ahora-vende-quesos-con-nid14082026/",
+          "resumen": "Pablo Barrio elabora unos 5000 litros de leche mensuales; incorpora limón, arándanos, menta, vainilla con canela, naranja glaceada, pistacho y chocolate",
           "fuente": "La Nación"
-        },
-        {
-          "titulo": "Mejoran las expectativas de las pymes, pero aún no ven condiciones para invertir",
-          "link": "https://www.ambito.com/economia/mejoran-las-expectativas-las-pymes-pero-aun-no-ven-condiciones-invertir-n6310093",
-          "resumen": "La confianza empresarial mejoró casi 3 puntos en el segundo trimestre, aunque la disposición a invertir sigue débil. La industria manufacturera saltó más de 10 p.p., en parte por un factor estacional. Ambos indicadores siguen por debajo…",
-          "fuente": "Ámbito"
         }
       ]
     },
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Terremoto en Colombia: ¿Cuánto tiempo pueden sobrevivir las personas atrapadas tras un sismo?",
-          "link": "https://www.clarin.com/mundo/terremoto-colombia-tiempo-pueden-sobrevivir-personas-atrapadas-sismo_0_nff5rPgkuM.html",
-          "resumen": "La mayoría de los rescates ocurren en las 24 horas posteriores a un desastre. Los expertos indican que las probabilidades de supervivencia disminuyen con cada día que pasa después de eso Y señalan que, si las lesiones no son demasiado…",
+          "titulo": "Panorama Internacional: Estados Unidos y la cuerda floja de la Justicia",
+          "link": "https://www.clarin.com/mundo/panorama-internacional-estados-unidos-cuerda-floja-justicia_0_x68WhCrC4A.html",
+          "resumen": "El nombramiento por parte de Trump de su abogado personal como ministro de Justicia confirma un comportamiento de control total y ruptura de tradiciones de independencia del Ejecutivo con la legalidad, un defecto autoritario que una…",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Construyeron el Gran Anillo: ganó un Récord Guinness como la estructura de madera más grande del mundo y ahora quieren demolerla",
+          "link": "https://www.lanacion.com.ar/el-mundo/construyeron-el-gran-anillo-gano-un-record-guinness-como-la-estructura-de-madera-mas-grande-del-nid13082026/",
+          "resumen": "La obra monumental, diseñada por Sou Fujimoto para la Expo 2025 de Osaka, se convirtió en un hito de la arquitectura sustentable; su continuidad enfrenta ahora un insólito debate por su posible demolición",
+          "fuente": "La Nación"
+        },
+        {
+          "titulo": "Terremoto de 7.4 en Colombia hoy, EN VIVO: heridos, muertos, derrumbes y todas las noticias del sismo este 14 de agosto",
+          "link": "https://www.clarin.com/mundo/terremoto-74-colombia-hoy-vivo-heridos-muertos-derrumbes-todas-noticias-sismo-14-agosto_0_qkVTLv5GGI.html",
+          "resumen": "El presidente Abelardo de la Espriella confirmó que la cifra de muertos por el sismo registrado el lunes aumentó a 281. Continúan las tareas para encontrar a los desparecidos que permanecen bajo los escombros.",
           "fuente": "Clarín"
         },
         {
           "titulo": "La princesa Amalia mostró por primera vez la impactante cicatriz que le quedó tras su accidente a caballo",
           "link": "https://www.lanacion.com.ar/el-mundo/la-princesa-amalia-mostro-por-primera-vez-la-impactante-cicatriz-que-le-quedo-tras-su-accidente-a-nid13082026/",
-          "resumen": "La hija mayor de la reina Máxima asistió a la inauguración de los Campeonatos Mundiales de la FEI 2026 y su look permitió ver la marca que tiene en la piel tras una fuerte caída sufrida en 2025",
+          "resumen": "La hija mayor de la reina Máxima asistió a la inauguración de los Campeonatos Mundiales de la FEI 2026 y su look permitió ver la marca que tiene en la piel tras una fuerte caída sufrida en 2025; mirá las imágenes",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Estados Unidos anunció que Colombia autorizó acciones militares conjuntas en \"su lucha\" contra el narcotráfico",
-          "link": "https://www.clarin.com/mundo/estados-unidos-anuncio-colombia-autorizo-acciones-militares-conjuntas-lucha-narcotrafico_0_QxW7uPs8a9.html",
-          "resumen": "Lo confirmó el secretario de Defensa de EE.UU., Pete Hegseth, en la firma del ingreso de Colombia a una coalición antidrogas. El día de su asunción, el colombiano Abelardo de la Espriella prometió \"derrotar sin tregua al narcoterrorismo\".",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "La mayor colecta de oro de la historia surcoreana: así fue la campaña que recaudó US$2130 millones",
-          "link": "https://www.lanacion.com.ar/el-mundo/la-mayor-colecta-de-oro-de-la-historia-surcoreana-asi-fue-la-campana-que-recaudo-us2130-millones-nid12082026/",
-          "resumen": "Desde la cruz de oro de un cardenal hasta los anillos de boda de familias comunes; un recorrido por el sacrificio colectivo que evitó la quiebra de una nación",
-          "fuente": "La Nación"
-        },
-        {
-          "titulo": "Habló la niñera argentina que fue arrestada por el ICE de Trump: \"Nos trataron como delincuentes y eso no está bien\"",
-          "link": "https://www.clarin.com/mundo/hablo-ninera-argentina-arrestada-ice-trump-trataron-delincuentes-bien_0_tPfhqzDetu.html",
-          "resumen": "Iliana LIck había sido detenida el 11 de julio en el aeropuerto de Filadelfia mientras esperaba para ir a Kansas City a ver un partido de la Selección. El viernes pasado fue liberada tras pagar una fianza de 10.000 dólares.",
+          "titulo": "Lula responde a los aranceles de Trump y Brasil abre un proceso de represalias comerciales contra Estados Unidos",
+          "link": "https://www.clarin.com/mundo/lula-responde-aranceles-trump-brasil-abre-proceso-represalias-comerciales-estados-unidos_0_pifosZZci4.html",
+          "resumen": "El Gobierno brasileño anticipó que aplicará la Ley de Reciprocidad Económica luego de que Washington pusiera aranceles adicionales de hasta 25%. Además, inicia consultas diplomáticas para intentar anular los efectos de las medidas…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "El desgarrador mensaje de Celia Cuccittini, madre de Lionel Messi: \"Sólo le pido a Dios...\"",
-          "link": "https://www.clarin.com/deportes/desgarrador-mensaje-celia-cuccittini-madre-lionel-messi-solo-pido-dios_0_vIaBaHL3g3.html",
-          "resumen": "Previa a la sentida carta publicada por Leo en las redes, Celia le envió un mensaje privado a Marina Calabró, que lo hizo público. La familia atraviesa horas de profundo dolor tras la muerte y posterior despedida de Jorge, padre del…",
+          "titulo": "Todo lo que tenés que saber de los Mundiales simultáneos de hockey sobre césped: Leones y Leonas van por los podios en Bélgica-Países Bajos",
+          "link": "https://www.clarin.com/deportes/tenes-saber-mundiales-simultaneos-hockey-cesped-leones-leonas-van-podios-belgica-paises-bajos_0_QCdAf4PR3S.html",
+          "resumen": "El equipo femenino debuta el sábado y el masculino el domingo, con un par de condimentos especiales. Será la tercera vez en la historia que se jueguen al mismo tiempo ambas ramas.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Lionel Messi publicó una carta tras la muerte de su padre Jorge: qué dice el texto completo",
-          "link": "https://www.lanacion.com.ar/deportes/lionel-messi-publico-un-mensaje-tras-la-muerte-de-su-padre-jorge-que-dice-el-texto-completo-nid12082026/",
-          "resumen": "A cuatro días del fallecimiento de Jorge Messi, el futbolista de la selección compartió un emotivo mensaje de despedida y reveló todo lo que vivió durante el Mundial",
+          "titulo": "Partidos de hoy, viernes 14 de agosto: horario y por dónde ver en vivo online",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/partidos-de-hoy-viernes-14-de-agosto-horario-y-por-donde-ver-en-vivo-online-nid14082026/",
+          "resumen": "En la agenda del día se destaca el inicio de la quinta fecha del Torneo Clausura; arranca la liga de Turquía y siguen las de Países Bajos y Portugal",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Partidos de HOY, jueves 13 de agosto: agenda, horario y por dónde ver fútbol EN VIVO",
-          "link": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-jueves-13-agosto-horario-ver-futbol-vivo-tv-online_0_FkY7ZQDYli.html",
-          "resumen": "Rosario Central disputa la ida contra Corinthians por la Libertadores, sigue la actividad de la Sudamericana, del Torneo de Reserva y más. Mirá la programación completa.",
+          "titulo": "Jorge Almirón, tras el empate ante Corinthians en la Copa Libertadores: \"La llave está abierta\"",
+          "link": "https://www.ole.com.ar/rosario-central/rosario-central-jorge-almiron-dijo-corinthians-libertadores_0_xTjBK22zMZ.html",
+          "resumen": "El entrenador de Rosario Central se mostró conforme con el rendimiento que tuvo su equipo en el primer partido de los octavos de final y se mantuvo con optimismo de cara a la revancha.",
           "fuente": "Olé"
         },
         {
-          "titulo": "El emotivo gesto de Romaña con Lionel Messi cuando lo cruzó en el triunfo de León de México vs Inter Miami por la Leagues Cup",
-          "link": "https://www.clarin.com/deportes/emotivo-gesto-romana-lionel-messi-cruzo-triunfo-leon-mexico-vs-inter-miami-leagues-cup_0_99srzg0mC2.html",
-          "resumen": "El defensor colombiano, ex San Lorenzo, le dio el pésame en medio del partido y luego lo abrazó entre risas. Mirá el video.",
+          "titulo": "Carlos Tevez, del pádel a Boca, y su emoción por la carta de Messi a su padre: \"Te remueve todo, son como viejas heridas\"",
+          "link": "https://www.clarin.com/deportes/carlos-tevez-padel-boca-emocion-carta-messi-padre-remueve-viejas-heridas_0_2HejRgHPvR.html",
+          "resumen": "El Apache estuvo en la apertura de un local de pádel, su nueva pasión. En diálogo con Clarín, habló de Boca y los pibes Flores y Aranda. Y se refirió a la carta de Messi: él sufrió una situación similar antes de su retiro.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "De Cristiano Ronaldo a Lionel Messi: “Un abrazo enorme en estos duros momentos, Leo, mucha fuerza”",
-          "link": "https://www.lanacion.com.ar/deportes/de-cristiano-ronaldo-a-lionel-messi-un-abrazo-enorme-en-estos-duros-momentos-leo-mucha-fuerza-nid12082026/",
-          "resumen": "Tras el posteo que hizo el capitán de la selección argentina por la muerte de su padre Jorge, el delantero portugués se sumó a la ola de respuestas en apoyo",
+          "titulo": "Salió campeón de una copa internacional con Boca, fue dirigido por Bianchi y hoy es dueño de una panadería: “Estuve en la época dorada y cuando te retirás te cae la ficha de todo”",
+          "link": "https://www.lanacion.com.ar/deportes/salio-campeon-de-una-copa-internacional-con-boca-fue-dirigido-por-bianchi-y-hoy-es-dueno-de-una-nid13082026/",
+          "resumen": "Conquistó la Sudamericana 2004 en un plantel nutrido de estrellas; ahora, lejos del deporte, abrió un comercio gastronómico en Lomas de Zamora",
           "fuente": "La Nación"
         }
       ]

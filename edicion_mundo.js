@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "13 de agosto de 2026",
-    "generada": "10:50",
+    "fecha": "14 de agosto de 2026",
+    "generada": "10:46",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "\"Al sentir el terremoto volví a la escuela por mi hija y una niña de 10 años acabó muriendo en mis brazos\"",
-            "link": "https://www.bbc.com/mundo/articles/c1l12ed1336o?at_medium=RSS&at_campaign=rss",
-            "resumen": "La psicóloga Kelly Díaz ejemplifica el sacrificio de los voluntarios en las labores de rescate en Cali, una de las ciudades más afectadas por el terremoto en Colombia.",
+            "titulo": "\"Putin puede destruir Ucrania, pero no podrá conquistarla\"",
+            "link": "https://www.bbc.com/mundo/articles/ckgd82zj14zo?at_medium=RSS&at_campaign=rss",
+            "resumen": "El premio Nobel de la Paz ruso Dimitri Murátov afirma que el líder del Kremlin no podrá proclamar la victoria en Ucrania, ahora que la guerra se encuentra en su quinto año.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Críticas a Trump por usar como señuelos a periodistas y altos cargos para salir de Turquía",
-            "link": "https://elpais.com/internacional/2026-08-12/criticas-a-trump-por-usar-como-senuelos-a-periodistas-y-altos-cargos-para-salir-de-turquia.html",
-            "resumen": "El republicano viajó en otra aeronave para ponerse a salvo tras recibir amenazas de Irán, sin informar a quienes iban en el avión presidencial. Los demócratas piden crear una comisión de investigación en el Senado para aclarar la operación",
+            "titulo": "El ultra británico Farage revalida su escaño en el Parlamento tras vencer al variopinto Conde Cubo de Basura",
+            "link": "https://elpais.com/internacional/2026-08-14/el-ultra-britanico-farage-revalida-su-escano-en-el-parlamento-tras-vencer-al-variopinto-conde-cubo-de-basura.html",
+            "resumen": "El líder de Reform UK, que había dimitido por investigaciones de posible corrupción, gana la elección en Clacton-On-Sea. El político no acude al anuncio del resultado por seguridad, pero la policía niega que hubiera riesgo",
             "fuente": "El País"
           },
           {
-            "titulo": "ONU: las muertes de civiles en Ucrania alcanzaron en julio su nivel más alto desde mayo de 2022",
-            "link": "https://www.france24.com/es/minuto-a-minuto/20260813-onu-las-muertes-de-civiles-en-ucrania-alcanzaron-en-julio-su-nivel-m%C3%A1s-alto-desde-mayo-de-2022",
-            "resumen": "",
+            "titulo": "Europa: continúan los incendios forestales en Francia, España y Grecia",
+            "link": "https://www.france24.com/es/video/20260814-europa-contin%C3%BAan-los-incendios-forestales-en-francia-espa%C3%B1a-y-grecia",
+            "resumen": "Los incendios forestales continúan arrasando hectáreas de bosques en España, Francia y Grecia. Turistas y residentes han tenido que ser evacuados por el avance de las llamas, que son alimentadas diariamente por la ola de calor que no se…",
             "fuente": "France 24"
           },
           {
-            "titulo": "\"¡No, Marruecos no!\": el dilema de qué hacer con los niños no acompañados que llegaron a Ceuta y que España no sabe a quién devolver",
-            "link": "https://www.bbc.com/mundo/articles/cly9p3lgw6no?at_medium=RSS&at_campaign=rss",
-            "resumen": "Días después de la irrupción masiva de extranjeros en la ciudad española en el norte de África, cientos de menores no acompañados deambulan por sus calles.",
+            "titulo": "\"Los terremotos nos persiguen\": los hermanos adolescentes que perdieron a su madre en el sismo de Venezuela y ahora sufrieron el de Colombia",
+            "link": "https://www.bbc.com/mundo/articles/c934x32d0n7o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Deivi y Winder Delfín tienen 15 y 17 años. En junio su edificio se derrumbó tras los sismos en Venezuela y pasaron 27 días para retirar con sus manos los cuerpos de su mamá y su hermanito. Se mudaron a Colombia con su papá y a los tres…",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "La lluvia amenaza los albergues improvisados de Cali: “No tenemos a dónde ir”",
-            "link": "https://elpais.com/america-colombia/2026-08-13/la-lluvia-amenaza-los-albergues-improvisados-de-cali-no-tenemos-a-donde-ir.html",
-            "resumen": "La ciudadanía ha construido albergues informales para atender, con sus propias manos, a cientos de personas que no han recibido el apoyo de la Alcaldía",
+            "titulo": "Trump extiende sus tentáculos militares en Latinoamérica",
+            "link": "https://elpais.com/america/2026-08-14/ee-uu-reafirma-en-colombia-y-cuba-la-disposicion-de-su-ejercito-a-intervenir-en-latinoamerica-en-defensa-de-sus-intereses.html",
+            "resumen": "Hegseth anuncia que no descarta una opción militar en La Habana y plantea operaciones en suelo colombiano. La estrategia de Trump para controlar la región choca con la resistencia de México y la sumisión de Centroamérica",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "El sistema eléctrico y las telecomunicaciones superan sin incidencias el eclipse solar total en España",
-            "link": "https://elpais.com/economia/2026-08-12/el-sistema-electrico-y-las-telecomunicaciones-superan-sin-incidencias-el-eclipse-solar-total-en-espana.html",
-            "resumen": "La caída de la generación fotovoltaica fue cubierta por centrales hidráulicas y de ciclo combinado",
+            "titulo": "La escalada de los precios energéticos amenaza con mantenerse tras el fin del escudo anticrisis",
+            "link": "https://elpais.com/economia/2026-08-14/la-escalada-de-los-precios-energeticos-amenaza-con-mantenerse-tras-el-fin-del-escudo-anticrisis.html",
+            "resumen": "Los carburantes rozan máximos en España desde el inicio de la guerra en Irán y los expertos creen que la situación se extenderá más allá de septiembre, cuando concluyen las actuales ayudas",
             "fuente": "El País"
           },
           {
-            "titulo": "Las nuevas apuestas en Bolsa de las grandes fortunas españolas",
-            "link": "https://www.expansion.com/mercados/2026/08/13/6a7ce0dde5fdeade0b8b457c.html",
-            "resumen": "Los altos patrimonios mantienen una parte relevante de la cartera en tecnología, pero diversifican con nuevas apuestas dentro del sector y compras en materias primas, Defensa y automóvil. Leer",
+            "titulo": "Norges, Vukile, Nepi y Rivoli llevan a récord a los centros comerciales",
+            "link": "https://www.expansion.com/inmobiliario/mercado/2026/08/14/6a7e09ba468aebb5298b4575.html",
+            "resumen": "La inversión en centros comerciales superará los 3.000 millones en 2026 con megaoperaciones como la compra de la cartera de activos de Balkany, Islazul, Megapark o Xanadú. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Los acreedores de España por las renovables se preparan para cobrar la deuda tras identificar 400 bienes embargables",
-            "link": "https://cincodias.elpais.com/companias/2026-08-13/los-acreedores-de-espana-por-las-renovables-se-preparan-para-cobrar-la-deuda-tras-identificar-400-bienes-embargables.html",
-            "resumen": "Los afectados por el recorte de las primas, la mayoría representados por un fondo de litigación, concluyen el proceso de identificación de propiedades susceptibles de bloqueo",
+            "titulo": "¿Por qué se ha encarecido más el diésel que la gasolina?",
+            "link": "https://elpais.com/economia/2026-08-14/por-que-se-ha-encarecido-mas-el-diesel-que-la-gasolina.html",
+            "resumen": "El gasóleo escala más del doble según los últimos datos del IPC. Los expertos apuntan a los exitosos ataques de Ucrania contra las refinerías rusas y a una mayor demanda",
             "fuente": "El País"
           },
           {
-            "titulo": "Imagin, el banco digital de CaixaBank, triplica la cifra de depósitos de Revolut",
-            "link": "https://www.expansion.com/empresas/banca/2026/08/13/6a6a5011468aeb7d148b45a3.html",
-            "resumen": "La marca digital de CaixaBank, lanzado hace diez años, tiene una cuota de mercado en nóminas del 9% y una cartera hipotecaria de 5.400 millones de euros. Leer",
+            "titulo": "Santander lleva su cartera de deuda española a un tope de 75.900 millones",
+            "link": "https://www.expansion.com/empresas/banca/2026/08/14/6a68f38a468aebf4208b4584.html",
+            "resumen": "El banco adquiere 17.450 millones de euros en seis meses. La rentabilidad del 3,3% blinda su margen de intereses y eleva los ingresos. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "La plataforma que dice si eres válido para un puesto (y no se basa solo en el currículo)",
-            "link": "https://elpais.com/economia/negocios/2026-08-13/la-plataforma-que-dice-si-eres-valido-para-un-puesto-y-no-se-basa-dolo-en-el-curriculo.html",
-            "resumen": "Hirint ofrece soluciones de evaluación de competencias y factura más de un millón de euros",
+            "titulo": "Uber logra paralizar las sanciones de IVA en España mientras litiga por 1.600 millones en Reino Unido",
+            "link": "https://cincodias.elpais.com/companias/2026-08-14/uber-logra-paralizar-las-sanciones-de-iva-en-espana-mientras-litiga-por-1600-millones-en-reino-unido.html",
+            "resumen": "La Audiencia Nacional suspende la ejecución de dos multas impuestas por la Agencia Tributaria por este impuesto correspondientes a los ejercicios 2016, 2017 y 2018",
             "fuente": "El País"
           }
         ]
@@ -77,6 +77,18 @@ const EDICION_MUNDO = {
       {
         "nombre": "Ciencia y Tecnología",
         "notas": [
+          {
+            "titulo": "Los bosques templados que desaparecieron en el pasado durante milenios se esfuman ahora con el mismo patrón, pero en décadas",
+            "link": "https://elpais.com/ciencia/2026-08-13/los-bosques-templados-que-desaparecieron-en-el-pasado-durante-milenios-se-esfuman-ahora-con-el-mismo-patron-pero-en-decadas.html",
+            "resumen": "Un nuevo método muestra cómo se inició una deforestación global hace 56 millones de años con muchas similitudes con la del presente",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Disquetes, faxes, sobres y otros fósiles analógicos que sobreviven en Windows",
+            "link": "https://elpais.com/tecnologia/2026-08-14/disquetes-faxes-sobres-y-otros-fosiles-analogicos-que-sobreviven-en-windows.html",
+            "resumen": "Millones de usuarios usan iconos de objetos desaparecidos del día a día sin haberlos utilizado nunca físicamente",
+            "fuente": "El País"
+          },
           {
             "titulo": "El eclipse conquista el corazón de España",
             "link": "https://elpais.com/ciencia/2026-08-12/el-eclipse-solar-conquista-el-corazon-de-espana.html",
@@ -94,18 +106,6 @@ const EDICION_MUNDO = {
             "link": "https://elpais.com/ciencia/2026-08-12/desde-el-espacio-asi-se-ha-visto-el-eclipse-desde-un-satelite.html",
             "resumen": "Las imágenes del satélite europeo Meteosat-12 captan el recorrido de la sombra de la Luna sobre el Atlántico Norte y la península ibérica",
             "fuente": "El País"
-          },
-          {
-            "titulo": "¿Aún no tienes claro dónde ver el eclipse? Descubre tu lugar ideal con el móvil o en el mapa de miradores oficiales",
-            "link": "https://elpais.com/tecnologia/2026-08-10/aun-no-tienes-claro-donde-ver-el-eclipse-descubre-tu-lugar-ideal-con-el-movil-o-en-el-mapa-de-miradores-oficiales.html",
-            "resumen": "Varias aplicaciones gratuitas permiten saber si la ocultación va a ser completa en cualquier ubicación, a qué hora exacta ocurrirá y, además, comprobar si el Sol estará allí a la vista",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Millones de españoles se maravillan con el eclipse de Sol: “¡Quiero otro!, ¿cuándo hay otro?”",
-            "link": "https://elpais.com/ciencia/2026-08-12/millones-de-espanoles-se-maravillan-con-el-eclipse-de-sol-quiero-otro-cuando-hay-otro.html",
-            "resumen": "Desde playas, huertas, miradores oficiales, campos de fútbol, castillos medievales y páramos, España ha celebrado el primer eclipse total en cruzar la Península en más de un siglo",
-            "fuente": "El País"
           }
         ]
       },
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "El Manchester City rechaza la segunda oferta del Barça por Rodri y tensa la cuerda",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215636/manchester-city-rechaza-segunda-oferta-barca-rodri-tensa-cuerda.html",
-            "resumen": "El esfuerzo económico realizado por el FC Barcelona no ha sido valorado por el Manchester City, que ha rechazado la segunda oferta formal realizada por Rodri Hernández , mediocentro de 30 años. Aumentar la propuesta de los 45 millones de…",
+            "titulo": "Maresca deja abierto el futuro de Rodri",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260814/1004215977/maresca-deja-abierto-futuro-rodri.html",
+            "resumen": "Enzo Maresca , entrenador del Manchester City , dejó abierto el futuro de Rodri Hernández en la rueda de prensa previa de la Community Shield , duelo en el que el conjunto 'citizen' se medirá al Arsenal este domingo (16.00 horas). El…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Julián trabaja con normalidad en una sesión en la que fue el único delantero del Cholo",
-            "link": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260813/1004215620/julian-alvarez-trabajo-normalidad-sesion-unico-delantero-cholo.html",
-            "resumen": "Total normalidad en el Atlético de Madrid. Julián Alvarez realizó su segundo entrenamiento a las órdenes de Diego Pablo Simeone . Una sesión que comenzó con unos ejercicios de activación dirigidos por el preparador físico, Luis Piñedo .",
+            "titulo": "Luis Suárez (Sporting CP), otra alternativa para el 'nueve' del Barça",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260814/1004215957/luis-suarez-sporting-cp-alternativa-nueve-barca.html",
+            "resumen": "Luis Suárez (28 años), delantero del Sporting Clube de Portugal , es una de las alternativas que tiene el FC Barcelona sobre la mesa en caso de que no evolucione positivamente el intento de fichaje de J ulián Álvarez , según apuntó el…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "August 13, 2026",
-    "generada": "10:50",
+    "fecha": "August 14, 2026",
+    "generada": "10:46",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-            "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-            "resumen": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+            "titulo": "'Unprecedented' rain in Japan kills eight people",
+            "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
-            "link": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
-            "resumen": "Hakainde Hichilema is bidding for second term, but feud between him and family of Edgar Lungu, who died in 2025, continues As Zambians go to the polls on Thursday, the ghost of the current president’s predecessor hangs over the elections.…",
+            "titulo": "American missionary kidnapped in Niger freed after nine months",
+            "link": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
+            "resumen": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, his organisation has said. Kevin…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "A Patient’s Final Breath in a Congolese Ebola Ward",
-            "link": "https://www.nytimes.com/2026/08/13/world/africa/ebola-congo-patient-dies.html",
-            "resumen": "The distance between life and death is razor thin at one medical clinic in Rwampara, the heart of the epidemic ravaging the Democratic Republic of Congo.",
+            "titulo": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
+            "link": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html",
+            "resumen": "In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "UK defends seizing shadow fleet tanker after Putin threat",
-            "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
+            "titulo": "US says dozens of countries helped China dodge Trump's tariffs",
+            "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+            "resumen": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
             "fuente": "BBC"
           },
           {
-            "titulo": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
-            "link": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
-            "resumen": "Operation under way to rescue dozens missing after boat overturned by waves at world’s largest human-made lake At least 44 people have died after an overcrowded ferry capsized on Lake Kariba in Zimbabwe, police said. The boat had a…",
+            "titulo": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+            "link": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+            "resumen": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,34 +189,34 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "UK economy grows but experts warn of challenging months ahead",
-            "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Hot weather and the men's football World Cup boosted the economy but the Iran war may weigh on growth",
+            "titulo": "I got an £89 refund – how to cancel and avoid unwanted subscriptions",
+            "link": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
+            "resumen": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
             "fuente": "BBC"
           },
           {
-            "titulo": "US inflation cooled slightly to 3.4% in July but prices still elevated",
-            "link": "https://www.theguardian.com/business/2026/aug/12/inflation-data-july",
-            "resumen": "Energy is cheaper than at its peak in late April, but gas is still nearly $1 a gallon more expensive than before the Iran war US consumer prices cooled slightly in July as the annualized inflation rate dipped down to 3.4%, though prices…",
+            "titulo": "Tesla paid Elon Musk 2.5m times more as CEO than its average worker in 2025",
+            "link": "https://www.theguardian.com/business/2026/aug/13/elon-musk-tesla-pay-workers",
+            "resumen": "Tech billionaire’s $158.3bn deal an outlier in report showing widening gap of CEO to worker pay at top companies Elon Musk received over 2.5m times as much compensation at Tesla as the company’s average worker, according to a new report…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "What We Know About Taylor Farms’ Food Recalls",
-            "link": "https://www.nytimes.com/2026/08/13/business/taylor-farms-recalls-cyclospora-salmonella.html",
-            "resumen": "Just weeks after the company recalled lettuce and other produce suspected of being tainted by the cyclosporiasis parasite, it recalled jalapeños linked to a salmonella outbreak.",
+            "titulo": "Gone in 20 Minutes: Half-Off Sushi Draws Throngs to New York’s Japanese Markets",
+            "link": "https://www.nytimes.com/2026/08/14/nyregion/sushi-discount-japanese-markets-new-york.html",
+            "resumen": "At a proliferating number of stores, discounts on items like sushi are offered after 8 p.m. To get the best meals, you have to be there early.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Zero hours crackdown could cost firms up to £2.9bn a year",
-            "link": "https://www.bbc.co.uk/news/articles/c0l525k76d0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Labour's employment rights bill crackdown on zero hours contracts could cost businesses up to £2.9bn a year, new official analysis has found.",
-            "fuente": "BBC"
+            "titulo": "Trump administration accused of ‘bullying’ union leader at consumer protection agency",
+            "link": "https://www.theguardian.com/us-news/2026/aug/13/consumer-financial-protection-trump-administration",
+            "resumen": "Critic of Consumer Financial Protection Bureau leadership was put under investigation and suspended from job The Trump administration has been accused of “bullying and intimidation” after a labor union leader and critic was put under…",
+            "fuente": "The Guardian"
           },
           {
-            "titulo": "‘Unrig the economy for working people’: the California candidate who wrote updated labor laws",
-            "link": "https://www.theguardian.com/us-news/2026/aug/12/marni-von-wilpert-california-house-race",
-            "resumen": "Marni von Wilpert helped draft Protecting the Right to Organize act, and now wants work toward implementing it Legislation that would modernize federal labor law began with a handful of lawyers meeting, of all places, in an ice-cream…",
-            "fuente": "The Guardian"
+            "titulo": "A Silicon Valley Dirt Farmer Hangs Up His Shears",
+            "link": "https://www.nytimes.com/2026/08/14/business/a-silicon-valley-dirt-farmer-hangs-up-his-shears.html",
+            "resumen": "Andy Mariani grows exotic and ethereally delicious stone fruit in the shadow of tech giants. But at age 80, it’s time to give up the land.",
+            "fuente": "N.Y. Times"
           }
         ]
       },
@@ -224,9 +224,9 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
-            "link": "https://www.bbc.co.uk/news/articles/c5y49e2z8yno?at_medium=RSS&at_campaign=rss",
-            "resumen": "Scotland's best chance of seeing a solar eclipse in 27 years left some disappointed, though there were moments of magic.",
+            "titulo": "'The department has lost touch with farmers' - call for minister's resignation over cattle cull",
+            "link": "https://www.bbc.co.uk/news/articles/cdj0pv2m812o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The minister has previously said there was \"no reasonable alternative\" to the cattle being euthanised on site after the 51 cattle were culled following a court order.",
             "fuente": "BBC"
           },
           {
@@ -236,15 +236,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Telescope Spots Two Black Holes on the Cusp of Merging",
-            "link": "https://www.nytimes.com/2026/08/12/science/space/james-webb-telescope-black-holes-merging.html",
-            "resumen": "New images from the James Webb telescope show a galaxy with a trio of supermassive black holes. Two of them appear to be locked in a tight tango.",
+            "titulo": "This Pesticide May Be Too Dangerous to Use. Farmers Say They Need It.",
+            "link": "https://www.nytimes.com/2026/08/13/science/paraquat-pesticide-parkinsons-california.html",
+            "resumen": "California announced that it’s phasing out paraquat, a pesticide widely used in the United States that is linked to Parkinson’s disease.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
-            "link": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
+            "titulo": "Indian solar mission's new findings throw light on enduring Sun mysteries",
+            "link": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?",
             "fuente": "BBC"
           },
           {
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Critical former referees add to culture of fear, says retiring Taylor",
-            "link": "https://www.bbc.co.uk/sport/football/articles/czxq25zejj4o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Retiring Premier League referee Anthony Taylor says his decision to quit was partly due to the toxic debate around officials.",
+            "titulo": "European Cup winner Rimmer dies aged 78",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c20eyww3vyro?at_medium=RSS&at_campaign=rss",
+            "resumen": "European Cup winner and former Aston Villa and Manchester United goalkeeper Jimmy Rimmer dies at the age of 78.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Swim hero Katie Ledecky extends 16-year winning streak with Pan Pacs gold",
-            "link": "https://www.theguardian.com/sport/2026/aug/13/katie-ledecky-1500m-pan-pacific-championships-swimming-gold",
-            "resumen": "American wins 1500m freestyle in 15min 36.09sec Walsh beats Douglass to claim 50m butterfly title Urlando breaks Michael Phelps’ 20-year-old record Katie Ledecky won the 1500m freestyle on opening night of the Pan Pacific Championships on…",
+            "titulo": "No 1 pick Fernando Mendoza throws for touchdown in Las Vegas Raiders preseason debut",
+            "link": "https://www.theguardian.com/sport/2026/aug/13/fernando-mendoza-raiders-cardinals-nfl-preseason-debut",
+            "resumen": "Heisman winner finishes 10 of 16 for 97 yards Arizona beat Las Vegas 27-14 on Thursday night Love rushes for 58 yards in Cardinals debut No 1 draft pick Fernando Mendoza threw a touchdown pass in his preseason debut for the Las Vegas…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Jones turns to geese to inspire Japan",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cgq5pk5gpyyo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Before their second Test against Australia, Eddie Jones reveals an interesting method he uses to coach Japan - watching videos of geese fly in formation.",
+            "titulo": "Arsenal express interest in signing Quansah",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c9q92xr0854o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Arsenal express an interest in signing Bayer Leverkusen and England defender Jarell Quansah.",
             "fuente": "BBC"
           },
           {
-            "titulo": "This week’s soccer questions: is the Premier League wide open and should Barça avoid Rodri?",
-            "link": "https://www.theguardian.com/football/2026/aug/13/this-weeks-soccer-questions-is-this-the-premier-league-wide-open-and-should-barca-avoid-rodri",
-            "resumen": "We look at the many contenders for the English title this season, one of the big potential moves of the summer and chaos at Fifa It’s difficult to recall a Premier League season starting amid such widespread uncertainty as this one. Half…",
+            "titulo": "Superb Summer McIntosh bounces back with 400m medley gold at Pan Pacs",
+            "link": "https://www.theguardian.com/sport/2026/aug/14/summer-mcintosh-400m-medley-pan-pacific-championships-swimming",
+            "resumen": "Canadian wins in championship-record time Australia hold off Ledecky and US in 4x200 relay US swimmers claim six golds on second night Summer McIntosh of Canada led all the way in winning the 400m individual medley at the Pan Pacific…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Fulham leave pitch as Malaga take penalty into empty net",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cz052j8x9x1o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Fulham's pre-season friendly against Malaga ends in chaotic fashion as the Premier League side leave the pitch before a penalty shootout.",
+            "titulo": "Rising golf star, 18, dies after brain haemorrhage",
+            "link": "https://www.bbc.co.uk/sport/golf/articles/cp8elkd2353o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Promising Australian golfer Jessica Bang dies at the age of 18 after suffering a brain haemorrhage as she prepared for a tournament in Thailand.",
             "fuente": "BBC"
           }
         ]
