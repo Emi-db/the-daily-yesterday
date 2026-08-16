@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "15 de agosto de 2026",
+    "fecha": "16 de agosto de 2026",
     "generada": "10:10",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "\"La presión y las amenazas no están funcionando\": el dilema de cómo tratar al Talibán para generar un cambio en Afganistán",
-            "link": "https://www.bbc.com/mundo/articles/cjwxg155egno?at_medium=RSS&at_campaign=rss",
-            "resumen": "Cinco años después de que los talibanes regresaran al poder, muchos se preguntan si a Occidente le quedan bazas para negociar.",
+            "titulo": "Por qué no se han podido encontrar los restos de García Lorca 90 años después de su ejecución en la Guerra Civil española",
+            "link": "https://www.bbc.com/mundo/articles/c78gxlj1e55o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Más de 11.000 personas permanecen enterradas, sin identificar, en fosas comunes de España. Pero una de las más complicadas de encontrar es la del poeta universal de Granada.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "El regreso talibán en Afganistán: cinco años de una de las mayores derrotas de la comunidad internacional",
-            "link": "https://elpais.com/internacional/2026-08-15/el-regreso-taliban-cinco-anos-de-una-de-las-mayores-derrotas-del-mundo.html",
-            "resumen": "El grupo integrista consolida en un lustro, casi sin oposición, un régimen de represión contra las libertades, en especial las de las mujeres, y sumerge al país en la miseria. Mientras y pese a los abusos, Occidente da pasos para su…",
+            "titulo": "La supervivencia de Hamás complica la reelección a Netanyahu",
+            "link": "https://elpais.com/internacional/2026-08-16/la-supervivencia-de-hamas-complica-la-reeleccion-a-netanyahu.html",
+            "resumen": "El primer ministro israelí afronta las urnas en octubre con la promesa incumplida de la “victoria total” y la necesidad de cumplir el plan de Trump",
             "fuente": "El País"
           },
           {
-            "titulo": "Al menos dos muertos y estructuras derrumbadas tras un poderoso sismo de 7,7 en Indonesia",
-            "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260815-al-menos-dos-muertos-y-estructuras-derrumbadas-tras-un-poderoso-sismo-de-7-7-en-indonesia",
-            "resumen": "Edificios y viviendas quedaron reducidos a escombros y dos personas perdieron la vida en un nuevo terremoto que sacudió en la madrugada del 15 de agosto la región de Flores, en Indonesia, un país que suele ser asediado por eventos…",
+            "titulo": "¿Por qué algunas construcciones se derrumban y otras quedan en pie tras un terremoto?",
+            "link": "https://www.france24.com/es/video/20260816-por-qu%C3%A9-algunas-construcciones-se-derrumban-y-otras-quedan-en-pie-tras-un-terremoto",
+            "resumen": "De acuerdo con el Servicio Geológico de Estados Unidos, once sismos de magnitud 7 o superior a nivel mundial se han registrado en lo que va de 2026, entre ellos el doble movimiento telúrico que azotó a Venezuela el pasado 24 de junio y…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Hallan muerto a Jason Arday, el profesor de la Universidad de Cambridge acusado de plagio",
-            "link": "https://www.bbc.com/mundo/articles/cj36g28vdz1o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Jason Arday fue encontrado sin vida en una vivienda en Battersea, en el sur de Londres, el viernes por la tarde, según informaron las autoridades.",
+            "titulo": "¿Cuánto más puede aguantar Irán la guerra con Estados Unidos?",
+            "link": "https://www.bbc.com/mundo/articles/c0rdylwpj4no?at_medium=RSS&at_campaign=rss",
+            "resumen": "Siete meses después del inicio de la guerra, y a pesar de la enorme presión sobre la economía y la infraestructura del país, sus responsables políticos aún no parecen tener prisa por ponerle fin.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "La “carrera de obstáculos” de las afganas para pedir el traslado a España: años de espera, documentos “imposibles” y recursos judiciales",
-            "link": "https://elpais.com/internacional/2026-08-14/la-carrera-de-obstaculos-de-las-afganas-para-pedir-el-traslado-a-espana-anos-de-espera-documentos-imposibles-y-recursos-judiciales.html",
-            "resumen": "Las embajadas españolas en Irán y Pakistán deniegan un número creciente de peticiones de víctimas de los talibanes, según varias ONG",
+            "titulo": "La guerra de Irán altera el rumbo de un Trump urgido por su baja popularidad",
+            "link": "https://elpais.com/internacional/2026-08-16/el-callejon-sin-salida-de-iran-suma-un-nuevo-problema-interno-a-trump.html",
+            "resumen": "El subterfugio para huir de Turquía, la escasez de arsenal y el deterioro de las condiciones en el ‘USS Abraham Lincoln’ evidencian las dificultades en Oriente Próximo",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "El Gobierno amplía la vida de la central nuclear de Almaraz hasta 2030 por la “volatilidad de precios” originada en Oriente Próximo",
-            "link": "https://elpais.com/economia/2026-08-14/el-gobierno-autoriza-la-prorroga-de-la-central-nuclear-almaraz-hasta-junio-de-2030.html",
-            "resumen": "Transición Ecológica mantiene el resto del calendario de cierres hasta 2035",
+            "titulo": "La atomización de los hogares: por qué la reducción del tamaño de las familias tiene efectos económicos negativos",
+            "link": "https://elpais.com/economia/negocios/2026-08-16/la-atomizacion-de-los-hogares-por-que-la-reduccion-del-tamano-de-las-familias-tiene-efectos-economicos-negativos.html",
+            "resumen": "La revolución demográfica que vive España eleva los gastos, agrava el problema de la vivienda e incrementa el riesgo de vulnerabilidad",
             "fuente": "El País"
           },
           {
-            "titulo": "Un terremoto de magnitud 5 con epicentro en Alhendín sacude Granada durante la madrugada",
-            "link": "https://www.expansion.com/sociedad/2026/08/15/6a801bdee5fdea015b8b456d.html",
-            "resumen": "El terremoto de magnitud 5 con epicentro en Alhendín (Granada) registrado la madrugada de este sábado ha sacudido gran parte de Andalucía, especialmente Málaga, Jaén y Córdoba, y se ha dejado sentir en Murcia, Castilla-La Mancha, la…",
+            "titulo": "¿Ofertas invisibles? Sea el candidato elegido antes de publicar la vacante",
+            "link": "https://www.expansion.com/expansion-empleo/desarrollo-de-carrera/2026/08/14/6a7df55be5fdea471c8b459c.html",
+            "resumen": "El mercado laboral invisible evoluciona. En plena era de la IA, la clave para conseguir el empleo deseado es detectar señales de crecimiento empresarial antes que el resto. Los mejores empleos no esperan al botón de solicitar, y en un…",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Los ecologistas y el sector de renovables dudan de que se cumpla el calendario de cierre del resto de centrales nucleares tras la prórroga de Almaraz",
-            "link": "https://elpais.com/economia/2026-08-16/los-ecologistas-y-el-sector-de-renovables-dudan-que-se-cumpla-el-calendario-de-cierre-del-resto-de-centrales-nucleares-tras-la-prorroga-de-almaraz.html",
-            "resumen": "Greenpeace considera previsible que la dificultad de desconectar cuatro reactores a la vez en 2030 sea usada como pretexto para nuevos aplazamientos",
+            "titulo": "Cuando el microcrédito acaba asfixiando la economía familiar: “No podía pagar ni un café”",
+            "link": "https://elpais.com/economia/2026-08-16/cuando-el-microcredito-acaba-asfixiando-la-economia-familiar-no-podia-pagar-ni-un-cafe.html",
+            "resumen": "El año pasado se firmaron 3,8 millones de estos préstamos, un 46% más que en 2024, una solución que los expertos consideran que no es útil para resolver los problemas de endeudamiento",
             "fuente": "El País"
           },
           {
-            "titulo": "El euríbor apunta a otra subida mensual y tensará el coste de las hipotecas",
-            "link": "https://www.expansion.com/ahorro/2026/08/15/6a7f603d468aeb54398b45a7.html",
-            "resumen": "El índice anticipa un alza del precio del dinero en septiembre, cuando se revisará el coste de los créditos para vivienda. Leer",
+            "titulo": "Dos muertos en un ataque ruso contra una planta de ArcelorMittal en Ucrania",
+            "link": "https://www.expansion.com/economia/2026/08/16/6a817e9d468aeb3a2c8b4586.html",
+            "resumen": "Al menos dos personas han muerto y otras 13 resultaron heridas en un ataque ruso nocturno contra una planta de ArcelorMittal en Krivi Rig, la ciudad natal del presidente ucraniano, Volodímir Zelenski, informó este domingo la propia…",
             "fuente": "Expansión"
           },
           {
-            "titulo": "¿Por qué un pequeño pueblo riojano es la capital mundial de las butacas?",
-            "link": "https://elpais.com/economia/negocios/2026-08-15/por-que-un-pequeno-pueblo-riojano-es-la-capital-mundial-de-las-butacas.html",
-            "resumen": "El municipio de Ezcaray cuenta con tres fábricas que han acomodado a miles de espectadores de cine en España desde hace más de medio siglo. Ahora sus productos llegan a teatros y estadios internacionales",
+            "titulo": "Bruselas se pertrecha ante una posible batalla comercial con China",
+            "link": "https://elpais.com/economia/2026-08-16/bruselas-se-pertrecha-ante-una-posible-batalla-comercial-con-china.html",
+            "resumen": "La Comisión prepara un mecanismo para diversificar el origen de los proveedores en sectores críticos y un fondo de compensación para amortiguar el impacto de posibles represalias",
             "fuente": "El País"
           }
         ]
@@ -78,9 +78,9 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "Carl Wunsch, oceanógrafo: “Las consecuencias de Trump son terribles. Nos niegan la financiación con el argumento de que todo es una farsa”",
-            "link": "https://elpais.com/ciencia/2026-08-15/carl-wunsch-oceanografo-las-consecuencias-de-trump-son-terribles-nos-niegan-la-financiacion-con-el-argumento-de-que-todo-es-una-farsa.html",
-            "resumen": "El investigador estadounidense, pionero en comprender los efectos del cambio climático en los mares, alerta de los riesgos que suponen los gobiernos negacionistas y defiende la cooperación internacional",
+            "titulo": "Benjamin List, Premio Nobel: “A los químicos siempre nos han visto como una fuerza oscura, malos, algo tóxicos”",
+            "link": "https://elpais.com/ciencia/2026-08-16/benjamin-list-premio-nobel-a-los-quimicos-siempre-nos-han-visto-como-una-fuerza-oscura-malos-algo-toxicos.html",
+            "resumen": "El descubridor de la catálisis orgánica asimétrica defiende el potencial de la disciplina para solucionar los mayores problemas de la humanidad",
             "fuente": "El País"
           },
           {
@@ -90,9 +90,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Casas a 10.000 euros la noche: el precio de los alojamientos para el eclipse de 2027 se desmadra en Andalucía",
-            "link": "https://elpais.com/espana/2026-08-14/casas-a-10000-euros-la-noche-el-precio-de-los-alojamientos-para-el-eclipse-de-2027-se-desmadra-en-andalucia.html",
-            "resumen": "La disponibilidad de apartamentos, hostales o habitaciones de hotel es ya escasa en Málaga, Almería, Granada y Cádiz, donde los costes se han disparado",
+            "titulo": "Carl Wunsch, oceanógrafo: “Las consecuencias de Trump son terribles. Nos niegan la financiación con el argumento de que todo es una farsa”",
+            "link": "https://elpais.com/ciencia/2026-08-15/carl-wunsch-oceanografo-las-consecuencias-de-trump-son-terribles-nos-niegan-la-financiacion-con-el-argumento-de-que-todo-es-una-farsa.html",
+            "resumen": "El investigador estadounidense, pionero en comprender los efectos del cambio climático en los mares, alerta de los riesgos que suponen los gobiernos negacionistas y defiende la cooperación internacional",
             "fuente": "El País"
           },
           {
@@ -102,9 +102,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Un eclipse, cero incendios: el dispositivo por la cita astronómica se saldó sin fuegos de relevancia",
-            "link": "https://elpais.com/clima-y-medio-ambiente/2026-08-14/un-eclipse-cero-incendios-el-dispositivo-por-la-cita-astronomica-se-saldo-sin-fuegos-de-relevancia.html",
-            "resumen": "El Gobierno quiere extraer aprendizajes con vistas al próximo eclipse total que tendrá lugar el 2 de agosto de 2027 y que se verá en el sur de Andalucía, Ceuta y Melilla",
+            "titulo": "Casas a 10.000 euros la noche: el precio de los alojamientos para el eclipse de 2027 se desmadra en Andalucía",
+            "link": "https://elpais.com/espana/2026-08-14/casas-a-10000-euros-la-noche-el-precio-de-los-alojamientos-para-el-eclipse-de-2027-se-desmadra-en-andalucia.html",
+            "resumen": "La disponibilidad de apartamentos, hostales o habitaciones de hotel es ya escasa en Málaga, Almería, Granada y Cádiz, donde los costes se han disparado",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Oficial: Ferran Torres ficha por el PSG",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260815/1004216236/oficial-ferran-torres-ficha-psg.html",
-            "resumen": "El Paris Saint-Germain ha hecho oficial la incorporación de Ferran Torres (26 años). El delantero valenciano, autor del gol en la final del Mundial que le dio a España la segunda estrella, abandona el Spotify Camp Nou tras cuatro años y…",
+            "titulo": "El City sigue queriendo fichar medios con Rodri a la espera",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260816/1004216490/city-sigue-queriendo-fichar-medios-rodri-espera.html",
+            "resumen": "El FC Barcelona hizo su tercera oferta para convencer al Manchester City a que acceda a traspasar a Rodri Hernández , medio de 30 años que fue elegido por la FIFA MVP del reciente Mundial ganado por la selección española. Esta reciente…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Ferran, en París a cerrar una etapa y abrir otra",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260815/1004216178/ferran-paris-cerrar-etapa-abrir.html",
-            "resumen": "Ferran Torres está a punto de iniciar una nueva etapa profesional en su carrera tras el acuerdo de traspaso por casi 50 millones de euros sin variables al que llegaron el jueves el FC Barcelona y el PSG , que confía en anunciar…",
+            "titulo": "Que se prepare Rodri",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260816/1004216463/prepare-rodri.html",
+            "resumen": "Mientras el City sigue apretando para sacar lo máximo por Rodri , en el Barça mantienen la calma porque ya lograron lo más difícil: hacerse con la voluntad del jugador compitiendo contra un rival en teoría mejor colocado para ficharlo…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "August 15, 2026",
+    "fecha": "August 16, 2026",
     "generada": "10:10",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
-            "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-            "resumen": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+            "titulo": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+            "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
             "fuente": "BBC"
           },
           {
-            "titulo": "American missionary kidnapped in Niger freed after nine months",
-            "link": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
-            "resumen": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, his organisation has said. Serving in…",
+            "titulo": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+            "link": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+            "resumen": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
-            "link": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
-            "resumen": "Jason Arday, the school’s youngest Black professor, was found dead on Friday. The school ignored a series of warnings about his life story and his work.",
+            "titulo": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
+            "link": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
+            "resumen": "The United States and Iran are poised to blow past a deadline they had set themselves to broker terms on peace and Iran’s nuclear program.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
-            "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
-            "resumen": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention.",
+            "titulo": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+            "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
             "fuente": "BBC"
           },
           {
-            "titulo": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
-            "link": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-            "resumen": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after…",
+            "titulo": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+            "link": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+            "resumen": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territory Moroccan police have arrested 111 people as they tried to enter Spain’s north African territory of Ceuta, amid…",
             "fuente": "The Guardian"
           }
         ]
@@ -201,15 +201,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Sports Team Sale Prices Keep Hitting New Highs",
-            "link": "https://www.nytimes.com/2026/08/15/business/sports-team-values-billionaires.html",
-            "resumen": "This week’s deal for the Los Angeles Lakers, which valued the team at a record $12.5 billion, was the latest in a pattern of skyrocketing prices.",
+            "titulo": "How a False Nuclear Claim About Iran Ricocheted From India to Washington",
+            "link": "https://www.nytimes.com/2026/08/16/business/iran-nuclear-false-claims.html",
+            "resumen": "A dubious post that spread on X became the basis of false claims that Iran’s leadership had declared it a nuclear power.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
-            "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+            "titulo": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+            "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
             "fuente": "BBC"
           },
           {
@@ -224,9 +224,9 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "'Days of the farmers' union dictating policy are over' - Muir",
-            "link": "https://www.bbc.co.uk/news/articles/cdj0pv2m812o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The Agriculture Minister Andrew Muir says he will continue to engage with the Ulster Farmers' Union.",
+            "titulo": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+            "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+            "resumen": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
             "fuente": "BBC"
           },
           {
@@ -242,16 +242,16 @@ const EDICION_MUNDO = {
             "fuente": "N.Y. Times"
           },
           {
+            "titulo": "Firefighters battle wildfire tearing through Belgian nature reserve",
+            "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The fire burning through the major park was described as the country's worst in recent years.",
+            "fuente": "BBC"
+          },
+          {
             "titulo": "The immortal jellyfish and other mindblowing invertebrates – podcast",
             "link": "https://www.theguardian.com/science/audio/2026/aug/13/the-immortal-jellyfish-and-other-mindblowing-invertebrates-podcast",
             "resumen": "Each year the Guardian runs a competition to find the invertebrate of the year. To find out more about the 2026 nominees science editor Ian Sample hears from climate reporter Petra Stock, environment reporter Oliver Milman and Science…",
             "fuente": "The Guardian"
-          },
-          {
-            "titulo": "Telescope Spots Two Black Holes on the Cusp of Merging",
-            "link": "https://www.nytimes.com/2026/08/12/science/space/james-webb-telescope-black-holes-merging.html",
-            "resumen": "New images from the James Webb telescope show a galaxy with a trio of supermassive black holes. Two of them appear to be locked in a tight tango.",
-            "fuente": "N.Y. Times"
           }
         ]
       },
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "'Pressure will follow him' - Rocky Flintoff faces up to tests ahead",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c9342w19n81o?at_medium=RSS&at_campaign=rss",
-            "resumen": "With one former England coach calling for Rocky Flintoff to be \"fast-tracked\" to international cricket, what should be next for the talented teenager?",
+            "titulo": "How important is Community Shield to a team's season?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c1e1v64q256o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Premier League champions Arsenal take on FA Cup winners Manchester City in Sunday's Community Shield - but would winning suggest a successful season ahead?",
             "fuente": "BBC"
           },
           {
-            "titulo": "EFL’s big kick-off; Romero joins Atlético; transfer updates and more – matchday live",
-            "link": "https://www.theguardian.com/football/live/2026/aug/15/community-shield-buildup-championship-and-club-friendly-updates-matchday-live",
-            "resumen": "⚽ News and buildup to the first Saturday of the EFL season ⚽ This weekend’s fixtures | Wolves 2-2 Blackburn | Mail us Anthony Burgess has messaged in from Malta with his thoughts on Cristian Romero’s move to Atlético Madrid… “Feels like…",
+            "titulo": "Community Shield offers insight into Arsenal’s desire and Maresca’s Manchester City impact | Jonathan Wilson",
+            "link": "https://www.theguardian.com/football/2026/aug/15/community-shield-offers-insight-into-arsenals-desire-and-marescas-manchester-city-impact",
+            "resumen": "Curtain-raiser can offer clues but it is no reliable pointer to a season – its winners have not landed the title since 2018 The doubt for anyone when a long-strived-for goal has been achieved is hunger. Arsenal waited 22 years for their…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "No player bigger than a club - is that changing for some fans?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cn8ner50zdno?at_medium=RSS&at_campaign=rss",
-            "resumen": "From Lionel Messi and Cristiano Ronaldo to Erling Haaland and Jude Bellingham, are star names a bigger draw than clubs for young fans?",
+            "titulo": "Bangladesh thrash Australia in one of Test cricket's greatest upsets",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cn8nn37v22lo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Bangladesh thrash Australia by nine wickets on the fourth day of the series-opener in Darwin to complete one of Test cricket's greatest upsets.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Struggling Venus Williams suffers 14th straight defeat in Cincinnati rout",
-            "link": "https://www.theguardian.com/sport/2026/aug/14/venus-williams-emilia-arango-cincinnati-masters-tennis",
-            "resumen": "Seven-time major champion beaten 6-2, 6-2 Williams, 46, loses 11th match of the season Tsitsipas advances as Dimitrov squanders lead Colombian Emilia Arango handed Venus Williams a 14th straight loss dating to July of last year, defeating…",
+            "titulo": "Claressa Shields eyes Britain’s Price after stopping Kaye Scott to reclaim titles",
+            "link": "https://www.theguardian.com/sport/2026/aug/16/claressa-shields-kaye-scott-middleweight-titles-boxing-atlanta",
+            "resumen": "American stops Sydneysider at 1:38 of sixth round Shields claims WBA and WBC belts after 38lb cut Lauren Price identified as preferred next opponent Claressa Shields completed a remarkable descent from heavyweight to middleweight,…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Fresh rivals & forced to settle for silver - but Hodgkinson up for fight",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/cjejknkjendo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Keely Hodgkinson says she is proud of her ability to \"continue to fight\" after taking silver behind Audrey Werro at the European Athletics Championships.",
+            "titulo": "Hunt wins third gold as Asher-Smith makes history",
+            "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Amy Hunt claims the third gold medal of her bid for a historic quadruple and Dina Asher-Smith makes history as Great Britain win two relay golds at the European Athletics Championships.",
             "fuente": "BBC"
           }
         ]

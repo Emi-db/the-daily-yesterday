@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "15 de agosto de 2026",
+  "fecha": "16 de agosto de 2026",
   "generada": "10:10",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Una nueva encuesta midió al Gabinete de Milei y tres ministros terminaron abajo de Adorni",
-          "link": "https://www.clarin.com/politica/nueva-encuesta-midio-gabinete-milei-ministros-terminaron-abajo-adorni_0_etaygO9ceI.html",
-          "resumen": "Es el último estudio nacional de la Universidad de San Andrés. Evaluó las imágenes de 10 funcionarios actuales y del exjefe de Gabinete y exvocero. Los de arriba y los de abajo, según su valoración positiva.",
+          "titulo": "Federico Aurelio: \"Milei ganó por la economía y el año que viene se va a definir por la economía\"",
+          "link": "https://www.clarin.com/politica/federico-aurelio-milei-gano-economia-ano-viene-va-definir-economia_0_sjKtLtAGvn.html",
+          "resumen": "El titular de la consultora Aresco, una de las más prestigiosas del mercado, hizo su análisis del momento actual. Qué dijo sobre Cristina, Kicillof, Macri y la chance de que aparezca un tercer espacio.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Hugo Moyano giró en un mes $2580 millones a fideicomisos vinculados a su esposa",
-          "link": "https://www.lanacion.com.ar/politica/hugo-moyano-giro-en-un-mes-2580-millones-a-fideicomisos-vinculados-a-su-esposa-nid15082026/",
-          "resumen": "Desde las cuentas del Sindicato de Camioneros se transfirieron, entre abril y junio, fondos a las empresas de Liliana Zulet; una maniobra similar se hizo el año pasado, pero por $900 millones",
+          "titulo": "Con Milei, los fondos fiduciarios acumularon US$3000 millones de superávit y se usaron para financiar al Tesoro",
+          "link": "https://www.lanacion.com.ar/politica/con-milei-los-fondos-fiduciarios-acumularon-us3000-millones-de-superavit-y-se-usaron-para-financiar-nid16082026/",
+          "resumen": "El Palacio de Hacienda sostiene el “déficit cero” con la recaudación de los fideicomisos, pero ejecuta menos obras",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Sur Finanzas: la justicia secuestró la Ferrari de Ariel Vallejo, el empresario amigo de Claudio Tapia, que estaba oculta en Puerto Madero",
-          "link": "https://www.infobae.com/politica/2026/08/15/sur-finanzas-la-justicia-secuestro-la-ferrari-de-ariel-vallejo-el-empresario-amigo-de-claudio-tapia-estaba-oculta-en-puerto-madero/",
-          "resumen": "El descapotable negro, valuado en unos US$ 320.000, forma parte de una flota de autos de lujo que la justicia entiende que se compraron con fondos no justificados. El financista es investigado por asociación ilícita, cobro de tasas…",
+          "titulo": "Los inusuales días que se viven en Casa Rosada, la nueva fase de Karina y el gobernador que coquetea con LLA",
+          "link": "https://www.infobae.com/politica/2026/08/16/los-inusuales-dias-que-se-viven-en-casa-rosada-la-nueva-fase-de-karina-y-el-gobernador-que-coquetea-con-lla/",
+          "resumen": "La hermana del Presidente asumió como nunca la conducción política de un Gobierno que se encuentra en una fase decisiva. Continúan las tensiones al interior de la Mesa Política y hay diferentes cálculos sobre las adhesiones que las…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "El oficialismo le pone fecha a la votación de Inocencia Fiscal II y la reforma del BCRA: apuestan a una mega sesión el 26 de agosto",
-          "link": "https://www.clarin.com/politica/oficialismo-pone-fecha-votacion-inocencia-fiscal-ii-reforma-bcra-apuestan-mega-sesion-26-agosto_0_O3nBJsbV7z.html",
-          "resumen": "También buscarán tratar el demorado Tratado de Patentes (PCT) prometido a Trump y el acuerdo Mercosur - Singapur. Para contentar a aliados, incluyeron un proyecto de baja del IVA a la mandioca y otro de capitales nacionales para distintas…",
+          "titulo": "El embajador Lamelas habló sobre la posición de Estados Unidos en la cuestión Malvinas y prometió visas para argentinos antes de dejar su misión",
+          "link": "https://www.clarin.com/politica/embajador-lamelas-hablo-posicion-estados-unidos-cuestion-malvinas-prometio-visas-argentinos-vaya_0_uZvauiFcpe.html",
+          "resumen": "\"Voy a trabajar lo más posible\", para devolver la exención de visado al país. El médico y diplomático remarcó que \"hay que respetar las leyes de Argentina\".",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Diego Santilli y Luis Caputo viajan al norte para inaugurar obras del sector energético",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-las-repercusiones-de-la-inflacion-de-julio-y-el-armado-electoral-nid14082026/",
-          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "titulo": "Aferrado al programa, el Gobierno piensa cómo ganar la elección sin un plan platita: alianzas, economía y frente interno",
+          "link": "https://www.lanacion.com.ar/politica/aferrado-al-programa-el-gobierno-piensa-como-ganar-la-eleccion-sin-un-plan-platita-alianzas-economia-nid16082026/",
+          "resumen": "Fuentes de la Casa Rosada dicen que las bases del programa no se tocan, por lo que se enfocan en conseguir adelantar posibles inversiones; coinciden en que hay que acordar pero aparecen posiciones disímiles sobre cuándo",
           "fuente": "La Nación"
         }
       ]
@@ -42,34 +42,34 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Dólar blue hoy: a cuánto cotiza este sábado 15 de agosto",
-          "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-sabado-15-agosto_0_6b3wPwTQWH.html",
-          "resumen": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
+          "titulo": "Venta de Metrogas: Edenor espera que se amplíe la concesión y varias empresas siguen el caso muy de cerca",
+          "link": "https://www.clarin.com/energia-y-mineria/venta-metrogas-edenor-espera-amplie-concesion-varias-empresas-siguen-caso-cerca_0_9zmVMoliyH.html",
+          "resumen": "La adquisición por parte de la eléctrica quedó condicionada a que el Gobierno extienda hasta 2047 la licencia de la mayor distribuidora de gas del país. La decisión forma parte de un proceso más amplio que alcanza a las empresas surgidas…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El Gobierno publicó el decreto que habilita los créditos en dólares para empresas que no generan divisas",
-          "link": "https://www.ambito.com/economia/el-gobierno-publico-el-decreto-que-habilita-los-creditos-dolares-empresas-que-no-generan-divisas-n6311101",
-          "resumen": "La medida había sido anticipada por el ministro de Economía, Luis Caputo. El nuevo régimen permitirá utilizar una parte de los depósitos en moneda extranjera para financiar a firmas que no tienen ingresos vinculados al comercio exterior.",
-          "fuente": "Ámbito"
-        },
-        {
-          "titulo": "Los caciques levantan bandera blanca",
-          "link": "https://www.clarin.com/economia/caciques-levantan-bandera-blanca_0_xPZAvZ40KV.html",
-          "resumen": "Luis Caputo agitó el trapo blanco de la paz con Mauricio Macri para precipitar algún frente unido en la centroderecha. Cristina de Kirchner hizo lo mismo hacia dentro del peronismo.",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "La pyme familiar que hizo el cambio generacional y hace tres años encontró del otro lado del mundo un aliado para crecer",
-          "link": "https://www.lanacion.com.ar/economia/campo/ganaderia/la-pyme-familiar-que-hizo-el-cambio-generacional-y-hace-tres-anos-encontro-del-otro-lado-del-mundo-nid15082026/",
-          "resumen": "Carolina Serrani y su esposo Leonardo Ruiz se hicieron cargo de la fábrica de implementos rurales de madera que había fundado su padre y hoy ofrece productos de acero galvanizado de una firma australiana",
+          "titulo": "Negocio con futuro: Chile le compró a una pyme argentina un importante subproducto para hacer un alimento para salmones",
+          "link": "https://www.lanacion.com.ar/economia/campo/negocio-con-futuro-chile-le-compro-a-una-pyme-argentina-un-importante-subproducto-para-hacer-un-nid16082026/",
+          "resumen": "Doble L Bioenergías envió 120 toneladas de oleínas y ácidos grasos vegetales; en un mes se completarán 600 toneladas",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Santiago Bausili admitió que la economía crece más lento de lo esperado y apuntó al \"miedo\" como freno",
-          "link": "https://www.ambito.com/economia/santiago-bausili-admitio-que-la-crece-mas-lento-lo-esperado-y-apunto-al-miedo-como-freno-n6311085",
-          "resumen": "El titular del BCRA habló ante empresarios en Mendoza y explicó que las secuelas de crisis anteriores condicionan las decisiones de inversión y financiamiento. También anticipó cambios para ampliar el crédito.",
+          "titulo": "Argentina quedó entre los países con mayor inflación de Latinoamérica en julio",
+          "link": "https://www.ambito.com/economia/argentina-quedo-los-paises-mayor-inflacion-latinoamerica-julio-n6311219",
+          "resumen": "El índice de precios avanzó 2,1% durante el séptimo mes del año y se ubicó entre los registros más elevados de la región. En el otro extremo, Bolivia y Paraguay anotaron caídas mensuales de precios.",
           "fuente": "Ámbito"
+        },
+        {
+          "titulo": "Cómo es el \"cambio de chip\" que generó la llegada de los autos chinos",
+          "link": "https://www.clarin.com/economia/cambio-chip-genero-llegada-autos-chinos_0_zH5st7jl04.html",
+          "resumen": "Pese a que la venta de cero kilómetro se achicó, en pocos meses 15% de participación. Los empresarios dicen de que el efecto que provocan entre los clientes es similar al que hubo con los autos importados en los años '90.",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "La crisis vial suma sentencias que están lejos de generar efectos en las rutas",
+          "link": "https://www.lanacion.com.ar/economia/la-crisis-vial-suma-sentencias-que-estan-lejos-de-generar-efectos-en-las-rutas-nid16082026/",
+          "resumen": "La Justicia ordenó reparar varios corredores nacionales; los fallos desarman la excusa presupuestaria —hay $1 billón del fideicomiso en plazos fijos—, pero entre la decisión del magistrado y el asfalto hay una brecha imposible de acortar",
+          "fuente": "La Nación"
         }
       ]
     },
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Un sismo en Granada, en el sur de España, generó temor entre los pobladores en la madrugada de este sábado",
-          "link": "https://www.clarin.com/mundo/sismo-granada-sur-espana-genero-temor-pobladores-madrugada-sabado_0_INQ2gv7xFJ.html",
-          "resumen": "El fuerte temblor de 5,2 ocurrió pasada la 1 de la madrugada de España. Se reportan daños en casas y edificios. Hasta el momento no hay víctimas fatales. Numerosas personas de varios puntos de la provincia están desvelados por miedo a más…",
+          "titulo": "Emoción en Medellín: un concierto con más de 25 artistas en escena recaudó casi dos millones de dólares para las víctimas del terremoto",
+          "link": "https://www.clarin.com/mundo/emocion-medellin-concierto-25-artistas-escena-recaudo-millones-dolares-victimas-terremoto_0_wMKXE5d5zp.html",
+          "resumen": "Además del dinero, se donaron 31 toneladas de alimentos y productos de aseo para los damnificados por el terremoto que sacudió Colombia el pasado lunes. La jornada \"Colombia, Medellín Te Quiere\", celebrada en el centro de eventos La…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Un terremoto de magnitud 7,7 sacudió la costa de Indonesia y disparó una alerta por tsunami",
-          "link": "https://www.lanacion.com.ar/el-mundo/un-terremoto-de-magnitud-77-sacudio-la-costa-de-indonesia-y-disparo-una-alerta-por-tsunami-nid14082026/",
-          "resumen": "El sismo tuvo su epicentro en la isla de Flores, al este del país asiático, a una profundidad de 10 kilómetros; las autoridades confirmaron al menos 20 muertes y decenas de heridos",
+          "titulo": "Las aspiraciones imperialistas de Erdogan y la estrategia que inquieta cada vez más a Occidente",
+          "link": "https://www.lanacion.com.ar/el-mundo/las-aspiraciones-imperialistas-de-erdogan-y-la-estrategia-que-inquieta-cada-vez-mas-a-occidente-nid16082026/",
+          "resumen": "Apalancada en la figura de Erdogan, Ankara busca establecer una narrativa que la convierta en el eje imprescindible entre Europa, Rusia, el Golfo árabe y África",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Las imágenes más impactantes del sismo de magnitud 5,2 que sacudió el sur de España y provocó destrozos en Granada",
-          "link": "https://www.lanacion.com.ar/el-mundo/las-imagenes-mas-impactantes-del-terremoto-de-magnitud-52-que-sacudio-el-sur-de-espana-y-provoco-nid15082026/",
-          "resumen": "Se trató de un temblor moderado con epicentro un kilómetro al suroeste de Otura y a una profundidad de 10 kilómetros; hasta el momento no se registraron víctimas fatales",
-          "fuente": "La Nación"
-        },
-        {
-          "titulo": "Venezuela anuncia la excarcelación de más de 130 presos políticos en medio de diálogo con oposición",
-          "link": "https://www.clarin.com/mundo/venezuela-anuncia-excarcelacion-130-presos-politicos-medio-dialogo-oposicion_0_jdnFxcsutu.html",
-          "resumen": "El gobierno de Delcy Rodríguez cumple así con parte de lo acordado en la mesa de diálogo que se instaló días atrás bajo auspicio de Estados Unidos. El jefe de la diplomacia de EE.UU., Marco Rubio, celebró las liberaciones.",
+          "titulo": "Del milagro al dolor: hallaron muerta a la madre del bebé salvado y falleció una mujer rescatada tras 36 horas bajo los escombros",
+          "link": "https://www.clarin.com/mundo/milagro-dolor-hallaron-muerta-madre-bebe-salvado-fallecio-mujer-rescatada-36-horas-escombros_0_tmeFmROTlb.html",
+          "resumen": "El cuerpo de Valentina Vanegas, la madre del bebé rescatado el miércoles, fue hallado en las ruinas de un edificio en Cali. Daniela Largo Sánchez falleció este sábado después de sufrir varias complicaciones médicas.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Ahora Trump quiere anexar Ormuz: dijo que \"pronto\" va a declarar el estrecho como \"territorio de Estados Unidos\"",
-          "link": "https://www.clarin.com/mundo/ahora-trump-quiere-anexar-ormuz-dijo-pronto-va-declarar-estrecho-territorio-estados-unidos_0_RlgGdfK2RM.html",
-          "resumen": "El presidente norteamericano reafirmó el bloqueo sobre la vía navegable y dijo que están derrotando a Irán. Su gobierno anunciaría nuevas sanciones económicas contra la república islámica en los próximos días.",
+          "titulo": "Una argentina fue detenida en Japón por intentar ingresar casi un kilo de cocaína oculto en su cuerpo",
+          "link": "https://www.lanacion.com.ar/sociedad/una-argentina-fue-detenida-en-japon-por-intentar-ingresar-casi-un-kilo-de-cocaina-oculto-en-su-nid15082026/",
+          "resumen": "Rosa Micaela Kipildor (30) fue sometida a una radiografía tras despertar sospechas de los agentes aduaneros; según declaró, había recibido los paquetes en Brasil y esperaba cobrar US$7000 por transportarlos",
+          "fuente": "La Nación"
+        },
+        {
+          "titulo": "Tormenta en España: dos mujeres murieron y dos bebés sufrieron heridas al quedar atrapados en una bodega durante un aluvión",
+          "link": "https://www.clarin.com/mundo/tormenta-espana-mujeres-murieron-bebes-sufrieron-heridas-quedar-atrapados-bodega-aluvion_0_LSVhLmOLA8.html",
+          "resumen": "Las lluvias generaron la rápida crecida de ríos y arroyos que se desparramaron sobre el pueblo de Manzanedo de Valdueza, en el noroeste de España. El temporal se dio en medio de un día festivo, donde la población celebra sus fiestas…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "El boxeo desembarca en La Cúpula de Flavio Mendoza: una eliminatoria mundialista y seis peleas con títulos en juego",
-          "link": "https://www.clarin.com/deportes/boxeo-desembarca-cupula-flavio-mendoza-eliminatoria-mundialista-peleas-titulos-juego_0_cQKKhUVWbZ.html",
-          "resumen": "El moderno recinto inaugurado en el Casino de Buenos Aires recibirá este sábado el Festival Nocaut a las Drogas de la AMB. Maximiliano Robledo enfrentará al invicto ghanés John Laryea en busca de acercarse a un combate por el título…",
+          "titulo": "Batalla campal en la Primera B Metropolitana: Arsenal y Talleres, a las piñas y patadas en un todos contra todos",
+          "link": "https://www.clarin.com/deportes/batalla-campal-primera-b-metropolitana-arsenal-talleres-pinas-patadas_0_30PUWhO3ji.html",
+          "resumen": "Cuando el encuentro estaba llegando a su fin, un cruce entre dos futbolistas terminó en empujones y corridas entre varios integrantes de los dos equipos. El escándalo fue tan grande que el árbitro decidió terminar el partido en medio de…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Todos los horarios de los partidos de las Leonas en el Mundial 2026",
-          "link": "https://www.lanacion.com.ar/deportes/hockey/todos-los-horarios-de-los-partidos-de-las-leonas-en-el-mundial-2026-nid15082026/",
-          "resumen": "La selección argentina de hockey sobre césped femenino inicia su camino en el certamen ecuménico ante Estados Unidos y luego se cruzará con Alemania y Escocia",
+          "titulo": "La FIFA difundió la Ref Cam de la final del Mundial: de los reclamos de Enzo Fernández y Messi al gol de España",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/la-fifa-difundio-la-ref-cam-de-la-final-del-mundial-de-los-reclamos-de-enzo-fernandez-y-messi-al-gol-nid16082026/",
+          "resumen": "La casa madre del fútbol publicó la grabación de la cámara que portó el árbitro esloveno Slavko Vinčić en el partido decisivo de la última Copa del Mundo",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Partidos de HOY, sábado 15 de agosto: agenda, horario y por dónde ver fútbol EN VIVO",
-          "link": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-sabado-15-agosto-2026-agenda-ole-horario-ver-futbol-vivo-online_0_eCK3xApN4b.html",
-          "resumen": "Estudiantes y Gimnasia paralizan La Plata en una nueva edición del derbi, mientras que Boca visita a un duro Platense en Vicente López.",
+          "titulo": "A qué hora juegan Los Leones vs. Japón y dónde ver el partido de hoy EN VIVO por el Mundial de hockey 2026",
+          "link": "https://www.ole.com.ar/hockey/hora-juegan-leones-vs-japon-mundial-hockey-2026-ver-partido-hoy-vivo_0_sWGsDq2IjD.html",
+          "resumen": "Después del empate de Las Leonas, será el turno de que el seleccionado masculino haga su debut en la Copa del Mundo de Países Bajos y Bélgica. Seguilo en Olé.",
           "fuente": "Olé"
         },
         {
-          "titulo": "De mundialista a mundialistas: Scaloni reapareció en redes con un mensaje para Las Leonas y Los Leones antes del debut",
-          "link": "https://www.clarin.com/deportes/mundialista-mundialistas-scaloni-reaparecio-redes-mensaje-leonas-leones-debut_0_6u0AbpGKAf.html",
-          "resumen": "\"A llevar nuestros colores a lo más alto\", expresó. El entrenador aún no confirmó su continuidad más allá del 31 de diciembre.",
+          "titulo": "El mercado mueve a Dibu Martínez: Juventus insiste por él y Aston Villa ya encontró a su posible reemplazante",
+          "link": "https://www.clarin.com/deportes/mercado-mueve-dibu-martinez-juventus-insiste-aston-villa-encontro-posible-reemplazante_0_xoSCnPMpHR.html",
+          "resumen": "El club de Turín retomó los contactos por el arquero argentino, mientras el conjunto de Birmingham avanzó por el japonés Zion Suzuki. El marplatense, que regresó a Inglaterra tras sus vacaciones, analiza su futuro y busca un cambio de aire.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Marco Trungelliti logró su primera victoria en el Masters 1000 de Cincinnati con un punto para el recuerdo",
-          "link": "https://www.lanacion.com.ar/deportes/marco-trungelliti-logro-su-primera-victoria-en-el-masters-1000-de-cincinnati-con-un-punto-para-el-nid14082026/",
-          "resumen": "El santiagueño de 36 años tuvo un partido memorable frente al serbio Hamad Medjedovic y se impuso por 7-5 y 7-6 (7-2)",
+          "titulo": "Jugadores de Patronato fueron agredidos por sus hinchas tras haber perdido contra Colón de Santa Fe",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/jugadores-de-patronato-fueron-agredidos-por-sus-hinchas-tras-haber-perdido-contra-colon-de-santa-fe-nid16082026/",
+          "resumen": "El plantel del conjunto lleva 11 partidos sin conocer la victoria y está penúltimo en el Grupo B de la Primera Nacional",
           "fuente": "La Nación"
         }
       ]
