@@ -1,12 +1,30 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "16 de agosto de 2026",
-    "generada": "10:10",
+    "fecha": "17 de agosto de 2026",
+    "generada": "10:19",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
+          {
+            "titulo": "Forest City, la ciudad fantasma con rascacielos vacíos que se convirtió en un refugio para estafadores",
+            "link": "https://www.bbc.com/mundo/articles/cm2ggn9jm66o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Forest City, un proyecto urbanístico de Malasia, se promocionaba como un \"paraíso\", pero atrajo clientes que no esperaba.",
+            "fuente": "BBC Mundo"
+          },
+          {
+            "titulo": "Lula busca un cuarto mandato para frenar a la derecha en Brasil y consolidar su legado",
+            "link": "https://elpais.com/internacional/2026-08-16/lula-arranca-la-campana-para-conquistar-un-cuarto-mandato-no-voy-a-permitir-que-la-derecha-regrese-al-poder.html",
+            "resumen": "El presidente y el hijo de Bolsonaro arrancan la campaña para los comicios de octubre con un empate técnico en los sondeos",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "¿Cómo evitar crisis sanitarias en zonas como Buenaventura tras el terremoto en Colombia?",
+            "link": "https://www.france24.com/es/video/20260817-c%C3%B3mo-evitar-crisis-sanitarias-en-zonas-como-buenaventura-tras-el-terremoto-en-colombia",
+            "resumen": "Buenaventura vive una emergencia tras el terremoto del 10 de agosto. La ciudad enfrenta hospitales colapsados y vías incomunicadas, mientras el Gobierno refuerza la atención con insumos médicos, carpas hospitalarias y la reactivación del…",
+            "fuente": "France 24"
+          },
           {
             "titulo": "Por qué no se han podido encontrar los restos de García Lorca 90 años después de su ejecución en la Guerra Civil española",
             "link": "https://www.bbc.com/mundo/articles/c78gxlj1e55o?at_medium=RSS&at_campaign=rss",
@@ -14,27 +32,9 @@ const EDICION_MUNDO = {
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "La supervivencia de Hamás complica la reelección a Netanyahu",
-            "link": "https://elpais.com/internacional/2026-08-16/la-supervivencia-de-hamas-complica-la-reeleccion-a-netanyahu.html",
-            "resumen": "El primer ministro israelí afronta las urnas en octubre con la promesa incumplida de la “victoria total” y la necesidad de cumplir el plan de Trump",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "¿Por qué algunas construcciones se derrumban y otras quedan en pie tras un terremoto?",
-            "link": "https://www.france24.com/es/video/20260816-por-qu%C3%A9-algunas-construcciones-se-derrumban-y-otras-quedan-en-pie-tras-un-terremoto",
-            "resumen": "De acuerdo con el Servicio Geológico de Estados Unidos, once sismos de magnitud 7 o superior a nivel mundial se han registrado en lo que va de 2026, entre ellos el doble movimiento telúrico que azotó a Venezuela el pasado 24 de junio y…",
-            "fuente": "France 24"
-          },
-          {
-            "titulo": "¿Cuánto más puede aguantar Irán la guerra con Estados Unidos?",
-            "link": "https://www.bbc.com/mundo/articles/c0rdylwpj4no?at_medium=RSS&at_campaign=rss",
-            "resumen": "Siete meses después del inicio de la guerra, y a pesar de la enorme presión sobre la economía y la infraestructura del país, sus responsables políticos aún no parecen tener prisa por ponerle fin.",
-            "fuente": "BBC Mundo"
-          },
-          {
-            "titulo": "La guerra de Irán altera el rumbo de un Trump urgido por su baja popularidad",
-            "link": "https://elpais.com/internacional/2026-08-16/el-callejon-sin-salida-de-iran-suma-un-nuevo-problema-interno-a-trump.html",
-            "resumen": "El subterfugio para huir de Turquía, la escasez de arsenal y el deterioro de las condiciones en el ‘USS Abraham Lincoln’ evidencian las dificultades en Oriente Próximo",
+            "titulo": "Alejandro Betancourt, el multimillonario investigado que conecta a Delcy Rodríguez con Trump",
+            "link": "https://elpais.com/america/2026-08-16/alejandro-betancourt-el-multimillonario-investigado-que-conecta-a-delcy-rodriguez-con-trump.html",
+            "resumen": "El empresario venezolano, bajo la lupa de la justicia española y suiza, ha regresado a Caracas en las últimas semanas en vuelos privados rodeados de misterio",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "La atomización de los hogares: por qué la reducción del tamaño de las familias tiene efectos económicos negativos",
-            "link": "https://elpais.com/economia/negocios/2026-08-16/la-atomizacion-de-los-hogares-por-que-la-reduccion-del-tamano-de-las-familias-tiene-efectos-economicos-negativos.html",
-            "resumen": "La revolución demográfica que vive España eleva los gastos, agrava el problema de la vivienda e incrementa el riesgo de vulnerabilidad",
+            "titulo": "El Gobierno prepara medidas contra el abuso de temporalidad en el empleo público y acota el problema a 200.000 interinos",
+            "link": "https://elpais.com/economia/2026-08-17/el-gobierno-prepara-medidas-contra-el-abuso-de-temporalidad-en-el-empleo-publico-y-acota-el-problema-a-200000-interinos.html",
+            "resumen": "El Ministerio de López negocia con las comunidades un sistema de alertas y sanciones a los gestores públicos que incurran en irregularidades",
             "fuente": "El País"
           },
           {
-            "titulo": "¿Ofertas invisibles? Sea el candidato elegido antes de publicar la vacante",
-            "link": "https://www.expansion.com/expansion-empleo/desarrollo-de-carrera/2026/08/14/6a7df55be5fdea471c8b459c.html",
-            "resumen": "El mercado laboral invisible evoluciona. En plena era de la IA, la clave para conseguir el empleo deseado es detectar señales de crecimiento empresarial antes que el resto. Los mejores empleos no esperan al botón de solicitar, y en un…",
+            "titulo": "Santander, CaixaBank y BBVA compiten por la liquidez de las grandes fortunas",
+            "link": "https://www.expansion.com/empresas/banca/2026/08/17/6a5a59e6e5fdead16f8b456e.html",
+            "resumen": "Los grandes bancos descartan pagar por el ahorro de manera generalizada, pero reservan las mejoras en la rentabilidad de su oferta depósitos para clientes seleccionados y con altos patrimonios. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Cuando el microcrédito acaba asfixiando la economía familiar: “No podía pagar ni un café”",
-            "link": "https://elpais.com/economia/2026-08-16/cuando-el-microcredito-acaba-asfixiando-la-economia-familiar-no-podia-pagar-ni-un-cafe.html",
-            "resumen": "El año pasado se firmaron 3,8 millones de estos préstamos, un 46% más que en 2024, una solución que los expertos consideran que no es útil para resolver los problemas de endeudamiento",
+            "titulo": "Shein afronta multas potenciales de hasta 3.800 millones solo por sus litigios en Europa",
+            "link": "https://cincodias.elpais.com/companias/2026-08-17/shein-afronta-multas-potenciales-de-hasta-3800-millones-solo-por-sus-litigios-en-europa.html",
+            "resumen": "La sanción más dura a la que se expone está ligada a la investigación abierta por Bruselas sobre la venta de productos ilegales",
             "fuente": "El País"
           },
           {
-            "titulo": "Dos muertos en un ataque ruso contra una planta de ArcelorMittal en Ucrania",
-            "link": "https://www.expansion.com/economia/2026/08/16/6a817e9d468aeb3a2c8b4586.html",
-            "resumen": "Al menos dos personas han muerto y otras 13 resultaron heridas en un ataque ruso nocturno contra una planta de ArcelorMittal en Krivi Rig, la ciudad natal del presidente ucraniano, Volodímir Zelenski, informó este domingo la propia…",
+            "titulo": "Los gigantes de Defensa disparan un 25% su beneficio",
+            "link": "https://www.expansion.com/empresas/industria/2026/08/17/6a8212ae468aebda398b4589.html",
+            "resumen": "El 'boom' de la Defensa impulsa la cartera de pedidos de los grupos de Defensa de Europa como Rheinmetall, Leonardo, Airbus, BAE Systems, Thales o la española Indra. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Bruselas se pertrecha ante una posible batalla comercial con China",
-            "link": "https://elpais.com/economia/2026-08-16/bruselas-se-pertrecha-ante-una-posible-batalla-comercial-con-china.html",
-            "resumen": "La Comisión prepara un mecanismo para diversificar el origen de los proveedores en sectores críticos y un fondo de compensación para amortiguar el impacto de posibles represalias",
+            "titulo": "Martín Tolcachir (Dia): “En 2027 revisaremos los objetivos del plan estratégico: hay recorrido para más”",
+            "link": "https://elpais.com/economia/negocios/2026-08-17/martin-tolcachir-dia-en-2027-revisaremos-los-objetivos-del-plan-estrategico-hay-recorrido-para-mas.html",
+            "resumen": "La compañía de supermercados ve margen para acelerar su programa de aperturas en España, mientras analiza su posición en el debilitado mercado argentino",
             "fuente": "El País"
           }
         ]
@@ -77,6 +77,18 @@ const EDICION_MUNDO = {
       {
         "nombre": "Ciencia y Tecnología",
         "notas": [
+          {
+            "titulo": "La evolución del padre: la mayoría de los mamíferos machos apenas se ocupan de sus crías",
+            "link": "https://elpais.com/ciencia/2026-08-17/la-evolucion-del-padre-la-mayoria-de-los-mamiferos-machos-apenas-se-ocupan-de-sus-crias.html",
+            "resumen": "Investigadores han descubierto que el papel de los papás varía mucho entre las distintas culturas. Algunos animales pueden ofrecer pistas útiles sobre nuestro pasado evolutivo",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Las adolescentes parten con desventaja en el aprendizaje de la inteligencia artificial",
+            "link": "https://elpais.com/educacion/2026-08-17/las-adolescentes-parten-con-desventaja-en-el-aprendizaje-de-la-inteligencia-artificial.html",
+            "resumen": "Un estudio revela que los alumnos varones reportan mayor confianza y rendimiento que sus compañeras debido a cuestiones culturales",
+            "fuente": "El País"
+          },
           {
             "titulo": "Benjamin List, Premio Nobel: “A los químicos siempre nos han visto como una fuerza oscura, malos, algo tóxicos”",
             "link": "https://elpais.com/ciencia/2026-08-16/benjamin-list-premio-nobel-a-los-quimicos-siempre-nos-han-visto-como-una-fuerza-oscura-malos-algo-toxicos.html",
@@ -94,18 +106,6 @@ const EDICION_MUNDO = {
             "link": "https://elpais.com/ciencia/2026-08-15/carl-wunsch-oceanografo-las-consecuencias-de-trump-son-terribles-nos-niegan-la-financiacion-con-el-argumento-de-que-todo-es-una-farsa.html",
             "resumen": "El investigador estadounidense, pionero en comprender los efectos del cambio climático en los mares, alerta de los riesgos que suponen los gobiernos negacionistas y defiende la cooperación internacional",
             "fuente": "El País"
-          },
-          {
-            "titulo": "Menores en las redes sociales: alternativas a la prohibición",
-            "link": "https://elpais.com/opinion/2026-08-13/redes-sociales-y-menores-alternativas-a-la-prohibicion.html",
-            "resumen": "La protección digital debe enfocarse en el modelo de negocio de las plataformas, que no habríamos permitido a ninguna otra industria",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Casas a 10.000 euros la noche: el precio de los alojamientos para el eclipse de 2027 se desmadra en Andalucía",
-            "link": "https://elpais.com/espana/2026-08-14/casas-a-10000-euros-la-noche-el-precio-de-los-alojamientos-para-el-eclipse-de-2027-se-desmadra-en-andalucia.html",
-            "resumen": "La disponibilidad de apartamentos, hostales o habitaciones de hotel es ya escasa en Málaga, Almería, Granada y Cádiz, donde los costes se han disparado",
-            "fuente": "El País"
           }
         ]
       },
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "El City sigue queriendo fichar medios con Rodri a la espera",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260816/1004216490/city-sigue-queriendo-fichar-medios-rodri-espera.html",
-            "resumen": "El FC Barcelona hizo su tercera oferta para convencer al Manchester City a que acceda a traspasar a Rodri Hernández , medio de 30 años que fue elegido por la FIFA MVP del reciente Mundial ganado por la selección española. Esta reciente…",
+            "titulo": "Rodri y Cancelo llegan hoy a Barcelona",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260817/1004216815/rodri-cancelo-llegan-hoy-barcelona.html",
+            "resumen": "Los fichajes de Rodri (30 años) y Joao Cancelo (32) ya se encuentran en el último paso previo a la oficialización. Ambos llegarán este lunes a Barcelona . Mientras que el portugués vuela desde primera hora de la mañana a la Ciudad Condal,…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Que se prepare Rodri",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260816/1004216463/prepare-rodri.html",
-            "resumen": "Mientras el City sigue apretando para sacar lo máximo por Rodri , en el Barça mantienen la calma porque ya lograron lo más difícil: hacerse con la voluntad del jugador compitiendo contra un rival en teoría mejor colocado para ficharlo…",
+            "titulo": "Principio de acuerdo Barça-City por Rodri",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260816/1004216688/principio-acuerdo-barca-city-rodri.html",
+            "resumen": "El Barça y el Manchester City han llegado a un pacto verbal para el traspaso de Rodri Hernández (30 años) por 60 millones de euros fijos y bonus por títulos que elevarían el coste por encima de los 70 ‘kilos’. Ahora está todo a expensas…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "August 16, 2026",
-    "generada": "10:10",
+    "fecha": "August 17, 2026",
+    "generada": "10:19",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-            "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+            "titulo": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+            "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
+            "link": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
+            "resumen": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country’s history with at…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "How Ukraine’s Satellites Help Drive Its War Drones",
+            "link": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html",
+            "resumen": "Here’s how speedy access to satellite imagery is bolstering Ukraine.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+            "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+            "resumen": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
             "fuente": "BBC"
           },
           {
             "titulo": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
             "link": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
             "resumen": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
-            "link": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
-            "resumen": "The United States and Iran are poised to blow past a deadline they had set themselves to broker terms on peace and Iran’s nuclear program.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-            "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
-            "link": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
-            "resumen": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territory Moroccan police have arrested 111 people as they tried to enter Spain’s north African territory of Ceuta, amid…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,9 +189,9 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Electric vehicle sales targets could be cut after pressure from car makers",
-            "link": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
-            "resumen": "The government says it is considering cutting the new electric car sales target from 80% to 50% by 2030.",
+            "titulo": "How switching your bank account could earn you up to £220",
+            "link": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
+            "resumen": "New research suggests staying put is costing British savers billions in missed interest every year.",
             "fuente": "BBC"
           },
           {
@@ -201,15 +201,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "How a False Nuclear Claim About Iran Ricocheted From India to Washington",
-            "link": "https://www.nytimes.com/2026/08/16/business/iran-nuclear-false-claims.html",
-            "resumen": "A dubious post that spread on X became the basis of false claims that Iran’s leadership had declared it a nuclear power.",
+            "titulo": "A French Start-Up, Inbolt, Makes Robots See, and Work, Better",
+            "link": "https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html",
+            "resumen": "Inbolt, a French start-up that sells robot vision systems, helped a Stellantis plant in Detroit become a top performer in the company.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
-            "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
+            "titulo": "Virgin takes step towards running Channel Tunnel rail services",
+            "link": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Firm wants to run up to 20 daily journeys to Europe but it must get additional approval for overseas tracks.",
             "fuente": "BBC"
           },
           {
@@ -224,15 +224,15 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+            "titulo": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
             "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-            "resumen": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
+            "resumen": "The state's governor says there \"amazingly\" does not seem to have been any loss of life besides a car crash.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Scientists hope to shed light on young universe by using far side of the moon",
-            "link": "https://www.theguardian.com/science/2026/aug/14/scientists-young-universe-moon-dark-side-cosmocube-satellite-radio-signal-21cm-line",
-            "resumen": "UK team seeking to put suitcase-sized satellite in orbit around moon in search for 21cm line radio frequency signal Little is known about what was happening shortly after the big bang, but now researchers are hoping to shed fresh light on…",
+            "titulo": "Block export of ‘national treasure’ UK fossils, says MP",
+            "link": "https://www.theguardian.com/science/2026/aug/16/block-export-of-national-treasure-uk-fossils-says-mp",
+            "resumen": "Sale of one of UK’s top collections overseas prompts call new rules to help keep items in country One of UK’s best fossil collections sold in ‘loss to the nation’ An MP has called on ministers to change export controls so that significant…",
             "fuente": "The Guardian"
           },
           {
@@ -242,15 +242,15 @@ const EDICION_MUNDO = {
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Firefighters battle wildfire tearing through Belgian nature reserve",
+            "titulo": "Belgian wildfire doubles in size on third day tearing through nature reserve",
             "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The fire burning through the major park was described as the country's worst in recent years.",
+            "resumen": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
             "fuente": "BBC"
           },
           {
-            "titulo": "The immortal jellyfish and other mindblowing invertebrates – podcast",
-            "link": "https://www.theguardian.com/science/audio/2026/aug/13/the-immortal-jellyfish-and-other-mindblowing-invertebrates-podcast",
-            "resumen": "Each year the Guardian runs a competition to find the invertebrate of the year. To find out more about the 2026 nominees science editor Ian Sample hears from climate reporter Petra Stock, environment reporter Oliver Milman and Science…",
+            "titulo": "Science or fiction? Shadowy ‘paper mills’ let you pay to be a published author – of fraudulent research",
+            "link": "https://www.theguardian.com/science/2026/aug/16/science-or-fiction-shadowy-paper-mills-let-you-pay-to-be-a-published-author-of-fraudulent-research",
+            "resumen": "Paper mill activity has exploded in recent years, polluting the scientific ecosystem with falsified data and compromising medical research Dr Reese Richardson’s phone constantly buzzes with notifications. The scientific research integrity…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "How important is Community Shield to a team's season?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c1e1v64q256o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Premier League champions Arsenal take on FA Cup winners Manchester City in Sunday's Community Shield - but would winning suggest a successful season ahead?",
+            "titulo": "Man City in advanced talks for £85m Bouaddi, 18",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cd7l9n4qnlno?at_medium=RSS&at_campaign=rss",
+            "resumen": "Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Community Shield offers insight into Arsenal’s desire and Maresca’s Manchester City impact | Jonathan Wilson",
-            "link": "https://www.theguardian.com/football/2026/aug/15/community-shield-offers-insight-into-arsenals-desire-and-marescas-manchester-city-impact",
-            "resumen": "Curtain-raiser can offer clues but it is no reliable pointer to a season – its winners have not landed the title since 2018 The doubt for anyone when a long-strived-for goal has been achieved is hunger. Arsenal waited 22 years for their…",
+            "titulo": "Tommy John, pitcher whose surgery changed baseball, dies at age of 83",
+            "link": "https://www.theguardian.com/sport/2026/aug/16/tommy-john-pitcher-whose-surgery-changed-baseball-dies-at-age-of-83",
+            "resumen": "John was first player to undergo pioneering operation New York Yankees pay tribute to four-time All-Star Tommy John, the namesake of a ligament-replacement surgery that paved a path to recovery for injured baseball players, has died. He…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Bangladesh thrash Australia in one of Test cricket's greatest upsets",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cn8nn37v22lo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Bangladesh thrash Australia by nine wickets on the fourth day of the series-opener in Darwin to complete one of Test cricket's greatest upsets.",
+            "titulo": "'Are you not entertained?' - Hunt enters stardom with iconic quadruple",
+            "link": "https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Amy Hunt asserts herself as Great Britain's new track sensation after winning an unprecedented four gold medals at the European Athletics Championships.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Claressa Shields eyes Britain’s Price after stopping Kaye Scott to reclaim titles",
-            "link": "https://www.theguardian.com/sport/2026/aug/16/claressa-shields-kaye-scott-middleweight-titles-boxing-atlanta",
-            "resumen": "American stops Sydneysider at 1:38 of sixth round Shields claims WBA and WBC belts after 38lb cut Lauren Price identified as preferred next opponent Claressa Shields completed a remarkable descent from heavyweight to middleweight,…",
+            "titulo": "Djokovic’s medical malaise in Cincinnati exposes fraying edges of ageing great’s game",
+            "link": "https://www.theguardian.com/sport/2026/aug/16/novak-djokovic-cincinnati-open-2026-tennis-us-open",
+            "resumen": "First-round exit for 24-time grand slam winner made for a difficult watch but there is an emerging pattern of saving his best for the big occasion Novak Djokovic walked from the ­stadium court in Cincinnati to the corridor reserved for…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Hunt wins third gold as Asher-Smith makes history",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Amy Hunt claims the third gold medal of her bid for a historic quadruple and Dina Asher-Smith makes history as Great Britain win two relay golds at the European Athletics Championships.",
+            "titulo": "Brook on Test captaincy, batting and Wellington",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cwyee152xeqo?at_medium=RSS&at_campaign=rss",
+            "resumen": "In an exclusive interview, England's Harry Brook says he supports Joe Root taking the Test captaincy, addresses frustrations about his batting and describes the Wellington nightclub incident fallout.",
             "fuente": "BBC"
           }
         ]

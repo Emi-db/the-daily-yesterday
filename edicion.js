@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "16 de agosto de 2026",
-  "generada": "10:10",
+  "fecha": "17 de agosto de 2026",
+  "generada": "10:19",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Federico Aurelio: \"Milei ganó por la economía y el año que viene se va a definir por la economía\"",
-          "link": "https://www.clarin.com/politica/federico-aurelio-milei-gano-economia-ano-viene-va-definir-economia_0_sjKtLtAGvn.html",
-          "resumen": "El titular de la consultora Aresco, una de las más prestigiosas del mercado, hizo su análisis del momento actual. Qué dijo sobre Cristina, Kicillof, Macri y la chance de que aparezca un tercer espacio.",
+          "titulo": "El Gobierno prepara el envío de un avión Hércules con ayuda humanitaria para Colombia tras el terremoto",
+          "link": "https://www.clarin.com/politica/gobierno-prepara-envio-avion-hercules-ayuda-humanitaria-colombia-terremoto_0_8VInj6AW0A.html",
+          "resumen": "Llevarán una planta potabilizadora, una cocina de campaña junto a un grupo de voluntarios del Ejército. Argentina se suma así a países como Estados Unidos, Ecuador e Israel en el envío de ayuda logística y rescatistas al país golpeado por…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Con Milei, los fondos fiduciarios acumularon US$3000 millones de superávit y se usaron para financiar al Tesoro",
-          "link": "https://www.lanacion.com.ar/politica/con-milei-los-fondos-fiduciarios-acumularon-us3000-millones-de-superavit-y-se-usaron-para-financiar-nid16082026/",
-          "resumen": "El Palacio de Hacienda sostiene el “déficit cero” con la recaudación de los fideicomisos, pero ejecuta menos obras",
+          "titulo": "Javier Milei y sus medidas, en vivo: el discurso en el acto homenaje a San Martín y el armado electoral de cara al 2027",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-discurso-en-el-acto-homenaje-a-san-martin-y-el-armado-nid17082026/",
+          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Los inusuales días que se viven en Casa Rosada, la nueva fase de Karina y el gobernador que coquetea con LLA",
-          "link": "https://www.infobae.com/politica/2026/08/16/los-inusuales-dias-que-se-viven-en-casa-rosada-la-nueva-fase-de-karina-y-el-gobernador-que-coquetea-con-lla/",
-          "resumen": "La hermana del Presidente asumió como nunca la conducción política de un Gobierno que se encuentra en una fase decisiva. Continúan las tensiones al interior de la Mesa Política y hay diferentes cálculos sobre las adhesiones que las…",
+          "titulo": "Javier Milei retomará hoy la agenda pública y encabezará el acto por el paso a la inmortalidad de San Martín",
+          "link": "https://www.infobae.com/politica/2026/08/16/javier-milei-retomara-la-agenda-publica-y-encabezara-el-acto-por-el-paso-a-la-inmortalidad-de-san-martin/",
+          "resumen": "El Presidente dará un discurso esta tarde en el Monumento al Libertador ubicado en el barrio porteño de Retiro, en la Plaza San Martín. Se espera la presencia de todo el Gabinete y también del jefe de Gobierno porteño, Jorge Macri",
           "fuente": "Infobae"
         },
         {
-          "titulo": "El embajador Lamelas habló sobre la posición de Estados Unidos en la cuestión Malvinas y prometió visas para argentinos antes de dejar su misión",
-          "link": "https://www.clarin.com/politica/embajador-lamelas-hablo-posicion-estados-unidos-cuestion-malvinas-prometio-visas-argentinos-vaya_0_uZvauiFcpe.html",
-          "resumen": "\"Voy a trabajar lo más posible\", para devolver la exención de visado al país. El médico y diplomático remarcó que \"hay que respetar las leyes de Argentina\".",
+          "titulo": "Las condiciones de Macri para pactar y la inversión del Gobierno para dividir al peronismo",
+          "link": "https://www.clarin.com/politica/condiciones-macri-pactar-inversion-gobierno-dividir-peronismo_0_Y4nML5rJUX.html",
+          "resumen": "La gestión Milei profundiza la negociación de la reforma electoral para suspender las PASO. Los gobernadores aprovechan las necesidades del Gobierno mientras se acerca la inminente discusión del Presupuesto 2027.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Aferrado al programa, el Gobierno piensa cómo ganar la elección sin un plan platita: alianzas, economía y frente interno",
-          "link": "https://www.lanacion.com.ar/politica/aferrado-al-programa-el-gobierno-piensa-como-ganar-la-eleccion-sin-un-plan-platita-alianzas-economia-nid16082026/",
-          "resumen": "Fuentes de la Casa Rosada dicen que las bases del programa no se tocan, por lo que se enfocan en conseguir adelantar posibles inversiones; coinciden en que hay que acordar pero aparecen posiciones disímiles sobre cuándo",
+          "titulo": "Milei retoma la actividad pública y dará este lunes un discurso en el homenaje al general San Martín",
+          "link": "https://www.lanacion.com.ar/politica/milei-retoma-la-actividad-publica-y-dara-este-lunes-un-discurso-por-cadena-nacional-en-el-homenaje-a-nid16082026/",
+          "resumen": "Con un acto en Retiro, el Presidente pondrá fin a más de una semana sin apariciones ni actos públicos; iba a hablar en cadena nacional, pero luego la cancelaron; el jueves estará en el Consejo de las Américas y el viernes en la Bolsa de…",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Venta de Metrogas: Edenor espera que se amplíe la concesión y varias empresas siguen el caso muy de cerca",
-          "link": "https://www.clarin.com/energia-y-mineria/venta-metrogas-edenor-espera-amplie-concesion-varias-empresas-siguen-caso-cerca_0_9zmVMoliyH.html",
-          "resumen": "La adquisición por parte de la eléctrica quedó condicionada a que el Gobierno extienda hasta 2047 la licencia de la mayor distribuidora de gas del país. La decisión forma parte de un proceso más amplio que alcanza a las empresas surgidas…",
+          "titulo": "Tras la baja de julio, ¿Qué va a pasar en los próximos meses con el precio de la carne?",
+          "link": "https://www.clarin.com/rural/baja-julio-va-pasar-proximos-meses-precio-carne_0_f9mFuGwr3s.html",
+          "resumen": "En el séptimo mes del año, mediciones oficiales y privadas marcaron una leve caída en los valores. El precio de la hacienda, clave en el amesetamiento en góndola. Analistas no prevén subas en agosto y septiembre, pero más cerca de las…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Negocio con futuro: Chile le compró a una pyme argentina un importante subproducto para hacer un alimento para salmones",
-          "link": "https://www.lanacion.com.ar/economia/campo/negocio-con-futuro-chile-le-compro-a-una-pyme-argentina-un-importante-subproducto-para-hacer-un-nid16082026/",
-          "resumen": "Doble L Bioenergías envió 120 toneladas de oleínas y ácidos grasos vegetales; en un mes se completarán 600 toneladas",
+          "titulo": "A cuánto abre el dólar el martes 18 de agosto",
+          "link": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-el-martes-18-de-agosto-nid15082026/",
+          "resumen": "La cotización de la divisa oficial abre con los mismos números que en su último día de cierre; así se posicionó el último día hábil",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Argentina quedó entre los países con mayor inflación de Latinoamérica en julio",
-          "link": "https://www.ambito.com/economia/argentina-quedo-los-paises-mayor-inflacion-latinoamerica-julio-n6311219",
-          "resumen": "El índice de precios avanzó 2,1% durante el séptimo mes del año y se ubicó entre los registros más elevados de la región. En el otro extremo, Bolivia y Paraguay anotaron caídas mensuales de precios.",
+          "titulo": "Retenciones: cuánto aportará el campo pese a la baja de las alícuotas",
+          "link": "https://www.ambito.com/economia/retenciones-cuanto-aportara-el-campo-pese-la-baja-las-alicuotas-n6311372",
+          "resumen": "La Bolsa de Comercio de Rosario proyectó que los seis principales complejos agroexportadores generarán u$s4.613 millones por derechos de exportación durante 2026. La soja concentrará más del 70% de la recaudación.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Cómo es el \"cambio de chip\" que generó la llegada de los autos chinos",
-          "link": "https://www.clarin.com/economia/cambio-chip-genero-llegada-autos-chinos_0_zH5st7jl04.html",
-          "resumen": "Pese a que la venta de cero kilómetro se achicó, en pocos meses 15% de participación. Los empresarios dicen de que el efecto que provocan entre los clientes es similar al que hubo con los autos importados en los años '90.",
+          "titulo": "Julio fue el mejor mes en la historia para la exportación de maíz",
+          "link": "https://www.clarin.com/rural/julio-mejor-mes-historia-exportacion-maiz_0_ZLYJnco8bj.html",
+          "resumen": "En el séptimo mes del año, se embarcaron 5,14 millones de toneladas. La cosecha sigue mostrando un fuerte rezago por cuestiones climáticas.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La crisis vial suma sentencias que están lejos de generar efectos en las rutas",
-          "link": "https://www.lanacion.com.ar/economia/la-crisis-vial-suma-sentencias-que-estan-lejos-de-generar-efectos-en-las-rutas-nid16082026/",
-          "resumen": "La Justicia ordenó reparar varios corredores nacionales; los fallos desarman la excusa presupuestaria —hay $1 billón del fideicomiso en plazos fijos—, pero entre la decisión del magistrado y el asfalto hay una brecha imposible de acortar",
+          "titulo": "La industria lidera la pérdida de empleo privado formal con Milei y un informe publicado por Techint alerta por su “extrema fragilidad”",
+          "link": "https://www.lanacion.com.ar/economia/la-industria-lidera-la-perdida-de-empleo-privado-formal-con-milei-y-un-informe-publicado-por-techint-nid16082026/",
+          "resumen": "Desde su último máximo, perdió casi 90.000 trabajadores registrados y explicó más de uno de cada tres asalariados privados formales que se perdieron desde noviembre de 2023; a la vez, la informalidad fabril aumentó casi 10 puntos…",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Emoción en Medellín: un concierto con más de 25 artistas en escena recaudó casi dos millones de dólares para las víctimas del terremoto",
-          "link": "https://www.clarin.com/mundo/emocion-medellin-concierto-25-artistas-escena-recaudo-millones-dolares-victimas-terremoto_0_wMKXE5d5zp.html",
-          "resumen": "Además del dinero, se donaron 31 toneladas de alimentos y productos de aseo para los damnificados por el terremoto que sacudió Colombia el pasado lunes. La jornada \"Colombia, Medellín Te Quiere\", celebrada en el centro de eventos La…",
+          "titulo": "Donald Trump ordenó reducir los ejercicios militares con Corea del Sur: “No estoy contento”",
+          "link": "https://www.clarin.com/mundo/donald-trump-ordeno-reducir-ejercicios-militares-corea-sur-contento_0_8LxYErIwxc.html",
+          "resumen": "El presidente estadounidense volvió a destacar su buena relación con Kim Jong Un y consideró que las maniobras envían una señal “inapropiada y hostil” hacia Corea del Norte. Las actividades comenzaron este lunes y se extenderán durante 11…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Las aspiraciones imperialistas de Erdogan y la estrategia que inquieta cada vez más a Occidente",
-          "link": "https://www.lanacion.com.ar/el-mundo/las-aspiraciones-imperialistas-de-erdogan-y-la-estrategia-que-inquieta-cada-vez-mas-a-occidente-nid16082026/",
-          "resumen": "Apalancada en la figura de Erdogan, Ankara busca establecer una narrativa que la convierta en el eje imprescindible entre Europa, Rusia, el Golfo árabe y África",
+          "titulo": "Murió a los 36 años la actriz Hayden Panettiere, estrella de las series “Héroes” y “Nashville”",
+          "link": "https://www.lanacion.com.ar/el-mundo/murio-a-los-36-anos-la-actriz-hayden-panettiere-estrella-de-las-series-heroes-y-nashville-nid17082026/",
+          "resumen": "Se desconoce la causa del deceso; tenía una hija de 12 años y su hermano menor había fallecido en 2023 a causa de una cardiopatía",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Del milagro al dolor: hallaron muerta a la madre del bebé salvado y falleció una mujer rescatada tras 36 horas bajo los escombros",
-          "link": "https://www.clarin.com/mundo/milagro-dolor-hallaron-muerta-madre-bebe-salvado-fallecio-mujer-rescatada-36-horas-escombros_0_tmeFmROTlb.html",
-          "resumen": "El cuerpo de Valentina Vanegas, la madre del bebé rescatado el miércoles, fue hallado en las ruinas de un edificio en Cali. Daniela Largo Sánchez falleció este sábado después de sufrir varias complicaciones médicas.",
+          "titulo": "En uno de sus mayores ataques, Ucrania golpeó con más de 800 drones el área de Moscú, que contestó: ya hay 19 muertos",
+          "link": "https://www.clarin.com/mundo/mayores-ataques-ucrania-golpeo-800-drones-area-moscu-contesto-19-muertos_0_yvO5AEpXvl.html",
+          "resumen": "La capital moscovita detectó 600 de esos aviones, afirmó su alcalde. “Fue uno de los bombardeos más masivos con drones”, dijo el gobernador local. Ucrania provocó al menos 12 bajas y Rusia, 7.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Una argentina fue detenida en Japón por intentar ingresar casi un kilo de cocaína oculto en su cuerpo",
-          "link": "https://www.lanacion.com.ar/sociedad/una-argentina-fue-detenida-en-japon-por-intentar-ingresar-casi-un-kilo-de-cocaina-oculto-en-su-nid15082026/",
-          "resumen": "Rosa Micaela Kipildor (30) fue sometida a una radiografía tras despertar sospechas de los agentes aduaneros; según declaró, había recibido los paquetes en Brasil y esperaba cobrar US$7000 por transportarlos",
+          "titulo": "Un matrimonio recorrió 100 kilómetros por una ruta italiana con su hijo muerto en el auto",
+          "link": "https://www.lanacion.com.ar/el-mundo/un-matrimonio-recorrio-100-kilometros-por-una-ruta-italiana-con-su-hijo-muerto-en-el-auto-nid16082026/",
+          "resumen": "La vícima, de 31 años, era oriunda de Rumanía y falleció de un infarto; el hecho tuvo lugar entre los peajes de Casteggio y Voghera, al norte del país europeo",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Tormenta en España: dos mujeres murieron y dos bebés sufrieron heridas al quedar atrapados en una bodega durante un aluvión",
-          "link": "https://www.clarin.com/mundo/tormenta-espana-mujeres-murieron-bebes-sufrieron-heridas-quedar-atrapados-bodega-aluvion_0_LSVhLmOLA8.html",
-          "resumen": "Las lluvias generaron la rápida crecida de ríos y arroyos que se desparramaron sobre el pueblo de Manzanedo de Valdueza, en el noroeste de España. El temporal se dio en medio de un día festivo, donde la población celebra sus fiestas…",
+          "titulo": "Europa sufre por la ola de incendios: Grecia, España y Bélgica los países más complicados",
+          "link": "https://www.clarin.com/mundo/europa-sufre-ola-incendios-grecia-espana-belgica-paises-complicados_0_aYLdA6OsRP.html",
+          "resumen": "Hay dos muertos en Grecia, Fue en la isla de Salamina, cerca de Atenas, donde el domingo se declararon casi simultáneamente dos incendios. Y uno en España. Demás, cerca de 3.000 hectáreas han ardido en un parque natural del este de…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Batalla campal en la Primera B Metropolitana: Arsenal y Talleres, a las piñas y patadas en un todos contra todos",
-          "link": "https://www.clarin.com/deportes/batalla-campal-primera-b-metropolitana-arsenal-talleres-pinas-patadas_0_30PUWhO3ji.html",
-          "resumen": "Cuando el encuentro estaba llegando a su fin, un cruce entre dos futbolistas terminó en empujones y corridas entre varios integrantes de los dos equipos. El escándalo fue tan grande que el árbitro decidió terminar el partido en medio de…",
+          "titulo": "Thiago Almada y Ángel Correa, la nueva sociedad de campeones del mundo que quiere ilusionar a los hinchas de River",
+          "link": "https://www.clarin.com/deportes/thiago-almada-angel-correa-nueva-sociedad-campeones-mundo-quiere-ilusionar-hinchas-river_0_KjIBaQNn6k.html",
+          "resumen": "Son amigos dentro y fuera de la cancha, y en su primer partido juntos ante Argentinos, ya hicieron de las suyas. \"Los chicos me recibieron bien\", dijo el de Fuerte Apache, que tuvo su estreno con la camiseta del Millonario seis…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La FIFA difundió la Ref Cam de la final del Mundial: de los reclamos de Enzo Fernández y Messi al gol de España",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/la-fifa-difundio-la-ref-cam-de-la-final-del-mundial-de-los-reclamos-de-enzo-fernandez-y-messi-al-gol-nid16082026/",
-          "resumen": "La casa madre del fútbol publicó la grabación de la cámara que portó el árbitro esloveno Slavko Vinčić en el partido decisivo de la última Copa del Mundo",
+          "titulo": "Víctor Ormazábal, campeón con Boca: “No estuve mucho tiempo pero me fui ganando un título, algo que hoy no sucede tanto”",
+          "link": "https://www.lanacion.com.ar/deportes/victor-ormazabal-campeon-con-boca-no-estuve-mucho-tiempo-pero-me-fui-ganando-un-titulo-algo-que-hoy-nid14082026/",
+          "resumen": "Conquistó la Sudamericana 2004 en un plantel nutrido de estrellas, como Palermo y Tévez; ahora, lejos del deporte, abrió una panadería en Lomas de Zamora: “Manejo todo y estoy a cargo de que la producción salga en tiempo y forma”",
           "fuente": "La Nación"
         },
         {
-          "titulo": "A qué hora juegan Los Leones vs. Japón y dónde ver el partido de hoy EN VIVO por el Mundial de hockey 2026",
-          "link": "https://www.ole.com.ar/hockey/hora-juegan-leones-vs-japon-mundial-hockey-2026-ver-partido-hoy-vivo_0_sWGsDq2IjD.html",
-          "resumen": "Después del empate de Las Leonas, será el turno de que el seleccionado masculino haga su debut en la Copa del Mundo de Países Bajos y Bélgica. Seguilo en Olé.",
+          "titulo": "Partidos de HOY, lunes 17 de agosto: agenda, horario y por dónde ver fútbol EN VIVO",
+          "link": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-lunes-17-agosto-horario-ver-futbol-vivo-tv-online_0_3ZtGAxs41R.html",
+          "resumen": "Se cierra la quinta fecha del Torneo Clausura, sigue la actividad en el Ascenso, siguen los primeros partidos de la temporada europea y más. ¡Mirá!",
           "fuente": "Olé"
         },
         {
-          "titulo": "El mercado mueve a Dibu Martínez: Juventus insiste por él y Aston Villa ya encontró a su posible reemplazante",
-          "link": "https://www.clarin.com/deportes/mercado-mueve-dibu-martinez-juventus-insiste-aston-villa-encontro-posible-reemplazante_0_xoSCnPMpHR.html",
-          "resumen": "El club de Turín retomó los contactos por el arquero argentino, mientras el conjunto de Birmingham avanzó por el japonés Zion Suzuki. El marplatense, que regresó a Inglaterra tras sus vacaciones, analiza su futuro y busca un cambio de aire.",
+          "titulo": "Guillermo Vilas cumple 74 años: el rey que todavía no tiene su corona pero merece un saludo tan lejano como respetuoso",
+          "link": "https://www.clarin.com/deportes/guillermo-vilas-cumple-74-anos-rey-todavia-corona-merece-saludo-lejano-respetuoso_0_IIeb1clJvq.html",
+          "resumen": "Pese al pedido general, no se lo ha reconocido como número 1 del ranking mundial cuando el sistema de medición era diferente. Gloria a Vilas, aunque estas líneas y cualquier otra u otras voces no le lleguen o no las comprenda del todo por…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Jugadores de Patronato fueron agredidos por sus hinchas tras haber perdido contra Colón de Santa Fe",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/jugadores-de-patronato-fueron-agredidos-por-sus-hinchas-tras-haber-perdido-contra-colon-de-santa-fe-nid16082026/",
-          "resumen": "El plantel del conjunto lleva 11 partidos sin conocer la victoria y está penúltimo en el Grupo B de la Primera Nacional",
+          "titulo": "Masters 1000 de Cincinnati 2026 hoy: partidos y cómo está el cuadro",
+          "link": "https://www.lanacion.com.ar/deportes/tenis/masters-1000-de-cincinnati-2026-hoy-partidos-y-como-esta-el-cuadro-nid17082026/",
+          "resumen": "En la quinta jornada de actividad en Ohio se disputan partidos correspondientes a la tercera ronda de los torneos masculino y femenino",
           "fuente": "La Nación"
         }
       ]
