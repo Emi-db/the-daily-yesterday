@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "17 de agosto de 2026",
-    "generada": "10:19",
+    "fecha": "18 de agosto de 2026",
+    "generada": "10:15",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Forest City, la ciudad fantasma con rascacielos vacíos que se convirtió en un refugio para estafadores",
-            "link": "https://www.bbc.com/mundo/articles/cm2ggn9jm66o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Forest City, un proyecto urbanístico de Malasia, se promocionaba como un \"paraíso\", pero atrajo clientes que no esperaba.",
+            "titulo": "El pacto de La Meca: 4 claves para entender la \"OTAN musulmana\" creada por Turquía, Arabia Saudita y Pakistán",
+            "link": "https://www.bbc.com/mundo/articles/cm2grvk85vlo?at_medium=RSS&at_campaign=rss",
+            "resumen": "El pacto de defensa entre Turquía, Arabia Saudita y Pakistán ha sido llamado la \"OTAN musulmana\" o \"pacto sunita\". Pero, ¿funcionará así en la práctica? Lo analizamos.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Lula busca un cuarto mandato para frenar a la derecha en Brasil y consolidar su legado",
-            "link": "https://elpais.com/internacional/2026-08-16/lula-arranca-la-campana-para-conquistar-un-cuarto-mandato-no-voy-a-permitir-que-la-derecha-regrese-al-poder.html",
-            "resumen": "El presidente y el hijo de Bolsonaro arrancan la campaña para los comicios de octubre con un empate técnico en los sondeos",
+            "titulo": "El fin del conflicto se aleja tras expirar el acuerdo entre Estados Unidos e Irán",
+            "link": "https://elpais.com/internacional/2026-08-17/el-fin-del-conflicto-se-aleja-tras-expirar-el-acuerdo-entre-estados-unidos-e-iran.html",
+            "resumen": "Washington amenaza con bombardear a su antiguo aliado Omán, que dialoga con Teherán para una reapertura del estrecho de Ormuz, el principal escollo en las negociaciones",
             "fuente": "El País"
           },
           {
-            "titulo": "¿Cómo evitar crisis sanitarias en zonas como Buenaventura tras el terremoto en Colombia?",
-            "link": "https://www.france24.com/es/video/20260817-c%C3%B3mo-evitar-crisis-sanitarias-en-zonas-como-buenaventura-tras-el-terremoto-en-colombia",
-            "resumen": "Buenaventura vive una emergencia tras el terremoto del 10 de agosto. La ciudad enfrenta hospitales colapsados y vías incomunicadas, mientras el Gobierno refuerza la atención con insumos médicos, carpas hospitalarias y la reactivación del…",
+            "titulo": "El presidente de Zambia, Hakainde Hichilema, gana la reelección con grandes promesas económicas",
+            "link": "https://www.france24.com/es/%C3%A1frica/20260818-el-presidente-de-zambia-hakainde-hichilema-gana-la-reelecci%C3%B3n-con-grandes-promesas-econ%C3%B3micas",
+            "resumen": "El presidente de Zambia, Hakainde Hichilema, ganó este martes un segundo mandato tras hacer campaña destacando los avances de la recuperación económica durante su Gobierno, incluido un importante acuerdo de reestructuración de la deuda.…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Por qué no se han podido encontrar los restos de García Lorca 90 años después de su ejecución en la Guerra Civil española",
-            "link": "https://www.bbc.com/mundo/articles/c78gxlj1e55o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Más de 11.000 personas permanecen enterradas, sin identificar, en fosas comunes de España. Pero una de las más complicadas de encontrar es la del poeta universal de Granada.",
+            "titulo": "\"Te pude haber rescatado, hija\": la culpa del sobreviviente y la dificultad de ayudar a las víctimas de los terremotos",
+            "link": "https://www.bbc.com/mundo/articles/cp8x411l3d6o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Tras los terremotos que dejaron más de 6.000 muertos en Venezuela y más de 280 en Colombia, especialistas en salud mental enfrentan el reto de apoyar a los sobrevivientes, muchos de los cuales aún buscan a sus seres queridos entre los…",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Alejandro Betancourt, el multimillonario investigado que conecta a Delcy Rodríguez con Trump",
-            "link": "https://elpais.com/america/2026-08-16/alejandro-betancourt-el-multimillonario-investigado-que-conecta-a-delcy-rodriguez-con-trump.html",
-            "resumen": "El empresario venezolano, bajo la lupa de la justicia española y suiza, ha regresado a Caracas en las últimas semanas en vuelos privados rodeados de misterio",
+            "titulo": "Israel y la Junta de Trump para Gaza condicionan el avance de la tregua en la Franja al desarme de Hamás",
+            "link": "https://elpais.com/internacional/2026-08-17/la-junta-de-trump-e-israel-condicionan-todo-avance-en-gaza-al-desarme-de-hamas.html",
+            "resumen": "Tras una entrevista de tres horas, el enviado de la Casa Blanca da luz verde a Netanyahu para seguir bombardeando la Franja, según el diario ‘Haaretz’",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "El Gobierno prepara medidas contra el abuso de temporalidad en el empleo público y acota el problema a 200.000 interinos",
-            "link": "https://elpais.com/economia/2026-08-17/el-gobierno-prepara-medidas-contra-el-abuso-de-temporalidad-en-el-empleo-publico-y-acota-el-problema-a-200000-interinos.html",
-            "resumen": "El Ministerio de López negocia con las comunidades un sistema de alertas y sanciones a los gestores públicos que incurran en irregularidades",
+            "titulo": "Los caseros compensan la rebaja de ventajas fiscales de la ley de vivienda con las subidas del alquiler",
+            "link": "https://elpais.com/economia/2026-08-18/los-caseros-compensan-la-rebaja-de-ventajas-fiscales-de-la-ley-de-vivienda-con-las-subidas-del-alquiler.html",
+            "resumen": "La suma de las reducciones por IRPF se incrementó en 2024 pese a la reducción del beneficio tributario que introdujo la norma",
             "fuente": "El País"
           },
           {
-            "titulo": "Santander, CaixaBank y BBVA compiten por la liquidez de las grandes fortunas",
-            "link": "https://www.expansion.com/empresas/banca/2026/08/17/6a5a59e6e5fdead16f8b456e.html",
-            "resumen": "Los grandes bancos descartan pagar por el ahorro de manera generalizada, pero reservan las mejoras en la rentabilidad de su oferta depósitos para clientes seleccionados y con altos patrimonios. Leer",
+            "titulo": "Cox construirá la mayor desaladora de América Latina por 267 millones",
+            "link": "https://www.expansion.com/empresas/2026/08/18/6a835b20e5fdea3f458b457d.html",
+            "resumen": "La compañía presidida por Enrique Riquelme refuerza su posición en la región tras comprar el negocio de Iberdrola en el país por 4.000 millones. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Shein afronta multas potenciales de hasta 3.800 millones solo por sus litigios en Europa",
-            "link": "https://cincodias.elpais.com/companias/2026-08-17/shein-afronta-multas-potenciales-de-hasta-3800-millones-solo-por-sus-litigios-en-europa.html",
-            "resumen": "La sanción más dura a la que se expone está ligada a la investigación abierta por Bruselas sobre la venta de productos ilegales",
+            "titulo": "El regulador estadounidense concede la licencia bancaria a la empresa cripto de los Trump",
+            "link": "https://cincodias.elpais.com/criptoactivos/2026-08-18/el-regulador-estadounidense-concede-la-licencia-bancaria-a-la-empresa-cripto-de-los-trump.html",
+            "resumen": "World Liberty Financial, gestionada por los hijos del presidente, podrá emitir directamente la ‘stablecoin’ USD1, gestionar y custodiar activos digitales y reservas de los clientes",
             "fuente": "El País"
           },
           {
-            "titulo": "Los gigantes de Defensa disparan un 25% su beneficio",
-            "link": "https://www.expansion.com/empresas/industria/2026/08/17/6a8212ae468aebda398b4589.html",
-            "resumen": "El 'boom' de la Defensa impulsa la cartera de pedidos de los grupos de Defensa de Europa como Rheinmetall, Leonardo, Airbus, BAE Systems, Thales o la española Indra. Leer",
+            "titulo": "Puente confirma el desembarco de Renfe en Portugal para ser el gran operador Ibérico",
+            "link": "https://www.expansion.com/empresas/transporte/2026/08/18/6a842e56e5fdead8378b4592.html",
+            "resumen": "Renfe ha arrancado el proceso para homologar sus trenes de alta velocidad en Portugal con el objetivo de operar en un futuro en el país tras los traspiés en Francia. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Martín Tolcachir (Dia): “En 2027 revisaremos los objetivos del plan estratégico: hay recorrido para más”",
-            "link": "https://elpais.com/economia/negocios/2026-08-17/martin-tolcachir-dia-en-2027-revisaremos-los-objetivos-del-plan-estrategico-hay-recorrido-para-mas.html",
-            "resumen": "La compañía de supermercados ve margen para acelerar su programa de aperturas en España, mientras analiza su posición en el debilitado mercado argentino",
+            "titulo": "A22, la promotora de la Superliga, perdió 3,1 millones antes del acuerdo de paz con la UEFA",
+            "link": "https://cincodias.elpais.com/companias/2026-08-18/a22-la-promotora-de-la-superliga-perdio-31-millones-antes-del-acuerdo-de-paz-con-la-uefa.html",
+            "resumen": "Sus accionistas convirtieron en participativo un crédito de más de 10 millones para equilibrar su situación contable",
             "fuente": "El País"
           }
         ]
@@ -78,9 +78,21 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "La evolución del padre: la mayoría de los mamíferos machos apenas se ocupan de sus crías",
-            "link": "https://elpais.com/ciencia/2026-08-17/la-evolucion-del-padre-la-mayoria-de-los-mamiferos-machos-apenas-se-ocupan-de-sus-crias.html",
-            "resumen": "Investigadores han descubierto que el papel de los papás varía mucho entre las distintas culturas. Algunos animales pueden ofrecer pistas útiles sobre nuestro pasado evolutivo",
+            "titulo": "El hallazgo de un perro sobre una pareja en una tumba del antiguo Egipto intriga a los científicos: “Es un detalle muy bello y realmente excepcional”",
+            "link": "https://elpais.com/ciencia/2026-08-18/el-hallazgo-de-un-perro-sobre-una-pareja-en-una-tumba-del-antiguo-egipto-intriga-a-los-cientificos-es-un-detalle-muy-bello-y-realmente-excepcional.html",
+            "resumen": "La disposición de las momias en un enterramiento tebano en Luxor muestra cómo las prácticas funerarias y sus implicaciones simbólicas cambiaron con el tiempo, según una nueva investigación con participación española",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Meta se enfrenta en California al mayor juicio de su historia por los daños de las redes sociales a los jóvenes",
+            "link": "https://elpais.com/sociedad/2026-08-17/meta-se-enfrentara-en-california-al-mayor-juicio-de-su-historia-por-los-danos-de-las-redes-sociales-a-los-jovenes.html",
+            "resumen": "La compañía se juega indemnizaciones por más de 1,4 billones de dólares. Los demandantes reclaman cambios en Facebook e Instagram",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "El planeta se acerca a temperaturas que millones de mayores no podrán tolerar: “Muchas más personas estarán en riesgo”",
+            "link": "https://elpais.com/salud-y-bienestar/2026-08-17/el-planeta-se-acerca-a-temperaturas-que-millones-de-mayores-no-podran-tolerar-muchas-mas-personas-estaran-en-riesgo.html",
+            "resumen": "Con un calentamiento de 1,5 grados, la vida del 22% de las personas de más de 60 años ya estará en riesgo por estrés térmico",
             "fuente": "El País"
           },
           {
@@ -90,21 +102,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Benjamin List, Premio Nobel: “A los químicos siempre nos han visto como una fuerza oscura, malos, algo tóxicos”",
-            "link": "https://elpais.com/ciencia/2026-08-16/benjamin-list-premio-nobel-a-los-quimicos-siempre-nos-han-visto-como-una-fuerza-oscura-malos-algo-toxicos.html",
-            "resumen": "El descubridor de la catálisis orgánica asimétrica defiende el potencial de la disciplina para solucionar los mayores problemas de la humanidad",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "El Constitucional de Francia anula la ley que prohíbe las redes a menores de 15 años: “Es una vulneración de la libertad de expresión”",
-            "link": "https://elpais.com/sociedad/2026-08-14/el-consejo-constitucional-de-francia-anula-la-ley-que-prohibe-las-redes-sociales-a-menores-de-15-anos.html",
-            "resumen": "Emmanuel Macron, que había promovido esta medida en Francia y en Europa, ha pedido al primer ministro que se reformule una norma “jurídicamente robusta”",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Carl Wunsch, oceanógrafo: “Las consecuencias de Trump son terribles. Nos niegan la financiación con el argumento de que todo es una farsa”",
-            "link": "https://elpais.com/ciencia/2026-08-15/carl-wunsch-oceanografo-las-consecuencias-de-trump-son-terribles-nos-niegan-la-financiacion-con-el-argumento-de-que-todo-es-una-farsa.html",
-            "resumen": "El investigador estadounidense, pionero en comprender los efectos del cambio climático en los mares, alerta de los riesgos que suponen los gobiernos negacionistas y defiende la cooperación internacional",
+            "titulo": "Mallorca, 1820: radiografía de la última gran epidemia de peste de Europa",
+            "link": "https://elpais.com/ciencia/2026-08-17/mallorca-1820-radiografia-de-la-ultima-gran-epidemia-de-peste-de-europa.html",
+            "resumen": "El análisis de documentos de hace 200 años muestra la gran letalidad del brote, que no fue bubónico, y la eficacia de las medidas de confinamiento",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Rodri y Cancelo llegan hoy a Barcelona",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260817/1004216815/rodri-cancelo-llegan-hoy-barcelona.html",
-            "resumen": "Los fichajes de Rodri (30 años) y Joao Cancelo (32) ya se encuentran en el último paso previo a la oficialización. Ambos llegarán este lunes a Barcelona . Mientras que el portugués vuela desde primera hora de la mañana a la Ciudad Condal,…",
+            "titulo": "Rodri ya está en la Ciutat Esportiva para pasar la revisión médica",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217130/rodri-ciutat-esportiva-pasar-revision-medica.html",
+            "resumen": "Rodrigo Hernández , Rodri , ya está en la Ciutat Esportiva Joan Gamper para pasar la revisión médica previa a su fichaje por el FC Barcelona. A su llegada, el centrocampista fue recibido por un grupo de aficionados que le esperaban a las…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Principio de acuerdo Barça-City por Rodri",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260816/1004216688/principio-acuerdo-barca-city-rodri.html",
-            "resumen": "El Barça y el Manchester City han llegado a un pacto verbal para el traspaso de Rodri Hernández (30 años) por 60 millones de euros fijos y bonus por títulos que elevarían el coste por encima de los 70 ‘kilos’. Ahora está todo a expensas…",
+            "titulo": "El Barça cerrará con Rodri la base de la selección que ganó el Mundial",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004216985/barca-cerrara-rodri-base-seleccion-gano-mundial.html",
+            "resumen": "Rodri Hernández está cumpliendo los últimos trámites para considerarse a todos los efectos nuevo jugador del FC Barcelona . La consumación del fichaje del mediocentro de 30 años, designado MVP del Mundial que ganó la selección española,…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,34 +147,34 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "August 17, 2026",
-    "generada": "10:19",
+    "fecha": "August 18, 2026",
+    "generada": "10:15",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-            "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+            "titulo": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+            "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+            "resumen": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
             "fuente": "BBC"
           },
           {
             "titulo": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
             "link": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
-            "resumen": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country’s history with at…",
+            "resumen": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country’s history, with at…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "How Ukraine’s Satellites Help Drive Its War Drones",
-            "link": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html",
-            "resumen": "Here’s how speedy access to satellite imagery is bolstering Ukraine.",
+            "titulo": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
+            "link": "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html",
+            "resumen": "They made a risky bid to reunite after three years of separation, illness and deprivation — the kind of ordeal suffered by many thousands of families torn apart by the war in eastern Ukraine.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-            "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-            "resumen": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
+            "titulo": "Russia warns UK will pay for supplying drones to Ukraine",
+            "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Russia accuses the UK of escalating the Ukraine war after British-made drones were used, but the MoD says it stands against Russian aggression.",
             "fuente": "BBC"
           },
           {
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "How switching your bank account could earn you up to £220",
-            "link": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
-            "resumen": "New research suggests staying put is costing British savers billions in missed interest every year.",
+            "titulo": "Job vacancies at five-year low as smaller firms scale back recruitment",
+            "link": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Small firms cite labour and operating costs as reasons for scaling back hiring, the UK's statistics body says.",
             "fuente": "BBC"
           },
           {
-            "titulo": "US firms that kept DEI policies despite ‘go woke, go broke’ threats thrived",
-            "link": "https://www.theguardian.com/world/2026/aug/14/dei-policy-company-performance",
-            "resumen": "Exclusive: Companies that kept policies did just as well financially, even after Trump’s executive order, as those that didn’t Conservative backlash was supposed to put an end to the diversity, inclusion and equity ( DEI ) movement as…",
+            "titulo": "US gas prices reach highest ever recorded for August amid stalled talks with Iran",
+            "link": "https://www.theguardian.com/us-news/2026/aug/17/gas-prices-august-record-iran-war",
+            "resumen": "Energy prices have been high since the US-Israel war with Iran began and the strait of Hormuz was blocked US gas prices this month are so far the highest ever recorded for August as peace talks between the US and Iran have stalled and…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "A French Start-Up, Inbolt, Makes Robots See, and Work, Better",
-            "link": "https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html",
-            "resumen": "Inbolt, a French start-up that sells robot vision systems, helped a Stellantis plant in Detroit become a top performer in the company.",
+            "titulo": "At Ex-Premier Zhu Rongji’s Funeral, China’s Past Shadows Its Present",
+            "link": "https://www.nytimes.com/2026/08/18/world/asia/zhu-rongji-funeral-china.html",
+            "resumen": "Beijing wants to portray today’s China as carrying forward Zhu Rongji’s era of growth, but for many Chinese, the optimism of that time has since faded.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Virgin takes step towards running Channel Tunnel rail services",
-            "link": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Firm wants to run up to 20 daily journeys to Europe but it must get additional approval for overseas tracks.",
+            "titulo": "Wetherspoons bans customers playing music from phones in pubs",
+            "link": "https://www.bbc.co.uk/news/articles/cnvnl8gy22lo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The pub chain says the decision followed complaints about \"other people's videos and amplified phone conversations\".",
             "fuente": "BBC"
           },
           {
-            "titulo": "BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit",
-            "link": "https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit",
-            "resumen": "Network wants to serve Jared Kushner, Ivanka Trump and Donald Trump Jr after president sues over January 6 documentary The BBC is trying to subpoena Donald Trump’s children as it builds its defense against the president’s defamation…",
+            "titulo": "European farmers face ‘unprecedented crisis’ after successive heatwaves",
+            "link": "https://www.theguardian.com/environment/2026/aug/17/european-farmers-unprecedented-crisis-successive-heatwaves",
+            "resumen": "Vegetable and grain growers call for urgent action, warning of ‘catastrophic’ harvests due to continent-wide drought Successive intense heatwaves and an increasingly severe, continent-wide drought have left many of Europe’s farmers in an…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,9 +224,9 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
-            "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The state's governor says there \"amazingly\" does not seem to have been any loss of life besides a car crash.",
+            "titulo": "Watch: Flash flood sweeps vehicle away in Hawaii after Hurricane Lala",
+            "link": "https://www.bbc.co.uk/news/videos/c2el0wd0w3go?at_medium=RSS&at_campaign=rss",
+            "resumen": "Tropical storm warnings remain for some of the state's islands, as the storm is due to progress west.",
             "fuente": "BBC"
           },
           {
@@ -236,21 +236,21 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "This Pesticide May Be Too Dangerous to Use. Farmers Say They Need It.",
-            "link": "https://www.nytimes.com/2026/08/13/science/paraquat-pesticide-parkinsons-california.html",
-            "resumen": "California announced that it’s phasing out paraquat, a pesticide widely used in the United States that is linked to Parkinson’s disease.",
+            "titulo": "Jaguars Are Ready to Come Back. The Border Wall Might Stop Them.",
+            "link": "https://www.nytimes.com/2026/08/17/science/jaguars-are-ready-to-come-back-the-border-wall-might-stop-them.html",
+            "resumen": "A lone male roves the Arizona mountains, and a female has been spotted just across the border in Mexico. The sightings raise hopes for the species, despite serious threats.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-            "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
+            "titulo": "More hosepipe bans in force as drought declared - is your area affected?",
+            "link": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Nearly 30 million people have been placed under hosepipe bans due to higher demand and low rainfall.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Science or fiction? Shadowy ‘paper mills’ let you pay to be a published author – of fraudulent research",
-            "link": "https://www.theguardian.com/science/2026/aug/16/science-or-fiction-shadowy-paper-mills-let-you-pay-to-be-a-published-author-of-fraudulent-research",
-            "resumen": "Paper mill activity has exploded in recent years, polluting the scientific ecosystem with falsified data and compromising medical research Dr Reese Richardson’s phone constantly buzzes with notifications. The scientific research integrity…",
+            "titulo": "Top album releases linked to rise in fatal crashes as ‘distracted’ drivers access music",
+            "link": "https://www.theguardian.com/world/2026/aug/17/top-album-releases-linked-to-rise-in-fatal-crashes-as-distracted-drivers-access-music",
+            "resumen": "Harvard study finds traffic fatalities increase by 15% on release dates compared with similar days either side The release of a new album by Taylor Swift might be a cause for celebration among her fans, but such events have also been…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Man City in advanced talks for £85m Bouaddi, 18",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cd7l9n4qnlno?at_medium=RSS&at_campaign=rss",
-            "resumen": "Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi.",
+            "titulo": "Newcastle complete £30m move for Benfica's Dedic",
+            "link": "https://www.bbc.co.uk/sport/football/articles/czekzxd09zlo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Newcastle United sign defender Amar Dedic from Benfica for around £30m.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Tommy John, pitcher whose surgery changed baseball, dies at age of 83",
-            "link": "https://www.theguardian.com/sport/2026/aug/16/tommy-john-pitcher-whose-surgery-changed-baseball-dies-at-age-of-83",
-            "resumen": "John was first player to undergo pioneering operation New York Yankees pay tribute to four-time All-Star Tommy John, the namesake of a ligament-replacement surgery that paved a path to recovery for injured baseball players, has died. He…",
+            "titulo": "Jeanie Buss reportedly attempting to halt her siblings’ attempt to sell remaining stake in Lakers",
+            "link": "https://www.theguardian.com/sport/2026/aug/17/jeanie-buss-reportedly-attempting-to-halt-her-siblings-attempt-to-sell-remaining-stake-in-lakers",
+            "resumen": "Jeanie Buss wants to remain as controlling owner Family were set to sell stake to Bob Iger and Josh Jushner Jeanie Buss is reportedly challenging her siblings’ attempt to sell the family’s remaining stake in the Los Angeles Lakers. Hours…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "'Are you not entertained?' - Hunt enters stardom with iconic quadruple",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Amy Hunt asserts herself as Great Britain's new track sensation after winning an unprecedented four gold medals at the European Athletics Championships.",
+            "titulo": "What's going on at Cadillac and Haas? F1 Q&A",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/c1w1ypg102po?at_medium=RSS&at_campaign=rss",
+            "resumen": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the season resumes with the Dutch Grand Prix.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Djokovic’s medical malaise in Cincinnati exposes fraying edges of ageing great’s game",
-            "link": "https://www.theguardian.com/sport/2026/aug/16/novak-djokovic-cincinnati-open-2026-tennis-us-open",
-            "resumen": "First-round exit for 24-time grand slam winner made for a difficult watch but there is an emerging pattern of saving his best for the big occasion Novak Djokovic walked from the ­stadium court in Cincinnati to the corridor reserved for…",
+            "titulo": "Enzo Maresca’s Manchester City opener was startlingly bad",
+            "link": "https://www.theguardian.com/football/2026/aug/17/marescas-man-city-opener-was-startlingly-bad",
+            "resumen": "The Community Shield isn’t always a sign of things to come, but City’s form in their defeat to Arsenal is concerning in the wake of Pep Guardiola’s departure Sign up for our free newsletter here There are caveats. It was only the…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Brook on Test captaincy, batting and Wellington",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cwyee152xeqo?at_medium=RSS&at_campaign=rss",
-            "resumen": "In an exclusive interview, England's Harry Brook says he supports Joe Root taking the Test captaincy, addresses frustrations about his batting and describes the Wellington nightclub incident fallout.",
+            "titulo": "Guardiola-Walker fallout revealed in new documentary",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c62xj5evpjpo?at_medium=RSS&at_campaign=rss",
+            "resumen": "A new documentary series about Pep Guardiola's final two seasons at Manchester City reveals the bust-up he had with former captain Kyle Walker.",
             "fuente": "BBC"
           }
         ]

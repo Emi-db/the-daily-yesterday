@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "17 de agosto de 2026",
-  "generada": "10:19",
+  "fecha": "18 de agosto de 2026",
+  "generada": "10:15",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "El Gobierno prepara el envío de un avión Hércules con ayuda humanitaria para Colombia tras el terremoto",
-          "link": "https://www.clarin.com/politica/gobierno-prepara-envio-avion-hercules-ayuda-humanitaria-colombia-terremoto_0_8VInj6AW0A.html",
-          "resumen": "Llevarán una planta potabilizadora, una cocina de campaña junto a un grupo de voluntarios del Ejército. Argentina se suma así a países como Estados Unidos, Ecuador e Israel en el envío de ayuda logística y rescatistas al país golpeado por…",
+          "titulo": "Desde plantar candidatos a ir a la Corte contra una re-reelección: el peronismo sube la presión a los gobernadores por las PASO",
+          "link": "https://www.clarin.com/politica/plantar-candidatos-ir-corte-re-reeleccion-peronismo-sube-presion-gobernadores-paso_0_pFwK31p1Vm.html",
+          "resumen": "Fue uno de los puntos acordados en la cumbre de la semana pasada en Retiro. \"¿Van a jugar con nosotros o no?\", apuran la definición a los mandatarios aliados al oficialismo.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: el discurso en el acto homenaje a San Martín y el armado electoral de cara al 2027",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-discurso-en-el-acto-homenaje-a-san-martin-y-el-armado-nid17082026/",
+          "titulo": "Javier Milei y sus medidas, en vivo: el armado electoral de cara al 2027 y la visita del papa León XIV a la Argentina",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-armado-electoral-de-cara-al-2027-y-la-visita-del-papa-leon-xiv-nid18082026/",
           "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Javier Milei retomará hoy la agenda pública y encabezará el acto por el paso a la inmortalidad de San Martín",
-          "link": "https://www.infobae.com/politica/2026/08/16/javier-milei-retomara-la-agenda-publica-y-encabezara-el-acto-por-el-paso-a-la-inmortalidad-de-san-martin/",
-          "resumen": "El Presidente dará un discurso esta tarde en el Monumento al Libertador ubicado en el barrio porteño de Retiro, en la Plaza San Martín. Se espera la presencia de todo el Gabinete y también del jefe de Gobierno porteño, Jorge Macri",
+          "titulo": "El Gobierno amplió el secreto militar sobre el sistema de armas de la Fuerza Aérea",
+          "link": "https://www.infobae.com/politica/2026/08/18/el-gobierno-amplio-el-secreto-militar-sobre-el-sistema-de-armas-de-la-fuerza-aerea/",
+          "resumen": "La medida se formalizó mediante Boletín Oficial e incorporó la exportación de materiales tales como motores y repuestos",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Las condiciones de Macri para pactar y la inversión del Gobierno para dividir al peronismo",
-          "link": "https://www.clarin.com/politica/condiciones-macri-pactar-inversion-gobierno-dividir-peronismo_0_Y4nML5rJUX.html",
-          "resumen": "La gestión Milei profundiza la negociación de la reforma electoral para suspender las PASO. Los gobernadores aprovechan las necesidades del Gobierno mientras se acerca la inminente discusión del Presupuesto 2027.",
+          "titulo": "Karina Milei les pone un freno a los Caputo y avisa que recién en 2027 negociará los acuerdos electorales",
+          "link": "https://www.clarin.com/politica/karina-milei-pone-freno-caputo-avisa-recien-2027-negociara-acuerdos-electorales_0_c4dJIcPSC1.html",
+          "resumen": "Ante la presión del ministro de Economía y el poderoso asesor, la secretaria dice que repetirá la estrategia de 2025. La lógica para cerrar con los gobernadores y el caso particular de los Macri.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Milei retoma la actividad pública y dará este lunes un discurso en el homenaje al general San Martín",
-          "link": "https://www.lanacion.com.ar/politica/milei-retoma-la-actividad-publica-y-dara-este-lunes-un-discurso-por-cadena-nacional-en-el-homenaje-a-nid16082026/",
-          "resumen": "Con un acto en Retiro, el Presidente pondrá fin a más de una semana sin apariciones ni actos públicos; iba a hablar en cadena nacional, pero luego la cancelaron; el jueves estará en el Consejo de las Américas y el viernes en la Bolsa de…",
+          "titulo": "Javier Milei reapareció en el homenaje a San Martín con un discurso de tono electoral y gestos hacia el Pro",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-reaparecio-en-el-homenaje-a-san-martin-con-un-discurso-de-tono-electoral-y-gestos-hacia-nid17082026/",
+          "resumen": "Sin nombrarlos, Milei criticó al kirchnerismo y sus rivales en la región; “hay algunos que quieren volver al pasado”, dijo; abrazo y acercamiento con el macrismo, y una referencia a “la prosperidad económica”",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Tras la baja de julio, ¿Qué va a pasar en los próximos meses con el precio de la carne?",
-          "link": "https://www.clarin.com/rural/baja-julio-va-pasar-proximos-meses-precio-carne_0_f9mFuGwr3s.html",
-          "resumen": "En el séptimo mes del año, mediciones oficiales y privadas marcaron una leve caída en los valores. El precio de la hacienda, clave en el amesetamiento en góndola. Analistas no prevén subas en agosto y septiembre, pero más cerca de las…",
+          "titulo": "Dólar blue hoy: a cuánto cotiza este martes 18 de agosto",
+          "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-martes-18-agosto_0_My9wSuUcog.html",
+          "resumen": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "A cuánto abre el dólar el martes 18 de agosto",
-          "link": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-el-martes-18-de-agosto-nid15082026/",
-          "resumen": "La cotización de la divisa oficial abre con los mismos números que en su último día de cierre; así se posicionó el último día hábil",
+          "titulo": "Legumbres: un tesoro desconocido y muy rico en energía que vale conocer",
+          "link": "https://www.lanacion.com.ar/economia/campo/legumbres-un-tesoro-desconocido-y-muy-rico-en-energia-que-vale-conocer-nid18082026/",
+          "resumen": "Los productos que no se pueden usar para el consumo humano tienen un destino en la alimentación animal con importantes resultados",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Retenciones: cuánto aportará el campo pese a la baja de las alícuotas",
-          "link": "https://www.ambito.com/economia/retenciones-cuanto-aportara-el-campo-pese-la-baja-las-alicuotas-n6311372",
-          "resumen": "La Bolsa de Comercio de Rosario proyectó que los seis principales complejos agroexportadores generarán u$s4.613 millones por derechos de exportación durante 2026. La soja concentrará más del 70% de la recaudación.",
+          "titulo": "Alerta en la industria: la metalurgia opera a menos del 40% de su capacidad y ya se contrajo 5,5% en 2026",
+          "link": "https://www.ambito.com/economia/alerta-la-industria-la-metalurgia-opera-menos-del-40-su-capacidad-y-ya-se-contrajo-55-2026-n6311718",
+          "resumen": "La actividad del sector volvió a mostrar una contracción en julio y alcanzó una baja interanual del 4,4% en el séptimo mes del año. La utilización de la capacidad instalada se encuentra en uno de los niveles más bajos de la serie histórica.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Julio fue el mejor mes en la historia para la exportación de maíz",
-          "link": "https://www.clarin.com/rural/julio-mejor-mes-historia-exportacion-maiz_0_ZLYJnco8bj.html",
-          "resumen": "En el séptimo mes del año, se embarcaron 5,14 millones de toneladas. La cosecha sigue mostrando un fuerte rezago por cuestiones climáticas.",
+          "titulo": "La Rioja relanzó los \"Chachos\" para incentivar el consumo: inyectarán 4000 millones a la economía local",
+          "link": "https://www.clarin.com/politica/rioja-relanzo-chachos-incentivar-consumo-inyectaran-4000-millones-economia-local_0_Xz5EQ0Fulx.html",
+          "resumen": "La administración de Ricardo Quintela entregará 50.000 Chachos a unos 80.000 beneficiarios. Empleados públicos, policías y jubilados están entre quienes recibirán la cuasimoneda. La Rioja es la única provincia en default.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La industria lidera la pérdida de empleo privado formal con Milei y un informe publicado por Techint alerta por su “extrema fragilidad”",
-          "link": "https://www.lanacion.com.ar/economia/la-industria-lidera-la-perdida-de-empleo-privado-formal-con-milei-y-un-informe-publicado-por-techint-nid16082026/",
-          "resumen": "Desde su último máximo, perdió casi 90.000 trabajadores registrados y explicó más de uno de cada tres asalariados privados formales que se perdieron desde noviembre de 2023; a la vez, la informalidad fabril aumentó casi 10 puntos…",
+          "titulo": "Cuando invertir mejor no alcanza: ocho consejos para hacer crecer tu dinero",
+          "link": "https://www.lanacion.com.ar/economia/cuando-invertir-mejor-no-alcanza-ocho-consejos-para-hacer-crecer-tu-dinero-nid18082026/",
+          "resumen": "",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Donald Trump ordenó reducir los ejercicios militares con Corea del Sur: “No estoy contento”",
-          "link": "https://www.clarin.com/mundo/donald-trump-ordeno-reducir-ejercicios-militares-corea-sur-contento_0_8LxYErIwxc.html",
-          "resumen": "El presidente estadounidense volvió a destacar su buena relación con Kim Jong Un y consideró que las maniobras envían una señal “inapropiada y hostil” hacia Corea del Norte. Las actividades comenzaron este lunes y se extenderán durante 11…",
+          "titulo": "Los secretos de Mengele: los documentos de las SS sobre el sanguinario médico de Auschwitz que se escondió en Argentina",
+          "link": "https://www.clarin.com/mundo/secretos-mengele-documentos-ss-sanguinario-medico-auschwitz-escondio-argentina_0_haPxt0LdSn.html",
+          "resumen": "Cómo fue su carrera en el movimiento de Hitler y el expediente clave que selló el destino de uno de los personajes más oscuros del nazismo.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Murió a los 36 años la actriz Hayden Panettiere, estrella de las series “Héroes” y “Nashville”",
-          "link": "https://www.lanacion.com.ar/el-mundo/murio-a-los-36-anos-la-actriz-hayden-panettiere-estrella-de-las-series-heroes-y-nashville-nid17082026/",
-          "resumen": "Se desconoce la causa del deceso; tenía una hija de 12 años y su hermano menor había fallecido en 2023 a causa de una cardiopatía",
+          "titulo": "Un argentino ganó 20 mil dólares en el Mundial de Just Dance en Kazajistán",
+          "link": "https://www.lanacion.com.ar/el-mundo/un-argentino-gano-20-mil-dolares-en-el-mundial-de-just-dance-en-kazajistan-nid17082026/",
+          "resumen": "El licenciado en Biotecnología obtuvo un premio récord con tan solo 25 años; cómo fue su desarrollo en la pista",
           "fuente": "La Nación"
         },
         {
-          "titulo": "En uno de sus mayores ataques, Ucrania golpeó con más de 800 drones el área de Moscú, que contestó: ya hay 19 muertos",
-          "link": "https://www.clarin.com/mundo/mayores-ataques-ucrania-golpeo-800-drones-area-moscu-contesto-19-muertos_0_yvO5AEpXvl.html",
-          "resumen": "La capital moscovita detectó 600 de esos aviones, afirmó su alcalde. “Fue uno de los bombardeos más masivos con drones”, dijo el gobernador local. Ucrania provocó al menos 12 bajas y Rusia, 7.",
+          "titulo": "Tiroteo en un colegio secundario de Filipinas: dos muertos, entre ellos el estudiante que abrió fuego y transmitió el ataque en vivo",
+          "link": "https://www.clarin.com/mundo/tiroteo-colegio-secundario-filipinas-muertos-estudiante-abrio-fuego-transmitio-ataque-vivo_0_Gqegkq1zco.html",
+          "resumen": "El hecho ocurrió en una institución educativa de Zamboanga, en la isla de Mindanao, donde el agresor ingresó al campus con un rifle y una pistola. La Policía confirmó que una persona murió a manos del atacante y que luego el propio alumno…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Un matrimonio recorrió 100 kilómetros por una ruta italiana con su hijo muerto en el auto",
-          "link": "https://www.lanacion.com.ar/el-mundo/un-matrimonio-recorrio-100-kilometros-por-una-ruta-italiana-con-su-hijo-muerto-en-el-auto-nid16082026/",
-          "resumen": "La vícima, de 31 años, era oriunda de Rumanía y falleció de un infarto; el hecho tuvo lugar entre los peajes de Casteggio y Voghera, al norte del país europeo",
+          "titulo": "Un estudiante inició un tiroteo en un colegio de Filipinas, mató a un compañero y se quitó la vida",
+          "link": "https://www.lanacion.com.ar/el-mundo/un-estudiante-inicio-un-tiroteo-en-un-colegio-de-filipinas-mato-a-un-companero-y-se-quito-la-vida-nid18082026/",
+          "resumen": "El episodio ocurrió en un secundario en el sur del país y además dos personas resultaron heridas; según precisaron las autoridades, el joven llevaba una cámara para transmitir en vivo el ataque",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Europa sufre por la ola de incendios: Grecia, España y Bélgica los países más complicados",
-          "link": "https://www.clarin.com/mundo/europa-sufre-ola-incendios-grecia-espana-belgica-paises-complicados_0_aYLdA6OsRP.html",
-          "resumen": "Hay dos muertos en Grecia, Fue en la isla de Salamina, cerca de Atenas, donde el domingo se declararon casi simultáneamente dos incendios. Y uno en España. Demás, cerca de 3.000 hectáreas han ardido en un parque natural del este de…",
+          "titulo": "Rusia amenaza a Reino Unido por entregarle drones a Ucrania para atacar su territorio: \"Habrá consecuencias\"",
+          "link": "https://www.clarin.com/mundo/rusia-amenaza-reino-unido-represalias-entregarle-drones-ucrania-atacar-territorio-consecuencias_0_qvuXcnNXLF.html",
+          "resumen": "La advertencia fue realizada por la embajada de Vladimir Putin en Londres. Ucrania utiliza aparatos de fabricación británica para destruir objetivos en el interior del país con el que está en guerra.",
           "fuente": "Clarín"
         }
       ]
@@ -112,34 +112,34 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Thiago Almada y Ángel Correa, la nueva sociedad de campeones del mundo que quiere ilusionar a los hinchas de River",
-          "link": "https://www.clarin.com/deportes/thiago-almada-angel-correa-nueva-sociedad-campeones-mundo-quiere-ilusionar-hinchas-river_0_KjIBaQNn6k.html",
-          "resumen": "Son amigos dentro y fuera de la cancha, y en su primer partido juntos ante Argentinos, ya hicieron de las suyas. \"Los chicos me recibieron bien\", dijo el de Fuerte Apache, que tuvo su estreno con la camiseta del Millonario seis…",
+          "titulo": "Copa Sudamericana: Boca visita a Recoleta en busca de los cuartos de final con una baja clave, pero podría debutar Valencia",
+          "link": "https://www.clarin.com/deportes/copa-sudamericana-boca-visita-recoleta-busca-cuartos-final-baja-clave-podria-debutar-valencia_0_5BXDy0Q5ts.html",
+          "resumen": "El Xeneize se presenta en Paraguay en busca de los cuartos de final del certamen continental. El equipo de Arruabarrena llega a la revancha tras el 3-1 de la ida.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Víctor Ormazábal, campeón con Boca: “No estuve mucho tiempo pero me fui ganando un título, algo que hoy no sucede tanto”",
-          "link": "https://www.lanacion.com.ar/deportes/victor-ormazabal-campeon-con-boca-no-estuve-mucho-tiempo-pero-me-fui-ganando-un-titulo-algo-que-hoy-nid14082026/",
-          "resumen": "Conquistó la Sudamericana 2004 en un plantel nutrido de estrellas, como Palermo y Tévez; ahora, lejos del deporte, abrió una panadería en Lomas de Zamora: “Manejo todo y estoy a cargo de que la producción salga en tiempo y forma”",
+          "titulo": "Partidos de hoy, martes 18 de agosto: horarios y por dónde ver en vivo online",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/partidos-de-hoy-martes-18-de-agosto-horarios-y-por-donde-ver-en-vivo-online-nid18082026/",
+          "resumen": "En la agenda del día se destacan la continuidad de los octavos de las copas Libertadores y Sudamericana y dos encuentros de la Copa Argentina",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Partidos de HOY, lunes 17 de agosto: agenda, horario y por dónde ver fútbol EN VIVO",
-          "link": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-lunes-17-agosto-horario-ver-futbol-vivo-tv-online_0_3ZtGAxs41R.html",
-          "resumen": "Se cierra la quinta fecha del Torneo Clausura, sigue la actividad en el Ascenso, siguen los primeros partidos de la temporada europea y más. ¡Mirá!",
+          "titulo": "Coudet y River siguen rindiendo examen: tras el primer triunfo en la Liga, se viene un choque clave por Copa Sudamericana",
+          "link": "https://www.clarin.com/deportes/coudet-river-siguen-rindiendo-examen-primer-triunfo-liga-viene-choque-clave-copa-sudamericana_0_ZEEfEYByzG.html",
+          "resumen": "Luego del primer triunfo del DT en el Clausura, tendrá una prueba importante en Bogotá ante Independiente Santa Fe. Chacho debe reemplazar a Gonzalo Montiel, una pieza clave en el equipo, y espera las evoluciones de Marcos Acuña y…",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "La explicación de Guillermo Barros Schelotto y Julio Vaccari tras su cruce luego del empate entre Vélez y Defensa",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/la-explicacion-de-guillermo-barros-schelotto-y-julio-vaccari-tras-su-cruce-luego-del-empate-entre-nid18082026/",
+          "resumen": "Los entrenadores se refirieron al intercambio que tuvieron tras el partido disputado en el estadio José Amalfitani y le restaron importancia a la pelea",
+          "fuente": "La Nación"
+        },
+        {
+          "titulo": "A qué hora juegan Los Leones vs. Países Bajos por el Mundial de hockey 2026 y dónde ver el partido de hoy EN VIVO",
+          "link": "https://www.ole.com.ar/hockey/hora-juegan-leones-vs-paises-bajos-mundial-hockey-2026-ver-partido-hoy-vivo_0_EJEmrmSsSw.html",
+          "resumen": "Tras la goleada en el debut, la Selección masculina vuelve a la cancha para tratar de cerrar la clasificación en la Copa del Mundo de Bélgica y Países Bajos. Seguilo en Olé.",
           "fuente": "Olé"
-        },
-        {
-          "titulo": "Guillermo Vilas cumple 74 años: el rey que todavía no tiene su corona pero merece un saludo tan lejano como respetuoso",
-          "link": "https://www.clarin.com/deportes/guillermo-vilas-cumple-74-anos-rey-todavia-corona-merece-saludo-lejano-respetuoso_0_IIeb1clJvq.html",
-          "resumen": "Pese al pedido general, no se lo ha reconocido como número 1 del ranking mundial cuando el sistema de medición era diferente. Gloria a Vilas, aunque estas líneas y cualquier otra u otras voces no le lleguen o no las comprenda del todo por…",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "Masters 1000 de Cincinnati 2026 hoy: partidos y cómo está el cuadro",
-          "link": "https://www.lanacion.com.ar/deportes/tenis/masters-1000-de-cincinnati-2026-hoy-partidos-y-como-esta-el-cuadro-nid17082026/",
-          "resumen": "En la quinta jornada de actividad en Ohio se disputan partidos correspondientes a la tercera ronda de los torneos masculino y femenino",
-          "fuente": "La Nación"
         }
       ]
     }
