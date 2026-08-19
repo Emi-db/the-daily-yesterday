@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "18 de agosto de 2026",
-  "generada": "10:15",
+  "fecha": "19 de agosto de 2026",
+  "generada": "10:16",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Desde plantar candidatos a ir a la Corte contra una re-reelección: el peronismo sube la presión a los gobernadores por las PASO",
-          "link": "https://www.clarin.com/politica/plantar-candidatos-ir-corte-re-reeleccion-peronismo-sube-presion-gobernadores-paso_0_pFwK31p1Vm.html",
-          "resumen": "Fue uno de los puntos acordados en la cumbre de la semana pasada en Retiro. \"¿Van a jugar con nosotros o no?\", apuran la definición a los mandatarios aliados al oficialismo.",
+          "titulo": "Nueva encuesta: quiénes son los gobernadores con peor y mejor imagen del país",
+          "link": "https://www.clarin.com/politica/nueva-encuesta-gobernadores-peor-mejor-imagen-pais_0_UkNLhfTSCy.html",
+          "resumen": "Es el último estudio de CB Global Data. Midió a cada mandatario en su provincia. Hizo un ranking con los 8 mejores, los 8 del medio y los 8 peores. Sorpresas arriba y abajo de la tabla.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: el armado electoral de cara al 2027 y la visita del papa León XIV a la Argentina",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-armado-electoral-de-cara-al-2027-y-la-visita-del-papa-leon-xiv-nid18082026/",
+          "titulo": "Javier Milei y sus medidas, en vivo: el armado electoral de cara al 2027 y la detención de Cerimedo",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-armado-electoral-de-cara-al-2027-y-la-detencion-de-cerimedo-nid19082026/",
           "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El Gobierno amplió el secreto militar sobre el sistema de armas de la Fuerza Aérea",
-          "link": "https://www.infobae.com/politica/2026/08/18/el-gobierno-amplio-el-secreto-militar-sobre-el-sistema-de-armas-de-la-fuerza-aerea/",
-          "resumen": "La medida se formalizó mediante Boletín Oficial e incorporó la exportación de materiales tales como motores y repuestos",
+          "titulo": "La CIDH avanza contra el Estado argentino en el histórico conflicto de tierras mapuches en Villa La Angostura",
+          "link": "https://www.infobae.com/politica/2026/08/19/la-cidh-avanza-contra-el-estado-argentino-en-el-historico-conflicto-de-tierras-mapuches-en-villa-la-angostura/",
+          "resumen": "La Comisión Interamericana de Derechos Humanos le informó formalmente al Gobierno que abrió la etapa de fondo del caso que involucra a una comunidad que usurpó un predio perteneciente al municipio. El expediente reactiva un conflicto…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Karina Milei les pone un freno a los Caputo y avisa que recién en 2027 negociará los acuerdos electorales",
-          "link": "https://www.clarin.com/politica/karina-milei-pone-freno-caputo-avisa-recien-2027-negociara-acuerdos-electorales_0_c4dJIcPSC1.html",
-          "resumen": "Ante la presión del ministro de Economía y el poderoso asesor, la secretaria dice que repetirá la estrategia de 2025. La lógica para cerrar con los gobernadores y el caso particular de los Macri.",
+          "titulo": "Se dilata en el Senado el debate sobre el Súper RIGI y el Gobierno busca contener el voto de los aliados",
+          "link": "https://www.clarin.com/politica/dilata-senado-debate-super-rigi-gobierno-busca-contener-voto-aliados_0_CI3lOkx2XN.html",
+          "resumen": "Carlos Guberman concurrirá a un plenario de comisiones para responder a las dudas de los dialoguistas. En el oficialismo confían que la propuesta tendrá dictamen la próxima semana.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei reapareció en el homenaje a San Martín con un discurso de tono electoral y gestos hacia el Pro",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-reaparecio-en-el-homenaje-a-san-martin-con-un-discurso-de-tono-electoral-y-gestos-hacia-nid17082026/",
-          "resumen": "Sin nombrarlos, Milei criticó al kirchnerismo y sus rivales en la región; “hay algunos que quieren volver al pasado”, dijo; abrazo y acercamiento con el macrismo, y una referencia a “la prosperidad económica”",
+          "titulo": "Nadia Beller, expareja de Cerimedo: “Fernando me dijo que la hermana de Milei estaba involucrada con la corrupción”",
+          "link": "https://www.lanacion.com.ar/politica/nadia-beller-expareja-de-cerimedo-fernando-me-dijo-que-la-hermana-de-milei-estaba-involucrada-con-la-nid18082026/",
+          "resumen": "La mujer que fue baleada en Santa Cruz de la Sierra habló con LA NACION desde la clínica donde está internada; relató que su exnovio le contó que se había alejado del presidente argentino porque tenía “un entorno demasiado podrido”; su…",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Dólar blue hoy: a cuánto cotiza este martes 18 de agosto",
-          "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-martes-18-agosto_0_My9wSuUcog.html",
+          "titulo": "Dólar blue hoy: a cuánto cotiza este miércoles 19 de agosto",
+          "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-miercoles-19-agosto_0_YsUrNsO6IO.html",
           "resumen": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Legumbres: un tesoro desconocido y muy rico en energía que vale conocer",
-          "link": "https://www.lanacion.com.ar/economia/campo/legumbres-un-tesoro-desconocido-y-muy-rico-en-energia-que-vale-conocer-nid18082026/",
-          "resumen": "Los productos que no se pueden usar para el consumo humano tienen un destino en la alimentación animal con importantes resultados",
+          "titulo": "“Enterramos la corrupción”: el lugar donde estaba la empresa insignia de Lázaro Báez ahora es una fábrica de invernaderos",
+          "link": "https://www.lanacion.com.ar/economia/campo/enterramos-la-corrupcion-el-lugar-donde-estaba-la-empresa-insignia-de-lazaro-baez-ahora-es-una-nid18082026/",
+          "resumen": "En la exsede de Austral Construcciones en Santa Cruz hacen módulos móviles a medida; los detalles",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Alerta en la industria: la metalurgia opera a menos del 40% de su capacidad y ya se contrajo 5,5% en 2026",
-          "link": "https://www.ambito.com/economia/alerta-la-industria-la-metalurgia-opera-menos-del-40-su-capacidad-y-ya-se-contrajo-55-2026-n6311718",
-          "resumen": "La actividad del sector volvió a mostrar una contracción en julio y alcanzó una baja interanual del 4,4% en el séptimo mes del año. La utilización de la capacidad instalada se encuentra en uno de los niveles más bajos de la serie histórica.",
+          "titulo": "La canasta de crianza subió por encima de la inflación en julio: cuánto cuesta mantener a un hijo",
+          "link": "https://www.ambito.com/economia/la-canasta-crianza-subio-encima-la-inflacion-julio-cuanto-cuesta-mantener-un-hijo-n6312235",
+          "resumen": "El costo mensual de criar a un niño se ubicó entre $545.683 y $697.268, según la edad. Todas las franjas registraron aumentos superiores al IPC del 2,1% informado para el séptimo mes del año.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "La Rioja relanzó los \"Chachos\" para incentivar el consumo: inyectarán 4000 millones a la economía local",
-          "link": "https://www.clarin.com/politica/rioja-relanzo-chachos-incentivar-consumo-inyectaran-4000-millones-economia-local_0_Xz5EQ0Fulx.html",
-          "resumen": "La administración de Ricardo Quintela entregará 50.000 Chachos a unos 80.000 beneficiarios. Empleados públicos, policías y jubilados están entre quienes recibirán la cuasimoneda. La Rioja es la única provincia en default.",
+          "titulo": "La economía crece un cuarto de lo que crecía el año pasado y esa es la única verdad",
+          "link": "https://www.clarin.com/economia/economia-crece-cuarto-crecia-ano-pasado-unica-verdad_0_grfcGsR8Up.html",
+          "resumen": "No se trata de la salud del Presidente, qué tan usureras resultan las tasas o el rol de Karina Milei. El hecho es que la economía sufrió una fuerte desaceleración en el primer semestre como confirmará este jueves el Indec. Qué podría…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Cuando invertir mejor no alcanza: ocho consejos para hacer crecer tu dinero",
-          "link": "https://www.lanacion.com.ar/economia/cuando-invertir-mejor-no-alcanza-ocho-consejos-para-hacer-crecer-tu-dinero-nid18082026/",
-          "resumen": "",
+          "titulo": "El riesgo país saltó a 511 puntos y se despegó de sus pares emergentes",
+          "link": "https://www.lanacion.com.ar/economia/el-riesgo-pais-salto-a-511-puntos-y-se-despego-de-sus-pares-emergentes-nid18082026/",
+          "resumen": "Mientras el indicador subió más de 100 puntos desde comienzos de julio en la Argentina, el promedio regional casi no se movió; analistas señalan factores internacionales y técnicos, pero también un mayor riesgo político y dudas por la…",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Los secretos de Mengele: los documentos de las SS sobre el sanguinario médico de Auschwitz que se escondió en Argentina",
-          "link": "https://www.clarin.com/mundo/secretos-mengele-documentos-ss-sanguinario-medico-auschwitz-escondio-argentina_0_haPxt0LdSn.html",
-          "resumen": "Cómo fue su carrera en el movimiento de Hitler y el expediente clave que selló el destino de uno de los personajes más oscuros del nazismo.",
+          "titulo": "El argentino Rafael Grossi encabezó una misión en Siria para inspeccionar instalaciones nucleares",
+          "link": "https://www.clarin.com/mundo/argentino-rafael-grossi-encabezo-mision-siria-monitorear-actividades-nucleares_0_d27qEBfv7l.html",
+          "resumen": "Lo hizo como director del Organismo Internacional de la Energía Atómica (OIEA) y confirmó el hallazgo de varias toneladas de uranio, que quedarán bajo la supervisión de su agencia. Destacó la cooperación de las actuales autoridades de ese…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Un argentino ganó 20 mil dólares en el Mundial de Just Dance en Kazajistán",
-          "link": "https://www.lanacion.com.ar/el-mundo/un-argentino-gano-20-mil-dolares-en-el-mundial-de-just-dance-en-kazajistan-nid17082026/",
-          "resumen": "El licenciado en Biotecnología obtuvo un premio récord con tan solo 25 años; cómo fue su desarrollo en la pista",
+          "titulo": "Los animales “mutantes” de Chernobyl: ranas decoloradas, arañas perdidas y albinismo incrementado",
+          "link": "https://www.lanacion.com.ar/el-mundo/los-animales-mutantes-de-chernobyl-ranas-decoloradas-aranas-perdidas-y-albinismo-incrementado-nid18082026/",
+          "resumen": "A 40 años de la tragedia nuclear que arrasó con la ciudad ucraniana, todavía se ven manadas que resisten a la radiación",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Tiroteo en un colegio secundario de Filipinas: dos muertos, entre ellos el estudiante que abrió fuego y transmitió el ataque en vivo",
-          "link": "https://www.clarin.com/mundo/tiroteo-colegio-secundario-filipinas-muertos-estudiante-abrio-fuego-transmitio-ataque-vivo_0_Gqegkq1zco.html",
-          "resumen": "El hecho ocurrió en una institución educativa de Zamboanga, en la isla de Mindanao, donde el agresor ingresó al campus con un rifle y una pistola. La Policía confirmó que una persona murió a manos del atacante y que luego el propio alumno…",
+          "titulo": "¿Por qué Donald Trump ahora amenaza a Omán?",
+          "link": "https://www.clarin.com/mundo/donald-trump-ahora-amenaza-oman_0_vBVDGaPp8N.html",
+          "resumen": "El presidente de Estados Unidos está molesto con el acuerdo que ese pequeño país está por alcanzar con Irán sobre el tránsito por el estrecho de Ormuz. Las claves de una guerra que se extiende y debilita al gobierno de Washington.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Un estudiante inició un tiroteo en un colegio de Filipinas, mató a un compañero y se quitó la vida",
-          "link": "https://www.lanacion.com.ar/el-mundo/un-estudiante-inicio-un-tiroteo-en-un-colegio-de-filipinas-mato-a-un-companero-y-se-quito-la-vida-nid18082026/",
-          "resumen": "El episodio ocurrió en un secundario en el sur del país y además dos personas resultaron heridas; según precisaron las autoridades, el joven llevaba una cámara para transmitir en vivo el ataque",
+          "titulo": "El plan ambicioso de la NASA para Artemis III: tres cohetes, dos acoplamientos en órbita y una operación sin precedentes",
+          "link": "https://www.lanacion.com.ar/el-mundo/el-plan-ambicioso-de-la-nasa-para-artemis-iii-tres-cohetes-dos-acoplamientos-en-orbita-y-una-nid19082026/",
+          "resumen": "La expedición, prevista para 2027, pondrá a prueba sistemas clave; los resultados serán fundamentales para las próximas misiones que encare la agencia",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Rusia amenaza a Reino Unido por entregarle drones a Ucrania para atacar su territorio: \"Habrá consecuencias\"",
-          "link": "https://www.clarin.com/mundo/rusia-amenaza-reino-unido-represalias-entregarle-drones-ucrania-atacar-territorio-consecuencias_0_qvuXcnNXLF.html",
-          "resumen": "La advertencia fue realizada por la embajada de Vladimir Putin en Londres. Ucrania utiliza aparatos de fabricación británica para destruir objetivos en el interior del país con el que está en guerra.",
+          "titulo": "Suspenden los vuelos en helicóptero en Río de Janeiro de cuatro empresas tras una seguidilla de accidentes que dejó 13 muertos",
+          "link": "https://www.clarin.com/mundo/suspenden-vuelos-helicoptero-rio-janeiro-empresas-seguidilla-accidentes-dejo-13-muertos_0_ss10zLN7TX.html",
+          "resumen": "La ANAC brasileña tomó la medida contra las firmas que ofrecían vuelos panorámicos. Según descubrieron, las compañías manipulaban los registros de tiempo de vuelo para ahorrar en mantenimiento.",
           "fuente": "Clarín"
         }
       ]
@@ -112,34 +112,34 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Copa Sudamericana: Boca visita a Recoleta en busca de los cuartos de final con una baja clave, pero podría debutar Valencia",
-          "link": "https://www.clarin.com/deportes/copa-sudamericana-boca-visita-recoleta-busca-cuartos-final-baja-clave-podria-debutar-valencia_0_5BXDy0Q5ts.html",
-          "resumen": "El Xeneize se presenta en Paraguay en busca de los cuartos de final del certamen continental. El equipo de Arruabarrena llega a la revancha tras el 3-1 de la ida.",
+          "titulo": "La recta final de Franco Colapinto en la Fórmula 1 2026: los circuitos que le quedan, antecedentes y cómo le puede ir",
+          "link": "https://www.clarin.com/deportes/recta-final-franco-colapinto-formula-1-2026-circuitos-quedan-antecedentes-puede-ir_0_GIVdWFrLc9.html",
+          "resumen": "Este fin de semana comienzan las últimas 12 carreras del campeonato de F1. El argentino tendrá dos escenarios inéditos: Madrid y Sepang. Toda la data de los Grandes Premios que se vienen, con infografías, fotos y más.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Partidos de hoy, martes 18 de agosto: horarios y por dónde ver en vivo online",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/partidos-de-hoy-martes-18-de-agosto-horarios-y-por-donde-ver-en-vivo-online-nid18082026/",
-          "resumen": "En la agenda del día se destacan la continuidad de los octavos de las copas Libertadores y Sudamericana y dos encuentros de la Copa Argentina",
+          "titulo": "El tenista Nick Kyrgios, exfinalista en Wimbledon, dio positivo por cocaína y quedó suspendido",
+          "link": "https://www.lanacion.com.ar/deportes/el-tenista-nick-kyrgios-exfinalista-en-wimbledon-dio-positivo-por-cocaina-y-quedo-suspendido-nid19082026/",
+          "resumen": "El australiano publicó un mensaje en que habló sobre lo ocurrido",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Coudet y River siguen rindiendo examen: tras el primer triunfo en la Liga, se viene un choque clave por Copa Sudamericana",
-          "link": "https://www.clarin.com/deportes/coudet-river-siguen-rindiendo-examen-primer-triunfo-liga-viene-choque-clave-copa-sudamericana_0_ZEEfEYByzG.html",
-          "resumen": "Luego del primer triunfo del DT en el Clausura, tendrá una prueba importante en Bogotá ante Independiente Santa Fe. Chacho debe reemplazar a Gonzalo Montiel, una pieza clave en el equipo, y espera las evoluciones de Marcos Acuña y…",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "La explicación de Guillermo Barros Schelotto y Julio Vaccari tras su cruce luego del empate entre Vélez y Defensa",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/la-explicacion-de-guillermo-barros-schelotto-y-julio-vaccari-tras-su-cruce-luego-del-empate-entre-nid18082026/",
-          "resumen": "Los entrenadores se refirieron al intercambio que tuvieron tras el partido disputado en el estadio José Amalfitani y le restaron importancia a la pelea",
-          "fuente": "La Nación"
-        },
-        {
-          "titulo": "A qué hora juegan Los Leones vs. Países Bajos por el Mundial de hockey 2026 y dónde ver el partido de hoy EN VIVO",
-          "link": "https://www.ole.com.ar/hockey/hora-juegan-leones-vs-paises-bajos-mundial-hockey-2026-ver-partido-hoy-vivo_0_EJEmrmSsSw.html",
-          "resumen": "Tras la goleada en el debut, la Selección masculina vuelve a la cancha para tratar de cerrar la clasificación en la Copa del Mundo de Bélgica y Países Bajos. Seguilo en Olé.",
+          "titulo": "Con formación inédita, River se juega mucho vs. Independiente Santa Fe en la Sudamericana",
+          "link": "https://www.ole.com.ar/river-plate/river-plate-independiente-santa-fe-copa-sudamericana-octavos-final-ida-coudet-formacion-colombia-ver-almada-correa_0_QWgLSHGxcU.html",
+          "resumen": "Tras el triunfo que descomprimió, abre la serie de octavos en la altura de Bogotá. Coudet improvisa en los laterales y pone a las estrellas arriba.",
           "fuente": "Olé"
+        },
+        {
+          "titulo": "Las Leonas vs Escocia, por el Mundial de Hockey 2026: minuto a minuto, en directo",
+          "link": "https://www.clarin.com/deportes/leonas-vs-escocia-mundial-hockey-2026-minuto-minuto-directo_0_JF6WXQqdxr.html",
+          "resumen": "Argentina busca la clasificación ante las británicas, en el cierre del Grupo B. El equipo de Fernando Ferrara empató con Estados Unidos y le ganó a Alemania. El certamen se disputa en las sedes de Bélgica y Países Bajos.",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Partidos de hoy, miércoles 19 de agosto: horarios y por dónde ver en vivo online",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/partidos-de-hoy-miercoles-19-de-agosto-horarios-y-por-donde-ver-en-vivo-online-nid19082026/",
+          "resumen": "En la agenda del día se destacan la continuidad de los octavos de las copas Libertadores y Sudamericana; la presentación de Racing en la Copa Argentina y de Lionel Messi en Inter Miami",
+          "fuente": "La Nación"
         }
       ]
     }
