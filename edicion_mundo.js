@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "19 de agosto de 2026",
-    "generada": "10:16",
+    "fecha": "20 de agosto de 2026",
+    "generada": "10:17",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "La niña de 10 años traficada de Perú a Ecuador para casarse con un hombre de 50 (y qué revela sobre el matrimonio infantil en América Latina)",
-            "link": "https://www.bbc.com/mundo/articles/c5yvrnqd2pdo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Una de cada cuatro niñas en Latinoamérica se han visto envueltas en un matrimonio infantil o unión temprana. Y es la única región del mundo donde no se ha producido una reducción significativa de esta práctica.",
+            "titulo": "\"Ni siquiera saben si están vivas o muertas\": la agonía de las familias de las miles de personas que permanecen desaparecidas en Gaza",
+            "link": "https://www.bbc.com/mundo/articles/c3v0q5dpx6xo?at_medium=RSS&at_campaign=rss",
+            "resumen": "La Cruz Roja afirma haber recibido más de 5.000 solicitudes para localizar a personas cuyos cuerpos podrían estar sepultados entre la destrucción o que fueron detenidas por las fuerzas de Israel.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "La campaña de Trump para desmantelar el Tribunal Penal Internacional consigue sus primeros aliados en África y América Latina",
-            "link": "https://elpais.com/internacional/2026-08-19/la-campana-de-trump-para-desmantelar-el-tribunal-penal-internacional-consigue-sus-primeros-aliados-en-africa-y-america-latina.html",
-            "resumen": "Chad y Venezuela anuncian su marcha tras la presión de Estados Unidos, que ha añadido a la presidenta de la corte a la lista de juristas ya sancionados",
+            "titulo": "Trump proclama “la mayor guerra económica” contra Irán",
+            "link": "https://elpais.com/internacional/2026-08-20/trump-proclama-la-mayor-guerra-economica-contra-iran.html",
+            "resumen": "El presidente de Estados Unidos amenaza con graves represalias a los países que permitan ayudar a Teherán",
             "fuente": "El País"
           },
           {
-            "titulo": "Chile entra en recesión técnica lastrado por menor producción de cobre",
-            "link": "https://www.france24.com/es/programas/econom%C3%ADa/20260819-chile-entra-en-recesi%C3%B3n-t%C3%A9cnica-lastrado-por-menor-producci%C3%B3n-de-cobre",
-            "resumen": "La economía chilena se contrajo 0,2% interanual entre abril y junio, encadenando dos trimestres de retroceso en su PIB. La menor producción de cobre, las paralizaciones preventivas en yacimientos, la caída de la pesca y la construcción…",
+            "titulo": "El caso Hind Rajab: una llamada de auxilio y su muerte llevan a Israel a investigar a sus militares en Gaza",
+            "link": "https://www.france24.com/es/medio-oriente/20260820-el-caso-hind-rajab-una-llamada-de-auxilio-y-su-muerte-llevan-a-israel-a-investigar-a-sus-militares-en-gaza",
+            "resumen": "Una menor de edad falleció en 2024 en el interior de un vehículo en la Ciudad de Gaza, rodeada de los cuerpos sin vida de sus familiares, mientras trabajadores de la Media Luna Roja, junto a su madre, intentaban ayudarla durante una…",
             "fuente": "France 24"
           },
           {
-            "titulo": "\"La generación sobria\": por qué cada vez más jóvenes reemplazan el alcohol por medicamentos para la ansiedad",
-            "link": "https://www.bbc.com/mundo/articles/cd9w4pzgp2yo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Cada vez más jóvenes recurren a medicamentos contra la ansiedad para sentirse \"ebrios\" en las fiestas.",
+            "titulo": "\"Haber perdido a mi esposo me duele más que haber perdido mi mano derecha\": el testimonio de Nayarit Colmenares, la mujer amputada tras los terremotos en Venezuela",
+            "link": "https://www.bbc.com/mundo/articles/c8en2r3z61wo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Nayarit busca recursos para dotarse de una prótesis biónica que le permita volver a pintar y dibujar, después de autorizar a sus médicos a que le cortaran el brazo debido a los efectos del síndrome de aplastamiento.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Las casas de Qusra rodeadas por colonos y soldados israelíes: “Me siento en una prisión”",
-            "link": "https://elpais.com/internacional/2026-08-19/las-casas-de-qusra-rodeadas-por-colonos-y-soldados-israelies-me-siento-en-una-prision.html",
-            "resumen": "Los habitantes de tres viviendas de la aldea palestina llevan diez días sin poder salir y recibiendo comida de la ONU, mientras el ejército permite a los colonos moverse por la zona",
+            "titulo": "Sébastien Lecornu, primer ministro francés, un año al frente de la tormenta política francesa",
+            "link": "https://elpais.com/internacional/2026-08-20/sebastien-lecornu-primer-ministro-frances-un-ano-al-frente-de-la-tormenta-politica-francesa.html",
+            "resumen": "El jefe de Gobierno ha conseguido sortear las crisis e incluso aportar cierta estabilidad en una Asamblea dividida. Su próximo desafío es aprobar los presupuestos para el próximo año en plena campaña presidencial",
             "fuente": "El País"
           }
         ]
@@ -43,34 +43,34 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "La inflación, el déficit y la fiebre por la IA disparan el interés de los bonos a máximos de dos décadas",
-            "link": "https://elpais.com/economia/2026-08-19/la-inflacion-el-deficit-y-la-fiebre-por-la-ia-disparan-el-interes-de-los-bonos-a-maximos-de-dos-decadas.html",
-            "resumen": "Los inversores exigen más rentabilidad para prestar a más largo plazo. Alemania emite deuda a 30 años al mayor coste desde 2011 y los bonos de EE UU a ese plazo tocan máximos de 2007",
+            "titulo": "El Santander cierra la compra de Webster en un tiempo récord y exhibe músculo en Estados Unidos",
+            "link": "https://elpais.com/economia/2026-08-20/el-santander-cierra-la-compra-de-webster-en-un-tiempo-record-y-exhibe-musculo-en-estados-unidos.html",
+            "resumen": "El banco ha concluido la adquisición apenas siete meses después del anuncio. Se convierte en un gigante bancario en el país con un balance de más de 280.000 millones de euros y cerca de ocho millones de clientes",
             "fuente": "El País"
           },
           {
-            "titulo": "El 'Día de la Liberación Fiscal' se retrasa 53 días en la era de Sánchez",
-            "link": "https://www.expansion.com/economia/2026/08/19/6a849e7e468aebc04f8b4571.html",
-            "resumen": "El contribuyente medio trabajará este año 231 días para cumplir con Hacienda, hasta el 20 de agosto, lo que representa casi dos meses más de carga fiscal que el 27 de junio de 2019. Leer",
+            "titulo": "ACS, Ferrovial, Acciona y FCC se disputan la mayor obra pública de Australia de 61.000 millones",
+            "link": "https://www.expansion.com/empresas/inmobiliario/2026/08/20/6a86ccf7e5fdeac23d8b459b.html",
+            "resumen": "Los cuatro grupos participan en los tres consorcios invitados al primer contrato, dos túneles gemelos de 35 kilómetros, para el corredor de alta velocidad entre Sidney y Newcastle. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "España lidera el encarecimiento de los carburantes en Europa tras la retirada progresiva de ayudas",
-            "link": "https://elpais.com/economia/2026-08-19/espana-lidera-el-encarecimiento-de-los-carburantes-en-europa-tras-la-retirada-progresiva-de-ayudas.html",
-            "resumen": "Los expertos también achacan el fenómeno a una fiscalidad más baja, que hace los surtidores sean más reactivos a las cotizaciones internacionales",
+            "titulo": "China condena a cadena perpetua al fundador del gigante inmobiliario Evergrande",
+            "link": "https://elpais.com/economia/2026-08-20/china-condena-a-cadena-perpetua-al-fundador-del-gigante-inmobiliario-evergrande.html",
+            "resumen": "La justicia ordena confiscar todos los bienes de Xu Jiayin, que llegó a ser el hombre más rico de Asia antes de que el desplome de la compañía desencadenase una enorme crisis inmobiliaria",
             "fuente": "El País"
           },
           {
-            "titulo": "Irán contempla objetivos militares en Europa si Trump sigue escalando la guerra, según fuentes del régimen",
-            "link": "https://www.expansion.com/economia/financial-times/2026/08/19/6a855df1e5fdeaf1778b4595.html",
-            "resumen": "Las propuestas de represalia contra intereses estadounidenses fuera de Oriente Próximo surgen en un contexto en el que muchos en Teherán consideran inevitable la reanudación del conflicto. Leer",
+            "titulo": "España registra una caída de más de 16.000 vacantes de empleo en el segundo trimestre, la mayor desde 2008",
+            "link": "https://elpais.com/economia/2026-08-20/espana-registra-una-caida-de-mas-de-16000-vacantes-de-empleo-en-el-segundo-trimestre-la-mayor-desde-2008.html",
+            "resumen": "Las 143.359 plazas para las que no se encuentran trabajadores representan una tasa de puestos sin cubrir del 0,8%, una décima menos que a principios de año",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "España amplía la brecha de precios con el euro y ahonda en su pérdida de competitividad",
+            "link": "https://www.expansion.com/economia/2026/08/20/6a85eef3468aeb2e458b45a6.html",
+            "resumen": "La economía española suma 15 meses con una inflación superior a la media de la zona euro. En julio, el IPC armonizado en España se disparó al 3,9%, un punto por encima del 2,9% registrado en el bloque de la moneda única. Leer",
             "fuente": "Expansión"
-          },
-          {
-            "titulo": "Consumo sanciona a la empresa de alquiler de coches Avis con un millón de euros por cobrar la gestión de multas",
-            "link": "https://elpais.com/economia/2026-08-19/consumo-sanciona-a-la-empresa-de-alquiler-de-coches-avis-con-un-millon-de-euros-por-cobrar-la-gestion-de-multas.html",
-            "resumen": "El ministerio alega que se trata de una “práctica abusiva” y que “establece una carga económica desproporcionada” para el cliente",
-            "fuente": "El País"
           }
         ]
       },
@@ -78,9 +78,9 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "El colmillo del narval, un “cuerno mitológico” que se adelantó miles de años a la ingeniería de materiales",
-            "link": "https://elpais.com/ciencia/2026-08-18/el-colmillo-del-narval-un-cuerno-mitologico-que-se-adelanto-miles-de-anos-a-la-ingenieria-de-materiales.html",
-            "resumen": "Un estudio descifra la alargada espiral que emerge del cráneo de estos unicornios marinos, formada por dos capas dentales que crecen en sentidos opuestos y le confieren gran resistencia",
+            "titulo": "Dos geólogos explican la sucesión de terremotos de los últimos días: ¿qué sabemos y qué desconocemos?",
+            "link": "https://elpais.com/ciencia/2026-08-20/dos-geologos-explican-la-sucesion-de-terremotos-de-los-ultimos-dias-que-sabemos-y-que-desconocemos.html",
+            "resumen": "Certezas y dudas sobre la actividad sísmica que asusta a los habitantes de la provincia andaluza",
             "fuente": "El País"
           },
           {
@@ -90,9 +90,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "¿Por qué ha vuelto a temblar Granada? “Los dos terremotos están íntimamente relacionados”",
-            "link": "https://elpais.com/ciencia/2026-08-18/por-que-ha-vuelto-a-temblar-granada-los-dos-terremotos-estan-intimamente-relacionados.html",
-            "resumen": "La provincia ha registrado en estos días dos terremotos de magnitud cercana a 5 y decenas de réplicas, que se explican por el sistema de fallas bajo esa zona metropolitana",
+            "titulo": "Moderna y Merck anuncian el éxito de la primera vacuna personalizada contra el melanoma y sus acciones se disparan en Bolsa",
+            "link": "https://elpais.com/ciencia/2026-08-19/el-anuncio-del-exito-de-la-primera-vacuna-contra-el-melanoma-dispara-las-acciones-de-moderna-y-merck.html",
+            "resumen": "El avance se ha difundido en una nota de prensa en la que no se ofrecen datos concretos de mejora de supervivencia. De confirmarse, se trataría de un hito histórico",
             "fuente": "El País"
           },
           {
@@ -102,9 +102,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "El hallazgo de un perro sobre una pareja en una tumba del antiguo Egipto intriga a los científicos: “Es un detalle muy bello y realmente excepcional”",
-            "link": "https://elpais.com/ciencia/2026-08-18/el-hallazgo-de-un-perro-sobre-una-pareja-en-una-tumba-del-antiguo-egipto-intriga-a-los-cientificos-es-un-detalle-muy-bello-y-realmente-excepcional.html",
-            "resumen": "La disposición de las momias en un enterramiento tebano en Luxor muestra cómo las prácticas funerarias y sus implicaciones simbólicas cambiaron con el tiempo, según una nueva investigación con participación española",
+            "titulo": "Revolución en neuromedicina al lograr minicerebros humanos que se mantienen vivos durante años",
+            "link": "https://elpais.com/ciencia/2026-08-19/revolucion-en-neuromedicina-al-lograr-minicerebros-humanos-que-se-mantienen-vivos-durante-anos.html",
+            "resumen": "Investigadoras de Harvard crean un modelo que permite estudiar el cerebro hasta momentos del desarrollo ahora inalcanzables, abriendo la puerta a estudios más avanzados de sus enfermedades y posibles tratamientos",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Primer entrenamiento de Rodri con el Barça",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217543/primer-entrenamiento-rodri-barca.html",
-            "resumen": "\"Estoy listo para jugar ya\". Rodrigo Hernández fue claro en su presentación como jugador del FC Barcelona hasta 2030. Sin embargo, le queda aún carga de trabajo en una pretemporada que no empezó para él hasta el pasado viernes, cuando se…",
+            "titulo": "Deco augura \"algún movimiento\" para fichar en ataque",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217780/deco-avanza-movimiento-fichar-ataque.html",
+            "resumen": "Deco , director deportivo del FC Barcelona, s e felicitó al final del Trofeu Joan Gamper ganado ante el Al Ahly egipcio (2-1) por el fichaje de Rodri Hernández y avanzó que el equipo de Hansi Flick necesita un '9' para reemplazar a Robert…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Rodri: \"Me atrae mucho la idea valiente de Flick\"",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217296/presentacion-rodri.html",
-            "resumen": "Rodrigo Hernández, Rodri, nuevo mediocentro del FC Barcelona tras firmar hasta 2030, exhibió la madurez de sus 30 años en su presentación. Discurso ordenado propio de un futbolista con carrera académica ( Administración y Dirección de…",
+            "titulo": "Yuste evita más polémicas con el Atlético por Julián Álvarez",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004217830/yuste-evita-polemicas-atletico-julian-alvarez.html",
+            "resumen": "Rafael Yuste , vicepresidente deportivo del FC Barcelona , habló tras el Trofeu Joan Gamper en 'TV3' y fue preguntado por la situación del fichaje de Julián Álvarez . Pese al deseo expreso del argentino de querer salir del club…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "August 19, 2026",
-    "generada": "10:16",
+    "fecha": "August 20, 2026",
+    "generada": "10:17",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Sacked Ukrainian defence minister calls for presidential election",
-            "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+            "titulo": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+            "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
-            "link": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
-            "resumen": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country’s history, with at…",
+            "titulo": "More than 100 dead after goldmine collapses in Central African Republic",
+            "link": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
+            "resumen": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue More than 100 people have died after an artisanal goldmine at a small village in western Central African…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Ukraine’s Ex-Defense Minister Calls for Election, Cementing Break With Zelensky",
-            "link": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-fedorov-zelensky-elections.html",
-            "resumen": "Mykhailo Fedorov, a popular young leader who was fired last month, said Russia should not be allowed to dictate when Ukrainians can choose their next government.",
+            "titulo": "Bare Grocery Shelves Are a New Wartime Hardship for Ukrainians",
+            "link": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-grocery-stores-shortages.html",
+            "resumen": "After years of pounding power plants and cities, Russia’s air war has taken aim at Ukraine’s supermarket warehouses.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
-            "link": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
-            "resumen": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
+            "titulo": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+            "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
-            "link": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
-            "resumen": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on…",
+            "titulo": "Five Americans among seven killed in safari helicopter crash in Kenya",
+            "link": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
+            "resumen": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Jump in energy bills drives UK inflation to highest rate for four months",
-            "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
-            "resumen": "A 2.9% rise in inflation had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”.",
+            "titulo": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
+            "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
             "fuente": "BBC"
           },
           {
-            "titulo": "ABC sues Trump’s media regulator over demand for TV license renewals",
-            "link": "https://www.theguardian.com/us-news/2026/aug/18/abc-sues-trump-federal-communications-commission",
-            "resumen": "Network alleges FCC is trying to send ‘chilling message’ in retaliation for content the administration disapproves of ABC has sued the Federal Communications Commission (FCC), arguing that it is being retaliated against for content-based…",
+            "titulo": "US gross national debt tops $40tn for first time",
+            "link": "https://www.theguardian.com/us-news/2026/aug/19/us-debt-40-trillion",
+            "resumen": "Milestone marks years of government spending that grew under both Donald Trump and Joe Biden US debt reached $40tn for the first time on Wednesday, the US treasury department said, after the government deficit doubled over the last…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Many Student Loan Borrowers May Have to Switch to Worse Repayment Plans",
-            "link": "https://www.nytimes.com/2026/08/19/business/student-loans-ibr-paye.html",
-            "resumen": "In an usual move, Congress worsened terms for some existing borrowers. Now they’ll have to pay more, and for a longer term.",
+            "titulo": "Moderna’s Shift to Cancer Company Lifts Stock Up 177%",
+            "link": "https://www.nytimes.com/2026/08/20/business/moderna-cancer-melanoma.html",
+            "resumen": "The company’s fortunes cratered as demand for Covid-19 vaccines plummeted. But it was busy working on something else.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
-            "link": "https://www.bbc.co.uk/news/articles/cwyjqe62574o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The consumer watchdog said they were trying to find out if the three companies were not showing full prices upfront to customers.",
+            "titulo": "Trump vows tougher economic measures on Iran and supporting countries",
+            "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+            "resumen": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Oil prices jump after US-Iran ceasefire expires and Trump threatens Oman",
-            "link": "https://www.theguardian.com/business/2026/aug/18/oil-prices-rise-us-iran-brent-crude-donald-trump",
-            "resumen": "Brent crude rises above $90 a barrel for the first time since 30 July after US president tells Tehran to surrender Business live – latest updates Oil prices have risen again after the two-month window to negotiate a peace deal in the…",
+            "titulo": "Revealed: FCC chair Brendan Carr’s close coordination with White House and rightwing media",
+            "link": "https://www.theguardian.com/media/ng-interactive/2026/aug/19/brendan-carr-fcc-white-house-exclusive",
+            "resumen": "Internal documents obtained by Guardian show White House meetings, scheduled calls with top Trump officials and communications with Fox News producers Continue reading...",
             "fuente": "The Guardian"
           }
         ]
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "How soon will the drought be over?",
-            "link": "https://www.bbc.co.uk/news/articles/c0kmlrkypjpo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Rain has returned to parts of the UK this week but is it enough to end the drought some regions are facing?",
+            "titulo": "Rain to continue for UK with risk of flash flooding",
+            "link": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The prolonged dry spell has come to an end with heavy, thundery showers continuing to sweep across the UK, as Ben Rich explains.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Shrews may grow bigger snouts in winter to cope with cold air, scientists say",
-            "link": "https://www.theguardian.com/environment/2026/aug/19/shrews-bigger-snouts-winter-cold-air",
-            "resumen": "Study of long-clawed shrew skulls from Japan shows that while skulls get smaller in winter, snouts elongate Humans turn to heated blankets and fluffy socks to cope with winter, but long-clawed shrews have a very different adaptation: they…",
+            "titulo": "Astronomers detect fastest known star in Milky Way",
+            "link": "https://www.theguardian.com/science/2026/aug/19/astronomers-detect-fastest-known-star-in-milky-way-s301",
+            "resumen": "Star’s extreme proximity to Sagittarius A* means it could open new window onto black hole’s fundamental properties Astronomers have detected the fastest known star in the Milky Way, hurtling around the supermassive black hole at the heart…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Humans Love Having Pets. Seems Like Some Other Primates Do, Too.",
-            "link": "https://www.nytimes.com/2026/08/18/science/primates-pets.html",
-            "resumen": "We aren’t the only animals that like to take care of other species. A new study finds that the roots of keeping a pet may stretch deep into our primate past.",
+            "titulo": "NASA’s Attempt to Save the Swift Telescope Has Failed",
+            "link": "https://www.nytimes.com/2026/08/19/science/nasa-swift-telescope-failed-rescue.html",
+            "resumen": "NASA’s Swift Observatory, which studies some of the most powerful explosions in the universe, will soon burn up in the atmosphere.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Watch: Flash flood sweeps vehicle away in Hawaii after Hurricane Lala",
-            "link": "https://www.bbc.co.uk/news/videos/c2el0wd0w3go?at_medium=RSS&at_campaign=rss",
-            "resumen": "Tropical storm warnings remain for some of the state's islands, as the storm is due to progress west.",
+            "titulo": "Giant whales move into Greenland waters as ice disappears",
+            "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+            "resumen": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
             "fuente": "BBC"
           },
           {
-            "titulo": "The ultra rich are collecting fossils. And that’s bad for science - video",
-            "link": "https://www.theguardian.com/science/video/2026/aug/18/the-ultra-rich-are-collecting-fossils-and-thats-bad-for-science",
-            "resumen": "One of the UK’s best fossil collections has been sold overseas in what experts have called a loss to the nation. The collection, which is now on display at the Natural History Museum in Abu Dhabi, was gathered on Dorset’s Jurassic Coast.…",
+            "titulo": "It’s finally raining. Will it be enough to end the drought? – podcast",
+            "link": "https://www.theguardian.com/science/audio/2026/aug/20/its-finally-raining-will-it-be-enough-to-end-the-drought-podcast",
+            "resumen": "After a summer that has seen England and Wales experience the driest July since records began, rain is finally on the horizon. But with reservoirs at ‘exceptionally low’ levels, will there be enough rain to replenish stocks? Madeleine…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "How will your club fare? Phil McNulty's Premier League predictions",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo?at_medium=RSS&at_campaign=rss",
-            "resumen": "How will your club fare in the 2026-27 Premier League? BBC chief football writer Phil McNulty makes his annual predictions.",
+            "titulo": "Premier League predictions 2026-27: BBC Sport pundits pick their top four",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cp8edryd7plo?at_medium=RSS&at_campaign=rss",
+            "resumen": "We ask 26 BBC Sport football pundits to predict who will win the 2026-27 Premier League title, and which clubs will finish in the top four.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Israel withdraws support for embattled Fifa president Gianni Infantino",
-            "link": "https://www.theguardian.com/football/2026/aug/18/israel-withdraws-support-for-embattled-fifa-president-gianni-infantino",
-            "resumen": "IFA points to ‘unprecedented crisis of confidence’ Premier League chief says Infantino ‘hit self-destruct’ Gianni Infantino’s decision to sack his chief operating officer, Kevin Lamour, after the Frenchman’s criticism of the World Cup…",
+            "titulo": "Fifth Fifa vice-president turns against Infantino, saying he has ‘lost confidence’ in him",
+            "link": "https://www.theguardian.com/football/2026/aug/19/fifth-fifa-vice-president-turns-against-infantino-saying-he-has-lost-confidence-in-him",
+            "resumen": "Hungary’s Sandor Csanyi highly critical of Fifa president He cites dismissal of COO Kevin Lamour as ‘final straw’ Gianni Infantino has lost the support of another one of Fifa’s vice-presidents, with the Hungarian football federation…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Kyrgios suspended after positive cocaine test",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss",
-            "resumen": "Nick Kyrgios is provisionally suspended from tennis after testing positive for cocaine.",
+            "titulo": "Verstappen extends Red Bull deal to 2030",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/c20j3j2mnpxo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Four-time world champion Max Verstappen signs a contract extension with Red Bull, keeping him with the Formula One team until 2030.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Brewers shell Mariners 22-0, tied for largest shutout win in 139 years",
-            "link": "https://www.theguardian.com/sport/2026/aug/18/brewers-mariners-22-0-modern-era-shutout-record",
-            "resumen": "Milwaukee match major-league record dating to 1887 Yelich, Hamilton and Lara hit three-run home runs Catcher Sánchez completes five-hitter with slowballs The Milwaukee Brewers matched baseball’s modern-era record for the biggest shutout,…",
+            "titulo": "Dallas Wings’ No 1 overall pick Azzi Fudd ruled out for remainder of season",
+            "link": "https://www.theguardian.com/sport/2026/aug/19/azzi-fudd-knee-injury-dallas-wings-wnba-season",
+            "resumen": "No 1 draft pick to undergo arthroscopic procedure Fudd has not played for Dallas since 5 August Rookie guard averaged 13.1 points in 30 games Dallas Wings rookie guard Azzi Fudd will miss the remainder of the WNBA season because of…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Antonelli - the boy 'born in a garage' who started driving on dad's lap",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he went on to lead the F1 drivers' championship at the age of 19.",
+            "titulo": "Tottenham in talks to sign Man City's Savinho and Marmoush",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cz645z0w3ypo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Spurs open talks with Manchester City to sign attacking duo Omar Marmoush and Savinho.",
             "fuente": "BBC"
           }
         ]

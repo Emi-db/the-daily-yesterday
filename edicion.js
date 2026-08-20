@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "19 de agosto de 2026",
-  "generada": "10:16",
+  "fecha": "20 de agosto de 2026",
+  "generada": "10:17",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Nueva encuesta: quiénes son los gobernadores con peor y mejor imagen del país",
-          "link": "https://www.clarin.com/politica/nueva-encuesta-gobernadores-peor-mejor-imagen-pais_0_UkNLhfTSCy.html",
-          "resumen": "Es el último estudio de CB Global Data. Midió a cada mandatario en su provincia. Hizo un ranking con los 8 mejores, los 8 del medio y los 8 peores. Sorpresas arriba y abajo de la tabla.",
+          "titulo": "Guardias fantasmas por $400 millones y licitaciones sospechosas: la caja negra de un hospital bonaerense controlado por el kirchnerismo",
+          "link": "https://www.clarin.com/politica/guardias-fantasmas-400-millones-licitaciones-sospechosas-caja-negra-hospital-bonaerense-controlado-kirchnerismo_0_4nMYAcUgOS.html",
+          "resumen": "El Dique, un hospital de rehabilitación, simula guardias mediante prestanombres. El esquema permite desviar fortunas del presupuesto sanitario desde 2024.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: el armado electoral de cara al 2027 y la detención de Cerimedo",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-armado-electoral-de-cara-al-2027-y-la-detencion-de-cerimedo-nid19082026/",
+          "titulo": "Milei habla en el Council of the Americas, en vivo: las últimas medidas y el minuto a minuto",
+          "link": "https://www.lanacion.com.ar/politica/milei-habla-en-el-council-of-the-americas-en-vivo-las-ultimas-medidas-y-el-minuto-a-minuto-nid20082026/",
           "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La CIDH avanza contra el Estado argentino en el histórico conflicto de tierras mapuches en Villa La Angostura",
-          "link": "https://www.infobae.com/politica/2026/08/19/la-cidh-avanza-contra-el-estado-argentino-en-el-historico-conflicto-de-tierras-mapuches-en-villa-la-angostura/",
-          "resumen": "La Comisión Interamericana de Derechos Humanos le informó formalmente al Gobierno que abrió la etapa de fondo del caso que involucra a una comunidad que usurpó un predio perteneciente al municipio. El expediente reactiva un conflicto…",
+          "titulo": "La Rioja reformó su Justicia Electoral: cómo serán las nuevas competencias y el control a los partidos",
+          "link": "https://www.infobae.com/politica/2026/08/20/la-rioja-reformo-su-justicia-electoral-como-seran-las-nuevas-competencias-y-el-control-a-los-partidos/",
+          "resumen": "La reforma no solo redefinirá la integración del Tribunal Electoral, sino que otorgará autonomía financiera al organismo y estableció la creación de un Registro Provincial de Electores",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Se dilata en el Senado el debate sobre el Súper RIGI y el Gobierno busca contener el voto de los aliados",
-          "link": "https://www.clarin.com/politica/dilata-senado-debate-super-rigi-gobierno-busca-contener-voto-aliados_0_CI3lOkx2XN.html",
-          "resumen": "Carlos Guberman concurrirá a un plenario de comisiones para responder a las dudas de los dialoguistas. En el oficialismo confían que la propuesta tendrá dictamen la próxima semana.",
+          "titulo": "Patricia Bullrich: \"No me tomaría un café con Máximo, pero sí con Cristina\"",
+          "link": "https://www.clarin.com/politica/patricia-bullrich-tomaria-cafe-maximo-cristina_0_29SeH1blCo.html",
+          "resumen": "La senadora nacional inaugura un ciclo de entrevistas cara a cara que Clarín publicará en su web, en Youtube y en las redes sociales. Una charla sobre su vida, sus afectos, un posible encuentro con Cristina y sus ganas de competir por la…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Nadia Beller, expareja de Cerimedo: “Fernando me dijo que la hermana de Milei estaba involucrada con la corrupción”",
-          "link": "https://www.lanacion.com.ar/politica/nadia-beller-expareja-de-cerimedo-fernando-me-dijo-que-la-hermana-de-milei-estaba-involucrada-con-la-nid18082026/",
-          "resumen": "La mujer que fue baleada en Santa Cruz de la Sierra habló con LA NACION desde la clínica donde está internada; relató que su exnovio le contó que se había alejado del presidente argentino porque tenía “un entorno demasiado podrido”; su…",
+          "titulo": "Los hilos de la diplomacia del submundo",
+          "link": "https://www.lanacion.com.ar/politica/los-hilos-de-la-diplomacia-del-submundo-nid19082026/",
+          "resumen": "La democracia puede mirarse en la opaca saga de Cerimedo y descubrir algunos de los vicios que la están desfigurando; el caso del exasesor de Milei revela las particularidades de una casta lumpen que opera en el bajo fondo de las redes",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Dólar blue hoy: a cuánto cotiza este miércoles 19 de agosto",
-          "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-miercoles-19-agosto_0_YsUrNsO6IO.html",
-          "resumen": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
+          "titulo": "\"Hay mucha ansiedad\": la mirada en fondos y bancos de Wall Street sobre la Argentina",
+          "link": "https://www.clarin.com/economia/mucha-ansiedad-mirada-fondos-bancos-wall-street-argentina_0_bLNCYVw5uO.html",
+          "resumen": "En Nueva York ven un clima más adverso por factores externos, pero también por las encuestas. Inquietan los datos de actividad y empleo. El riesgo país subió 20% en tres semanas.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "“Enterramos la corrupción”: el lugar donde estaba la empresa insignia de Lázaro Báez ahora es una fábrica de invernaderos",
-          "link": "https://www.lanacion.com.ar/economia/campo/enterramos-la-corrupcion-el-lugar-donde-estaba-la-empresa-insignia-de-lazaro-baez-ahora-es-una-nid18082026/",
-          "resumen": "En la exsede de Austral Construcciones en Santa Cruz hacen módulos móviles a medida; los detalles",
+          "titulo": "Alfonso Monasterio: “Siento la obligación de honrar todos los días la empresa que fundó mi abuelo hace 75 años”",
+          "link": "https://www.lanacion.com.ar/economia/campo/alfonso-monasterio-siento-la-obligacion-de-honrar-todos-los-dias-la-empresa-que-fundo-mi-abuelo-hace-nid20082026/",
+          "resumen": "El consignatario recuerda las enseñanzas de su abuelo y de su padre, repasa los momentos clave de la firma y explica cómo logró transformar un negocio familiar sin perder su esencia",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La canasta de crianza subió por encima de la inflación en julio: cuánto cuesta mantener a un hijo",
-          "link": "https://www.ambito.com/economia/la-canasta-crianza-subio-encima-la-inflacion-julio-cuanto-cuesta-mantener-un-hijo-n6312235",
-          "resumen": "El costo mensual de criar a un niño se ubicó entre $545.683 y $697.268, según la edad. Todas las franjas registraron aumentos superiores al IPC del 2,1% informado para el séptimo mes del año.",
+          "titulo": "Exportaciones: brotan los primeros efectos de los acuerdos con EEUU y la UE, con la carne como producto estrella",
+          "link": "https://www.ambito.com/economia/exportaciones-brotan-los-primeros-efectos-los-acuerdos-eeuu-y-la-ue-la-carne-como-producto-estrella-n6312644",
+          "resumen": "Los acuerdos comerciales se suman a la cosecha récord, el boom de Vaca Muerta, la mejora de precios y medidas como la quita de retenciones, todos factores que impulsan las ventas a otros países.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "La economía crece un cuarto de lo que crecía el año pasado y esa es la única verdad",
-          "link": "https://www.clarin.com/economia/economia-crece-cuarto-crecia-ano-pasado-unica-verdad_0_grfcGsR8Up.html",
-          "resumen": "No se trata de la salud del Presidente, qué tan usureras resultan las tasas o el rol de Karina Milei. El hecho es que la economía sufrió una fuerte desaceleración en el primer semestre como confirmará este jueves el Indec. Qué podría…",
+          "titulo": "Créditos en dólares: las cinco claves de los nuevos préstamos que habilitó el Banco Central",
+          "link": "https://www.clarin.com/economia/creditos-dolares-claves-nuevos-prestamos-habilito-banco-central_0_KvHGihrdCz.html",
+          "resumen": "El Gobierno espera que la medida contribuya a que mejore la actividad. Cuáles son las tasas que podrían aplicarse.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El riesgo país saltó a 511 puntos y se despegó de sus pares emergentes",
-          "link": "https://www.lanacion.com.ar/economia/el-riesgo-pais-salto-a-511-puntos-y-se-despego-de-sus-pares-emergentes-nid18082026/",
-          "resumen": "Mientras el indicador subió más de 100 puntos desde comienzos de julio en la Argentina, el promedio regional casi no se movió; analistas señalan factores internacionales y técnicos, pero también un mayor riesgo político y dudas por la…",
+          "titulo": "El Gobierno autorizó el llamado a licitación para la privatización de las líneas Belgrano, San Martín y Urquiza",
+          "link": "https://www.lanacion.com.ar/economia/el-gobierno-autorizo-el-llamado-a-licitacion-para-la-privatizacion-de-las-lineas-belgrano-san-martin-nid20082026/",
+          "resumen": "Las tres concesiones comprenderán 7594 kilómetros de vías actualmente operativas, distribuidas en 16 provincias; la medida había sido anunciada por Caputo",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "El argentino Rafael Grossi encabezó una misión en Siria para inspeccionar instalaciones nucleares",
-          "link": "https://www.clarin.com/mundo/argentino-rafael-grossi-encabezo-mision-siria-monitorear-actividades-nucleares_0_d27qEBfv7l.html",
-          "resumen": "Lo hizo como director del Organismo Internacional de la Energía Atómica (OIEA) y confirmó el hallazgo de varias toneladas de uranio, que quedarán bajo la supervisión de su agencia. Destacó la cooperación de las actuales autoridades de ese…",
+          "titulo": "Trump anunció una \"ofensiva económica sin precedentes\" para aislar a Irán y lanzó una fuerte advertencia contra los países que lo ayuden",
+          "link": "https://www.clarin.com/mundo/trump-anuncio-ofensiva-economica-precedentes-aislar-iran-lanzo-fuerte-advertencia-paises-ayuden_0_fkDDT9EAfn.html",
+          "resumen": "La iniciativa implica una nueva fase de la presión sobre Teherán, luego de que el presidente estadounidense rechazara el diálogo con la república islámica. EE.UU. busca cortar las herramientas para eludir las sanciones económicas como el…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Los animales “mutantes” de Chernobyl: ranas decoloradas, arañas perdidas y albinismo incrementado",
-          "link": "https://www.lanacion.com.ar/el-mundo/los-animales-mutantes-de-chernobyl-ranas-decoloradas-aranas-perdidas-y-albinismo-incrementado-nid18082026/",
-          "resumen": "A 40 años de la tragedia nuclear que arrasó con la ciudad ucraniana, todavía se ven manadas que resisten a la radiación",
+          "titulo": "Un helicóptero turístico se estrelló en una zona remota de Kenia: murió el jefe de inteligencia de Ecuador y su esposa",
+          "link": "https://www.lanacion.com.ar/el-mundo/un-helicoptero-turistico-se-estrello-en-una-zona-remota-de-kenia-murio-el-jefe-de-inteligencia-de-nid19082026/",
+          "resumen": "El accidente, en el que también fallecieron otras cinco personas, ocurrió a las 9.13 (hora local) cuando la aeronave volaba desde la Reserva Natural de Loisaba hacia la zona de Ewaso Nyiro, en el condado de Samburu",
           "fuente": "La Nación"
         },
         {
-          "titulo": "¿Por qué Donald Trump ahora amenaza a Omán?",
-          "link": "https://www.clarin.com/mundo/donald-trump-ahora-amenaza-oman_0_vBVDGaPp8N.html",
-          "resumen": "El presidente de Estados Unidos está molesto con el acuerdo que ese pequeño país está por alcanzar con Irán sobre el tránsito por el estrecho de Ormuz. Las claves de una guerra que se extiende y debilita al gobierno de Washington.",
+          "titulo": "Escándalo en Francia por el hackeo al fisco: quedan expuestos los datos de 700 mil personas y empresas",
+          "link": "https://www.clarin.com/mundo/escandalo-francia-hackeo-fisco-quedan-expuestos-datos-700-mil-personas-empresas_0_PxeqRVVtfo.html",
+          "resumen": "El ataque fue adjudicado al grupo de piratas informáticos ZeroBytes. El precio solicitado por los datos se fijó en varios miles de euros. Y habrían sido vendidos a terceros para campañas de phishing o robo de identidad.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El plan ambicioso de la NASA para Artemis III: tres cohetes, dos acoplamientos en órbita y una operación sin precedentes",
-          "link": "https://www.lanacion.com.ar/el-mundo/el-plan-ambicioso-de-la-nasa-para-artemis-iii-tres-cohetes-dos-acoplamientos-en-orbita-y-una-nid19082026/",
-          "resumen": "La expedición, prevista para 2027, pondrá a prueba sistemas clave; los resultados serán fundamentales para las próximas misiones que encare la agencia",
+          "titulo": "El escándalo de Cerimedo golpea todavía más al presidente Rodrigo Paz en medio de una grave crisis económica y política",
+          "link": "https://www.lanacion.com.ar/el-mundo/el-escandalo-de-cerimedo-golpea-todavia-mas-al-presidente-rodrigo-paz-en-medio-de-una-crisis-nid19082026/",
+          "resumen": "El asesor presidencial era una figura de máxima confianza; su detención se produce cuando el gobierno enfrenta un Congreso fragmentado y una creciente conflictividad social",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Suspenden los vuelos en helicóptero en Río de Janeiro de cuatro empresas tras una seguidilla de accidentes que dejó 13 muertos",
-          "link": "https://www.clarin.com/mundo/suspenden-vuelos-helicoptero-rio-janeiro-empresas-seguidilla-accidentes-dejo-13-muertos_0_ss10zLN7TX.html",
-          "resumen": "La ANAC brasileña tomó la medida contra las firmas que ofrecían vuelos panorámicos. Según descubrieron, las compañías manipulaban los registros de tiempo de vuelo para ahorrar en mantenimiento.",
+          "titulo": "Por primera vez, la deuda pública de Estados Unidos supera los 40 billones de dólares y se acerca a niveles de la Segunda Guerra Mundial",
+          "link": "https://www.clarin.com/mundo/primera-vez-deuda-publica-estados-unidos-supera-40-billones-dolares-acerca-niveles-segunda-guerra-mundial_0_94awPga1Gd.html",
+          "resumen": "El nuevo récord se alcanzó apenas cinco meses después de que el monto sobrepasó los 39 billones. Actualmente, el déficit fiscal del país es de dos billones de dólares anuales sus ingresos fiscales.",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "La recta final de Franco Colapinto en la Fórmula 1 2026: los circuitos que le quedan, antecedentes y cómo le puede ir",
-          "link": "https://www.clarin.com/deportes/recta-final-franco-colapinto-formula-1-2026-circuitos-quedan-antecedentes-puede-ir_0_GIVdWFrLc9.html",
-          "resumen": "Este fin de semana comienzan las últimas 12 carreras del campeonato de F1. El argentino tendrá dos escenarios inéditos: Madrid y Sepang. Toda la data de los Grandes Premios que se vienen, con infografías, fotos y más.",
+          "titulo": "La vida de Mattia Colnaghi, el \"europibe\" argentino que sueña con la Fórmula 1: \"Todavía es un poco temprano, pero la vamos a luchar\"",
+          "link": "https://www.clarin.com/deportes/vida-mattia-colnaghi-europibe-argentino-suena-formula-1-todavia-temprano-vamos-luchar_0_ZkGFDLM4ew.html",
+          "resumen": "Tiene 18 años y nació en Italia, pero representa a la Argentina, el país de su mamá. Después de un arranque complicado, sumó cuatro cuartos puestos y va por más en las dos fechas que quedan: \"Creo que se puede ganar\". Integrante de la…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El tenista Nick Kyrgios, exfinalista en Wimbledon, dio positivo por cocaína y quedó suspendido",
-          "link": "https://www.lanacion.com.ar/deportes/el-tenista-nick-kyrgios-exfinalista-en-wimbledon-dio-positivo-por-cocaina-y-quedo-suspendido-nid19082026/",
-          "resumen": "El australiano publicó un mensaje en que habló sobre lo ocurrido",
+          "titulo": "Verstappen firmó contrato con Red Bull hasta 2030 y acalló los rumores sobre su futuro en la F1",
+          "link": "https://www.lanacion.com.ar/deportes/automovilismo/verstappen-firmo-contrato-con-red-bull-hasta-2030-y-acallo-los-rumores-sobre-su-futuro-en-la-f1-nid20082026/",
+          "resumen": "La noticia fue anunciada por la escudería en plena preparación del Gran Premio de Zandvoort",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Con formación inédita, River se juega mucho vs. Independiente Santa Fe en la Sudamericana",
-          "link": "https://www.ole.com.ar/river-plate/river-plate-independiente-santa-fe-copa-sudamericana-octavos-final-ida-coudet-formacion-colombia-ver-almada-correa_0_QWgLSHGxcU.html",
-          "resumen": "Tras el triunfo que descomprimió, abre la serie de octavos en la altura de Bogotá. Coudet improvisa en los laterales y pone a las estrellas arriba.",
+          "titulo": "Valentín Perrone con Olé: la patriada frente a los ingleses, el Topo Gigio que no pudo aplicarles y el sueño del Gálvez",
+          "link": "https://www.ole.com.ar/autos/valentin-perrone-entrevista-ole-camiseta-argentina-ingleses-topo-gigio-autodromo-galvez_0_sau0SNRL4a.html",
+          "resumen": "El Coyote, piloto argentino de Moto3, vino al país y aprovechó para visitar el autódromo Oscar y Juan Gálvez. En un mano a mano con este diario, recordó su podio en Silverstone y palpitó el GP de Argentina.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Las Leonas vs Escocia, por el Mundial de Hockey 2026: minuto a minuto, en directo",
-          "link": "https://www.clarin.com/deportes/leonas-vs-escocia-mundial-hockey-2026-minuto-minuto-directo_0_JF6WXQqdxr.html",
-          "resumen": "Argentina busca la clasificación ante las británicas, en el cierre del Grupo B. El equipo de Fernando Ferrara empató con Estados Unidos y le ganó a Alemania. El certamen se disputa en las sedes de Bélgica y Países Bajos.",
+          "titulo": "Luto y dolor en el turf: murió el jockey Leandro Henrique, tras caer abruptamente de su caballo en plena carrera",
+          "link": "https://www.clarin.com/deportes/luto-dolor-turf-murio-jockey-leandro-henrique-caer-abruptamente-caballo-plena-carrera_0_oqYwB8cwa7.html",
+          "resumen": "El jinete brasileño tuvo la caída este domingo cuando disputaba la segunda competencia del programa del Jockey Club Brasileiro. Tenía 27 años. El accidente se produjo cuando su caballo se salió de la pista y saltó las vallas. Estuvo…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Partidos de hoy, miércoles 19 de agosto: horarios y por dónde ver en vivo online",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/partidos-de-hoy-miercoles-19-de-agosto-horarios-y-por-donde-ver-en-vivo-online-nid19082026/",
-          "resumen": "En la agenda del día se destacan la continuidad de los octavos de las copas Libertadores y Sudamericana; la presentación de Racing en la Copa Argentina y de Lionel Messi en Inter Miami",
+          "titulo": "Flamengo le ganó a Cruzeiro 2-1 y lo eliminó de la Copa Libertadores con un show de golazos en el Maracaná",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/flamengo-le-gano-a-cruzeiro-2-1-y-lo-elimino-de-la-copa-libertadores-con-un-show-de-golazos-en-el-nid20082026/",
+          "resumen": "El conjunto de Rio de Janeiro se aseguró el pase a cuartos de la mano de De Arrascaeta y Samuel Lino, mientras que el argentino Lucas Romero anotó para los visitantes; la serie terminó con un global de 3-2",
           "fuente": "La Nación"
         }
       ]
