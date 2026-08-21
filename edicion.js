@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "20 de agosto de 2026",
+  "fecha": "21 de agosto de 2026",
   "generada": "10:17",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Guardias fantasmas por $400 millones y licitaciones sospechosas: la caja negra de un hospital bonaerense controlado por el kirchnerismo",
-          "link": "https://www.clarin.com/politica/guardias-fantasmas-400-millones-licitaciones-sospechosas-caja-negra-hospital-bonaerense-controlado-kirchnerismo_0_4nMYAcUgOS.html",
-          "resumen": "El Dique, un hospital de rehabilitación, simula guardias mediante prestanombres. El esquema permite desviar fortunas del presupuesto sanitario desde 2024.",
+          "titulo": "\"Sí hay una pistola en la cabeza\": Kicillof en una cruzada contra Milei por el endeudamiento y la morosidad de las familias",
+          "link": "https://www.clarin.com/politica/pistola-cabeza-kicillof-cruzada-milei-endeudamiento-morosidad-familias_0_KZl9eQ58r8.html",
+          "resumen": "El gobernador bonaerense cuestionó la inacción de Nación y anunció medidas desde la Provincia. La oposición tomó el tema: Quintela sacó un DNU en La Rioja y fue el eje de la marcha de la CGT, las CTA y organizaciones sociales.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Milei habla en el Council of the Americas, en vivo: las últimas medidas y el minuto a minuto",
-          "link": "https://www.lanacion.com.ar/politica/milei-habla-en-el-council-of-the-americas-en-vivo-las-ultimas-medidas-y-el-minuto-a-minuto-nid20082026/",
+          "titulo": "Javier Milei y sus medidas, en vivo: el aumento de la morosidad bancaria y las primeras alianzas de cara a 2027",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-aumento-de-la-morosidad-bancaria-y-las-primeras-alianzas-de-nid21082026/",
           "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La Rioja reformó su Justicia Electoral: cómo serán las nuevas competencias y el control a los partidos",
-          "link": "https://www.infobae.com/politica/2026/08/20/la-rioja-reformo-su-justicia-electoral-como-seran-las-nuevas-competencias-y-el-control-a-los-partidos/",
-          "resumen": "La reforma no solo redefinirá la integración del Tribunal Electoral, sino que otorgará autonomía financiera al organismo y estableció la creación de un Registro Provincial de Electores",
+          "titulo": "Argentina Week en París: la agenda de Milei con empresarios, encuentros de inversión y Emmanuel Macron",
+          "link": "https://www.infobae.com/politica/2026/08/21/argentina-week-en-paris-la-agenda-de-milei-con-empresarios-encuentros-de-inversion-y-emmanuel-macron/",
+          "resumen": "El encuentro se hará entre el 30 de septiembre y el 2 de octubre, con citas en la OCDE, la Agencia Internacional de Energía y la Cámara Internacional de Comercio",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Patricia Bullrich: \"No me tomaría un café con Máximo, pero sí con Cristina\"",
-          "link": "https://www.clarin.com/politica/patricia-bullrich-tomaria-cafe-maximo-cristina_0_29SeH1blCo.html",
-          "resumen": "La senadora nacional inaugura un ciclo de entrevistas cara a cara que Clarín publicará en su web, en Youtube y en las redes sociales. Una charla sobre su vida, sus afectos, un posible encuentro con Cristina y sus ganas de competir por la…",
+          "titulo": "Una nueva encuesta preguntó qué sería lo peor para el país en la elección 2027 y salió 43% a 42%",
+          "link": "https://www.clarin.com/politica/nueva-encuesta-pregunto-peor-pais-eleccion-2027-salio-43-42_0_PFBj0fdqkB.html",
+          "resumen": "Es el último estudio nacional que presentó la consultora QSocial. También preguntó sobre cambio vs. continuidad y si la oposición está preparada para gobernar.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Los hilos de la diplomacia del submundo",
-          "link": "https://www.lanacion.com.ar/politica/los-hilos-de-la-diplomacia-del-submundo-nid19082026/",
-          "resumen": "La democracia puede mirarse en la opaca saga de Cerimedo y descubrir algunos de los vicios que la están desfigurando; el caso del exasesor de Milei revela las particularidades de una casta lumpen que opera en el bajo fondo de las redes",
+          "titulo": "Al Caribe en avión privado: el viaje de Massa con su esposa y amigos en medio del retorno a la discusión electoral",
+          "link": "https://www.lanacion.com.ar/politica/al-caribe-en-avion-privado-el-viaje-de-massa-con-su-esposa-y-amigos-en-medio-del-retorno-a-la-nid20082026/",
+          "resumen": "Después de la última cumbre peronista se fue una semana a Barbados, a donde llegó en un jet de Francisco De Narváez; salió desde Uruguay y regresó por Paraguay; quiénes lo acompañaron",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "\"Hay mucha ansiedad\": la mirada en fondos y bancos de Wall Street sobre la Argentina",
-          "link": "https://www.clarin.com/economia/mucha-ansiedad-mirada-fondos-bancos-wall-street-argentina_0_bLNCYVw5uO.html",
-          "resumen": "En Nueva York ven un clima más adverso por factores externos, pero también por las encuestas. Inquietan los datos de actividad y empleo. El riesgo país subió 20% en tres semanas.",
+          "titulo": "Mora récord: las fintech se defienden de las críticas por las tasas y piden bajar impuestos",
+          "link": "https://www.clarin.com/economia/mora-record-fintech-defienden-criticas-tasas-piden-bajar-impuestos_0_8DeuKGI2oJ.html",
+          "resumen": "En medio del creciente endeudamiento de las familias y la presión política sobre las billeteras, el sector asegura que incluyó a 3,8 millones de personas sin acceso a la banca formal. Señalan que un tercio del costo de los créditos…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Alfonso Monasterio: “Siento la obligación de honrar todos los días la empresa que fundó mi abuelo hace 75 años”",
-          "link": "https://www.lanacion.com.ar/economia/campo/alfonso-monasterio-siento-la-obligacion-de-honrar-todos-los-dias-la-empresa-que-fundo-mi-abuelo-hace-nid20082026/",
-          "resumen": "El consignatario recuerda las enseñanzas de su abuelo y de su padre, repasa los momentos clave de la firma y explica cómo logró transformar un negocio familiar sin perder su esencia",
+          "titulo": "Los pases más relevantes del mercado corporativo en 2026",
+          "link": "https://www.lanacion.com.ar/economia/negocios/los-pases-mas-relevantes-del-mercado-corporativo-en-2026-nid20082026/",
+          "resumen": "",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Exportaciones: brotan los primeros efectos de los acuerdos con EEUU y la UE, con la carne como producto estrella",
-          "link": "https://www.ambito.com/economia/exportaciones-brotan-los-primeros-efectos-los-acuerdos-eeuu-y-la-ue-la-carne-como-producto-estrella-n6312644",
-          "resumen": "Los acuerdos comerciales se suman a la cosecha récord, el boom de Vaca Muerta, la mejora de precios y medidas como la quita de retenciones, todos factores que impulsan las ventas a otros países.",
+          "titulo": "Compras en Free Shop en dólares: qué tipo de cambio aplica y cómo no conviene pagar",
+          "link": "https://www.ambito.com/economia/compras-free-shop-dolares-que-tipo-cambio-aplica-y-como-no-conviene-pagar-n6312302",
+          "resumen": "Los precios aparecen en moneda estadounidense, pero la forma de cancelar la operación puede cambiar cuánto terminas desembolsando en pesos.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Créditos en dólares: las cinco claves de los nuevos préstamos que habilitó el Banco Central",
-          "link": "https://www.clarin.com/economia/creditos-dolares-claves-nuevos-prestamos-habilito-banco-central_0_KvHGihrdCz.html",
-          "resumen": "El Gobierno espera que la medida contribuya a que mejore la actividad. Cuáles son las tasas que podrían aplicarse.",
+          "titulo": "El GNL pone fecha al salto exportador y el oro invierte, mientras el cobre y el petróleo maduro definen su futuro",
+          "link": "https://www.clarin.com/energia-y-mineria/gnl-pone-fecha-salto-exportador-oro-invierte-cobre-petroleo-maduro-definen-futuro_0_UznidTAhg4.html",
+          "resumen": "Southern Energy, la compañía de GNL liderada por Pan American Energy (PAE), confirmó que prevé comenzar a exportar en octubre de 2027. Glencore estima volver a producir cobre de Bajo de la Alumbrera el próximo año.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El Gobierno autorizó el llamado a licitación para la privatización de las líneas Belgrano, San Martín y Urquiza",
-          "link": "https://www.lanacion.com.ar/economia/el-gobierno-autorizo-el-llamado-a-licitacion-para-la-privatizacion-de-las-lineas-belgrano-san-martin-nid20082026/",
-          "resumen": "Las tres concesiones comprenderán 7594 kilómetros de vías actualmente operativas, distribuidas en 16 provincias; la medida había sido anunciada por Caputo",
+          "titulo": "Los nuevos CEO de 2026",
+          "link": "https://www.lanacion.com.ar/economia/negocios/los-nuevos-ceo-de-2026-nid21082026/",
+          "resumen": "",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Trump anunció una \"ofensiva económica sin precedentes\" para aislar a Irán y lanzó una fuerte advertencia contra los países que lo ayuden",
-          "link": "https://www.clarin.com/mundo/trump-anuncio-ofensiva-economica-precedentes-aislar-iran-lanzo-fuerte-advertencia-paises-ayuden_0_fkDDT9EAfn.html",
-          "resumen": "La iniciativa implica una nueva fase de la presión sobre Teherán, luego de que el presidente estadounidense rechazara el diálogo con la república islámica. EE.UU. busca cortar las herramientas para eludir las sanciones económicas como el…",
+          "titulo": "Panorama Internacional: Los otros disparos de la guerra contra Irán",
+          "link": "https://www.clarin.com/opinion/panorama-internacional-disparos-guerra-iran_0_8rUoq3hCHg.html",
+          "resumen": "Esta semana venció el fallido intento de acuerdo con Irán que sigue controlando el estrecho de Ormuz. Un dato de la complicación de este conflicto, que afecta otros litigios. Pero el mandatario prefirió sorprender con el cálido abrazo a…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Un helicóptero turístico se estrelló en una zona remota de Kenia: murió el jefe de inteligencia de Ecuador y su esposa",
-          "link": "https://www.lanacion.com.ar/el-mundo/un-helicoptero-turistico-se-estrello-en-una-zona-remota-de-kenia-murio-el-jefe-de-inteligencia-de-nid19082026/",
-          "resumen": "El accidente, en el que también fallecieron otras cinco personas, ocurrió a las 9.13 (hora local) cuando la aeronave volaba desde la Reserva Natural de Loisaba hacia la zona de Ewaso Nyiro, en el condado de Samburu",
+          "titulo": "Construyeron la estructura en 3D más grande del mundo",
+          "link": "https://www.lanacion.com.ar/el-mundo/construyeron-la-estructura-en-3d-mas-grande-del-mundo-nid20082026/",
+          "resumen": "La estructura, denominada Tor Alva, se alza en los Alpes suizos como un hito de la arquitectura robótica; su diseño modular permite que sea desmontada y trasladada tras cumplir su ciclo de uso",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Escándalo en Francia por el hackeo al fisco: quedan expuestos los datos de 700 mil personas y empresas",
-          "link": "https://www.clarin.com/mundo/escandalo-francia-hackeo-fisco-quedan-expuestos-datos-700-mil-personas-empresas_0_PxeqRVVtfo.html",
-          "resumen": "El ataque fue adjudicado al grupo de piratas informáticos ZeroBytes. El precio solicitado por los datos se fijó en varios miles de euros. Y habrían sido vendidos a terceros para campañas de phishing o robo de identidad.",
+          "titulo": "Después de un mes, Melania reapareció en medio de las especulaciones sobre la cercana relación de Trump y su asistente",
+          "link": "https://www.clarin.com/mundo/despues-mes-melania-reaparecio-medio-especulaciones-cercana-relacion-trump-asistente_0_4f5fJNc5z4.html",
+          "resumen": "La primera dama de Estados Unidos no había sido vista en público desde la final del Mundial de la FIFA, el 19 de julio. La semana pasada, un senador demócrata dijo que Trump no quería hacer su trabajo porque prefería viajar con su…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El escándalo de Cerimedo golpea todavía más al presidente Rodrigo Paz en medio de una grave crisis económica y política",
-          "link": "https://www.lanacion.com.ar/el-mundo/el-escandalo-de-cerimedo-golpea-todavia-mas-al-presidente-rodrigo-paz-en-medio-de-una-crisis-nid19082026/",
-          "resumen": "El asesor presidencial era una figura de máxima confianza; su detención se produce cuando el gobierno enfrenta un Congreso fragmentado y una creciente conflictividad social",
+          "titulo": "Tormentas en Nueva York: una tromba marina toco tierra y declararon el estado de emergencia",
+          "link": "https://www.lanacion.com.ar/el-mundo/tormentas-en-nueva-york-una-tromba-marina-toco-tierra-y-declararon-el-estado-de-emergencia-nid21082026/",
+          "resumen": "El fenómeno natural tuvo lugar en Long Island, donde se avistó un enorme remolino de agua",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Por primera vez, la deuda pública de Estados Unidos supera los 40 billones de dólares y se acerca a niveles de la Segunda Guerra Mundial",
-          "link": "https://www.clarin.com/mundo/primera-vez-deuda-publica-estados-unidos-supera-40-billones-dolares-acerca-niveles-segunda-guerra-mundial_0_94awPga1Gd.html",
-          "resumen": "El nuevo récord se alcanzó apenas cinco meses después de que el monto sobrepasó los 39 billones. Actualmente, el déficit fiscal del país es de dos billones de dólares anuales sus ingresos fiscales.",
+          "titulo": "Allanaron el Congreso de Chile en una causa por fraude y sobornos",
+          "link": "https://www.clarin.com/mundo/allanaron-congreso-chile-causa-fraude-sobornos_0_H9S4felp04.html",
+          "resumen": "Investigan presuntos delitos en la administración de becas y alimentos a estudiantes por 15 millones de dólares. Según la fiscalía, las diligencias se enmarcan en las indagaciones de graves delitos de corrupción asociados al Programa de…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "La vida de Mattia Colnaghi, el \"europibe\" argentino que sueña con la Fórmula 1: \"Todavía es un poco temprano, pero la vamos a luchar\"",
-          "link": "https://www.clarin.com/deportes/vida-mattia-colnaghi-europibe-argentino-suena-formula-1-todavia-temprano-vamos-luchar_0_ZkGFDLM4ew.html",
-          "resumen": "Tiene 18 años y nació en Italia, pero representa a la Argentina, el país de su mamá. Después de un arranque complicado, sumó cuatro cuartos puestos y va por más en las dos fechas que quedan: \"Creo que se puede ganar\". Integrante de la…",
+          "titulo": "La Premier League se pone en marcha con 15 argentinos que son la base de la Scaloneta",
+          "link": "https://www.clarin.com/deportes/premier-league-pone-marcha-15-argentinos-base-scaloneta_0_dCBG5nUo3D.html",
+          "resumen": "Alexis Mac Allister, Enzo Fernández y Lisandro Martínez en Liverpool, Chelsea y Manchester United, son los principales. Dibu Martínez sigue en Aston Villa, pero todavía está a tiempo de una transferencia. Este viernes, desde las 16,…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Verstappen firmó contrato con Red Bull hasta 2030 y acalló los rumores sobre su futuro en la F1",
-          "link": "https://www.lanacion.com.ar/deportes/automovilismo/verstappen-firmo-contrato-con-red-bull-hasta-2030-y-acallo-los-rumores-sobre-su-futuro-en-la-f1-nid20082026/",
-          "resumen": "La noticia fue anunciada por la escudería en plena preparación del Gran Premio de Zandvoort",
+          "titulo": "Sergio Ramos, a sus 40 años: “Practico ayuno intermitente dos o tres veces por semana”",
+          "link": "https://www.lanacion.com.ar/deportes/sergio-ramos-a-sus-40-anos-practico-ayuno-intermitente-dos-o-tres-veces-por-semana-nid21082026/",
+          "resumen": "El deportista, de último paso por Monterrey, contó cuáles son sus hábitos alimenticios para mantenerse en forma",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Valentín Perrone con Olé: la patriada frente a los ingleses, el Topo Gigio que no pudo aplicarles y el sueño del Gálvez",
-          "link": "https://www.ole.com.ar/autos/valentin-perrone-entrevista-ole-camiseta-argentina-ingleses-topo-gigio-autodromo-galvez_0_sau0SNRL4a.html",
-          "resumen": "El Coyote, piloto argentino de Moto3, vino al país y aprovechó para visitar el autódromo Oscar y Juan Gálvez. En un mano a mano con este diario, recordó su podio en Silverstone y palpitó el GP de Argentina.",
+          "titulo": "La historia detrás de la peor goleada que sufrió Boca en su vida",
+          "link": "https://www.ole.com.ar/boca-juniors/boca-barcelona-maradona-gamper_0_0WJJ3YORg6.html",
+          "resumen": "El 21 de agosto de 1984, se cumplen 42 años, el Xeneize perdió 9-1 ante el Barcelona. Toda la locura previa que encerró aquel inédito resultado.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Luto y dolor en el turf: murió el jockey Leandro Henrique, tras caer abruptamente de su caballo en plena carrera",
-          "link": "https://www.clarin.com/deportes/luto-dolor-turf-murio-jockey-leandro-henrique-caer-abruptamente-caballo-plena-carrera_0_oqYwB8cwa7.html",
-          "resumen": "El jinete brasileño tuvo la caída este domingo cuando disputaba la segunda competencia del programa del Jockey Club Brasileiro. Tenía 27 años. El accidente se produjo cuando su caballo se salió de la pista y saltó las vallas. Estuvo…",
+          "titulo": "Mundial de hockey 2026: cómo sigue el torneo con Las Leonas y Los Leones clasificados a la siguiente fase",
+          "link": "https://www.clarin.com/deportes/mundial-hockey-2026-sigue-torneo-leonas-leones-clasificados-siguiente-fase_0_NF5FMxf1yw.html",
+          "resumen": "La Selección femenina ganó su grupo, mientras que la masculino avanzó en el segundo lugar, detrás del anfitrión Países Bajos. ¿Cuándo vuelven a jugar y contra quiénes?",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Flamengo le ganó a Cruzeiro 2-1 y lo eliminó de la Copa Libertadores con un show de golazos en el Maracaná",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/flamengo-le-gano-a-cruzeiro-2-1-y-lo-elimino-de-la-copa-libertadores-con-un-show-de-golazos-en-el-nid20082026/",
-          "resumen": "El conjunto de Rio de Janeiro se aseguró el pase a cuartos de la mano de De Arrascaeta y Samuel Lino, mientras que el argentino Lucas Romero anotó para los visitantes; la serie terminó con un global de 3-2",
+          "titulo": "El gesto de Ángel Di María a los hinchas de Corinthians y su mensaje con sabor a despedida tras la derrota en Brasil",
+          "link": "https://www.lanacion.com.ar/deportes/el-gesto-de-angel-di-maria-a-los-hinchas-de-corinthians-y-su-mensaje-con-sabor-a-despedida-tras-la-nid21082026/",
+          "resumen": "El capitán de Rosario Central se cruzó con los hinchas del Timao y, consumada la eliminación del equipo rosarino, dejó la puerta abierta a su retiro",
           "fuente": "La Nación"
         }
       ]
