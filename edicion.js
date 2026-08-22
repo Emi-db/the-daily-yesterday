@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "21 de agosto de 2026",
-  "generada": "10:17",
+  "fecha": "22 de agosto de 2026",
+  "generada": "10:10",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "\"Sí hay una pistola en la cabeza\": Kicillof en una cruzada contra Milei por el endeudamiento y la morosidad de las familias",
-          "link": "https://www.clarin.com/politica/pistola-cabeza-kicillof-cruzada-milei-endeudamiento-morosidad-familias_0_KZl9eQ58r8.html",
-          "resumen": "El gobernador bonaerense cuestionó la inacción de Nación y anunció medidas desde la Provincia. La oposición tomó el tema: Quintela sacó un DNU en La Rioja y fue el eje de la marcha de la CGT, las CTA y organizaciones sociales.",
+          "titulo": "Le confirmaron la detención a Cerimedo, acusado por el intento de asesinato de su novia: crónica de audiencia interminable",
+          "link": "https://www.clarin.com/politica/confirmaron-detencion-cerimedo-acusado-intento-asesinato-novia-cronica-audiencia-interminable_0_3LnBjOPk9F.html",
+          "resumen": "Luego de una extenuante audiencia, el juez Wilson Espada aceptó los cargos que pedía la fiscalía y envió al consultor a una cárcel de Santa Cruz de la Sierra. Los chats del teléfono fueron claves.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: el aumento de la morosidad bancaria y las primeras alianzas de cara a 2027",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-aumento-de-la-morosidad-bancaria-y-las-primeras-alianzas-de-nid21082026/",
-          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "titulo": "La Justicia de Bolivia dictó 180 días de prisión preventiva para Fernando Cerimedo por el ataque a Nadia Beller",
+          "link": "https://www.lanacion.com.ar/politica/la-policia-arresto-a-un-nuevo-sospechoso-del-atentado-contra-la-pareja-de-cerimedo-nid21082026/",
+          "resumen": "Así lo determinó el juez Wilson Espada, quien ejecutó la detención del ciudadano argentino; el abogado de su novia, que sigue internada, presentó un chat donde habla de “eliminarla”; el exasesor fue trasladado al penal de Pasmasola",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Argentina Week en París: la agenda de Milei con empresarios, encuentros de inversión y Emmanuel Macron",
-          "link": "https://www.infobae.com/politica/2026/08/21/argentina-week-en-paris-la-agenda-de-milei-con-empresarios-encuentros-de-inversion-y-emmanuel-macron/",
-          "resumen": "El encuentro se hará entre el 30 de septiembre y el 2 de octubre, con citas en la OCDE, la Agencia Internacional de Energía y la Cámara Internacional de Comercio",
+          "titulo": "Los proyectos para paliar el endeudamiento ganan terreno en el Congreso y tensionan al Gobierno",
+          "link": "https://www.infobae.com/politica/2026/08/22/los-proyectos-para-paliar-el-endeudamiento-ganan-terreno-en-el-congreso-y-tensionan-al-gobierno/",
+          "resumen": "El oficialismo sostiene que la situación debe resolverse entre particulares, mientras las bancadas opositoras proponen refinanciaciones, límites a las cuotas, reglas al financiamiento y alivios para quienes ya entraron en mora",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Una nueva encuesta preguntó qué sería lo peor para el país en la elección 2027 y salió 43% a 42%",
-          "link": "https://www.clarin.com/politica/nueva-encuesta-pregunto-peor-pais-eleccion-2027-salio-43-42_0_PFBj0fdqkB.html",
-          "resumen": "Es el último estudio nacional que presentó la consultora QSocial. También preguntó sobre cambio vs. continuidad y si la oposición está preparada para gobernar.",
+          "titulo": "Javier Milei buscó desligarse del aumento de los créditos impagos: \"No hay elementos para culpar al Gobierno por el tema morosidad\"",
+          "link": "https://www.clarin.com/politica/javier-milei-busco-desligarse-aumento-creditos-impagos-elementos-culpar-gobierno-tema-morosidad_0_dsrC74QLGi.html",
+          "resumen": "Lo hizo en su discurso por el 142 aniversario de la Bolsa de Comercio de Rosario. Afirmó que no se puede “culpar a la política del Gobierno” por los problemas de morosidad",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Al Caribe en avión privado: el viaje de Massa con su esposa y amigos en medio del retorno a la discusión electoral",
-          "link": "https://www.lanacion.com.ar/politica/al-caribe-en-avion-privado-el-viaje-de-massa-con-su-esposa-y-amigos-en-medio-del-retorno-a-la-nid20082026/",
-          "resumen": "Después de la última cumbre peronista se fue una semana a Barbados, a donde llegó en un jet de Francisco De Narváez; salió desde Uruguay y regresó por Paraguay; quiénes lo acompañaron",
+          "titulo": "El nuevo juez del caso Insaurralde validó los videos en los que Jesica Cirio aparece rodeada de fajos de dólares",
+          "link": "https://www.lanacion.com.ar/politica/el-nuevo-juez-del-caso-insaurralde-valido-los-videos-en-los-que-jesica-cirio-aparece-rodeada-de-nid22082026/",
+          "resumen": "En su primera actuación, Rodríguez Ponte rechazó la pretensión de la modelo y del exintendente de Lomas de Zamora de excluirlos como prueba",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Mora récord: las fintech se defienden de las críticas por las tasas y piden bajar impuestos",
-          "link": "https://www.clarin.com/economia/mora-record-fintech-defienden-criticas-tasas-piden-bajar-impuestos_0_8DeuKGI2oJ.html",
-          "resumen": "En medio del creciente endeudamiento de las familias y la presión política sobre las billeteras, el sector asegura que incluyó a 3,8 millones de personas sin acceso a la banca formal. Señalan que un tercio del costo de los créditos…",
+          "titulo": "Dólar a $ 1.500: el Gobierno permitió una suba de tasas para evitar más presiones cambiarias",
+          "link": "https://www.clarin.com/economia/dolar-1500-gobierno-permitio-suba-tasas-evitar-presiones-cambiarias_0_WyXRDzTJkW.html",
+          "resumen": "El equipo económico endureció su política, dejó que haya menos pesos en la calle y esto derramó en el costo financiero. Para las empresas, la tasa es la más alta desde marzo. Para las personas sigue en 65%.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Los pases más relevantes del mercado corporativo en 2026",
-          "link": "https://www.lanacion.com.ar/economia/negocios/los-pases-mas-relevantes-del-mercado-corporativo-en-2026-nid20082026/",
-          "resumen": "",
+          "titulo": "“Súper Niño”: proyectan cuánto durará el fenómeno y adelantan un importante consejo",
+          "link": "https://www.lanacion.com.ar/economia/campo/super-nino-proyectan-cuanto-durara-el-fenomeno-y-adelantan-un-importante-consejo-nid22082026/",
+          "resumen": "Especialistas del INTA brindaron recomendaciones para la campaña 2026/2027 sobre manejo de cultivos y ganadería",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Compras en Free Shop en dólares: qué tipo de cambio aplica y cómo no conviene pagar",
-          "link": "https://www.ambito.com/economia/compras-free-shop-dolares-que-tipo-cambio-aplica-y-como-no-conviene-pagar-n6312302",
-          "resumen": "Los precios aparecen en moneda estadounidense, pero la forma de cancelar la operación puede cambiar cuánto terminas desembolsando en pesos.",
+          "titulo": "Dos gobiernos, un mismo problema: con Milei se perdieron 241.020 empleos asalariados privados, camino al nivel de la crisis de Macri",
+          "link": "https://www.ambito.com/economia/dos-gobiernos-un-mismo-problema-milei-se-perdieron-241020-empleos-asalariados-privados-camino-al-nivel-la-crisis-macri-n6313518",
+          "resumen": "Actualmente hay 140.000 asalariados privados menos que en mayo de 2018, pero la baja desde noviembre de 2023 es similar a la que hubo entre mayo de 2018 y noviembre de 2019. En este marco, las contrataciones continúan en niveles mínimos y…",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "El GNL pone fecha al salto exportador y el oro invierte, mientras el cobre y el petróleo maduro definen su futuro",
-          "link": "https://www.clarin.com/energia-y-mineria/gnl-pone-fecha-salto-exportador-oro-invierte-cobre-petroleo-maduro-definen-futuro_0_UznidTAhg4.html",
-          "resumen": "Southern Energy, la compañía de GNL liderada por Pan American Energy (PAE), confirmó que prevé comenzar a exportar en octubre de 2027. Glencore estima volver a producir cobre de Bajo de la Alumbrera el próximo año.",
+          "titulo": "Un escándalo en Wall Street con uno de los hombres más ricos del mundo involucra a un financista argentino: investigan maniobras por US$ 500 millones",
+          "link": "https://www.clarin.com/economia/escandalo-wall-street-hombres-ricos-mundo-involucra-financista-argentino-investigan-maniobras-us-500-millones_0_Ou3E05zaQu.html",
+          "resumen": "Mark Walter, hasta hace días dueño de los Lakers de la NBA, es investigado por la justicia y la comisión de valores de los EE.UU. Sospechan que hubo préstamos entre empresas de su propiedad y no haberlo declarado. Quién es el ejecutivo…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Los nuevos CEO de 2026",
-          "link": "https://www.lanacion.com.ar/economia/negocios/los-nuevos-ceo-de-2026-nid21082026/",
-          "resumen": "",
+          "titulo": "Polémica: tenía carne afuera de su casa, llegó la policía luego del llamado de vecinos y su respuesta generó un gran revuelo",
+          "link": "https://www.lanacion.com.ar/economia/campo/polemica-tenia-carne-afuera-de-su-casa-llego-la-policia-luego-del-llamado-de-vecinos-y-la-respuesta-nid21082026/",
+          "resumen": "La presencia de medias reses y carne faenada en una vivienda en Coronel Pringles generó denuncias y motivó la intervención policial y de Bromatología; Gabriel Molina negó venderla y afirmó que caza con autorización para consumo propio",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Panorama Internacional: Los otros disparos de la guerra contra Irán",
-          "link": "https://www.clarin.com/opinion/panorama-internacional-disparos-guerra-iran_0_8rUoq3hCHg.html",
-          "resumen": "Esta semana venció el fallido intento de acuerdo con Irán que sigue controlando el estrecho de Ormuz. Un dato de la complicación de este conflicto, que afecta otros litigios. Pero el mandatario prefirió sorprender con el cálido abrazo a…",
+          "titulo": "Terremoto en Colombia: tres ciudades en ruinas, el drama entre los escombros y la esperanza de un país",
+          "link": "https://www.clarin.com/mundo/terremoto-colombia-ciudades-ruinas-drama-escombros-esperanza-pais_0_kDxKjSRHkd.html",
+          "resumen": "El sismo de magnitud 7.4 que sacudió a Colombia afectó en especial a Cali, Pereira, Manizales y ciudades del eje cafetero. Clarín recorrió las zonas devastadas a lo largo de cinco días.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Construyeron la estructura en 3D más grande del mundo",
-          "link": "https://www.lanacion.com.ar/el-mundo/construyeron-la-estructura-en-3d-mas-grande-del-mundo-nid20082026/",
-          "resumen": "La estructura, denominada Tor Alva, se alza en los Alpes suizos como un hito de la arquitectura robótica; su diseño modular permite que sea desmontada y trasladada tras cumplir su ciclo de uso",
+          "titulo": "Tenía 37 años y se hacía pasar por una nena de 12 años para que una familia la cuidara",
+          "link": "https://www.lanacion.com.ar/el-mundo/tenia-38-anos-y-se-hacia-pasar-por-una-nena-de-12-anos-para-que-una-familia-la-cuidara-nid21082026/",
+          "resumen": "La mujer fue descubierta después de nueve años viviendo con distintas familias a quienes les hacía creer que era una menor con autismo",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Después de un mes, Melania reapareció en medio de las especulaciones sobre la cercana relación de Trump y su asistente",
-          "link": "https://www.clarin.com/mundo/despues-mes-melania-reaparecio-medio-especulaciones-cercana-relacion-trump-asistente_0_4f5fJNc5z4.html",
-          "resumen": "La primera dama de Estados Unidos no había sido vista en público desde la final del Mundial de la FIFA, el 19 de julio. La semana pasada, un senador demócrata dijo que Trump no quería hacer su trabajo porque prefería viajar con su…",
+          "titulo": "El Gobierno de Colombia elevó el número de víctimas fatales por el terremoto",
+          "link": "https://www.clarin.com/mundo/gobierno-colombia-elevo-numero-victimas-fatales-terremoto_0_2E9iEfmmkQ.html",
+          "resumen": "El sismo de magnitud 7,4 que sacudió al país el 10 de agosto derribó miles de casas, torres de edificios, escuelas y hospitales, principalmente en ciudades del Pacífico. Además, informaron que aún hay 4.600 heridos.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Tormentas en Nueva York: una tromba marina toco tierra y declararon el estado de emergencia",
-          "link": "https://www.lanacion.com.ar/el-mundo/tormentas-en-nueva-york-una-tromba-marina-toco-tierra-y-declararon-el-estado-de-emergencia-nid21082026/",
-          "resumen": "El fenómeno natural tuvo lugar en Long Island, donde se avistó un enorme remolino de agua",
+          "titulo": "Australia obligará a las grandes tecnológicas a pagar a los medios por usar sus contenidos",
+          "link": "https://www.lanacion.com.ar/el-mundo/australia-obligara-a-las-grandes-tecnologicas-a-pagar-a-los-medios-por-usar-sus-contenidos-nid21082026/",
+          "resumen": "El Parlamento aprobó una ley que aplicará una tasa del 2,5% sobre los ingresos publicitarios de plataformas como Google, Meta, TikTok y LinkedIn si no alcanzan acuerdos comerciales con medios locales",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Allanaron el Congreso de Chile en una causa por fraude y sobornos",
-          "link": "https://www.clarin.com/mundo/allanaron-congreso-chile-causa-fraude-sobornos_0_H9S4felp04.html",
-          "resumen": "Investigan presuntos delitos en la administración de becas y alimentos a estudiantes por 15 millones de dólares. Según la fiscalía, las diligencias se enmarcan en las indagaciones de graves delitos de corrupción asociados al Programa de…",
+          "titulo": "\"Hay que irse\": en Rusia muchos hombres se preparan para un nuevo éxodo ante una posible movilización para la guerra",
+          "link": "https://www.clarin.com/mundo/irse-rusia-hombres-preparan-nuevo-exodo-posible-movilizacion-guerra_0_t5Ebx8d5E5.html",
+          "resumen": "En los últimos meses se multiplicaron las consultas en una plataforma digital que ayuda a quienes buscan emigrar. Son en su mayoría de jóvenes que quieren irse del país por miedo a ser reclutados y por las restricciones en el país.",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "La Premier League se pone en marcha con 15 argentinos que son la base de la Scaloneta",
-          "link": "https://www.clarin.com/deportes/premier-league-pone-marcha-15-argentinos-base-scaloneta_0_dCBG5nUo3D.html",
-          "resumen": "Alexis Mac Allister, Enzo Fernández y Lisandro Martínez en Liverpool, Chelsea y Manchester United, son los principales. Dibu Martínez sigue en Aston Villa, pero todavía está a tiempo de una transferencia. Este viernes, desde las 16,…",
+          "titulo": "Arranca la Serie A con Inter como el rival a vencer, Lautaro Martínez como bandera y una legión de 23 argentinos",
+          "link": "https://www.clarin.com/deportes/arranca-serie-inter-rival-vencer-lautaro-martinez-bandera-legion-23-argentinos_0_HUDgxeaDlZ.html",
+          "resumen": "El campeón debuta este sábado ante Monza y busca retener al goleador argentino en medio del interés del Barcelona. Habrá presencia albiceleste en 12 de los 20 equipos de una liga que vuelve a gastar fuerte pese a la crisis de la selección…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Sergio Ramos, a sus 40 años: “Practico ayuno intermitente dos o tres veces por semana”",
-          "link": "https://www.lanacion.com.ar/deportes/sergio-ramos-a-sus-40-anos-practico-ayuno-intermitente-dos-o-tres-veces-por-semana-nid21082026/",
-          "resumen": "El deportista, de último paso por Monterrey, contó cuáles son sus hábitos alimenticios para mantenerse en forma",
+          "titulo": "Franco Colapinto en vivo, en la carrera sprint del Gran Premio de Países Bajos de F1",
+          "link": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-vivo-en-la-carrera-sprint-del-gran-premio-de-paises-bajos-de-f1-nid22082026/",
+          "resumen": "El argentino corre en la primera competencia del fin de semana en el circuito de Zandvoort",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La historia detrás de la peor goleada que sufrió Boca en su vida",
-          "link": "https://www.ole.com.ar/boca-juniors/boca-barcelona-maradona-gamper_0_0WJJ3YORg6.html",
-          "resumen": "El 21 de agosto de 1984, se cumplen 42 años, el Xeneize perdió 9-1 ante el Barcelona. Toda la locura previa que encerró aquel inédito resultado.",
+          "titulo": "A qué hora juegan Los Leones vs. Inglaterra y dónde ver hoy EN VIVO el partido del Mundial de hockey 2026",
+          "link": "https://www.ole.com.ar/hockey/hora-juegan-leones-vs-inglaterra-ver-hoy-vivo-partido-mundial-hockey-2026_0_leko2VjYw8.html",
+          "resumen": "El seleccionado masculino jugará una final contra el combinado inglés en el inicio de la segunda fase de la Copa del Mundo. Seguilo en Olé.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Mundial de hockey 2026: cómo sigue el torneo con Las Leonas y Los Leones clasificados a la siguiente fase",
-          "link": "https://www.clarin.com/deportes/mundial-hockey-2026-sigue-torneo-leonas-leones-clasificados-siguiente-fase_0_NF5FMxf1yw.html",
-          "resumen": "La Selección femenina ganó su grupo, mientras que la masculino avanzó en el segundo lugar, detrás del anfitrión Países Bajos. ¿Cuándo vuelven a jugar y contra quiénes?",
+          "titulo": "La ludopatía y las pensiones del fútbol argentino: cómo protegen los clubes a sus juveniles del crecimiento de las apuestas ilegales",
+          "link": "https://www.clarin.com/deportes/ludopatia-pensiones-futbol-argentino-protegen-clubes-juveniles-crecimiento-apuestas-ilegales_0_djiew2Kyi5.html",
+          "resumen": "El testimonio de Jonatan Gómez volvió a encender una alarma que tiene a los jóvenes entre sus principales víctimas. Vélez y Estudiantes cuentan cómo trabajan con chicos que viven lejos de sus familias mientras la tentación del juego está…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El gesto de Ángel Di María a los hinchas de Corinthians y su mensaje con sabor a despedida tras la derrota en Brasil",
-          "link": "https://www.lanacion.com.ar/deportes/el-gesto-de-angel-di-maria-a-los-hinchas-de-corinthians-y-su-mensaje-con-sabor-a-despedida-tras-la-nid21082026/",
-          "resumen": "El capitán de Rosario Central se cruzó con los hinchas del Timao y, consumada la eliminación del equipo rosarino, dejó la puerta abierta a su retiro",
+          "titulo": "Boca prohibió la creación de contenido para redes sociales de sus abonados durante los partidos en la Bombonera",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/boca-prohibio-la-creacion-de-contenido-para-redes-sociales-de-sus-abonados-durante-los-partidos-en-nid22082026/",
+          "resumen": "La medida fue publicada este viernes en el nuevo reglamento que difundió el club xeneize, en el que además se eliminó el filtro de asistencia",
           "fuente": "La Nación"
         }
       ]
