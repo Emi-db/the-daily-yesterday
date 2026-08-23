@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "22 de agosto de 2026",
-    "generada": "10:10",
+    "fecha": "23 de agosto de 2026",
+    "generada": "10:11",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "\"Fuimos la escena del crimen de estas atrocidades\": el país que se enfrenta a EE.UU. y Europa al reclamar el pago de reparaciones por la esclavitud",
-            "link": "https://www.bbc.com/mundo/articles/cm2grpxne10o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Ghana se ha convertido en la principal voz de África en exigir que las naciones occidentales e instituciones que se beneficiaron de la esclavitud paguen reparaciones.",
+            "titulo": "Especial BBC: los niños invisibles nacidos de crímenes de guerra",
+            "link": "https://www.bbc.com/mundo/articles/c5yevxyd21eo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Los bebés nacidos como consecuencia de una violación a menudo no pueden obtener un certificado de nacimiento, lo que conlleva problemas para toda la vida.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Nikolái Rybakov, líder de Yábloko: “Hemos demostrado al mundo cuánta gente en Rusia quiere la paz”",
-            "link": "https://elpais.com/internacional/2026-08-22/nikolai-rybakov-lider-de-yabloko-hemos-demostrado-al-mundo-cuanta-gente-en-rusia-quiere-la-paz.html",
-            "resumen": "El único partido ruso que aboga por un alto el fuego ha sido vetado para las elecciones legislativas de septiembre pese a marchar segundo en las encuestas oficiales",
+            "titulo": "Irán: una guerra sin vencedores que ha cambiado el mundo",
+            "link": "https://elpais.com/internacional/2026-08-23/iran-una-guerra-sin-vencedores-que-ha-cambiado-el-mundo.html",
+            "resumen": "Mientras Trump renuncia a más combates y pone el énfasis en la presión económica contra Teherán, arremete contra sus socios y debilita sus alianzas",
             "fuente": "El País"
           },
           {
-            "titulo": "El secreto de las bóvedas de Roldanillo: el terremoto reabre las heridas del pasado en Colombia",
-            "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260822-el-secreto-de-las-b%C3%B3vedas-de-roldanillo-el-terremoto-reabre-las-heridas-del-pasado-en-colombia",
-            "resumen": "Las huellas del conflicto armado que por décadas ensangrentó a Colombia podrían haber quedado nuevamente al descubierto. No fue producto de una investigación o la denuncia de afectados. Fue el llamado de la tierra que develó una escena…",
+            "titulo": "La Justicia de EE. UU. anula el congelamiento de visas impuesto por Trump a 75 países",
+            "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260823-la-justicia-de-ee-uu-anula-el-congelamiento-de-visas-impuesto-por-trump-a-75-pa%C3%ADses",
+            "resumen": "El presidente estadounidense, Donald Trump, había ordenado en enero congelar los trámites de visas que permiten residir de manera permanente en Estados Unidos para ciudadanos de 75 países. La jueza federal Jeannette Vargas, de un tribunal…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Ucrania busca sobrevivientes tras un doble ataque ruso contra un centro comercial que dejó 16 muertos",
-            "link": "https://www.bbc.com/mundo/articles/clyelyelg9do?at_medium=RSS&at_campaign=rss",
-            "resumen": "Nueve personas siguen desaparecidas tras el ataque, que dejó 130 heridos, entre ellos varios niños.",
+            "titulo": "Qué descubrí cuando viajé de España a Nigeria para enfrentar al estafador que sedujo a mi madre",
+            "link": "https://www.bbc.com/mundo/articles/cj9dxw4wxwyo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Silvia se enamoró de quien creía que era un militar estadounidense que conoció online, pero que en verdad era un estafador de Nigeria. Su hijo, Carlos, viajó de Madrid a Lagos para buscarlo. Esto es lo que descubrió allí.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Seguir enterrando la solución de los dos Estados",
-            "link": "https://elpais.com/internacional/2026-08-22/seguir-enterrando-la-solucion-de-los-dos-estados.html",
-            "resumen": "El plan de licitación para la edificación de 1.234 viviendas en la zona E1, que rodea Jerusalén, culmina un proyecto acariciado por gobiernos israelíes de todo signo. Lo que cambia ahora es la impunidad con que Israel podría llevarlo a cabo",
+            "titulo": "Omán, el discreto mediador de Oriente Próximo al que Trump pone en la diana",
+            "link": "https://elpais.com/internacional/2026-08-23/oman-el-discreto-mediador-de-oriente-proximo-al-que-trump-pone-en-la-diana.html",
+            "resumen": "El sultanato, una de las puertas al disputado estrecho de Ormuz, negocia con Irán y transmite propuestas a EE UU para que el conflicto no se enquiste",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
+            "titulo": "Los casos de silicosis crecen y Trabajo multiplica por cinco las multas a empresas: “Me falta el aire”",
+            "link": "https://elpais.com/economia/2026-08-23/la-silicosis-renace-en-espana-con-25-millones-de-euros-en-multas-a-empresas-desde-2019-me-falta-el-aire.html",
+            "resumen": "Las infracciones sancionadas por la Inspección de Trabajo, a las que ha tenido acceso EL PAÍS mediante Transparencia, se disparan a la vez que crecen los partes de enfermedad profesional por exposición a sílice cristalina",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Carney dice que Canadá tomará represalias por los aranceles de EEUU desde el 8 de septiembre",
+            "link": "https://www.expansion.com/economia/2026/08/22/6a89d91de5fdeaac2a8b4580.html",
+            "resumen": "El primer ministro canadiense, Mark Carney, anunció este sábado que su país tomará represalias contra EE.UU. tras el fracaso de las negociaciones comerciales con la Administración del presidente, Donald Trump, y que a partir del 8 de…",
+            "fuente": "Expansión"
+          },
+          {
             "titulo": "El transporte marítimo mundial se atasca entre conflictos y crisis climáticas",
             "link": "https://elpais.com/economia/2026-08-22/el-transporte-maritimo-mundial-se-atasca-entre-conflictos-y-crisis-climaticas.html",
             "resumen": "El precio disparado de los fletes, que suben el 140% desde febrero, refleja la acumulación de bloqueos en el tráfico, desde el estrecho de Ormuz hasta el Canal de Panamá",
             "fuente": "El País"
           },
           {
-            "titulo": "Los fondos monetarios más atractivos para proteger el ahorro",
-            "link": "https://www.expansion.com/mercados/2026/08/21/6a8891d5e5fdeadf1e8b45b1.html",
-            "resumen": "El nuevo ciclo de subidas de tipos de interés impulsa las perspectivas de los fondos monetarios Leer",
+            "titulo": "Ránking de las grandes cotizadas: los grupos del Ibex suben la deuda neta un 2,4% hasta junio",
+            "link": "https://www.expansion.com/empresas/2026/08/22/6a7c4fff468aeb65678b4573.html",
+            "resumen": "Los grupos del Ibex elevan su deuda neta en 4.450 millones en el primer semestre, hasta 191.329 millones, lo que supone un aumento del 2,4% respecto al cierre de 2025. El aumento se debe, sobre todo, a las compras, inversiones y…",
             "fuente": "Expansión"
           },
           {
             "titulo": "Las sanciones por no pagar horas extra se triplican pero siguen sin frenar a las empresas incumplidoras",
             "link": "https://elpais.com/economia/2026-08-22/las-sanciones-por-no-pagar-horas-extra-se-triplican-pero-siguen-sin-frenar-a-las-empresas-incumplidoras.html",
             "resumen": "Las multas de la Inspección pasan de 5,3 millones en 2018 a 15,7 en 2025 mientras volumen de tiempo no compensado se mantiene estable. Los sindicatos calculan un ahorro empresarial de 3.378 millones",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Del paro a la jubilación: casi medio millón de personas cobran el subsidio para mayores de 52 años",
-            "link": "https://www.expansion.com/economia/2026/08/21/6a88821c468aeb43308b457c.html",
-            "resumen": "Los beneficiarios se disparan hasta 466.077 tras la reforma de 2019 que redujo el requisito de edad: aumentan en un 75% las personas que se acogen a la prestación. Leer",
-            "fuente": "Expansión"
-          },
-          {
-            "titulo": "¿Están los edificios españoles preparados para un gran seísmo?",
-            "link": "https://elpais.com/economia/negocios/2026-08-22/estan-los-edificios-espanoles-preparados-para-un-gran-seismo.html",
-            "resumen": "Gran parte de las viviendas se levantaron antes de que hubiera criterios de construcción resistentes a los terremotos",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Rueda de prensa de Flick, en directo",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218260/rueda-prensa-flick-directo-ultima-hora-fc-barcelona-vivo.html",
-            "resumen": "",
+            "titulo": "¡Balde, fuera de la lista de convocados del Barça para Elche!",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218781/lista-convocados-barca-elche-tres-fichajes-seis-filial.html",
+            "resumen": "Notición en la primera convocatoria del Barça en LaLiga 2026-27. Hansi Flick no se lleva a Alejandro Balde, con su futuro en el aire, a Elche , donde esta noche (21.30 h/Movistar LaLiga), el vigente campeón iniciará la carrera hacia…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Rodri tampoco se entrena con el grupo antes del estreno liguero del Barça",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218525/rodri-tampoco-entrena-grupo-estreno-liguero-barca.html",
-            "resumen": "Rodrigo Hernández, Rodri , mediocentro de 30 años presentado esta semana por el Barça, se entrenó este sábado por segundo día consecutivo al margen del grupo siguiendo un plan de trabajo personalizado. Tratándose de la víspera del estreno…",
+            "titulo": "El Borussia Dortmund, en Barcelona para cerrar el fichaje de Hèctor Fort",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218803/borussia-dortmund-barcelona-cerrar-fichaje-hector-fort.html",
+            "resumen": "Hèctor Fort (20 años) está cada vez más cerca del Borussia Dortmund . El lateral derecho, cuyo contrato con el FC Barcelona vence en 2029, dio su conformidad hace días a la oferta del club alemán, que envió a Barcelona a unos emisarios…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,16 +147,16 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "August 22, 2026",
-    "generada": "10:10",
+    "fecha": "August 23, 2026",
+    "generada": "10:11",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-            "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-            "resumen": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
+            "titulo": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+            "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
             "fuente": "BBC"
           },
           {
@@ -166,15 +166,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Carney Stands Up to Trump in U.S.-Canada Trade War",
-            "link": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
-            "resumen": "Canada’s prime minister walked away from what he thought was a bad trade deal with the United States. Many Canadians are behind him, but it will be costly.",
+            "titulo": "Echoing Trump, Latin America’s Leaders Boost Allies Across Borders",
+            "link": "https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html",
+            "resumen": "With cheers, endorsements and insults for rivals and “wokismo,” a new crop of right-wing leaders are openly stepping into one another’s elections.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "TikTok to pay $400m to US in one of largest child privacy settlements",
-            "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-            "resumen": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+            "titulo": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+            "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+            "resumen": "The sacked former defence minister has also called for elections to be held in Ukraine.",
             "fuente": "BBC"
           },
           {
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
-            "link": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The struggling firm said it had improved its performance but missed regulator-set delivery targets.",
+            "titulo": "Struggling households need more help with bills, energy industry says",
+            "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+            "resumen": "Industry body Energy UK says the current support for households most in need does not go far enough.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
+            "link": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+            "resumen": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, and Mark Carney, the country’s prime minister, has vowed to…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "Dr. Dre and Jimmy Iovine Think A.I. Is Good for Music",
+            "link": "https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html",
+            "resumen": "The hit-making duo turned tech moguls also have thoughts about why corporate America isn’t collaborative enough.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "CrossCountry cancels UK services after power cut",
+            "link": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
+            "resumen": "Customers say the disruption to virtually all UK CrossCountry services is the \"worst case scenario\".",
             "fuente": "BBC"
           },
           {
             "titulo": "What does Tyson’s shutdown of two US beef plants mean for grocery costs?",
             "link": "https://www.theguardian.com/business/2026/aug/21/tyson-foods-close-facilities-beef-prices-cattle-shortage",
             "resumen": "Meat producer closes facilities in Utah and Illinois as beef prices rise for consumers amid historic cattle shortage People in the US: how much do you spend on food per month? Tyson Foods, the largest meatpacking company in the US,…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "The Economy Got Used to Low Borrowing Costs. Their Exit Could Pose Risks.",
-            "link": "https://www.nytimes.com/2026/08/22/business/bonds-borrowing-costs-economy.html",
-            "resumen": "After roughly two decades of ultralow interest rates, a period of rapid readjustment is ahead for the United States, the world’s largest economy and most important financial system.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-            "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-            "resumen": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spending",
-            "link": "https://www.theguardian.com/business/2026/aug/20/us-national-debt-republicans",
-            "resumen": "The enormous US debt under Trump will hobble the next Democratic administration – just as the GOP planned Why is the Trump administration causing turmoil in the bond markets? You could pin the US’s staggering $40tn in government debt to…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "How this 1960s ex-council house is managing to stay cool without air con",
-            "link": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Ebola outbreak: five big questions",
-            "link": "https://www.theguardian.com/global-development/2026/aug/21/ebola-outbreak-five-big-questions",
-            "resumen": "On 23 August, it will be 100 days since the Bundibugyo strain was first reported. How did it became the DRC’s most deadly outbreak and what must be done to stop it becoming the world’s largest? Almost 100 days ago, Africa’s public health…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "Trump Announces a New Policy for a ‘Golden Age of Space Transportation’",
-            "link": "https://www.nytimes.com/2026/08/20/science/trump-space-transportation-policy.html",
-            "resumen": "The policy aims to greatly increase the number of spacecraft launches and re-entries.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "Should school holidays change to cope with extreme heat?",
-            "link": "https://www.bbc.co.uk/news/videos/clyqd9x07q0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Could changing the school holidays give pupils and teachers a break in largely unconditioned buildings?",
+            "titulo": "How a new era of heatwaves could shake up the school calendar",
+            "link": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Teachers warn it could be increasingly difficult for classrooms to function during the hottest months.",
             "fuente": "BBC"
           },
           {
             "titulo": "Python named Jodie Foster first snake to receive pioneering cancer treatment",
             "link": "https://www.theguardian.com/world/2026/aug/21/python-jodie-foster-snake-cancer-electrochemotherapy",
             "resumen": "Chester zoo resident, 23, ‘back to her usual feisty self’ after electrochemotherapy for tumour in her jaw A 15ft (4.5-metre) python is believed to be the first snake in the world to be given a pioneering, life-saving cancer treatment…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "Mapping America’s Largest ‘Dead Zone’",
+            "link": "https://www.nytimes.com/2026/08/22/science/gulf-coast-hypoxia-fish.html",
+            "resumen": "In a decades-long crisis, marine life has suffered as oxygen periodically dwindles in waters along the Gulf Coast.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Welsh county becomes global hotspot for carbon emissions after wildfires",
+            "link": "https://www.bbc.co.uk/news/articles/cp9e9rg255vo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Ebola outbreak: five big questions",
+            "link": "https://www.theguardian.com/global-development/2026/aug/21/ebola-outbreak-five-big-questions",
+            "resumen": "On 23 August, it will be 100 days since the Bundibugyo strain was first reported. How did it became the DRC’s most deadly outbreak and what must be done to stop it becoming the world’s largest? Almost 100 days ago, Africa’s public health…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,34 +259,34 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Swaggering Arsenal want title attack, not defence",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cpw94evj1q7o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Arsenal started last season as nearly men but their title win has given them a swagger - as Coventry discovered on the Premier League's opening night.",
+            "titulo": "Australia beat Bangladesh in two days",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c9989723r7xo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Mitchell Starc takes 10 wickets in the match as Australia bounce back to win the second Test against Bangladesh by an innings and 51 runs and draw the series.",
             "fuente": "BBC"
           },
           {
-            "titulo": "US soccer wants excitement after the World Cup – the Open Cup provides it",
-            "link": "https://www.theguardian.com/football/2026/aug/22/us-soccer-wants-excitement-after-the-world-cup-the-open-cup-provides-it",
-            "resumen": "MLS wants to build on the momentum of the World Cup. America’s top domestic cup competition is an obvious place to start The new commissioner of Major League Soccer, Larry Berg, isn’t keen on the idea of promotion and relegation, but he…",
+            "titulo": "Meet the new Spurs, same as the old Spurs despite big summer spending | Billy Munday",
+            "link": "https://www.theguardian.com/football/2026/aug/22/meet-the-new-spurs-same-as-the-old-spurs",
+            "resumen": "Canny Brentford show it will take more than a few new players to restore any sense of stability to Tottenham This was supposed to be New Spurs . Daniel Levy, such a magnet for fan apathy, has been sidelined. Roberto De Zerbi’s recruitment…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "How new-look Spurs are shaping up under De Zerbi",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cx25xy7p9zpo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Roberto de Zerbi has had time and money over the summer to start creating a new-look Tottenham. So how are they shaping up?",
+            "titulo": "Mateta claims final year of Palace deal is invalid",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cdx7x90dxywo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Jean-Philippe Mateta is challenging the validity of the final 10 months on his Crystal Palace contract.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Arsenal sweep Coventry aside to start Premier League title defence in style",
-            "link": "https://www.theguardian.com/football/2026/aug/21/arsenal-coventry-premier-league-match-report",
-            "resumen": "What a difference a title makes. The last time Arsenal played in front of their own supporters, you could cut the nervous tension with a knife as Mikel Arteta’s side scraped to a 1-0 victory over already relegated Burnley. Ninety five…",
+            "titulo": "Teófimo López outpoints Rolly Romero to win title in third weight class",
+            "link": "https://www.theguardian.com/sport/2026/aug/23/teofimo-lopez-rolly-romero-fight-result-boxing",
+            "resumen": "López wins majority decision to claim WBA crown Romero brands judges’ verdict a ‘robbery’ New champion adds to previous 135lb, 140lb belts Teófimo López became a three-division world champion on Saturday night, winning a 12-round majority…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "From Showtime to Insurance Time: how the LA Lakers became a $12.5bn hedge fund play",
-            "link": "https://www.theguardian.com/sport/2026/aug/21/los-angeles-lakers-12-5bn-sale-bob-iger-josh-kushner-private-equity-nba",
-            "resumen": "Bob Iger and Josh Kushner’s $12.5bn bid to buy the Lakers shows that NBA teams are no longer family dynasties, but quick flips for private equity sharks For years, the NBA was built on the alliance of patient money and marketing pizzazz,…",
-            "fuente": "The Guardian"
+            "titulo": "What does Savinho's £75m move reveal about Man City's multi-club model?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c3w0wpy86z7o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Does Savinho's £75m move from Manchester City to Tottenham represent a sporting success for the Abu Dhabi-owned club?",
+            "fuente": "BBC"
           }
         ]
       }
