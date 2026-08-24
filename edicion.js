@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "23 de agosto de 2026",
-  "generada": "10:11",
+  "fecha": "24 de agosto de 2026",
+  "generada": "10:25",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Envían a prisión preventiva al exmilitar mexicano que había pedido asilo político y fue detenido en Palermo por tráfico de combustible",
-          "link": "https://www.clarin.com/politica/envian-prision-preventiva-exmilitar-mexicano-pedido-asilo-politico-detenido-palermo-trafico-combustible_0_Iccr2BvUST.html",
-          "resumen": "Fernando Farías Laguna fue extraditado el jueves desde Buenos Aires a México. Había intentado refugiarse en Argentina y lo detuvieron en abril.",
+          "titulo": "Desde hace un mes, el juez Martín Irurzun está en un \"limbo\" jurídico y espera una señal de la Corte",
+          "link": "https://www.clarin.com/politica/hace-mes-juez-martin-irurzun-limbo-juridico-espera-senal-corte_0_KtQAt6lUH9.html",
+          "resumen": "Cumplió 75 años, la edad para jubilarse, pero apeló ante el máximo tribunal la decisión del Gobierno de Javier Milei de no otorgarle 5 años más de mandato. Firmó sentencias clave sobre desaparecidos, la ESMA, y la corrupción en los…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La Casa Rosada evalúa un posible asueto por la visita de León XIV y avanza con el operativo de seguridad",
-          "link": "https://www.lanacion.com.ar/politica/la-casa-rosada-evalua-un-posible-asueto-por-la-visita-de-leon-xiv-y-avanza-con-el-operativo-de-nid23082026/",
-          "resumen": "Mientras espera la segunda avanzada del Vaticano, prevista para el domingo 30 de este mes, el Gobierno trabaja en los detalles de la organización y el diálogo con las provincias que visitará el Papa",
+          "titulo": "Javier Milei y sus medidas, en vivo: el armado electoral y los proyectos económicos del Presidente",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-armado-electoral-y-los-proyectos-economicos-del-presidente-nid24082026/",
+          "resumen": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Milei vuelve a la Casa Rosada, las internas que crecen dentro del Gobierno y la jugada que prepara el Peronismo",
-          "link": "https://www.infobae.com/politica/2026/08/23/milei-vuelve-a-la-casa-rosada-las-internas-que-crecen-dentro-del-gobierno-y-la-jugada-que-prepara-el-peronismo/",
-          "resumen": "El Presidente convocó a sus ministros para este lunes por la mañana. Karina continúa con los movimientos políticos y arma una cumbre con diputados y senadores. Hay cuestionamientos por la falta de acuerdos con gobernadores y rencillas…",
+          "titulo": "Senado: qué propone el régimen de incentivos a inversiones que la UCR le pide al Gobierno",
+          "link": "https://www.infobae.com/politica/2026/08/24/senado-que-propone-el-regimen-de-incentivos-a-inversiones-que-la-ucr-le-pide-al-gobierno/",
+          "resumen": "La iniciativa apunta a proyectos desde USD 12 millones para grandes empresas y USD 150.000 para micro. Se empieza a debatir el miércoles en tres comisiones, lo que implica un desafío extra para un eventual dictamen",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Fernando Cerimedo mandó un mensaje desde la cárcel: \"Me destruyeron mi carrera y mi vida\"",
-          "link": "https://www.clarin.com/politica/cerimedo-mando-mensaje-carcel-destruyeron-carrera-vida_0_fx4zyIl7PK.html",
-          "resumen": "El asesor digital ya está preso en el penal de Palmasola. Dijo que no está \"comprobado\" que haya intentado matar a Beller",
+          "titulo": "Endeudamiento familiar: la oposición se junta para presionar a Javier Milei en el Congreso",
+          "link": "https://www.clarin.com/politica/endeudamiento-familiar-oposicion-junta-presionar-javier-milei-congreso_0_Pe9Pj6VBP0.html",
+          "resumen": "Se acumulan las iniciativas sobre el tema, aunque por ahora el oficialismo frena el tratamiento. Unión por la Patria y otros bloques buscarán meter la discusión en la sesión de este miércoles.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Fernando Cerimedo ingresó al menos 13 veces a la Casa Rosada desde que Milei es presidente",
-          "link": "https://www.lanacion.com.ar/politica/fernando-cerimedo-ingreso-al-menos-13-veces-a-la-casa-rosada-desde-que-milei-es-presidente-nid22082026/",
-          "resumen": "El Presidente dijo que no tiene “vínculo de ningún tipo” con su exasesor desde 2023; no obstante, el consultor detenido en Bolivia entró varias veces a la sede del Ejecutivo hasta junio de 2024",
+          "titulo": "El robo de una moto terminó con tiros en la puerta de la casa de Eduardo Duhalde en Lomas de Zamora",
+          "link": "https://www.lanacion.com.ar/seguridad/el-robo-de-una-moto-termino-con-tiros-en-la-casa-de-eduardo-duhalde-en-lomas-de-zamora-nid23082026/",
+          "resumen": "La custodia del expresidente intervino ante el hurto y se enfrentó con los delincuentes; la víctima es un hombre de 60 años, que fue herido de bala; los sospechosos escaparon a pie y son buscados por la policía",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "En 2026 las exportaciones superarán los US$ 100.000 millones y marcarán un récord histórico",
-          "link": "https://www.clarin.com/economia/2026-exportaciones-superaran-us-100000-millones-marcaran-record-historico_0_rmPzCW72hw.html",
-          "resumen": "El año cerrará con un superávit comercial por encima de los US$ 20.000 millones. Las importaciones se retraen por el menor consumo.",
+          "titulo": "El Gobierno adjudicó ocho corredores de rutas nacionales por 20 años: qué empresas ganaron",
+          "link": "https://www.clarin.com/economia/gobierno-adjudico-corredores-rutas-nacionales-20-anos-empresas-ganaron_0_n9n4tR5wJQ.html",
+          "resumen": "La medida fue oficializada mediante la Resolución 1379/2026 del Ministerio de Economía, publicada en el Boletín Oficial de este lunes. La adjudicación forma parte del proceso de privatización de Corredores Viales e involucra tramos de la…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Dólar hoy y dólar blue hoy: a cuánto cotiza este domingo 23 de agosto",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-domingo-23-de-agosto-nid23082026/",
-          "resumen": "La cotización de la moneda estadounidense se mantiene igual que el último día hábil; cómo fue el comportamiento de la divisa informal y los dólares financieros",
+          "titulo": "Las aseguradores se aprestan a incursionar en el sistema de salud",
+          "link": "https://www.lanacion.com.ar/economia/las-aseguradores-se-aprestan-a-incursionar-en-el-sistema-de-salud-nid24082026/",
+          "resumen": "",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Martín Rapetti: “El programa desinflacionario está agotado y el grueso de la economía, en depresión”",
-          "link": "https://www.ambito.com/economia/martin-rapetti-el-programa-desinflacionario-esta-agotado-y-el-grueso-la-depresion-n6313559",
-          "resumen": "El director ejecutivo de Equilibra advierte por el nivel de actividad y cambios en el mercado de trabajo. Además, cuestiona la política cambiaria y plantea la necesidad de una estrategia productiva para la industria.",
+          "titulo": "Scott Bessent al rescate del mercado de bonos: ¿tendrá éxito o le doblarán el brazo?",
+          "link": "https://www.ambito.com/economia/scott-bessent-al-rescate-del-mercado-bonos-tendra-exito-o-le-doblaran-el-brazo-n6313904",
+          "resumen": "Tras el fracaso del acuerdo con Irán y la suba del petróleo, el secretario del Tesoro corre a contener el nerviosismo de los bonos largos con recompras de deuda.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Dua Lipa, la diva que cerró la isla de Palermo para casarse",
-          "link": "https://www.clarin.com/economia/dua-lipa-diva-cerro-isla-palermo-casarse_0_zPm0G1xkMv.html",
-          "resumen": "Es la artista más rica de los sub-30 del Reino Unido, con una fortuna de más de 100 millones de euros. Gastó US$2 millones en los festejos.",
+          "titulo": "Milei, sobre el dólar: \"Si nos vienen a correr, vamos a tener con qué enfrentarlos\"",
+          "link": "https://www.clarin.com/economia/milei-dolar-vienen-correr-vamos-tener-enfrentarlos_0_pEPTJ3xVR9.html",
+          "resumen": "Dijo que cuenta con los swaps con Estados Unidos y China. Y que tiene cubiertos pagos de deuda hasta el fin de su mandato.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "“Súper Niño”: proyectan cuánto durará el fenómeno y adelantan un importante consejo",
-          "link": "https://www.lanacion.com.ar/economia/campo/super-nino-proyectan-cuanto-durara-el-fenomeno-y-adelantan-un-importante-consejo-nid22082026/",
-          "resumen": "Especialistas del INTA brindaron recomendaciones para la campaña 2026/2027 sobre manejo de cultivos y ganadería",
+          "titulo": "Después de patear el hormiguero",
+          "link": "https://www.lanacion.com.ar/economia/despues-de-patear-el-hormiguero-nid24082026/",
+          "resumen": "",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Los incendios forestales en Europa detonan bombas y minas de la Primera y la Segunda Guerra Mundial",
-          "link": "https://www.clarin.com/mundo/incendios-forestales-europa-detonan-bombas-minas-primera-segunda-guerra-mundial_0_PAQ3QwKjQy.html",
-          "resumen": "El calor intenso que golpea este verano a los bosques de Francia, Alemania y Bélgica dejaron al descubierto armas enterradas desde las contiendas. Las altas temperaturas provocaron el estallido de muchas bombas que hasta ahora permanecían…",
+          "titulo": "Azotada por el calor, Europa suma más de 30.000 muertos",
+          "link": "https://www.clarin.com/mundo/azotada-calor-europa-suma-30000-muertos_0_pjcfVpR4lE.html",
+          "resumen": "Son los registrados desde mediados de junio por las altas temperaturas. Lo afirma EuroMomo, un sitio que analiza la mortalidad entre los europeos.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La ofensiva diplomática de Lula para blindarse ante una elección que promete ser feroz",
-          "link": "https://www.lanacion.com.ar/el-mundo/la-ofensiva-diplomatica-de-lula-para-blindarse-ante-una-eleccion-que-promete-ser-feroz-nid23082026/",
-          "resumen": "El presidente brasileño intensifica sus contactos con líderes mundiales mientras crece la preocupación en Brasilia por un resultado ajustado y una eventual intervención externa en favor de Flavio Bolsonaro",
+          "titulo": "Un alpinista quedó suspendido por horas a 50 metros de la cima de una montaña",
+          "link": "https://www.lanacion.com.ar/el-mundo/un-alpinista-quedo-suspendido-por-horas-a-50-metros-de-la-cima-de-una-montana-nid24082026/",
+          "resumen": "El hombre descendió por una línea de rápel equivocada y permaneció varias horas sujetado por un arnés; la niebla y el riesgo de desprendimientos dificultaron el operativo de rescate",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Éxodo de espías en Estados Unidos: el recorte del presupuesto golpea la CIA y se van cientos de agentes",
-          "link": "https://www.clarin.com/mundo/exodo-espias-estados-unidos-recorte-presupuesto-golpea-cia-van-cientos-agentes_0_NTSsen1pO0.html",
-          "resumen": "El plan implementado por Elon Musk durante sus meses como encargado del Departamento de Eficiencia Gubernamental causó una fuga inédita en la agencia. Algunos empleados llevan meses sin cobrar sus sueldos. Muchos adelantan la jubilación.",
+          "titulo": "El peso de Donald Trump, un factor de riesgo que comienza a preocupar en Estados Unidos",
+          "link": "https://www.clarin.com/mundo/peso-donald-trump-factor-riesgo-comienza-preocupar-estados-unidos_0_DgmlxsP0VF.html",
+          "resumen": "Los médicos de la Casa Blanca aconsejaron al presidente que mejore su dieta y haga ejercicio. En mayo pesaba 108 kilos, 10 más que los que tenía durante la campaña.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Tenía 37 años y se hacía pasar por una nena de 12 años para que una familia la cuidara",
-          "link": "https://www.lanacion.com.ar/el-mundo/tenia-38-anos-y-se-hacia-pasar-por-una-nena-de-12-anos-para-que-una-familia-la-cuidara-nid21082026/",
-          "resumen": "La mujer fue descubierta después de nueve años viviendo con distintas familias a quienes les hacía creer que era una menor con autismo",
+          "titulo": "Se agravó la salud del rey Harald de Noruega, que permanece hospitalizado",
+          "link": "https://www.lanacion.com.ar/el-mundo/se-agravo-la-salud-del-rey-harald-de-noruega-que-permanece-hospitalizado-nid23082026/",
+          "resumen": "El monarca de 89 años recibe antibióticos por una infección bacteriana en la sangre y padece anemia hemolítica",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El Papa León XIV volvió a alertar sobre la Inteligencia Artificial: \"No pueden ser los algoritmos los que decidan\"",
-          "link": "https://www.clarin.com/mundo/papa-leon-xiv-volvio-alertar-inteligencia-artificial-pueden-algoritmos-decidan_0_yxAHc5CDjV.html",
-          "resumen": "El pontífice se refirió otra vez a una de sus grandes preocupaciones. Afirmó que la tecnología debe estar \"a favor del desarrollo integral\" de las personas. Pidió una legislación clara y advirtió sobre la \"el dominio sutil de las naciones…",
+          "titulo": "Donald Trump clausuró el 250° aniversario de EE.UU. con una inédita carrera de autos en las calles de Washington",
+          "link": "https://www.clarin.com/mundo/donald-trump-clausuro-250-aniversario-eeuu-inedita-carrera-autos-calles-washington_0_RZ3Kwq7HX2.html",
+          "resumen": "Fue una competencia de IndyCar, que el presidente inició paseando en su limusina por el circuito. El objetivo del día fue “mostrar el poder del ingenio estadounidense”, dijo la Casa Blanca en un comunicado.",
           "fuente": "Clarín"
         }
       ]
@@ -112,34 +112,34 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Sergio Chiquito Romero, después del retiro se lanza como DT y habla del clásico: \"Soy de Racing; si gana Boca me va a doler, lo acepto\"",
-          "link": "https://www.clarin.com/deportes/sergio-chiquito-romero-despues-retiro-lanza-dt-habla-clasico-racing-gana-boca-va-doler-acepto_0_4BltvIcvVk.html",
-          "resumen": "El ex arquero palpita el duelo de esta noche en un mano a mano con Clarín. Cuenta que espera equpo para su debut como DT y nombra a sus dos referentes. La vida después del fútbol, la Selección, Messi y las teorías conspirativas.",
+          "titulo": "Merentiel, el 9 que siempre aparece, estiró su racha goleadora en Avellaneda y llegó a los 60 goles en Boca",
+          "link": "https://www.clarin.com/deportes/merentiel-9-siempre-aparece-estiro-racha-goleadora-avellaneda-llego-60-goles-boca_0_ebj1pzLfsg.html",
+          "resumen": "El delantero uruguayo marcó su tercer tanto consecutivo para firmar el empate 1-1 frente a Racing en el Cilindro. Se consolidó como el máximo artillero del Xeneize en el año y alcanzó los 60 gritos como azul y oro.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Partidos de hoy, domingo 23 de agosto: horarios y por dónde ver en vivo online",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/partidos-de-hoy-domingo-23-de-agosto-horarios-y-por-donde-ver-en-vivo-online-nid23082026/",
-          "resumen": "En la agenda del día se destacan la continuidad de la sexta fecha del Torneo Clausura con las presentaciones de River y Boca",
+          "titulo": "En qué canal pasan los Leones vs. India, por el Mundial de hockey 2026",
+          "link": "https://www.lanacion.com.ar/deportes/hockey/en-que-canal-pasan-los-leones-vs-india-por-el-mundial-de-hockey-2026-nid24082026/",
+          "resumen": "El encuentro de la segunda fecha se disputa este lunes desde las 9.45 en el Wagener Hockey Stadium de Amstelveen",
           "fuente": "La Nación"
         },
         {
-          "titulo": "F1 GP de Países Bajos con Franco Colapinto, EN VIVO: horario, dónde y cómo ver la carrera de la Fórmula 1 de este domingo 23 de agosto",
-          "link": "https://www.clarin.com/deportes/f1-gp-paises-bajos-franco-colapinto-vivo-horario-ver-carrera-formula-1-domingo-23-agosto_0_UpNEWl5Xlm.html",
-          "resumen": "Se disputa la fecha 12 de la temporada, pero la primera después del receso. Solo el Alpine de Gasly lleva una actualización, que el auto del argentino recibirá en Monza.",
+          "titulo": "Las Leonas vs. Bélgica, EN VIVO por el Mundial de hockey 2026: a qué hora juegan y por dónde ver",
+          "link": "https://www.ole.com.ar/hockey/leonas-vs-belgica-hoy-vivo-mundial-hockey-2026-hora-juegan-ver_0_9ue1wOBGon.html",
+          "resumen": "El seleccionado femenino, ya clasificado a la semifinal, irá contra las locales para asegurarse el primer puesto de su grupo. Seguilo en Olé.",
+          "fuente": "Olé"
+        },
+        {
+          "titulo": "El capo de la UEFA redobló la ofensiva contra Infantino: dijo que el plan de la FIFA fue “peor que la Superliga” y anticipó que tendrá rival en las elecciones",
+          "link": "https://www.clarin.com/deportes/capo-uefa-redoblo-ofensiva-infantino-dijo-plan-fifa-peor-superliga-anticipo-rival-elecciones_0_N0XNB9joVQ.html",
+          "resumen": "Ceferin aseguró que el proyecto FFE está definitivamente muerto y reveló que no habla con el suizo desde que estalló el escándalo. También cuestionó su relación con Donald Trump y calificó de “impactante” el caso Balogun.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Un grupo de argentinos le cantó el “Feliz cumpleaños” a Lautaro Martínez mientras manejaba",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/un-grupo-de-argentinos-le-canto-el-feliz-cumpleanos-a-lautaro-martinez-mientras-manejaba-nid23082026/",
-          "resumen": "Después del triunfo de Inter ante Monza, un grupo de personas se acercó al auto del delantero y le cantó sobre una base musical con ritmo de cumbia; la reacción del futbolista quedó filmada",
+          "titulo": "Quién es Facundo “Jagger” Herrera, el juvenil de Boca que fue elogiado por Arruabarrena tras su ingreso ante Racing",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/quien-es-facundo-jagger-herrera-el-juvenil-de-boca-que-fue-elogiado-por-arruabarrena-tras-su-ingreso-nid24082026/",
+          "resumen": "El defensor central de 20 años disputó su segundo partido en primera división después de debutar ante Recoleta por la Copa Sudamericana; fue capitán en la la Reserva y tiene contrato hasta diciembre de 2028",
           "fuente": "La Nación"
-        },
-        {
-          "titulo": "José Luis Clerc y su fuerte mensaje para Nick Kyrgios, el tenista que dio positivo de cocaína: \"Te quiero abrazar\"",
-          "link": "https://www.clarin.com/deportes/jose-luis-clerc-fuerte-mensaje-nick-kyrgios-tenista-dio-positivo-cocaina-quiero-abrazar_0_BiZXoQ9kcR.html",
-          "resumen": "Batata reflexionó sobre el episodio que divide al circuito ATP. En medio de críticas al australiano, el extenista argentino trató de contenerlo. \"Le estás dando la cara al mundo entero\", le dijo al ex finalista de Wimbledon.",
-          "fuente": "Clarín"
         }
       ]
     }
