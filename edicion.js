@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "24 de agosto de 2026",
-  "generada": "10:25",
+  "fecha": "25 de agosto de 2026",
+  "generada": "10:19",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Desde hace un mes, el juez Martín Irurzun está en un \"limbo\" jurídico y espera una señal de la Corte",
-          "link": "https://www.clarin.com/politica/hace-mes-juez-martin-irurzun-limbo-juridico-espera-senal-corte_0_KtQAt6lUH9.html",
-          "resumen": "Cumplió 75 años, la edad para jubilarse, pero apeló ante el máximo tribunal la decisión del Gobierno de Javier Milei de no otorgarle 5 años más de mandato. Firmó sentencias clave sobre desaparecidos, la ESMA, y la corrupción en los…",
+          "titulo": "Diputados: quiénes son los aliados que darán quórum por colar proyectos en la sesión del oficialismo",
+          "link": "https://www.clarin.com/politica/diputados-aliados-daran-quorum-colar-proyectos-sesion-oficialismo_0_DbNgf10dT3.html",
+          "resumen": "La Libertad Avanza buscará aprobar este miércoles la reforma del Banco Central y otros tres proyectos. Para sumar unos 40 diputados, el temario incluirá 12 expedientes de bloques cercanos al Gobierno.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: el armado electoral y los proyectos económicos del Presidente",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-armado-electoral-y-los-proyectos-economicos-del-presidente-nid24082026/",
+          "titulo": "Javier Milei y sus medidas, en vivo: la suba del dólar y la agenda legislativa en el Congreso",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-suba-del-dolar-y-la-agenda-legislativa-en-el-congreso-nid25082026/",
           "resumen": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Senado: qué propone el régimen de incentivos a inversiones que la UCR le pide al Gobierno",
-          "link": "https://www.infobae.com/politica/2026/08/24/senado-que-propone-el-regimen-de-incentivos-a-inversiones-que-la-ucr-le-pide-al-gobierno/",
-          "resumen": "La iniciativa apunta a proyectos desde USD 12 millones para grandes empresas y USD 150.000 para micro. Se empieza a debatir el miércoles en tres comisiones, lo que implica un desafío extra para un eventual dictamen",
+          "titulo": "El Gobierno ratificó al director de la Comisión Federal de Impuestos",
+          "link": "https://www.infobae.com/politica/2026/08/25/el-gobierno-ratifico-al-director-de-la-comision-federal-de-impuestos/",
+          "resumen": "La entidad resolvió extender la designación del actual director ejecutivo por un nuevo periodo de dos años",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Endeudamiento familiar: la oposición se junta para presionar a Javier Milei en el Congreso",
-          "link": "https://www.clarin.com/politica/endeudamiento-familiar-oposicion-junta-presionar-javier-milei-congreso_0_Pe9Pj6VBP0.html",
-          "resumen": "Se acumulan las iniciativas sobre el tema, aunque por ahora el oficialismo frena el tratamiento. Unión por la Patria y otros bloques buscarán meter la discusión en la sesión de este miércoles.",
+          "titulo": "Más problemas para Cerimedo: también fue denunciado en Brasil por un influyente youtuber",
+          "link": "https://www.clarin.com/politica/problemas-cerimedo-denunciado-brasil-influyente-youtuber_0_56RM7PXRO7.html",
+          "resumen": "El popular Felipe Neto lo demandó porque que lo acusó de recibir dinero de Lula da Silva. Ya había tenido problemas por una trama golpista en el vecino país. La denuncia es de 2024 pero con la detención del ex consultor de Milei y Rodrigo…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El robo de una moto terminó con tiros en la puerta de la casa de Eduardo Duhalde en Lomas de Zamora",
-          "link": "https://www.lanacion.com.ar/seguridad/el-robo-de-una-moto-termino-con-tiros-en-la-casa-de-eduardo-duhalde-en-lomas-de-zamora-nid23082026/",
-          "resumen": "La custodia del expresidente intervino ante el hurto y se enfrentó con los delincuentes; la víctima es un hombre de 60 años, que fue herido de bala; los sospechosos escaparon a pie y son buscados por la policía",
+          "titulo": "El viaje de Massa a Barbados no tuvo impacto puertas adentro del Frente Renovador",
+          "link": "https://www.lanacion.com.ar/politica/el-viaje-de-massa-a-barbados-no-tuvo-impacto-puertas-adentro-del-frente-renovador-nid25082026/",
+          "resumen": "El exministro de Economía no recibió reproches en sus filas; la excursión caribeña se tomó con naturalidad por la relación amistosa que lo une con Francisco De Narváez",
           "fuente": "La Nación"
         }
       ]
@@ -42,32 +42,32 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "El Gobierno adjudicó ocho corredores de rutas nacionales por 20 años: qué empresas ganaron",
-          "link": "https://www.clarin.com/economia/gobierno-adjudico-corredores-rutas-nacionales-20-anos-empresas-ganaron_0_n9n4tR5wJQ.html",
-          "resumen": "La medida fue oficializada mediante la Resolución 1379/2026 del Ministerio de Economía, publicada en el Boletín Oficial de este lunes. La adjudicación forma parte del proceso de privatización de Corredores Viales e involucra tramos de la…",
+          "titulo": "“Una situación delicada”: en la forestoindustria advierten el golpe en la actividad por la paralización de la obra pública y la caíd en la construcción",
+          "link": "https://www.clarin.com/rural/situacion-delicada-forestoindustria-advierten-golpe-actividad-paralizacion-obra-publica-caid-construccion_0_tnKusma8Yr.html",
+          "resumen": "El presidente de la Asociación Forestal Argentina (AFoA), Pablo Ruival, concedió una entrevista a Clarín Rural, en el marco del Seminario que se desarrolló en Posadas, Misiones, en el marco de la celebración del 80° aniversario de la…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Las aseguradores se aprestan a incursionar en el sistema de salud",
-          "link": "https://www.lanacion.com.ar/economia/las-aseguradores-se-aprestan-a-incursionar-en-el-sistema-de-salud-nid24082026/",
-          "resumen": "",
+          "titulo": "Las empleadas domésticas acordaron aumento de sueldo y bono en la paritaria de agosto 2026",
+          "link": "https://www.lanacion.com.ar/economia/las-empleadas-domesticas-acordaron-aumento-de-sueldo-y-bono-en-la-paritaria-de-agosto-2026-nid24082026/",
+          "resumen": "La última negociación incluye incrementos mensuales y la entrega de un bono extraordinario, según las cantidad de horas trabajadas",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Scott Bessent al rescate del mercado de bonos: ¿tendrá éxito o le doblarán el brazo?",
-          "link": "https://www.ambito.com/economia/scott-bessent-al-rescate-del-mercado-bonos-tendra-exito-o-le-doblaran-el-brazo-n6313904",
-          "resumen": "Tras el fracaso del acuerdo con Irán y la suba del petróleo, el secretario del Tesoro corre a contener el nerviosismo de los bonos largos con recompras de deuda.",
+          "titulo": "El monstruo UVA: desde 2018, la deuda creció 86 veces y el sueldo 64",
+          "link": "https://www.ambito.com/economia/el-monstruo-uva-2018-la-deuda-crecio-86-veces-y-el-sueldo-64-n6314369",
+          "resumen": "Un crédito hipotecario de $3,9 millones tomado en 2018 equivale hoy, medido en la unidad de ajuste que se pactó, a $335 millones. El salario con el que se paga esa cuota subió un tercio menos. La radiografía de una brecha que ningún…",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Milei, sobre el dólar: \"Si nos vienen a correr, vamos a tener con qué enfrentarlos\"",
-          "link": "https://www.clarin.com/economia/milei-dolar-vienen-correr-vamos-tener-enfrentarlos_0_pEPTJ3xVR9.html",
-          "resumen": "Dijo que cuenta con los swaps con Estados Unidos y China. Y que tiene cubiertos pagos de deuda hasta el fin de su mandato.",
+          "titulo": "Las compras en Amazon, Shein y Temu ya casi equiparan a todo el volumen de envíos de 2025 y complican a la industria textil local",
+          "link": "https://www.clarin.com/economia/compras-amazon-shein-temu-equiparan-volumen-envios-2025-complican-industria-textil-local_0_4cr10xBCLY.html",
+          "resumen": "Las compras en plataformas del exterior representaron US$ 107 millones en julio, 15% más que hace un año. El volumen que falta para igualar al número total de 2025 se alcanzará entre las compras de agosto y septiembre. La situación se…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Después de patear el hormiguero",
-          "link": "https://www.lanacion.com.ar/economia/despues-de-patear-el-hormiguero-nid24082026/",
+          "titulo": "Cuando el préstamo te busca a vos: cinco reglas que tenés que aprender antes de meter la pata",
+          "link": "https://www.lanacion.com.ar/economia/cuando-el-prestamo-te-busca-a-vos-cinco-reglas-que-tenes-que-aprender-antes-de-meter-la-pata-nid25082026/",
           "resumen": "",
           "fuente": "La Nación"
         }
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Azotada por el calor, Europa suma más de 30.000 muertos",
-          "link": "https://www.clarin.com/mundo/azotada-calor-europa-suma-30000-muertos_0_pjcfVpR4lE.html",
-          "resumen": "Son los registrados desde mediados de junio por las altas temperaturas. Lo afirma EuroMomo, un sitio que analiza la mortalidad entre los europeos.",
+          "titulo": "En plena campaña electoral Lula da Silva impulsa un proyecto para reducir la jornada laboral en Brasil",
+          "link": "https://www.clarin.com/mundo/plena-campana-electoral-lula-da-silva-impulsa-proyecto-reducir-jornada-laboral-brasil_0_AmJd3ih5Xy.html",
+          "resumen": "El oficialismo busca aprobar el fin de la jornada 6x1, sin reducción del salario. El 4 de octubre se realiza la primera vuelta electoral.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Un alpinista quedó suspendido por horas a 50 metros de la cima de una montaña",
-          "link": "https://www.lanacion.com.ar/el-mundo/un-alpinista-quedo-suspendido-por-horas-a-50-metros-de-la-cima-de-una-montana-nid24082026/",
-          "resumen": "El hombre descendió por una línea de rápel equivocada y permaneció varias horas sujetado por un arnés; la niebla y el riesgo de desprendimientos dificultaron el operativo de rescate",
+          "titulo": "Tiene 21 años y trabajó cinco como recolector de basura para pagar la universidad: “Una graduación es el resultado del esfuerzo, la constancia y la disciplina”",
+          "link": "https://www.lanacion.com.ar/el-mundo/tiene-21-anos-y-trabajo-cinco-como-recolector-de-basura-para-pagar-la-universidad-una-graduacion-es-nid24082026/",
+          "resumen": "José Israel Hernández Chávez terminó su formación en Derecho tras un arduo esfuerzo; su imagen con la toga junto al vehículo de residuos se convirtió en un símbolo de superación personal",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El peso de Donald Trump, un factor de riesgo que comienza a preocupar en Estados Unidos",
-          "link": "https://www.clarin.com/mundo/peso-donald-trump-factor-riesgo-comienza-preocupar-estados-unidos_0_DgmlxsP0VF.html",
-          "resumen": "Los médicos de la Casa Blanca aconsejaron al presidente que mejore su dieta y haga ejercicio. En mayo pesaba 108 kilos, 10 más que los que tenía durante la campaña.",
+          "titulo": "La Casa Blanca prepara la mayor revocación de visas de la historia de Estados Unidos",
+          "link": "https://www.clarin.com/mundo/casa-blanca-prepara-mayor-revocacion-visas-historia-estados-unidos_0_lcPQT1cPgi.html",
+          "resumen": "Son permisos para negocios y turismo. Afectará a unas 200.000 personas que han alegado ser visitantes de corta duración y luego han pedido asilo. Donald Trump había tenido un revés judicial en un intento previo.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Se agravó la salud del rey Harald de Noruega, que permanece hospitalizado",
-          "link": "https://www.lanacion.com.ar/el-mundo/se-agravo-la-salud-del-rey-harald-de-noruega-que-permanece-hospitalizado-nid23082026/",
-          "resumen": "El monarca de 89 años recibe antibióticos por una infección bacteriana en la sangre y padece anemia hemolítica",
+          "titulo": "Chile enviaría una nota de protesta a la Argentina a raíz de los dichos del jefe de la Fuerza Aérea sobre la soberanía de Magallanes",
+          "link": "https://www.lanacion.com.ar/el-mundo/chile-enviaria-una-nota-de-protesta-a-la-argentina-a-raiz-de-los-dichos-del-jefe-de-la-fuerza-aerea-nid25082026/",
+          "resumen": "El Ministerio de Relaciones Exteriores chileno, Francisco Pérez Mackenna, cuestionó las recientes declaraciones de Gustavo Javier Valverde y afirmó: “El Estrecho es indiscutiblemente chileno”",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Donald Trump clausuró el 250° aniversario de EE.UU. con una inédita carrera de autos en las calles de Washington",
-          "link": "https://www.clarin.com/mundo/donald-trump-clausuro-250-aniversario-eeuu-inedita-carrera-autos-calles-washington_0_RZ3Kwq7HX2.html",
-          "resumen": "Fue una competencia de IndyCar, que el presidente inició paseando en su limusina por el circuito. El objetivo del día fue “mostrar el poder del ingenio estadounidense”, dijo la Casa Blanca en un comunicado.",
+          "titulo": "Estados Unidos retiró a Siria de la lista de \"estados patrocinadores del terrorismo\" que impedía invertir en el país",
+          "link": "https://www.clarin.com/mundo/estados-unidos-retiro-siria-lista-estados-patrocinadores-terrorismo-impedia-invertir-pais_0_VqNbN2qQau.html",
+          "resumen": "El anuncio se da a conocer a casi dos años de la caída de Bashar al Asad. La medida es un voto de confianza para el líder Ahmed al-Sharaa, un ex yihadista que ha intentado presentarse como una figura unificadora.",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Merentiel, el 9 que siempre aparece, estiró su racha goleadora en Avellaneda y llegó a los 60 goles en Boca",
-          "link": "https://www.clarin.com/deportes/merentiel-9-siempre-aparece-estiro-racha-goleadora-avellaneda-llego-60-goles-boca_0_ebj1pzLfsg.html",
-          "resumen": "El delantero uruguayo marcó su tercer tanto consecutivo para firmar el empate 1-1 frente a Racing en el Cilindro. Se consolidó como el máximo artillero del Xeneize en el año y alcanzó los 60 gritos como azul y oro.",
+          "titulo": "River dio otro paso en falso ante Vélez y Coudet se juega mucho con Independiente Rivadavia por la Sudamericana",
+          "link": "https://www.clarin.com/deportes/river-dio-paso-falso-velez-coudet-juega-independiente-rivadavia-sudamericana_0_ct54YqF58b.html",
+          "resumen": "El Millonario ganaba 2-0 en el Monumental, pero terminó empatando 2-2 y volvió a dejar dudas en un semestre marcado por los malos resultados. Con apenas una victoria en ocho partidos y el malestar de los hinchas en aumento, Chacho…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "En qué canal pasan los Leones vs. India, por el Mundial de hockey 2026",
-          "link": "https://www.lanacion.com.ar/deportes/hockey/en-que-canal-pasan-los-leones-vs-india-por-el-mundial-de-hockey-2026-nid24082026/",
-          "resumen": "El encuentro de la segunda fecha se disputa este lunes desde las 9.45 en el Wagener Hockey Stadium de Amstelveen",
+          "titulo": "Ferro derrotó 1-0 a All Boys en un partido caliente: un penal dudoso, otro no cobrado y una expulsión controvertida",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/ferro-derroto-1-0-a-all-boys-en-un-partido-caliente-un-penal-dudoso-otro-no-cobrado-y-una-expulsion-nid25082026/",
+          "resumen": "Los de Floresta cuestionaron la falta desde los 12 pasos que le dio la victoria a los de Caballito y reclamaron otro no sancionado en su área; los Verdolagas le reprocharon al juez la roja a uno de sus futbolistas",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Las Leonas vs. Bélgica, EN VIVO por el Mundial de hockey 2026: a qué hora juegan y por dónde ver",
-          "link": "https://www.ole.com.ar/hockey/leonas-vs-belgica-hoy-vivo-mundial-hockey-2026-hora-juegan-ver_0_9ue1wOBGon.html",
-          "resumen": "El seleccionado femenino, ya clasificado a la semifinal, irá contra las locales para asegurarse el primer puesto de su grupo. Seguilo en Olé.",
+          "titulo": "Partidos de HOY, lunes 24 de agosto: agenda, horario y por dónde ver fútbol EN VIVO",
+          "link": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-lunes-24-agosto-dia-hora-ver-futbol-tv-online_0_80cpJJ7MTf.html",
+          "resumen": "Se define el último clasificado a cuartos de la Copa Libertadores, hay mucha acción del Ascenso, acción en diferentes ligas del mundo y mucho más. Mirá la programación completa.",
           "fuente": "Olé"
         },
         {
-          "titulo": "El capo de la UEFA redobló la ofensiva contra Infantino: dijo que el plan de la FIFA fue “peor que la Superliga” y anticipó que tendrá rival en las elecciones",
-          "link": "https://www.clarin.com/deportes/capo-uefa-redoblo-ofensiva-infantino-dijo-plan-fifa-peor-superliga-anticipo-rival-elecciones_0_N0XNB9joVQ.html",
-          "resumen": "Ceferin aseguró que el proyecto FFE está definitivamente muerto y reveló que no habla con el suizo desde que estalló el escándalo. También cuestionó su relación con Donald Trump y calificó de “impactante” el caso Balogun.",
+          "titulo": "Boca y la gran cuenta pendiente en la era Riquelme: ganó apenas 12 de 51 clásicos",
+          "link": "https://www.clarin.com/deportes/boca-gran-cuenta-pendiente-riquelme-gano-apenas-12-51-clasicos_0_BrtGSBwwvo.html",
+          "resumen": "El empate ante Racing volvió a poner el foco sobre uno de los puntos débiles de la gestión futbolística del presidente-ídolo. Desde diciembre de 2019, contra los otros grandes consiguió 12 triunfos, 17 derrotas y una efectividad del…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Quién es Facundo “Jagger” Herrera, el juvenil de Boca que fue elogiado por Arruabarrena tras su ingreso ante Racing",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/quien-es-facundo-jagger-herrera-el-juvenil-de-boca-que-fue-elogiado-por-arruabarrena-tras-su-ingreso-nid24082026/",
-          "resumen": "El defensor central de 20 años disputó su segundo partido en primera división después de debutar ante Recoleta por la Copa Sudamericana; fue capitán en la la Reserva y tiene contrato hasta diciembre de 2028",
+          "titulo": "La agenda de la TV del martes: la magia de Federer, Copa Libertadores y los playoffs de la Champions League",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-martes-la-magia-de-federer-copa-libertadores-y-los-playoffs-de-la-champions-nid24082026/",
+          "resumen": "La actividad deportiva en la continuidad de la semana, disponible a través de las pantallas",
           "fuente": "La Nación"
         }
       ]
