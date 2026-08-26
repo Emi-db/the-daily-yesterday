@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "25 de agosto de 2026",
-  "generada": "10:19",
+  "fecha": "26 de agosto de 2026",
+  "generada": "10:22",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Diputados: quiénes son los aliados que darán quórum por colar proyectos en la sesión del oficialismo",
-          "link": "https://www.clarin.com/politica/diputados-aliados-daran-quorum-colar-proyectos-sesion-oficialismo_0_DbNgf10dT3.html",
-          "resumen": "La Libertad Avanza buscará aprobar este miércoles la reforma del Banco Central y otros tres proyectos. Para sumar unos 40 diputados, el temario incluirá 12 expedientes de bloques cercanos al Gobierno.",
+          "titulo": "Una nueva encuesta hizo las preguntas que más irritan a Javier Milei: cómo le fue al Presidente",
+          "link": "https://www.clarin.com/politica/nueva-encuesta-hizo-preguntas-irritan-javier-milei-presidente_0_mmptFrnVNV.html",
+          "resumen": "Es el último estudio nacional de la consultora Equipo Mide. Indagó sobre el poder adquisitivo de las familias y el debate del momento: las deudas por los préstamos y las tarjetas.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: la suba del dólar y la agenda legislativa en el Congreso",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-suba-del-dolar-y-la-agenda-legislativa-en-el-congreso-nid25082026/",
+          "titulo": "Javier Milei y sus medidas, en vivo: los anuncios de Luis Caputo y el operativo para la visita del Papa",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-los-anuncios-de-luis-caputo-y-el-operativo-para-la-visita-del-nid26082026/",
           "resumen": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El Gobierno ratificó al director de la Comisión Federal de Impuestos",
-          "link": "https://www.infobae.com/politica/2026/08/25/el-gobierno-ratifico-al-director-de-la-comision-federal-de-impuestos/",
-          "resumen": "La entidad resolvió extender la designación del actual director ejecutivo por un nuevo periodo de dos años",
+          "titulo": "Córdoba impulsará una ley destinada a bajar los índices de morosidad y refinanciar las deudas",
+          "link": "https://www.infobae.com/politica/2026/08/26/cordoba-impulsara-una-ley-destinada-a-bajar-los-indices-de-morosidad-y-refinanciar-las-deudas/",
+          "resumen": "Se trata del programa “Alivio Córdobés”, que propone un circuito financiero que permita a las familias saldar sus deudas y reactivar la economía local",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Más problemas para Cerimedo: también fue denunciado en Brasil por un influyente youtuber",
-          "link": "https://www.clarin.com/politica/problemas-cerimedo-denunciado-brasil-influyente-youtuber_0_56RM7PXRO7.html",
-          "resumen": "El popular Felipe Neto lo demandó porque que lo acusó de recibir dinero de Lula da Silva. Ya había tenido problemas por una trama golpista en el vecino país. La denuncia es de 2024 pero con la detención del ex consultor de Milei y Rodrigo…",
+          "titulo": "Los jóvenes de 16 a 35 años: el dilema de los candidatos rumbo a las elecciones de 2027",
+          "link": "https://www.clarin.com/politica/jovenes-16-35-anos-dilema-candidatos-rumbo-elecciones-2027_0_kVlE1JJ4Sp.html",
+          "resumen": "El 40% del padrón electoral tiene menos de 35 años. Pero no todos los jóvenes piensan igual ni votan lo mismo.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El viaje de Massa a Barbados no tuvo impacto puertas adentro del Frente Renovador",
-          "link": "https://www.lanacion.com.ar/politica/el-viaje-de-massa-a-barbados-no-tuvo-impacto-puertas-adentro-del-frente-renovador-nid25082026/",
-          "resumen": "El exministro de Economía no recibió reproches en sus filas; la excursión caribeña se tomó con naturalidad por la relación amistosa que lo une con Francisco De Narváez",
+          "titulo": "Sergio Massa reapareció en un acto en Rosario y dejó un mensaje para el peronismo: “La unidad es lo más importante”",
+          "link": "https://www.lanacion.com.ar/politica/sergio-massa-reaparecio-en-un-acto-en-rosario-y-dejo-un-mensaje-para-el-peronismo-la-unidad-es-lo-nid26082026/",
+          "resumen": "El dirigente del Frente Renovador se mostró en público luego del viaje que emprendió con su esposa, Malena Galmarini, a Barbados",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "“Una situación delicada”: en la forestoindustria advierten el golpe en la actividad por la paralización de la obra pública y la caíd en la construcción",
-          "link": "https://www.clarin.com/rural/situacion-delicada-forestoindustria-advierten-golpe-actividad-paralizacion-obra-publica-caid-construccion_0_tnKusma8Yr.html",
-          "resumen": "El presidente de la Asociación Forestal Argentina (AFoA), Pablo Ruival, concedió una entrevista a Clarín Rural, en el marco del Seminario que se desarrolló en Posadas, Misiones, en el marco de la celebración del 80° aniversario de la…",
+          "titulo": "Las siete claves del aumento de la morosidad: qué puede pasar con los deudores",
+          "link": "https://www.clarin.com/economia/claves-aumento-morosidad-puede-pasar-deudores_0_wI6m74o7jW.html",
+          "resumen": "Hay 6 millones de personas con problemas para pagar sus deudas. La morosidad bajó levemente en junio.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Las empleadas domésticas acordaron aumento de sueldo y bono en la paritaria de agosto 2026",
-          "link": "https://www.lanacion.com.ar/economia/las-empleadas-domesticas-acordaron-aumento-de-sueldo-y-bono-en-la-paritaria-de-agosto-2026-nid24082026/",
-          "resumen": "La última negociación incluye incrementos mensuales y la entrega de un bono extraordinario, según las cantidad de horas trabajadas",
+          "titulo": "Dos operarios murieron durante un accidente en un yacimiento de Vaca Muerta",
+          "link": "https://www.lanacion.com.ar/sociedad/un-operario-murio-y-otro-resulto-herido-durante-un-accidente-en-un-yacimiento-de-vaca-muerta-nid25082026/",
+          "resumen": "El trágico hecho tuvo lugar el martes por la tarde en el bloque Rincón del Mangrullo, en las cercanías de Añelo, en Neuquén",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El monstruo UVA: desde 2018, la deuda creció 86 veces y el sueldo 64",
-          "link": "https://www.ambito.com/economia/el-monstruo-uva-2018-la-deuda-crecio-86-veces-y-el-sueldo-64-n6314369",
-          "resumen": "Un crédito hipotecario de $3,9 millones tomado en 2018 equivale hoy, medido en la unidad de ajuste que se pactó, a $335 millones. El salario con el que se paga esa cuota subió un tercio menos. La radiografía de una brecha que ningún…",
+          "titulo": "Paquetes y vuelos en dólares: cómo pagar en las agencias de viajes para evitar impuestos",
+          "link": "https://www.ambito.com/economia/paquetes-y-vuelos-dolares-como-pagar-las-agencias-viajes-evitar-impuestos-n6314514",
+          "resumen": "Dependiendo de la moneda que uses, se puede reducir el recargo del 30%, siempre que se cumplan ciertas características en la operación.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Las compras en Amazon, Shein y Temu ya casi equiparan a todo el volumen de envíos de 2025 y complican a la industria textil local",
-          "link": "https://www.clarin.com/economia/compras-amazon-shein-temu-equiparan-volumen-envios-2025-complican-industria-textil-local_0_4cr10xBCLY.html",
-          "resumen": "Las compras en plataformas del exterior representaron US$ 107 millones en julio, 15% más que hace un año. El volumen que falta para igualar al número total de 2025 se alcanzará entre las compras de agosto y septiembre. La situación se…",
+          "titulo": "Cae el empleo registrado mientras crecen la informalidad y el cuentapropismo",
+          "link": "https://www.clarin.com/economia/cae-empleo-registrado-crecen-informalidad-cuentapropismo_0_7CkHu3kwBM.html",
+          "resumen": "En un año se crearon 254.539 puestos laborales informales. Y se perdieron 54.836 empleos \"en blanco\".",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Cuando el préstamo te busca a vos: cinco reglas que tenés que aprender antes de meter la pata",
-          "link": "https://www.lanacion.com.ar/economia/cuando-el-prestamo-te-busca-a-vos-cinco-reglas-que-tenes-que-aprender-antes-de-meter-la-pata-nid25082026/",
-          "resumen": "",
+          "titulo": "José Velis, director de la Aduana, se tomó licencia y podría no continuar al frente del organismo",
+          "link": "https://www.lanacion.com.ar/politica/jose-velis-el-director-de-la-aduana-se-tomo-licencia-y-podria-no-continuar-al-frente-del-organismo-nid25082026/",
+          "resumen": "Según pudo saber LA NACION, el funcionario obtuvo un permiso laboral de dos semanas; había asumido el cargo en 2024; en la Casa Rosada aseguran que no “hay ningún cambio confirmado”",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "En plena campaña electoral Lula da Silva impulsa un proyecto para reducir la jornada laboral en Brasil",
-          "link": "https://www.clarin.com/mundo/plena-campana-electoral-lula-da-silva-impulsa-proyecto-reducir-jornada-laboral-brasil_0_AmJd3ih5Xy.html",
-          "resumen": "El oficialismo busca aprobar el fin de la jornada 6x1, sin reducción del salario. El 4 de octubre se realiza la primera vuelta electoral.",
+          "titulo": "China reaparece en el foco del ataque arancelario de la Casa Blanca",
+          "link": "https://www.clarin.com/mundo/china-reaparece-foco-ataque-arancelario-casa-blanca_0_UZH63nergu.html",
+          "resumen": "Revelan que Donald Trump analiza imponer un gravámen adicional a Beijing de 7,5% con el pretexto de que inunda al país de productos con precios irrisorios. El presidente de EE.UU. tiene prevista una cumbre con su par chino Xi Jinping…",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Científicos de Reino Unido exploraron un volcán activo del Caribe y descubrieron un inesperado tesoro en su interior",
+          "link": "https://www.lanacion.com.ar/el-mundo/cientificos-de-reino-unido-exploraron-un-volcan-activo-del-caribe-y-descubrieron-un-inesperado-nid26082026/",
+          "resumen": "Investigadores de la Universidad de Oxford analizaron el interior del volcán Soufrière Hills, en la isla de Montserrat, y detectaron a entre dos y tres kilómetros de profundidad fluidos ricos en metales",
+          "fuente": "La Nación"
+        },
+        {
+          "titulo": "Después del terremoto, los incendios forestales arrasan miles de hectáreas en Colombia y el gobierno acusa a “manos criminales”",
+          "link": "https://www.clarin.com/mundo/despues-terremoto-incendios-forestales-arrasan-miles-hectareas-colombia-gobierno-acusa-manos-criminales_0_kNMbyKnfh9.html",
+          "resumen": "Las autoridades de Tolima, la región más afectada por el fuego, afirman que el fuego se inició en forma intencional. Algunos focos se registraron en zonas donde operan grupos disidentes de las FARC y donde recientemente hubo ataques con…",
           "fuente": "Clarín"
         },
         {
           "titulo": "Tiene 21 años y trabajó cinco como recolector de basura para pagar la universidad: “Una graduación es el resultado del esfuerzo, la constancia y la disciplina”",
           "link": "https://www.lanacion.com.ar/el-mundo/tiene-21-anos-y-trabajo-cinco-como-recolector-de-basura-para-pagar-la-universidad-una-graduacion-es-nid24082026/",
-          "resumen": "José Israel Hernández Chávez terminó su formación en Derecho tras un arduo esfuerzo; su imagen con la toga junto al vehículo de residuos se convirtió en un símbolo de superación personal",
+          "resumen": "José Israel Hernández Chávez terminó su formación en Derecho tras un arduo esfuerzo; su imagen con la toga junto al vehículo de residuos se convirtió en un símbolo de superación personal y ejemplo para miles de jóvenes",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La Casa Blanca prepara la mayor revocación de visas de la historia de Estados Unidos",
-          "link": "https://www.clarin.com/mundo/casa-blanca-prepara-mayor-revocacion-visas-historia-estados-unidos_0_lcPQT1cPgi.html",
-          "resumen": "Son permisos para negocios y turismo. Afectará a unas 200.000 personas que han alegado ser visitantes de corta duración y luego han pedido asilo. Donald Trump había tenido un revés judicial en un intento previo.",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "Chile enviaría una nota de protesta a la Argentina a raíz de los dichos del jefe de la Fuerza Aérea sobre la soberanía de Magallanes",
-          "link": "https://www.lanacion.com.ar/el-mundo/chile-enviaria-una-nota-de-protesta-a-la-argentina-a-raiz-de-los-dichos-del-jefe-de-la-fuerza-aerea-nid25082026/",
-          "resumen": "El Ministerio de Relaciones Exteriores chileno, Francisco Pérez Mackenna, cuestionó las recientes declaraciones de Gustavo Javier Valverde y afirmó: “El Estrecho es indiscutiblemente chileno”",
-          "fuente": "La Nación"
-        },
-        {
-          "titulo": "Estados Unidos retiró a Siria de la lista de \"estados patrocinadores del terrorismo\" que impedía invertir en el país",
-          "link": "https://www.clarin.com/mundo/estados-unidos-retiro-siria-lista-estados-patrocinadores-terrorismo-impedia-invertir-pais_0_VqNbN2qQau.html",
-          "resumen": "El anuncio se da a conocer a casi dos años de la caída de Bashar al Asad. La medida es un voto de confianza para el líder Ahmed al-Sharaa, un ex yihadista que ha intentado presentarse como una figura unificadora.",
+          "titulo": "Un cardenal muy cercano al Papa advirtió que la carrera armamentista y la Inteligencia Artificial podrían llevar \"hacia el fin del mundo\"",
+          "link": "https://www.clarin.com/mundo/cardenal-cercano-papa-advirtio-carrera-armamentista-inteligencia-artificial-podrian-llevar-fin-mundo_0_FuunTrcaoz.html",
+          "resumen": "Es el cardenal de Argelia Jean Paul Vesco, un estrecho colaborador del pontífice. Afirmó que muchos países se están \"preparando para la guerra\", en lugar de tratar de evitarla.",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "River dio otro paso en falso ante Vélez y Coudet se juega mucho con Independiente Rivadavia por la Sudamericana",
-          "link": "https://www.clarin.com/deportes/river-dio-paso-falso-velez-coudet-juega-independiente-rivadavia-sudamericana_0_ct54YqF58b.html",
-          "resumen": "El Millonario ganaba 2-0 en el Monumental, pero terminó empatando 2-2 y volvió a dejar dudas en un semestre marcado por los malos resultados. Con apenas una victoria en ocho partidos y el malestar de los hinchas en aumento, Chacho…",
+          "titulo": "River y Coudet se juegan todo en la Copa Sudamericana: qué resultado necesita en la batalla decisiva contra Independiente Santa Fe",
+          "link": "https://www.clarin.com/deportes/river-coudet-juegan-copa-sudamericana-resultado-necesita-batalla-decisiva-independiente-santa-fe_0_lNjfR3RnAE.html",
+          "resumen": "El Chacho, hasta el momento, no pudo lograr sacar al equipo de la banda roja de la trinchera después de haber dicho que \"era Vietnam\". ¿A qué hora es, la probable formación y cómo ver el partido en vivo?",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Ferro derrotó 1-0 a All Boys en un partido caliente: un penal dudoso, otro no cobrado y una expulsión controvertida",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/ferro-derroto-1-0-a-all-boys-en-un-partido-caliente-un-penal-dudoso-otro-no-cobrado-y-una-expulsion-nid25082026/",
-          "resumen": "Los de Floresta cuestionaron la falta desde los 12 pasos que le dio la victoria a los de Caballito y reclamaron otro no sancionado en su área; los Verdolagas le reprocharon al juez la roja a uno de sus futbolistas",
+          "titulo": "Rodrigo Palacio sorprendió al debutar en un equipo de básquet de Tres Arroyos",
+          "link": "https://www.lanacion.com.ar/deportes/rodrigo-palacio-sorprendio-al-debutar-en-un-equipo-de-basquet-de-tres-arroyos-nid26082026/",
+          "resumen": "El exdelantero de Boca y la selección argentina fue titular en el triunfo de TresaBasquet ante La Torcacita; ya había practicado esta disciplina durante su juventud en Bahía Blanca y tras retirarse del fútbol en 2022",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Partidos de HOY, lunes 24 de agosto: agenda, horario y por dónde ver fútbol EN VIVO",
-          "link": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-lunes-24-agosto-dia-hora-ver-futbol-tv-online_0_80cpJJ7MTf.html",
-          "resumen": "Se define el último clasificado a cuartos de la Copa Libertadores, hay mucha acción del Ascenso, acción en diferentes ligas del mundo y mucho más. Mirá la programación completa.",
+          "titulo": "Tres regresos clave en River pero sin ritmo de juego para definir la serie de octavos de la Sudamericana",
+          "link": "https://www.ole.com.ar/river-plate/river-sudamericana-coudet-montiel-driussi-acuna_0_wRkYg5NvxM.html",
+          "resumen": "Los campeones del mundo Montiel y Acuña más el goleador Driussi volverán al 11 de Coudet este miércoles a pesar de estar recién recuperados de lesiones musculares.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Boca y la gran cuenta pendiente en la era Riquelme: ganó apenas 12 de 51 clásicos",
-          "link": "https://www.clarin.com/deportes/boca-gran-cuenta-pendiente-riquelme-gano-apenas-12-51-clasicos_0_BrtGSBwwvo.html",
-          "resumen": "El empate ante Racing volvió a poner el foco sobre uno de los puntos débiles de la gestión futbolística del presidente-ídolo. Desde diciembre de 2019, contra los otros grandes consiguió 12 triunfos, 17 derrotas y una efectividad del…",
+          "titulo": "La radiografía del ex aliado clave de Chiqui Tapia en la AFA que quiere cambiar el paradigma del marketing y sueña con la presidencia de Boca",
+          "link": "https://www.clarin.com/deportes/radiografia-ex-aliado-clave-chiqui-tapia-afa-quiere-cambiar-paradigma-marketing-suena-presidencia-boca_0_zBRMCDlm9Z.html",
+          "resumen": "Leandro Petersen fue uno de los primeros gerentes de la gestión de Chiqui y llevó el patrocinio de cinco marcas a 120 en nueve años de gestión. Habló con Clarín tras su renuncia hace un mes y en medio de rumores que lo indicaban como el…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La agenda de la TV del martes: la magia de Federer, Copa Libertadores y los playoffs de la Champions League",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-martes-la-magia-de-federer-copa-libertadores-y-los-playoffs-de-la-champions-nid24082026/",
-          "resumen": "La actividad deportiva en la continuidad de la semana, disponible a través de las pantallas",
+          "titulo": "Germán Pezzella rescindió su contrato con River y le dejó un mensaje a los hinchas: “Hasta el final de nuestras vidas”",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/german-pezzella-rescindio-su-contrato-con-river-y-le-dejo-un-mensaje-a-los-hinchas-hasta-el-final-de-nid26082026/",
+          "resumen": "El defensor campeón del mundo se despidió con un sentido posteo en redes sociales; había vuelto al club en 2024, después de nueve años en Europa",
           "fuente": "La Nación"
         }
       ]
