@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "27 de agosto de 2026",
-    "generada": "20:02",
+    "fecha": "28 de agosto de 2026",
+    "generada": "21:03",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Qué causó la avalancha y otras 3 preguntas sobre la catástrofe que dejó cientos de muertos y desaparecidos en Nepal y Tíbet",
-            "link": "https://www.bbc.com/mundo/articles/c99dv957nj0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Un grupo de científicos plantea que el evento pudo haber sido causado por el impacto de un glaciar, y no por un sismo, como se pensó en un principio. Aun así, serán necesarios más análisis para confirmar qué ocurrió realmente.",
+            "titulo": "Los mapas y gráficos que muestran la magnitud y el impacto de la avalancha en Nepal y Tíbet",
+            "link": "https://www.bbc.com/mundo/articles/cpd0v6218j0o?at_medium=RSS&at_campaign=rss",
+            "resumen": "El desastre natural ocurrió en la región de los Himalayas y afectó amplias zonas de la frontera entre Nepal y el Tíbet, incluido el paso fronterizo de Gyirong.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Más de 390 muertos y 1.400 desaparecidos por la monstruosa riada y el deslizamiento masivo de tierra entre Nepal y Tíbet",
-            "link": "https://elpais.com/internacional/2026-08-27/el-numero-de-desaparecidos-en-nepal-y-tibet-tras-la-fuerte-riada-asciende-a-mas-de-1100-segun-dos-registros.html",
-            "resumen": "Los equipos de rescate siguen sin poder acceder a algunas de las zonas más devastadas. Hay cuatro españoles sin localizar",
+            "titulo": "El riesgo de una segunda riada amenaza Nepal y Tíbet tras una catástrofe que deja ya al menos 584 muertos",
+            "link": "https://elpais.com/internacional/2026-08-28/el-riesgo-de-una-segunda-riada-amenaza-nepal-y-tibet-tras-una-catastrofe-que-deja-ya-al-menos-472-muertos.html",
+            "resumen": "Las lluvias alimentan varios represamientos naturales, mientras casi 2.500 personas continúan desaparecidas. Nepal informa del rescate de uno de los tres españoles en la lista de los desaparecidos",
             "fuente": "El País"
           },
           {
-            "titulo": "¿Nuevas fronteras de un plumazo?: Trump ordena renombrar el lago Ontario como \"lago América\" ante disputa con Canadá",
-            "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260827-nuevas-fronteras-de-un-plumazo-trump-ordena-renombrar-el-lago-ontario-como-lago-am%C3%A9rica-ante-disputa-con-canad%C3%A1",
-            "resumen": "El presidente de Estados Unidos, Donald Trump, firmó este jueves 27 de agosto una orden ejecutiva para renombrar el lago Ontario como \"lago América\" ​​, en medio de la guerra comercial con Canadá. La decisión intensifica la disputa con el…",
+            "titulo": "Elecciones en Rusia: ¿Putin busca blindar su poder en plena guerra?",
+            "link": "https://www.france24.com/es/programas/ventana-a-europa/20260828-elecciones-en-rusia-putin-busca-blindar-su-poder-en-plena-guerra",
+            "resumen": "Rusia se prepara para las elecciones de la Duma Estatal en un contexto marcado por la guerra en Ucrania, el desgaste económico y las presiones internacionales. Con el partido oficialista Rusia Unida como fuerza dominante, el Kremlin busca…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Qué es el colapso glaciar que causó la repentina y devastadora avalancha en Nepal",
-            "link": "https://www.bbc.com/mundo/articles/c4g57l0wdewo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Al principio, los expertos creían que la causa del suceso había sido un terremoto. Pero luego descubrieron que los temblores estaban relacionados con un colapso glaciar.",
+            "titulo": "Cómo la respuesta de Canadá a los nuevos aranceles de EE.UU. pone a prueba los límites del poder de Trump",
+            "link": "https://www.bbc.com/mundo/articles/cp3kwd28dl5o?at_medium=RSS&at_campaign=rss",
+            "resumen": "El presidente está utilizando el dominio estadounidense para desafiar tanto a aliados como a enemigos, pero Canadá e Irán están encontrando formas de contraatacar.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "El colapso de un glaciar y una gigantesca riada: qué sabemos de la tragedia de Nepal y qué falta por aclarar",
-            "link": "https://elpais.com/ciencia/2026-08-27/el-colapso-de-un-glaciar-y-una-gigantesca-riada-que-sabemos-de-la-tragedia-de-nepal-y-que-falta-por-aclarar.html",
-            "resumen": "Los servicios geológicos registraron un deslizamiento de magnitud 5,2 tras el desprendimiento. Exteriores confirma que hay cuatro españoles desaparecidos",
+            "titulo": "Rescatado uno de los tres españoles desaparecidos tras las riadas en Nepal",
+            "link": "https://elpais.com/internacional/2026-08-28/rescatado-uno-de-los-tres-espanoles-desaparecidos-tras-las-riadas-en-nepal.html",
+            "resumen": "Exteriores había rebajado la cifra de nacionales incomunicados de cuatro a tres, con dos mujeres aún por localizar",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Alemania y otros cinco países exigen un recorte de “varios miles de millones” en el próximo Presupuesto de la UE",
-            "link": "https://elpais.com/economia/2026-08-27/alemania-y-otros-cinco-paises-exigen-un-recorte-de-varios-miles-de-millones-en-el-proximo-presupuesto-de-la-ue.html",
-            "resumen": "El canciller alemán y los líderes de Suecia, Dinamarca, Países Bajos, Finlandia y Austria buscan rebajar notablemente la propuesta de la Comisión Europea",
+            "titulo": "La inflación se dispara en agosto hasta el 4,3% por la subida de los carburantes",
+            "link": "https://elpais.com/economia/2026-08-28/la-inflacion-se-dispara-en-agosto-hasta-el-43-por-la-subida-de-los-carburantes.html",
+            "resumen": "El IPC alcanza el nivel más alto desde febrero de 2023, aunque el indicador subyacente retrocede una décima, al 2,9%",
             "fuente": "El País"
           },
           {
-            "titulo": "Los futuros jubilados recibirán más del doble de pensión que lo cotizado a la Seguridad Social",
-            "link": "https://www.expansion.com/economia/2026/08/27/6a90154ce5fdead65c8b4573.html",
-            "resumen": "En la actualidad, el sistema de pensiones ya opera bajo un escenario de desequilibrio: por cada euro de cotizaciones se reciben, de media, 1,62 euros (un 62% más). El Instituto de Actuarios Españoles prevé un empeoramiento. Leer",
+            "titulo": "CaixaBank sube al 'top 10' de la banca de inversión que lidera Santander",
+            "link": "https://www.expansion.com/empresas/banca/2026/08/28/6a465e08e5fdeae3428b45a3.html",
+            "resumen": "El banco ha acelerado los fichajes para crecer en el negocio. Las operaciones en Bolsa y los préstamos impulsan los ingresos por comisiones. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "El precio medio de la vivienda en España alcanza por primera vez los 2.100 euros por metro cuadrado",
-            "link": "https://elpais.com/economia/vivienda/2026-08-27/el-precio-de-la-vivienda-alcanza-por-primera-vez-los-2100-euros-por-metro-cuadrado.html",
-            "resumen": "El valor medio de las casas sube en junio por quinto mes consecutivo, según los registros notariales. Madrid y Baleares superan los 4.000 euros por metro cuadrado",
+            "titulo": "Los jubilados pueden volver a trabajar como autónomos desde este viernes y mantener parte de la pensión",
+            "link": "https://elpais.com/economia/2026-08-28/los-jubilados-pueden-volver-a-trabajar-como-autonomos-desde-este-viernes-y-mantener-parte-de-la-pension.html",
+            "resumen": "El Gobierno culmina las reformas del sistema con incentivos para que los trabajadores prolonguen su vida laboral",
             "fuente": "El País"
           },
           {
-            "titulo": "Alemania suprimirá la jubilación anticipada a los 63 años con el 100% de la pensión",
-            "link": "https://www.expansion.com/economia/2026/08/27/6a903e67e5fdeaa50c8b4578.html",
-            "resumen": "En junio pasado una comisión de expertos entregó al Gobierno una propuesta de reforma del sistema de pensiones en la que se plantea un aumento de la edad de jubilación hasta los 70 años para finales de siglo. Leer",
+            "titulo": "El año en el que los ricos se volvieron locos por el oro",
+            "link": "https://www.expansion.com/economia/financial-times/2026/08/28/6a9182fd468aebd5668b457b.html",
+            "resumen": "La demanda de espacio de cámaras acorazadas se está disparando tras una vertiginosa subida del precio del oro. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Kevin Warsh se estrena en Jackson Hole entre la espada y la pared por la tormenta en el mercado de deuda",
-            "link": "https://cincodias.elpais.com/mercados-financieros/2026-08-27/kevin-warsh-se-estrena-en-jackson-hole-entre-la-espada-y-la-pared-por-la-tormenta-en-el-mercado-de-deuda.html",
-            "resumen": "Debe elegir entre mantener el perfil bajo y decepcionar al mercado o desdecirse de sus planteamientos previos y quizá enfadar a Trump",
+            "titulo": "Francia se estanca en el segundo trimestre tras una revisión a la baja del PIB",
+            "link": "https://elpais.com/economia/2026-08-28/francia-se-estanca-en-el-segundo-trimestre-tras-una-revision-a-la-baja-del-pib.html",
+            "resumen": "El instituto estadístico oficial estima que el crecimiento económico entre abril y junio fue nulo frente a la estimación inicial del 0,2% y profundiza la caída de principio de año",
             "fuente": "El País"
           }
         ]
@@ -96,9 +96,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "El ‘momento tabacaleras’ de las redes: claves de un acuerdo histórico que marcará el futuro de las plataformas",
-            "link": "https://elpais.com/tecnologia/2026-08-27/el-momento-tabacaleras-las-claves-de-un-acuerdo-historico-que-marcara-el-futuro-de-las-redes-sociales.html",
-            "resumen": "El pacto entre Meta y 52 fiscales generales de EE UU reduce las horas de uso de las plataformas entre los menores y pretende hacer de guía para el resto del sector",
+            "titulo": "El mundo que merecen los niños no es el que ha construido Meta",
+            "link": "https://elpais.com/tecnologia/2026-08-28/el-mundo-que-merecen-los-ninos-no-es-el-que-ha-construido-meta.html",
+            "resumen": "A pesar del gran poderío de las empresas tecnológicas, la ciudadanía puede tener la última palabra si trabajamos juntos",
             "fuente": "El País"
           },
           {
@@ -113,33 +113,33 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "Carvajal, Joselu y Ceballos: los agentes libres que ganaron la Champions hace dos años",
-            "link": "https://www.marca.com/futbol/2026/08/27/carvajal-joselu-ceballos-agentes-libres-ganaron-champions-dos-anos.html",
-            "resumen": "Los tres ex madridistas se encuentran sin equipo y excepto el Betis para el centrocampista, pocas opciones han barajado durante esta ventana de mercado",
+            "titulo": "El eclipse de luna, en imágenes: así se ha visto desde España",
+            "link": "https://www.marca.com/tiramillas/sociedad/2026/08/28/eclipse-luna-imagenes-asi-visto-espana.html",
+            "resumen": "La fase parcial ha comenzado a las 04:34 horas y ha concluido sobre las 07:52 horas",
             "fuente": "Marca"
           },
           {
-            "titulo": "¡Unai Simón vuelve a salvar el gol de Lamine!",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004218734/fc-barcelona-athletic-club-directo-laliga-ea-sports-futbol-primera-division-jornada-1.html",
-            "resumen": "Sigue todo lo que ocurre en el encuentro de fútbol que el Barça de Flick juega ante el Athletic Club de Bilbao en el Spotify Camp Nou.",
+            "titulo": "Julián se entrenó en solitario, por la tarde, tras una última surrealista oferta desde la Premier",
+            "link": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260828/1004220760/julian-entreno-solitario-tarde-ultima-surrealista-oferta-premier.html",
+            "resumen": "Todo lo que rodea a Julián Álvarez en este mercado de fichajes es un sinsentido. Por eso, lo que sucedió esta tarde del viernes 28 de agosto, entra dentro de los rocambolescos episodios que están rodeando al jugador en su intento de…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Livaković se rinde al Barça: \"Es el club más popular, desde niño soñamos con jugar aquí\"",
-            "link": "https://www.marca.com/futbol/barcelona/2026/08/27/livakovic-rinde-barca-club-popular-nino-sonamos-jugar-aqu-video.html",
-            "resumen": "",
+            "titulo": "Xabi Alonso se carga a Enzo Fernández y su salida al Manchester City se calienta",
+            "link": "https://www.marca.com/futbol/premier-league/2026/08/28/xabi-alonso-carga-enzo-fernandez-salida-manchester-city-calienta.html",
+            "resumen": "El argentino no entró en la convocatoria ante el Luton y en Inglaterra apuntan a una oferta inminente del equipo dirigido por Enzo Maresca. El Chelsea, abierto a la venta",
             "fuente": "Marca"
           },
           {
-            "titulo": "Durísimo sorteo para Barça, Atlético, Villarreal y Betis; amable para Madrid",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220351/durisimo-sorteo-barca-atletico-amable-madrid-betis.html",
-            "resumen": "Habrá que sudar mucho en Can Barça para allanar el camino a la soñada final del Metropolitano del 5 de junio de 2027. Thierry Henry , Premio Presidencial de la UEFA y campeón de Europa en 2009 como azulgrana, y David Villa , goleador y…",
+            "titulo": "El veto",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260828/1004220775/veto.html",
+            "resumen": "M iguel Ángel Gil es un excelente gestor. Ha sabido darle la vuelta al Atlético y hacerlo muy competitivo (el principal objetivo es cada año estar en Champions porque eso asegura la credibilidad) cuando era una entidad de excesivas…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Colapinto renueva con Alpine... por lo que Alonso no regresará con Briatore",
-            "link": "https://www.marca.com/motor/formula1/2026/08/27/colapinto-renueva-alpine-alonso-regresara-briatore.html",
-            "resumen": "La escudería de Enstone anuncia que Franco sigue en 2027 junto a Gasly",
+            "titulo": "De Le Lioran a El Bartolo: Enric Mas firma el primer 'jaque' a Pogacar desde 2024",
+            "link": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/28/le-lioran-bartolo-enric-firma-primer-jaque-pogacar-2024.html",
+            "resumen": "774 días después, un ciclista alcanza al campeón del mundo después de que atacara en la ascensión a un puerto&nbsp;",
             "fuente": "Marca"
           }
         ]
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "August 27, 2026",
-    "generada": "20:02",
+    "fecha": "August 28, 2026",
+    "generada": "21:03",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
-            "link": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.",
+            "titulo": "Norway mourns King Harald as Haakon VIII ascends throne",
+            "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
             "fuente": "BBC"
           },
           {
-            "titulo": "UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’",
-            "link": "https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism",
-            "resumen": "Lawyers claim Eman el-Shazly, from Birmingham, was detained in effort to silence her sister, a critic of Sisi regime The UK Foreign Office has been asked to intervene to secure the release of a British-Egyptian woman who it is claimed has…",
+            "titulo": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
+            "link": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
+            "resumen": "Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hours Austrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was on…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Live Updates: Rescuers Scour Remote Valleys, as Survivors Describe Families Swept Away",
-            "link": "https://www.nytimes.com/live/2026/08/27/world/nepal-tibet-flash-floods",
-            "resumen": "Officials said hundreds were killed in Nepal and Tibet in a massive flood. Stunned witnesses described a torrent of debris and water carrying away villages in minutes.",
+            "titulo": "Live Updates: Scale of Flood Disaster Grows as Nepal Doubles Estimate of Missing",
+            "link": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods",
+            "resumen": "A spokeswoman for the Nepali disaster relief agency said the tally grew to 1,900 after some 900 people were reported missing from hydropower projects. Rescue efforts were complicated by fears of new flooding.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "What we know about deadly Nepal-Tibet floods",
-            "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Hundreds have died in flooding and landslides on the border of Nepal and Tibet.",
+            "titulo": "Oslo mayor calls off wedding ceremony after death of Norway's king",
+            "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
             "fuente": "BBC"
           },
           {
-            "titulo": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
-            "link": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
-            "resumen": "Bird eggs intercepted in homemade incubators at Johannesburg airport as officials try to halt wildlife trafficking South African police have arrested two Thai nationals in separate incidents for allegedly attempting to smuggle endangered…",
+            "titulo": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
+            "link": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
+            "resumen": "Other governments could seek similar concessions, while separate legal action is pending in places ranging from Kenya to the Netherlands In October 2021, Abrham Meareg’s father, a professor of chemistry in Ethiopia’s northern town of…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Hackers steal data from millions of airport customers",
-            "link": "https://www.bbc.co.uk/news/articles/c7v4353rry7o?at_medium=RSS&at_campaign=rss",
-            "resumen": "About 8.7 million customers had their data accessed and a ransom was demanded.",
+            "titulo": "I was spending £700 a month: How I beat my late-night shopping addiction",
+            "link": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Younger generations are thought to be more susceptible to impulse spending. The BBC looks at ways to get it under control.",
             "fuente": "BBC"
           },
           {
-            "titulo": "CEOs earn 614 times more than workers at US’s 100 lowest-paying corporations",
-            "link": "https://www.theguardian.com/us-news/2026/aug/27/ceo-worker-pay-ratio-us-analysis",
-            "resumen": "Analysis by Institute for Policy Studies found that between 2019 and 2025, CEO compensation increased 41.4% The average CEO of the US’s 100 largest, lowest-paying corporations earned 614 times more than their average worker last year,…",
+            "titulo": "Detroit despairs as ‘insanity’ of Trump’s Canada trade war punishes city",
+            "link": "https://www.theguardian.com/us-news/2026/aug/28/trump-canada-trade-war-detroit-michigan",
+            "resumen": "Unpopular new policy comes as midterms loom and control of Congress could be decided by several Michigan races Every day $1bn worth of goods crosses the river dividing Detroit, Michigan, and Windsor, Ontario, two largely blue-collar US…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Dollar Tree and Dollar General Report Sales Gains as Shoppers Cut Costs",
-            "link": "https://www.nytimes.com/2026/08/27/business/dollar-general-dollar-tree.html",
-            "resumen": "Dollar General and Dollar Tree each reported gains in sales and store traffic on Thursday as higher gas prices forced shoppers to pare back.",
+            "titulo": "In Win for Trump, Chevron Is Said to Be in Talks to Expand in Venezuela",
+            "link": "https://www.nytimes.com/2026/08/28/business/energy-environment/chevron-venezuela-oil-deal.html",
+            "resumen": "The Trump administration has been pushing U.S. oil companies like Chevron to invest more in Venezuela’s oil industry.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "What the Meta settlement means for the UK, and other questions after the deal",
-            "link": "https://www.bbc.co.uk/news/articles/cg49q4xydq0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Other social media firms are yet to respond, while the debate from campaigners is far from over.",
+            "titulo": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
+            "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $18bn",
-            "link": "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement",
-            "resumen": "US tech giant agrees to establish further protections for teens such as daily usage limits and blocks on night-time use Meta agreed to significant changes to its Instagram and Facebook apps in a settlement that ended a landmark lawsuit on…",
+            "titulo": "Fed chair says delivering ‘stable prices’ is central bank’s job as inflation persists",
+            "link": "https://www.theguardian.com/business/2026/aug/28/kevin-warsh-federal-reserve-inflation",
+            "resumen": "However, Kevin Warsh didn’t say if interest rates would change in coming months, as inflation remains stubborn The US Federal Reserve is not done fighting high inflation, its chair, Kevin Warsh, said in his first major speech in the role…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "'We want them home': Families await word on loved ones missing in Nepal floods",
+            "titulo": "How the weather in space can affect us on Earth - and the team trying to protect us",
+            "link": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The weather in space has the potential to impact our lives here on Earth in a fundamental way.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "‘So much fringe science’: RFK Jr’s advisers are pushing an extreme makeover in autism research",
+            "link": "https://www.theguardian.com/society/2026/aug/28/rfk-jr-autism-research",
+            "resumen": "Experts warn the 336-page plan from RFK Jr’s advisers deflects federal dollars into unreliable alternative therapies Autism groups and researchers have reacted with alarm to a federal research roadmap drawn up by advisers handpicked by…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "NASA’s Nancy Grace Roman Telescope Promises a Breakthrough in Cosmic Exploration",
+            "link": "https://www.nytimes.com/2026/08/28/science/nasa-nancy-grace-roman-space-telescope.html",
+            "resumen": "NASA’s latest offering to the stars comes from a legacy of great observatories that enabled decades of discovery and unearthed new mysteries about the universe.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "'Our parents were crossing the border an hour before the flood hit'",
             "link": "https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&at_campaign=rss",
-            "resumen": "More than 1,300 people are missing, including dozens of Americans and Canadians. Nepali authorities say more than 380 people have died.",
+            "resumen": "Authorities say nearly 2,000 people are missing, including more than 100 Americans and Canadians, as families await word on loved ones after the Nepal flash floods.",
             "fuente": "BBC"
           },
           {
             "titulo": "How to spot a psychopath: ‘It’s like the difference between a domestic cat and a wild cat’",
             "link": "https://www.theguardian.com/science/2026/aug/27/how-to-spot-a-psychopath-its-like-the-difference-between-a-domestic-cat-and-a-wild-cat",
             "resumen": "People with persistent predatory personalities cause an inordinate amount of pain. Recently, our shared understanding of them has grown – and it could help protect us The classic checklist for psychopathy was developed in 1980 by Prof…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "Some Scientists Have ‘Magic Hands’ in the Lab. This A.I. Is Learning Why.",
-            "link": "https://www.nytimes.com/2026/08/27/science/scientists-experiments-replication-ai.html",
-            "resumen": "Even the most adept researchers may not know exactly what they do to get successful results. An A.I. model is trying to figure it out by watching every move.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "France relaxes strict cheese-making rules after prolonged drought",
-            "link": "https://www.bbc.co.uk/news/articles/c980e36dd5do?at_medium=RSS&at_campaign=rss",
-            "resumen": "Makers of some of France's most famous cheeses get waivers on where herds graze due to the lack of grass.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Everyone hates datacentres. Do we really need them? - video",
-            "link": "https://www.theguardian.com/science/video/2026/aug/27/everyone-hates-datacentres-do-we-really-need-them-video",
-            "resumen": "AI companies have promised us world-shifting technology. But there’s a cost: loud, unsightly datacentres that drain environmental resources. As the government pushes their rapid growth, can local communities do anything to push back?…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Man City and Aston Villa to face holders PSG in Champions League",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c5ywxxll10jo?at_medium=RSS&at_campaign=rss",
-            "resumen": "European champions Paris St-Germain will face Premier League duo Manchester City and Aston Villa in the league phase of this season's Champions League.",
+            "titulo": "How England are building an attack to trouble Australia",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cvgy0zdex14o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Former England captain Michael Vaughan predicts England's new pace quartet will trouble Australia - so what is making them effective against Pakistan?",
             "fuente": "BBC"
           },
           {
-            "titulo": "Uefa raises stakes with criminal complaint in battle to unseat Infantino | Matt Hughes",
-            "link": "https://www.theguardian.com/football/2026/aug/27/uefa-criminal-complaint-plan-fifa-gianni-infantino-analysis",
-            "resumen": "Uefa has begun a legal process against the embattled Fifa president in a dramatic new development Anyone who interpreted Uefa’s decision to withdraw a proposed boycott of Fifa competitions, revealed by the Guardian on Wednesday, as a…",
+            "titulo": "Crystal Palace 1-4 Manchester City: Premier League – live reaction",
+            "link": "https://www.theguardian.com/football/live/2026/aug/28/crystal-palace-v-manchester-city-premier-league-live",
+            "resumen": "Updates from 8pm kickoff (BST) at Selhurst Park Get in touch: email Michael about the game We’re off at Selhurst Park, a stadium that Erling Haaland has never failed to score at. The Norwegian gives a nod to compatriot Strand Larsen as…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Smith & Cox help England to 248-9 on truncated day one",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cddv00z4609o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Jamie Smith and Jordan Cox battle difficult conditions and an improved Pakistan performance to take England to a competitive total on the opening day of the second Test.",
+            "titulo": "More British athletes convicted in connection with Baptiste case",
+            "link": "https://www.bbc.co.uk/sport/athletics/articles/c5yenn85dqgo?at_medium=RSS&at_campaign=rss",
+            "resumen": "BBC Sport reveals that Will Sharman, Richard Sharman and Lamin Deen were also convicted in the case which led to Leon Baptiste's imprisonment.",
             "fuente": "BBC"
           },
           {
-            "titulo": "WNBA star Brink launches withering attack on Kanter Freedom over anti-trans stunt",
-            "link": "https://www.theguardian.com/sport/2026/aug/27/cameron-brink-enes-kanter-freedom-wnba",
-            "resumen": "LA star brands stunts as attempts to ‘stay relevant’ Brink defends trans community in face of attacks Opinion: Kanter is using his freedom to punch down Los Angeles Sparks star Cameron Brink has called former NBA player Enes Kanter…",
+            "titulo": "Judge grants hearing over bid to recant Jerry Sandusky sexual abuse allegations",
+            "link": "https://www.theguardian.com/sport/2026/aug/28/jerry-sandusky-penn-state-abuse-recantation-hearing",
+            "resumen": "Man claims he was coached extensively by authorities Pennsylvania says recantation is ‘highly suspect’ Sandusky serving sentence after 2012 conviction A judge has granted a hearing to explore claims that a man wants to recant allegations…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Chelsea agree £7.5m fee for Villa's Martinez",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c1j4r033wxzo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Chelsea agree a £7.5m fee to sign Aston Villa goalkeeper Emiliano Martinez.",
+            "titulo": "What will Jackson bring to Villa with Watkins set for exit?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/czjz9j3r8p8o?at_medium=RSS&at_campaign=rss",
+            "resumen": "BBC Sport examines what new striker Nicolas Jackson will bring to Aston Villa, with Ollie Watkins looking set to join Al-Hilal.",
             "fuente": "BBC"
           }
         ]

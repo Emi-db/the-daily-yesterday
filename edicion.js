@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "27 de agosto de 2026",
-  "generada": "20:02",
+  "fecha": "28 de agosto de 2026",
+  "generada": "21:03",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "El Senado aprobó los pliegos de jueces clave que podrían decidir en causas que implican al Gobierno",
-          "link": "https://www.clarin.com/politica/senado-aprobo-pliegos-jueces-clave-podrian-decidir-causas-implican-gobierno_0_DC3pIpGkl2.html",
-          "resumen": "Pablo Bertuzzi no tuvo el acompañamiento del peronismo pero seguirá como camarista. También se aprobó el pliego de Agustín Rubiero vinculado con el presidente de la AFA, Claudio \"Chiqui\" Tapia. Mahiques consiguió que el Congreso aprobara…",
+          "titulo": "Identificaron a otro desaparecido en el ex centro clandestino de detención La Perla",
+          "link": "https://www.clarin.com/politica/identificaron-desaparecido-ex-centro-clandestino-detencion-perla_0_qQqPzWvMeK.html",
+          "resumen": "El trabajo fue realizado por el Equipo Argentino de Antropología Forense y el Instituto de Medicina Forense de Córdoba. Se trata de los restos de Alejandro Ernesto Jesús Jerez Boderau quien tenía 22 años al momento de su desaparición.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Diego Santilli recibió a gobernadores del centro del país para destrabar el debate por Zonas Frías",
-          "link": "https://www.infobae.com/politica/2026/08/27/diego-santilli-recibio-a-gobernadores-del-centro-del-pais-para-destrabar-el-debate-por-zonas-frias/",
-          "resumen": "El jefe de Gabinete conversó con Maximiliano Pullaro, Martín Llarora y Rogelio Frigerio sobre las iniciativas para modificar la ley que regula el subsidio a la energía",
+          "titulo": "Escandaloso final del Consejo del Salario Mínimo: la CGT y las CTA abandonaron el encuentro y el Gobierno fijará el aumento",
+          "link": "https://www.infobae.com/politica/2026/08/28/escandaloso-final-del-consejo-del-salario-minimo-la-cgt-y-las-cta-abandonaron-el-encuentro-y-el-gobierno-fijara-el-aumento/",
+          "resumen": "Los sindicalistas reaccionaron ante la insistencia de la Secretaría de Trabajo en no permitir que la reunión sea presencial y ahora harán una denuncia internacional ante la OIT. “Queremos evitar el show para poder hablar civilizadamente”,…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Revés para la diputada Marcela Pagano y Franco Bindi por la filtración del audio en la causa ANDIS",
-          "link": "https://www.clarin.com/politica/reves-diputada-marcela-pagano-franco-bindi-filtracion-audio-causa-andis_0_qCX3dFSJJg.html",
-          "resumen": "La Corte Suprema de Justicia desestimó este jueves el planteo de la diputada Marcela Pagano y su pareja, el abogado Franco Bindi. Estos pedían acceder, como imputados, a una causa iniciada en su contra por el Gobierno de Javier Milei para…",
+          "titulo": "Milei se verá con Kast en Chile, en medio de las tensiones por el Estrecho de Magallanes",
+          "link": "https://www.clarin.com/politica/milei-vera-kast-chile-medio-tensiones-estrecho-magallanes_0_OYOz4KXdRY.html",
+          "resumen": "El Presidente tiene en agenda el Foro de Madrid, un encuentro de conservadores del que participan ambos presidentes. Esta semana, el gobierno chileno mandó una nota de protesta y exigió por todos los medios que los funcionarios…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El Senado votó 67 pliegos judiciales más y retoma el debate por la eliminación de las PASO",
-          "link": "https://www.infobae.com/politica/2026/08/27/el-senado-voto-67-pliegos-judiciales-y-retoma-el-debate-por-la-eliminacion-de-las-paso/",
-          "resumen": "La administración libertaria obtuvo el aval para los nombramientos de Pablo Bertuzzi y Pablo Yadarola en la Sala I de la Cámara Federal porteña, un fuero que puede intervenir en causas de impacto para el Ejecutivo. La Cámara ya aprobó…",
+          "titulo": "Karina Milei sumó a Diego Santilli a las recorridas en CABA y envía nuevos gestos en medio de las negociaciones con el PRO",
+          "link": "https://www.infobae.com/politica/2026/08/28/karina-milei-sumo-a-diego-santilli-a-las-recorridas-en-caba-y-envia-nuevos-gestos-en-medio-de-las-negociaciones-con-el-pro/",
+          "resumen": "La hermana del Presidente y el jefe de Gabinete visitaron el barrio de Belgrano junto a Pilar Ramírez, la jefa libertaria en el distrito. La actividad se dio tras una nueva mesa en la Casa Rosada con el PRO por un entendimiento electoral…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "La Corte agravó la situación judicial de la ex mano derecha del ex titular de la AFIP Ricardo Echegaray",
-          "link": "https://www.clarin.com/politica/corte-agravo-situacion-judicial-ex-mano-derecha-ex-titular-afip-ricardo-echegaray_0_6YTypD0MfW.html",
-          "resumen": "El máximo tribunal dejó firme la condena del ex director de la Regional Salta de la Administración Federal de Ingresos Públicos (AFIP), Rafael Resnick Brenner, por corrupción en la administración pública. Y habilitó que vuelva a ser…",
+          "titulo": "Tras la visita de Milei a la ORT, Bullrich también dio una charla en un colegio y pidió \"dejar libres\" a los chicos en sus elecciones",
+          "link": "https://www.clarin.com/politica/visita-milei-ort-bullrich-dio-charla-colegio-pidio-dejar-libres-chicos-elecciones_0_henqC2dGkH.html",
+          "resumen": "La senadora habló ante estudiantes del colegio Saint Jean y remarcó las diferencias generacionales con los adultos de hoy.",
           "fuente": "Clarín"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "La Justicia declaró inconstitucional un artículo clave de la nueva ley laboral",
-          "link": "https://www.clarin.com/economia/justicia-declaro-inconstitucional-articulo-clave-nueva-ley-laboral_0_3NtcvPx801.html",
-          "resumen": "Es el artículo 55, que para los jueces hace un tratamiento diferenciado con los empleados que iniciaron acciones legales antes de la aprobación de la ley.",
+          "titulo": "La suba de precios traccionó la venta de los productores: la comercialización de granos creció un 40% esta semana",
+          "link": "https://www.clarin.com/rural/suba-precios-tracciono-venta-productores-comercializacion-granos-crecio-40-semana_0_RUdOjjTNi7.html",
+          "resumen": "Entre este lunes y martes se comercializaron 4,3 millones de toneladas. La plaza local siguió a las subas en Chicago, aunque en menor medida. Qué hacer con los valores actuales.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Luis Caputo insiste con \"monetizar en dólares\" para reactivar la economía y apuesta a tres medidas",
-          "link": "https://www.ambito.com/economia/luis-caputo-no-renuncia-monetizar-dolares-una-debil-las-tres-medidas-que-van-esa-busqueda-n6315332",
-          "resumen": "Mientras el crédito en pesos no levanta cabeza, ante la creciente morosidad y las elevadas tasas activas, el Gobierno busca que el flujo de dólares sea motor de la economía.",
+          "titulo": "Empleo: advierten que el RIGI no alcanza para reponer ni un tercio de los puestos que se destruyeron en la era Milei",
+          "link": "https://www.ambito.com/economia/empleo-advierten-que-el-rigi-no-alcanza-reponer-ni-un-tercio-los-puestos-que-se-destruyeron-la-era-milei-n6315943",
+          "resumen": "Así lo señaló un informe de Misión Productiva, considerando los 95.158 puestos que promete el RIGI en el escenario más optimista. Al contemplar solo empleos directos y permanentes, se compensaría apenas el 4% de lo perdido.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Empleadas domésticas: cuánto se paga la hora \"real\" en agosto de 2026 y por qué ya es casi el triple que el salario pautado con el Gobierno",
-          "link": "https://www.clarin.com/economia/empleadas-domesticas-paga-hora-real-triple-salario-pautado-gobierno_0_5lGb8uOSqw.html",
-          "resumen": "La hora se acordó en $ 3.804 para agosto, cuando la gente ya está abonando entre $ 7.500 y 12.000.",
+          "titulo": "Mayores de 65: crece el peso de la PUAM sobre el total de los jubilados por la dificultad de cumplir con 30 años de aportes",
+          "link": "https://www.clarin.com/economia/mayores-65-crece-peso-puam-total-jubilados-dificultad-cumplir-30-anos-aportes_0_vOaRe3DqHV.html",
+          "resumen": "Se trata de la Prestación Universal para Adultos Mayores. Hoy representa 3% del total, pero la Subsecretaría de Previsión Social estima que llegará a 9% en cuatro años.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Villa Soldati, el barrio de CABA con más mora: quiénes le siguen en el ranking",
-          "link": "https://www.ambito.com/economia/villa-soldati-el-barrio-caba-mas-mora-quienes-le-siguen-el-ranking-n6315532",
-          "resumen": "La incidencia alcanza el 25,6% y le sigue La Boca con el 25,5%, mientras Núñez y Coghlan registran solo 9,1% según los registros de junio de 2026.",
+          "titulo": "La imagen de Javier Milei y la economía real, dos luces amarillas clave que mira el mercado",
+          "link": "https://www.ambito.com/economia/la-imagen-javier-milei-y-la-real-dos-luces-amarillas-clave-que-mira-el-mercado-n6315892",
+          "resumen": "Comparado con Cristina Kirchner y Mauricio Macri, los dos únicos mandatarios que buscaron la reelección, el actual presidente llegó mejor parado al mes 31 de gestión. Aunque advierten que se trata de un momento crítico para el futuro…",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "El cruce entre Santiago Bausili y Hernán Lacunza por la morosidad de las familias: \"Dejar en la banquina a tanta gente no es opción\"",
-          "link": "https://www.clarin.com/politica/cruce-santiago-bausili-hernan-lacunza-morosidad-familias-dejar-banquina-gente-opcion_0_UQEVpIbOfc.html",
-          "resumen": "El presidente del BCRA y el dirigente del PRO tuvieron un intenso intercambio.",
+          "titulo": "Río Negro levantó la suspensión de una mina de oro canadiense tras acordar nuevas condiciones",
+          "link": "https://www.clarin.com/energia-y-mineria/rio-negro-levanto-suspension-mina-oro-canadiense-acordar-nuevas-condiciones_0_hjNyMUzeTv.html",
+          "resumen": "Patagonia Gold reanudó las actividades en Calcatreu menos de una semana después de la suspensión dispuesta por la provincia. Deberá incorporar trabajadores locales, financiar capacitaciones y corregir observaciones de seguridad.",
           "fuente": "Clarín"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Trump firmó el decreto que cambia el nombre del Lago Ontario a Lago América y volvió a provocar: \"Ahora sólo nos falta un océano\"",
-          "link": "https://www.clarin.com/mundo/trump-firmo-decreto-cambia-nombre-lago-ontario-lago-america-volvio-provocar-ahora-solo-falta-oceano_0_dzbo3bi9no.html",
-          "resumen": "El presidente de Estados Unidos lo hizo este jueves en medio de la confrontación con Canadá. \"Los funcionarios canadienses nos han tratado muy mal. Son gente desagradable\", dijo sobre el enfrentamiento con el país vecino. Y lanzó: \"Quizás…",
+          "titulo": "El Ejército de Estados Unidos usó por primera vez un arma láser para derribar drones enemigos",
+          "link": "https://www.clarin.com/mundo/ejercito-estados-unidos-uso-primera-vez-arma-laser-derribar-drones-enemigos_0_t7tkdo4TyV.html",
+          "resumen": "Con el Láser de Alta Energía Multipropósito, neutralizó tres aparatos de narcos en la frontera con México Se abre una nueva etapa en el tipo de armas disponibles para las fuerzas de seguridad.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Misterio, dudas y versiones encontradas: ¿Por qué viajó a Rusia el director de la CIA?",
-          "link": "https://www.clarin.com/mundo/secreto-dudas-versiones-encontradas-viajo-rusia-director-cia_0_bmjQoXLnZA.html",
-          "resumen": "Según se supo esta semana, John Ratcliffe estuvo en Moscú días atrás. Aunque no se reunió con Vladimir Putin, dejó un claro mensaje. Los temores de EE.UU. y sus socios de la OTAN sobre posibles ataques.",
+          "titulo": "Empezó la construcción del puente marítimo más largo de Sudamérica: cuándo estará operativo",
+          "link": "https://www.lanacion.com.ar/el-mundo/empezo-la-construccion-del-puente-maritimo-mas-largo-de-sudamerica-cuando-estara-operativo-nid28082026/",
+          "resumen": "El gobierno brasileño dio inicio a las obras de la estructura de 12,4 kilómetros sobre la Bahía de Todos los Santos; el proyecto promete transformar la conectividad regional y reducir significativamente los tiempos de viaje para miles de…",
+          "fuente": "La Nación"
+        },
+        {
+          "titulo": "La guerra en Ucrania deja a Rusia sin efectivo y el gobierno impone un férreo ajuste",
+          "link": "https://www.clarin.com/mundo/guerra-ucrania-deja-rusia-efectivo-gobierno-impone-ferreo-ajuste_0_WoapoQJDii.html",
+          "resumen": "El gobierno implementó severas restricciones al gasto, cuando las reservas de emergencia caen a niveles mínimos. Aún así, el Kremlin tiene fondos suficientes para seguir la guerra durante varios meses más.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El Papa advierte: la liturgia debe evitar que los fieles sean \"mudos espectadores\"",
-          "link": "https://www.clarin.com/mundo/papa-advierte-liturgia-debe-evitar-fieles-mudos-espectadores_0_A6Ml9a5w2w.html",
-          "resumen": "Un diálogo no puede reducirse a un monólogo, dijo León XIV al referirse a la reforma de los rituales de la Iglesia. El \"coloquio\" con Dios es una experiencia frente a la cual \"los fieles son llamados a ofrecer mucho más que la simple…",
-          "fuente": "Clarín"
+          "titulo": "Murió el rey Harald V de Noruega a los 89 años tras 11 días de internación",
+          "link": "https://www.lanacion.com.ar/el-mundo/murio-el-rey-harald-v-de-noruega-a-los-89-anos-tras-11-dias-de-internacion-nid28082026/",
+          "resumen": "El monarca había sido hospitalizado por complicaciones vinculadas con una enfermedad hematológica y una infección bacteriana; el fallecimiento lo confirmó el Palacio Real",
+          "fuente": "La Nación"
         },
         {
-          "titulo": "En el nombre del padre: los Bolsonaro, candidatos a todo en las elecciones de Brasil",
-          "link": "https://www.clarin.com/mundo/nombre-padre-bolsonaro-candidatos-elecciones-brasil_0_lFhtV6p87d.html",
-          "resumen": "Además de Flávio, que compite por la presidencia, otros miembros de la familia del ex mandatario Jair Bolsonaro se presentan a otros cargos. Quiénes son y qué proponen.",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "\"Noruega aguanta la respiración\": el estado de salud del rey Harald es \"extremadamente grave\" y su familia la acompaña en el hospital",
-          "link": "https://www.clarin.com/mundo/noruega-aguanta-respiracion-estado-salud-rey-harald-extremadamente-grave-familia-acompana-hospital_0_6woafWTX9Y.html",
-          "resumen": "El monarca de 89 años está internado por una enfermedad hematológica y su cuadro empeoró en las últimas horas. La reina Sonja, el príncipe heredero Haakon y su esposa Mette-Marit cancelaron su agenda, al igual que el primer ministro.",
+          "titulo": "La tensión en Ceuta se convierte en el desafío más complejo para Pedro Sánchez",
+          "link": "https://www.clarin.com/mundo/tension-ceuta-convierte-desafio-complejo-pedro-sanchez_0_k4IU69RD6L.html",
+          "resumen": "La crisis migratoria en ese territorio español en África se suma a una serie de complicaciones que desgastan al gobierno socialista en España. Escala la furia en el enclave contra miles de inmigrantes que acampan en la playa desde hace un…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "F1 GP de Italia: horarios del entrenamiento y clasificación, cómo y dónde ver la Fórmula 1",
-          "link": "https://www.clarin.com/deportes/f1-gp-italia-horarios-entrenamiento-clasificacion-ver-formula-1_0_Aynex7qIFL.html",
-          "resumen": "• Tras anunciarse su continuidad en Alpine para la temporada 2027, el piloto pilarense afrontará la decimotercera fecha del campeonato sin la presión sobre su futuro. • El denominado Templo de la Velocidad exige una configuración…",
+          "titulo": "Cristiano Ronaldo, a sólo 22 goles de los 1.000: la increíble carrera con Messi y el dato en el que Leo lo duplica",
+          "link": "https://www.clarin.com/deportes/cristiano-ronaldo-solo-22-goles-1000-increible-carrera-messi-dato-leo-duplica_0_zRPYVRGqzO.html",
+          "resumen": "El portugués alcanzó los 978 tantos oficiales y, a los 41 años, quedó a un paso de una cifra que parecía imposible en el fútbol profesional. Messi suma 923 goles y está 55 por detrás, aunque lleva muchos menos partidos y tiene una…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Al quirófano: Aranda ya está en la clínica para ser operado de la fractura que lo saca de todo el 2026",
-          "link": "https://www.ole.com.ar/boca-juniors/tomasaranda-bocajuniors-jorgebatista-rodolfoarruabarrena-perone-quirofano-xeneize-torneoclausura-marcelodelgado-bocapredio_0_h2B51r1Va4.html",
-          "resumen": "El 10 de Boca será intervenido este jueves por la grave lesión sufrida en el entrenamiento del miércoles. La recuperación le demandará alrededor de cinco meses.",
+          "titulo": "La polémica amarilla que condicionó la derrota de Los Leones ante Alemania en el Mundial",
+          "link": "https://www.ole.com.ar/hockey/jugada-polemica-caida-leones-alemania-semis-mundial_0_ye7koGHMaI.html",
+          "resumen": "A diez minutos del final y con el partido 1-1, Lucio Méndez Pin fue amonestado y dejó a Argentina con uno menos. En inferioridad numérica llegó el 2-1 definitivo.",
           "fuente": "Olé"
         },
         {
-          "titulo": "El Dibu Martínez se queda en Inglaterra, pero cambia de club: se va de Aston Villa y tiene un acuerdo cerrado para llegar al Chelsea",
-          "link": "https://www.clarin.com/deportes/dibu-martinez-queda-inglaterra-cambia-club-va-aston-villa-acuerdo-cerrado-llegar-chelsea_0_GljGT3f5br.html",
-          "resumen": "El arquero argentino, de 33 años, firmará por dos temporadas con opción a una tercera. Chelsea pagará unos 7,5 millones de libras esterlinas, poco más de US$ 10 millones, por el pase del marplatense. Será su regreso a un gigante de la…",
+          "titulo": "Kily González, la apuesta para dirigir a Messi: por qué genera dudas su elección y cuál es su gran reto en Inter Miami",
+          "link": "https://www.clarin.com/deportes/kily-gonzalez-apuesta-dirigir-messi-genera-dudas-eleccion-gran-reto-inter-miami_0_pU1e2zcrpg.html",
+          "resumen": "El rosarino tendrá su primera experiencia como entrenador fuera de la Argentina y llega con un porcentaje de victorias cercano al 33 por ciento. El club de La Florida acumula cinco partidos sin ganar y este sábado, desde las 20.30,…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Se sorteó la Fase de Liga en la Champions League: así quedaron los cruces entre gigantes europeos",
-          "link": "https://www.ole.com.ar/futbol-internacional/champions/sorteo-champions-league-fase-liga-cruces-equipos-gigantes-grandes-europa-partidos-juega_0_Fo7gOYBVYl.html",
-          "resumen": "El evento de este jueves dejó varios partidazos desde el inicio del certamen. Acá, todos los detalles.",
+          "titulo": "Unión y Sarmiento abren la fecha siete del Clausura",
+          "link": "https://www.ole.com.ar/futbol-primera/union-sarmiento-torneo-clausura_0_ywLK2H15Xn.html",
+          "resumen": "El Tatengue, que viene de ganarle a Aldosivi de visitante, recibe al Verde del Colo Sava que se ilusiona de subir a la cima de la Zona B.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Eduardo Coudet se fue de River y no anduvo con vueltas: \"El proceso es insostenible si no hay resultados\"",
-          "link": "https://www.clarin.com/deportes/eduardo-coudet-river-anduvo-vueltas-explicacion-dar-futbol-veces-cosas-dan_0_P2KjEykq5P.html",
-          "resumen": "El DT se despidió acompañado por el presidente, Stefano Di Carlo, y el secretario técnico, Enzo Francescoli. \"La explicación que tenemos que dar es que esto es fútbol y que a veces las cosas se dan así\", sostuvo el Chacho. Su lugar será…",
+          "titulo": "Unión vs Sarmiento, por el Torneo Clausura 2026, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
+          "link": "https://www.clarin.com/deportes/union-vs-sarmiento-torneo-clausura-2026-vivo-hora-juegan-formaciones-ver-partido_0_ZHkeJpyKug.html",
+          "resumen": "El Tatengue y el Verde chocan por la septima fecha. Con el arbitraje de Pablo Echavarría y Hernán Mastrángelo en el VAR. Por ESPN Premium.",
           "fuente": "Clarín"
         }
       ]
