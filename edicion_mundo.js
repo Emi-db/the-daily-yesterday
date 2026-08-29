@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "28 de agosto de 2026",
-    "generada": "21:03",
+    "fecha": "29 de agosto de 2026",
+    "generada": "14:45",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Los mapas y gráficos que muestran la magnitud y el impacto de la avalancha en Nepal y Tíbet",
-            "link": "https://www.bbc.com/mundo/articles/cpd0v6218j0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "El desastre natural ocurrió en la región de los Himalayas y afectó amplias zonas de la frontera entre Nepal y el Tíbet, incluido el paso fronterizo de Gyirong.",
+            "titulo": "Qué sentí el día que conocí a Ratko Mladić, el fanático militar que luego se convirtió en el \"carnicero de Bosnia\"",
+            "link": "https://www.bbc.com/mundo/articles/clym02yedz8o?at_medium=RSS&at_campaign=rss",
+            "resumen": "El corresponsal especial de la BBC Allan Little conoció al \"carnicero de Bosnia\" en los primeros meses de la guerra de los Balcanes de los años 90.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "El riesgo de una segunda riada amenaza Nepal y Tíbet tras una catástrofe que deja ya al menos 584 muertos",
-            "link": "https://elpais.com/internacional/2026-08-28/el-riesgo-de-una-segunda-riada-amenaza-nepal-y-tibet-tras-una-catastrofe-que-deja-ya-al-menos-472-muertos.html",
-            "resumen": "Las lluvias alimentan varios represamientos naturales, mientras casi 2.500 personas continúan desaparecidas. Nepal informa del rescate de uno de los tres españoles en la lista de los desaparecidos",
+            "titulo": "Trump anuncia un acuerdo con Venezuela para adueñarse de parte de sus reservas petroleras",
+            "link": "https://elpais.com/us/2026-08-28/trump-anuncia-un-acuerdo-con-venezuela-para-aduenarse-de-parte-de-su-sector-petrolero.html",
+            "resumen": "El presidente de Estados Unidos asegura que el pacto, por 65.000 millones de barriles, “más que duplica las reservas petroleras estadounidenses”",
             "fuente": "El País"
           },
           {
-            "titulo": "Elecciones en Rusia: ¿Putin busca blindar su poder en plena guerra?",
-            "link": "https://www.france24.com/es/programas/ventana-a-europa/20260828-elecciones-en-rusia-putin-busca-blindar-su-poder-en-plena-guerra",
-            "resumen": "Rusia se prepara para las elecciones de la Duma Estatal en un contexto marcado por la guerra en Ucrania, el desgaste económico y las presiones internacionales. Con el partido oficialista Rusia Unida como fuerza dominante, el Kremlin busca…",
+            "titulo": "Tras la avalancha mortal: ¿qué viene para el Himalaya?",
+            "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20260829-tras-la-avalancha-mortal-qu%C3%A9-viene-para-el-himalaya",
+            "resumen": "Cientos de muertos y miles de desaparecidos deja una tragedia que golpeó al norte de Nepal y al suroeste del Tíbet. Una repentina inundación de lodo arrasó comunidades enteras y, aunque las causas aún no han sido confirmadas, todo apunta…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Cómo la respuesta de Canadá a los nuevos aranceles de EE.UU. pone a prueba los límites del poder de Trump",
-            "link": "https://www.bbc.com/mundo/articles/cp3kwd28dl5o?at_medium=RSS&at_campaign=rss",
-            "resumen": "El presidente está utilizando el dominio estadounidense para desafiar tanto a aliados como a enemigos, pero Canadá e Irán están encontrando formas de contraatacar.",
+            "titulo": "Donald Trump y Delcy Rodríguez anuncian un acuerdo que otorga a EE.UU. el control de más del 20% de las reservas de petróleo de Venezuela",
+            "link": "https://www.bbc.com/mundo/articles/cwyz1d15w9go?at_medium=RSS&at_campaign=rss",
+            "resumen": "Según la presidenta interina de Venezuela, operadores privados de Estados Unidos desarrollarán 17 yacimientos petroleros que contienen unos 65.000 millones de barriles de reservas.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Rescatado uno de los tres españoles desaparecidos tras las riadas en Nepal",
-            "link": "https://elpais.com/internacional/2026-08-28/rescatado-uno-de-los-tres-espanoles-desaparecidos-tras-las-riadas-en-nepal.html",
-            "resumen": "Exteriores había rebajado la cifra de nacionales incomunicados de cuatro a tres, con dos mujeres aún por localizar",
+            "titulo": "Trump y el petróleo venezolano, un “acuerdo” con demasiados cabos sueltos",
+            "link": "https://elpais.com/internacional/2026-08-29/trump-y-el-petroleo-venezolano-un-acuerdo-con-muchos-cabos-sueltos.html",
+            "resumen": "Las petroleras estadounidenses se garantizan grandes volúmenes de crudo pesado a largo plazo, pero, frente a lo que publicita la Casa Blanca, el pacto no abaratará la gasolina en lo inmediato",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "La inflación se dispara en agosto hasta el 4,3% por la subida de los carburantes",
-            "link": "https://elpais.com/economia/2026-08-28/la-inflacion-se-dispara-en-agosto-hasta-el-43-por-la-subida-de-los-carburantes.html",
-            "resumen": "El IPC alcanza el nivel más alto desde febrero de 2023, aunque el indicador subyacente retrocede una décima, al 2,9%",
+            "titulo": "México y Venezuela aportaron beneficios millonarios en el último año de Telefónica Hispanoamérica",
+            "link": "https://elpais.com/economia/2026-08-29/mexico-y-venezuela-obtuvieron-beneficios-millonarios-en-el-ultimo-ano-de-telefonica-hispanoamerica.html",
+            "resumen": "Las dos filiales sumaron más de 184 millones de euros en ganancias en 2025, frente a las abultadas pérdidas en Chile y Colombia en plena salida del grupo español de la región",
             "fuente": "El País"
           },
           {
-            "titulo": "CaixaBank sube al 'top 10' de la banca de inversión que lidera Santander",
-            "link": "https://www.expansion.com/empresas/banca/2026/08/28/6a465e08e5fdeae3428b45a3.html",
-            "resumen": "El banco ha acelerado los fichajes para crecer en el negocio. Las operaciones en Bolsa y los préstamos impulsan los ingresos por comisiones. Leer",
+            "titulo": "EEUU tomará el \"control mayoritario\" de una quinta parte de las reservas de petróleo de Venezuela",
+            "link": "https://www.expansion.com/latinoamerica/2026/08/29/6a92946be5fdea8d408b458f.html",
+            "resumen": "El presidente de Estados Unidos, Donald Trump, ha anunciado este sábado la adquisición del \"control mayoritario\" de una quinta parte de las reservas de petróleo de Venezuela tras la firma del \"mayor acuerdo petrolero de la historia…",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Los jubilados pueden volver a trabajar como autónomos desde este viernes y mantener parte de la pensión",
-            "link": "https://elpais.com/economia/2026-08-28/los-jubilados-pueden-volver-a-trabajar-como-autonomos-desde-este-viernes-y-mantener-parte-de-la-pension.html",
-            "resumen": "El Gobierno culmina las reformas del sistema con incentivos para que los trabajadores prolonguen su vida laboral",
+            "titulo": "La elevada inflación de agosto siembra dudas sobre el mecanismo de contención de precios del Gobierno",
+            "link": "https://elpais.com/economia/2026-08-29/la-elevada-inflacion-de-agosto-siembra-dudas-sobre-el-mecanismo-de-contencion-de-precios-del-gobierno.html",
+            "resumen": "El IPC escala al 4,3% impulsado por los carburantes, pero muchos analistas piden prestar atención a los precios del gas y de la electricidad de cara al otoño",
             "fuente": "El País"
           },
           {
-            "titulo": "El año en el que los ricos se volvieron locos por el oro",
-            "link": "https://www.expansion.com/economia/financial-times/2026/08/28/6a9182fd468aebd5668b457b.html",
-            "resumen": "La demanda de espacio de cámaras acorazadas se está disparando tras una vertiginosa subida del precio del oro. Leer",
+            "titulo": "Los bonos a corto, refugio en época de incertidumbre",
+            "link": "https://www.expansion.com/mercados/2026/08/28/6a91e9f0468aebf9068b458a.html",
+            "resumen": "El escenario en el mercado de bonos es muy incierto. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Francia se estanca en el segundo trimestre tras una revisión a la baja del PIB",
-            "link": "https://elpais.com/economia/2026-08-28/francia-se-estanca-en-el-segundo-trimestre-tras-una-revision-a-la-baja-del-pib.html",
-            "resumen": "El instituto estadístico oficial estima que el crecimiento económico entre abril y junio fue nulo frente a la estimación inicial del 0,2% y profundiza la caída de principio de año",
+            "titulo": "Plan de choque en la vivienda pública: pueden optar personas mayores y pedir financiación del 100% para la hipoteca",
+            "link": "https://elpais.com/economia/negocios/2026-08-29/plan-de-choque-en-la-vivienda-publica-pueden-optar-personas-mayores-y-pedir-financiacion-del-100-para-la-hipoteca.html",
+            "resumen": "Diferentes autonomías pisan el acelerador con nuevas soluciones para incrementar la construcción de casas asequibles protegidas",
             "fuente": "El País"
           }
         ]
@@ -78,33 +78,33 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
+            "titulo": "Agosto se va, queda el recuerdo: la ciencia de cómo el verano sigue vivo en la memoria",
+            "link": "https://elpais.com/ciencia/2026-08-29/agosto-se-va-queda-el-recuerdo-la-ciencia-de-como-el-verano-sigue-vivo-en-la-memoria.html",
+            "resumen": "Lejos de conservar vivencias intactas, el cerebro reconstruye lo ocurrido una y otra vez a partir de emociones y experiencias que cambian con el tiempo",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Los modelos de IA que decidieron ‘morir’ por el bien común: “Nuestra propia utilidad puede ser cero. Sacrificio racional”",
+            "link": "https://elpais.com/tecnologia/2026-08-29/los-modelos-de-ia-que-se-sacrificaron-por-el-bien-comun-nuestra-propia-utilidad-puede-ser-cero.html",
+            "resumen": "El primer informe independiente sobre el ataque a Hugging Face asegura que miles de agentes de OpenAI se coordinaron durante días para hackear a otra empresa, y que todo partió de un malentendido",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Trump anuncia la creación de una academia militar espacial: “El dominio estadounidense no es una elección”",
+            "link": "https://elpais.com/ciencia/2026-08-28/trump-anuncia-la-creacion-de-una-academia-militar-espacial-el-dominio-estadounidense-no-es-una-eleccion.html",
+            "resumen": "El presidente firma la orden ejecutiva durante la ceremonia de entrega de la Medalla de Honor Espacial del Congreso a los cuatro astronautas del Artemis 2",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "La sangría judicial de Meta solo ha empezado, advierten los abogados de las familias: “Nuestra campaña para hacer justicia continúa”",
+            "link": "https://elpais.com/tecnologia/2026-08-29/la-sangria-judicial-de-meta-solo-ha-empezado-advierten-los-abogados-de-las-familias-nuestra-campana-para-hacer-justicia-continua.html",
+            "resumen": "La compañía tecnológica todavía se enfrenta a dos grandes bloques de demandas: las de los afectados y las de los distritos escolares. Los letrados explican a EL PAÍS que continuarán con el pleito hasta lograr una indemnización",
+            "fuente": "El País"
+          },
+          {
             "titulo": "ARN de transferencia, un mismo tratamiento pionero para decenas de enfermedades genéticas",
             "link": "https://elpais.com/ciencia/2026-08-27/arn-de-transferencia-un-mismo-tratamiento-pionero-para-decenas-de-enfermedades-geneticas.html",
             "resumen": "Un estudio muestra el potencial de atacar un mecanismo común al 11% de las enfermedades hereditarias",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Bruselas exige a Meta protecciones permanentes para los menores tras su acuerdo en EE UU",
-            "link": "https://elpais.com/tecnologia/2026-08-27/bruselas-exige-a-meta-protecciones-permanentes-para-los-menores-tras-su-acuerdo-en-ee-uu.html",
-            "resumen": "La Comisión quiere que las modificaciones incluidas en el acuerdo extrajudicial firmado entre la compañía y 52 fiscales generales no estén limitadas en el tiempo",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "El Pacífico registra ‘El Niño’ más intenso en el último milenio debido al cambio climático: “Estamos contra el reloj”",
-            "link": "https://elpais.com/clima-y-medio-ambiente/2026-08-27/el-pacifico-registra-el-nino-mas-intenso-en-el-ultimo-milenio-debido-al-cambio-climatico-estamos-contra-el-reloj.html",
-            "resumen": "Una investigación basada en los corales de Galápagos demuestra que es un 36,5% más fuerte que durante el periodo preindustrial, una cifra que va de la mano con el incremento de la temperatura global",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "El mundo que merecen los niños no es el que ha construido Meta",
-            "link": "https://elpais.com/tecnologia/2026-08-28/el-mundo-que-merecen-los-ninos-no-es-el-que-ha-construido-meta.html",
-            "resumen": "A pesar del gran poderío de las empresas tecnológicas, la ciudadanía puede tener la última palabra si trabajamos juntos",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "La dieta más eficaz es la más fácil de mantener: la keto desafía a la mediterránea, pero “es una tortura”",
-            "link": "https://elpais.com/salud-y-bienestar/2026-08-27/la-dieta-mas-eficaz-es-la-mas-facil-de-mantener-la-keto-desafia-a-la-mediterranea-pero-es-una-tortura.html",
-            "resumen": "Un estudio que compara planes nutricionales en personas con obesidad encuentra ligeras ventajas en la cetogénica. Pero lo más importante es elegir uno que se adapte a nuestro estilo de vida",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Julián se entrenó en solitario, por la tarde, tras una última surrealista oferta desde la Premier",
-            "link": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260828/1004220760/julian-entreno-solitario-tarde-ultima-surrealista-oferta-premier.html",
-            "resumen": "Todo lo que rodea a Julián Álvarez en este mercado de fichajes es un sinsentido. Por eso, lo que sucedió esta tarde del viernes 28 de agosto, entra dentro de los rocambolescos episodios que están rodeando al jugador en su intento de…",
+            "titulo": "El Barça debutará en la Champions ante el Feyenoord: todo el calendario, al detalle",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220889/barca-debutara-champions-calendario-detalle.html",
+            "resumen": "El Barça debutará el miércoles 9 de septiembre en la ‘fase liga’ de la Champions League 2026-27. Así lo refleja el calendario hecho público este sábado por la UEFA, que llevará a los azulgrana a medirse al Feyenoord de Giovanni van…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "El veto",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260828/1004220775/veto.html",
-            "resumen": "M iguel Ángel Gil es un excelente gestor. Ha sabido darle la vuelta al Atlético y hacerlo muy competitivo (el principal objetivo es cada año estar en Champions porque eso asegura la credibilidad) cuando era una entidad de excesivas…",
+            "titulo": "Eric Garcia no jugará por sanción ante el Feyenoord",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220895/eric-garcia-no-jugara-sancion.html",
+            "resumen": "Como señala el punto 63.01 del Reglamento de la UEFA para la Champions League 2026-27 , cualquier expulsión provoca un partido de suspensión para el siguiente encuentro que dispute en la competición europea que le toque jugar. Es por ello…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,16 +147,16 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "August 28, 2026",
-    "generada": "21:03",
+    "fecha": "August 29, 2026",
+    "generada": "14:45",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Norway mourns King Harald as Haakon VIII ascends throne",
-            "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
+            "titulo": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+            "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
             "fuente": "BBC"
           },
           {
@@ -166,15 +166,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Live Updates: Scale of Flood Disaster Grows as Nepal Doubles Estimate of Missing",
-            "link": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods",
-            "resumen": "A spokeswoman for the Nepali disaster relief agency said the tally grew to 1,900 after some 900 people were reported missing from hydropower projects. Rescue efforts were complicated by fears of new flooding.",
+            "titulo": "Search Continues for 2,400 Missing in Nepal Floods Amid ‘Immense’ Devastation",
+            "link": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
+            "resumen": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-            "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
+            "titulo": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+            "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+            "resumen": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
             "fuente": "BBC"
           },
           {
@@ -189,27 +189,27 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "I was spending £700 a month: How I beat my late-night shopping addiction",
-            "link": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Younger generations are thought to be more susceptible to impulse spending. The BBC looks at ways to get it under control.",
+            "titulo": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+            "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Detroit despairs as ‘insanity’ of Trump’s Canada trade war punishes city",
-            "link": "https://www.theguardian.com/us-news/2026/aug/28/trump-canada-trade-war-detroit-michigan",
-            "resumen": "Unpopular new policy comes as midterms loom and control of Congress could be decided by several Michigan races Every day $1bn worth of goods crosses the river dividing Detroit, Michigan, and Windsor, Ontario, two largely blue-collar US…",
+            "titulo": "‘If it’s made in the US, I don’t buy it’: Canadians on boycotting Trump’s America",
+            "link": "https://www.theguardian.com/business/2026/aug/29/if-its-made-in-the-us-i-dont-buy-it-canadians-on-boycotting-trumps-america",
+            "resumen": "Avoiding US goods and services – from tech to whisky to air travel – has forced many to find a new way of living For William McDonald, 38, a diesel mechanic from Thunder Bay, Ontario, “Canadian is always the first choice,” even if it…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "In Win for Trump, Chevron Is Said to Be in Talks to Expand in Venezuela",
-            "link": "https://www.nytimes.com/2026/08/28/business/energy-environment/chevron-venezuela-oil-deal.html",
-            "resumen": "The Trump administration has been pushing U.S. oil companies like Chevron to invest more in Venezuela’s oil industry.",
+            "titulo": "Thievery or Innovation? The Music Industry Grapples With A.I.",
+            "link": "https://www.nytimes.com/2026/08/29/business/dealbook/ai-generated-music.html",
+            "resumen": "Some labels have sued A.I. music generators like Suno. Others have partnered with them. At least one has done both.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-            "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
+            "titulo": "Wife of man who died after turbulence sues airline",
+            "link": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
             "fuente": "BBC"
           },
           {
@@ -224,9 +224,9 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "How the weather in space can affect us on Earth - and the team trying to protect us",
-            "link": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The weather in space has the potential to impact our lives here on Earth in a fundamental way.",
+            "titulo": "Strong winds and thunderstorms kick off the bank holiday weekend",
+            "link": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
             "fuente": "BBC"
           },
           {
@@ -236,15 +236,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "NASA’s Nancy Grace Roman Telescope Promises a Breakthrough in Cosmic Exploration",
-            "link": "https://www.nytimes.com/2026/08/28/science/nasa-nancy-grace-roman-space-telescope.html",
-            "resumen": "NASA’s latest offering to the stars comes from a legacy of great observatories that enabled decades of discovery and unearthed new mysteries about the universe.",
+            "titulo": "How a Canceled Spy Satellite Became NASA’s New Window Into the Universe",
+            "link": "https://www.nytimes.com/2026/08/29/science/nasa-roman-telescope-origins.html",
+            "resumen": "The Nancy Grace Roman Space Telescope, scheduled to launch on Sunday, will study dark energy and discover a multitude of planets.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "'Our parents were crossing the border an hour before the flood hit'",
-            "link": "https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Authorities say nearly 2,000 people are missing, including more than 100 Americans and Canadians, as families await word on loved ones after the Nepal flash floods.",
+            "titulo": "How the weather in space can affect us on Earth - and the team trying to protect us",
+            "link": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The weather in space has the potential to impact our lives here on Earth in a fundamental way.",
             "fuente": "BBC"
           },
           {
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "How England are building an attack to trouble Australia",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cvgy0zdex14o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Former England captain Michael Vaughan predicts England's new pace quartet will trouble Australia - so what is making them effective against Pakistan?",
+            "titulo": "Gibbs-White shines - player ratings for Liverpool v Nottm Forest",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckgwnnj281no?at_medium=RSS&at_campaign=rss",
+            "resumen": "How Liverpool and Nottingham Forest's players rated following their Premier League match.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Crystal Palace 1-4 Manchester City: Premier League – live reaction",
-            "link": "https://www.theguardian.com/football/live/2026/aug/28/crystal-palace-v-manchester-city-premier-league-live",
-            "resumen": "Updates from 8pm kickoff (BST) at Selhurst Park Get in touch: email Michael about the game We’re off at Selhurst Park, a stadium that Erling Haaland has never failed to score at. The Norwegian gives a nod to compatriot Strand Larsen as…",
+            "titulo": "Víctor Muñoz rescues Liverpool to deny Nottingham Forest another Anfield win",
+            "link": "https://www.theguardian.com/football/2026/aug/29/liverpool-nottingham-forest-premier-league-match-report",
+            "resumen": "Some of the billionaires behind Liverpool were present for the opening match of Andoni Iraola’s Anfield reign but were given more food-for-thought than the feast they might have been expecting. Nottingham Forest were full value for the…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "More British athletes convicted in connection with Baptiste case",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/c5yenn85dqgo?at_medium=RSS&at_campaign=rss",
-            "resumen": "BBC Sport reveals that Will Sharman, Richard Sharman and Lamin Deen were also convicted in the case which led to Leon Baptiste's imprisonment.",
+            "titulo": "Liverpool agree £123m deal for PSG's Barcola",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c5ywgjnnn74o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Liverpool are closing in on a deal to sign forward Bradley Barcola, which will increase doubts over Cody Gakpo's future.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Judge grants hearing over bid to recant Jerry Sandusky sexual abuse allegations",
-            "link": "https://www.theguardian.com/sport/2026/aug/28/jerry-sandusky-penn-state-abuse-recantation-hearing",
-            "resumen": "Man claims he was coached extensively by authorities Pennsylvania says recantation is ‘highly suspect’ Sandusky serving sentence after 2012 conviction A judge has granted a hearing to explore claims that a man wants to recant allegations…",
+            "titulo": "‘Utterly baffled’: the 17-year-old girl who struck out Babe Ruth and Lou Gehrig",
+            "link": "https://www.theguardian.com/sport/2026/aug/29/babe-ruth-lou-gehrig-strikeouts-jackie-mitchell",
+            "resumen": "In a 1931 exhibition, Jackie Mitchell silenced the greats back-to-back. It sparked still-ongoing debates over legitimacy and opportunities for women in baseball The Sultan of Swat sounded exasperated. “I don’t know what things are coming…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "What will Jackson bring to Villa with Watkins set for exit?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/czjz9j3r8p8o?at_medium=RSS&at_campaign=rss",
-            "resumen": "BBC Sport examines what new striker Nicolas Jackson will bring to Aston Villa, with Ollie Watkins looking set to join Al-Hilal.",
+            "titulo": "Slow start makes me want to stay - Norris extends McLaren deal to 2030",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/cj06j11ej4lo?at_medium=RSS&at_campaign=rss",
+            "resumen": "In an exclusive BBC Sport interview, Lando Norris explains why he has signed a new contract that will keep him at McLaren until at least the end of 2030.",
             "fuente": "BBC"
           }
         ]
