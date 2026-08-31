@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "30 de agosto de 2026",
-    "generada": "14:32",
+    "fecha": "31 de agosto de 2026",
+    "generada": "17:16",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Fui secuestrada por Corea del Norte y forzada a casarme con un soldado de EE.UU.",
-            "link": "https://www.bbc.com/mundo/articles/cn7n8mp86m5o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Hitomi Soga estuvo retenida durante más de dos décadas; es una de al menos 17 ciudadanas que, según Japón, fueron secuestradas durante las décadas de 1970 y 1980.",
+            "titulo": "En qué consiste el \"mayor acuerdo petrolero de la historia\" anunciado por EE.UU. y Venezuela, y por qué es tan polémico",
+            "link": "https://www.bbc.com/mundo/articles/c783xln84p1o?at_medium=RSS&at_campaign=rss",
+            "resumen": "El acuerdo anunciado por Donald Trump y Delcy Rodriguez le otorga acceso a EE.UU. a campos con reservas probadas de 65.000 millones de barriles de crudo venezolano.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Islandia cierra la puerta a la integración en la Unión Europea",
-            "link": "https://elpais.com/internacional/2026-08-30/islandia-cierra-la-puerta-a-la-integracion-en-la-union-europea.html",
-            "resumen": "La población del país nórdico rechaza en un ajustado referéndum reabrir las negociaciones con Bruselas",
+            "titulo": "EE UU e Irán intercambian ataques por primera vez desde julio",
+            "link": "https://elpais.com/internacional/2026-08-30/el-primer-ataque-de-ee-uu-a-iran-desde-julio-provoca-varios-muertos-y-heridos.html",
+            "resumen": "Washington bombardea dos lanzaderas en la isla de Larak y Teherán responde con el lanzamiento de misiles a Jordania y drones sobre una base aérea en Emiratos",
             "fuente": "El País"
           },
           {
-            "titulo": "🔴 En directo: Nepal y China han recuperado 797 cadáveres y más de 3.000 personas siguen desaparecidas",
-            "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260830-en-directo-nepal-recupera-781-cad%C3%A1veres-y-mantiene-a-2-502-personas-desaparecidas-tras-las-inundaciones",
-            "resumen": "",
+            "titulo": "Avalancha en Nepal: las muertes confirmadas superan las 900, mientras más de 4.700 personas siguen desaparecidas",
+            "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260831-avalancha-en-nepal-las-muertes-confirmadas-superan-las-900-mientras-m%C3%A1s-de-4-000-personas-siguen-desaparecidas",
+            "resumen": "Seis días después de las repentinas riadas y posterior avalancha en Nepal, las autoriades locales confirman más de 900 personas muertas, cifra que puede continuar en ascenso a medida que avanzan las labores de recuperación de cuerpos. En…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Islandia rechaza por estrecho margen la posibilidad de adherirse a la UE en un referendo que marca la división en el país",
-            "link": "https://www.bbc.com/mundo/articles/c2dwx19gp8no?at_medium=RSS&at_campaign=rss",
-            "resumen": "Según los informes preliminares, el 52,5% rechazó la propuesta del gobierno, mientras que el 47,5% la aprobó. La diferencia entre ambos fue de unos 9.500 votos.",
+            "titulo": "La carrera contrarreloj para rescatar a más de 600 obreros de hidroeléctricas que se cree están atrapados en túneles tras la avalancha en Nepal y el Tíbet",
+            "link": "https://www.bbc.com/mundo/articles/c07lkdn73zyo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Los equipos de rescate han comenzado a realizar explosiones controladas para despejar las galerías donde se cree que podrían estar atrapados los obreros, informaron las autoridades.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "La campaña militar de Estados Unidos en América Latina entra en una nueva fase tras un año de ataques a supuestas narcolanchas",
-            "link": "https://elpais.com/america/2026-08-30/la-campana-militar-de-estados-unidos-en-america-latina-entra-en-una-nueva-fase-tras-un-ano-de-ataques-a-supuestas-narcolanchas.html",
-            "resumen": "Mientras Washington retoma los bombardeos tras una pausa de dos meses, los expertos denuncian que la antigua Operación Lanza del Sur se transforma y puede dar paso a ataques terrestres",
+            "titulo": "Trump eleva las tensiones con Irán tras los nuevos intercambios de fuego",
+            "link": "https://elpais.com/internacional/2026-08-31/trump-publica-un-video-generado-con-ia-en-el-que-celebra-la-destruccion-del-gran-centro-exportador-del-petroleo-de-iran.html",
+            "resumen": "Teherán califica de “ridículos” los mensajes del mandatario estadounidense sobre la ofensiva a la isla de Jarg y garantiza que responderá a cualquier agresión",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Europa no quiere vivir de alquiler en el nuevo orden digital",
-            "link": "https://elpais.com/economia/negocios/2026-08-29/europa-no-quiere-vivir-de-alquiler-en-el-nuevo-orden-digital.html",
-            "resumen": "Bruselas busca desarrollar capacidades propias en chips, nube e inteligencia artificial para alcanzar una verdadera soberanía tecnológica frente a EE UU y China",
+            "titulo": "Bruselas reabre el debate de los eurobonos para la emergencia climática",
+            "link": "https://elpais.com/economia/2026-08-31/bruselas-reabre-el-debate-de-los-eurobonos-para-la-emergencia-climatica.html",
+            "resumen": "Tras un verano de pesadilla, la vicepresidenta Ribera plantea reactivar la agenda verde en el arranque del curso político: emitir deuda común y un impuesto europeo a las petroleras",
             "fuente": "El País"
           },
           {
-            "titulo": "El acuerdo petrolero de EEUU con Venezuela tendrá una vigencia de 25 años",
-            "link": "https://www.expansion.com/economia/2026/08/30/6a93f62be5fdea91148b4573.html",
-            "resumen": "La presidenta encargada de Venezuela, Delcy Rodríguez, informó este sábado de que el acuerdo petrolero alcanzado con Estados Unidos tendrá una vigencia de 25 años con un objetivo de producción superior a 1,5 millones de barriles diarios.…",
+            "titulo": "El precio de la vivienda sube un 15,6% en agosto: ¿dónde lo hace con más fuerza?",
+            "link": "https://www.expansion.com/inmobiliario/mercado/2026/08/31/6a953803e5fdea720a8b4586.html",
+            "resumen": "El precio de la vivienda de segunda mano en España subió en agosto un 0,4% respecto a julio y un 15,6% en su variación interanual, situándose en los 3.166 euros/m2. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Se buscan hisperescaladores tecnológicos europeos",
-            "link": "https://elpais.com/economia/negocios/2026-08-30/se-buscan-hisperescaladores-tecnologicos-europeos.html",
-            "resumen": "Empresas como Telefónica, OVHcloud, IONOS y Mistral AI son las piezas de un ecosistema digital todavía muy alejado de la escala de Amazon, Microsoft y Google",
+            "titulo": "Un exministro de Perú competirá con Yolanda Díaz y el actual director general de la OIT en las elecciones del organismo",
+            "link": "https://elpais.com/economia/2026-08-31/un-exministro-de-peru-competira-con-yolanda-diaz-y-el-actual-director-general-de-la-oit-en-las-elecciones-del-organismo.html",
+            "resumen": "El Gobierno de Fujimori postula a Javier González-Olaechea en el último día hábil para presentar candidatos a la votación del 16 de noviembre",
             "fuente": "El País"
           },
           {
-            "titulo": "Las mejores inversiones en Bolsa para la vuelta de vacaciones",
-            "link": "https://www.expansion.com/mercados/2026/08/28/6a91ec12e5fdeafd1e8b458a.html",
-            "resumen": "Los expertos siguen apostando por la banca a pesar de la fuerte subida acumulada en 2026. Defensa, semiconductores y valores inmunes al escenario geopolítico están entre los favoritos. Leer",
+            "titulo": "Shein debutará en Bolsa con un valor cercano a los 23.000 millones",
+            "link": "https://www.expansion.com/empresas/distribucion/2026/08/31/6a9594e0468aeba21d8b4583.html",
+            "resumen": "Shein Global Holdings, el gigante asiático de la 'fast fashion', ha fijado finalmente un precio de 48,56 dólares hongkoneses (5,35 euros) para cada una de los aproximadamente 280 millones de acciones vendidas en el proceso de su salida a…",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Rechazar un puesto de funcionario por no poder pagar la casa: “A fin de mes perdía dinero por trabajar”",
-            "link": "https://elpais.com/economia/2026-08-30/rechazar-un-puesto-de-funcionario-por-no-poder-pagar-la-casa-a-fin-de-mes-perdia-dinero-por-trabajar.html",
-            "resumen": "Una encuesta de una academia especializada calcula que casi un tercio de los trabajadores públicos han declinado un ascenso o una plaza por los precios de la vivienda",
+            "titulo": "Garamendi niega que el Gobierno le apoyase en su reelección en la CEOE y prevé choques con Trabajo",
+            "link": "https://elpais.com/economia/2026-08-31/garamendi-niega-que-el-gobierno-le-apoyase-en-su-reeleccion-en-la-ceoe-y-preve-choques-con-trabajo.html",
+            "resumen": "El presidente de la patronal reclama un plan de apoyo económico para la ciudad autónoma de Ceuta",
             "fuente": "El País"
           }
         ]
@@ -84,9 +84,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "El pecado original de Meta: así acabó la mayor red social del mundo acorralada en los tribunales",
-            "link": "https://elpais.com/tecnologia/2026-08-30/el-pecado-original-de-meta-asi-acabo-la-mayor-red-social-del-mundo-acorralada-en-los-tribunales.html",
-            "resumen": "La obsesión por recabar cada vez más datos de los usuarios para monetizarlos, y la falta de límites en ese proceso, han llevado a la tecnológica a un infierno judicial de difícil salida",
+            "titulo": "Bruselas incluye a ChatGPT, Reddit y Roblox entre las plataformas más fiscalizadas por la UE",
+            "link": "https://elpais.com/tecnologia/2026-08-31/bruselas-incluye-a-chatgpt-reddit-y-roblox-entre-las-plataformas-mas-fiscalizadas-por-la-ue.html",
+            "resumen": "La Comisión Europea considera que estos tres servicios han superado el umbral de 45 millones de usuarios y, por tanto, deben someterse a reglas más estrictas",
             "fuente": "El País"
           },
           {
@@ -96,9 +96,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Los otros vertidos tóxicos del imperio Zuckerberg: limpieza étnica, explotación masiva de datos y desinformación",
-            "link": "https://elpais.com/tecnologia/2026-08-30/los-otros-vertidos-toxicos-del-imperio-zuckerberg-limpieza-etnica-explotacion-masiva-de-datos-y-desinformacion.html",
-            "resumen": "Desde la creación de Facebook, los escándalos por la falta de escrúpulos de su líder han marcado a la compañía, ahora llamada Meta",
+            "titulo": "El color de los cables USB no es casualidad: esto es lo que significa que sea blanco, negro, azul, rojo o amarillo",
+            "link": "https://elpais.com/tecnologia/2026-08-31/el-color-de-los-cables-usb-no-es-casualidad-esto-es-lo-que-significa-que-sea-blanco-negro-azul-rojo-o-amarillo.html",
+            "resumen": "Si alguna vez te has preguntado por qué algunos conectores USB tienen una lengüeta blanca, negra, azul o incluso amarilla, hay una razón. El color puede indicar su velocidad y algunas de sus funciones",
             "fuente": "El País"
           },
           {
@@ -113,33 +113,33 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "El eclipse de luna, en imágenes: así se ha visto desde España",
-            "link": "https://www.marca.com/tiramillas/sociedad/2026/08/28/eclipse-luna-imagenes-asi-visto-espana.html",
-            "resumen": "La fase parcial ha comenzado a las 04:34 horas y ha concluido sobre las 07:52 horas",
+            "titulo": "Bombazo: Messi se retira de la selección argentina",
+            "link": "https://www.marca.com/futbol/2026/08/31/bombazo-messi-retira-seleccion-argentina.html",
+            "resumen": "El argentino anuncia oficialmente que abandona el combinado de su país:&nbsp;\"Me vacié, ya no tengo más para dar\"",
             "fuente": "Marca"
           },
           {
-            "titulo": "¡El Barça se lanza a por Gabriel Jesús para ficharlo ya!",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221269/barca-lanza-gabriel-jesus-ficharlo.html",
-            "resumen": "Ante la imposibilidad de fichar ahora a Julián Álvarez por la negativa del Atlético de Madrid, el Barça se lanza a por el fichaje de Gabriel Jesús , brasileño del Arsenal de 29 años, como alternativa a la posición de delantero centro. El…",
-            "fuente": "Mundo Deportivo"
-          },
-          {
-            "titulo": "Xabi Alonso se carga a Enzo Fernández y su salida al Manchester City se calienta",
-            "link": "https://www.marca.com/futbol/premier-league/2026/08/28/xabi-alonso-carga-enzo-fernandez-salida-manchester-city-calienta.html",
-            "resumen": "El argentino no entró en la convocatoria ante el Luton y en Inglaterra apuntan a una oferta inminente del equipo dirigido por Enzo Maresca. El Chelsea, abierto a la venta",
+            "titulo": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
+            "link": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html",
+            "resumen": "Renovó con McLaren, pero dice que su sueldo es menor del que se dice",
             "fuente": "Marca"
           },
           {
-            "titulo": "El Barça, tranquilo tras informarse sobre el estado físico de Gabriel Jesús",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221279/barca-tranquilo-informarse-sobre-gran-fisico-gabriel-jesus.html",
-            "resumen": "Había marcado seis goles en los seis anteriores partidos pero el 12 de enero de 2025 quedó en silencio el Emirates Stadium al ver cómo abandonaba en lágrimas el césped Gabriel Jesús en un Arsenal-Manchester United . El diagnóstico fue…",
+            "titulo": "Gustavo Puerta da el salto a la Premier League, pero su destino inmediato estará en Grecia",
+            "link": "https://www.marca.com/co/2026/08/31/gustavo-puerta-da-salto-premier-league-destino-inmediato-estara-grecia.html",
+            "resumen": "Puerta, protagonista del cierre del mercado de fichajes en Europa",
+            "fuente": "Marca"
+          },
+          {
+            "titulo": "De Paul, Paredes o Di María: los mensajes más emotivos a Leo Messi en su despedida de la selección",
+            "link": "https://www.mundodeportivo.com/futbol/20260831/1004221758/paul-paredes-di-maria-mensajes-emotivos-leo-messi-despedida-seleccion.html",
+            "resumen": "Era la noticia que todos esperaban leer lo más tarde posible, pero este lunes ha llegado el día. Lionel Messi dice adiós a la selección argentina después de dos décadas en las que dio todo por la camiseta albiceleste y consiguió su mayor…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "De Le Lioran a El Bartolo: Enric Mas firma el primer 'jaque' a Pogacar desde 2024",
-            "link": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/28/le-lioran-bartolo-enric-firma-primer-jaque-pogacar-2024.html",
-            "resumen": "774 días después, un ciclista alcanza al campeón del mundo después de que atacara en la ascensión a un puerto&nbsp;",
+            "titulo": "Al Hilal anuncia el adiós de Karim Benzema... y es agente libre",
+            "link": "https://www.marca.com/futbol/liga-arabia-saudi/2026/08/31/hilal-anuncia-adios-karim-benzema-agente-libre.html",
+            "resumen": "El jugador francés apunta a seguir en Arabia Saudí... o a retirarse",
             "fuente": "Marca"
           }
         ]
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "August 30, 2026",
-    "generada": "14:32",
+    "fecha": "August 31, 2026",
+    "generada": "17:16",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Iceland votes against restarting talks on joining EU",
-            "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
+            "titulo": "US and Iran trade strikes for first time in weeks",
+            "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+            "resumen": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
             "fuente": "BBC"
           },
           {
-            "titulo": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
-            "link": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
-            "resumen": "More traumatised civilians are arriving every day at ‘shockingly overcrowded’ El Obeid and camps on its outskirts Humanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and deteriorating,…",
+            "titulo": "South African airline defends dramatic low-level flyby before rugby union clash",
+            "link": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
+            "resumen": "Cape Town stunt sparks major debate over safety risks Airlink insists flyby conducted according to regulations A pre-game stunt involving two passenger jets flying dramatically low over a stadium in South Africa drew huge cheers from the…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "China Says 261 Foreigners From 23 Countries Are Missing in Tibet Flood",
-            "link": "https://www.nytimes.com/2026/08/30/world/asia/tibet-nepal-flood-death-toll-china.html",
-            "resumen": "The disclosure offered one of the clearest pictures yet of the disaster on the Chinese side of the border, where authorities have released few details.",
+            "titulo": "These Generals Fought for Israel. Now They See ‘Jewish Terrorism’ as the Threat.",
+            "link": "https://www.nytimes.com/2026/08/31/world/middleeast/west-bank-israel.html",
+            "resumen": "A growing number of former Israeli generals, intelligence officials and prime ministers are accusing settlers in the West Bank of committing ethnic cleansing with government support. “Once a society behaves this way,” one said, “that…",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
-            "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
-            "resumen": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
+            "titulo": "Man arrested after Swiss rave shooting that killed woman",
+            "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
+            "resumen": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
-            "link": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
-            "resumen": "Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hours Austrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was on…",
+            "titulo": "Countries legally obliged to consider slavery reparations, says UN committee",
+            "link": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
+            "resumen": "Guidance says states must implement ‘comprehensive measures’ to address legacy of racial discrimination A UN committee has said countries are legally obliged to consider reparations for the transatlantic slave trade and take other…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
-            "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+            "titulo": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+            "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+            "resumen": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
             "fuente": "BBC"
           },
           {
-            "titulo": "Meet the gen Zers finding job opportunities teaching English abroad",
-            "link": "https://www.theguardian.com/money/2026/aug/30/young-americans-teaching-abroad",
-            "resumen": "Some young people are teaching in countries like South Korea as education funding is gutted and recent grads face a tough job market in their own countries A year ago, Arianna Marie, 25, was struggling to control the students in her…",
+            "titulo": "As US-Canada tensions flare, who’s calling the shots in Trump’s trade team?",
+            "link": "https://www.theguardian.com/us-news/2026/aug/31/trump-trade-officials-tariffs-canada",
+            "resumen": "US trade representative Jamieson Greer has a level-headed reputation but commerce secretary Howard Lutnick and White House adviser Peter Navarro also have key roles Having reportedly read Victor Hugo’s Les Misérables, in French, during a…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "A Mortgage Servicer Sent a Letter About an Address Change. Was It Deed Theft?",
-            "link": "https://www.nytimes.com/2026/08/30/business/address-change-mortgage-scam.html",
-            "resumen": "A letter arrived in the mail from PNC Bank about an address change on a mortgage account. Was a deed theft scheme in process?",
+            "titulo": "Kalshi Permanently Bars George Santos From the Platform",
+            "link": "https://www.nytimes.com/2026/08/31/business/kalshi-bans-george-santos.html",
+            "resumen": "The prediction market said it had barred George Santos, the former congressman from New York, and fined him $71,356 over evidence he engaged in insider trading.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-            "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
+            "titulo": "How the US-Canada trade war is being felt on both sides of the border",
+            "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The US-Canada trade war is being felt on both sides of the border.",
             "fuente": "BBC"
           },
           {
-            "titulo": "‘If it’s made in the US, I don’t buy it’: Canadians on boycotting Trump’s America",
-            "link": "https://www.theguardian.com/business/2026/aug/29/if-its-made-in-the-us-i-dont-buy-it-canadians-on-boycotting-trumps-america",
-            "resumen": "Avoiding US goods and services – from tech to whisky to air travel – has forced many to find a new way of living For William McDonald, 38, a diesel mechanic from Thunder Bay, Ontario, “Canadian is always the first choice,” even if it…",
+            "titulo": "‘Revenge of the Rust belt’: Starbucks film-maker on Baristas vs Billionaires",
+            "link": "https://www.theguardian.com/business/2026/aug/31/starbucks-documentary-baristas-billionaires",
+            "resumen": "Director Mark Mori followed coffee chain workers’ struggle to unionize: ‘These young kids are so inspirational’ As the food service industry was pushed on to the frontlines of the Covid-19 pandemic in 2021, workers at Starbucks stores in…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
+            "titulo": "'A giant leap forward': Nasa launches powerful new space telescope",
+            "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Smelling test: children need education in sniffing aromas, scientist says",
+            "link": "https://www.theguardian.com/science/2026/aug/31/children-education-sniffing-aromas-scientist",
+            "resumen": "Exclusive: Dr Will Tullett says better understanding of scents can improve wellbeing and perception of the world Children need a better education in sniffing aromas, a leading historian of smells has said, noting it may improve their…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "Study A.I. Consciousness? The Bots Would Like a Word With You.",
+            "link": "https://www.nytimes.com/2026/08/31/science/ai-consciousness-agents-email.html",
+            "resumen": "Given access to email, A.I. agents have started reaching out to the philosophers and researchers exploring deep questions about them.",
+            "fuente": "N.Y. Times"
+          },
+          {
             "titulo": "The race to stop England running out of water",
             "link": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
             "resumen": "Who is to blame for the summer drought, and can England future-proof its water supplies?",
             "fuente": "BBC"
           },
           {
-            "titulo": "Researchers find Britain’s 11th-century ‘Conquest Man’ was Scandinavian – but did he land with the Norman army?",
-            "link": "https://www.theguardian.com/uk-news/2026/aug/30/11th-century-conquest-man-scandinavian-norman-army",
-            "resumen": "It’s ‘plausible’, though more likely the Humberside resident was one of many immigrants to Viking-controlled Danelaw One of the most consequential showdowns in the history of the British Isles, the Battle of Hastings is seen as the…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "NASA’s Nancy Grace Roman Telescope’s Roman Telescope Leaves Earth to Chart the Stars",
-            "link": "https://www.nytimes.com/2026/08/30/science/spacex-roman-telescope-launch.html",
-            "resumen": "Astronomers will use data collected by Roman’s wide, deep gaze to study the dark universe and hunt for new worlds.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "Thunderstorms and gusty winds set to continue into Bank Holiday Monday",
-            "link": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Artemis II astronauts receive nation's highest space honor for their successful moonshot",
-            "link": "https://www.theguardian.com/science/2026/aug/29/artemis-ii-astronauts-congressional-space-medal-of-honor",
-            "resumen": "Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen receive Congressional Space Medal of Honor The Artemis II astronauts who flew around the moon in April received the US’s highest space honor on Friday. Donald Trump presented…",
+            "titulo": "Forbidden planet: was Pluto’s 2006 demotion a big mistake?",
+            "link": "https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake",
+            "resumen": "Since it was stripped of planetary status, Pluto’s defenders have been fighting the decision – and they’re only getting more passionate Twenty years ago, Pluto got demoted. After a vote by the International Astronomical Union (IAU) in…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Barcelona close to deal for Arsenal's Jesus",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c9qr79jr1qqo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Barcelona are closing in on a move for Arsenal striker Gabriel Jesus in a deal worth £8.6m.",
+            "titulo": "Messi retires from Argentina duty with 'nothing left to give'",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
+            "resumen": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
             "fuente": "BBC"
           },
           {
-            "titulo": "Chelsea v Brighton, Leeds v Brentford, Sunderland v Fulham: Premier League – live",
-            "link": "https://www.theguardian.com/football/live/2026/aug/30/chelsea-brighton-leeds-brentford-sunderland-fulham-premier-league-live",
-            "resumen": "Premier League updates from the 2pm (BST) kick-offs Live scoreboard | Mail John and follow us on Bluesky Mark Slater gets in touch: “I will be following the Chelsea vs Brighton match particulary, but am happy to see a Joy Division quote…",
+            "titulo": "Argentina’s Lionel Messi retires from international football: ‘This hurts me a lot’",
+            "link": "https://www.theguardian.com/football/2026/aug/31/lionel-messi-retires-from-international-football-argentina",
+            "resumen": "Argentina great’s last game was in World Cup final Player’s father Jorge passed away earlier in August Lionel Messi has announced his retirement from international football seven weeks after Argentina were beaten by Spain in the World Cup…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Everton call off Armstrong sale after fan backlash",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c0lrge3dwklo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Everton have called off a proposed deal to sell midfielder Harrison Armstrong to Nottingham Forest following a backlash from the club's supporters.",
+            "titulo": "Pakistan drop seven players and release head coach",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cvgy9qqvwzxo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Pakistan respond to their series defeat by England by taking the extraordinary step of dropping seven players, calling up five uncapped players and releasing their head coach.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Hospitality boom and $100 chicken nuggets: how the US Open became obscenely expensive",
-            "link": "https://www.theguardian.com/sport/2026/aug/30/us-open-ticket-prices-usta-resale-affordability",
-            "resumen": "Record crowds, premium seats and an unchecked resale market are transforming the self-styled people’s slam – and leaving ordinary fans fighting to get through the gates It takes a truly exceptional affordability crisis to put Bill Ackman…",
+            "titulo": "Venus Williams bows out after 2am following latest start in US Open history",
+            "link": "https://www.theguardian.com/sport/2026/aug/31/venus-williams-sofia-kenin-us-open-first-round",
+            "resumen": "Kenin wins 6-2, 7-6 (6) in late-night contest Williams loses 15th straight tour-level match First-round clash finally begins at 12.13am Sunday had become Monday by the time Venus Williams finally emerged beneath the closed roof of Arthur…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Tottenham make Ndiaye move with Richarlison set for Everton",
-            "link": "https://www.bbc.co.uk/sport/football/articles/crl631pgxj7o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Tottenham are in advanced talks to sign Iliman Ndiaye from Everton, with Richarlison set to move in the opposite direction as part of separate negotiations.",
+            "titulo": "Man City's £80m move for Gakpo close to collapse",
+            "link": "https://www.bbc.co.uk/sport/football/articles/crm97epp2l4o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Manchester City's proposed £80m move for Liverpool forward Cody Gakpo is close to collapsing.",
             "fuente": "BBC"
           }
         ]
