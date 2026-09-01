@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "31 de agosto de 2026",
-  "generada": "17:16",
+  "fecha": "1 de septiembre de 2026",
+  "generada": "14:21",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "\"Muchas gracias, hombre imposible\": el mensaje de Javier Milei para Leo Messi tras su retiro de la Selección Argentina",
-          "link": "https://www.clarin.com/politica/muchas-gracias-hombre-imposible-mensaje-javier-milei-leo-messi-retiro-seleccion-argentina_0_QV7qhl7INN.html",
-          "resumen": "El Presidente compartió una publicación en su cuenta de Instagram tras el anuncio del futbolista. \"Me vacié, ya no tengo más para dar”, dijo Messi en sus redes sociales tras 20 años vistiendo la camiseta albiceleste.",
+          "titulo": "Gran Bretaña le contestó a Trump tras su frase sobre las Malvinas: \"Nuestro compromiso con los isleños es inquebrantable\"",
+          "link": "https://www.clarin.com/politica/gran-bretana-contesto-trump-frase-malvinas-compromiso-kelpers-inquebrantable_0_hamvA9eNDz.html",
+          "resumen": "Lo dijo el vocero del primer ministro y el secretario de Hacienda inglés también le contestó: \"Son británicas y seguirán siendo británicas\". Trump dijo que podía revisar su posición de apoyo a los ingleses.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Hotesur-Los Sauces: Semana clave para definir cuándo se sentarán en el banquillo de los acusados Cristina y Máximo Kirchner",
-          "link": "https://www.clarin.com/politica/hotesur-los-sauces-semana-clave-definir-sentaran-banquillo-acusados-cristina-maximo-kirchner_0_wY5IP8BFMh.html",
-          "resumen": "Es el demorado juicio por lavado de dinero con las dos empresas de la familia expresidencial. El jueves habrá una audiencia ante el TOF 5. En las audiencias por los dos casos, que se juzgarán juntos, desfilarán 300 testigos.",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "Milei abrió el Congreso de la FIA y pidió que Argentina sea sede de la Fórmula 1: \"Queremos ver a Colapinto en el país\"",
-          "link": "https://www.infobae.com/politica/2026/08/31/milei-abrio-el-congreso-de-la-fia-y-pidio-que-argentina-sea-sede-de-la-formula-1-queremos-ver-a-colapinto-en-el-pais/",
-          "resumen": "Ante la cúpula de la FIA reunida en Buenos Aires, el mandatario evocó las tres épocas en que la Fórmula 1 corrió en el autódromo Gálvez y convocó a soñar con el regreso de la máxima categoría al país.",
+          "titulo": "El Papa recibirá en Buenos Aires a los donantes que ayuden a financiar su visita a la Argentina",
+          "link": "https://www.infobae.com/politica/2026/09/01/el-papa-recibira-en-buenos-aires-a-los-donantes-que-ayuden-a-financiar-su-visita-a-la-argentina/",
+          "resumen": "El Vaticano ya dio luz verde para que León XIV mantenga uno o dos encuentros privados con benefactores durante su estadía en la Ciudad. La organización calcula un costo cercano a los 25 millones de dólares y tanto la Iglesia como el…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Denuncian que abrieron cajones y se llevaron comida de la Sala de Acreditados en Casa Rosada: en el Gobierno dicen que están \"averiguando qué pasó\"",
-          "link": "https://www.clarin.com/politica/denuncian-abrieron-cajones-llevaron-comida-sala-acreditados-casa-rosada-gobierno-dicen-averiguando-paso_0_lqhm9XtjOH.html",
-          "resumen": "Uno de los periodistas acreditados lo publicó en X, con fotos y un video.",
+          "titulo": "Máximo Kirchner declaró una fortuna de 11.000 millones de pesos y la tenencia de dólares es su principal activo",
+          "link": "https://www.clarin.com/politica/maximo-kirchner-declaro-fortuna-11000-millones-pesos-tenencia-dolares-principal-activo_0_BlxlRoFT9y.html",
+          "resumen": "El año pasado había declarado 8.311 millones de pesos: es un salto del 32,35%, en línea con la inflación. El diputado declaró propiedades, acciones de las empresas familiares, depósitos por caso 3 millones de dólares.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "“Si son tan combativos, ¿por qué no logran los aumentos salariales?“: crece la pelea de dos líderes de gremios estatales",
-          "link": "https://www.infobae.com/politica/2026/08/31/si-son-tan-combativos-por-que-no-logran-los-aumentos-salariales-crece-la-pelea-de-dos-lideres-de-gremios-estatales/",
-          "resumen": "Andrés Rodríguez, titular de UPCN, replicó las críticas de su adversario de ATE, Rodolfo Aguiar, por el último aumento para el sector público y aseguró que \"miente\" porque “ha firmado las mismas paritarias” y mejoras “a la baja” en Río…",
+          "titulo": "\"Más dinamismo\": Javier Milei reúne a su Gabinete en Casa Rosada e inaugura una nueva modalidad de encuentros semanales",
+          "link": "https://www.infobae.com/politica/2026/09/01/mas-dinamismo-javier-milei-reune-a-su-gabinete-en-casa-rosada-e-inaugura-una-nueva-modalidad-de-encuentros-semanales/",
+          "resumen": "La convocatoria comenzó a las 10 de la mañana. En el entorno del Presidente confían en que busca afianzar reuniones con mayor regularidad luego de las críticas por su largas ausencias en la Casa de Gobierno. Más tarde se reunirá la Mesa…",
           "fuente": "Infobae"
+        },
+        {
+          "titulo": "Un funcionario de Milei culpó a China por la tragedia en Nepal que dejó miles de muertos y desató un conflicto diplomático: la Embajada salió a cruzarlo",
+          "link": "https://www.clarin.com/politica/funcionario-milei-culpo-china-tragedia-nepal-dejo-miles-muertos-desato-conflicto-diplomatico-embajada-salio-cruzarlo_0_EVVchcskYq.html",
+          "resumen": "Juan Pablo Carreira, mejor conocido como Juan Doe en X, es director de Comunicación Digital y responde a Santiago Caputo. Fundador de La Derecha Diario, es uno de los principales voceros en redes de la batalla cultural. Un diputado…",
+          "fuente": "Clarín"
         }
       ]
     },
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Caputo en EE.UU: defendió la reforma del Banco Central y dijo que la estabilidad económica será la base para el crecimiento",
-          "link": "https://www.clarin.com/economia/caputo-eeuu-defendio-reforma-banco-central-dijo-estabilidad-economica-base-crecimiento_0_3ddKyTC6vT.html",
-          "resumen": "El ministro de Economía participó de la reunión de ministros de Finanzas y banqueros centrales del G20. Se espera una reunión con el secretario del Tesoro norteamericano, Scott Bessent.",
+          "titulo": "Guerra en Medio Oriente: el petróleo vuelve a subir fuerte tras los nuevos ataques cruzados de EE.UU. e Irán",
+          "link": "https://www.clarin.com/mundo/guerra-medio-oriente-petroleo-vuelve-subir-fuerte-nuevos-ataques-cruzados-eeuu-iran_0_rSSoTWaZpZ.html",
+          "resumen": "El alza del crudo Brent, cuyo precio sirve de referencia en Argentina, es en torno al 5% luego de la reanudación del conflicto bélico en el Golfo Pérsico.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Scott Bessent dispara la polémica antes del G20: instó a que otros países apliquen trabas comerciales a China",
-          "link": "https://www.ambito.com/economia/scott-bessent-dispara-la-polemica-antes-del-g20-insto-que-otros-paises-apliquen-trabas-comerciales-china-n6316687",
-          "resumen": "El secretario del Tesoro norteamericano afirmó que el superávit comercial chino busca compensar un mercado interno débil. Por ese motivo, consideró necesario que los socios comerciales de Beijing cambien sus prácticas comerciales con el…",
+          "titulo": "Nafta y gasoil: el Gobierno frenó por un mes la suba de impuestos",
+          "link": "https://www.ambito.com/economia/nafta-y-gasoil-el-gobierno-freno-un-mes-la-suba-impuestos-n6317051",
+          "resumen": "El Ejecutivo postergó hasta octubre la actualización de los gravámenes sobre los combustibles líquidos y busca evitar un impacto inmediato en los precios.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Avanza el primer proyecto de cobre refinado: obtuvo US$ 240 millones de financiamiento y construirá una línea eléctrica propia",
-          "link": "https://www.clarin.com/energia-y-mineria/avanza-primer-proyecto-cobre-refinado-obtuvo-us-240-millones-financiamiento-construira-linea-electrica-propia_0_weAWwUo7Ur.html",
-          "resumen": "Los Azules, en San Juan, es un proyecto del RIGI por US$ 2.700 millones. La empresa decidirá su inversión final a mediados de 2027. Planea construir infraestructura eléctrica por US$ 300 millones.",
+          "titulo": "El socio suizo de Manzano tomó el control de las estaciones de servicio de Shell en Argentina",
+          "link": "https://www.clarin.com/energia-y-mineria/socio-suizo-manzano-tomo-control-estaciones-servicio-shell-argentina_0_BEBO9HznKZ.html",
+          "resumen": "Mercuria completó la adquisición de Raízen por US$ 1.420 millones. Incluye 894 estaciones y la refinería de Dock Sud.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Las exportaciones a la Unión Europea saltaron casi 20%, impulsadas por el acuerdo comercial",
-          "link": "https://www.ambito.com/economia/las-exportaciones-la-union-europea-saltaron-casi-20-impulsadas-el-acuerdo-comercial-n6316644",
-          "resumen": "El tratado impulsa envíos con arancel cero para bienes industriales y liberación para el 82% de productos agrícolas. Miel, carne vacuna, langostinos y biocombustibles muestran un fuerte crecimiento y optimización de cupos.",
+          "titulo": "El rendimiento de los bonos de Japón marca un récord en 30 años y EEUU presiona para subir las tasas",
+          "link": "https://www.ambito.com/economia/el-rendimiento-los-bonos-japon-marca-un-record-30-anos-y-eeuu-presiona-subir-las-tasas-n6317018",
+          "resumen": "La deuda soberana de Japón alcanza picos inéditos desde 1996 ante el avance de la inflación y las presiones directas de Washington. El contagio a los mercados globales y las señales de un nuevo alza de tasas este mes.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Desde hoy bancos y fintech pueden cobrar deudas directamente desde otras cuentas de cada cliente: cómo funciona y a quiénes afecta",
-          "link": "https://www.clarin.com/economia/hoy-fintech-pueden-cobrar-deudas-traves-cuentas-bancos-funciona-afecta_0_HLNE1eL0q3.html",
-          "resumen": "Es una medida del Banco Central que entró en vigencia este lunes. Permitirá que bancos y billeteras debiten de manera directa en cuentas que su cliente tenga en otras entidades. Cuáles son las dudas sobre el nuevo sistema.",
+          "titulo": "Créditos hipotecarios: arranca la primera subasta entre los bancos con fondos de ANSeS",
+          "link": "https://www.clarin.com/economia/creditos-hipotecarios-arranca-primera-subasta-bancos-fondos-anses_0_nZvWro04Yx.html",
+          "resumen": "El Banco Central aprobará el nuevo régimen el jueves. Licitarán los primeros $ 200.000 millones de los depósitos del FGS de ANSeS. Los bancos saldrán a dar préstamos entre noviembre y diciembre.",
           "fuente": "Clarín"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Ceuta: Pedro Sánchez da su primera entrevista desde la crisis migratoria y apunta contra Rusia, Israel y la \"internacional ultraderechista\"",
-          "link": "https://www.clarin.com/mundo/ceuta-pedro-sanchez-da-primera-entrevista-crisis-migratoria-apunta-rusia-israel-internacional-ultraderechista_0_rtq7p5fID5.html",
-          "resumen": "Sánchez desvinculó el rol de Marruecos en la entrada de inmigrantes que desbordaron el enclave español. “No hay ninguna información que alumbre alguna duda sobre la participación de las autoridades marroquíes”, señaló.",
+          "titulo": "La Isla Fantasma se desplaza a la deriva por un gran lago canadiense y desaparece",
+          "link": "https://www.clarin.com/new-york-times-international-weekly/isla-fantasma-desplaza-deriva-gran-lago-canadiense-desaparece_0_3MdhoVrj3d.html",
+          "resumen": "Al principio, las autoridades pensaron que se trataba simplemente de una artimaña de la inteligencia artificial, hasta que comprobaron las imágenes de satélite del norte de Columbia Británica. El misterio se intensificó y, el lunes, se…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "\"Caos total\": Donald Trump aseguró que Irán es una nación \"fallida\" y que las autoridades son incapaces de gobernar el país",
-          "link": "https://www.clarin.com/mundo/caos-total-donald-trump-aseguro-iran-nacion-fallida-autoridades-incapaces-gobernar-pais_0_nLVdAGRYlu.html",
-          "resumen": "La ofensiva verbal del presidente de Estados Unidos sucede tras el primer ataque militar en un mes contra objetivos iraníes en Ormuz.",
+          "titulo": "Ataque en Times Square: qué se sabe de la presunta asesina que mató y fue abatida por la policía",
+          "link": "https://www.lanacion.com.ar/estados-unidos/ataque-en-times-square-que-se-sabe-de-la-presunta-asesina-que-mato-y-fue-abatida-por-la-policia-nid01092026/",
+          "resumen": "La mujer, de 49 años y residente de Queens, no tenía antecedentes penales, pero sí registros previos vinculados con problemas de salud mental; atacó al azar a dos desconocidos con cuchillos antes de enfrentarse a los agentes",
+          "fuente": "La Nación"
+        },
+        {
+          "titulo": "Europa prohíbe la carne de Brasil y rompe una de las patas clave del acuerdo con el Mercosur",
+          "link": "https://www.clarin.com/mundo/europa-prohibe-carne-brasil-rompe-patas-clave-acuerdo-mercosur_0_w1uBErEYRP.html",
+          "resumen": "A partir del jueves bloqueará definitivamente la importación de productos brasileños de origen animal por incumplir las normativas europeas. Bovinos, equinos, aves, huevos, productos de acuicultura y todo otro tipo de derivados de origen…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Nepal inicia los entierros masivos de las víctimas imposibles de identificar",
-          "link": "https://www.clarin.com/mundo/nepal-inicia-entierros-masivos-victimas-imposibles-identificar_0_U3HWTIyzAC.html",
-          "resumen": "El estado de descomposición de los cadáveres obliga al país a iniciar entierros masivos de los cuerpos antes de que puedan ser indetificados. El balance de las devastadoras inundaciones que azotaron el país en la frontera con Tibet…",
-          "fuente": "Clarín"
+          "titulo": "El secretario del Ejército norteamericano renuncia tras enfrentarse con Hegseth por destituciones en las fuerzas",
+          "link": "https://www.lanacion.com.ar/estados-unidos/el-secretario-del-ejercito-norteamericano-renuncia-tras-enfrentarse-con-hegseth-por-destituciones-en-nid01092026/",
+          "resumen": "Dan Driscoll, principal autoridad civil de la fuerza y amigo del vicepresidente JD Vance, dejará su cargo tras 18 meses al frente de la institución",
+          "fuente": "La Nación"
         },
         {
-          "titulo": "Demostración de fuerza diplomática: Xi y Putin se reúnen en la cumbre de la \"OTAN\" asiática",
-          "link": "https://www.clarin.com/mundo/demostracion-fuerza-diplomatica-xi-putin-reunen-cumbre-otan-asiatica_0_AzA3DL3HQI.html",
-          "resumen": "Ambos líderes se reunieron en Bishkek, la capital kirguís, en el marco de la Cumbre de la Organización de Cooperación de Shanghai.",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "Deportados relatan sus desgarradores viajes a África: grilletes, un \"congelador\" y golpes",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/deportados-relatan-desgarradores-viajes-africa-grilletes-congelador-golpes_0_rMknLUt4qN.html",
-          "resumen": "Diez personas deportadas afirmaron haber sufrido o presenciado lo que calificaron de trato abusivo o violento por parte del ICE. Según contaron, pasaron meses detenidos antes de ser enviados a países con los que no tenían ningún vínculo.",
+          "titulo": "Nepal: más de mil muertos y carrera contra el tiempo para rescatar a cientos de personas atrapadas en túneles sin agua ni aire limpio",
+          "link": "https://www.clarin.com/mundo/nepal-mil-muertos-carrera-tiempo-rescatar-cientos-personas-atrapadas-tuneles-agua-aire-limpio_0_26T9ZUxe67.html",
+          "resumen": "Casi 4.500 personas siguen desaparecidas. Equipos asistidos por expertos extranjeros trabajan en varios proyectos hidroeléctricos afectados, entrando en túneles oscuros y llenos de escombros.",
           "fuente": "Clarín"
         }
       ]
@@ -112,34 +112,34 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Messi y la trama ya no tan secreta de su primera vez con la Selección: el partido que se armó de apuro para que España no se llevara al mejor de todos",
-          "link": "https://www.clarin.com/deportes/messi-trama-secreta-primera-vez-seleccion-partido-armo-apuro-espana-llevara-mejor_0_89F6TQmXDi.html",
-          "resumen": "José Pekerman lo descubrió en un partido de juveniles del Barcelona y recibió una respuesta que despejó cualquier duda: “Yo estoy muy agradecido a Barcelona, pero yo soy argentino”. Hugo Tocalli puso en marcha el operativo y Omar Souto…",
+          "titulo": "Último capítulo de la novela de Julián Álvarez: se cierra el mercado de pases y la Araña se refugia en los argentinos del Atlético",
+          "link": "https://www.clarin.com/deportes/ultimo-capitulo-novela-julian-alvarez-cierra-mercado-pases-arana-refugia-argentinos-atletico_0_x2YKxDsQmg.html",
+          "resumen": "Reincorporado al Aleti, el delantero afrontó el último entrenamiento antes del cierre del libro de pases europeo y empieza a reenfocarse en el equipo de Simeone. Giuliano, Cuti Romero y Musso aparecen como su principal sostén después de…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El video que eligió Messi para despedirse de la Selección: imposible no emocionarse, imágenes eternas y una canción especial",
-          "link": "https://www.ole.com.ar/messi/video-messi-despedida-retiro-seleccion-argentina-emocionante-fotos-cancion-sole_0_KhJghOi0h8.html",
-          "resumen": "Leo cerró su hermosa, gloriosa y eterna etapa con Argentina, y publicó un video que te cierra la garganta. Preparen pañuelos.",
+          "titulo": "Boca presentó el pedido a la AFA para poder incorporar por la lesión de Aranda",
+          "link": "https://www.ole.com.ar/boca-juniors/boca-presento-pedido-afa-poder-incorporar-lesion-aranda_0_yUKnW69ySC.html",
+          "resumen": "Riquelme tendrá días adicionales para cerrar un refuerzo en reemplazo del joven crack que se lesionó la semana pasada en Boca Predio.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Impacto mundial por el retiro de Lionel Messi de la Selección Argentina: así reaccionaron los principales medios del planeta",
-          "link": "https://www.clarin.com/deportes/impacto-mundial-retiro-lionel-messi-seleccion-argentina-reaccionaron-principales-medios-planeta_0_mwmy0B5GCj.html",
-          "resumen": "Diarios de España, Brasil e Inglaterra llevaron a sus portadas la despedida del capitán argentino y destacaron una de sus frases más fuertes: “Me vacié, ya no tengo más para dar”. Marca habló de “bombazo”, AS siguió la noticia minuto a…",
+          "titulo": "D'Onofrio pide coraje y desafía al presidente de AFA: \"No hay que tenerle miedo a Tapia: en los cuatro años que no lo votamos ganamos todo\"",
+          "link": "https://www.clarin.com/deportes/donofrio-pide-coraje-desafia-presidente-afa-tenerle-miedo-tapia-anos-votamos-ganamos_0_2QA5TgtUYN.html",
+          "resumen": "El ex presidente de River reclamó \"coraje\" de la dirigencia para decirle al presidente de la AFA. Además, recordó que \"Blatter renunció\" después de que la delegación argentina no lo apoyó y reveló que en 2017 el club de Núñez votó en…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Los diez momentos que convirtieron a Leo Messi en leyenda de los mundiales",
-          "link": "https://www.clarin.com/deportes/momentos-convirtieron-leo-messi-leyenda-mundiales_0_aLxHsD9Qvt.html",
-          "resumen": "Los 10 momentos de Lionel Messi en los seis Mundiales que jugó. Una máquina de sumar récords, un humano que no puedo ocultar sus sentimientos. Una historia que no para de sumar capítulos, gloria y un legado que será eterno.",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "De Messi a Neymar: las figuras que se fueron de sus selecciones en 2026",
-          "link": "https://www.ole.com.ar/seleccion/messi-seleccion-despedida-mundial-neymar-neuer_0_5f3VxBCVgY.html",
-          "resumen": "El adiós del mejor de todos cerrará un año que acumuló muchas despedidas de emblemas de diferentes selecciones. ¿Qué pasará con Cristiano Ronaldo en Portugal?",
+          "titulo": "El jugador de Newell's que no ocultó sus ganas de ver a Messi en el club",
+          "link": "https://www.ole.com.ar/newells-old-boys/lionelmessi-deseo-josuereinatti-newells-pedidojugar-club-estadiouno-seleccionargentina-torneoclausura2026-rosario-frankdariokudelka_0_GgNXmvEKZd.html",
+          "resumen": "Tras ser figura en el empate ante Estudiantes, Josué Reinatti se refirió a la despedida del capitán argentino y lanzó un deseo del mundo leproso.",
           "fuente": "Olé"
+        },
+        {
+          "titulo": "\"No sabe el himno\", “camina la cancha” y “no juega como en Barcelona”: cuando a Messi lo silbaron en la Argentina, la herida que Leo nunca pudo olvidar",
+          "link": "https://www.clarin.com/deportes/sabe-himno-camina-cancha-juega-barcelona-messi-silbaron-argentina-herida-leo-pudo-olvidar_0_lJnPPE8D5r.html",
+          "resumen": "En julio de 2011, la Selección Argentina quedó eliminada de la Copa América como local en Santa Fe y las críticas con el 10 fueron impiadosas. Un tiempo después, Leo recordó la pregunta de uno de sus hijos: \"Papá, ¿por qué te matan en la…",
+          "fuente": "Clarín"
         }
       ]
     }
