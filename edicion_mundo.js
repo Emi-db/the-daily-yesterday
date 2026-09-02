@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "1 de septiembre de 2026",
-    "generada": "14:21",
+    "fecha": "2 de septiembre de 2026",
+    "generada": "13:55",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "\"Cambiará el mundo\": la revolución de las máquinas que se gesta en China y va mucho más allá de los robots humanoides",
-            "link": "https://www.bbc.com/mundo/articles/c4g7enmvjrdo?at_medium=RSS&at_campaign=rss",
-            "resumen": "La implementación de los robots en muchos aspectos industriales en el gigante asiático está transformando la producción.",
+            "titulo": "Sin luz, sin agua, sin transporte: la frustración que siento con mi vida en la Cuba de los apagones",
+            "link": "https://www.bbc.com/mundo/articles/ckgx2v0754lo?at_medium=RSS&at_campaign=rss",
+            "resumen": "BBC News Mundo conversó durante una semana con un joven historiador del arte en La Habana para entender las múltiples maneras como la crisis ha reconfigurado su vida.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "La división en la izquierda francesa allana el camino a la ultraderecha",
-            "link": "https://elpais.com/internacional/2026-09-01/la-division-en-la-izquierda-francesa-allana-el-camino-a-la-ultraderecha.html",
-            "resumen": "La fragmentación del espectro progresista, sumido en una maraña de candidatos y primarias, abre la puerta a una segunda vuelta entre los dos extremos: Mélenchon y Le Pen",
+            "titulo": "Irán responde a Estados Unidos con nuevos ataques contra Bahréin, Jordania y Kuwait",
+            "link": "https://elpais.com/internacional/2026-09-02/iran-responde-a-estados-unidos-con-nuevos-ataques-contra-bahrein-jordania-y-kuwait.html",
+            "resumen": "Washington y Teherán se enzarzan por tercer día consecutivo en escaramuzas militares tras un mes de relativa calma. Los bombardeos matan al menos a 18 iraníes, según la República Islámica",
             "fuente": "El País"
           },
           {
-            "titulo": "¿Nuevo frente de disputa?: Rusia pide a España pruebas de su presunta implicación en crisis migratoria de Ceuta",
-            "link": "https://www.france24.com/es/europa/20260901-nuevo-frente-de-disputa-rusia-pide-a-espa%C3%B1a-pruebas-de-su-presunta-implicaci%C3%B3n-en-crisis-migratoria-de-ceuta",
-            "resumen": "La crisis migratoria en la ciudad española de Ceuta, en la zona limítrofe con Marruecos, parece extenderse más allá de estas fronteras. El Gobierno ruso reclamó este martes 1 de septiembre a la Administración de Pedro Sánchez pruebas que…",
+            "titulo": "Desplazados por riada en Nepal y Tíbet se refugian en escuela tras perderlo todo",
+            "link": "https://www.france24.com/es/video/20260902-desplazados-por-riada-en-nepal-y-t%C3%ADbet-se-refugian-en-escuela-tras-perderlo-todo",
+            "resumen": "Nuestro enviado especial a Nepal, Adrián Foncillas, visitó las instalaciones de una escuela secundaria en Devighat que funciona como el mayor refugio para las víctimas de la riada y las inundaciones en la zona. Unas 400 personas se…",
             "fuente": "France 24"
           },
           {
-            "titulo": "¿Hay alguna conexión entre los recientes terremotos en Venezuela, Colombia y Perú?",
-            "link": "https://www.bbc.com/mundo/articles/cvgy73en40eo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Ante la sucesión de eventos sísmicos, varios lectores contactaron a BBC Mundo con una misma inquietud: ¿están esos terremotos vinculados? Para conocer la respuesta consultamos con expertos.",
+            "titulo": "Quién es \"Jhonsson Pulpo\", el escurridizo líder criminal de una de las bandas más poderosas de Perú que fue detenido en Bolivia tras una larga búsqueda",
+            "link": "https://www.bbc.com/mundo/articles/ckgw8e337d4o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Las autoridades informaron que fue encontrado en La Paz y que, pese a sus intentos por escapar, fue arrestado y posteriormente entregado a las autoridades de Perú.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "El secretario del Ejército de Estados Unidos, Dan Driscoll, dimite por los despidos en la cúpula de las Fuerzas Armadas",
-            "link": "https://elpais.com/internacional/2026-09-01/el-secretario-del-ejercito-de-estados-unidos-dan-driscoll-dimite-por-los-despidos-en-la-cupula-de-las-fuerzas-armadas.html",
-            "resumen": "El máximo cargo civil de la institución llevaba meses enfrentado con el secretario de Defensa, Pete Hegseth",
+            "titulo": "Más enseñanzas militares, propaganda y ofertas de alistamiento en el inicio del año escolar en Rusia",
+            "link": "https://elpais.com/internacional/2026-09-02/mas-ensenanzas-militares-propaganda-y-ofertas-de-alistamiento-en-el-inicio-del-ano-escolar-en-rusia.html",
+            "resumen": "El programa educativo incluye menos inglés y ciencias sociales, una visión de la historia poco objetiva y asignaturas que incluyen el manejo de drones",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "El turismo repunta en julio y vive el mejor mes de la historia con 11,5 millones de viajeros",
-            "link": "https://elpais.com/economia/2026-09-01/el-turismo-repunta-en-julio-y-vive-el-mejor-mes-de-la-historia-con-115-millones-de-viajeros.html",
-            "resumen": "El gasto se disparó un 11%, gracias en gran medida a la subida de precios, mientras las llegadas aumentaron un 4,6%",
+            "titulo": "La regularización atenúa la pérdida de empleos en agosto con 162.800 puestos menos, pero acelera el paro",
+            "link": "https://elpais.com/economia/2026-09-02/la-regularizacion-atenua-la-perdida-de-empleos-en-agosto-con-162000-puestos-menos-pero-acelera-el-paro.html",
+            "resumen": "La destrucción de trabajo del octavo mes es la menor de los últimos años mientras el desempleo crece en 44.400 personas, el doble que en 2025",
             "fuente": "El País"
           },
           {
-            "titulo": "La línea roja del mercado ante la que EEUU va a acudir al rescate",
-            "link": "https://www.expansion.com/mercados/2026/08/31/6a9593c1468aeb23528b45a1.html",
-            "resumen": "La gran batalla del otoño tendrá como escenario la deuda americana. Leer",
+            "titulo": "El Gobierno confirma una nueva subida del salario mínimo en 2027 para compensar el alza del IPC",
+            "link": "https://www.expansion.com/economia/2026/09/02/6a97f59c468aebd73c8b4592.html",
+            "resumen": "El Gobierno descarta una revalorización adicional con efectos en 2026 como reclaman los sindicatos por el repunte de precios. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "España dispara las compras de gas ruso a pocos meses del veto definitivo de Europa",
-            "link": "https://elpais.com/economia/2026-09-01/espana-dispara-las-compras-de-gas-ruso-a-pocos-meses-del-veto-definitivo-de-europa.html",
-            "resumen": "Las importaciones repuntan un 42% entre enero y junio para compensar la pérdida de Qatar y otros proveedores por el conflicto en Oriente Próximo",
+            "titulo": "La nueva ley antiblanqueo obligará a los clubes de fútbol a informar de sus fichajes y cambios en el accionariado",
+            "link": "https://elpais.com/economia/2026-09-02/la-nueva-ley-antiblanqueo-obligara-a-los-clubes-de-futbol-a-informar-de-sus-fichajes-y-cambios-en-el-accionariado.html",
+            "resumen": "La normativa que prepara el Gobierno aumenta también el peso de los bancos, las inmobiliarias y el sector del lujo en la vigilancia del dinero negro",
             "fuente": "El País"
           },
           {
-            "titulo": "Magnum y Artá crean un gigante de 150 millones en mantenimiento de aeronaves",
-            "link": "https://www.expansion.com/empresas/2026/09/01/6a96a661468aebd1538b4599.html",
-            "resumen": "La fusión de Aeronáutica de Gestión (AG) con Aviaction dará lugar a la mayor empresa independiente de España especializada en servicios de mantenimiento (MRO, por sus siglas en inglés) para aviación comercial y ejecutiva. Leer",
+            "titulo": "Lottomatica-Cirsa: cuál es la fórmula para cobrar en efectivo aunque no haya opa",
+            "link": "https://www.expansion.com/empresas/2026/09/02/6a980d81468aeb563e8b4580.html",
+            "resumen": "Primera toma de control de una cotizada española mediante una fusión transfronteriza europea. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Repsol refuerza su apuesta por Venezuela en pleno acercamiento petrolero entre Trump y Delcy Rodríguez",
-            "link": "https://elpais.com/economia/2026-09-01/repsol-refuerza-su-apuesta-por-venezuela-en-pleno-acercamiento-petrolero-entre-trump-y-delcy-rodriguez.html",
-            "resumen": "La energética española aspira a triplicar su producción en tres años mientras se clarifica la situación comercial internacional tanto con Washington como con Caracas",
+            "titulo": "España apurará el plazo hasta finales de mes para pedir el último pago de los fondos europeos de recuperación",
+            "link": "https://elpais.com/economia/2026-09-02/espana-apurara-el-plazo-hasta-finales-de-mes-para-pedir-el-ultimo-pago-de-los-fondos-europeos-de-recuperacion.html",
+            "resumen": "Carlos Cuerpo señala que el Gobierno solicitará el desembolso final, de casi 26.000 millones, en los últimos días de septiembre. El 30 es la fecha límite de Bruselas",
             "fuente": "El País"
           }
         ]
@@ -78,33 +78,33 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
+            "titulo": "Las señales que avisan de períodos dolorosos pueden llegar hasta tres años antes de la primera regla",
+            "link": "https://elpais.com/salud-y-bienestar/2026-09-01/las-senales-que-avisan-de-periodos-dolorosos-pueden-llegar-hasta-tres-anos-antes-de-la-primera-regla.html",
+            "resumen": "‘The Lancet’ publica una investigación pionera sobre las causas del dolor menstrual en jóvenes a partir de sintomatología previa al primer periodo",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor",
+            "link": "https://elpais.com/tecnologia/2026-09-02/la-batalla-de-los-mapas-google-y-apple-cambian-el-lago-ontario-por-el-lago-america-y-se-disparan-las-apps-de-sus-competidores.html",
+            "resumen": "Donald Trump decidió cambiarlo de nombre por la disputa comercial con sus vecinos canadienses",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Paula Ortiz Couder, la ingeniera madrileña que cuida de los humanos que van a la Luna: “Todo es hostil en el espacio”",
+            "link": "https://elpais.com/ciencia/2026-09-02/paula-ortiz-couder-la-ingeniera-madrilena-que-cuida-de-los-humanos-que-van-a-la-luna-todo-es-hostil-en-el-espacio.html",
+            "resumen": "Su destino era seguir la tradición familiar, jugar al tenis, pero ahora es experta en seguridad de la NASA para llevar astronautas al satélite",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Gandalfs 1 - Peter Thiel 0: protestas para vigilar a los que vigilan",
+            "link": "https://elpais.com/tecnologia/2026-09-02/gandalfs-1-peter-thiel-0-protestas-para-vigilar-a-los-que-vigilan.html",
+            "resumen": "El rechazo a las grandes tecnológicas y sus formas de vigilancia se convirtió en una sátira en Argentina, donde un grupo de manifestantes vestidos del mago de ‘El Señor de los Anillos’ protestó contra el CEO de Palantir",
+            "fuente": "El País"
+          },
+          {
             "titulo": "Ocho años para llegar al infierno de Mercurio: la sonda ‘BepiColombo’ afronta su descenso final",
             "link": "https://elpais.com/ciencia/2026-08-31/ocho-anos-para-llegar-al-infierno-de-mercurio-la-sonda-bepicolombo-afronta-su-descenso-final.html",
             "resumen": "La misión se enfrenta al momento crítico para alcanzar un planeta rodeado de misterio pese a su cercanía",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Bruselas incluye a ChatGPT, Reddit y Roblox entre las plataformas más fiscalizadas por la UE",
-            "link": "https://elpais.com/tecnologia/2026-08-31/bruselas-incluye-a-chatgpt-reddit-y-roblox-entre-las-plataformas-mas-fiscalizadas-por-la-ue.html",
-            "resumen": "La Comisión Europea considera que estos tres servicios han superado el umbral de 45 millones de usuarios y, por tanto, deben someterse a reglas más estrictas",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Lanzado con éxito el telescopio ‘Nancy Grace Roman’, que observará cien veces más cielo que el ‘Hubble’",
-            "link": "https://elpais.com/ciencia/2026-08-30/lanzado-con-exito-el-telescopio-nancy-grace-roman-que-observara-cien-veces-mas-cielo-que-el-hubble.html",
-            "resumen": "Despega la nueva gran misión astrofísica de la NASA, que en los próximos años cartografiará mil millones de galaxias y buscará cientos de miles de exoplanetas",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "El color de los cables USB no es casualidad: esto es lo que significa que sea blanco, negro, azul, rojo o amarillo",
-            "link": "https://elpais.com/tecnologia/2026-08-31/el-color-de-los-cables-usb-no-es-casualidad-esto-es-lo-que-significa-que-sea-blanco-negro-azul-rojo-o-amarillo.html",
-            "resumen": "Si alguna vez te has preguntado por qué algunos conectores USB tienen una lengüeta blanca, negra, azul o incluso amarilla, hay una razón. El color puede indicar su velocidad y algunas de sus funciones",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "‘Nancy Grace Roman’, el telescopio que observará mil millones de galaxias para resolver los dos grandes misterios del universo",
-            "link": "https://elpais.com/ciencia/2026-08-30/nancy-grace-roman-el-telescopio-que-observara-mil-millones-de-galaxias-para-resolver-los-dos-grandes-misterios-del-universo.html",
-            "resumen": "La NASA tiene previsto lanzar hoy su telescopio más ambicioso, que busca responder las dos grandes preguntas de la astrofísica: qué son la materia y la energía oscura",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Oficial: Gabriel Jesus firma por el Barça hasta 2029",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222085/oficial-gabriel-jesus-firma-barca-2029.html",
-            "resumen": "Gabriel Jesus (29 años) ya es del FC Barcelona . El club azulgrana anunció este martes el fichaje del delantero brasileño para las próximas tres temporadas, hasta 2029, tras alcanzar un acuerdo con el Arsenal por su traspaso, cifrado en…",
+            "titulo": "Casadó: \"Todos tenemos cosas a mejorar\"",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222540/casado-todos-hemos-hecho-cosas-cosas-mejorar.html",
+            "resumen": "El Barcelona declaró transferible a Marc Casadó (22 años) hace meses. Con propuestas de Arabia Saudí y de algunos clubes europeos, el canterano decidió su destino en las últimas horas de mercado. Ficha por el Deportivo , recién ascendido…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "El contrato de Gabriel Jesus es de tres años fijos",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221993/contrato-gabriel-jesus-tres-anos-fijos.html",
-            "resumen": "Gabriel Jesus (29 años) llegó ayer lunes a Barcelona y este martes está previsto que se oficialice su fichaje por el FC Barcelona . En Mundo Deportivo desvelamos el pasado domingo en exclusiva que el club azulgrana iba a apostar por la…",
+            "titulo": "Cerrado: Marc Casadó, cedido al Deportivo con opción de compra",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222192/marc-casado-ofrecido-deportivo-pendiente-carambola-financiera.html",
+            "resumen": "Marc Casadó (22 años) ya tiene nuevo destino. El centrocampista del FC Barcelona se marcha cedido al Deportivo de A Coruña , después de que ambas entidades alcanzaran un acuerdo en el último día de mercado. El club gallego tendrá una…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,22 +147,22 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "September 1, 2026",
-    "generada": "14:21",
+    "fecha": "September 2, 2026",
+    "generada": "13:55",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
-            "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
-            "resumen": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+            "titulo": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+            "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+            "resumen": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
             "fuente": "BBC"
           },
           {
-            "titulo": "South African airline defends dramatic low-level flyby before rugby union clash",
-            "link": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
-            "resumen": "Cape Town stunt sparks major debate over safety risks Airlink insists flyby conducted according to regulations A pre-game stunt involving two passenger jets flying dramatically low over a stadium in South Africa drew huge cheers from the…",
+            "titulo": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
+            "link": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
+            "resumen": "Referendum result means fewer seats in parliament and new rules on candidates, ahead of December elections Guinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands…",
             "fuente": "The Guardian"
           },
           {
@@ -172,15 +172,15 @@ const EDICION_MUNDO = {
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
-            "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16.",
+            "titulo": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+            "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Countries legally obliged to consider slavery reparations, says UN committee",
-            "link": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
-            "resumen": "Guidance says states must implement ‘comprehensive measures’ to address legacy of racial discrimination A UN committee has said countries are legally obliged to consider reparations for the transatlantic slave trade and take other…",
+            "titulo": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
+            "link": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
+            "resumen": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalities Almost half of the world’s farmers are poisoned by pesticides every single year, a study has found. Using publicly…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
-            "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
-            "resumen": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
+            "titulo": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
+            "link": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Huge AI spending plans and the ongoing war in Iran are driving up borrowing costs around the world.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Global bond rout deepens as oil prices jump; wheat prices highest since early 2023 – business live",
-            "link": "https://www.theguardian.com/business/live/2026/sep/01/bond-sell-off-oil-prices-inflation-fears-shein-shares-latest-news-updates",
-            "resumen": "European stock markets fall and Brent crude jumps above $92 a barrel amid renewed fighting in Middle East The FTSE 100 index is down just over 1%, driven by sharp falls in mining and manufacturing shares. Endeavour Mining is leading the…",
+            "titulo": "Teamsters union leaders support Republicans despite members endorsing Democratic candidates",
+            "link": "https://www.theguardian.com/us-news/2026/sep/02/teamsters-union-republican-endorsement",
+            "resumen": "Sean O’Brien, president of the 1.3-million strong union, was also the first to speak at the Republican national convention in 2o24 The powerful Teamsters union is backing Republican candidates in the 2026 election cycle even after members…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Ozempic Maker Novo Nordisk’s Investors Are Nervously Looking Into the Future",
-            "link": "https://www.nytimes.com/2026/09/01/business/novo-nordisk-ozempic-wegovy-glp1s-stocks.html",
-            "resumen": "Novo Nordisk’s chief executive, Mike Doustdar, is a year into a corporate turnaround. He says investors are still underestimating the promise of the company’s drugs.",
+            "titulo": "Chevron Expansion in Venezuela Extends U.S. Influence Over Oil Riches",
+            "link": "https://www.nytimes.com/2026/09/02/business/energy-environment/chevron-venezuela-oil-trump.html",
+            "resumen": "The U.S. energy giant, which stayed in the country after other Western companies left, will invest $7 billion in the country to more than double its production there.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Shein valued at $26bn after long-awaited stock market debut",
-            "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
+            "titulo": "Why are UK borrowing costs rising and what does it mean for me?",
+            "link": "https://www.bbc.co.uk/news/articles/cwyxydr7gv9o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Some government borrowing costs have hit their highest level for 28 years - what does it mean for you?",
             "fuente": "BBC"
           },
           {
-            "titulo": "US trade regulator and 22 states accuse Amazon of taking $20bn with secret surcharges",
-            "link": "https://www.theguardian.com/technology/2026/aug/31/amazon-advertising-lawsuit",
-            "resumen": "FTC alleges in lawsuit that online retailer ‘secretly and systematically overcharged’ advertisers for years The US’s main trade regulator and 22 states sued Amazon on Monday, alleging the online retailer “secretly and systematically…",
+            "titulo": "Tim Cook handed $47m package for new role as executive chair of Apple",
+            "link": "https://www.theguardian.com/technology/2026/sep/02/tim-cook-47m-package-chair-apple",
+            "resumen": "Pay and shares deal nearly matches $58m award to John Ternus, his successor as CEO at the $4.7tn tech company Business live – latest updates Tim Cook has received a $47m (£35m) pay deal as Apple’s executive chair, a remuneration package…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,15 +224,15 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "More hosepipe bans in force as drought declared - is your area affected?",
-            "link": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
-            "resumen": "About 30 million people have been placed under hosepipe bans due to higher demand and low rainfall.",
+            "titulo": "Will your name be the next UK storm?",
+            "link": "https://www.bbc.co.uk/news/videos/ckgxzyrk7x7o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The storm name list for the next year is out. Will your name be on it?",
             "fuente": "BBC"
           },
           {
-            "titulo": "Smelling test: children need education in sniffing aromas, scientist says",
-            "link": "https://www.theguardian.com/science/2026/aug/31/children-education-sniffing-aromas-scientist",
-            "resumen": "Exclusive: Dr Will Tullett says better understanding of scents can improve wellbeing and perception of the world Children need a better education in sniffing aromas, a leading historian of smells has said, noting it may improve their…",
+            "titulo": "Could humans ever communicate with whales? - video",
+            "link": "https://www.theguardian.com/science/video/2026/sep/01/could-humans-ever-communicate-with-whales-video",
+            "resumen": "Ever since the earliest known recording of whale song was made in 1949 , researchers have been captivated by the wails, rumbles, clicks, grunts and squeals of their communication. As technology improves, scientists are decoding the…",
             "fuente": "The Guardian"
           },
           {
@@ -242,15 +242,15 @@ const EDICION_MUNDO = {
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "One still missing after Grand Canyon floods kill two and prompts rescue efforts",
-            "link": "https://www.bbc.co.uk/news/articles/c62e6rkn43ko?at_medium=RSS&at_campaign=rss",
-            "resumen": "Almost everyone is now accounted for after dozens of hikers were airlifted to safety, an official says.",
+            "titulo": "Watch: Astronauts set out on rare all-female spacewalk",
+            "link": "https://www.bbc.co.uk/news/videos/c89jyxqvjq0o?at_medium=RSS&at_campaign=rss",
+            "resumen": "For the sixth time in history, a team of two women completed a spacewalk outside the International Space Station.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Forbidden planet: was Pluto’s 2006 demotion a big mistake?",
-            "link": "https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake",
-            "resumen": "Since it was stripped of planetary status, Pluto’s defenders have been fighting the decision – and they’re only getting more passionate Twenty years ago, Pluto got demoted. After a vote by the International Astronomical Union (IAU) in…",
+            "titulo": "Smelling test: children need education in sniffing aromas, scientist says",
+            "link": "https://www.theguardian.com/science/2026/aug/31/children-education-sniffing-aromas-scientist",
+            "resumen": "Exclusive: Dr Will Tullett says better understanding of scents can improve wellbeing and perception of the world Children need a better education in sniffing aromas, a leading historian of smells has said, noting it may improve their…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Newcastle sign Fernandez-Pardo from Lille for £51m",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c5ylv97mn58o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Newcastle United sign Belgium forward Matias Fernandez-Pardo from Lille for an initial £51.4m.",
+            "titulo": "How Everton's deadline day debacle leaves owners facing fan mutiny",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c9861n79kepo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Everton's transfer deadline day debacle over Folarin Balogun leaves owners The Friedkin facing fan mutiny, says chief football writer Phil McNulty.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Alex Eala has one career main-draw win at the US Open. She’s already a global star",
-            "link": "https://www.theguardian.com/sport/2026/sep/01/alex-eala-us-open-philippines",
-            "resumen": "Alex Eala has become the Philippines’ biggest sporting star since Manny Pacquiao. Now the 21-year-old’s traveling army of fans have descended on Flushing Meadows The crowd began to swell in Louis Armstrong Stadium a half hour before 2pm.…",
+            "titulo": "Transfer window verdict: how every Premier League club fared",
+            "link": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
+            "resumen": "The British transfer record was equalled and one club signed no fewer than 18 players in another hectic summer Bringing in Christos Tzolis, Bruno Guimarães and Ezri Konsa was a strong start to the window but could Arsenal’s failure to…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Aston Villa sign Mbaye and Harwood-Bellis",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c1kxmjvnl8yo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Aston Villa complete the signings of Senegal winger Ibrahim Mbaye from Paris St-Germain and English centre-back Taylor Harwood-Bellis from Southampton.",
+            "titulo": "Man Utd and their calculated left-back gamble",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cj9x212829vo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Despite a widespread expectation they would sign a left-back this summer, Manchester United decided against - what does it mean?",
             "fuente": "BBC"
           },
           {
-            "titulo": "Football transfer deadline day: Manchester City move for Fernández, Newcastle seal £51m deal, and more – live",
-            "link": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
-            "resumen": "Men’s transfer interactive | Women’s transfer interactive The Rumour Mill: check all of the deadline-day gossip You can mail Daniel and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and…",
+            "titulo": "Dream team or stuff of nightmares? Rams’ bold moves could go either way",
+            "link": "https://www.theguardian.com/sport/2026/sep/02/los-angeles-rams-aaron-donald-myles-garrett-matthew-stafford",
+            "resumen": "LA added Myles Garrett and brought Aaron Donald out of retirement to create the NFL’s most menacing defense. A Super Bowl trip still isn’t a guarantee Last Saturday night, NFL Network premiered the 2025 edition of America’s Game, the…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Barcelona complete signing of Arsenal striker Jesus",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cx2zpx27l91o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Barcelona have completed the signing of Gabriel Jesus on a permanent deal.",
+            "titulo": "Woods banned from driving for five years after March's crash arrest",
+            "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
+            "resumen": "The golfer will accept a five-year driving ban and $1,000 fine as part of a plea agreement.",
             "fuente": "BBC"
           }
         ]

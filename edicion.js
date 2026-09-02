@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "1 de septiembre de 2026",
-  "generada": "14:21",
+  "fecha": "2 de septiembre de 2026",
+  "generada": "13:55",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Gran Bretaña le contestó a Trump tras su frase sobre las Malvinas: \"Nuestro compromiso con los isleños es inquebrantable\"",
-          "link": "https://www.clarin.com/politica/gran-bretana-contesto-trump-frase-malvinas-compromiso-kelpers-inquebrantable_0_hamvA9eNDz.html",
-          "resumen": "Lo dijo el vocero del primer ministro y el secretario de Hacienda inglés también le contestó: \"Son británicas y seguirán siendo británicas\". Trump dijo que podía revisar su posición de apoyo a los ingleses.",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente habla en una cumbre libertaria antes de su viaje a Chile",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-habla-cumbre-libertaria-viaje-chile_0_Qow5HyLB2x.html",
+          "resumen": "El mandatario cierra este miércoles el encuentro “Vientos de Cambio: Avanza la Libertad en Argentina y las Américas”. Mañana se encontrará con el presidente Kast y dará una cadena nacional por Malvinas. Todas las novedades, minuto a minuto.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El Papa recibirá en Buenos Aires a los donantes que ayuden a financiar su visita a la Argentina",
-          "link": "https://www.infobae.com/politica/2026/09/01/el-papa-recibira-en-buenos-aires-a-los-donantes-que-ayuden-a-financiar-su-visita-a-la-argentina/",
-          "resumen": "El Vaticano ya dio luz verde para que León XIV mantenga uno o dos encuentros privados con benefactores durante su estadía en la Ciudad. La organización calcula un costo cercano a los 25 millones de dólares y tanto la Iglesia como el…",
+          "titulo": "Qué dice la canción contra Kicillof que Máximo Kirchner “agitó” en el acto frente al balcón de Cristina Kirchner",
+          "link": "https://www.infobae.com/politica/2026/09/02/que-dice-la-cancion-contra-kicillof-que-maximo-kirchner-agito-en-el-acto-frente-al-balcon-de-cristina-kirchner/",
+          "resumen": "El diputado nacional fue el principal orador en un acto que se hizo a cuatro años del atentado contra la expresidenta. Antes de hablar, les pidió a los militantes que estaban en el lugar “una vuelta más” del pegadizo tema",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Máximo Kirchner declaró una fortuna de 11.000 millones de pesos y la tenencia de dólares es su principal activo",
-          "link": "https://www.clarin.com/politica/maximo-kirchner-declaro-fortuna-11000-millones-pesos-tenencia-dolares-principal-activo_0_BlxlRoFT9y.html",
-          "resumen": "El año pasado había declarado 8.311 millones de pesos: es un salto del 32,35%, en línea con la inflación. El diputado declaró propiedades, acciones de las empresas familiares, depósitos por caso 3 millones de dólares.",
+          "titulo": "Los libertarios se suben a la pelea Rovira-Passalacqua en Misiones: cuestionan gastos por $ 4 billones y más de 65.000 empleados públicos",
+          "link": "https://www.clarin.com/politica/libertarios-suben-pelea-rovira-passalacqua-misiones-cuestionan-gastos-4-billones-65000-empleados-publicos_0_hcnLrTENqM.html",
+          "resumen": "El diputado local Adrián Núñez lanzó una plataforma para consultar, partida por partida, cómo se distribuyen los recursos de la provincia. La iniciativa se da en plena ruptura entre el gobernador y el principal referente del ex Frente de…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "\"Más dinamismo\": Javier Milei reúne a su Gabinete en Casa Rosada e inaugura una nueva modalidad de encuentros semanales",
-          "link": "https://www.infobae.com/politica/2026/09/01/mas-dinamismo-javier-milei-reune-a-su-gabinete-en-casa-rosada-e-inaugura-una-nueva-modalidad-de-encuentros-semanales/",
-          "resumen": "La convocatoria comenzó a las 10 de la mañana. En el entorno del Presidente confían en que busca afianzar reuniones con mayor regularidad luego de las críticas por su largas ausencias en la Casa de Gobierno. Más tarde se reunirá la Mesa…",
+          "titulo": "En septiembre llegarán seis nuevos F-16 y el Gobierno negocia la compra de helicópteros Black Hawk",
+          "link": "https://www.infobae.com/politica/2026/09/02/en-septiembre-llegaran-seis-nuevos-f-16-y-el-gobierno-negocia-la-compra-de-helicopteros-black-hawk/",
+          "resumen": "El arribo de una segunda tanda de cazas daneses está previsto para la segunda quincena de septiembre",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Un funcionario de Milei culpó a China por la tragedia en Nepal que dejó miles de muertos y desató un conflicto diplomático: la Embajada salió a cruzarlo",
-          "link": "https://www.clarin.com/politica/funcionario-milei-culpo-china-tragedia-nepal-dejo-miles-muertos-desato-conflicto-diplomatico-embajada-salio-cruzarlo_0_EVVchcskYq.html",
-          "resumen": "Juan Pablo Carreira, mejor conocido como Juan Doe en X, es director de Comunicación Digital y responde a Santiago Caputo. Fundador de La Derecha Diario, es uno de los principales voceros en redes de la batalla cultural. Un diputado…",
+          "titulo": "Nueva encuesta y dato clave: quiénes son los votantes que más rechazan a Javier Milei",
+          "link": "https://www.clarin.com/politica/nueva-encuesta-dato-clave-votantes-rechazan-javier-milei_0_YwwR07cM9r.html",
+          "resumen": "Lo muestra el último estudio nacional de la consultora Synopsis. Evaluó la imagen del Presidente entre mujeres y hombres de diferentes edades. Fuertes diferencias.",
           "fuente": "Clarín"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Guerra en Medio Oriente: el petróleo vuelve a subir fuerte tras los nuevos ataques cruzados de EE.UU. e Irán",
-          "link": "https://www.clarin.com/mundo/guerra-medio-oriente-petroleo-vuelve-subir-fuerte-nuevos-ataques-cruzados-eeuu-iran_0_rSSoTWaZpZ.html",
-          "resumen": "El alza del crudo Brent, cuyo precio sirve de referencia en Argentina, es en torno al 5% luego de la reanudación del conflicto bélico en el Golfo Pérsico.",
+          "titulo": "Dura crítica del vice de la UIA al Gobierno de Milei: \"Esta gente no conoce el país ni lo que es una industria\"",
+          "link": "https://www.clarin.com/economia/dura-critica-vice-uia-gobierno-milei-gente-conoce-pais-industria_0_ij1F2oUcpZ.html",
+          "resumen": "Guillermo Moretti ironizó sobre los conocimientos financieros del Presidente y destacó que \"sus finanzas personales aumentaron en un año un 37% en dólares\". \"Estamos manejados por un endeudador, un trader que no sabe lo que es un torno\",…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Nafta y gasoil: el Gobierno frenó por un mes la suba de impuestos",
-          "link": "https://www.ambito.com/economia/nafta-y-gasoil-el-gobierno-freno-un-mes-la-suba-impuestos-n6317051",
-          "resumen": "El Ejecutivo postergó hasta octubre la actualización de los gravámenes sobre los combustibles líquidos y busca evitar un impacto inmediato en los precios.",
+          "titulo": "Salario mínimo: cómo serán los aumentos escalonados hasta abril de 2027, mes a mes",
+          "link": "https://www.ambito.com/economia/salario-minimo-como-seran-los-aumentos-escalonados-abril-2027-mes-mes-n6317568",
+          "resumen": "El cronograma de actualizaciones mensuales fijado por el Gobierno se aplicará desde septiembre de 2026 de forma continua hasta alcanzar el techo acordado en 2027.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "El socio suizo de Manzano tomó el control de las estaciones de servicio de Shell en Argentina",
-          "link": "https://www.clarin.com/energia-y-mineria/socio-suizo-manzano-tomo-control-estaciones-servicio-shell-argentina_0_BEBO9HznKZ.html",
-          "resumen": "Mercuria completó la adquisición de Raízen por US$ 1.420 millones. Incluye 894 estaciones y la refinería de Dock Sud.",
+          "titulo": "Con edición génica e inteligencia artificial, reducen de 5 años a 4 meses el mejoramiento de cultivos",
+          "link": "https://www.clarin.com/rural/edicion-genica-inteligencia-artificial-reducen-5-anos-4-meses-mejoramiento-cultivos_0_I4PH4vGa8n.html",
+          "resumen": "Bayer realizó anuncios globales en Iowa, corazón agrícola de Estados Unidos. Maíces de baja estatura y un insecticida de amplio espectro ya fueron lanzados al mercado. Proyectan otros avances disruptivos en la próxima década, sobre soja,…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El rendimiento de los bonos de Japón marca un récord en 30 años y EEUU presiona para subir las tasas",
-          "link": "https://www.ambito.com/economia/el-rendimiento-los-bonos-japon-marca-un-record-30-anos-y-eeuu-presiona-subir-las-tasas-n6317018",
-          "resumen": "La deuda soberana de Japón alcanza picos inéditos desde 1996 ante el avance de la inflación y las presiones directas de Washington. El contagio a los mercados globales y las señales de un nuevo alza de tasas este mes.",
+          "titulo": "Tras su paso por el G20, Luis Caputo aseguró que ni EEUU, ni el FMI están preocupados por la economía argentina",
+          "link": "https://www.ambito.com/economia/tras-su-paso-el-g20-luis-caputo-aseguro-que-ni-eeuu-ni-el-fmi-estan-preocupados-la-argentina-n6317560",
+          "resumen": "El ministro de Economía destacó su encuentro con Scott Bessent y afirmó que el Gobierno cumplirá las metas fiscales acordadas con el organismo.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Créditos hipotecarios: arranca la primera subasta entre los bancos con fondos de ANSeS",
-          "link": "https://www.clarin.com/economia/creditos-hipotecarios-arranca-primera-subasta-bancos-fondos-anses_0_nZvWro04Yx.html",
-          "resumen": "El Banco Central aprobará el nuevo régimen el jueves. Licitarán los primeros $ 200.000 millones de los depósitos del FGS de ANSeS. Los bancos saldrán a dar préstamos entre noviembre y diciembre.",
+          "titulo": "Euro hoy en Paraguay: precio y cotización de la divisa este miércoles 2 de septiembre de 2026",
+          "link": "https://www.clarin.com/economia/euro-hoy-en-paraguay-precio-y-cotizacion-de-la-divisa-este-miercoles-2-de-septiembre-de-2026_0_ukf5yj7iLl.html",
+          "resumen": "Mirá la cotización del euro en Paraguay, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
           "fuente": "Clarín"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "La Isla Fantasma se desplaza a la deriva por un gran lago canadiense y desaparece",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/isla-fantasma-desplaza-deriva-gran-lago-canadiense-desaparece_0_3MdhoVrj3d.html",
-          "resumen": "Al principio, las autoridades pensaron que se trataba simplemente de una artimaña de la inteligencia artificial, hasta que comprobaron las imágenes de satélite del norte de Columbia Británica. El misterio se intensificó y, el lunes, se…",
+          "titulo": "Castigo y silencio: China recurre a su manual de desastres en el Tíbet",
+          "link": "https://www.clarin.com/new-york-times-international-weekly/castigo-silencio-china-recurre-manual-desastres-tibet_0_auzFgB12rD.html",
+          "resumen": "",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Ataque en Times Square: qué se sabe de la presunta asesina que mató y fue abatida por la policía",
-          "link": "https://www.lanacion.com.ar/estados-unidos/ataque-en-times-square-que-se-sabe-de-la-presunta-asesina-que-mato-y-fue-abatida-por-la-policia-nid01092026/",
-          "resumen": "La mujer, de 49 años y residente de Queens, no tenía antecedentes penales, pero sí registros previos vinculados con problemas de salud mental; atacó al azar a dos desconocidos con cuchillos antes de enfrentarse a los agentes",
-          "fuente": "La Nación"
-        },
-        {
-          "titulo": "Europa prohíbe la carne de Brasil y rompe una de las patas clave del acuerdo con el Mercosur",
-          "link": "https://www.clarin.com/mundo/europa-prohibe-carne-brasil-rompe-patas-clave-acuerdo-mercosur_0_w1uBErEYRP.html",
-          "resumen": "A partir del jueves bloqueará definitivamente la importación de productos brasileños de origen animal por incumplir las normativas europeas. Bovinos, equinos, aves, huevos, productos de acuicultura y todo otro tipo de derivados de origen…",
+          "titulo": "Venezuela: el secretario de Energía de Trump ya está en Caracas para firmar el histórico acuerdo petrolero",
+          "link": "https://www.clarin.com/mundo/venezuela-secretario-energia-trump-caracas-firmar-historico-acuerdo-petrolero_0_Q6mLNwOeOK.html",
+          "resumen": "El contrato cede la explotación de una quinta parte de las reservas petroleras venezolanas a Estados Unidos. Los acuerdos que Chris Wright prevé firmar este miércoles \"son para traer paz, oportunidades y prosperidad al pueblo de Venezuela…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El secretario del Ejército norteamericano renuncia tras enfrentarse con Hegseth por destituciones en las fuerzas",
-          "link": "https://www.lanacion.com.ar/estados-unidos/el-secretario-del-ejercito-norteamericano-renuncia-tras-enfrentarse-con-hegseth-por-destituciones-en-nid01092026/",
-          "resumen": "Dan Driscoll, principal autoridad civil de la fuerza y amigo del vicepresidente JD Vance, dejará su cargo tras 18 meses al frente de la institución",
-          "fuente": "La Nación"
+          "titulo": "Riada en Nepal: los muertos ya superan los 1.100 y despiden a los desaparecidos en funerales sin cuerpo para \"liberar sus almas\"",
+          "link": "https://www.clarin.com/mundo/riada-nepal-muertos-superan-1100-despiden-desaparecidos-funerales-cuerpo-liberar-almas_0_wAdqqSYQYL.html",
+          "resumen": "Tras una semana sin novedades, en varias regiones las familias comenzaron a realizar los ritos religiosos de despedida. Algunos turistas que estaban extraviados lograron contactarse con sus embajadas, mientras que el gobierno local avanza…",
+          "fuente": "Clarín"
         },
         {
-          "titulo": "Nepal: más de mil muertos y carrera contra el tiempo para rescatar a cientos de personas atrapadas en túneles sin agua ni aire limpio",
-          "link": "https://www.clarin.com/mundo/nepal-mil-muertos-carrera-tiempo-rescatar-cientos-personas-atrapadas-tuneles-agua-aire-limpio_0_26T9ZUxe67.html",
-          "resumen": "Casi 4.500 personas siguen desaparecidas. Equipos asistidos por expertos extranjeros trabajan en varios proyectos hidroeléctricos afectados, entrando en túneles oscuros y llenos de escombros.",
+          "titulo": "En Tailandia, la exhausta tripulación de un portaviones estadounidense disfruta de su primer descanso en meses",
+          "link": "https://www.clarin.com/new-york-times-international-weekly/tailandia-exhausta-tripulacion-portaviones-estadounidense-disfruta-primer-descanso-meses_0_u7W73bs8Sk.html",
+          "resumen": "Miles de marineros y marines prestan servicio en el U.S.S. Abraham Lincoln, que saltó a la palestra debido a un duro despliegue en la guerra de Irán.",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Chevron anunció acuerdos para duplicar su producción petrolera en Venezuela en cinco años",
+          "link": "https://www.clarin.com/mundo/chevron-anuncio-acuerdos-duplicar-produccion-petrolera-venezuela-anos_0_yQHcez9jAE.html",
+          "resumen": "El anuncio se produjo poco después de que el secretario de Energía estadounidense cierre en Caracas el pacto que cede a Washington una quinta parte de las reservas del país sudamericano.",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Último capítulo de la novela de Julián Álvarez: se cierra el mercado de pases y la Araña se refugia en los argentinos del Atlético",
-          "link": "https://www.clarin.com/deportes/ultimo-capitulo-novela-julian-alvarez-cierra-mercado-pases-arana-refugia-argentinos-atletico_0_x2YKxDsQmg.html",
-          "resumen": "Reincorporado al Aleti, el delantero afrontó el último entrenamiento antes del cierre del libro de pases europeo y empieza a reenfocarse en el equipo de Simeone. Giuliano, Cuti Romero y Musso aparecen como su principal sostén después de…",
+          "titulo": "Boca vs Vélez, por la Copa Argentina 2026, EN VIVO: a qué hora es, formaciones y dónde ver el partido",
+          "link": "https://www.clarin.com/deportes/boca-vs-velez-copa-argentina-2026-vivo-hora-formaciones-ver-partido_0_fxoB60rzQC.html",
+          "resumen": "Los equipos de Arruabarrena y Barros Schelotto se enfrentan por el torneo federal. El ganador enfrenta a Racing en cuartos de final. Seguí el minuto a minuto.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Boca presentó el pedido a la AFA para poder incorporar por la lesión de Aranda",
-          "link": "https://www.ole.com.ar/boca-juniors/boca-presento-pedido-afa-poder-incorporar-lesion-aranda_0_yUKnW69ySC.html",
-          "resumen": "Riquelme tendrá días adicionales para cerrar un refuerzo en reemplazo del joven crack que se lesionó la semana pasada en Boca Predio.",
+          "titulo": "Atento, Colapinto: Alpine y el cambio de pilotos que informó para el GP de Monza",
+          "link": "https://www.ole.com.ar/autos/cambio-pilotos-alpine-practica-aaron-colapinto-monza_0_P5sIHkRtOy.html",
+          "resumen": "Pierre Gasly no manejará el viernes a la mañana: Paul Aron ocupará su lugar en el primer entrenamiento. El estonio ya había reemplazado a Franco en Budapest y volverá a trabajar con el equipo después de la sesión.",
           "fuente": "Olé"
         },
         {
-          "titulo": "D'Onofrio pide coraje y desafía al presidente de AFA: \"No hay que tenerle miedo a Tapia: en los cuatro años que no lo votamos ganamos todo\"",
-          "link": "https://www.clarin.com/deportes/donofrio-pide-coraje-desafia-presidente-afa-tenerle-miedo-tapia-anos-votamos-ganamos_0_2QA5TgtUYN.html",
-          "resumen": "El ex presidente de River reclamó \"coraje\" de la dirigencia para decirle al presidente de la AFA. Además, recordó que \"Blatter renunció\" después de que la delegación argentina no lo apoyó y reveló que en 2017 el club de Núñez votó en…",
+          "titulo": "Un defensor del Real Madrid fue condenado por conducir alcoholizado y enfrenta un juicio por supuesta difusión de imágenes sexuales",
+          "link": "https://www.clarin.com/deportes/defensor-real-madrid-condenado-conducir-alcoholizado-enfrenta-juicio-supuesta-difusion-imagenes-sexuales_0_fOqSEG3crV.html",
+          "resumen": "El jugador del equipo de Mourinho fue condenado en un juicio abreviado. Debe pagar una multa de 14.400 euros y le retiraron el carné por ocho meses. Además, en los próximos días deberá enfrentar otra causa judicial.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El jugador de Newell's que no ocultó sus ganas de ver a Messi en el club",
-          "link": "https://www.ole.com.ar/newells-old-boys/lionelmessi-deseo-josuereinatti-newells-pedidojugar-club-estadiouno-seleccionargentina-torneoclausura2026-rosario-frankdariokudelka_0_GgNXmvEKZd.html",
-          "resumen": "Tras ser figura en el empate ante Estudiantes, Josué Reinatti se refirió a la despedida del capitán argentino y lanzó un deseo del mundo leproso.",
+          "titulo": "Cómo serán las mejoras del Alpine de Colapinto en este GP de Monza para ir por los puntos",
+          "link": "https://www.ole.com.ar/autos/paquete-mejoras-alpine-colapinto-monza_0_opXDovEPWR.html",
+          "resumen": "En este informe explicamos cómo es en detalle el nuevo paquete que estrenará el monoplaza #43 con el objetivo de sumar puntos este fin de semana.",
           "fuente": "Olé"
         },
         {
-          "titulo": "\"No sabe el himno\", “camina la cancha” y “no juega como en Barcelona”: cuando a Messi lo silbaron en la Argentina, la herida que Leo nunca pudo olvidar",
-          "link": "https://www.clarin.com/deportes/sabe-himno-camina-cancha-juega-barcelona-messi-silbaron-argentina-herida-leo-pudo-olvidar_0_lJnPPE8D5r.html",
-          "resumen": "En julio de 2011, la Selección Argentina quedó eliminada de la Copa América como local en Santa Fe y las críticas con el 10 fueron impiadosas. Un tiempo después, Leo recordó la pregunta de uno de sus hijos: \"Papá, ¿por qué te matan en la…",
+          "titulo": "El arranque de Leonardo Ponzio en River: sus primeras decisiones trajeron algunas horas de paz y renovaron la ilusión",
+          "link": "https://www.clarin.com/deportes/arranque-leonardo-ponzio-river-primeras-decisiones-trajeron-horas-paz-renovaron-ilusion_0_6N8LzgpR1K.html",
+          "resumen": "El triufno 3-2, con angustia, como visitante frente a Banfield lo hizo salir de la mala racha que desembocó en la partida de Coudet. Después de un agosto fatal, el inicio de septiembre puede hacer florecer otra oportunidad.",
           "fuente": "Clarín"
         }
       ]
