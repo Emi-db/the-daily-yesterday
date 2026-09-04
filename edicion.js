@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "3 de septiembre de 2026",
-  "generada": "13:58",
+  "fecha": "4 de septiembre de 2026",
+  "generada": "13:50",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Con citas a Freud y la mitología griega, Horacio Rosatti exhortó a buscar \"respuestas propias\" sin el uso de la Inteligencia Artificial",
-          "link": "https://www.clarin.com/politica/citas-freud-mitologia-griega-horacio-rosatti-exhorto-buscar-respuestas-propias-uso-inteligencia-artificial_0_54bqWNy2WP.html",
-          "resumen": "El presidente de la Corte disertó como orador principal del evento anual que organiza la Asociación Mutual Israelita Argentina (AMIA) en vísperas de Rosh Hashaná, el Año Nuevo judío. Durante la ceremonia, el Gran Rabino Eliahu Hamra y el…",
+          "titulo": "\"Las sanciones no tendrán efectos materiales\": las petroleras que operan en Malvinas desafían a Milei y aseguran que seguirán con el proyecto Sea Lion",
+          "link": "https://www.clarin.com/politica/sanciones-efectos-materiales-petroleras-operan-malvinas-desafian-milei-aseguran-seguiran-proyecto-lion_0_ZGIvAeytM3.html",
+          "resumen": "La británica Rockhopper y la israelí Navitas emitieron un comunicado conjunto en el que minimizaron las consecuencias de los castigos que recaerán contra ambas en caso de seguir operando en el archipiélago.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Sin reparto de ATN, los giros discrecionales a provincias marcaron una baja real interanual de 66,4% en agosto",
-          "link": "https://www.lanacion.com.ar/politica/sin-reparto-de-atn-los-giros-discrecionales-a-provincias-marcaron-una-baja-real-interanual-de-664-en-nid03092026/",
-          "resumen": "Fue el tercer mes del año sin Aportes del Tesoro Nacional; hubo incumplimientos de convenios por las cajas previsionales no transferidas; los gobernadores negocian en forma individual",
+          "titulo": "Javier Milei y sus medidas, en vivo: “Las Malvinas son argentinas, por historia y por derecho”, dijo el Presidente",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-corren-vientos-de-cambio-respecto-a-la-nid04092026/",
+          "resumen": "El minuto a minuto de las decisiones del primer mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La Legislatura porteña debatirá la obligatoriedad escolar a partir de los tres años, el tratamiento de vehículos abandonados y la cremación de animales de compañía",
-          "link": "https://www.infobae.com/politica/2026/09/03/la-legislatura-portena-debatira-la-obligatoriedad-escolar-a-partir-de-los-tres-anos-el-tratamiento-de-vehiculos-abandonados-y-la-cremacion-de-animales-de-compania/",
-          "resumen": "El Cuerpo Legislativo también designará al nuevo Fiscal General del Ministerio Público y al Defensor o Defensora del Pueblo de la Ciudad de Buenos Aires",
+          "titulo": "Pato Galmarini: “A Milei no le creo absolutamente nada, es la continuidad de los golpes militares por otros medios”",
+          "link": "https://www.infobae.com/politica/2026/09/04/pato-galmarini-a-milei-no-le-creo-absolutamente-nada-es-la-continuidad-de-los-golpes-militares-por-otros-medios/",
+          "resumen": "El ex secretario de Deportes se mostró crítico con el Presidente tras la cadena nacional sobre Malvinas. “Este tipo habla de Malvinas y después reivindica a Pinochet”, sostuvo. Además, habló sobre su relación con Moria y la serie",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Comercio: la Justicia excluyó a la oposición y Cavalieri va por la reelección.",
-          "link": "https://www.clarin.com/politica/comercio-justicia-excluyo-oposicion-cavalieri-va-reeleccion_0_Ksv0559IOT.html",
-          "resumen": "El gremio mercantil porteño elige este jueves a sus autoridades. La lista opositora no logró reunir el mínimo de avales que exige el estatuto sindical.",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: \"No le entregaremos la base de Tierra del Fuego a EE.UU.\", aseguró Quirno y no descartó un viaje del Presidente a Reino Unido",
+          "link": "https://www.clarin.com/sociedad/javier-milei-medidas-vivo-entregaremos-base-tierra-fuego-eeuu-aseguro-quirno-descarto-viaje-presidente-reino-unido_0_R5612Uh6Xq.html",
+          "resumen": "El canciller señaló que no hubo un pedido a Washington para que interceda ante Londres por la cuestión de soberanía sobre el archipiélago. Seguí todas las novedades sobre las medidas del gobierno de Javier Milei en la cobertura minuto a…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: Milei habla hoy por la noche en cadena nacional sobre Malvinas",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-tension-con-los-industriales-y-los-preparativos-para-la-visita-nid03092026/",
-          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "titulo": "Quirno aseguró que las empresas que participen de operaciones en Malvinas no podrán hacerlo en Vaca Muerta: “Van a tener que decidir”",
+          "link": "https://www.lanacion.com.ar/politica/quirno-aseguro-que-las-empresas-que-participen-de-operaciones-en-malvinas-no-podran-hacerlo-en-vaca-nid04092026/",
+          "resumen": "El canciller explicó que las compañías vinculadas con la explotación de hidrocarburos en las islas quedarán alcanzadas por el régimen de sanciones argentino; además, negó que las medidas anunciadas por el Gobierno hayan sido acordadas con…",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Tras las duras críticas a Milei, la UIA le pide un RIGI industrial y un pacto fiscal: \"Esta transición es muy dura\"",
-          "link": "https://www.clarin.com/economia/duras-criticas-milei-uia-pide-rigi-industrial-pacto-fiscal-transicion-dura_0_cN1uYrwJiB.html",
-          "resumen": "El presidente de la Unión Industrial Argentina, Martín Rappallini, insistió este jueves en que el sector está \"en inferioridad de condiciones\". \"Pedimos una reducción de impuestos y que la mayor cantidad de empresas pueda enfrentar estos…",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "Los bonos en pesos ganan atractivo: cuáles son los motivos y qué títulos se destacan, según los especialistas",
-          "link": "https://www.lanacion.com.ar/economia/los-bonos-en-pesos-ganan-atractivo-cuales-son-los-motivos-y-que-titulos-se-destacan-segun-los-nid03092026/",
-          "resumen": "Con una mayor estabilidad en las tasas de interés y un mercado con más pesos disponibles, los títulos soberanos en moneda local de corto plazo surgen como una alternativa clave para rearmar las estrategias de inversión de cara al cierre…",
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 4 de septiembre, minuto a minuto",
+          "link": "https://www.lanacion.com.ar/economia/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid04092026/",
+          "resumen": "La divisa oficial opera a $1530 para la venta en el Banco Nación; el dólar blue cotiza a $1545 para esa operación; qué pasa con el MEP y el CCL",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Nuevos aranceles de EEUU a China: Donald Trump puso en vigor una alícuota de 100% para los drones",
-          "link": "https://www.ambito.com/economia/nuevos-aranceles-eeuu-china-donald-trump-puso-vigor-una-alicuota-100-los-drones-n6318018",
-          "resumen": "La medida responde a una orden firmada por Donald Trump en agosto, alertando sobre la amenaza de ciberespionaje, bloqueos en el suministro y desventajas tácticas. Así, EEUU alentará más la producción local de drones.",
+          "titulo": "Malvinas: preparan una ronda de negocios en Punta Arenas para impulsar una cadena de suministros a las islas",
+          "link": "https://www.ambito.com/economia/malvinas-preparan-una-ronda-negocios-punta-arenas-impulsar-una-cadena-suministros-las-islas-n6318528",
+          "resumen": "El objetivo es transformar a la c iudad chilena en un centro de abastecimiento para el desarrollo petrolero de Sea Lion, aprovechando la cercanía geográfica con las islas.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Tras idas y vueltas, se levantó el paro de ATE en 27 aeropuertos del país",
-          "link": "https://www.clarin.com/economia/paro-aeronautico-27-aeropuertos-pais-comenzo-medida-podria-demoras-cancelaciones-vuelos_0_gURVzHCoDI.html",
-          "resumen": "La suspensión de la huelga evitó demoras y cancelaciones en algunos vuelos.",
+          "titulo": "Euro hoy en Venezuela: precio y cotización de la divisa este viernes 4 de septiembre de 2026",
+          "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-viernes-4-de-septiembre-de-2026_0_Fru4IO3NX4.html",
+          "resumen": "Mirá la cotización del euro en Venezuela, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Luis Caputo respondió a las críticas de la UIA sobre las políticas económicas del Gobierno",
-          "link": "https://www.lanacion.com.ar/economia/luis-caputo-respondio-a-las-criticas-de-la-uia-a-las-politicas-economicas-del-gobierno-nid02092026/",
-          "resumen": "En el Día de la Industria, Moretti alertó sobre una caída en la producción y la pérdida de puestos de trabajo; el ministro de Economía dijo que el camino es el “correcto” y que en el proceso de “reconversión” cada uno “defiende sus…",
+          "titulo": "El BCE aplicaría una suba de tasas por segunda vez en septiembre",
+          "link": "https://www.ambito.com/economia/el-bce-aplicaria-una-suba-tasas-segunda-vez-septiembre-n6318506",
+          "resumen": "Pese a la aceleración del IPC al 3,3% en agosto y las tensiones en Medio Oriente, el mercado prevé que la fragilidad económica frene nuevos ajustes y fije la tasa en 2,50%. Los detalles, en la nota.",
+          "fuente": "Ámbito"
+        },
+        {
+          "titulo": "Los empresarios prefieren los insultos antes que el pasado",
+          "link": "https://www.lanacion.com.ar/economia/los-empresarios-prefieren-los-insultos-al-pasado-nid03092026/",
+          "resumen": "La tolerancia al destrato presidencial es mayor que la que existe hacia las propuestas de Kicillof",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Tragedia en Canarias: murieron 80 personas en un \"cayuco\" que salió de Gambia y quedó 26 días a la deriva en el mar",
-          "link": "https://www.clarin.com/mundo/tragedia-canarias-murieron-80-personas-cayuco-salio-gambia-quedo-26-dias-deriva-mar_0_fCwP1thVVk.html",
-          "resumen": "Las fuerzas de seguridad españolas rescataron a 44 hombres que sobrevivieron en la embarcación. En la barcaza también encontraron cinco cadáveres, uno de un bebé.",
+          "titulo": "Mala noticia para Trump: el diésel en Estados Unidos se dispara a 5,85 dólares por galón por primera vez en la historia",
+          "link": "https://www.clarin.com/mundo/mala-noticia-trump-diesel-estados-unidos-dispara-585-dolares-galon-primera-vez-historia_0_WZqHp6C33d.html",
+          "resumen": "Antes de la guerra con Irán, el precio era US$ 3,76 dólares. El aumento implica mayores costos en el transporte para una larga lista de productos de uso diario. Esto podría agravar los problemas políticos de los republicanos de cara a las…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Masacre en México: qué se sabe del argentino detenido por el crimen de un músico y su familia",
-          "link": "https://www.lanacion.com.ar/el-mundo/masacre-en-mexico-que-se-sabe-del-argentino-detenido-por-el-crimen-de-un-musico-y-su-familia-nid03092026/",
-          "resumen": "Diego Sebastián Rosen tiene 51 años y mantenía un vínculo comercial con Jonathan Meléndez Ochoa; fue registrado por las cámaras de seguridad del edificio y también había sido denunciado por presuntas estafas",
+          "titulo": "La advertencia de un exasesor de Margaret Thatcher tras el discurso de Milei sobre las Islas Malvinas",
+          "link": "https://www.lanacion.com.ar/el-mundo/la-advertencia-de-un-exasesor-de-margaret-thatcher-tras-el-discurso-de-milei-sobre-las-islas-nid04092026/",
+          "resumen": "Nile Gardiner, exasistente de la primera ministra que gobernó Gran Bretaña durante la guerra, aseguró que el mandatario argentino “está despertando a un león dormido”",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La poderosa Iglesia Católica de Alemania insiste con las grandes reformas y pone a prueba al Papa León XIV",
-          "link": "https://www.clarin.com/mundo/poderosa-iglesia-catolica-alemania-insiste-grandes-reformas-pone-prueba-papa-leon-xiv_0_R2nOQ6VYSw.html",
-          "resumen": "Los obispos alemanes reclaman una mayor participación de mujeres y laicos en los espacios de decisión. También piden desde hace años más apertura sobre temas como el celibato sacerdotal y temas de moral sexual. Un inmenso desafío para el…",
+          "titulo": "Muchos italianos se resistieron durante mucho tiempo al aire acondicionado. Luego, Europa se volvió más calurosa",
+          "link": "https://www.clarin.com/new-york-times-international-weekly/italianos-resistieron-tiempo-aire-acondicionado-luego-europa-volvio-calurosa_0_ze14eNZO48.html",
+          "resumen": "Ante las temperaturas récord que se registran en el continente, los hogares y las empresas de Italia están instalando cada vez más sistemas de refrigeración.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Video: difundieron imágenes de Diego Rosen, el acusado de la masacre en México",
-          "link": "https://www.lanacion.com.ar/el-mundo/video-difundieron-imagenes-de-diego-rosen-el-acusado-de-la-masacre-en-mexico-nid03092026/",
-          "resumen": "El empresario argentino fue registrado por las cámaras de seguridad del ascensor del edificio donde vivía el músico Jonathan Meléndez Ochoa; llevaba gorra, anteojos oscuros y una mochila",
+          "titulo": "Inundaciones en Nepal: rescataron a dos trabajadores que estuvieron atrapados nueve días en un túnel hidroeléctrico",
+          "link": "https://www.lanacion.com.ar/el-mundo/inundaciones-en-nepal-rescataron-a-dos-trabajadores-que-estuvieron-atrapados-nueve-dias-en-un-tunel-nid04092026/",
+          "resumen": "Uno de los operarios contó que hay personas con vida atrapadas bajo los escombros, mientras los rescatistas operan a contrarreloj con recursos limitados en un terreno adverso",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Estos generales lucharon por Israel. Ahora ven el \"terrorismo judío\" como la amenaza",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/generales-lucharon-israel-ahora-ven-terrorismo-judio-amenaza_0_7SvTZOwbya.html",
-          "resumen": "Un número cada vez mayor de antiguos generales, responsables de los servicios de inteligencia y primeros ministros israelíes acusan a los colonos de Cisjordania de llevar a cabo una limpieza étnica con el apoyo del Gobierno. «Cuando una…",
+          "titulo": "Crece el escándalo de corrupción en el máximo tribunal de Brasil: Lula pide investigar \"sin blindajes\"",
+          "link": "https://www.clarin.com/mundo/crece-escandalo-corrupcion-maximo-tribunal-brasil-lula-pide-investigar-blindajes_0_LV3i1RMZaY.html",
+          "resumen": "El presidente brasileño exigió indagar un megaescándalo de corrupción que ha desatado una crisis en la corte suprema, con uno de sus jueces apuntado por otro como posible implicado. El inédito pulso en el máximo tribunal se agrava a un…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Así quedaron los cuartos de final de la Copa Argentina: cuándo y dónde se jugaría Boca vs Racing",
-          "link": "https://www.clarin.com/deportes/quedaron-cuartos-final-copa-argentina-jugaria-boca-vs-racing_0_9Xpyqyeawj.html",
-          "resumen": "El Xeneize eliminó al Fortín y ahora enfrentará a la Academia en cuartos de final. Cómo está la llave y el resto de los cruces.",
+          "titulo": "Golpe para Alpine: la FIA ratificó la sanción a Gasly en el GP de Mónaco y el equipo de Colapinto perdió el podio",
+          "link": "https://www.clarin.com/deportes/golpe-gasly-fia-ratifico-sancion-gp-monaco-perdio-podio_0_EtwyGq3hvj.html",
+          "resumen": "La decisión se conoció en el arranque del fin de semana de la Fórmula 1 en Monza. El piloto francés quedó 7mo y la escudería perdió 9 puntos, alejándose de Racing Bulls. Isack Hadjar fue el gran beneficiado por el fallo: heredó el tercer…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Mourinho habló del retiro de Messi de la selección: “Esos jugadores que siempre echas de menos”",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/mourinho-hablo-del-retiro-de-messi-de-la-seleccion-esos-jugadores-que-siempre-echas-de-menos-nid03092026/",
-          "resumen": "El DT portugués ofreció una conferencia de prensa en la previa del partido con el Betis de Manuel Pellegrini, por la 4° fecha de la Liga española",
+          "titulo": "La FIA le quitó a Pierre Gasly el tercer puesto del Gran Premio de Mónaco",
+          "link": "https://www.lanacion.com.ar/deportes/automovilismo/la-fia-le-quito-a-pierre-gasly-el-tercer-puesto-del-gran-premio-de-monaco-nid04092026/",
+          "resumen": "La sanción que había recibido por violar el límite de velocidad en el pitlane había sido apelada exitosamente por Alpine; sin embargo, este viernes, la FIA dio lugar a un pedido de Racing Bulls y volvió al fallo de aquella vez: el podio…",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Belgrano vs. Huracán, por el Torneo Clausura 2026: día, horario y TV",
-          "link": "https://www.ole.com.ar/futbol-primera/belgrano-vs-huracan-partido-torneo-clausura-2026-dia-horario-tv_0_gsfVAsGf9A.html",
-          "resumen": "El equipo de Zielinski busca hacerse fuerte en Córdoba para meterse arriba, mientras que el conjunto de Parque Patricios está obligado a sumar.",
+          "titulo": "Ocho años después: la marca que Cerúndolo, Etcheverry y Navone recuperaron en el US Open",
+          "link": "https://www.ole.com.ar/tenis/tenis-cerundolo-etcheverry-navone-recuperan-marca-us-open-argentina_0_gfU1KOQy0q.html",
+          "resumen": "Tres argentinos alcanzaron la tercera ronda del Grand Slam estadounidense por primera vez desde 2018, cuando Del Potro, Schwartzman y Pella se metieron entre los 32 mejores.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Los primeros amistosos de la Selección sin Messi: serían en Argentina, rivales a confirmar y qué hará el ex capitán",
-          "link": "https://www.clarin.com/deportes/primeros-amistosos-seleccion-messi-argentina-rivales-confirmar-hara-ex-capitan_0_TmaYYOJeG0.html",
-          "resumen": "Será en la ampliada fecha FIFA, entre el 21 de septiembre y el 6 de octubre. Habrá homenajes para la Scaloneta, pero el 10 ya no estará. Scaloni haría una lista \"sábana\" de convocados para empezar a promover el recambio.",
+          "titulo": "El futbolista argentino Pourrain, después del encierro y el infierno del ICE: \"Trataba de ponerme en la cabeza 'tengo que ganar', como si fuese un partido\"",
+          "link": "https://www.clarin.com/deportes/futbolista-argentino-pourrain-despues-encierro-infierno-ice-trataba-ponerme-cabeza-ganar-partido_0_T1rD5y3WTN.html",
+          "resumen": "Estuvo 22 días preso pese a que contaba con permiso de trabajo y tiene vigente la solicitud de residencia. Todavía no tiene sus documentos y circula con un permiso especial y un geolocalizador. Construyó su carrera en clubes de Miami,…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Franco Colapinto llega al Gran Premio de Italia con todas las actualizaciones, aunque advirtió complicaciones para correr en Monza",
-          "link": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-llega-al-gran-premio-de-italia-con-todas-las-actualizaciones-aunque-advirtio-nid03092026/",
-          "resumen": "El argentino celebró contar con las mejoras sobre el A526, aunque mencionó algunos problemas con el rendimiento",
+          "titulo": "US Open 2026 hoy: partidos y cómo está el cuadro",
+          "link": "https://www.lanacion.com.ar/deportes/tenis/us-open-2026-hoy-partidos-y-como-esta-el-cuadro-nid04092026/",
+          "resumen": "En la sexta jornada en Flushing Meadows se juegan partidos de los 32vos de final; se destaca el cruce entre los argentinos Tomás Etcheverry y Mariano Navone",
           "fuente": "La Nación"
         }
       ]
