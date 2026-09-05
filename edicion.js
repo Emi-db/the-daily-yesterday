@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "4 de septiembre de 2026",
-  "generada": "13:50",
+  "fecha": "5 de septiembre de 2026",
+  "generada": "13:04",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "\"Las sanciones no tendrán efectos materiales\": las petroleras que operan en Malvinas desafían a Milei y aseguran que seguirán con el proyecto Sea Lion",
-          "link": "https://www.clarin.com/politica/sanciones-efectos-materiales-petroleras-operan-malvinas-desafian-milei-aseguran-seguiran-proyecto-lion_0_ZGIvAeytM3.html",
-          "resumen": "La británica Rockhopper y la israelí Navitas emitieron un comunicado conjunto en el que minimizaron las consecuencias de los castigos que recaerán contra ambas en caso de seguir operando en el archipiélago.",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: \"Tierra del Fuego no puede ser moneda de cambio por Malvinas\", la advertencia al Presidente desde el Parlasur",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-tierra-fuego-puede-moneda-cambio-malvinas-advertencia-presidente-parlasur_0_KfK1ZzoPcc.html",
+          "resumen": "El parlamentario Alejandro Deanes, del Frente Renovador, cuestionó el uso del reclamo por las islas para justificar acuerdos militares con potencias extranjeras. Seguí todas las novedades sobre las medidas del gobierno de Javier Milei en…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: “Las Malvinas son argentinas, por historia y por derecho”, dijo el Presidente",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-corren-vientos-de-cambio-respecto-a-la-nid04092026/",
-          "resumen": "El minuto a minuto de las decisiones del primer mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "titulo": "La reacción de los diarios de Inglaterra tras los anuncios de Milei sobre Malvinas: de la “amenaza” al “nada nuevo”",
+          "link": "https://www.lanacion.com.ar/politica/la-reaccion-de-los-diarios-de-inglaterra-tras-los-anuncios-de-milei-sobre-malvinas-de-la-amenaza-al-nid05092026/",
+          "resumen": "La prensa británica mostró distintas posturas ante el discurso del Presidente, que anunció una serie de medidas en defensa de la soberanía",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Pato Galmarini: “A Milei no le creo absolutamente nada, es la continuidad de los golpes militares por otros medios”",
-          "link": "https://www.infobae.com/politica/2026/09/04/pato-galmarini-a-milei-no-le-creo-absolutamente-nada-es-la-continuidad-de-los-golpes-militares-por-otros-medios/",
-          "resumen": "El ex secretario de Deportes se mostró crítico con el Presidente tras la cadena nacional sobre Malvinas. “Este tipo habla de Malvinas y después reivindica a Pinochet”, sostuvo. Además, habló sobre su relación con Moria y la serie",
+          "titulo": "Tras el anuncio de Milei, el ex primer ministro británico Boris Johnson pidió refuerzos militares en las Malvinas",
+          "link": "https://www.infobae.com/politica/2026/09/05/tras-el-anuncio-de-milei-el-ex-primer-ministro-britanico-boris-johnson-pidio-refuerzos-militares-en-las-malvinas/",
+          "resumen": "Tras el mensaje en cadena nacional sobre las medidas de soberanía en las islas, el exjefe del gobierno de Gran Bretaña reclamó en el Daily Mail enviar aviones, tropas o barcos. De todas formas, calificó al presidente argentino como…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: \"No le entregaremos la base de Tierra del Fuego a EE.UU.\", aseguró Quirno y no descartó un viaje del Presidente a Reino Unido",
-          "link": "https://www.clarin.com/sociedad/javier-milei-medidas-vivo-entregaremos-base-tierra-fuego-eeuu-aseguro-quirno-descarto-viaje-presidente-reino-unido_0_R5612Uh6Xq.html",
-          "resumen": "El canciller señaló que no hubo un pedido a Washington para que interceda ante Londres por la cuestión de soberanía sobre el archipiélago. Seguí todas las novedades sobre las medidas del gobierno de Javier Milei en la cobertura minuto a…",
+          "titulo": "Detuvieron al exgobernador de Entre Ríos Sergio Urribarri para que cumpla su condena por corrupción",
+          "link": "https://www.clarin.com/politica/justicia-ordeno-detencion-sergio-urribarri-exgobernador-rios_0_dVIsfvMppE.html",
+          "resumen": "Fue luego que la Corte Suprema de Justicia confirmara su condena a ocho años de cárcel por los delitos de corrupción y administración fraudulenta contra el erario público. La orden también alcanzó al exministro Cultura y Comunicación,…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Quirno aseguró que las empresas que participen de operaciones en Malvinas no podrán hacerlo en Vaca Muerta: “Van a tener que decidir”",
-          "link": "https://www.lanacion.com.ar/politica/quirno-aseguro-que-las-empresas-que-participen-de-operaciones-en-malvinas-no-podran-hacerlo-en-vaca-nid04092026/",
-          "resumen": "El canciller explicó que las compañías vinculadas con la explotación de hidrocarburos en las islas quedarán alcanzadas por el régimen de sanciones argentino; además, negó que las medidas anunciadas por el Gobierno hayan sido acordadas con…",
+          "titulo": "El discurso de Milei sobre Malvinas: el último milagro de Messi, la carta de Trump y un homenaje silencioso a Cristina",
+          "link": "https://www.lanacion.com.ar/politica/el-discurso-de-milei-sobre-malvinas-el-ultimo-milagro-de-messi-la-carta-de-trump-y-un-homenaje-nid04092026/",
+          "resumen": "¿Oportunismo o estrategia de Estado? Las palabras del Presidente muestran un giro nacionalista de su gobierno, en sintonía con la presión de EE.UU. a Gran Bretaña; los dilemas para la oposición",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 4 de septiembre, minuto a minuto",
-          "link": "https://www.lanacion.com.ar/economia/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid04092026/",
-          "resumen": "La divisa oficial opera a $1530 para la venta en el Banco Nación; el dólar blue cotiza a $1545 para esa operación; qué pasa con el MEP y el CCL",
-          "fuente": "La Nación"
-        },
-        {
-          "titulo": "Malvinas: preparan una ronda de negocios en Punta Arenas para impulsar una cadena de suministros a las islas",
-          "link": "https://www.ambito.com/economia/malvinas-preparan-una-ronda-negocios-punta-arenas-impulsar-una-cadena-suministros-las-islas-n6318528",
-          "resumen": "El objetivo es transformar a la c iudad chilena en un centro de abastecimiento para el desarrollo petrolero de Sea Lion, aprovechando la cercanía geográfica con las islas.",
-          "fuente": "Ámbito"
-        },
-        {
-          "titulo": "Euro hoy en Venezuela: precio y cotización de la divisa este viernes 4 de septiembre de 2026",
-          "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-viernes-4-de-septiembre-de-2026_0_Fru4IO3NX4.html",
-          "resumen": "Mirá la cotización del euro en Venezuela, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
+          "titulo": "Créditos, garantías y tasas: cómo quiere EE.UU. financiar la minería argentina",
+          "link": "https://www.clarin.com/energia-y-mineria/creditos-garantias-tasas-quiere-eeuu-financiar-mineria-argentina_0_Uk8piWVlZ1.html",
+          "resumen": "Estados Unidos dijo que tiene financiamiento para minerales críticos en Argentina si hay reglas \"claras y predecibles\". Entidades financieras públicas y banca privada detallaron cómo se definirán las tasas y qué garantías pueden reducir…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El BCE aplicaría una suba de tasas por segunda vez en septiembre",
-          "link": "https://www.ambito.com/economia/el-bce-aplicaria-una-suba-tasas-segunda-vez-septiembre-n6318506",
-          "resumen": "Pese a la aceleración del IPC al 3,3% en agosto y las tensiones en Medio Oriente, el mercado prevé que la fragilidad económica frene nuevos ajustes y fije la tasa en 2,50%. Los detalles, en la nota.",
+          "titulo": "La empresa de servicios petroleros SLB confirmó que no participará en ninguna actividad en Malvinas",
+          "link": "https://www.lanacion.com.ar/economia/la-empresa-de-servicios-petroleros-slb-confirmo-que-no-participara-en-ninguna-actividad-en-malvinas-nid05092026/",
+          "resumen": "La firma aseguró que tampoco prestará servicios para proyectos de hidrocarburos en los espacios marítimos circundantes; Milei anunció sanciones a quienes realicen este tipo de actividades",
+          "fuente": "La Nación"
+        },
+        {
+          "titulo": "Plazo fijo en pesos: cuántos intereses generan $2.000.000 a 30 días",
+          "link": "https://www.ambito.com/economia/plazo-fijo-pesos-cuantos-intereses-generan-2000000-30-dias-n6318681",
+          "resumen": "Las tasas de los depósitos muestran diferencias entre bancos y canales de contratación, por lo que comparar antes de invertir es clave para los ahorristas.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Los empresarios prefieren los insultos antes que el pasado",
-          "link": "https://www.lanacion.com.ar/economia/los-empresarios-prefieren-los-insultos-al-pasado-nid03092026/",
-          "resumen": "La tolerancia al destrato presidencial es mayor que la que existe hacia las propuestas de Kicillof",
+          "titulo": "Euro hoy en Bolivia: precio y cotización de la divisa este sábado 5 de septiembre de 2026",
+          "link": "https://www.clarin.com/economia/euro-hoy-en-bolivia-precio-y-cotizacion-de-la-divisa-este-sabado-5-de-septiembre-de-2026_0_8LovnMP2Ql.html",
+          "resumen": "Mirá la cotización del euro en Bolivia, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "A cuánto abre el dólar el lunes 7 de septiembre",
+          "link": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-el-lunes-7-de-septiembre-nid05092026/",
+          "resumen": "La cotización de la divisa oficial abre con los mismos números que en su último día de cierre; así se posicionaron el dólar oficial, el paralelo y los financieros",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Mala noticia para Trump: el diésel en Estados Unidos se dispara a 5,85 dólares por galón por primera vez en la historia",
-          "link": "https://www.clarin.com/mundo/mala-noticia-trump-diesel-estados-unidos-dispara-585-dolares-galon-primera-vez-historia_0_WZqHp6C33d.html",
-          "resumen": "Antes de la guerra con Irán, el precio era US$ 3,76 dólares. El aumento implica mayores costos en el transporte para una larga lista de productos de uso diario. Esto podría agravar los problemas políticos de los republicanos de cara a las…",
+          "titulo": "Ganó Togo, festeja África y EE.UU. habla de \"burla\": la ONU adoptó una reforma clave en la cartografía y presentó su nuevo mapa del mundo",
+          "link": "https://www.clarin.com/mundo/gano-togo-festeja-africa-eeuu-habla-burla-onu-adopto-reforma-clave-cartografia-presento-nuevo-mapa-mundo_0_6iPpbiiNWh.html",
+          "resumen": "Las Naciones Unidas abandonan la proyección de Mercator, que amplía artificialmente algunos territorios. Por que la delegación de Washington fue la única que votó en contra.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La advertencia de un exasesor de Margaret Thatcher tras el discurso de Milei sobre las Islas Malvinas",
-          "link": "https://www.lanacion.com.ar/el-mundo/la-advertencia-de-un-exasesor-de-margaret-thatcher-tras-el-discurso-de-milei-sobre-las-islas-nid04092026/",
-          "resumen": "Nile Gardiner, exasistente de la primera ministra que gobernó Gran Bretaña durante la guerra, aseguró que el mandatario argentino “está despertando a un león dormido”",
+          "titulo": "Múltiple asesinato en México: aseguran que el agresor cometió el crimen por “Bitcoins” y luego se fue a un restaurante",
+          "link": "https://www.lanacion.com.ar/el-mundo/multiple-asesinato-en-mexico-aseguran-que-el-agresor-cometio-el-crimen-por-bitcoins-y-luego-se-fue-a-nid05092026/",
+          "resumen": "El imputado era socio comercial de la víctima, el tecladista de la banda Camilo Séptimo, Jonathan Meléndez Ochoa",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Muchos italianos se resistieron durante mucho tiempo al aire acondicionado. Luego, Europa se volvió más calurosa",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/italianos-resistieron-tiempo-aire-acondicionado-luego-europa-volvio-calurosa_0_ze14eNZO48.html",
-          "resumen": "Ante las temperaturas récord que se registran en el continente, los hogares y las empresas de Italia están instalando cada vez más sistemas de refrigeración.",
+          "titulo": "Murió Camilo Escalona, expresidente del Partido Socialista de Chile, a los 71 años",
+          "link": "https://www.clarin.com/mundo/murio-camilo-escalona-expresidente-partido-socialista-chile-71-anos_0_KRQnQeaqrQ.html",
+          "resumen": "El presidente José Kast lo despidió en las redes sociales. Nunca ocupó un cargo de ministro, ni fue candidato presidencial, vivió en el exilio tras el golpe.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Inundaciones en Nepal: rescataron a dos trabajadores que estuvieron atrapados nueve días en un túnel hidroeléctrico",
-          "link": "https://www.lanacion.com.ar/el-mundo/inundaciones-en-nepal-rescataron-a-dos-trabajadores-que-estuvieron-atrapados-nueve-dias-en-un-tunel-nid04092026/",
-          "resumen": "Uno de los operarios contó que hay personas con vida atrapadas bajo los escombros, mientras los rescatistas operan a contrarreloj con recursos limitados en un terreno adverso",
+          "titulo": "Se casaron en Cali tras el terremoto, pidieron donaciones a sus invitados y llevaron la ayuda vestidos de novios",
+          "link": "https://www.lanacion.com.ar/el-mundo/se-casaron-en-cali-tras-el-terremoto-pidieron-donaciones-a-sus-invitados-y-llevaron-la-ayuda-nid05092026/",
+          "resumen": "Conoce cómo una boda en Cali cambió tras el terremoto: los novios pidieron donaciones y las entregaron vestidos de gala a los damnificados",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Crece el escándalo de corrupción en el máximo tribunal de Brasil: Lula pide investigar \"sin blindajes\"",
-          "link": "https://www.clarin.com/mundo/crece-escandalo-corrupcion-maximo-tribunal-brasil-lula-pide-investigar-blindajes_0_LV3i1RMZaY.html",
-          "resumen": "El presidente brasileño exigió indagar un megaescándalo de corrupción que ha desatado una crisis en la corte suprema, con uno de sus jueces apuntado por otro como posible implicado. El inédito pulso en el máximo tribunal se agrava a un…",
+          "titulo": "Colombia: detienen a un francotirador del ELN por planificar un atentado contra el presidente De la Espriella",
+          "link": "https://www.clarin.com/mundo/colombia-detienen-francotirador-eln-planificar-atentado-presidente-espriella_0_29LEY1zsPm.html",
+          "resumen": "\"¡Capturado el francotirador del ELN que participó en la planeación de un atentado contra mi vida!\", celebró el mandatario. El sospechoso fue detenido el jueves y se lo conoce con el alias de Firulais.",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Golpe para Alpine: la FIA ratificó la sanción a Gasly en el GP de Mónaco y el equipo de Colapinto perdió el podio",
-          "link": "https://www.clarin.com/deportes/golpe-gasly-fia-ratifico-sancion-gp-monaco-perdio-podio_0_EtwyGq3hvj.html",
-          "resumen": "La decisión se conoció en el arranque del fin de semana de la Fórmula 1 en Monza. El piloto francés quedó 7mo y la escudería perdió 9 puntos, alejándose de Racing Bulls. Isack Hadjar fue el gran beneficiado por el fallo: heredó el tercer…",
+          "titulo": "Aldosivi vs Banfield, por el Torneo Clausura 2026, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
+          "link": "https://www.clarin.com/deportes/aldosivi-vs-banfield-torneo-clausura-2026-vivo-hora-juegan-formaciones-ver-partido_0_zkIPtkndpr.html",
+          "resumen": "Juegan en Mar del Plata desde las 13.30, por ESPN Premium. Javier Sanguinetti debuta como DT del Tiburón. El equipo de Pedro Troglio viene de caer ante River.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La FIA le quitó a Pierre Gasly el tercer puesto del Gran Premio de Mónaco",
-          "link": "https://www.lanacion.com.ar/deportes/automovilismo/la-fia-le-quito-a-pierre-gasly-el-tercer-puesto-del-gran-premio-de-monaco-nid04092026/",
-          "resumen": "La sanción que había recibido por violar el límite de velocidad en el pitlane había sido apelada exitosamente por Alpine; sin embargo, este viernes, la FIA dio lugar a un pedido de Racing Bulls y volvió al fallo de aquella vez: el podio…",
+          "titulo": "Pedro González, de Matador en San Lorenzo a uno de los héroes que rescató a River de la sequía: “Fue algo muy fuerte, el boom total”",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/river-plate/pedro-gonzalez-de-matador-en-san-lorenzo-a-uno-de-los-heroes-que-rescato-a-river-de-la-sequia-fue-nid05092026/",
+          "resumen": "Puntero derecho letal, formó parte de equipos emblemáticos del fútbol argentino, bajo la batuta de maestros como Toto Lorenzo y Ángel Labruna; a los 80 años, sigue activo en el club millonario formando juveniles: “Me encanta este laburo”",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Ocho años después: la marca que Cerúndolo, Etcheverry y Navone recuperaron en el US Open",
-          "link": "https://www.ole.com.ar/tenis/tenis-cerundolo-etcheverry-navone-recuperan-marca-us-open-argentina_0_gfU1KOQy0q.html",
-          "resumen": "Tres argentinos alcanzaron la tercera ronda del Grand Slam estadounidense por primera vez desde 2018, cuando Del Potro, Schwartzman y Pella se metieron entre los 32 mejores.",
+          "titulo": "Con Mastantuono desde el arranque, Fiorentina busca su primer triunfo en la Serie A frente a Torino",
+          "link": "https://www.ole.com.ar/futbol-internacional/italia/franco-mastantuono-fiorentina-torino-serie_0_ceUtNiBu3w.html",
+          "resumen": "El equipo de Fabio Grosso necesita los tres puntos para salir de la zona baja de la tabla de posiciones. Seguilo en Olé.",
           "fuente": "Olé"
         },
         {
-          "titulo": "El futbolista argentino Pourrain, después del encierro y el infierno del ICE: \"Trataba de ponerme en la cabeza 'tengo que ganar', como si fuese un partido\"",
-          "link": "https://www.clarin.com/deportes/futbolista-argentino-pourrain-despues-encierro-infierno-ice-trataba-ponerme-cabeza-ganar-partido_0_T1rD5y3WTN.html",
-          "resumen": "Estuvo 22 días preso pese a que contaba con permiso de trabajo y tiene vigente la solicitud de residencia. Todavía no tiene sus documentos y circula con un permiso especial y un geolocalizador. Construyó su carrera en clubes de Miami,…",
+          "titulo": "Los Pumas vs Wallabies, en Mendoza: la oportunidad del equipo de Contepomi de despedirse del público argentino con una victoria",
+          "link": "https://www.clarin.com/deportes/pumas-vs-wallabies-mendoza-oportunidad-equipo-contepomi-despedirse-publico-argentino-victoria_0_Sos5KHpAzr.html",
+          "resumen": "Será el sexto partido del calendario en la Argentina: cerrará el año deportivo en Europa en la definición del Nations Championship. Hay cuatro cambios respecto al último XV y dos jugadores que esperan en el banco por sus debuts en el…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "US Open 2026 hoy: partidos y cómo está el cuadro",
-          "link": "https://www.lanacion.com.ar/deportes/tenis/us-open-2026-hoy-partidos-y-como-esta-el-cuadro-nid04092026/",
-          "resumen": "En la sexta jornada en Flushing Meadows se juegan partidos de los 32vos de final; se destaca el cruce entre los argentinos Tomás Etcheverry y Mariano Navone",
+          "titulo": "Alan Chaves perdió claramente: un derrumbe inesperado en una noche sin respuestas",
+          "link": "https://www.lanacion.com.ar/deportes/boxeo/alan-chaves-perdio-claramente-un-derrumbe-inesperado-en-una-noche-sin-respuestas-nid05092026/",
+          "resumen": "El boxeador bonaerense, que buscaba encumbrarse hacia una pelea por título, fue superado ampliamente por el dominicano Eridson García, que lo apabulló y estuvo cerca de noquearlo; una derrota que es un claro retroceso en su carrera",
           "fuente": "La Nación"
         }
       ]

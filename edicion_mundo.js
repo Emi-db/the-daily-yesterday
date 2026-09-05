@@ -1,41 +1,41 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "4 de septiembre de 2026",
-    "generada": "13:50",
+    "fecha": "5 de septiembre de 2026",
+    "generada": "13:04",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "\"Colombia tiene una paranoia tras perder Panamá en 1903 que la ha llevado al aislacionismo en el Caribe, donde podría ser un motor\"",
-            "link": "https://www.bbc.com/mundo/articles/cvg73rn45gxo?at_medium=RSS&at_campaign=rss",
-            "resumen": "La escritora Cristina Bendek escribió \"Las pérdidas\", un libro sobre la compleja situación en las islas colombianas de San Andrés, Providencia y Santa Catalina.",
+            "titulo": "\"Totalitarismo total\": cómo la IA impulsa la mayor concentración de poder de la historia (y cuál fue la predicción de Putin que se está haciendo realidad)",
+            "link": "https://www.bbc.com/mundo/articles/c62j8j6lvy7o?at_medium=RSS&at_campaign=rss",
+            "resumen": "BBC Mundo entrevistó al autor mexicano Pedro Salazar sobre su nuevo libro Totalitarismo Total, en el que analiza cómo la inteligencia artificial está acelerando la concentración de poder y desafiando a las democracias liberales.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Nepal rescata con vida a dos trabajadores de un túnel de una central hidroeléctrica nueve días después de la riada",
-            "link": "https://elpais.com/internacional/2026-09-04/nepal-rescata-con-vida-a-dos-trabajadores-de-un-tunel-de-una-central-hidroelectrica-nueve-dias-despues-de-la-riada.html",
-            "resumen": "Las autoridades buscan contra reloj en pasadizos subterráneos de seis instalaciones de ese tipo a hasta 150 supervivientes. La cifra total de muertos aumenta a más de 1.300",
+            "titulo": "En este pueblo ganó AfD su primer alcalde de Alemania y desde entonces no para de crecer",
+            "link": "https://elpais.com/internacional/2026-09-05/en-este-pueblo-gano-afd-su-primer-alcalde-de-alemania-y-desde-entonces-no-para-de-crecer.html",
+            "resumen": "Vecinos de Raguhn-Jessnitz dan por hecho que la extrema derecha obtendrá en el municipio más del 60% de los votos en las elecciones de Sajonia-Anhalt",
             "fuente": "El País"
           },
           {
-            "titulo": "\"Me dijeron que jamás lo volvería a ver\": las más de 250.000 solteras que fueron forzadas a dar sus hijos en adopción a mediados del siglo pasado en Reino Unido",
-            "link": "https://www.bbc.com/mundo/articles/cqxv9e0d0jeo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Marion McMillan fue una de las aproximadamente 250.000 mujeres que se vieron obligadas a dar a sus bebés en adopción entre 1949 y 1976.",
-            "fuente": "BBC Mundo"
-          },
-          {
-            "titulo": "Las diferencias ideológicas entre Le Pen y Bardella amenazan a la ultraderecha",
-            "link": "https://elpais.com/internacional/2026-09-04/las-diferencias-ideologicas-entre-le-pen-y-bardella-amenazan-a-la-ultraderecha.html",
-            "resumen": "El delfín de la líder del RN, frustrado por no ser el candidato a las presidenciales, no oculta algunas discrepancias en temas como las jubilaciones o la prohibición del velo",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "En directo: Israel afirma que desalojó a combatientes de Hezbolá de túneles bajo estratégica cordillera libanesa",
-            "link": "https://www.france24.com/es/medio-oriente/20260904-en-directo-israel-afirma-que-desaloj%C3%B3-a-combatientes-de-hezbol%C3%A1-de-t%C3%BAneles-bajo-estrat%C3%A9gica-cordillera-libanesa",
-            "resumen": "El ministro de Defensa del Estado de mayoría judía, Israel Katz, aseguró este viernes 4 de septiembre que el Ejército israelí desalojó a combatientes de Hezbolá atrincherados en túneles bajo la estratégica cordillera Ali al-Taher, en el…",
+            "titulo": "Enviados de Trump llegan a Moscú para intentar desbloquear las negociaciones entre Rusia y Ucrania",
+            "link": "https://www.france24.com/es/europa/20260905-enviados-de-trump-llegan-a-mosc%C3%BA-para-intentar-desbloquear-las-negociaciones-entre-rusia-y-ucrania",
+            "resumen": "Steve Witkoff y Jared Kushner arribaron a Moscú para reunirse con Vladímir Putin, en un nuevo intento de destrabar unas negociaciones estancadas desde febrero. La visita coincide con una pausa de tres días anunciada por el Kremlin, pero…",
             "fuente": "France 24"
+          },
+          {
+            "titulo": "Qué es la proyección de Mercator y por qué los países de África lucharon para que se deje de usar para elaborar los mapamundis",
+            "link": "https://www.bbc.com/mundo/articles/cx2zv86p1ryo?at_medium=RSS&at_campaign=rss",
+            "resumen": "La proyección de Mercator muestra a Europa y Norteamérica desproporcionadamente grandes con respecto a África. La Asamblea General de la ONU votó a favor de sustituirla.",
+            "fuente": "BBC Mundo"
+          },
+          {
+            "titulo": "Medios iraníes afirman que Estados Unidos atacó un petrolero cerca de la isla de Jarg, principal terminal del crudo de Teherán",
+            "link": "https://elpais.com/internacional/2026-09-05/varias-explosiones-cerca-de-la-isla-de-jarg-principal-terminal-del-crudo-de-teheran-y-blanco-de-las-amenazas-de-trump.html",
+            "resumen": "El incidente, que no ha dejado víctimas ni ha sido confirmado por Washington, ocurre en una semana en la que se han reanudado los ataques y multiplicado las amenazas cruzadas",
+            "fuente": "El País"
           }
         ]
       },
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Volkswagen deja en el aire el futuro de Seat a partir de 2030 y lo vincula a la regulación de emisiones en Europa",
-            "link": "https://elpais.com/economia/2026-09-04/volkswagen-deja-en-el-aire-el-futuro-de-seat-a-partir-de-2030-y-ata-su-continuidad-a-la-evolucion-de-la-regulacion-de-emisiones-en-europa.html",
-            "resumen": "La compañía señala que la filial española, incluyendo a Cupra, “tiene un papel importante” en el grupo alemán",
+            "titulo": "La nueva financiación autonómica inicia su recorrido legislativo con la vista puesta en Junts",
+            "link": "https://elpais.com/economia/2026-09-05/la-nueva-financiacion-autonomica-inicia-su-recorrido-legislativo-con-la-vista-puesta-en-junts.html",
+            "resumen": "Hacienda llevará la reforma al Consejo de Ministros en las próximas semanas tras recibir el voto favorable de solo dos comunidades y sin una mayoría parlamentaria asegurada",
             "fuente": "El País"
           },
           {
-            "titulo": "Hacienda aprueba la reforma de la financiación autonómica con los únicos apoyos de Cataluña y Canarias",
-            "link": "https://www.expansion.com/economia/2026/09/04/6a9a87bb468aeb437d8b4578.html",
-            "resumen": "El resto de comunidades autónomas, incluidas las gobernadas por el PSOE, rechazan un modelo que consideran injusto y beneficioso para Cataluña. Leer",
+            "titulo": "Volkswagen garantiza el futuro de sus plantas españolas pese al repliegue de Seat",
+            "link": "https://www.expansion.com/empresas/motor/2026/09/05/6a9acd0c468aeb2d018b458c.html",
+            "resumen": "El grupo alemán, que eliminará 100.000 empleos en todo el mundo y planea cerrar cuatro plantas en Alemania, garantiza el futuro de las fábricas de Pamplona y Martorell gracias a la nueva familia de coches eléctricos pequeños. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Volkswagen aprueba su gran plan de ajuste: recortará 50.000 empleos y pone en duda el futuro de cuatro plantas alemanas",
-            "link": "https://elpais.com/economia/2026-09-03/volkswagen-aprueba-su-gran-plan-de-ajuste-recortara-50000-empleos-y-pone-en-duda-el-futuro-de-cuatro-plantas-alemanas.html",
-            "resumen": "La compañía calcula que tiene un excedente de capacidad de producción de 500.000 coches anuales en Europa. El futuro de Seat como marca, en riesgo",
+            "titulo": "El renacer nuclear alarga la vida de las centrales. Construirlas es otra historia",
+            "link": "https://elpais.com/economia/2026-09-05/el-renacer-nuclear-alarga-la-vida-de-las-centrales-construirlas-es-otra-historia.html",
+            "resumen": "Numerosos países, especialmente asiáticos, reavivan proyectos atómicos en busca de precios estables e independencia energética, aunque los expertos advierten que no siempre se consigue",
             "fuente": "El País"
           },
           {
-            "titulo": "Broedel, acusado de presunto fraude por Itaú, sale de Santander tras dos años",
-            "link": "https://www.expansion.com/empresas/banca/2026/09/04/6a9a90bc468aebb60a8b4585.html",
-            "resumen": "El banquero se incorporó en 2024 a Santander para llevar las riendas de Intervención y Control. Leer",
+            "titulo": "Los neobrókeres presionan las cuentas remuneradas de la banca",
+            "link": "https://www.expansion.com/ahorro/2026/09/05/6a9b0f58468aeb59068b45a0.html",
+            "resumen": "Máxima competencia antes de la reunión del BCE. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Del desarrollismo económico al éxito internacional del León: la historia de Seat que está a punto de terminar",
-            "link": "https://elpais.com/economia/2026-09-04/del-desarrollismo-economico-al-exito-internacional-del-leon-la-historia-de-seat-que-esta-a-punto-de-terminar.html",
-            "resumen": "Los 76 años de la emblemática marca de coches pueden acabar bajo la sombra de Cupra a causa de la reestructuración del grupo Volkswagen",
+            "titulo": "Camas colgantes y muebles multiusos: cuando no hay más remedio que estrujar cada metro cuadrado en un minipiso",
+            "link": "https://elpais.com/economia/negocios/2026-09-05/camas-colgantes-y-muebles-multiusos-el-reto-de-estrujar-cada-metro-cuadrado-en-un-minipiso.html",
+            "resumen": "Espacios diáfanos que integran cocina, salón y comedor y módulos para aprovechar el más mínimo recoveco son algunas soluciones para las viviendas pequeñas",
             "fuente": "El País"
           }
         ]
@@ -78,9 +78,9 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "Calzoncillos enterrados para medir la salud del suelo y cucarachas ‘lecheras’: los Ig Nobel premian los estudios más insólitos del año",
-            "link": "https://elpais.com/ciencia/2026-09-03/calzoncillos-enterrados-para-medir-la-salud-del-suelo-y-cucarachas-lecheras-los-ig-nobel-premian-los-estudios-mas-insolitos-del-ano.html",
-            "resumen": "La ceremonia, en la que participan nobeles reales, se ha trasladado de la Universidad de Harvard a Suiza por las políticas de Trump",
+            "titulo": "El negocio perfecto de “la era Ozempic”: fármacos para adelgazar, ultraprocesados para engordar",
+            "link": "https://elpais.com/salud-y-bienestar/2026-09-05/el-negocio-perfecto-de-la-era-ozempic-farmacos-para-adelgazar-ultraprocesados-para-engordar.html",
+            "resumen": "Un editorial de la revista ‘Science’ dibuja un futuro alimentario distópico modelado por los intereses cruzados de las industrias farmacéutica y alimentaria y sus estrategias de mercado",
             "fuente": "El País"
           },
           {
@@ -90,9 +90,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "El cableado cerebral más detallado: así rigen el comportamiento de la mosca sus 166.000 neuronas",
-            "link": "https://elpais.com/ciencia/2026-09-03/el-cableado-cerebral-mas-detallado-asi-rigen-el-comportamiento-de-la-mosca-sus-166000-neuronas.html",
-            "resumen": "Una serie de artículos científicos logran describir al detalle las conexiones neuronales del insecto, abriendo la puerta a las grandes respuestas de la neurociencia",
+            "titulo": "Calzoncillos enterrados para medir la salud del suelo y cucarachas ‘lecheras’: los Ig Nobel premian los estudios más insólitos del año",
+            "link": "https://elpais.com/ciencia/2026-09-03/calzoncillos-enterrados-para-medir-la-salud-del-suelo-y-cucarachas-lecheras-los-ig-nobel-premian-los-estudios-mas-insolitos-del-ano.html",
+            "resumen": "La ceremonia, en la que participan nobeles reales, se ha trasladado de la Universidad de Harvard a Suiza por las políticas de Trump",
             "fuente": "El País"
           },
           {
@@ -102,9 +102,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Así moldea el ADN nuestra forma de ser: más de 1.200 variantes genéticas ayudan a determinar la personalidad",
-            "link": "https://elpais.com/ciencia/2026-09-02/asi-moldea-el-adn-nuestra-forma-de-ser-mas-de-1200-variantes-geneticas-ayudan-a-determinar-la-personalidad.html",
-            "resumen": "Un macroestudio que analiza a más de un millón de personas concluye que la influencia del ambiente familiar en el desarrollo de la curiosidad o la amabilidad es menor de lo que se pensaba",
+            "titulo": "El cableado cerebral más detallado: así rigen el comportamiento de la mosca sus 166.000 neuronas",
+            "link": "https://elpais.com/ciencia/2026-09-03/el-cableado-cerebral-mas-detallado-asi-rigen-el-comportamiento-de-la-mosca-sus-166000-neuronas.html",
+            "resumen": "Una serie de artículos científicos logran describir al detalle las conexiones neuronales del insecto, abriendo la puerta a las grandes respuestas de la neurociencia",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Gabriel Jesus y Gavi completan el trabajo con el grupo y apuntan a Mestalla",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260904/1004223279/gabriel-jesus-gavi-completan-trabajo-grupo-apuntan-mestalla.html",
-            "resumen": "Hansi Flick sigue trabajando con sus jugadores para preparar el cuarto compromiso liguero, previsto para este domingo (16.15 h./Movistar LaLiga) ante el Valencia en Mestalla . Gabriel Jesus y Gavi ya van a más y completaron el…",
+            "titulo": "\"Elegí a Raphinha y Pedri y la plantilla a los otros tres capitanes\"",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260905/1004223552/flick.html",
+            "resumen": "Hansi Flick confirmó, en la previa del Valencia-Barcelona, la información avanzada por Mundo Deportivo respecto a la capitanía del primer equipo y explicó las claves del el proceso de elección. \"Llevo aquí tres años y ya conozco mejor al…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Gabriel Jesus tiene donde inspirarse: debuts exitosos de brasileños del Barça",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260904/1004223143/gabriel-jesus-inspirarse-debuts-exitosos-brasilenos-barca-liga.html",
-            "resumen": "Gabriel Jesus está preparado para jugar en cuanto así lo decida Hansi Flick su primer partido con la camiseta del FC Barcelona . El delantero brasileño de 29 años, llegado esta semana tras consumarse su fichaje como culé procedente del…",
+            "titulo": "Lamine no entrena con el grupo pero viaja a Valencia",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260905/1004223542/lamine-no-grupo-entrenamiento-previo-valencia-barca.html",
+            "resumen": "Lamine Yamal fue la significativa ausencia que registró el último entrenamiento colectivo de la plantilla del FC Barcelona , la víspera de visitar al Valencia en Mestalla en partido de Liga este domingo 6 de septiembre (16,15 horas). Sin…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,34 +147,34 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "September 4, 2026",
-    "generada": "13:50",
+    "fecha": "September 5, 2026",
+    "generada": "13:04",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-            "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-            "resumen": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+            "titulo": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+            "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+            "resumen": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
             "fuente": "BBC"
           },
           {
-            "titulo": "UN to vote on adopting new world map that shows Africa’s true scale",
+            "titulo": "UN votes to adopt new world map that shows Africa’s true scale",
             "link": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
-            "resumen": "Togo-sponsored resolution calls to phase out traditional map that depicts continent as similar size to Greenland The UN general assembly will vote on Friday on a resolution for the world to formally phase out the traditional Mercator map…",
+            "resumen": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to Greenland The United Nations has voted to adopt a resolution for the world to formally phase out the traditional Mercator map of the…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Families Turn to Symbolic Cremation After Nepal Floods",
-            "link": "https://www.nytimes.com/2026/09/04/world/asia/nepal-symbolic-cremation-floods.html",
-            "resumen": "Thousands are missing, and some families have lost hope of recovering their bodies. To carry out his sacred duty, a son lights the funeral pyre for a straw effigy of his father.",
+            "titulo": "Putin Orders Pause in Kyiv Strikes Ahead of Visit by U.S. Envoys",
+            "link": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
+            "resumen": "Steve Witkoff, President Trump’s special envoy, and Jared Kushner, his son-in-law, arrived in Moscow to meet with the Russian leader. They plan to visit Kyiv next, in an effort to revive peace talks.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
-            "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
-            "resumen": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
+            "titulo": "US envoys arrive in Moscow ahead of Ukraine talks",
+            "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
             "fuente": "BBC"
           },
           {
@@ -195,27 +195,27 @@ const EDICION_MUNDO = {
             "fuente": "BBC"
           },
           {
-            "titulo": "US jobs report smashes forecasts; shares in Falklands oil explorers plunge as Argentina threatens sanctions – business live",
-            "link": "https://www.theguardian.com/business/live/2026/sep/04/uk-car-sales-rise-food-prices-bank-of-england-us-jobs-repost-latest-news-updates",
-            "resumen": "Rolling coverage of the latest economic and financial news, as US economy adds 162,000 new jobs in August It’s official, UK car sales jumped last month. New car registrations rose by 13.7% to 94,236 units in August, the Society of Motor…",
+            "titulo": "‘There’s no plan’: as instability in global bond markets rises, what are the knock-on effects?",
+            "link": "https://www.theguardian.com/business/2026/sep/04/instability-in-global-bond-markets-rising-knock-on-effects",
+            "resumen": "From mortgages to inflation, concerns about the public finances of major economies have wide-reaching consequences When Donald Trump was asked recently about the threat of rising interest rates on US government debt, he told baffled…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Tesla’s Cybercab Is Being Investigated by Federal Regulators",
-            "link": "https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html",
-            "resumen": "The National Highway Traffic Safety Administration said it would examine whether the company’s new self-driving taxi, which has no steering wheel, meets federal auto regulations.",
+            "titulo": "What Led to Maria Bartiromo’s Downfall at Fox News",
+            "link": "https://www.nytimes.com/2026/09/05/business/media/maria-bartiromo-fox-news.html",
+            "resumen": "The network this week took Maria Bartiromo off the air, pulling one of the last hosts whose coverage of Dominion Voting Systems drew an expensive defamation lawsuit.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Surprisingly strong US jobs figures fuel rate rise bets",
+            "titulo": "Trump calls for interest rate cut after jobs figures raise hike bets",
             "link": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The number of roles added to the US economy increased by 162,000 in August, almost triple the 56,000 forecast.",
+            "resumen": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Private equity faces existential crisis in US as unsold companies pile up",
-            "link": "https://www.theguardian.com/us-news/2026/sep/04/private-equity-boom-hospital-job-layoff",
-            "resumen": "Private equity firms and the companies they own employ over 13 million, from startups to rural hospitals and large retailers, but experts’ concerns of collapse are growing Retail stalwarts Saks and Eddie Bauer filed for bankruptcy. Kmart…",
+            "titulo": "Maria Bartiromo’s lawyer denies she was fired from Fox News anchor role",
+            "link": "https://www.theguardian.com/media/2026/sep/04/maria-bartiromo-lawyer-denies-fox-news-firing",
+            "resumen": "Fox announced host’s departure Thursday but gave no explanation, only saying it was effective immediately Maria Bartiromo’s lawyer sharply denied that she was fired from her job at Fox News on Friday, after reports that she was dismissed…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,9 +224,9 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Is a whale fossil the leftovers of a Bronze Age Sunday roast?",
-            "link": "https://www.bbc.co.uk/news/articles/cly4zkpvl4wo?at_medium=RSS&at_campaign=rss",
-            "resumen": "A 10-year-old boy was out looking for fossils along the shore in Islandmagee when he spotted the back of the skull.",
+            "titulo": "Trump signs order to remove endangered species protection for grey wolves",
+            "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
             "fuente": "BBC"
           },
           {
@@ -236,21 +236,21 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Psilocybin May Prevent Nerve Damage Caused by Chemotherapy, Study Finds",
-            "link": "https://www.nytimes.com/2026/09/03/health/psilocybin-cancer-nerve-damage.html",
-            "resumen": "The preliminary research was conducted in mice, but scientists were optimistic the results would apply to humans. Clinical trials begin this month.",
+            "titulo": "Inside the D.O.J.’s Investigation of Fauci and Other Virus Scientists",
+            "link": "https://www.nytimes.com/2026/09/05/health/fauci-morens-covid-prosecutions.html",
+            "resumen": "As Dr. Anthony Fauci has faced public scrutiny from congressional Republicans, the D.O.J. has pursued a quieter and more expansive effort against a wider circle of researchers.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Renewable energy in NI reaches record level",
-            "link": "https://www.bbc.co.uk/news/articles/ce3rql5rzx4o?at_medium=RSS&at_campaign=rss",
-            "resumen": "And for the first time renewable generation has consistently exceeded non-renewable generation since January.",
+            "titulo": "Ancient cave art discovery suggests first known humans in Ireland walked over from Wales",
+            "link": "https://www.bbc.co.uk/news/articles/c5y75dl0jpko?at_medium=RSS&at_campaign=rss",
+            "resumen": "During the most recent Ice Age, researchers believe there was a \"lost land bridge\" between Wales and Ireland.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Genetically modified pig kidney keeps man alive for record nine months",
-            "link": "https://www.theguardian.com/science/2026/sep/03/genetically-modified-pig-kidney-keeps-man-alive-record-nine-months",
-            "resumen": "Organ kept Tim Andrews off dialysis and acted as a ‘bridge’ while he waited for a human transplant in the US A genetically modified kidney from a pig called Wilma has kept a 66-year-old man with kidney failure alive for a record nine…",
+            "titulo": "Milky Way at the dining table: Bath art show celebrates 18th-century brother and sister astronomers",
+            "link": "https://www.theguardian.com/science/2026/sep/04/bath-show-astronomers-william-caroline-herschel-art",
+            "resumen": "Exhibition opens in former home of William Herschel, who discovered Uranus, and his comet-spotting sibling Caroline From the garden of their Georgian townhouse in Bath in the late 18th century, a brother and sister made a series of…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "No away fans for Old Firm games this season after agreement reached",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ce8x2j8kl3do?at_medium=RSS&at_campaign=rss",
-            "resumen": "There will be no away supporters for Celtic and Rangers derbies in the Scottish Premiership or Premier Sports Cup this season.",
+            "titulo": "I've never spoken to Everton owner Friedkin - Moyes",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c4gl3wx8g64o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Everton manager David Moyes says he has never met or spoken to the club's owner Dan Friedkin.",
             "fuente": "BBC"
           },
           {
-            "titulo": "‘They disturb the game’: how betting fans are taking over tennis courts",
-            "link": "https://www.theguardian.com/sport/2026/sep/04/us-open-disturb-the-game-betting-taking-over-tennis-courts-around-the-world",
-            "resumen": "Jeering and heckling are increasingly commonplace, even at grand slams, as spectators try to influence matches Midway through the first week of the US Open a couple of years ago, Jiri Lehecka’s attempts to find his form were disrupted by…",
+            "titulo": "Williams sisters’ US Open return ends in heartbreak with third-set tie-break defeat",
+            "link": "https://www.theguardian.com/sport/2026/sep/05/serena-venus-williams-us-open-doubles-defeat",
+            "resumen": "American duo lose 6-3, 6-7(6), 7-6(7) to Maya Joint and Chan Hao-ching Serena and Venus crash out of women’s doubles in first round In the end, after so much toil and admirable fight, defeat came swiftly for one of the greatest doubles…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Gasly loses Monaco podium after McLaren and Red Bull win appeals",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/c4gq26zglpzo?at_medium=RSS&at_campaign=rss",
-            "resumen": "McLaren and Red Bull win their appeals against the result of the Monaco Grand Prix after a controversy over multiple incorrect pit-lane speeding penalties.",
+            "titulo": "Pogacar will miss rest of season after Vuelta crash",
+            "link": "https://www.bbc.co.uk/sport/cycling/articles/c1dle4xep96o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Five-time Tour de France champion Tadej Pogacar will not race again this season after suffering injuries including a fracture in his neck at the Vuelta a Espana.",
             "fuente": "BBC"
           },
           {
-            "titulo": "The wild world of LSU: from tigers on the field to wooing ex-NFL players",
-            "link": "https://www.theguardian.com/sport/2026/sep/04/lsu-lane-kiffin-lawsuit-kim-mulkey-sec-ncaa",
-            "resumen": "Recruiting ex-pros. Inflaming Ukraine-Russia tensions. Suing the SEC and being sued back. The school is adapting to a new reality – and also creating a new one In 1893, a chemistry professor named Charles Coates arrived at Louisiana State…",
+            "titulo": "Newcastle United v Bournemouth: Premier League – live",
+            "link": "https://www.theguardian.com/football/live/2026/sep/05/newcastle-united-v-bournemouth-premier-league-live",
+            "resumen": "Updates from St James’ Park, kick-off 12.30pm (BST) Premier League: 10 things to look out for | Mail David Here come the teams! Some August sunshine adds to the sense of optimism and excitement in the ground. Giddy on those rays, Glenn…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Former Olympic champion Jonny Brownlee retires",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/cwyzqejdvgko?at_medium=RSS&at_campaign=rss",
-            "resumen": "Jonny Brownlee, a former Olympic triathlon champion and six-time world champion, says \"it's over for professional sport\".",
+            "titulo": "Hughes steps down as Liverpool sporting director",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c3d7483rv82o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Richard Hughes steps down from his position as sporting director of Liverpool and is set to join Saudi side Al-Hilal.",
             "fuente": "BBC"
           }
         ]
