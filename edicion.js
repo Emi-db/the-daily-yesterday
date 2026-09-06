@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "5 de septiembre de 2026",
-  "generada": "13:04",
+  "fecha": "6 de septiembre de 2026",
+  "generada": "13:14",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: \"Tierra del Fuego no puede ser moneda de cambio por Malvinas\", la advertencia al Presidente desde el Parlasur",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-tierra-fuego-puede-moneda-cambio-malvinas-advertencia-presidente-parlasur_0_KfK1ZzoPcc.html",
-          "resumen": "El parlamentario Alejandro Deanes, del Frente Renovador, cuestionó el uso del reclamo por las islas para justificar acuerdos militares con potencias extranjeras. Seguí todas las novedades sobre las medidas del gobierno de Javier Milei en…",
+          "titulo": "La sombra de Donald Trump, el giro de Javier Milei y una apuesta de alto impacto para salir del encierro",
+          "link": "https://www.clarin.com/politica/sombra-donald-trump-giro-javier-millei-apuesta-alto-impacto-salir-encierro_0_UNWJsNdGTS.html",
+          "resumen": "La causa Malvinas despertó movimientos impensados en el Gobierno. Qué hay detrás, por qué el Presidente convoca a la oposición y cuáles son las principales especulaciones.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La reacción de los diarios de Inglaterra tras los anuncios de Milei sobre Malvinas: de la “amenaza” al “nada nuevo”",
-          "link": "https://www.lanacion.com.ar/politica/la-reaccion-de-los-diarios-de-inglaterra-tras-los-anuncios-de-milei-sobre-malvinas-de-la-amenaza-al-nid05092026/",
-          "resumen": "La prensa británica mostró distintas posturas ante el discurso del Presidente, que anunció una serie de medidas en defensa de la soberanía",
+          "titulo": "Elecciones 2027: cuándo se vota en la Argentina y qué se elige",
+          "link": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-en-la-argentina-y-que-se-elige-nid25082026/",
+          "resumen": "La votación del año próximo redefinirá el escenario político del país y la distribución de bancas en el Congreso; cuáles son las fechas clave y qué provincias eligen gobernador",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Tras el anuncio de Milei, el ex primer ministro británico Boris Johnson pidió refuerzos militares en las Malvinas",
-          "link": "https://www.infobae.com/politica/2026/09/05/tras-el-anuncio-de-milei-el-ex-primer-ministro-britanico-boris-johnson-pidio-refuerzos-militares-en-las-malvinas/",
-          "resumen": "Tras el mensaje en cadena nacional sobre las medidas de soberanía en las islas, el exjefe del gobierno de Gran Bretaña reclamó en el Daily Mail enviar aviones, tropas o barcos. De todas formas, calificó al presidente argentino como…",
+          "titulo": "Los mensajes internos que aceleraron la cadena nacional, los planes previos de Milei y la vuelta de Santiago Caputo",
+          "link": "https://www.infobae.com/politica/2026/09/06/los-mensajes-internos-que-aceleraron-la-cadena-nacional-los-planes-previos-de-milei-y-la-vuelta-de-santiago-caputo/",
+          "resumen": "El Presidente volvió a ganar centralidad en la agenda mediática a raíz de los anuncios sobre Malvinas. El origen de la secuencia de esta última semana y la repercusión puertas adentro del Gobierno. Expectativa por una buena noticia. En…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Detuvieron al exgobernador de Entre Ríos Sergio Urribarri para que cumpla su condena por corrupción",
-          "link": "https://www.clarin.com/politica/justicia-ordeno-detencion-sergio-urribarri-exgobernador-rios_0_dVIsfvMppE.html",
-          "resumen": "Fue luego que la Corte Suprema de Justicia confirmara su condena a ocho años de cárcel por los delitos de corrupción y administración fraudulenta contra el erario público. La orden también alcanzó al exministro Cultura y Comunicación,…",
+          "titulo": "El presidente de Bolivia se enojó cuando le preguntaron sobre Cerimedo y denunció una \"campaña de desprestigio\" con ataques desde Argentina",
+          "link": "https://www.clarin.com/politica/presidente-bolivia-enojo-preguntaron-cerimedo-denuncio-campana-desprestigio-ataques-argentina_0_SIVS7fEkfF.html",
+          "resumen": "Rodrigo Paz dijo que el caso del consultor político \"será responsabilidad de la Justicia y será responsabilidad de aquellos que tengan que investigar\". El mandatario admitió que Cerimedo \"cooperó\" con el Gobierno en sus inicios pero que…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El discurso de Milei sobre Malvinas: el último milagro de Messi, la carta de Trump y un homenaje silencioso a Cristina",
-          "link": "https://www.lanacion.com.ar/politica/el-discurso-de-milei-sobre-malvinas-el-ultimo-milagro-de-messi-la-carta-de-trump-y-un-homenaje-nid04092026/",
-          "resumen": "¿Oportunismo o estrategia de Estado? Las palabras del Presidente muestran un giro nacionalista de su gobierno, en sintonía con la presión de EE.UU. a Gran Bretaña; los dilemas para la oposición",
-          "fuente": "La Nación"
+          "titulo": "El empleado echado por suplantar a un senador también engañó a un agente con discapacidad y sacó un préstamo millonario",
+          "link": "https://www.infobae.com/politica/2026/09/06/el-empleado-echado-por-suplantar-a-un-senador-tambien-engano-a-un-agente-con-discapacidad-y-saco-un-prestamo-millonario/",
+          "resumen": "Fue apodado “El señor de los anillos”, por sus manos repletas de fantasías. Tras hacerse pasar por el ex legislador Marcelo Fuentes para pedir favores -como contó Infobae-, abusó de la confianza de un trabajador y se giró $3,9 millones.…",
+          "fuente": "Infobae"
         }
       ]
     },
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Créditos, garantías y tasas: cómo quiere EE.UU. financiar la minería argentina",
-          "link": "https://www.clarin.com/energia-y-mineria/creditos-garantias-tasas-quiere-eeuu-financiar-mineria-argentina_0_Uk8piWVlZ1.html",
-          "resumen": "Estados Unidos dijo que tiene financiamiento para minerales críticos en Argentina si hay reglas \"claras y predecibles\". Entidades financieras públicas y banca privada detallaron cómo se definirán las tasas y qué garantías pueden reducir…",
+          "titulo": "Euro hoy en Uruguay: precio y cotización de la divisa este domingo 6 de septiembre de 2026",
+          "link": "https://www.clarin.com/economia/euro-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-domingo-6-de-septiembre-de-2026_0_2Bj794ihpX.html",
+          "resumen": "Mirá la cotización del euro en Uruguay, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La empresa de servicios petroleros SLB confirmó que no participará en ninguna actividad en Malvinas",
-          "link": "https://www.lanacion.com.ar/economia/la-empresa-de-servicios-petroleros-slb-confirmo-que-no-participara-en-ninguna-actividad-en-malvinas-nid05092026/",
-          "resumen": "La firma aseguró que tampoco prestará servicios para proyectos de hidrocarburos en los espacios marítimos circundantes; Milei anunció sanciones a quienes realicen este tipo de actividades",
+          "titulo": "Cuánto cobran de mínima los jubilados de la Anses en septiembre 2026",
+          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-de-minima-los-jubilados-de-la-anses-en-septiembre-2026-nid02092026/",
+          "resumen": "La actualización mensual impacta en el haber mínimo; cuál es la cifra para el noveno mes del año",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Plazo fijo en pesos: cuántos intereses generan $2.000.000 a 30 días",
-          "link": "https://www.ambito.com/economia/plazo-fijo-pesos-cuantos-intereses-generan-2000000-30-dias-n6318681",
-          "resumen": "Las tasas de los depósitos muestran diferencias entre bancos y canales de contratación, por lo que comparar antes de invertir es clave para los ahorristas.",
+          "titulo": "Inflación de agosto: el mercado espera que perfore el 2%",
+          "link": "https://www.ambito.com/economia/inflacion-agosto-el-mercado-espera-que-perfore-el-2-n6319028",
+          "resumen": "El mercado espera que el IPC de agosto marque uno de los registros más bajos del año. El REM proyectó 1,7% para el mes y un rango de entre 1,6% y 1,8% hasta febrero.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Euro hoy en Bolivia: precio y cotización de la divisa este sábado 5 de septiembre de 2026",
-          "link": "https://www.clarin.com/economia/euro-hoy-en-bolivia-precio-y-cotizacion-de-la-divisa-este-sabado-5-de-septiembre-de-2026_0_8LovnMP2Ql.html",
-          "resumen": "Mirá la cotización del euro en Bolivia, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
-          "fuente": "Clarín"
+          "titulo": "Créditos hipotecarios UVA: ¿cuánto cuesta la cuota para una propiedad de USD 75.000?",
+          "link": "https://www.ambito.com/economia/creditos-hipotecarios-uva-cuanto-cuesta-la-cuota-una-propiedad-usd-75000-n6318124",
+          "resumen": "Los nuevos préstamos permiten financiar hasta el total de un hogar, pero hay que calcular cuánto habría que pagar por mes y qué ingresos exige el sistema.",
+          "fuente": "Ámbito"
         },
         {
-          "titulo": "A cuánto abre el dólar el lunes 7 de septiembre",
-          "link": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-el-lunes-7-de-septiembre-nid05092026/",
-          "resumen": "La cotización de la divisa oficial abre con los mismos números que en su último día de cierre; así se posicionaron el dólar oficial, el paralelo y los financieros",
+          "titulo": "PNC de la Anses: cuál es el monto de las Pensiones no Contributivas en septiembre de 2026",
+          "link": "https://www.lanacion.com.ar/economia/pnc-de-la-anses-cual-es-el-monto-de-las-pensiones-no-contributivas-en-septiembre-de-2026-nid27082026/",
+          "resumen": "Los titulares reciben en el noveno mes del año un reajuste del 2,11%, cuál es el valor final con el bono previsional",
           "fuente": "La Nación"
         }
       ]
@@ -77,34 +77,34 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Ganó Togo, festeja África y EE.UU. habla de \"burla\": la ONU adoptó una reforma clave en la cartografía y presentó su nuevo mapa del mundo",
-          "link": "https://www.clarin.com/mundo/gano-togo-festeja-africa-eeuu-habla-burla-onu-adopto-reforma-clave-cartografia-presento-nuevo-mapa-mundo_0_6iPpbiiNWh.html",
-          "resumen": "Las Naciones Unidas abandonan la proyección de Mercator, que amplía artificialmente algunos territorios. Por que la delegación de Washington fue la única que votó en contra.",
+          "titulo": "\"¿Por qué no me despertaron?\": Benjamin Netanyahu acusa a sus custodios por no informarlo de los ataques de octubre de 2023",
+          "link": "https://www.clarin.com/mundo/despertaron-benjamin-netanyahu-acusa-custodios-informarlo-ataques-octubre-2023_0_eWcapXQfUF.html",
+          "resumen": "El primer ministro de Israel dijo que no se le avisó en el momento del inédito asalto comando de Hamas. Su esposa, a la vez, insinuó una traición de los servicios de seguridad. Polémica y acusaciones de la oposición. ¿Teoría conspirativa…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Múltiple asesinato en México: aseguran que el agresor cometió el crimen por “Bitcoins” y luego se fue a un restaurante",
-          "link": "https://www.lanacion.com.ar/el-mundo/multiple-asesinato-en-mexico-aseguran-que-el-agresor-cometio-el-crimen-por-bitcoins-y-luego-se-fue-a-nid05092026/",
-          "resumen": "El imputado era socio comercial de la víctima, el tecladista de la banda Camilo Séptimo, Jonathan Meléndez Ochoa",
+          "titulo": "Elecciones en Brasil 2026: quiénes son los candidatos a presidente",
+          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-en-brasil-2026-quienes-son-los-candidatos-a-presidente-nid03092026/",
+          "resumen": "Se presentan seis espacios políticos para ocupar el máximo cargo del Poder Ejecutivo; cuáles son los políticos que compiten y qué dicen las encuestas más recientes",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Murió Camilo Escalona, expresidente del Partido Socialista de Chile, a los 71 años",
-          "link": "https://www.clarin.com/mundo/murio-camilo-escalona-expresidente-partido-socialista-chile-71-anos_0_KRQnQeaqrQ.html",
-          "resumen": "El presidente José Kast lo despidió en las redes sociales. Nunca ocupó un cargo de ministro, ni fue candidato presidencial, vivió en el exilio tras el golpe.",
+          "titulo": "Donald Trump no irá a Nueva York para los actos por el 25° aniversario del 11-S: polémica y versiones cruzadas",
+          "link": "https://www.clarin.com/mundo/donald-trump-ira-nueva-york-actos-25-aniversario-11-s-desata-polemica_0_lkj5x7xWmP.html",
+          "resumen": "El presidente estadounidense no estará el viernes en la ceremonia principal en Ground Zero, donde estaban las Torres Gemelas. Argumentó que participará del homenaje en el Pentágono, donde se estrelló un tercer avión secuestrado por los…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Se casaron en Cali tras el terremoto, pidieron donaciones a sus invitados y llevaron la ayuda vestidos de novios",
-          "link": "https://www.lanacion.com.ar/el-mundo/se-casaron-en-cali-tras-el-terremoto-pidieron-donaciones-a-sus-invitados-y-llevaron-la-ayuda-nid05092026/",
-          "resumen": "Conoce cómo una boda en Cali cambió tras el terremoto: los novios pidieron donaciones y las entregaron vestidos de gala a los damnificados",
+          "titulo": "Dos explosiones en media hora: conmoción en Bolivia por los destrozos en un cuartel militar y angustia por la búsqueda de los conscriptos desaparecidos",
+          "link": "https://www.clarin.com/mundo/explosiones-media-hora-conmocion-bolivia-impactantes-videos-destrozos-cuartel-militar-angustia-busqueda-conscriptos-desaparecidos_0_BczdYE7RG1.html",
+          "resumen": "El municipio de Viacha declaró tres días de duelo. Hubo tres muertos y 85 heridos en su mayoría militares, tres de ellos en estado crítico. Sigue la búsqueda de 14 soldados.",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Working Holiday: Dinamarca abrió las inscripciones a argentinos para trabajar por un año",
+          "link": "https://www.lanacion.com.ar/el-mundo/working-holiday-dinamarca-abrio-las-inscripciones-a-argentinos-para-trabajar-por-un-ano-nid03092026/",
+          "resumen": "La convocatoria incluye trabajo y recorrido por el país; cuáles son los requisitos y la documentación necesaria para aplicar al programa",
           "fuente": "La Nación"
-        },
-        {
-          "titulo": "Colombia: detienen a un francotirador del ELN por planificar un atentado contra el presidente De la Espriella",
-          "link": "https://www.clarin.com/mundo/colombia-detienen-francotirador-eln-planificar-atentado-presidente-espriella_0_29LEY1zsPm.html",
-          "resumen": "\"¡Capturado el francotirador del ELN que participó en la planeación de un atentado contra mi vida!\", celebró el mandatario. El sospechoso fue detenido el jueves y se lo conoce con el alias de Firulais.",
-          "fuente": "Clarín"
         }
       ]
     },
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Aldosivi vs Banfield, por el Torneo Clausura 2026, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
-          "link": "https://www.clarin.com/deportes/aldosivi-vs-banfield-torneo-clausura-2026-vivo-hora-juegan-formaciones-ver-partido_0_zkIPtkndpr.html",
-          "resumen": "Juegan en Mar del Plata desde las 13.30, por ESPN Premium. Javier Sanguinetti debuta como DT del Tiburón. El equipo de Pedro Troglio viene de caer ante River.",
+          "titulo": "Racing vs Atlético Tucumán, por el Torneo Clausura 2026, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
+          "link": "https://www.clarin.com/deportes/racing-vs-atletico-tucuman-torneo-clausura-2026-vivo-hora-juegan-formaciones-ver-partido_0_8yCQrLIYaf.html",
+          "resumen": "Chocan en el Cilindro de Avellaneda. El árbitro es Pablo Echavarría, con José Carreras en el VAR. Televisa ESPN Premium.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Pedro González, de Matador en San Lorenzo a uno de los héroes que rescató a River de la sequía: “Fue algo muy fuerte, el boom total”",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/river-plate/pedro-gonzalez-de-matador-en-san-lorenzo-a-uno-de-los-heroes-que-rescato-a-river-de-la-sequia-fue-nid05092026/",
-          "resumen": "Puntero derecho letal, formó parte de equipos emblemáticos del fútbol argentino, bajo la batuta de maestros como Toto Lorenzo y Ángel Labruna; a los 80 años, sigue activo en el club millonario formando juveniles: “Me encanta este laburo”",
+          "titulo": "Los Pumas: como un barco lanzado a alta mar rumbo a la costa australiana para el Mundial 2027",
+          "link": "https://www.lanacion.com.ar/deportes/rugby/los-pumas-como-un-barco-lanzado-a-alta-mar-rumbo-a-la-costa-australiana-para-el-mundial-2027-nid06092026/",
+          "resumen": "Resta poco más de un año para la gran cita del rugby: los puntos a favor y en contra del equipo de Felipe Contepomi",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Con Mastantuono desde el arranque, Fiorentina busca su primer triunfo en la Serie A frente a Torino",
-          "link": "https://www.ole.com.ar/futbol-internacional/italia/franco-mastantuono-fiorentina-torino-serie_0_ceUtNiBu3w.html",
-          "resumen": "El equipo de Fabio Grosso necesita los tres puntos para salir de la zona baja de la tabla de posiciones. Seguilo en Olé.",
+          "titulo": "Franco Colapinto, EN VIVO en el GP de Italia de F1: cómo va la carrera y por dónde se puede ver",
+          "link": "https://www.ole.com.ar/autos/franco-colapinto-formula1-gpdeitalia2026-monza-alpine-f1-envivo-aquehoracorre-grilla-partida_0_KpUYPkqgyE.html",
+          "resumen": "Con Gasly largando desde la pole y Colapinto 7°, Alpine busca sumar fuerte en Monza. Seguilo en Olé.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Los Pumas vs Wallabies, en Mendoza: la oportunidad del equipo de Contepomi de despedirse del público argentino con una victoria",
-          "link": "https://www.clarin.com/deportes/pumas-vs-wallabies-mendoza-oportunidad-equipo-contepomi-despedirse-publico-argentino-victoria_0_Sos5KHpAzr.html",
-          "resumen": "Será el sexto partido del calendario en la Argentina: cerrará el año deportivo en Europa en la definición del Nations Championship. Hay cuatro cambios respecto al último XV y dos jugadores que esperan en el banco por sus debuts en el…",
-          "fuente": "Clarín"
+          "titulo": "F2 y F3: Varrone volvió a los puntos y Colnaghi cayó por una penalización",
+          "link": "https://www.ole.com.ar/autos/f2-f3-monza-italia-nicolas-varrone-puntos-mattia-colnaghi-penalizacion_0_lLeQ9d8Wad.html",
+          "resumen": "La Fórmula 2 y la Fórmula 3 corrieron en Monza, en la antesala de la F1, y fue una jornada agridulce: Nico regresó a la zona puntuable, pero Matti no lo logró por una sanción que lo mandó atrás.",
+          "fuente": "Olé"
         },
         {
-          "titulo": "Alan Chaves perdió claramente: un derrumbe inesperado en una noche sin respuestas",
-          "link": "https://www.lanacion.com.ar/deportes/boxeo/alan-chaves-perdio-claramente-un-derrumbe-inesperado-en-una-noche-sin-respuestas-nid05092026/",
-          "resumen": "El boxeador bonaerense, que buscaba encumbrarse hacia una pelea por título, fue superado ampliamente por el dominicano Eridson García, que lo apabulló y estuvo cerca de noquearlo; una derrota que es un claro retroceso en su carrera",
+          "titulo": "Por dónde pasan la carrera de la Fórmula 1 y qué canal la transmite en vivo",
+          "link": "https://www.lanacion.com.ar/deportes/automovilismo/por-donde-pasan-la-carrera-de-la-formula-1-y-que-canal-la-transmite-en-vivo-nid06092026/",
+          "resumen": "La decimotercera prueba del año se disputa este domingo desde las 10 (hora argentina) en el Autódromo Nacional de Monza; Pierre Gasly hizo la pole position",
           "fuente": "La Nación"
         }
       ]
