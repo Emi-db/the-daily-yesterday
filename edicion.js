@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "6 de septiembre de 2026",
-  "generada": "13:14",
+  "fecha": "7 de septiembre de 2026",
+  "generada": "15:21",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "La sombra de Donald Trump, el giro de Javier Milei y una apuesta de alto impacto para salir del encierro",
-          "link": "https://www.clarin.com/politica/sombra-donald-trump-giro-javier-millei-apuesta-alto-impacto-salir-encierro_0_UNWJsNdGTS.html",
-          "resumen": "La causa Malvinas despertó movimientos impensados en el Gobierno. Qué hay detrás, por qué el Presidente convoca a la oposición y cuáles son las principales especulaciones.",
+          "titulo": "Con Malvinas como eje central, Milei reúne de nuevo a su Gabinete",
+          "link": "https://www.clarin.com/politica/malvinas-eje-central-milei-reune-nuevo-gabinete_0_kRPZtQ7I4h.html",
+          "resumen": "El Presidente junta a sus ministros y se muestra activo en la Rosada. Tendrá agenda empresarial y despedirá a un perro de la Policía Federal Argentina.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Elecciones 2027: cuándo se vota en la Argentina y qué se elige",
-          "link": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-en-la-argentina-y-que-se-elige-nid25082026/",
-          "resumen": "La votación del año próximo redefinirá el escenario político del país y la distribución de bancas en el Congreso; cuáles son las fechas clave y qué provincias eligen gobernador",
+          "titulo": "Javier Milei y sus medidas, en vivo: “Dudo que los argentinos sean tan tontos de volver al pasado”, dijo el Presidente",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-por-los-anuncios-sobre-malvinas-y-una-sesion-clave-nid07092026/",
+          "resumen": "El minuto a minuto de las decisiones del jefe de Estado, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Los mensajes internos que aceleraron la cadena nacional, los planes previos de Milei y la vuelta de Santiago Caputo",
-          "link": "https://www.infobae.com/politica/2026/09/06/los-mensajes-internos-que-aceleraron-la-cadena-nacional-los-planes-previos-de-milei-y-la-vuelta-de-santiago-caputo/",
-          "resumen": "El Presidente volvió a ganar centralidad en la agenda mediática a raíz de los anuncios sobre Malvinas. El origen de la secuencia de esta última semana y la repercusión puertas adentro del Gobierno. Expectativa por una buena noticia. En…",
+          "titulo": "Morosidad: la oposición busca contener a 130 legisladores y mantener el quórum en Diputados",
+          "link": "https://www.infobae.com/politica/2026/09/07/morosidad-la-oposicion-busca-contener-a-130-legisladores-y-mantener-el-quorum-en-diputados/",
+          "resumen": "El oficialismo trabaja para que los gobernadores bajen a sus diputados para hacer caer la sesión del miércoles. La llegada del proyecto de ley por Malvinas, la lucha por la agenda y las internas libertarias",
           "fuente": "Infobae"
         },
         {
-          "titulo": "El presidente de Bolivia se enojó cuando le preguntaron sobre Cerimedo y denunció una \"campaña de desprestigio\" con ataques desde Argentina",
-          "link": "https://www.clarin.com/politica/presidente-bolivia-enojo-preguntaron-cerimedo-denuncio-campana-desprestigio-ataques-argentina_0_SIVS7fEkfF.html",
-          "resumen": "Rodrigo Paz dijo que el caso del consultor político \"será responsabilidad de la Justicia y será responsabilidad de aquellos que tengan que investigar\". El mandatario admitió que Cerimedo \"cooperó\" con el Gobierno en sus inicios pero que…",
+          "titulo": "Morosidad: la oposición intentará avanzar en Diputados con los proyectos para aliviar la situación de las familias endeudadas",
+          "link": "https://www.clarin.com/politica/oposicion-convoco-sesion-diputados-trata-proyectos-morosidad-familias-endeudadas_0_ewokUQK3JY.html",
+          "resumen": "A pedido del radical Pablo Juliano, se convocó para este miércoles una sesión especial y ahora buscan conseguir el quórum. Hay más de 50 iniciativas que apuntan a declarar la emergencia crediticia y establecer un régimen de saneamiento de…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El empleado echado por suplantar a un senador también engañó a un agente con discapacidad y sacó un préstamo millonario",
-          "link": "https://www.infobae.com/politica/2026/09/06/el-empleado-echado-por-suplantar-a-un-senador-tambien-engano-a-un-agente-con-discapacidad-y-saco-un-prestamo-millonario/",
-          "resumen": "Fue apodado “El señor de los anillos”, por sus manos repletas de fantasías. Tras hacerse pasar por el ex legislador Marcelo Fuentes para pedir favores -como contó Infobae-, abusó de la confianza de un trabajador y se giró $3,9 millones.…",
-          "fuente": "Infobae"
+          "titulo": "Quién es Eduardo Elsztain, el empresario argentino que tiene inversiones en las Islas Malvinas",
+          "link": "https://www.lanacion.com.ar/politica/quien-es-eduardo-elsztain-el-empresario-argentino-que-tiene-inversiones-en-las-islas-malvinas-nid07092026/",
+          "resumen": "Con décadas de experiencia en los rubros inmobiliario, financiero, tecnológico y agroindustrial, es accionista minoritario en la empresa Falkland Islands Company",
+          "fuente": "La Nación"
         }
       ]
     },
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Euro hoy en Uruguay: precio y cotización de la divisa este domingo 6 de septiembre de 2026",
-          "link": "https://www.clarin.com/economia/euro-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-domingo-6-de-septiembre-de-2026_0_2Bj794ihpX.html",
-          "resumen": "Mirá la cotización del euro en Uruguay, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
+          "titulo": "Caputo le da US$ 2.000 millones de \"poder de fuego\" a Bausili para intervenir con bonos en el dólar",
+          "link": "https://www.clarin.com/economia/caputo-da-us-2000-millones-poder-fuego-bausili-intervenir-bonos-dolar_0_Z6KhZeyxjt.html",
+          "resumen": "El Ministerio de Economía le canjea al Banco Central bonos en pesos a cambio de letras vinculadas al tipo de cambio. La autoridad monetaria los suele utilizar para vender en el mercado y aplacar tensiones cambiarias.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Cuánto cobran de mínima los jubilados de la Anses en septiembre 2026",
-          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-de-minima-los-jubilados-de-la-anses-en-septiembre-2026-nid02092026/",
-          "resumen": "La actualización mensual impacta en el haber mínimo; cuál es la cifra para el noveno mes del año",
+          "titulo": "Ya es oficial el Xiaomi 18 Fold, un plegable tipo pasaporte con un chip de diseño propio",
+          "link": "https://www.lanacion.com.ar/tecnologia/ya-es-oficial-el-xiaomi-18-fold-un-plegable-tipo-pasaporte-con-un-chip-de-diseno-propio-nid07092026/",
+          "resumen": "La compañía china presentó su primer smartphone plegable de tamaño medio dos días antes que el iPhone Ultra",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Inflación de agosto: el mercado espera que perfore el 2%",
-          "link": "https://www.ambito.com/economia/inflacion-agosto-el-mercado-espera-que-perfore-el-2-n6319028",
-          "resumen": "El mercado espera que el IPC de agosto marque uno de los registros más bajos del año. El REM proyectó 1,7% para el mes y un rango de entre 1,6% y 1,8% hasta febrero.",
+          "titulo": "Inocencia Fiscal II: se aproxima el nuevo vencimiento de Ganancias y apremian los plazos del Senado",
+          "link": "https://www.ambito.com/economia/inocencia-fiscal-ii-se-aproxima-el-nuevo-vencimiento-ganancias-y-apremian-los-plazos-del-senado-n6319279",
+          "resumen": "Los dólares siguen en el colchón. La cámara alta empieza a tratar en comisión los cambios aprobados en Diputados. Quedan dos semanas para presentar las declaraciones juradas de 2025.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Créditos hipotecarios UVA: ¿cuánto cuesta la cuota para una propiedad de USD 75.000?",
-          "link": "https://www.ambito.com/economia/creditos-hipotecarios-uva-cuanto-cuesta-la-cuota-una-propiedad-usd-75000-n6318124",
-          "resumen": "Los nuevos préstamos permiten financiar hasta el total de un hogar, pero hay que calcular cuánto habría que pagar por mes y qué ingresos exige el sistema.",
-          "fuente": "Ámbito"
+          "titulo": "Vaca Muerta Sur sale al mercado local para financiar la recta final del megaproyecto exportador",
+          "link": "https://www.clarin.com/energia-y-mineria/vaca-muerta-sur-sale-mercado-local-financiar-recta-final-megaproyecto-exportador_0_PTGWxOsUrY.html",
+          "resumen": "El consorcio que integran YPF y otras siete petroleras buscará inicialmente US$ 150 millones, ampliables hasta US$ 200 millones. La obra ya alcanzó un avance del 80%.",
+          "fuente": "Clarín"
         },
         {
-          "titulo": "PNC de la Anses: cuál es el monto de las Pensiones no Contributivas en septiembre de 2026",
-          "link": "https://www.lanacion.com.ar/economia/pnc-de-la-anses-cual-es-el-monto-de-las-pensiones-no-contributivas-en-septiembre-de-2026-nid27082026/",
-          "resumen": "Los titulares reciben en el noveno mes del año un reajuste del 2,11%, cuál es el valor final con el bono previsional",
+          "titulo": "El Gobierno le canjeó US$2000 millones en títulos al BCRA para que mantenga contenido al dólar",
+          "link": "https://www.lanacion.com.ar/economia/el-gobierno-le-canjeo-us2000-millones-en-titulos-al-bcra-para-que-mantenga-contenido-al-dolar-nid07092026/",
+          "resumen": "Emitió dos Letras dollar-linked por vencer a fin de mes y a fines de octubre; a cambio, recibió una Letra a tasa fija",
           "fuente": "La Nación"
         }
       ]
@@ -77,34 +77,34 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "\"¿Por qué no me despertaron?\": Benjamin Netanyahu acusa a sus custodios por no informarlo de los ataques de octubre de 2023",
-          "link": "https://www.clarin.com/mundo/despertaron-benjamin-netanyahu-acusa-custodios-informarlo-ataques-octubre-2023_0_eWcapXQfUF.html",
-          "resumen": "El primer ministro de Israel dijo que no se le avisó en el momento del inédito asalto comando de Hamas. Su esposa, a la vez, insinuó una traición de los servicios de seguridad. Polémica y acusaciones de la oposición. ¿Teoría conspirativa…",
+          "titulo": "Presionado por EE.UU., Netanyahu ordena la evacuación de algunos asentamientos en Cisjordania",
+          "link": "https://www.clarin.com/mundo/presionado-eeuu-netanyahu-ordena-evacuacion-asentamientos-cisjordania_0_CmUlzbUW9d.html",
+          "resumen": "Son unos cien asentamientos considerados ilegales, según la legislación israelí. La orden de desmantelarlos busca frenar la escalada de violencia de colonos radicales contra la población palestina.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Elecciones en Brasil 2026: quiénes son los candidatos a presidente",
-          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-en-brasil-2026-quienes-son-los-candidatos-a-presidente-nid03092026/",
-          "resumen": "Se presentan seis espacios políticos para ocupar el máximo cargo del Poder Ejecutivo; cuáles son los políticos que compiten y qué dicen las encuestas más recientes",
+          "titulo": "Las claves del terremoto político en Alemania: por qué arrasó la ultraderecha y qué implica para Merz",
+          "link": "https://www.lanacion.com.ar/el-mundo/las-claves-del-terremoto-politico-en-alemania-por-que-arraso-la-ultraderecha-y-que-implica-para-merz-nid07092026/",
+          "resumen": "AfD rozó la mayoría absoluta en Sajonia-Anhalt, hundió a la CDU a su peor resultado en décadas y abrió una profunda crisis en el gobierno federal",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Donald Trump no irá a Nueva York para los actos por el 25° aniversario del 11-S: polémica y versiones cruzadas",
-          "link": "https://www.clarin.com/mundo/donald-trump-ira-nueva-york-actos-25-aniversario-11-s-desata-polemica_0_lkj5x7xWmP.html",
-          "resumen": "El presidente estadounidense no estará el viernes en la ceremonia principal en Ground Zero, donde estaban las Torres Gemelas. Argumentó que participará del homenaje en el Pentágono, donde se estrelló un tercer avión secuestrado por los…",
+          "titulo": "Funeral de Ratko Mladic: una multitud despide al criminal de guerra en Belgrado y provoca una advertencia de Bruselas",
+          "link": "https://www.clarin.com/mundo/funeral-ratko-mladic-multitud-despide-criminal-guerra-belgrado-provoca-advertencia-bruselas_0_V4WH4EnD5T.html",
+          "resumen": "\"Cualquier glorificación de los criminales de guerra contradice los valores europeos más fundamentales\", dijo en un comunicado un portavoz de la jefa de la diplomacia comunitaria, Kaja Kallas. El exjefe militar de los serbios de Bosnia…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Dos explosiones en media hora: conmoción en Bolivia por los destrozos en un cuartel militar y angustia por la búsqueda de los conscriptos desaparecidos",
-          "link": "https://www.clarin.com/mundo/explosiones-media-hora-conmocion-bolivia-impactantes-videos-destrozos-cuartel-militar-angustia-busqueda-conscriptos-desaparecidos_0_BczdYE7RG1.html",
-          "resumen": "El municipio de Viacha declaró tres días de duelo. Hubo tres muertos y 85 heridos en su mayoría militares, tres de ellos en estado crítico. Sigue la búsqueda de 14 soldados.",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "Working Holiday: Dinamarca abrió las inscripciones a argentinos para trabajar por un año",
-          "link": "https://www.lanacion.com.ar/el-mundo/working-holiday-dinamarca-abrio-las-inscripciones-a-argentinos-para-trabajar-por-un-ano-nid03092026/",
-          "resumen": "La convocatoria incluye trabajo y recorrido por el país; cuáles son los requisitos y la documentación necesaria para aplicar al programa",
+          "titulo": "Búsqueda contrarreloj en México: el pescador de Oaxaca que ya estuvo una semana a la deriva en el océano",
+          "link": "https://www.lanacion.com.ar/el-mundo/busqueda-contrarreloj-en-mexico-el-pescador-de-oaxaca-que-ya-estuvo-una-semana-a-la-deriva-en-el-nid07092026/",
+          "resumen": "Conoce qué pasó con Héctor Márquez Martínez, el pescador de Oaxaca avistado con vida tras casi una semana a la deriva y aún pendiente de rescate en México.",
           "fuente": "La Nación"
+        },
+        {
+          "titulo": "4 cosas que descubrimos en auditorías secretas del ejército ucraniano",
+          "link": "https://www.clarin.com/new-york-times-international-weekly/4-cosas-descubrimos-auditorias-secretas-ejercito-ucraniano_0_RBkBPvqUi6.html",
+          "resumen": "Estos documentos constituyen un análisis exhaustivo del proceso de adjudicación de contratos de armamento.",
+          "fuente": "Clarín"
         }
       ]
     },
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Racing vs Atlético Tucumán, por el Torneo Clausura 2026, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
-          "link": "https://www.clarin.com/deportes/racing-vs-atletico-tucuman-torneo-clausura-2026-vivo-hora-juegan-formaciones-ver-partido_0_8yCQrLIYaf.html",
-          "resumen": "Chocan en el Cilindro de Avellaneda. El árbitro es Pablo Echavarría, con José Carreras en el VAR. Televisa ESPN Premium.",
+          "titulo": "Antonio Mohamed, el DT argentino campeón de la Leagues Cup para hacer historia en Toluca de México: \"Quiero ganar todo\"",
+          "link": "https://www.clarin.com/deportes/antonio-mohamed-dt-argentino-campeon-leagues-cup-hacer-historia-toluca-mexico-quiero-ganar_0_bTs84WDtAa.html",
+          "resumen": "El Turco derrotó al Monterrey de Matías Almeyda en la final del torneo que reúne a equipos de la MLS y la Liga MX. Fue su sexta corona como DT de los Diablos Rojos, que en un par de semanas jugarán la Copa Intercontinental. Mirá el resumen.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Los Pumas: como un barco lanzado a alta mar rumbo a la costa australiana para el Mundial 2027",
-          "link": "https://www.lanacion.com.ar/deportes/rugby/los-pumas-como-un-barco-lanzado-a-alta-mar-rumbo-a-la-costa-australiana-para-el-mundial-2027-nid06092026/",
-          "resumen": "Resta poco más de un año para la gran cita del rugby: los puntos a favor y en contra del equipo de Felipe Contepomi",
+          "titulo": "Un Metropolitano femenino muy parejo y el invicto de 19 partidos de San Fernando en variones",
+          "link": "https://www.lanacion.com.ar/deportes/hockey/un-metropolitano-femenino-muy-parejo-y-el-invicto-de-19-partidos-de-san-fernando-en-variones-nid07092026/",
+          "resumen": "Lomas, Santa Bárbara y Gimnasia y Esgrima son los que mandan entre las mujeres",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Franco Colapinto, EN VIVO en el GP de Italia de F1: cómo va la carrera y por dónde se puede ver",
-          "link": "https://www.ole.com.ar/autos/franco-colapinto-formula1-gpdeitalia2026-monza-alpine-f1-envivo-aquehoracorre-grilla-partida_0_KpUYPkqgyE.html",
-          "resumen": "Con Gasly largando desde la pole y Colapinto 7°, Alpine busca sumar fuerte en Monza. Seguilo en Olé.",
+          "titulo": "Polémica por el gol agónico de Atlético Tucumán en la derrota de Racing: el trazado de líneas generó aún más dudas",
+          "link": "https://www.ole.com.ar/racing/racing-gol-polemica-offside-atleticotucuman_0_Ul2G8UPflL.html",
+          "resumen": "Pese a que el VAR determinó que no hubo offside de Ramiro Ruiz Rodríguez, en las imágenes que mostraron para justificar la decisión, el futbolista parece adelantado.",
           "fuente": "Olé"
         },
         {
-          "titulo": "F2 y F3: Varrone volvió a los puntos y Colnaghi cayó por una penalización",
-          "link": "https://www.ole.com.ar/autos/f2-f3-monza-italia-nicolas-varrone-puntos-mattia-colnaghi-penalizacion_0_lLeQ9d8Wad.html",
-          "resumen": "La Fórmula 2 y la Fórmula 3 corrieron en Monza, en la antesala de la F1, y fue una jornada agridulce: Nico regresó a la zona puntuable, pero Matti no lo logró por una sanción que lo mandó atrás.",
-          "fuente": "Olé"
+          "titulo": "Infantino pierde otro apoyo para seguir al frente de la FIFA: Bélgica se suma a la rebelión europea",
+          "link": "https://www.clarin.com/deportes/infantino-pierde-apoyo-seguir-frente-fifa-belgica-suma-rebelion-europea_0_fOf1Y5OH2v.html",
+          "resumen": "La federación del país europeo anunció que no acompañará al dirigente en las elecciones de 2027 y cuestionó la falta de transparencia en el proyecto FIFA Forward Enterprise y en el polémico caso Balogun durante el Mundial. Inglaterra,…",
+          "fuente": "Clarín"
         },
         {
-          "titulo": "Por dónde pasan la carrera de la Fórmula 1 y qué canal la transmite en vivo",
-          "link": "https://www.lanacion.com.ar/deportes/automovilismo/por-donde-pasan-la-carrera-de-la-formula-1-y-que-canal-la-transmite-en-vivo-nid06092026/",
-          "resumen": "La decimotercera prueba del año se disputa este domingo desde las 10 (hora argentina) en el Autódromo Nacional de Monza; Pierre Gasly hizo la pole position",
+          "titulo": "Cuándo juega Boca vs. San Pablo por la Copa Sudamericana 2026",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/cuando-juega-boca-vs-san-pablo-por-la-copa-sudamericana-2026-nid07092026/",
+          "resumen": "El partido de ida de los octavos de final se disputará este martes en la Bombonera con arbitraje de Piero Maza; la revancha será una semana después en Brasil",
           "fuente": "La Nación"
         }
       ]
