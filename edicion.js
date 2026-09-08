@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "7 de septiembre de 2026",
-  "generada": "15:21",
+  "fecha": "8 de septiembre de 2026",
+  "generada": "13:57",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Con Malvinas como eje central, Milei reúne de nuevo a su Gabinete",
-          "link": "https://www.clarin.com/politica/malvinas-eje-central-milei-reune-nuevo-gabinete_0_kRPZtQ7I4h.html",
-          "resumen": "El Presidente junta a sus ministros y se muestra activo en la Rosada. Tendrá agenda empresarial y despedirá a un perro de la Policía Federal Argentina.",
+          "titulo": "Diego Santilli: \"Quiero que Javier Milei sea el primer presidente no peronista o no kirchnerista en ser reelecto\"",
+          "link": "https://www.clarin.com/politica/diego-santilli-quiero-javier-milei-primer-presidente-peronista-kirchnerista-reelecto_0_RHoYDfFOYp.html",
+          "resumen": "El jefe de Gabinete destacó la importancia de que la Argentina mantenga un rumbo político sostenido, al participar de la séptima edición del ciclo Democracia y Desarrollo (DyD), organizado por Clarín. \"Solemos ir cuatro años para un lado…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: “Dudo que los argentinos sean tan tontos de volver al pasado”, dijo el Presidente",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-por-los-anuncios-sobre-malvinas-y-una-sesion-clave-nid07092026/",
-          "resumen": "El minuto a minuto de las decisiones del jefe de Estado, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "titulo": "Javier Milei y sus medidas, en vivo: “La desregulación avanza”, dijo el Presidente",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-desregulacion-avanza-dijo-el-presidente-nid08092026/",
+          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Morosidad: la oposición busca contener a 130 legisladores y mantener el quórum en Diputados",
-          "link": "https://www.infobae.com/politica/2026/09/07/morosidad-la-oposicion-busca-contener-a-130-legisladores-y-mantener-el-quorum-en-diputados/",
-          "resumen": "El oficialismo trabaja para que los gobernadores bajen a sus diputados para hacer caer la sesión del miércoles. La llegada del proyecto de ley por Malvinas, la lucha por la agenda y las internas libertarias",
+          "titulo": "Malvinas: el gobierno británico destacó su alianza con EEUU y descartó que la presión de Milei altere la soberanía de las Islas",
+          "link": "https://www.infobae.com/politica/2026/09/08/malvinas-el-gobierno-britanico-destaco-su-alianza-con-eeuu-y-descarto-que-la-presion-de-milei-altere-la-soberania-de-las-islas/",
+          "resumen": "La ministra británica Kirsty McNeill afirmó ante el Parlamento que Londres mantendrá su respaldo a los isleños y sostuvo que las medidas anunciadas por el presidente argentino no modificarán la posición del Reino Unido",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Morosidad: la oposición intentará avanzar en Diputados con los proyectos para aliviar la situación de las familias endeudadas",
-          "link": "https://www.clarin.com/politica/oposicion-convoco-sesion-diputados-trata-proyectos-morosidad-familias-endeudadas_0_ewokUQK3JY.html",
-          "resumen": "A pedido del radical Pablo Juliano, se convocó para este miércoles una sesión especial y ahora buscan conseguir el quórum. Hay más de 50 iniciativas que apuntan a declarar la emergencia crediticia y establecer un régimen de saneamiento de…",
+          "titulo": "Diego Santilli chicaneó a Kicillof tras el fallo que frenó la baja de la edad de imputabilidad: le pidió más inversión y que \"deje de comprar penes de madera\"",
+          "link": "https://www.clarin.com/politica/diego-santilli-chicaneo-kicillof-fallo-freno-baja-edad-imputabilidad-pidio-inversion-deje-comprar-penes-madera_0_Au3QqvH4yD.html",
+          "resumen": "El ministro del Interior dijo que la Provincia de Buenos Aires es \"tierra de nadie\" y le pidió más gasto en Seguridad. \"Bajar la edad de imputabilidad no alcanza\", respondió el funcionario de Axel Kicillof.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Quién es Eduardo Elsztain, el empresario argentino que tiene inversiones en las Islas Malvinas",
-          "link": "https://www.lanacion.com.ar/politica/quien-es-eduardo-elsztain-el-empresario-argentino-que-tiene-inversiones-en-las-islas-malvinas-nid07092026/",
-          "resumen": "Con décadas de experiencia en los rubros inmobiliario, financiero, tecnológico y agroindustrial, es accionista minoritario en la empresa Falkland Islands Company",
+          "titulo": "La causa Malvinas: el giro de Milei abrió una agenda inesperada en el Congreso y la oposición sube la apuesta",
+          "link": "https://www.lanacion.com.ar/politica/malvinas-el-giro-de-milei-abrio-una-agenda-inesperada-en-el-congreso-y-la-oposicion-sube-la-apuesta-nid07092026/",
+          "resumen": "La oposición acompañó el cambio discursivo, pero exige medidas que no estaban en los planes oficiales: eliminar beneficios tributarios a empresas británicas, revisar compañías adheridas al RIGI y reforzar el equipamiento para la defensa",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Caputo le da US$ 2.000 millones de \"poder de fuego\" a Bausili para intervenir con bonos en el dólar",
-          "link": "https://www.clarin.com/economia/caputo-da-us-2000-millones-poder-fuego-bausili-intervenir-bonos-dolar_0_Z6KhZeyxjt.html",
-          "resumen": "El Ministerio de Economía le canjea al Banco Central bonos en pesos a cambio de letras vinculadas al tipo de cambio. La autoridad monetaria los suele utilizar para vender en el mercado y aplacar tensiones cambiarias.",
+          "titulo": "Los dólares que vienen: para el BCRA, aún falta que empresas y provincias ingresen al mercado US$ 4.400 millones",
+          "link": "https://www.clarin.com/economia/dolares-vienen-bcra-falta-empresas-provincias-ingresen-mercado-us-4400-millones_0_xiXWnlik4z.html",
+          "resumen": "Son colocaciones de deuda que se hicieron entre enero y agosto. Actuarán como un \"colchón\" de divisas en los próximos meses. El Central destacó que aumentó su poder de fuego para sostener la calma cambiaria.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Ya es oficial el Xiaomi 18 Fold, un plegable tipo pasaporte con un chip de diseño propio",
-          "link": "https://www.lanacion.com.ar/tecnologia/ya-es-oficial-el-xiaomi-18-fold-un-plegable-tipo-pasaporte-con-un-chip-de-diseno-propio-nid07092026/",
-          "resumen": "La compañía china presentó su primer smartphone plegable de tamaño medio dos días antes que el iPhone Ultra",
+          "titulo": "Préstamos personales: las tasas bajaron, pero endeudarse les cuesta a las familias más del triple que la inflación",
+          "link": "https://www.lanacion.com.ar/economia/prestamos-personales-las-tasas-bajaron-pero-endeudarse-les-cuesta-a-las-familias-mas-del-triple-que-nid08092026/",
+          "resumen": "La tasa de interés promedia el 64% nominal anual, mientras que los economistas proyectan que el índice de precios al consumidor será del 21% en los próximos 12 meses",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Inocencia Fiscal II: se aproxima el nuevo vencimiento de Ganancias y apremian los plazos del Senado",
-          "link": "https://www.ambito.com/economia/inocencia-fiscal-ii-se-aproxima-el-nuevo-vencimiento-ganancias-y-apremian-los-plazos-del-senado-n6319279",
-          "resumen": "Los dólares siguen en el colchón. La cámara alta empieza a tratar en comisión los cambios aprobados en Diputados. Quedan dos semanas para presentar las declaraciones juradas de 2025.",
+          "titulo": "Las exportaciones chinas se dispararon un 25% interanual en agosto, pese a las tensiones globales",
+          "link": "https://www.ambito.com/economia/las-exportaciones-chinas-se-dispararon-un-25-interanual-agosto-pese-las-tensiones-globales-n6319740",
+          "resumen": "Presentó un superávit comercial de u$s119.100 millones, frente a los u$s112.500 millones de julio. La fuerte demanda de autos eléctricos y semiconductores apuntaló el comercio del gigante asiático en agosto, logrando amortiguar las…",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Vaca Muerta Sur sale al mercado local para financiar la recta final del megaproyecto exportador",
-          "link": "https://www.clarin.com/energia-y-mineria/vaca-muerta-sur-sale-mercado-local-financiar-recta-final-megaproyecto-exportador_0_PTGWxOsUrY.html",
-          "resumen": "El consorcio que integran YPF y otras siete petroleras buscará inicialmente US$ 150 millones, ampliables hasta US$ 200 millones. La obra ya alcanzó un avance del 80%.",
+          "titulo": "\"El área con excesos es mayor\": el campo espera al “súper Niño” con reservas de agua en los suelos por encima de lo normal",
+          "link": "https://www.clarin.com/rural/area-excesos-mayor-campo-espera-super-nino-reservas-agua-suelos-encima-normal_0_FVfr0mhqlV.html",
+          "resumen": "Según un informe de la Fauba, gran parte de la región agrícola cuenta con niveles de humedad en los suelos superiores al promedio. Hay 90% de probabilidad de que el fenómeno climático sea fuerte en primavera y 70% de que continúe así en…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El Gobierno le canjeó US$2000 millones en títulos al BCRA para que mantenga contenido al dólar",
-          "link": "https://www.lanacion.com.ar/economia/el-gobierno-le-canjeo-us2000-millones-en-titulos-al-bcra-para-que-mantenga-contenido-al-dolar-nid07092026/",
-          "resumen": "Emitió dos Letras dollar-linked por vencer a fin de mes y a fines de octubre; a cambio, recibió una Letra a tasa fija",
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 8 de septiembre, minuto a minuto",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid08092026/",
+          "resumen": "La divisa oficial opera a $1530 para la venta en el Banco Nación; el dólar blue cotiza a $1545 para esa operación; qué pasa con el MEP y el CCL",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Presionado por EE.UU., Netanyahu ordena la evacuación de algunos asentamientos en Cisjordania",
-          "link": "https://www.clarin.com/mundo/presionado-eeuu-netanyahu-ordena-evacuacion-asentamientos-cisjordania_0_CmUlzbUW9d.html",
-          "resumen": "Son unos cien asentamientos considerados ilegales, según la legislación israelí. La orden de desmantelarlos busca frenar la escalada de violencia de colonos radicales contra la población palestina.",
+          "titulo": "Esconden al personal femenino de la Torre Eiffel por una visita privada de monjes hindúes: escándalo, indignación y huelga",
+          "link": "https://www.clarin.com/mundo/esconden-personal-femenino-torre-eiffel-visita-privada-monjes-hindues-escandalo-indignacion-huelga_0_KcwH9O8Pcw.html",
+          "resumen": "Las mujeres que trabajan allí fueron ocultadas el sábado para dar paso a un grupo de hindúes de BAPS, que no aceptaban su presencia. El alcalde de París pidió investigar.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Las claves del terremoto político en Alemania: por qué arrasó la ultraderecha y qué implica para Merz",
-          "link": "https://www.lanacion.com.ar/el-mundo/las-claves-del-terremoto-politico-en-alemania-por-que-arraso-la-ultraderecha-y-que-implica-para-merz-nid07092026/",
-          "resumen": "AfD rozó la mayoría absoluta en Sajonia-Anhalt, hundió a la CDU a su peor resultado en décadas y abrió una profunda crisis en el gobierno federal",
+          "titulo": "Pedro Urruchurtu, sobre EE.UU. y el petróleo venezolano: “No es contradictorio hablar de interés económico y una agenda democrática”",
+          "link": "https://www.lanacion.com.ar/el-mundo/pedro-urruchurtu-sobre-eeuu-y-el-petroleo-venezolano-no-es-contradictorio-hablar-de-interes-nid08092026/",
+          "resumen": "El coordinador internacional de Vente Venezuela (VV) y “canciller” de María Corina Machado, habló acerca del acuerdo petrolero, el rol de Trump y la relación con la Argentina",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Funeral de Ratko Mladic: una multitud despide al criminal de guerra en Belgrado y provoca una advertencia de Bruselas",
-          "link": "https://www.clarin.com/mundo/funeral-ratko-mladic-multitud-despide-criminal-guerra-belgrado-provoca-advertencia-bruselas_0_V4WH4EnD5T.html",
-          "resumen": "\"Cualquier glorificación de los criminales de guerra contradice los valores europeos más fundamentales\", dijo en un comunicado un portavoz de la jefa de la diplomacia comunitaria, Kaja Kallas. El exjefe militar de los serbios de Bosnia…",
+          "titulo": "Afirman que Emiratos avisó personalmente a Netanyahu sobre el ataque de Hamas diez días antes: el premier dice que es mentira",
+          "link": "https://www.clarin.com/mundo/afirman-emiratos-aviso-personalmente-netanyahu-ataque-hamas-dias-premier-dice-mentira_0_cRX7NrjmNx.html",
+          "resumen": "El periódico israelí Haaretz reveló este martes que \"el 23 de septiembre de 2023, el presidente de Emiratos Árabes Unidos, Bin Zayed, llamó a Netanyahu\" para avisarle del ataque de Hamas. \"Netanyahu no hizo nada\", dice el diario. La…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Búsqueda contrarreloj en México: el pescador de Oaxaca que ya estuvo una semana a la deriva en el océano",
-          "link": "https://www.lanacion.com.ar/el-mundo/busqueda-contrarreloj-en-mexico-el-pescador-de-oaxaca-que-ya-estuvo-una-semana-a-la-deriva-en-el-nid07092026/",
-          "resumen": "Conoce qué pasó con Héctor Márquez Martínez, el pescador de Oaxaca avistado con vida tras casi una semana a la deriva y aún pendiente de rescate en México.",
+          "titulo": "Una banda de ladrones asaltó un museo de la Riviera francesa y robó dos cuadros de Renoir",
+          "link": "https://www.lanacion.com.ar/el-mundo/una-banda-de-ladrones-asalto-un-museo-de-la-riviera-francesa-y-robo-dos-cuadros-de-renoir-nid08092026/",
+          "resumen": "Ocurrió en Cagnes-sur-Mer, donde se encuentra el sitio dedicado al pintor impresionista",
           "fuente": "La Nación"
         },
         {
-          "titulo": "4 cosas que descubrimos en auditorías secretas del ejército ucraniano",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/4-cosas-descubrimos-auditorias-secretas-ejercito-ucraniano_0_RBkBPvqUi6.html",
-          "resumen": "Estos documentos constituyen un análisis exhaustivo del proceso de adjudicación de contratos de armamento.",
+          "titulo": "A 25 años del 11-S: el ISIS, la banda terrorista que creció al calor de la guerra en Irak",
+          "link": "https://www.clarin.com/mundo/25-anos-11-s-isis-banda-terrorista-crecio-calor-guerra-irak_0_rE5i6ELnh0.html",
+          "resumen": "Nació en 2003 ligado a Al Qaeda surgió, entre muchas otros grupos, en marzo de 2003 en Irak, como reacción a la invasión norteamericana que derribó al régimen de Saddam Hussein. La característica de la organización era que cortaba la…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Antonio Mohamed, el DT argentino campeón de la Leagues Cup para hacer historia en Toluca de México: \"Quiero ganar todo\"",
-          "link": "https://www.clarin.com/deportes/antonio-mohamed-dt-argentino-campeon-leagues-cup-hacer-historia-toluca-mexico-quiero-ganar_0_bTs84WDtAa.html",
-          "resumen": "El Turco derrotó al Monterrey de Matías Almeyda en la final del torneo que reúne a equipos de la MLS y la Liga MX. Fue su sexta corona como DT de los Diablos Rojos, que en un par de semanas jugarán la Copa Intercontinental. Mirá el resumen.",
+          "titulo": "Boca vs San Pablo, por la Copa Sudamericana EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
+          "link": "https://www.clarin.com/deportes/boca-vs-san-pablo-copa-sudamericana-vivo-hora-juegan-formaciones-ver-partido_0_pEWIUDy7Fq.html",
+          "resumen": "Juegan en la Bombonera desde las 21.30 por el partido de ida de los cuartos de final. Con el regreso de Paredes, el equipo del Vasco Arruabarrena busca una victoria para encaminar la serie. Por ESPN.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Un Metropolitano femenino muy parejo y el invicto de 19 partidos de San Fernando en variones",
-          "link": "https://www.lanacion.com.ar/deportes/hockey/un-metropolitano-femenino-muy-parejo-y-el-invicto-de-19-partidos-de-san-fernando-en-variones-nid07092026/",
-          "resumen": "Lomas, Santa Bárbara y Gimnasia y Esgrima son los que mandan entre las mujeres",
+          "titulo": "Colapinto: la oportunidad desperdiciada de pulsear con los gigantes y una exigencia que no debe convertirse en un riesgo",
+          "link": "https://www.lanacion.com.ar/deportes/colapinto-la-oportunidad-desperdiciada-de-pulsear-con-los-gigantes-y-una-exigencia-que-no-debe-nid08092026/",
+          "resumen": "La frustración por el despiste que lo quitó de las posiciones de vanguardia no debe confundir y llevar el escenario a un límite peligroso; el apoyo de Briatore",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Polémica por el gol agónico de Atlético Tucumán en la derrota de Racing: el trazado de líneas generó aún más dudas",
-          "link": "https://www.ole.com.ar/racing/racing-gol-polemica-offside-atleticotucuman_0_Ul2G8UPflL.html",
-          "resumen": "Pese a que el VAR determinó que no hubo offside de Ramiro Ruiz Rodríguez, en las imágenes que mostraron para justificar la decisión, el futbolista parece adelantado.",
+          "titulo": "Dolor en Mar del Plata: falleció Keyla, la pequeña hincha de Aldosivi que entró con el plantel en la última victoria del Tiburón",
+          "link": "https://www.ole.com.ar/aldosivi/keyla-fallecio-sueno-plantel-conocer-aldosivi_0_PEzYDn6jRq.html",
+          "resumen": "Luego de cumplir su sueño de conocer a los jugadores del club de sus amores, la niña de siete años había estado presente en el Minella, en el partido frente a Banfield.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Infantino pierde otro apoyo para seguir al frente de la FIFA: Bélgica se suma a la rebelión europea",
-          "link": "https://www.clarin.com/deportes/infantino-pierde-apoyo-seguir-frente-fifa-belgica-suma-rebelion-europea_0_fOf1Y5OH2v.html",
-          "resumen": "La federación del país europeo anunció que no acompañará al dirigente en las elecciones de 2027 y cuestionó la falta de transparencia en el proyecto FIFA Forward Enterprise y en el polémico caso Balogun durante el Mundial. Inglaterra,…",
+          "titulo": "France Football revelará los candidatos al Balón de Oro: ¿tiene chances Lionel Messi de meterse en la lista?",
+          "link": "https://www.clarin.com/deportes/france-football-revelara-candidatos-balon-oro-chances-lionel-messi-meterse-lista_0_MzybZBx5P4.html",
+          "resumen": "Este martes se conocerán los 30 futbolistas nominados al galardón individual más codiciado del fútbol mundial. Ya se difundieron los técnicos elegidos y no figura Lionel Scaloni. Messi podría ilusionarse con romper su propio récord y…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Cuándo juega Boca vs. San Pablo por la Copa Sudamericana 2026",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/cuando-juega-boca-vs-san-pablo-por-la-copa-sudamericana-2026-nid07092026/",
-          "resumen": "El partido de ida de los octavos de final se disputará este martes en la Bombonera con arbitraje de Piero Maza; la revancha será una semana después en Brasil",
+          "titulo": "Boca vs. San Pablo: una prueba de fuego para medir hasta dónde llega el equipo de Arruabarrena",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/boca-vs-san-pablo-una-prueba-de-fuego-para-medir-hasta-donde-llega-el-equipo-de-arruabarrena-nid08092026/",
+          "resumen": "Este martes, desde las 21.30, el Xeneize abre los cuartos de la Sudamericana con un desafío extra: imponerse ante un brasileño",
           "fuente": "La Nación"
         }
       ]
