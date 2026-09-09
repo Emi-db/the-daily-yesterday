@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "8 de septiembre de 2026",
-  "generada": "13:57",
+  "fecha": "9 de septiembre de 2026",
+  "generada": "13:59",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Diego Santilli: \"Quiero que Javier Milei sea el primer presidente no peronista o no kirchnerista en ser reelecto\"",
-          "link": "https://www.clarin.com/politica/diego-santilli-quiero-javier-milei-primer-presidente-peronista-kirchnerista-reelecto_0_RHoYDfFOYp.html",
-          "resumen": "El jefe de Gabinete destacó la importancia de que la Argentina mantenga un rumbo político sostenido, al participar de la séptima edición del ciclo Democracia y Desarrollo (DyD), organizado por Clarín. \"Solemos ir cuatro años para un lado…",
+          "titulo": "El primer ministro británico advirtió que su Gobierno será \"implacable\" en la defensa de la soberanía de las Islas Malvinas",
+          "link": "https://www.clarin.com/politica/primer-ministro-britanico-advirtio-gobierno-implacable-defensa-soberania-islas-malvinas_0_RP0CFc1CLo.html",
+          "resumen": "Andy Burnham respondió ante la Cámara de los Comunes luego de la amenaza de Donald Trump de quitarle el apoyo y de las sanciones anunciadas por Javier Milei. \"Siempre respetaremos los derechos de los habitantes de las Malvinas que…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: “La desregulación avanza”, dijo el Presidente",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-desregulacion-avanza-dijo-el-presidente-nid08092026/",
-          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "titulo": "Javier Milei y sus medidas, en vivo: “Obvio que odia a nuestro gobierno”: el Presidente apuntó contra una periodista",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-apunto-contra-una-periodista-obvio-que-odia-a-nid09092026/",
+          "resumen": "El minuto a minuto de las decisiones del jefe de Estado, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Malvinas: el gobierno británico destacó su alianza con EEUU y descartó que la presión de Milei altere la soberanía de las Islas",
-          "link": "https://www.infobae.com/politica/2026/09/08/malvinas-el-gobierno-britanico-destaco-su-alianza-con-eeuu-y-descarto-que-la-presion-de-milei-altere-la-soberania-de-las-islas/",
-          "resumen": "La ministra británica Kirsty McNeill afirmó ante el Parlamento que Londres mantendrá su respaldo a los isleños y sostuvo que las medidas anunciadas por el presidente argentino no modificarán la posición del Reino Unido",
+          "titulo": "La Fiscalía apeló el fallo que suspendió la baja de la edad de imputabilidad y acusó a la jueza Pascual de avanzar sobre facultades del Congreso",
+          "link": "https://www.infobae.com/politica/2026/09/09/la-fiscalia-apelo-el-fallo-que-suspendio-la-baja-de-la-edad-de-imputabilidad-y-acuso-a-la-jueza-pascual-de-avanzar-sobre-facultades-del-congreso/",
+          "resumen": "La apelación contra la cautelar que frenó por 60 días la aplicación de la Ley 27.801 en Buenos Aires sostiene que no existe un caso concreto que justifique el hábeas corpus y cuestiona que la jueza haya suspendido una norma nacional sin…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Diego Santilli chicaneó a Kicillof tras el fallo que frenó la baja de la edad de imputabilidad: le pidió más inversión y que \"deje de comprar penes de madera\"",
-          "link": "https://www.clarin.com/politica/diego-santilli-chicaneo-kicillof-fallo-freno-baja-edad-imputabilidad-pidio-inversion-deje-comprar-penes-madera_0_Au3QqvH4yD.html",
-          "resumen": "El ministro del Interior dijo que la Provincia de Buenos Aires es \"tierra de nadie\" y le pidió más gasto en Seguridad. \"Bajar la edad de imputabilidad no alcanza\", respondió el funcionario de Axel Kicillof.",
+          "titulo": "Yategate: el nuevo juez de la causa ordenó una batería de medidas sobre los bienes de Martín Insaurralde y Jesica Cirio",
+          "link": "https://www.clarin.com/politica/yategate-nuevo-juez-causa-ordeno-bateria-medidas-bienes-martin-insaurralde-jesica-cirio_0_QFvZqOjXA5.html",
+          "resumen": "En una resolución, Rodríguez Ponte solicitó datos a registros inmuebles, telefónicas, escribanos y contadores. También pidió peritar los nuevos videos en que se ve a la modelo contando miles de dólares en un vestidor que reveló Clarín.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La causa Malvinas: el giro de Milei abrió una agenda inesperada en el Congreso y la oposición sube la apuesta",
-          "link": "https://www.lanacion.com.ar/politica/malvinas-el-giro-de-milei-abrio-una-agenda-inesperada-en-el-congreso-y-la-oposicion-sube-la-apuesta-nid07092026/",
-          "resumen": "La oposición acompañó el cambio discursivo, pero exige medidas que no estaban en los planes oficiales: eliminar beneficios tributarios a empresas británicas, revisar compañías adheridas al RIGI y reforzar el equipamiento para la defensa",
+          "titulo": "Visita del Papa León XIV a la Argentina: qué se sabe de la misa central y toda la agenda oficial",
+          "link": "https://www.lanacion.com.ar/politica/visita-del-papa-leon-xiv-a-la-argentina-que-se-sabe-de-la-misa-central-y-toda-la-agenda-oficial-nid07092026/",
+          "resumen": "El Pontífice estará en el país del 8 al 11 de noviembre; se proyectan celebraciones en Palermo, Luján y Córdoba, además de visitas a la cárcel de Devoto y al Cottolengo de Claypole; el programa definitivo será anunciado por la Santa Sede",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Los dólares que vienen: para el BCRA, aún falta que empresas y provincias ingresen al mercado US$ 4.400 millones",
-          "link": "https://www.clarin.com/economia/dolares-vienen-bcra-falta-empresas-provincias-ingresen-mercado-us-4400-millones_0_xiXWnlik4z.html",
-          "resumen": "Son colocaciones de deuda que se hicieron entre enero y agosto. Actuarán como un \"colchón\" de divisas en los próximos meses. El Central destacó que aumentó su poder de fuego para sostener la calma cambiaria.",
+          "titulo": "\"Mafias organizadas\": productores en alerta por los casos de abigeato en la frontera con Brasil",
+          "link": "https://www.clarin.com/rural/mafias-organizadas-productores-alerta-casos-abigeato-frontera-brasil_0_ZmYmoJcrrM.html",
+          "resumen": "Ganaderos correntinos aseguraron que en los departamentos de Alvear y Santo Tomé continúan los hechos delictivos, sobre todo en los campos sobre el río Uruguay y linderos con el país vecino. La semana pasada hubo un encuentro entre la…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Préstamos personales: las tasas bajaron, pero endeudarse les cuesta a las familias más del triple que la inflación",
-          "link": "https://www.lanacion.com.ar/economia/prestamos-personales-las-tasas-bajaron-pero-endeudarse-les-cuesta-a-las-familias-mas-del-triple-que-nid08092026/",
-          "resumen": "La tasa de interés promedia el 64% nominal anual, mientras que los economistas proyectan que el índice de precios al consumidor será del 21% en los próximos 12 meses",
+          "titulo": "Súper Niño: anticipan cómo serán las lluvias y las temperaturas para un momento clave del verano",
+          "link": "https://www.lanacion.com.ar/economia/campo/super-nino-anticipan-como-seran-las-lluvias-y-las-temperaturas-para-un-momento-clave-del-verano-nid09092026/",
+          "resumen": "Según un reporte de Sobre La Tierra-Fauba, hay un 90% de probabilidad de que el evento Niño sea fuerte en la primavera y un 70% de que siga así en el verano",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Las exportaciones chinas se dispararon un 25% interanual en agosto, pese a las tensiones globales",
-          "link": "https://www.ambito.com/economia/las-exportaciones-chinas-se-dispararon-un-25-interanual-agosto-pese-las-tensiones-globales-n6319740",
-          "resumen": "Presentó un superávit comercial de u$s119.100 millones, frente a los u$s112.500 millones de julio. La fuerte demanda de autos eléctricos y semiconductores apuntaló el comercio del gigante asiático en agosto, logrando amortiguar las…",
+          "titulo": "La inflación de China subió al 0,8% interanual en agosto y rompió la tendencia de desaceleración",
+          "link": "https://www.ambito.com/economia/la-inflacion-china-subio-al-08-interanual-agosto-y-rompio-la-tendencia-desaceleracion-n6320184",
+          "resumen": "El IPC chino repuntó un 0,8% interanual en agosto y quebró tres meses de desaceleración, en una jornada donde la inflación mayorista también aceleró por encima de lo previsto hasta el 3,8%. Los detalles, en la nota.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "\"El área con excesos es mayor\": el campo espera al “súper Niño” con reservas de agua en los suelos por encima de lo normal",
-          "link": "https://www.clarin.com/rural/area-excesos-mayor-campo-espera-super-nino-reservas-agua-suelos-encima-normal_0_FVfr0mhqlV.html",
-          "resumen": "Según un informe de la Fauba, gran parte de la región agrícola cuenta con niveles de humedad en los suelos superiores al promedio. Hay 90% de probabilidad de que el fenómeno climático sea fuerte en primavera y 70% de que continúe así en…",
+          "titulo": "Euro hoy en Venezuela: precio y cotización de la divisa este miércoles 9 de septiembre de 2026",
+          "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-miercoles-9-de-septiembre-de-2026_0_GmQoEyN8T7.html",
+          "resumen": "Mirá la cotización del euro en Venezuela, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 8 de septiembre, minuto a minuto",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid08092026/",
-          "resumen": "La divisa oficial opera a $1530 para la venta en el Banco Nación; el dólar blue cotiza a $1545 para esa operación; qué pasa con el MEP y el CCL",
+          "titulo": "Más que se duplicó en dos años la cantidad de empresas en mora y el golpe se concentra en las más chicas",
+          "link": "https://www.lanacion.com.ar/economia/mas-que-se-duplico-en-dos-anos-la-cantidad-de-empresas-en-mora-y-el-golpe-se-concentra-en-las-mas-nid09092026/",
+          "resumen": "Un informe de Equilibra muestra que la cantidad de firmas con atrasos de más de 90 días pasó de 16.212 a 37.482 en 24 meses; los préstamos de menos de $5 millones alcanzan el 9,3% y bajan al 1,8% en los mayores a $3800 millones",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Esconden al personal femenino de la Torre Eiffel por una visita privada de monjes hindúes: escándalo, indignación y huelga",
-          "link": "https://www.clarin.com/mundo/esconden-personal-femenino-torre-eiffel-visita-privada-monjes-hindues-escandalo-indignacion-huelga_0_KcwH9O8Pcw.html",
-          "resumen": "Las mujeres que trabajan allí fueron ocultadas el sábado para dar paso a un grupo de hindúes de BAPS, que no aceptaban su presencia. El alcalde de París pidió investigar.",
+          "titulo": "Gran Bretaña contesta las críticas y defiende las sanciones contra colonos judíos: \"No vamos a permanecer con los brazos cruzados\"",
+          "link": "https://www.clarin.com/mundo/gran-bretana-contesta-criticas-defiende-sanciones-colonos-judios-vamos-permanecer-brazos-cruzados_0_4dIXCFzBGi.html",
+          "resumen": "El primer ministro Andy Burnham y su canciller afirmaron este miércoles que las represalias contra los asentamientos israelíes en Cisjordania \"son lo correcto\". \"El sufrimiento del pueblo palestino es una cicatriz en la conciencia del…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Pedro Urruchurtu, sobre EE.UU. y el petróleo venezolano: “No es contradictorio hablar de interés económico y una agenda democrática”",
-          "link": "https://www.lanacion.com.ar/el-mundo/pedro-urruchurtu-sobre-eeuu-y-el-petroleo-venezolano-no-es-contradictorio-hablar-de-interes-nid08092026/",
-          "resumen": "El coordinador internacional de Vente Venezuela (VV) y “canciller” de María Corina Machado, habló acerca del acuerdo petrolero, el rol de Trump y la relación con la Argentina",
+          "titulo": "Juicio por el crimen de Federico Martín Aramburú, EN VIVO: qué se sabe de los acusados por el asesinato a sangre fría en París del expuma",
+          "link": "https://www.lanacion.com.ar/el-mundo/juicio-por-el-crimen-de-federico-martin-aramburu-en-vivo-que-se-sabe-de-los-acusados-por-el-nid09092026/",
+          "resumen": "El deportista fue atacado a disparos en la capital francesa en marzo de 2022; se conocieron videos de los momentos previos al asesinato; este lunes comenzó el juicio contra uno de los acusados",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Afirman que Emiratos avisó personalmente a Netanyahu sobre el ataque de Hamas diez días antes: el premier dice que es mentira",
-          "link": "https://www.clarin.com/mundo/afirman-emiratos-aviso-personalmente-netanyahu-ataque-hamas-dias-premier-dice-mentira_0_cRX7NrjmNx.html",
-          "resumen": "El periódico israelí Haaretz reveló este martes que \"el 23 de septiembre de 2023, el presidente de Emiratos Árabes Unidos, Bin Zayed, llamó a Netanyahu\" para avisarle del ataque de Hamas. \"Netanyahu no hizo nada\", dice el diario. La…",
+          "titulo": "EE.UU. e Israel: elecciones en dos democracias en juego",
+          "link": "https://www.clarin.com/new-york-times-international-weekly/eeuu-israel-elecciones-democracias-juego_0_As9zNYlXKF.html",
+          "resumen": "Ambos países celebran elecciones en otoño, con una semana de diferencia entre ambas. El futuro de sus democracias pende de un hilo.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Una banda de ladrones asaltó un museo de la Riviera francesa y robó dos cuadros de Renoir",
-          "link": "https://www.lanacion.com.ar/el-mundo/una-banda-de-ladrones-asalto-un-museo-de-la-riviera-francesa-y-robo-dos-cuadros-de-renoir-nid08092026/",
-          "resumen": "Ocurrió en Cagnes-sur-Mer, donde se encuentra el sitio dedicado al pintor impresionista",
+          "titulo": "Más de 1000 vuelos cancelados en Reino Unido, crece el misterio por la falla y piden la cabeza del jefe del control aéreo",
+          "link": "https://www.lanacion.com.ar/el-mundo/mas-de-1000-vuelos-cancelados-en-reino-unido-crece-el-misterio-por-la-falla-y-piden-la-cabeza-del-nid09092026/",
+          "resumen": "Las operaciones comenzaron a normalizarse, pero cientos de servicios siguen afectados mientras las autoridades descartan por ahora un ciberataque y crece la presión sobre el responsable del sistema",
           "fuente": "La Nación"
         },
         {
-          "titulo": "A 25 años del 11-S: el ISIS, la banda terrorista que creció al calor de la guerra en Irak",
-          "link": "https://www.clarin.com/mundo/25-anos-11-s-isis-banda-terrorista-crecio-calor-guerra-irak_0_rE5i6ELnh0.html",
-          "resumen": "Nació en 2003 ligado a Al Qaeda surgió, entre muchas otros grupos, en marzo de 2003 en Irak, como reacción a la invasión norteamericana que derribó al régimen de Saddam Hussein. La característica de la organización era que cortaba la…",
+          "titulo": "El petróleo volvió a superar la barrera de los 100 dólares por barril por la escalada del conflicto entre Estados Unidos e Irán",
+          "link": "https://www.clarin.com/mundo/petroleo-volvio-superar-barrera-100-dolares-barril-escalada-conflicto-estados-unidos-iran_0_OIvVTTl24s.html",
+          "resumen": "El crudo Brent subió por los recientes ataques instalaciones petroleras y barcos en Medio Oriente. Es la primera vez desde julio que la cotización supera los 100 dólares.",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Boca vs San Pablo, por la Copa Sudamericana EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
-          "link": "https://www.clarin.com/deportes/boca-vs-san-pablo-copa-sudamericana-vivo-hora-juegan-formaciones-ver-partido_0_pEWIUDy7Fq.html",
-          "resumen": "Juegan en la Bombonera desde las 21.30 por el partido de ida de los cuartos de final. Con el regreso de Paredes, el equipo del Vasco Arruabarrena busca una victoria para encaminar la serie. Por ESPN.",
+          "titulo": "Ben Shelton le cortó la racha a Carlos Alcaraz en el US Open tras una batalla récord que se estiró hasta las 3.30 de la mañana en Nueva York",
+          "link": "https://www.clarin.com/deportes/ben-shelton-corto-racha-carlos-alcaraz-us-open-batalla-record-estiro-330-manana-nueva-york_0_T3ESbKrKWi.html",
+          "resumen": "El estadounidense se metió en las semifinales bajando al vigente campeón. El partido duró cuatro horas y 28 minutos y fue de los más emocionantes del año. Carlitos volvía de una lesión y llevaba 18 victorias consecutivas en Flushing…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Colapinto: la oportunidad desperdiciada de pulsear con los gigantes y una exigencia que no debe convertirse en un riesgo",
-          "link": "https://www.lanacion.com.ar/deportes/colapinto-la-oportunidad-desperdiciada-de-pulsear-con-los-gigantes-y-una-exigencia-que-no-debe-nid08092026/",
-          "resumen": "La frustración por el despiste que lo quitó de las posiciones de vanguardia no debe confundir y llevar el escenario a un límite peligroso; el apoyo de Briatore",
+          "titulo": "US Open 2026 hoy: partidos y cómo está el cuadro",
+          "link": "https://www.lanacion.com.ar/deportes/tenis/us-open-2026-hoy-partidos-y-como-esta-el-cuadro-nid09092026/",
+          "resumen": "En la undécima jornada en Flushing Meadows se cierran los cuartos de final de los torneos masculino y femenino; juegan Alexander Zverev y Elena Rybakina",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Dolor en Mar del Plata: falleció Keyla, la pequeña hincha de Aldosivi que entró con el plantel en la última victoria del Tiburón",
-          "link": "https://www.ole.com.ar/aldosivi/keyla-fallecio-sueno-plantel-conocer-aldosivi_0_PEzYDn6jRq.html",
-          "resumen": "Luego de cumplir su sueño de conocer a los jugadores del club de sus amores, la niña de siete años había estado presente en el Minella, en el partido frente a Banfield.",
+          "titulo": "Umtiti contra Mbappé y el Balón de Oro: \"No le corresponde decidir quién lo gana\" y \"es muy perjudicial para el fútbol\"",
+          "link": "https://www.ole.com.ar/futbol-internacional/espana/umtiti-critica-mbappekylian-balon-oro-real-madrid-defensor_0_Z75zWGOUUt.html",
+          "resumen": "El ex defensor francés cuestionó la postura de su compatriota y puso en duda el peso que tienen los números individuales en la elección: \"No se trata solo de estadísticas\".",
           "fuente": "Olé"
         },
         {
-          "titulo": "France Football revelará los candidatos al Balón de Oro: ¿tiene chances Lionel Messi de meterse en la lista?",
-          "link": "https://www.clarin.com/deportes/france-football-revelara-candidatos-balon-oro-chances-lionel-messi-meterse-lista_0_MzybZBx5P4.html",
-          "resumen": "Este martes se conocerán los 30 futbolistas nominados al galardón individual más codiciado del fútbol mundial. Ya se difundieron los técnicos elegidos y no figura Lionel Scaloni. Messi podría ilusionarse con romper su propio récord y…",
+          "titulo": "La NFL 2026 comienza la temporada más global de su historia: ocho países, dos debutantes, el Maracaná, ¿y para cuándo Argentina?",
+          "link": "https://www.clarin.com/deportes/nfl-2026-comienza-temporada-global-historia-paises-debutantes-maracana-argentina_0_kV0ZTJek8j.html",
+          "resumen": "Además de partidos en Estados Unidos, se jugará en México, Inglaterra, Alemania, Brasil, España, Australia y Francia. En Buenos Aires los Dolphins de Miami son locales y harán una watch party para el kickoff de este domingo. La acción…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Boca vs. San Pablo: una prueba de fuego para medir hasta dónde llega el equipo de Arruabarrena",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/boca-vs-san-pablo-una-prueba-de-fuego-para-medir-hasta-donde-llega-el-equipo-de-arruabarrena-nid08092026/",
-          "resumen": "Este martes, desde las 21.30, el Xeneize abre los cuartos de la Sudamericana con un desafío extra: imponerse ante un brasileño",
+          "titulo": "Lionel Messi figura entre los 30 nominados para el Balón de Oro 2026",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/lionel-messi-figura-entre-los-30-nominados-para-el-balon-de-oro-2026-nid08092026/",
+          "resumen": "El rosarino, que acaba de renunciar a la selección argentina después de una etapa brillante, luchaba por su ganar su novena distinción; Lautaro Martínez también está en la lista",
           "fuente": "La Nación"
         }
       ]
