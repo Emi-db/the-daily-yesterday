@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "9 de septiembre de 2026",
-    "generada": "13:59",
+    "fecha": "10 de septiembre de 2026",
+    "generada": "13:55",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Cómo Scarlett y Fabiana lograron celebrar el primer matrimonio homosexual en Bolivia, un país donde no está legalizado",
-            "link": "https://www.bbc.com/mundo/articles/ckgwdekl698o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Tardaron 4 años en poder casarse, aunque el matrimonio entre personas del mismo sexo no ha sido legalizado en Bolivia.",
+            "titulo": "La batalla silenciosa por la salud mental en Uruguay, el país con la tasa de suicidios más alta de América Latina",
+            "link": "https://www.bbc.com/mundo/articles/c980ndj537eo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Aunque los especialistas advierten que se trata de una problemática compleja y multicausal, aquí destacamos cinco factores que pueden ayudar a entender qué ocurre en este país.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Referéndum sobre Trump: la carrera para las elecciones de medio mandato de EE UU entra en su fase decisiva",
-            "link": "https://elpais.com/us/2026-09-09/referendum-sobre-trump-las-midterms-de-ee-uu-entran-en-su-fase-decisiva.html",
-            "resumen": "Los demócratas cuentan con ventaja en las encuestas de cara a las ‘midterms’ de noviembre, ante el descontento de los votantes por los altos precios y la guerra contra Irán",
+            "titulo": "Trump promete 5.000 dólares a “todos los estadounidenses adultos” si los republicanos ganan las elecciones legislativas",
+            "link": "https://elpais.com/us/2026-09-10/trump-promete-en-el-trump-a-palooza-un-bono-de-5000-dolares-si-los-republicanos-ganan-las-midterms.html",
+            "resumen": "“Quiero que finjáis que me presento a estas elecciones”, pide en su primer mitin de la convención de Dallas el presidente, que se vende en un discurso de casi dos horas como el único capaz de hacer ganar los comicios a su partido",
             "fuente": "El País"
           },
           {
-            "titulo": "38 partidos se apuntan a las elecciones de Israel de octubre, con bloques 'anti' y 'pro' Netanyahu",
-            "link": "https://www.france24.com/es/video/20260909-38-partidos-se-apuntan-a-las-elecciones-de-israel-de-octubre-con-bloques-anti-y-pro-netanyahu",
-            "resumen": "Israel cerró el plazo para que los partidos presentaran sus candidaturas a las elecciones con 38 organizaciones inscritas. Mientras Benjamin Netanyahu busca un nuevo mandato, los partidos eligieron enfrentarse sin alianzas, por lo que…",
+            "titulo": "Trump promete USD 5.000 a cada estadounidense si su partido gana elecciones de medio término: ¿cómo lo hará? ¿es legal?",
+            "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260910-trump-promete-usd-5-000-a-cada-estadounidense-si-su-partido-gana-elecciones-de-medio-t%C3%A9rmino-c%C3%B3mo-lo-har%C3%A1-es-legal",
+            "resumen": "El presidente de Estados Unidos, Donald Trump, promete un “dividendo” de 5.000 dólares para cada adulto estadounidense si los republicanos mantienen el control del Congreso en las elecciones de noviembre. La propuesta, cuyo costo podría…",
             "fuente": "France 24"
           },
           {
-            "titulo": "\"¿Qué haces cuando los colonos empiezan a disparar contra tus hijos?\": la preocupación de padres palestinos por el aumento de los ataques a escuelas en Cisjordania",
-            "link": "https://www.bbc.com/mundo/articles/c07ld7zd092o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Seis personas, entre ellas tres alumnos de la escuela, han muerto este año en al Mughayyir, en medio de una oleada de violencia de los colonos contra los palestinos.",
+            "titulo": "Qué busca De la Espriella con sus polémicas imágenes caminando entre cadáveres de presuntos guerrilleros en Colombia",
+            "link": "https://www.bbc.com/mundo/articles/c87ve8gr0llo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Una imagen vale más que mil palabras. El nuevo presidente de Colombia manda un mensaje fuerte, explícito y controvertido en seguridad.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Bienvenidos a la ‘Trump-a-palooza’, la insólita convención con la que los republicanos tratan de salvar las elecciones legislativas de noviembre",
-            "link": "https://elpais.com/us/2026-09-09/bienvenidos-a-la-trump-a-palooza-la-insolita-convencion-con-la-que-los-republicanos-tratan-de-salvar-las-elecciones-legislativas-de-noviembre.html",
-            "resumen": "Decenas de candidatos de distritos reñidos se saltan el cónclave MAGA, convocado a mayor gloria de Trump, por miedo a la influencia tóxica del presidente",
+            "titulo": "Gorras rojas, fervor MAGA y un senador demócrata en la convención con la que Trump quiere salvar las ‘midterms’",
+            "link": "https://elpais.com/us/2026-09-10/gorras-rojas-fervor-maga-y-un-senador-democrata-en-la-convencion-con-la-que-trump-quiere-salvar-las-midterms.html",
+            "resumen": "Los republicanos se citan en Dallas en un cónclave deslucido que decenas de candidatos han decidido saltarse por la impopularidad del presidente. John Fetterman, del partido rival, interviene por sorpresa",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "La industria petrolera espera un invierno negro en Europa por los elevados precios del combustible",
-            "link": "https://elpais.com/economia/2026-09-09/la-industria-petrolera-espera-un-invierno-negro-en-europa-por-los-elevados-precios-del-combustible.html",
-            "resumen": "Altos directivos del sector refinero alertan de que la elevada demanda, sumada a la destrucción de oferta, mantendrá la tensión de precios en el diésel y los carburantes de aviación",
+            "titulo": "El Gobierno se abre a suavizar las exigencias a los centros de datos si no disparan el recibo de la luz",
+            "link": "https://elpais.com/economia/2026-09-10/el-gobierno-se-abre-a-suavizar-las-exigencias-a-los-centros-de-datos-si-no-disparan-el-recibo-de-la-luz.html",
+            "resumen": "El Ejecutivo no descarta cambios sobre la nueva regulación, pero buscará que los ‘data centers’ no traigan como efecto secundario un incremento en el recibo",
             "fuente": "El País"
           },
           {
-            "titulo": "Inditex pisa el acelerador en el segundo trimestre y gana 1.605 millones de euros",
-            "link": "https://www.expansion.com/empresas/distribucion/2026/09/09/6aa0f272468aeb4d0a8b45a5.html",
-            "resumen": "El dueño de Zara incrementa sus ventas un 9,1% entre mayo y julio, mientras su beneficio crece un 8%, hasta los 1.605 millones. El ebit y el resultado neto se quedan por debajo de las previsiones de los analistas debido al alza de los…",
+            "titulo": "Así afecta la subida de tipos del BCE a familias, empresas e inversores",
+            "link": "https://www.expansion.com/mercados/2026/09/10/6aa15b41468aeb7f038b45a1.html",
+            "resumen": "La autoridad monetaria europea ha recibido el nuevo curso con una subida de los tipos de interés que sitúa el precio del dinero en el 2,5%, nivel desconocido desde marzo del año pasado. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "El caso Cisneros: cómo Venezuela apartó a una petrolera local para beneficiar a nuevos socios estadounidenses",
-            "link": "https://elpais.com/america/2026-09-09/el-caso-cisneros-como-venezuela-aparto-a-una-petrolera-local-para-beneficiar-a-nuevos-socios-estadounidenses.html",
-            "resumen": "Un contrato con una empresa californiana entró en vigor el 1 de julio sobre los mismos campos que, semanas antes, seguían formalmente en manos de los herederos de Oswaldo Cisneros",
+            "titulo": "El ritmo de rehabilitación de viviendas en España aleja los objetivos de descarbonización",
+            "link": "https://elpais.com/economia/vivienda/2026-09-10/el-ritmo-de-rehabilitacion-de-viviendas-en-espana-aleja-los-objetivos-de-descarbonizacion.html",
+            "resumen": "Pese a que el consumo energético en los inmuebles se ha reducido un 11% desde 2011, las cifras resultan insuficientes para las metas de 2030",
             "fuente": "El País"
           },
           {
-            "titulo": "Inditex sufre en el Ibex con las cifras de beneficios y costes",
-            "link": "https://www.expansion.com/mercados/2026/09/09/6aa0fff4468aeba0558b458a.html",
-            "resumen": "Los inversores reaccionan con frialdad a los resultados publicados por Inditex. Los futuros anticipan caídas del 2% al 3% en las acciones del gigante textil, en línea con la reacción a la baja que presagiaban los analistas. Leer",
+            "titulo": "En qué se gastan los beneficios los bancos españoles",
+            "link": "https://www.expansion.com/empresas/banca/2026/09/10/6a4e41e7e5fdea8e158b459a.html",
+            "resumen": "CaixaBank y Sabadell son los más generosos con los accionistas. El M&A se llevará la mitad de las ganancias de Santander este año, según UBS. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "La hucha de los ayuntamientos crece un 60% en cinco años",
-            "link": "https://elpais.com/economia/2026-09-09/la-hucha-de-los-ayuntamientos-crece-un-60-en-cinco-anos.html",
-            "resumen": "El conjunto de las entidades locales acumulaba 50.470 millones en efectivo y depósitos a finales de 2025, un nuevo récord que duplica el importe de su deuda",
+            "titulo": "¿Puede el casero obligarme a contratar un seguro del hogar que incluya responsabilidad civil por daños a terceros?",
+            "link": "https://elpais.com/economia/vivienda/consultorio/2026-09-10/puede-el-casero-obligarme-a-contratar-un-seguro-del-hogar-que-incluya-responsabilidad-civil-por-danos-a-terceros.html",
+            "resumen": "Los lectores envían sus preguntas al consultorio de vivienda de EL PAÍS en colaboración con Legálitas",
             "fuente": "El País"
           }
         ]
@@ -78,33 +78,33 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "El anuncio de OpenAI de que ha resuelto uno de los mayores enigmas matemáticos de la historia desata acusaciones de plagio",
-            "link": "https://elpais.com/ciencia/2026-09-09/el-anuncio-de-openai-de-que-ha-resuelto-uno-de-los-mayores-enigmas-matematicos-de-la-historia-desata-acusaciones-de-plagio.html",
-            "resumen": "Un matemático dice que la tecnológica ha usado investigaciones previas y “presionado” para excluir a otro investigador de Anthropic",
+            "titulo": "“De repente el día tiene tres horas más”: el fármaco que transforma la vida de los pacientes con narcolepsia",
+            "link": "https://elpais.com/salud-y-bienestar/2026-09-10/de-repente-el-dia-tiene-tres-horas-mas-el-farmaco-que-transforma-la-vida-de-los-pacientes-con-narcolepsia.html",
+            "resumen": "Un ensayo muestra la efectividad de un medicamento que imita la orexina, la sustancia que falta en el cerebro de las personas con esta dolencia",
             "fuente": "El País"
           },
           {
-            "titulo": "Más de 900 universidades piden 200.000 millones de euros para el próximo programa marco de investigación y desarrollo",
-            "link": "https://elpais.com/ciencia/2026-09-09/mas-de-900-universidades-piden-200000-millones-de-euros-para-el-proximo-programa-marco-de-investigacion-y-desarrollo.html",
-            "resumen": "Los centros reclaman a los países de la UE que destinen el 3% de su PIB en innovación y desarrollo para revertir el rezago frente a Estados Unidos y China",
+            "titulo": "Uber recibe el permiso de la DGT para coches autónomos en España y prevé operar en Madrid a final de este año",
+            "link": "https://elpais.com/tecnologia/2026-09-10/uber-recibe-el-primer-permiso-de-la-dgt-para-coches-autonomos-en-espana-y-preve-operar-en-madrid-a-final-de-este-ano.html",
+            "resumen": "Las primeras pruebas y viajes serán con un operador de la compañía dentro del vehículo",
             "fuente": "El País"
           },
           {
-            "titulo": "Un investigador de Anthropic dimite porque asegura que la IA “puede matarnos antes de 2030”",
-            "link": "https://elpais.com/tecnologia/2026-09-09/un-investigador-de-anthropic-dimite-porque-asegura-que-la-ia-puede-matarnos-antes-de-2030.html",
-            "resumen": "El jefe de Jacob Coxon, joven investigador de la compañía, le apoya y dice que la probabilidad de extinción en los próximos años supera el 10%",
+            "titulo": "OpenAI corrige de tapadillo su prueba ‘del milenio’ para citar a los matemáticos clave que ninguneó al anunciar el descubrimiento",
+            "link": "https://elpais.com/tecnologia/2026-09-10/openai-corrige-de-tapadillo-su-prueba-del-milenio-para-citar-a-los-matematicos-clave-que-ninguneo-al-anunciar-el-descubrimiento.html",
+            "resumen": "La compañía tecnológica reconoce así que se apoyó en el trabajo de los investigadores españoles. Charles Fefferman, el experto de Princeton que formuló el problema, confirma que el resultado presentado de la IA es la solución al reto",
             "fuente": "El País"
           },
           {
-            "titulo": "Edzard Ernst, investigador: “Los científicos deben tener mucho cuidado con los políticos de dudosa moral”",
-            "link": "https://elpais.com/ciencia/2026-09-08/edzard-ernst-investigador-los-cientificos-deben-tener-mucho-cuidado-con-los-politicos-de-dudosa-moral.html",
-            "resumen": "El excatedrático de Medicina británico-alemán, especializado en evaluar críticamente las terapias complementarias y alternativas, acaba de publicar ‘The Leopard Lily Project: A Story of Nazi Pseudoscience’",
+            "titulo": "Un año de trabajo de dos matemáticos españoles frente a 88 horas y 15 millones de OpenAI: “Sin nuestra idea, la IA no lo habría resuelto”",
+            "link": "https://elpais.com/ciencia/2026-09-10/un-ano-de-trabajo-de-dos-matematicos-espanoles-frente-a-88-horas-y-15-millones-de-openai-sin-nuestra-idea-la-ia-no-lo-habria-resuelto.html",
+            "resumen": "Las investigaciones de Diego Córdoba y Luis Martínez-Zoroa son la base del anuncio de que la inteligencia artificial ha resuelto uno de los mayores enigmas de la historia. Ambos creen que el logro cambiará radicalmente la disciplina",
             "fuente": "El País"
           },
           {
-            "titulo": "OpenAI lanza GPT-6 Astra, su modelo más potente, entre especulaciones sobre si han alcanzado la superinteligencia artificial",
-            "link": "https://elpais.com/tecnologia/2026-09-04/openai-lanza-gpt-6-astra-su-modelo-mas-potente-entre-especulaciones-sobre-si-han-alcanzado-la-superinteligencia-artificial.html",
-            "resumen": "La empresa de Sam Altman, que está preparando su salida a Bolsa, asegura haber desarrollado una IA con capacidad sobrehumana, aunque él mismo dijo que ese término es más marketiniano que real",
+            "titulo": "El nuevo enigma de los ancestros humanos más misteriosos: 120.000 años sin mejorar nunca sus herramientas",
+            "link": "https://elpais.com/ciencia/2026-09-09/el-nuevo-enigma-de-los-ancestros-humanos-mas-misteriosos-120000-anos-sin-mejorar-nunca-sus-herramientas.html",
+            "resumen": "Dos estudios empiezan a revelar el aspecto y la forma de vida de los denisovanos, los ancestros humanos más misteriosos",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Laporta: \"Lamine es un genio y su nominación al Balón de Oro es más que merecida\"",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225198/comida-directivas.html",
-            "resumen": "El FC Barcelona y el Feyenoord se medirán esta tarde (18.45 horas/Movistar Liga de Campeones) en el Spotify Camp Nou y arrancarán su camino en la Champions League . Con vistas al partido, ambos equipos se han citado para celebrar la…",
+            "titulo": "Deco: \"El Barça actuó con respeto para intentar fichar a Julián Álvarez\"",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260910/1004225549/deco.html",
+            "resumen": "Anderson Luis de Souza ' Deco', director deportivo del FC Barcelona, valoró el mercado de fichajes recientemente cerrado en una entrevista a 'El Món a RAC 1' personalizando en nombres propios y expresando su máxima confianza por el gran…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "LA PREVIA: Empieza el gran sueño para el Barça",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004224964/empieza-gran-sueno-barca.html",
-            "resumen": "La versión 3.0 del Barça de Hansi Flick empieza hoy su andadura hacia el gran sueño de la afición culé, que no es otro que volver a ganar la Champions League . El primer paso hacia la gran final del Metropolitano , fijada para el 5 de…",
+            "titulo": "Deco: \"El Balón de Oro tiene que ser para Lamine, no hay discusión\"",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260910/1004225569/deco-balon-oro-lamine-no-hay-discusion.html",
+            "resumen": "Deco tiene claro quién debe ganar el próximo Balón de Oro. El director deportivo del FC Barcelona defendió abiertamente la candidatura de Lamine Yamal durante su entrevista en RAC 1 y se mostró contundente tanto al valorar sus méritos…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "September 9, 2026",
-    "generada": "13:59",
+    "fecha": "September 10, 2026",
+    "generada": "13:55",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-            "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-            "resumen": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+            "titulo": "Trump says every adult American will get $5,000 if Republicans win midterms",
+            "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
+            "link": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
+            "resumen": "Gen Muhoozi Kainerugaba announces decision to pull out in post on X, citing tensions over ‘Harry-Meghan nonsense’ Uganda is withdrawing from the Duke of Sussex’s Invictus Games, the country’s military chief has said, out of respect for…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "Yemen’s Houthis Seize Strategic Red Sea Port, Officials Say",
+            "link": "https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html",
+            "resumen": "The Iran-backed militia routed Yemeni government forces in Mokha, putting the group in a stronger position to attack ships in a crucial waterway for global trade.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Watch: Is Trump's $5,000 election pledge legal?",
+            "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
             "fuente": "BBC"
           },
           {
             "titulo": "Babies born to anaemic mothers have smaller brains, study finds",
             "link": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
             "resumen": "Key regions of the brain linked to movement, learning and emotions were affected and may lead to cognitive problems Babies born to mothers with anaemia have smaller brains, particularly in key regions linked to movement, learning and the…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "How a Driver’s Sudden Death Triggered Ebola Panic in Congo",
-            "link": "https://www.nytimes.com/2026/09/09/world/africa/ebola-congo-truck-driver.html",
-            "resumen": "When a truck driver unexpectedly collapsed and died in a remote village, frontline medical staff scrambled to safely isolate his body, triggering a standoff.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-            "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
-            "link": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
-            "resumen": "US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of Africa The scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned to levels not…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,34 +189,34 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Learner drivers still forced to wait months to book tests",
-            "link": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The Driver and Vehicle Standards Agency had been given a target to reduce average wait times to seven weeks.",
+            "titulo": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
+            "link": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
             "fuente": "BBC"
           },
           {
-            "titulo": "Measuring the Cost of Trump’s Multiple Wars",
-            "link": "https://www.nytimes.com/2026/09/09/business/dealbook/trump-costs-wars.html",
-            "resumen": "Voters and some Republican lawmakers are growing weary of President Trump’s trade battles and the economic fallout from fighting in the Middle East.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
-            "link": "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&at_campaign=rss",
-            "resumen": "A litre of unleaded now costs 167.17p which is the biggest weekly increase since April, data shows.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Electronic shelf labels likely to cost jobs and drive up grocery prices, US report warns",
-            "link": "https://www.theguardian.com/us-news/2026/sep/09/electronic-shelf-labels-grocery",
-            "resumen": "AFL-CIO calls for ban on such labels to protect consumers and workers from surveillance pricing and job cuts The universal adoption of electronic shelf labels in grocery stores across the US could cost tens of thousands of jobs and…",
+            "titulo": "Trouble in US bond market could mean higher prices are here to stay",
+            "link": "https://www.theguardian.com/business/2026/sep/10/bond-market-higher-costs",
+            "resumen": "Concerns over rising inflation, continuing war with Iran, and the US’s record national debt have shaken the market Americans who have been grappling with the higher cost of living over the last few years now face another issue: trouble in…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Clay, an A.I. Sales Tool Provider, Raises $115 Million",
-            "link": "https://www.nytimes.com/2026/09/09/business/dealbook/clay-ai-fundraising.html",
-            "resumen": "The round was led by Wellington Management, a firm known for investing in start-ups on the path toward potential initial public offerings.",
+            "titulo": "Oil Prices Surge as Fighting in Middle East Escalates",
+            "link": "https://www.nytimes.com/2026/09/10/business/oil-middle-east-iran-war.html",
+            "resumen": "The cost of crude oil hit its highest levels in months, as investors worried about diminishing energy supplies after reports that the Iranian-backed Houthi militia had captured a port city in Yemen.",
             "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Primark finally set to launch home deliveries",
+            "link": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The retailer launches the service four years after making its first foray into internet shopping.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "ECB raises interest rates to 2.5% and warns Iran war is fuelling inflation",
+            "link": "https://www.theguardian.com/business/2026/sep/10/ecb-raises-interest-rates-to-25-amid-warning-iran-war-is-fuelling-inflation",
+            "resumen": "Borrowing costs climb in Europe and oil tops $105 a barrel as bank flags growing price pressures in eurozone Business live – latest updates The European Central Bank has raised interest rates to 2.5% and warned that the risk of higher…",
+            "fuente": "The Guardian"
           }
         ]
       },
@@ -224,34 +224,34 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Watch: Downed trees and flooding as Hurricane Lowell batters western Hawaii",
-            "link": "https://www.bbc.co.uk/news/videos/c2079ne1xx6o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The storm brought damaging winds and torrential rain to parts of the island on Monday and Tuesday, triggering concerns about flash flooding and mudslides.",
+            "titulo": "August joint hottest month on record globally",
+            "link": "https://www.bbc.co.uk/news/videos/ckgw3ngep09o?at_medium=RSS&at_campaign=rss",
+            "resumen": "BBC Weather Presenter Simon King explains the figures.",
             "fuente": "BBC"
           },
           {
-            "titulo": "OpenAI claims to have solved maths problem that stumped humans for decades",
-            "link": "https://www.theguardian.com/science/2026/sep/08/openai-claims-to-have-solved-maths-problem-that-stumped-humans-for-decades",
-            "resumen": "Company behind ChatGPT says 10,000 of its AI systems cracked the Navier-Stokes problem in 88 hours OpenAI claims to have solved a major mathematics problem that has stumped humans for nearly a century after spending millions of dollars on…",
+            "titulo": "Indonesian foragers may have sucked on mind-altering nuts 25,000 years ago, research finds",
+            "link": "https://www.theguardian.com/science/2026/sep/09/indonesian-foragers-mind-altering-nuts-research-finds",
+            "resumen": "Analysis of two skeletons reveals tooth wear and traces of psychoactive substance in what may be earliest known evidence for human drug taking What may be the earliest known evidence for human drug taking has been traced to ancient…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "Scientists Discover the Earliest Evidence of Drug Use in Really Old Teeth",
+            "link": "https://www.nytimes.com/2026/09/09/science/scientists-discover-the-earliest-evidence-of-drug-use-in-really-old-teeth.html",
+            "resumen": "A hunter-gatherer who lived in Indonesia as early as 25,000 years ago may have regularly sucked on betel nuts to release their psychoactive properties.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "‘One of the biggest discoveries in science’: have scientists found dark matter? – podcast",
+            "link": "https://www.theguardian.com/science/audio/2026/sep/10/dark-matter-science-biggest-discovery-podcast",
+            "resumen": "For decades physicists have been puzzling over the enigma of dark matter. We think it makes up 85% of the matter in the universe, but the mysterious substance cannot be seen or detected, and we know about it mainly through observations of…",
             "fuente": "The Guardian"
           },
           {
             "titulo": "Scientists Who Study Sleep and Narcolepsy Win Prestigious Lasker Award",
             "link": "https://www.nytimes.com/2026/09/09/science/narcolepsy-sleep-lasker-award-researchers.html",
-            "resumen": "The two researchers have won a prestigious Lasker Award. Their findings laid the groundwork for a new drug that addresses the sleep disorder’s root cause.",
+            "resumen": "Two researchers who study the debilitating sleep disorder have won a prestigious Lasker Award. Their research in animals laid the groundwork for a new drug that addresses the conditions’s root cause.",
             "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "How cleaning up the air is speeding up global warming - and revealing a bigger problem",
-            "link": "https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss",
-            "resumen": "A curious online row over this summer's heatwaves points to a wider - and worrying - shift in climate science.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Drinking very hot drinks could triple risk of oesophageal cancer, study finds",
-            "link": "https://www.theguardian.com/society/2026/sep/09/hot-drinks-triples-risk-oesophageal-cancer-study",
-            "resumen": "Research finds temperature and amount of hot drinks consumed heightens possibility of developing disease Drinking very hot tea and coffee triples the risk of developing cancer of the gullet, the world’s largest study of the link between…",
-            "fuente": "The Guardian"
           }
         ]
       },
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Kimi Raikkonen's son Robin, 11, signs for Red Bull",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/c3v437155e3o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Robin Raikkonen, the 11-year-old son of former Formula 1 world champion Kimi Raikkonen, signs for Red Bull's driver development programme.",
+            "titulo": "Spurs should be awarded 2016-17 title - Pochettino",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c783ndd7ge2o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Mauricio Pochettino believes Chelsea should be stripped of the Premier League title for 2016-17, when his Tottenham team finished runners-up.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Ben Shelton dethrones Carlos Alcaraz in five-set thriller after latest US Open finish",
-            "link": "https://www.theguardian.com/sport/2026/sep/09/ben-shelton-dethrones-carlos-alcaraz-five-set-thriller-latest-us-open-tennis-finish",
-            "resumen": "Winner claims 6-7 (5), 6-1, 6-3, 1-6, 7-6 (7) victory Epic quarter-final ends after 3.30am in New York As the official 10th day of play in New York moved deeper into the remote hours of the new morning, every passing game imbued Carlos…",
+            "titulo": "Maye’s ‘unacceptable’ trio of interceptions help Seahawks win season opener over Pats",
+            "link": "https://www.theguardian.com/sport/2026/sep/10/seahawks-patriots-drew-lock-sam-darnold-drake-maye",
+            "resumen": "New England Patriots 10-13 Seattle Seahawks Backup quarterback engineers late Seattle rally Sam Darnold exits opening drive with hip injury Backup quarterback Drew Lock led two late scoring drives and the Seattle Seahawks intercepted…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Borthwick's holding pattern extended - with minimal confidence vote",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cy8z5gkenl2o?at_medium=RSS&at_campaign=rss",
-            "resumen": "England head coach Steve Borthwick's extra six months buys time but doesn't indicate reserves of confidence from his Rugby Football Union employers.",
+            "titulo": "Top four seeds in historic semi-final line-up",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/cx2z3zl90eno?at_medium=RSS&at_campaign=rss",
+            "resumen": "For the first time since 1975, the top four seeds in the women's US Open singles draw have reached the semi-finals.",
             "fuente": "BBC"
           },
           {
-            "titulo": "NFL 2026 season predictions: which teams can bring down the Rams juggernaut?",
-            "link": "https://www.theguardian.com/sport/2026/sep/09/nfl-2026-season-predictions-which-teams-can-bring-down-the-rams-juggernaut",
-            "resumen": "The new season kicks off on Wednesday night. Our writers have their say on the MVP, rookies to watch and the disasters waiting to happen Quarterbacks living under center. The NFL has developed into a shotgun league, where most…",
+            "titulo": "Angel Reese and Caitlin Clark celebrate their ‘chemistry’ as USA advance to Fiba World Cup semis",
+            "link": "https://www.theguardian.com/sport/2026/sep/10/angel-reese-caitlin-clark-fiba-world-cup-basketball-usa-hungary",
+            "resumen": "Fiba World Cup: USA 108-56 Hungary Reese and Clark have been portrayed as fierce rivals Angel Reese and Caitlin Clark’ s interactions are a subplot of the women’s Fiba World Cup, the WNBA season and if you spend enough time on social…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "'Embarrassing' Pakistan break record in innings to forget",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c62mn0zn657o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The only thing gloomier than the leaden skies at lunch on day of the third Test at Edgbaston will be the mood in the Pakistan dressing room as things went from bad to worse.",
+            "titulo": "'Get a life' - non-league club condemn man impersonating manager",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c0re0gevpnxo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
             "fuente": "BBC"
           }
         ]

@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "9 de septiembre de 2026",
-  "generada": "13:59",
+  "fecha": "10 de septiembre de 2026",
+  "generada": "13:55",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "El primer ministro británico advirtió que su Gobierno será \"implacable\" en la defensa de la soberanía de las Islas Malvinas",
-          "link": "https://www.clarin.com/politica/primer-ministro-britanico-advirtio-gobierno-implacable-defensa-soberania-islas-malvinas_0_RP0CFc1CLo.html",
-          "resumen": "Andy Burnham respondió ante la Cámara de los Comunes luego de la amenaza de Donald Trump de quitarle el apoyo y de las sanciones anunciadas por Javier Milei. \"Siempre respetaremos los derechos de los habitantes de las Malvinas que…",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: en medio de sus negociaciones con gobernadores, Santilli hablará hoy ante empresarios del campo",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-medio-negociaciones-gobernadores-santilli-hablara-hoy-empresarios-campo_0_uuyIvWgJ4l.html",
+          "resumen": "El jefe de Gabinete brindará este jueves por la tarde el discurso de cierre del AgriBusiness Forum 2026 de AmCham. Seguí todas las novedades sobre las medidas del gobierno de Javier Milei en la cobertura minuto a minuto de Clarín.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: “Obvio que odia a nuestro gobierno”: el Presidente apuntó contra una periodista",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-apunto-contra-una-periodista-obvio-que-odia-a-nid09092026/",
-          "resumen": "El minuto a minuto de las decisiones del jefe de Estado, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "titulo": "El PJ cordobés toma distancia del rearmado nacional y relativiza la confluencia en el homenaje a De la Sota",
+          "link": "https://www.lanacion.com.ar/politica/el-pj-cordobes-toma-distancia-del-rearmado-nacional-y-relativiza-la-confluencia-en-el-homenaje-a-de-nid10092026/",
+          "resumen": "La imagen de Schiaretti, Massa, Llaryora y un hombre clave de Kicillof juntos, en un homenaje a De la Sota, provocó distintas lecturas y se especuló con un posible acercamiento ante las elecciones del año próximo",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La Fiscalía apeló el fallo que suspendió la baja de la edad de imputabilidad y acusó a la jueza Pascual de avanzar sobre facultades del Congreso",
-          "link": "https://www.infobae.com/politica/2026/09/09/la-fiscalia-apelo-el-fallo-que-suspendio-la-baja-de-la-edad-de-imputabilidad-y-acuso-a-la-jueza-pascual-de-avanzar-sobre-facultades-del-congreso/",
-          "resumen": "La apelación contra la cautelar que frenó por 60 días la aplicación de la Ley 27.801 en Buenos Aires sostiene que no existe un caso concreto que justifique el hábeas corpus y cuestiona que la jueza haya suspendido una norma nacional sin…",
+          "titulo": "La crítica de Santilli a Kicillof por el Régimen Penal Juvenil anticipó la campaña 2027: las tensiones en la negociación LLA-PRO",
+          "link": "https://www.infobae.com/politica/2026/09/09/la-critica-de-santilli-a-kicillof-por-el-regimen-penal-juvenil-anticipo-la-campana-2027-las-tensiones-en-la-negociacion-lla-pro/",
+          "resumen": "El Jefe de Gabinete se refirió esta semana al fallo que suspendió la baja de la edad de imputabilidad y apuntó contra la política provincial sobre seguridad. Los movimientos que empujan su candidatura a la gobernación",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Yategate: el nuevo juez de la causa ordenó una batería de medidas sobre los bienes de Martín Insaurralde y Jesica Cirio",
-          "link": "https://www.clarin.com/politica/yategate-nuevo-juez-causa-ordeno-bateria-medidas-bienes-martin-insaurralde-jesica-cirio_0_QFvZqOjXA5.html",
-          "resumen": "En una resolución, Rodríguez Ponte solicitó datos a registros inmuebles, telefónicas, escribanos y contadores. También pidió peritar los nuevos videos en que se ve a la modelo contando miles de dólares en un vestidor que reveló Clarín.",
+          "titulo": "Los tres movimientos que sacudieron la interna del peronismo",
+          "link": "https://www.clarin.com/politica/movimientos-sacudieron-interna-peronismo_0_haNOPChugm.html",
+          "resumen": "Un homenaje a José de la Sota reunió a Llaryora y Schiaretti con Massa, Zamora y Brito. El tigrense cenó con intendentes bonaerenses y Kicillof viajó a Misiones, la sexta provincia que visita en su plan 2027.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Visita del Papa León XIV a la Argentina: qué se sabe de la misa central y toda la agenda oficial",
-          "link": "https://www.lanacion.com.ar/politica/visita-del-papa-leon-xiv-a-la-argentina-que-se-sabe-de-la-misa-central-y-toda-la-agenda-oficial-nid07092026/",
-          "resumen": "El Pontífice estará en el país del 8 al 11 de noviembre; se proyectan celebraciones en Palermo, Luján y Córdoba, además de visitas a la cárcel de Devoto y al Cottolengo de Claypole; el programa definitivo será anunciado por la Santa Sede",
+          "titulo": "Javier Milei y sus medidas, en vivo: “Fenómeno barrial” y “extraordinario”, la reacción del Presidente ante mensajes de dos funcionarios de Trump",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-fenomeno-barrial-y-extraordinario-la-reaccion-del-presidente-ante-nid10092026/",
+          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "\"Mafias organizadas\": productores en alerta por los casos de abigeato en la frontera con Brasil",
-          "link": "https://www.clarin.com/rural/mafias-organizadas-productores-alerta-casos-abigeato-frontera-brasil_0_ZmYmoJcrrM.html",
-          "resumen": "Ganaderos correntinos aseguraron que en los departamentos de Alvear y Santo Tomé continúan los hechos delictivos, sobre todo en los campos sobre el río Uruguay y linderos con el país vecino. La semana pasada hubo un encuentro entre la…",
+          "titulo": "Jan de Nul toma el control de la Hidrovía y baja 13,5% la tarifa de peaje",
+          "link": "https://www.clarin.com/economia/jan-nul-toma-control-hidrovia-baja-135-tarifa-peaje_0_nQM3OsLKpc.html",
+          "resumen": "La sociedad Vía Navegable Argentina (VNA), conformada por Jan de Nul y Servimagnus, quedó desde hoy formalmente a cargo de la Hidrovía. Así, la tarifa de peaje de la vía fluvial bajará a US$ 3,80 por tonelada de registro neto.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Súper Niño: anticipan cómo serán las lluvias y las temperaturas para un momento clave del verano",
-          "link": "https://www.lanacion.com.ar/economia/campo/super-nino-anticipan-como-seran-las-lluvias-y-las-temperaturas-para-un-momento-clave-del-verano-nid09092026/",
-          "resumen": "Según un reporte de Sobre La Tierra-Fauba, hay un 90% de probabilidad de que el evento Niño sea fuerte en la primavera y un 70% de que siga así en el verano",
+          "titulo": "Súper Niño: el Gobierno recomendó qué hacer ante los riesgos de un posible fenómeno muy intenso",
+          "link": "https://www.lanacion.com.ar/economia/campo/super-nino-el-gobierno-recomendo-que-hacer-ante-los-riesgos-de-un-posible-fenomeno-muy-intenso-nid10092026/",
+          "resumen": "Agricultura dio pautas para el manejo con la hacienda",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La inflación de China subió al 0,8% interanual en agosto y rompió la tendencia de desaceleración",
-          "link": "https://www.ambito.com/economia/la-inflacion-china-subio-al-08-interanual-agosto-y-rompio-la-tendencia-desaceleracion-n6320184",
-          "resumen": "El IPC chino repuntó un 0,8% interanual en agosto y quebró tres meses de desaceleración, en una jornada donde la inflación mayorista también aceleró por encima de lo previsto hasta el 3,8%. Los detalles, en la nota.",
+          "titulo": "Inflación: en qué provincias llenar el changuito del supermercado ya cuesta más de $1 millón",
+          "link": "https://www.ambito.com/economia/inflacion-que-provincias-llenar-el-changuito-del-supermercado-ya-cuesta-mas-1-millon-n6320689",
+          "resumen": "Un relevamiento provincial sobre la canasta representativa de la clase media expone la disparidad de precios en alimentos y su fuerte impacto en los salarios. Los detalles, en la nota.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Euro hoy en Venezuela: precio y cotización de la divisa este miércoles 9 de septiembre de 2026",
-          "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-miercoles-9-de-septiembre-de-2026_0_GmQoEyN8T7.html",
-          "resumen": "Mirá la cotización del euro en Venezuela, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
+          "titulo": "El 35% de las importaciones del RIGI llegan desde China y agosto marcó un récord",
+          "link": "https://www.clarin.com/energia-y-mineria/35-importaciones-rigi-llegan-china-agosto-marco-record_0_i05FW5udhz.html",
+          "resumen": "Un informe de EcoGo revela que el gigante asiático es el principal proveedor de las inversiones energéticas y mineras que cuentan con los incentivos del Gobierno. Estados Unidos se ubica segundo. Vaca Muerta Sur lidera las compras externas.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Más que se duplicó en dos años la cantidad de empresas en mora y el golpe se concentra en las más chicas",
-          "link": "https://www.lanacion.com.ar/economia/mas-que-se-duplico-en-dos-anos-la-cantidad-de-empresas-en-mora-y-el-golpe-se-concentra-en-las-mas-nid09092026/",
-          "resumen": "Un informe de Equilibra muestra que la cantidad de firmas con atrasos de más de 90 días pasó de 16.212 a 37.482 en 24 meses; los préstamos de menos de $5 millones alcanzan el 9,3% y bajan al 1,8% en los mayores a $3800 millones",
+          "titulo": "Inflación de agosto: cuál fue el IPC acumulado y qué proyectan las consultoras para este año",
+          "link": "https://www.lanacion.com.ar/economia/inflacion-de-agosto-cual-fue-el-ipc-acumulado-y-que-proyectan-las-consultoras-para-este-ano-nid10092026/",
+          "resumen": "La cifra se conocerá esta tarde; en julio, el alza fue del 2,1%, con una variación interanual del 19,3%; el análisis y las proyecciones de las principales consultoras",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Gran Bretaña contesta las críticas y defiende las sanciones contra colonos judíos: \"No vamos a permanecer con los brazos cruzados\"",
-          "link": "https://www.clarin.com/mundo/gran-bretana-contesta-criticas-defiende-sanciones-colonos-judios-vamos-permanecer-brazos-cruzados_0_4dIXCFzBGi.html",
-          "resumen": "El primer ministro Andy Burnham y su canciller afirmaron este miércoles que las represalias contra los asentamientos israelíes en Cisjordania \"son lo correcto\". \"El sufrimiento del pueblo palestino es una cicatriz en la conciencia del…",
+          "titulo": "Las misteriosas últimas horas de un conductor ponen al descubierto los profundos temores del Congo ante el ébola",
+          "link": "https://www.clarin.com/new-york-times-international-weekly/misteriosas-ultimas-horas-conductor-ponen-descubierto-profundos-temores-congo-ebola_0_uX5uvIOxU6.html",
+          "resumen": "Cuando un camionero sufrió un colapso repentino y falleció en un pueblo remoto, el personal médico de primera línea se apresuró a aislar su cadáver de forma segura, lo que provocó un enfrentamiento.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Juicio por el crimen de Federico Martín Aramburú, EN VIVO: qué se sabe de los acusados por el asesinato a sangre fría en París del expuma",
-          "link": "https://www.lanacion.com.ar/el-mundo/juicio-por-el-crimen-de-federico-martin-aramburu-en-vivo-que-se-sabe-de-los-acusados-por-el-nid09092026/",
-          "resumen": "El deportista fue atacado a disparos en la capital francesa en marzo de 2022; se conocieron videos de los momentos previos al asesinato; este lunes comenzó el juicio contra uno de los acusados",
+          "titulo": "Juicio por el crimen de Federico Martín Aramburú: qué se sabe de los acusados por el asesinato a sangre fría en París del expuma",
+          "link": "https://www.lanacion.com.ar/el-mundo/juicio-por-el-crimen-de-federico-martin-aramburu-que-se-sabe-de-los-acusados-por-el-asesinato-a-nid10092026/",
+          "resumen": "El deportista fue atacado a disparos en la capital francesa en marzo de 2022; se conocieron videos de los momentos previos al asesinato; este jueves comenzó la cuarta audiencia",
           "fuente": "La Nación"
         },
         {
-          "titulo": "EE.UU. e Israel: elecciones en dos democracias en juego",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/eeuu-israel-elecciones-democracias-juego_0_As9zNYlXKF.html",
-          "resumen": "Ambos países celebran elecciones en otoño, con una semana de diferencia entre ambas. El futuro de sus democracias pende de un hilo.",
+          "titulo": "La vida que renació de las cenizas de la Zona Cero",
+          "link": "https://www.clarin.com/new-york-times-international-weekly/vida-renacio-cenizas-zona-cero_0_05KnRLZb9Y.html",
+          "resumen": "25 años después del 11-S, la vida ha demostrado ser más fuerte que la muerte.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Más de 1000 vuelos cancelados en Reino Unido, crece el misterio por la falla y piden la cabeza del jefe del control aéreo",
-          "link": "https://www.lanacion.com.ar/el-mundo/mas-de-1000-vuelos-cancelados-en-reino-unido-crece-el-misterio-por-la-falla-y-piden-la-cabeza-del-nid09092026/",
-          "resumen": "Las operaciones comenzaron a normalizarse, pero cientos de servicios siguen afectados mientras las autoridades descartan por ahora un ciberataque y crece la presión sobre el responsable del sistema",
+          "titulo": "Los rebeldes de Yemen toman un puerto estratégico y enciende nuevas alarmas por el suministro de petróleo",
+          "link": "https://www.lanacion.com.ar/el-mundo/los-rebeldes-de-yemen-toman-un-puerto-estrategico-y-enciende-nuevas-alarmas-por-el-suministro-de-nid10092026/",
+          "resumen": "Los hutíes ganaron más capacidad de presión sobre el estrecho Bab el-Mandeb, lo que supone una nueva amenaza para el suministro energético mundial",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El petróleo volvió a superar la barrera de los 100 dólares por barril por la escalada del conflicto entre Estados Unidos e Irán",
-          "link": "https://www.clarin.com/mundo/petroleo-volvio-superar-barrera-100-dolares-barril-escalada-conflicto-estados-unidos-iran_0_OIvVTTl24s.html",
-          "resumen": "El crudo Brent subió por los recientes ataques instalaciones petroleras y barcos en Medio Oriente. Es la primera vez desde julio que la cotización supera los 100 dólares.",
+          "titulo": "Editorial de The Times: Trump sabotea las elecciones de medio término. La Corte Suprema debe frenarlo",
+          "link": "https://www.clarin.com/new-york-times-international-weekly/editorial-the-times-trump-sabotea-elecciones-medio-termino-corte-suprema-debe-frenarlo_0_acJLK4cxFu.html",
+          "resumen": "El país ha creado un sistema en el que los estadounidenses pueden confiar. El presidente Trump está intentando destruirlo.",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Ben Shelton le cortó la racha a Carlos Alcaraz en el US Open tras una batalla récord que se estiró hasta las 3.30 de la mañana en Nueva York",
-          "link": "https://www.clarin.com/deportes/ben-shelton-corto-racha-carlos-alcaraz-us-open-batalla-record-estiro-330-manana-nueva-york_0_T3ESbKrKWi.html",
-          "resumen": "El estadounidense se metió en las semifinales bajando al vigente campeón. El partido duró cuatro horas y 28 minutos y fue de los más emocionantes del año. Carlitos volvía de una lesión y llevaba 18 victorias consecutivas en Flushing…",
+          "titulo": "\"¿Quién sos, bobo?\": el tenso cruce entre De Paul y Lewandoski en el empate entre Inter Miami y Chicago Fire",
+          "link": "https://www.clarin.com/deportes/sos-bobo-tenso-cruce-paul-lewandoski-empate-inter-miami-chicago-fire_0_BfVpmnUzms.html",
+          "resumen": "El argentino encaró al polaco en los minutos finales del partido para defender a un compañero del Inter Miami.",
           "fuente": "Clarín"
         },
         {
           "titulo": "US Open 2026 hoy: partidos y cómo está el cuadro",
-          "link": "https://www.lanacion.com.ar/deportes/tenis/us-open-2026-hoy-partidos-y-como-esta-el-cuadro-nid09092026/",
-          "resumen": "En la undécima jornada en Flushing Meadows se cierran los cuartos de final de los torneos masculino y femenino; juegan Alexander Zverev y Elena Rybakina",
+          "link": "https://www.lanacion.com.ar/deportes/tenis/us-open-2026-hoy-partidos-y-como-esta-el-cuadro-nid10092026/",
+          "resumen": "En la duodécima jornada en Flushing Meadows se desarrollan las semifinales del torneo femenino con las cuatro mejores preclasificadas",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Umtiti contra Mbappé y el Balón de Oro: \"No le corresponde decidir quién lo gana\" y \"es muy perjudicial para el fútbol\"",
-          "link": "https://www.ole.com.ar/futbol-internacional/espana/umtiti-critica-mbappekylian-balon-oro-real-madrid-defensor_0_Z75zWGOUUt.html",
-          "resumen": "El ex defensor francés cuestionó la postura de su compatriota y puso en duda el peso que tienen los números individuales en la elección: \"No se trata solo de estadísticas\".",
+          "titulo": "Es la hora de rotar: la encrucijada del Vasco para elegir qué competencia prioriza Boca",
+          "link": "https://www.ole.com.ar/boca-juniors/boca-rodolfoarruabarrena-copasudamericana-copaargentina-centralcordoba-torneoclausura-sanpablo-racing-tablaanual_0_w6YSYAR9Cc.html",
+          "resumen": "Con la nueva seguidilla de partidos y de cara al choque decisivo en San Pablo, el partido del viernes podría ser testigo de otra rotación masiva.",
           "fuente": "Olé"
         },
         {
-          "titulo": "La NFL 2026 comienza la temporada más global de su historia: ocho países, dos debutantes, el Maracaná, ¿y para cuándo Argentina?",
-          "link": "https://www.clarin.com/deportes/nfl-2026-comienza-temporada-global-historia-paises-debutantes-maracana-argentina_0_kV0ZTJek8j.html",
-          "resumen": "Además de partidos en Estados Unidos, se jugará en México, Inglaterra, Alemania, Brasil, España, Australia y Francia. En Buenos Aires los Dolphins de Miami son locales y harán una watch party para el kickoff de este domingo. La acción…",
+          "titulo": "El GP de Madrid, listo para la Fórmula 1: un circuito \"divertido e intenso\", quejas de vecinos por ruidos y la espera por Franco Colapinto",
+          "link": "https://www.clarin.com/deportes/gp-madrid-listo-formula-1-circuito-divertido-intenso-quejas-vecinos-ruidos-espera-franco-colapinto_0_VuRUYuxnEQ.html",
+          "resumen": "La máxima categoría desembarca por primera vez en la capital española y genera expectativa, pero también polémica. El trazado urbano-semiurbano, las comparaciones inevitables con Barcelona y el desafío de construir una identidad propia.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Lionel Messi figura entre los 30 nominados para el Balón de Oro 2026",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/lionel-messi-figura-entre-los-30-nominados-para-el-balon-de-oro-2026-nid08092026/",
-          "resumen": "El rosarino, que acaba de renunciar a la selección argentina después de una etapa brillante, luchaba por su ganar su novena distinción; Lautaro Martínez también está en la lista",
+          "titulo": "Mauricio Pochettino fue contundente en su pedido para que despojen a Chelsea de su título de la temporada 2016/17",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/mauricio-pochettino-fue-contundente-en-su-pedido-para-que-despojen-a-chelsea-de-su-titulo-de-la-nid10092026/",
+          "resumen": "El DT argentino aseguró que deberían darle la corona a Tottenham",
           "fuente": "La Nación"
         }
       ]
