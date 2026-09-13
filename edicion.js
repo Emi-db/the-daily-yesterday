@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "12 de septiembre de 2026",
-  "generada": "13:12",
+  "fecha": "13 de septiembre de 2026",
+  "generada": "13:57",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: Bullrich se mostró preocupada por el ritmo de la recuperación económica y pidió una baja de impuestos \"para todos\"",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-bullrich-mostro-preocupada-ritmo-recuperacion-economica-pidio-baja-impuestos_0_VtA67i4RrG.html",
-          "resumen": "\"Hay un montón de empresas a las que les cuesta competir porque Argentina sigue siendo un país con un costo alto”, advirtió la jefa del bloque libertario en el Senado durante una charla en la Universidad de San Andrés. Seguí todas las…",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: \"Debe ser difícil aceptar que has sido engañado por un chanta\", la ironía del Presidente a su detractores por la reactivación económica",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-debe-dificil-aceptar-enganado-chanta-ironia-presidente-detractores-reactivacion-economica_0_xOyx2lodCn.html",
+          "resumen": "El mandatario compartió en redes el video de un influencer libertario en el que se veía la Avenida Corrientes repleta. En su mensaje, Milei apuntó contra quienes sostienen que \"la gente no llega a fin de mes\".",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Claudio “Chiqui” Tapia corrigió de apuro su declaración jurada porque se había olvidado de incluir casi 1000 millones de pesos",
-          "link": "https://www.lanacion.com.ar/politica/claudio-chiqui-tapia-corrigio-de-apuro-su-declaracion-jurada-porque-se-habia-olvidado-de-incluir-nid11092026/",
-          "resumen": "El presidente de la AFA rectificó la información sobre su patrimonio horas antes de que el fiscal Pollicita lo imputara por enriquecimiento ilícito; había dicho que no tenía plata en efectivo ni depósitos bancarios y ahora los sumó",
+          "titulo": "Elecciones 2027: ¿cuándo son las próximas elecciones presidenciales en la Argentina?",
+          "link": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-en-la-argentina-y-que-se-elige-nid25082026/",
+          "resumen": "A continuación, conocé las fechas para emitir el sufragio; cuáles son las fechas clave y qué provincias eligen gobernador; descubrí los detalles",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La reunión del Papa y la CGT en la Argentina ya está definida: los detalles del encuentro y la previa en el Vaticano",
-          "link": "https://www.infobae.com/politica/2026/09/12/la-reunion-del-papa-y-la-cgt-en-la-argentina-ya-esta-definida-los-detalles-del-encuentro-y-la-previa-en-el-vaticano/",
-          "resumen": "Será el lunes 9 de noviembre en el campus de la UCA. Este sábado los dirigentes cegetistas Gerardo Martínez y Cristian Jerónimo lo verán en la Santa Sede y le anticiparán las problemáticas de los trabajadores locales",
+          "titulo": "Uno por uno, quiénes son los gobernadores que ingresaron a la casa Rosada en lo que va de este año y los que nunca fueron",
+          "link": "https://www.infobae.com/politica/2026/09/13/uno-por-uno-quienes-son-los-gobernadores-que-ingresaron-a-la-casa-rosada-en-lo-que-va-de-este-ano-y-los-que-nunca-fueron/",
+          "resumen": "Infobae accedió a los registros a través de un pedido de Acceso a la Información. A quiénes fueron a ver y cómo es su vínculo con el Gobierno",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Malvinas: Trump advirtió que otro conflicto entre Argentina y Reino Unido sería un \"desastre potencial\"",
-          "link": "https://www.clarin.com/politica/malvinas-trump-advirtio-conflicto-argentina-reino-unido-desastre-potencial_0_XLsIRAXcg0.html",
-          "resumen": "El presidente de Estados Unidos se mostró confiado de que sería capaz de \"resolver\" la disputa entre ambos países en caso de que pidieran su ayuda. También que las Malvinas son \"muy interesantes\" y actualmente hay dos países que están…",
+          "titulo": "El diputado Aldo Leiva sufrió un violento accidente en Chaco: chocó con un camión y el frente de su auto quedó destruido",
+          "link": "https://www.clarin.com/politica/diputado-aldo-leiva-sufrio-violento-accidente-chaco-choco-camion-frente-auto-quedo-destruido_0_aywhuGSV3u.html",
+          "resumen": "El legislador del peronismo protagonizó un siniestro en la ruta nacional 11, al norte de la ciudad de Resistencia. \"Me encuentro bien y estoy realizándome los chequeos correspondientes\", contó en sus redes sociales.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Milei participó en un acto por el Día del Maestro: “La Argentina que queremos se construye en las aulas”",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-tras-la-inflacion-de-agosto-el-presidente-pidio-que-confien-nid11092026/",
-          "resumen": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
-          "fuente": "La Nación"
+          "titulo": "Milei y dos eventos de la “batalla cultural” en Estados Unidos, con el reclamo por Malvinas de fondo",
+          "link": "https://www.infobae.com/politica/2026/09/13/milei-y-dos-eventos-de-la-batalla-cultural-en-estados-unidos-con-el-reclamo-por-malvinas-de-fondo/",
+          "resumen": "Uno, en Washington, es organizado por La Derecha Diario post salida de Cerimedo. Al otro, en Nueva York, fue invitado a instancias de una importante fundación norteamericana, para aprovechar su visita por la Asamblea de la ONU",
+          "fuente": "Infobae"
         }
       ]
     },
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Euro hoy en Venezuela: precio y cotización de la divisa este sábado 12 de septiembre de 2026",
-          "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-sabado-12-de-septiembre-de-2026_0_V1d0TiqJct.html",
+          "titulo": "Euro hoy en Venezuela: precio y cotización de la divisa este domingo 13 de septiembre de 2026",
+          "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-domingo-13-de-septiembre-de-2026_0_hUev7SxG3b.html",
           "resumen": "Mirá la cotización del euro en Venezuela, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Cambió el mercado: el negocio de bajo perfil que multiplicó por 20 sus exportaciones y puso al país en un ranking mundial por EE.UU.",
-          "link": "https://www.lanacion.com.ar/economia/campo/cambio-el-mercado-el-negocio-de-bajo-perfil-que-multiplico-por-20-sus-exportaciones-y-puso-al-pais-nid12092026/",
-          "resumen": "Las exportaciones argentinas de sebo bovino superaron las 154.000 toneladas en 2025 y ubicaron al país como el cuarto proveedor global; la creciente demanda de Estados Unidos para producir diésel renovable fue clave para transformar la…",
+          "titulo": "Cuándo es el Día del Empleado de Comercio 2026",
+          "link": "https://www.lanacion.com.ar/economia/cuando-es-el-dia-del-empleado-de-comercio-2026-nid19082026/",
+          "resumen": "La fecha es un día de descanso para los trabajadores del sector; cómo cae este año y por qué se traslada; descubrí los detalles",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Créditos hipotecarios UVA: cómo acceder a la nueva tasa del 6,5% para comprar la primera vivienda en CABA",
-          "link": "https://www.ambito.com/economia/creditos-hipotecarios-uva-como-acceder-la-nueva-tasa-del-65-comprar-la-primera-vivienda-caba-n6321489",
-          "resumen": "El Banco Ciudad lanzó una tasa preferencial del 6,5% para comprar propiedades en la Ciudad de Buenos Aires. Ofrece hasta $150 millones, un plazo máximo de 25 años y financia hasta el 75% del inmueble.",
+          "titulo": "Créditos hipotecarios UVA: ¿cuánto hay que ganar para comprar una casa de US$100.000?",
+          "link": "https://www.ambito.com/economia/creditos-hipotecarios-uva-cuanto-hay-que-ganar-comprar-una-casa-us100000-n6320772",
+          "resumen": "Las entidades exigen distintos niveles de ingresos y las diferencias en la primera cuota pueden llegar a superar el millón de pesos.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "A cuánto abre el dólar el lunes 14 de septiembre",
-          "link": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-el-lunes-14-de-septiembre-nid12092026/",
-          "resumen": "La cotización de la divisa oficial abre con los mismos números que en su último día de cierre; así se posicionaron el dólar oficial, el paralelo y los financieros",
+          "titulo": "Esta es la diferencia entre crédito y endeudamiento y por qué es importante conocer los conceptos antes de asumir una deuda",
+          "link": "https://www.lanacion.com.ar/economia/esta-es-la-diferencia-entre-credito-y-endeudamiento-y-por-que-es-importante-conocer-los-conceptos-nid09092026/",
+          "resumen": "La definición de ambos conceptos clarifica la situación financiera de cada hogar; cuáles son las claves que hay que considerar antes de asumir una deuda; descubrí los detalles",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Conocés el plazo fijo, pero ¿conocés el plazo fijo UVA? La alternativa que protege el capital ante la inflación",
-          "link": "https://www.ambito.com/economia/conoces-el-plazo-fijo-pero-conoces-el-plazo-fijo-uva-la-alternativa-que-protege-el-capital-la-inflacion-n6321187",
-          "resumen": "Este tipo de depósitos se actualizan por CER y permiten mantener el valor del dinero frente a la suba de precios.",
+          "titulo": "De fábricas a chatarra: advierten que podrían cerrar más de 3.000 industrias este año",
+          "link": "https://www.ambito.com/economia/de-fabricas-chatarra-advierten-que-podrian-cerrar-mas-3000-industrias-este-ano-n6321457",
+          "resumen": "Por la falta de demanda, las máquinas se venden como chatarra. El empleo sigue en crisis y los trabajos que promete el RIGI no compensan ni un tercio de la pérdida.",
           "fuente": "Ámbito"
         }
       ]
@@ -77,34 +77,34 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "\"Un segundo avión impactó la segunda torre\": la pintura con la que George W. Bush recreó el momento en que le avisaron del 11S",
-          "link": "https://www.clarin.com/mundo/segundo-avion-impacto-segunda-torre-pintura-george-w-bush-recreo-momento-avisaron-11s_0_UeQllRCBAQ.html",
-          "resumen": "El expresidente pintó cuatro obras para conmemorar el 25 aniversario de la caída de las Torres Gemelas. Las pinturas serán exhibidas durante un mes en el George W. Bush Presidential Center de Texas. Quién era el asesor que le dio la…",
+          "titulo": "Renunció el director de la Casa Argentina en París, acorralado por las denuncias en su contra",
+          "link": "https://www.clarin.com/politica/renuncio-director-casa-argentina-paris-acorralado-denuncias_0_M3wjWfFl70.html",
+          "resumen": "Santiago María Guillermo Adolfo Muzio retiró una placa que recordaba a los desaparecidos en la última Dictadura y fue acusado de echar a estudiantes por cuestiones ideológicas. Además hay sospechas sobre las obras que realizó dentro de la…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Guerra en Ucrania: investigan el reclutamiento ilegal de más de 300 peruanos para luchar en el frente ruso",
-          "link": "https://www.clarin.com/mundo/guerra-ucrania-investigan-reclutamiento-ilegal-300-peruanos-luchar-frente-ruso_0_AJUy6pJhqZ.html",
-          "resumen": "El Ministerio Público del país andino está tras los pasos de una red de trata que engañaba a hombres para enviarlos a las filas rusas en el frente de batalla. La Cancillería denuncia que serían más de 450 los reclutados, de los cuales 114…",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "¿El 11-S fue el principio del fin de la supremacía indiscutida de EE.UU.? El debate que dejó el aniversario",
-          "link": "https://www.lanacion.com.ar/el-mundo/el-11-s-fue-el-principio-del-fin-de-la-supremacia-indiscutida-de-eeuu-el-debate-que-dejo-el-nid12092026/",
-          "resumen": "Los atentados ocurrieron cuando Washington ostentaba el mayor poder relativo de su historia; las guerras de Afganistán e Irak, el ascenso de China y el deterioro de sus alianzas debilitaron su posición dominante, aunque sigue siendo la…",
+          "titulo": "Trump critica las “fuerzas negativas” que quieren ralentizar la IA",
+          "link": "https://www.lanacion.com.ar/el-mundo/trump-critica-las-fuerzas-negativas-que-quieren-ralentizar-la-ia-nid13092026/",
+          "resumen": "Las declaraciones del presidente de Estados Unidos llegan en respuesta a varias advertencias sobre el uso de la Inteligencia Artificial que surgieron desde la propia industria",
           "fuente": "La Nación"
         },
         {
-          "titulo": "EE.UU. conmemora los 25 años de los ataques del 11-S con homenajes a las víctimas, tensiones y un mensaje de Trump contra Irán",
-          "link": "https://www.clarin.com/mundo/eeuu-conmemora-25-anos-ataques-11-s-homenajes-victimas-tensiones-mensaje-trump-iran_0_KrQvkEwWx8.html",
-          "resumen": "En New York se reunieron todos los expresidentes vivos, pero el jefe de la Casa Blanca prefirió asistir a la ceremonia en el Pentágono. Dijo que el régimen iraní \"es el principal patrocinador del terrorismo mundial\".",
+          "titulo": "Ejercicios en la selva: Argentina, Chile, Estados Unidos y Perú realizan un entrenamiento militar conjunto",
+          "link": "https://www.clarin.com/mundo/ejercicios-selva-argentina-chile-estados-unidos-peru-realizan-entrenamiento-militar-conjunto_0_UAixPOjDmH.html",
+          "resumen": "Las maniobras 'Vanguardia Sur 2026' se desarrollan cerca de la ciudad de Tarapoto hasta el 18 de septiembre. Son pruebas de supervivencia, patrullajes extremos y cruce de ríos. El Ministerio de Defensa peruano dijo que buscan fortalecer…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Un geriátrico en Chile sufrió un incendio: hay al menos 16 muertos",
-          "link": "https://www.lanacion.com.ar/el-mundo/un-geriatrico-en-chile-sufrio-un-incendio-hay-al-menos-16-muertos-nid12092026/",
-          "resumen": "El trágico episodio tuvo lugar en Pitrufquén, en la región de La Araucanía; debido a la intensidad del fuego 10 personas fueron evacuadas",
+          "titulo": "Elecciones: cuándo se vota para presidente en Brasil 2026",
+          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-cuando-se-vota-para-presidente-en-brasil-2026-nid05082026/",
+          "resumen": "Los ciudadanos habilitados para votar elegirán a las máximas autoridades del país vecino; descubrí los detalles",
           "fuente": "La Nación"
+        },
+        {
+          "titulo": "Ucrania y Rusia protagonizaron la primera batalla naval entre drones acuáticos: cómo fue el enfrentamiento en el mar Negro",
+          "link": "https://www.clarin.com/mundo/ucrania-rusia-protagonizaron-primera-batalla-naval-drones-acuaticos-enfrentamiento-mar-negro_0_dX2qlW6Hoq.html",
+          "resumen": "El Sargan 3000 ucraniano opera como una plataforma de combate flotante desde la que se disparan de forma remota ametralladoras y misiles. Ucrania ha comenzado a utilizar cada vez más drones marítimos en sus operativos en el mar Negro y el…",
+          "fuente": "Clarín"
         }
       ]
     },
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Estudiantes vs Platense por el Torneo Clausura 2026, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
-          "link": "https://www.clarin.com/deportes/estudiantes-vs-platense-torneo-clausura-2026-vivo-hora-juegan-formaciones-ver-partido_0_8MhGKuPIcQ.html",
-          "resumen": "Juegan en el Estadio Jorge Luis Hirschi, por la novena fecha. Con el arbitraje de Maximiliano Macheroni y Héctor Paletta en el VAR. Por ESPN Premium.",
+          "titulo": "Manchester United vs Manchester City, por la Premier League 2026/27, EN VIVO: a qué hora juegan, formaciones y cómo ver el clásico",
+          "link": "https://www.clarin.com/deportes/manchester-united-vs-manchester-city-premier-league-202627-vivo-hora-juegan-formaciones-ver-clasico_0_OBcY3uTwfk.html",
+          "resumen": "Los Diablos Rojos, con Lisandro Martínez como pieza clave, reciben al equipo de Enzo Maresca este domingo desde las 12.30 de la Argentina en Old Trafford. Enzo Fernández, una de las nuevas figuras del City, será uno de los grandes…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Franco Colapinto en la Fórmula 1: el argentino fue 11° en un entrenamiento marcado por los accidentes",
-          "link": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-la-formula-1-en-vivo-nid12092026/",
-          "resumen": "Los autos más dañados fueron los de Hamilton (Ferrari) y Bearman (Haas); la clasificación será a las 11, hora de Argentina",
+          "titulo": "La gran largada de Franco Colapinto en el GP de España: dos autos superados en los primeros metros",
+          "link": "https://www.lanacion.com.ar/deportes/automovilismo/la-gran-largada-de-franco-colapinto-en-el-gp-de-espana-nid13092026/",
+          "resumen": "Pasó a Piastri y a Lawson en la primera vuelta; el argentino tiene la característica de efectuar buenas partidas en la Fórmula 1",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Tigre vs. Rosario Central, por el Torneo Clausura 2026: día, horario y por dónde ver",
-          "link": "https://www.ole.com.ar/futbol-primera/tigre-vs-rosario-central-partido-torneo-clausura-2026-dia-horario-ver_0_ufwlOJRaGC.html",
-          "resumen": "El Matador recibe al Canalla en Victoria por la novena fecha de la Zona B del Clausura. Acá los detalles.",
+          "titulo": "Sarmiento vs. Belgrano, por el Torneo Clausura, hoy EN VIVO: hora, TV y todo lo que hay que saber",
+          "link": "https://www.ole.com.ar/futbol-primera/sarmiento-belgrano-live-blog_0_VmvISRiaut.html",
+          "resumen": "Sarmiento, escolta del torneo, visita a Belgrano este domingo desde las 14:45 en Junín. El Pirata buscará hacerse fuerte como visitante para acercarse a los puestos de arriba.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Juegos Suramericanos 2026: entre shows de música y deporte, Santa Fe le sube el telón a la fiesta del continente",
-          "link": "https://www.lanacion.com.ar/deportes/juegos-olimpicos/juegos-suramericanos-2026-entre-shows-de-musica-y-deporte-santa-fe-le-sube-el-telon-a-la-fiesta-del-nid12092026/",
-          "resumen": "El encendido del pebetero será en el Monumento a la Bandera de la mano de una gloria local; “La Sole” y Abel Pintos, los espectáculos centrales",
+          "titulo": "Juegos Suramericanos Santa Fe 2026: TV y cómo ver online",
+          "link": "https://www.lanacion.com.ar/deportes/juegos-suramericanos-santa-fe-2026-tv-y-como-ver-online-nid13092026/",
+          "resumen": "El evento deportivo se desarrolla hasta el 26 de septiembre con la participación de, además de la Argentina, otros 14 países de la región",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Video: el choque de Lewis Hamilton en la FP3 del GP de Madrid",
-          "link": "https://www.ole.com.ar/autos/video-choque-lewis-hamilton-fp3-madring_0_wOxzrZmY2h.html",
-          "resumen": "El británico estrelló su Ferrari contra el muro en el circuito de Madring y rompió el alerón delantero.",
+          "titulo": "Otra vez Franco Colapinto: largada de lujo para ganar dos puestos en el GP de Madrid",
+          "link": "https://www.ole.com.ar/autos/colapinto-largada-madrid-gano-puestos-lawson-piastri_0_oWI6Kuqyl7.html",
+          "resumen": "El argentino volvió a demostrar una de sus grandes virtudes en la F1. En un circuito angosto e intrincado, pasó de noveno a séptimo de un solo movimiento: superó a Lawson y Piastri en los primeros metros. Mirá el video.",
           "fuente": "Olé"
         }
       ]
