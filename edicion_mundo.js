@@ -1,41 +1,41 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "13 de septiembre de 2026",
-    "generada": "13:57",
+    "fecha": "14 de septiembre de 2026",
+    "generada": "16:01",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Por qué el director de Anthropic, una de las grandes firmas tecnológicas, pide ralentizar el desarrollo de la inteligencia artificial",
-            "link": "https://www.bbc.com/mundo/articles/c86x7vnegvvo?at_medium=RSS&at_campaign=rss",
-            "resumen": "La petición surge en medio de la creciente preocupación por que los modelos de IA puedan llegar a ser capaces de causar graves daños en todo el mundo.",
+            "titulo": "Por qué volvió la tensión entre Argentina e Inglaterra por Malvinas/Falklands 44 años después de la guerra",
+            "link": "https://www.bbc.com/mundo/articles/czrz6d153mxo?at_medium=RSS&at_campaign=rss",
+            "resumen": "El debate sobre la soberanía de las islas gana intensidad con comentarios ambiguos de Trump y varios intereses internacionales en juego.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Rusia ataca la zona fronteriza entre Polonia y Ucrania, a pocos kilómetros de territorio OTAN",
-            "link": "https://elpais.com/internacional/2026-09-13/rusia-ataca-la-zona-fronteriza-entre-polonia-y-ucrania-a-pocos-kilometros-de-territorio-otan.html",
-            "resumen": "Un dron ha alcanzado un tren que hacía la ruta entre Kiev y Varsovia, a menos de dos kilómetros de la frontera polaca. Lituania suspende las operaciones en el aeropuerto de Vilnius por la posible presencia de un dron",
+            "titulo": "Los nacionalistas de Escocia, Gales e Irlanda del Norte se unen para impulsar su independencia del Reino Unido",
+            "link": "https://elpais.com/internacional/2026-09-14/los-nacionalistas-de-escocia-gales-e-irlanda-del-norte-se-unen-para-impulsar-su-independencia-del-reino-unido.html",
+            "resumen": "Los líderes firman un manifiesto en el que reclaman a Londres que comience a preparar las reformas constitucionales",
             "fuente": "El País"
           },
           {
-            "titulo": "Los BRICS cierran su cumbre con el foco en cooperación económica y crecimiento mundial \"inclusivo\"",
-            "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260913-los-brics-cierran-su-cumbre-con-el-foco-en-cooperaci%C3%B3n-econ%C3%B3mica-y-crecimiento-mundial-inclusivo",
-            "resumen": "En India, los dirigentes del bloque de once economías emergentes mundiales concluyeron este domingo una cumbre de dos días con un llamado a promover la cooperación y el \"crecimiento económico mundial inclusivo\". En su discurso de cierre,…",
+            "titulo": "¿Quiénes son los rebeldes hutíes de Yemen y qué representan?",
+            "link": "https://www.france24.com/es/video/20260914-qui%C3%A9nes-son-los-rebeldes-hut%C3%ADes-de-yemen-y-qu%C3%A9-representan",
+            "resumen": "El grupo armado hutí de Yemen, respaldado por Irán, pertenece a la rama zaidí del chiismo y surgió en la década de 1990 en el noroeste del país, en los alrededores de la ciudad de Saada. El movimiento, conocido como \"Partidarios de Dios\",…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Los gigantes de Silicon Valley que ignoran las advertencias sobre los peligros de la IA",
-            "link": "https://www.bbc.com/mundo/articles/cr7dmd1ydp0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Una ola de alertas respecto a los posibles los peligros para el futuro de la humanidad que entrañan la inteligencia artificial ha sido recibida con escepticismo por parte de ejecutivos e inversores.",
-            "fuente": "BBC Mundo"
+            "titulo": "Una ONG israelí acusa al Gobierno de Netanyahu de tratar de “eliminar” las condiciones de vida en Cisjordania",
+            "link": "https://elpais.com/internacional/2026-09-14/una-ong-israeli-denuncia-el-proyecto-de-eliminacion-en-cisjordania.html",
+            "resumen": "B’Tselem culpa a las autoridades israelíes de combinar la violencia, las barreras a la movilidad y la asfixia económica para desmantelar “las condiciones necesarias para la existencia colectiva palestina” en el territorio ocupado",
+            "fuente": "El País"
           },
           {
-            "titulo": "Una nueva donación multimillonaria al ultra Farage hace sonar las alarmas en el resto de partidos británicos",
-            "link": "https://elpais.com/internacional/2026-09-13/una-nueva-donacion-multimillonaria-al-ultra-farage-hace-sonar-las-alarmas-en-el-resto-de-partidos-britanicos.html",
-            "resumen": "Reform UK acumula ya más dinero en regalos que todas las demás formaciones políticas juntas en un año",
-            "fuente": "El País"
+            "titulo": "\"El imperio de la estafa de Donald Trump\": 'The Atlantic'",
+            "link": "https://www.france24.com/es/programas/revista-de-prensa/20260914-el-imperio-de-la-estafa-de-donald-trump-the-atlantic",
+            "resumen": "El medio 'The Atlantic' publica un análisis sobre cómo el mandatario de Estados Unidos, Donald Trump, ha utilizado la política exterior y sus viajes para beneficiarse a sí mismo, a su entorno familiar y amigos. Pero no se trata solo de…",
+            "fuente": "France 24"
           }
         ]
       },
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "El cheque electoral de Trump enciende las alarmas con el mercado de deuda al rojo vivo",
-            "link": "https://elpais.com/economia/2026-09-12/el-bono-electoral-de-trump-enciende-las-alarmas-con-el-mercado-de-deuda-al-rojo-vivo.html",
-            "resumen": "La promesa de 5.000 dólares para todos los “adultos estadounidenses” si los republicanos ganan en las legislativas muestra el desdén de la Casa Blanca sobre el déficit",
+            "titulo": "Los colombianos superan ya a los rumanos como segundo colectivo extranjero en el mercado laboral",
+            "link": "https://elpais.com/economia/2026-09-14/los-colombianos-superan-ya-a-los-rumanos-como-segundo-colectivo-extranjero-en-el-mercado-laboral.html",
+            "resumen": "La regularización de inmigrantes impulsa a Colombia (368.900 afiliados) por encima de Rumania (336.700). Los peruanos adelantan por primera vez a los chinos",
             "fuente": "El País"
           },
           {
-            "titulo": "Guerra de sucesión entre multimillonarios: quién herederá los grandes imperios empresariales",
-            "link": "https://www.expansion.com/empresas/2026/09/11/6aa3d41ce5fdeaba4b8b4573.html",
-            "resumen": "Cerca de seis billones de euros se heredarán en la próxima década. Más allá de la sucesión patrimonial, para sagas como los Arnault está en juego el control de algunos de los mayores hóldings del mundo. Leer",
+            "titulo": "Santander lanza el 'gancho' del nuevo iPhone para captar clientes de altos ingresos y banca privada",
+            "link": "https://www.expansion.com/empresas/banca/2026/09/14/6aa7cebd468aeb6c048b457b.html",
+            "resumen": "El banco abonará incentivos de entre 31,99 euros y 39,99 euros al mes para financiar el coste del rénting del teléfono. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "La cámara de los 200.000 millones: Londres retiene su estatus como custodio del oro de 70 países",
-            "link": "https://elpais.com/economia/2026-09-13/la-camara-de-los-200000-millones-londres-retiene-su-estatus-como-custodio-del-oro-de-70-paises.html",
-            "resumen": "El Banco de Inglaterra es el segundo mayor depositario del mundo, y su mercado de lingotes, el centro mundial de las transacciones",
+            "titulo": "España encabeza la lista de países europeos que requieren más esfuerzo económico para comprar una vivienda",
+            "link": "https://elpais.com/economia/2026-09-14/espana-encabeza-la-lista-de-paises-europeos-que-requieren-mas-esfuerzo-economico-para-comprar-una-vivienda.html",
+            "resumen": "El porcentaje de ingresos que destinan los hogares a adquirir una casa en propiedad ha crecido nueve veces más rápido que en el resto de la zona euro desde 1980",
             "fuente": "El País"
           },
           {
-            "titulo": "Bancos: cómo subirse al tirón en Bolsa",
-            "link": "https://www.expansion.com/mercados/2026/09/12/6aa4687be5fdeaa37f8b4581.html",
-            "resumen": "El alza del precio del dinero mejora las expectativas del sector a pesar de las valoraciones en zona de máximos. Los expertos recomiendan ser más selectivos después de seis años consecutivos de subidas en el parqué. Leer",
+            "titulo": "¿Qué está pasando con la IA? Guía para entender una semana de vértigo",
+            "link": "https://www.expansion.com/tecnologia/companias/2026/09/14/6aa7ba36468aeb89258b459b.html",
+            "resumen": "Los mensajes apocalípticos que apuntan a que la inteligencia artificial podría acabar con la humanidad en un corto periodo de tiempo han llevado a los grandes laboratorios de IA a tomar medidas. ¿Está justificado el pánico? Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Tarjetas ‘revolving’, entre intereses de más del 22% y una ley atascada: “Te atrapan de por vida”",
-            "link": "https://elpais.com/economia/2026-09-13/tarjetas-revolving-entre-intereses-de-mas-del-22-y-una-ley-atascada-te-atrapan-de-por-vida.html",
-            "resumen": "El Gobierno quiere limitar el coste de estos créditos y crear una Autoridad de Defensa del Cliente Financiero, pero ambas normas continúan pendientes de aprobación",
+            "titulo": "Skoda, la fuente de beneficios de Volkswagen que terminó por comer el terreno a Seat",
+            "link": "https://cincodias.elpais.com/companias/2026-09-14/skoda-la-fuente-de-beneficios-de-volkswagen-que-termino-por-comer-el-terreno-a-seat.html",
+            "resumen": "La firma de origen checo lleva desde 2023 batiendo récords de ganancias operativas, con un margen que duplica al del consorcio",
             "fuente": "El País"
           }
         ]
@@ -78,33 +78,33 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
+            "titulo": "La élite de las matemáticas teme que se queden vacías de sentido ante los avances de la IA",
+            "link": "https://elpais.com/ciencia/2026-09-13/la-elite-de-las-matematicas-alerta-del-riesgo-de-que-los-avances-de-la-ia-las-vacie-de-sentido.html",
+            "resumen": "Veinticinco medallas Fields y algunos de los matemáticos más importantes del mundo reivindican la importancia del proceso humano de descubrimiento más allá de los resultados",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Los gigantes de la IA quieren someterse a sus propias reglas para hacer frente a los escenarios apocalípticos",
+            "link": "https://elpais.com/tecnologia/2026-09-14/los-gigantes-de-la-ia-quieren-someterse-a-sus-propias-reglas-para-hacer-frente-a-los-escenarios-apocalipticos.html",
+            "resumen": "OpenAI, Anthropic y Google conducen el intenso debate sobre los riesgos de esta tecnología hacia una autorregulación que controle la industria",
+            "fuente": "El País"
+          },
+          {
             "titulo": "Los fósiles de dinosaurios, el último fetiche de los ricos: “Hay quien disfruta sabiendo que solo lo puede admirar él”",
             "link": "https://elpais.com/ciencia/2026-09-13/los-fosiles-de-dinosaurios-el-ultimo-fetiche-de-los-ricos-hay-quien-disfruta-sabiendo-que-solo-lo-puede-admirar-el.html",
             "resumen": "Piezas paleontológicas se venden por sumas millonarias junto a obras de arte, una tendencia que preocupa a los expertos por su impacto en el avance de la ciencia",
             "fuente": "El País"
           },
           {
-            "titulo": "Demis Hassabis, líder de la IA en Google, se suma a la propuesta de ralentizar su desarrollo: “Es el camino correcto”",
-            "link": "https://elpais.com/tecnologia/2026-09-13/demis-hassabis-lider-de-la-ia-en-google-se-suma-a-la-propuesta-de-ralentizar-su-desarrollo-es-el-camino-correcto.html",
-            "resumen": "El premio Nobel aplaude la petición de Dario Amodei, que también respaldaron Sam Altman y Elon Musk, de introducir auditores externos en las grandes compañías de inteligencia artificial",
+            "titulo": "China reacciona a las alertas por la IA denunciando una “agenda oculta” para “estrangular” su tecnología",
+            "link": "https://elpais.com/tecnologia/2026-09-14/china-reacciona-a-las-alertas-por-la-ia-denunciando-una-agenda-oculta-para-estrangular-su-tecnologia.html",
+            "resumen": "Pekín acusa a EE UU de usar el “manual de la Guerra Fría” para frenar sus desarrollos en inteligencia artificial",
             "fuente": "El País"
           },
           {
             "titulo": "Una pluma atrapada en un excremento de dinosaurio da nuevas pistas sobre la extinción de las aves primitivas",
             "link": "https://elpais.com/ciencia/2026-09-10/una-pluma-atrapada-en-un-excremento-de-dinosaurio-da-nuevas-pistas-sobre-la-extincion-de-las-aves-primitivas.html",
             "resumen": "Los restos hallados en las heces de un terópodo permiten confirmar que el plumaje moderno ya se había desarrollado en otros linajes de pájaros",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "La resistencia contra la IA gana fuerza",
-            "link": "https://elpais.com/tecnologia/2026-09-13/la-resistencia-contra-la-ia-gana-fuerza.html",
-            "resumen": "La concienciación de los extraordinarios peligros de la tecnología espolea un creciente y multifacético movimiento de oposición y sabotaje contra ella",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Somos los órganos sexuales de la IA",
-            "link": "https://elpais.com/tecnologia/2026-09-11/somos-los-organos-sexuales-de-la-ia.html",
-            "resumen": "El ataque de OpenAI a los servidores de Hugging Face adquiere una dimensión nueva frente a la solución del problema matemático de Navier-Stokes",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Levante - Barcelona, en directo",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260913/1004225014/levante-barcelona-directo-laliga-ea-sports-futbol-primera-division.html",
-            "resumen": "",
+            "titulo": "El registro en el que Lamine Yamal iguala a Leo Messi",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227171/lamine-yamal-iguala-leo-messi.html",
+            "resumen": "De dos en dos, y marco porque me toca. Lamine Yamal parece versionar a su antojo el juego de ‘La Oca’ en su espectacular arranque de temporada. El futbolista del FC Barcelona acumula siete goles y dos asistencias en los primeros seis…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Dos derrotas y un empate del Barça en sus últimas seis visitas al Levante",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260913/1004226625/dos-derrotas-empate-barca-ultimas-seis-visitas-levante.html",
-            "resumen": "Sobre el papel, la distancia es abismal: el Barça prevé 1.195 millones de euros de ingresos, frente a los 59,1 estimados por el Levante el pasado curso. También lo es en masa social y palmarés. Pero el Ciutat de Valencia, donde esta tarde…",
+            "titulo": "Primeros contactos para la renovación de Gerard Martín",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227069/primeros-contactos-renovacion-gerard-martin.html",
+            "resumen": "El FC Barcelona comienza ya a preparar el camino de la renovación de Gerard Martín . En la línea de lo que publicó Mundo Deportivo este sábado , donde desvelamos que a Gerard Martín , con contrato hasta 2028, cláusula de 100 millones y…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "September 13, 2026",
-    "generada": "13:57",
+    "fecha": "September 14, 2026",
+    "generada": "16:01",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-            "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-            "resumen": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+            "titulo": "China criticises idea it is in 'malicious competition' over AI",
+            "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+            "resumen": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",
-            "link": "https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda",
-            "resumen": "Royal guards carry casket through streets of Fort Portal amid row over appointment of Edward Rukidi Kijanangoma Uganda’s King Oyo Nyimba Kabamba Iguru Rukidi IV, long the world’s youngest monarch, has been buried among the tombs of his…",
+            "titulo": "The London hospital funded by donors who invested in the slave trade",
+            "link": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade",
+            "resumen": "St Barts is one of many UK institutions whose benefactors were involved in the trafficking of enslaved Africans Inside the Great Hall of St Bartholomew’s North Wing, alongside stately portraits of the apostle from whom London’s oldest…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "How Iran’s Hard-liners Blew Up the Peace Deal with Trump",
-            "link": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html",
-            "resumen": "Opponents derailed the agreement with a clandestine effort to attack ships in the Strait of Hormuz, regime insiders say. Iran’s president was furious when he found out.",
+            "titulo": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies",
+            "link": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html",
+            "resumen": "The attack on Ukraine’s rail network, which connects the country to the West, was a jab at Europe, officials said.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Iran war reshapes Brics ties but also exposes divisions",
-            "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
+            "titulo": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+            "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
             "fuente": "BBC"
           },
           {
-            "titulo": "Six Nigerians extradited to US over $6m online romance scam",
-            "link": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams",
-            "resumen": "Alleged members of Black Axe criminal network that swindled US women out of $6m flown from South Africa Six Nigerian nationals linked to an organized criminal network that allegedly swindled American women out of more than $6m through…",
+            "titulo": "Africa’s richest man aiming to make $23bn from continent’s biggest-ever IPO",
+            "link": "https://www.theguardian.com/world/2026/sep/14/aliko-dangote-nigeria-africa-richest-man-ipo",
+            "resumen": "Public offering of Aliko Dangote’s Nigerian oil refinery business could swell his net wealth by two-thirds The fortune of Africa’s richest person could swell by two thirds to nearly $60bn (£44bn) after his refinery in Nigeria listed…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,34 +189,34 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Tensions simmer on US-Canada border for two towns relying on each other",
-            "link": "https://www.theguardian.com/us-news/2026/sep/12/us-canada-border-tariffs-trade-war",
-            "resumen": "Canadians ‘angry’ at Trump for suggesting Canada should become 51st state, says mayor, as US businesses see sales fall amid trade war Like many Canadians, Tom Reid isn’t crossing the US-Canada border as often these days. But he needed a…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "Inside the $440 Million Collapse of Guidepost Montessori",
-            "link": "https://www.nytimes.com/2026/09/13/business/guidepost-montessori-higher-ground-education-ray-girn.html",
-            "resumen": "A man with a vision set out to revolutionize preschool. It became a $440 million fiasco.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-            "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-            "resumen": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
+            "titulo": "Petrol and diesel prices hit highest since 2022",
+            "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The cost of filling up a vehicle has rebounded, according to the RAC, as oil prices remain elevated.",
             "fuente": "BBC"
           },
           {
-            "titulo": "US consumers faced more high prices in August as Iran war raised energy costs",
-            "link": "https://www.theguardian.com/business/2026/sep/11/inflation-august-interest-rates",
-            "resumen": "Annualized inflation rate was 3.4%, same as July, and core inflation, which omits energy and food prices, rose to 2.4% US consumer prices remained stubbornly high in August as the end of the ceasefire between the US and Iran pushed energy…",
+            "titulo": "UK government moves to acquire Speciality Steel UK – business live",
+            "link": "https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates",
+            "resumen": "Rolling coverage of the latest economic and financial news AI-linked stocks fall after tech bosses call for slowdown in ‘reckless’ development AI CEOs say they need to slow the pace of development. But will they? The Guardian view on…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "What to Expect at the 2026 Emmy Awards",
-            "link": "https://www.nytimes.com/2026/09/13/business/media/what-to-expect-at-the-2026-emmy-awards.html",
-            "resumen": "“The Pitt” could make history at Monday night’s celebration of the best in TV, while “Widow’s Bay” and “Hacks” battle it out in the best comedy race.",
+            "titulo": "Bond Market Rebukes Bessent by Sending Borrowing Costs Ever Higher",
+            "link": "https://www.nytimes.com/2026/09/14/business/bond-market-scott-bessent.html",
+            "resumen": "The Treasury secretary dared “Bloomberg terminal bros” to bet against him and they did.",
             "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Rent rises set to speed up in gloomy forecast for tenants",
+            "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The cost of renting is expected to rise by 4% or 5% a year by December, says property website Zoopla.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Oil prices soar above $108 as Houthis strike Saudi infrastructure",
+            "link": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
+            "resumen": "Iran-linked rebels force closure of east-west pipeline and capture strategic island in Bab al-Mandab strait Business news – live updates Oil prices have climbed above $108 a barrel after a series of drone attacks forced Saudi Arabia to…",
+            "fuente": "The Guardian"
           }
         ]
       },
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Summer wildfires caused catastrophic hidden damage, scientists warn",
-            "link": "https://www.bbc.co.uk/news/articles/cn07rzrq244o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Bangor University researchers say the scale of damage is far greater than what is immediately visible.",
+            "titulo": "Flash flooding interrupts half-marathon, submerges cars",
+            "link": "https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Parts of New York, New Jersey and Connecticut were hit by flash flooding, leading to water rescues, stranded motorists and half-marathon runners battling the floodwaters.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Indonesian foragers may have sucked on mind-altering nuts 25,000 years ago, research finds",
-            "link": "https://www.theguardian.com/science/2026/sep/09/indonesian-foragers-mind-altering-nuts-research-finds",
-            "resumen": "Analysis of two skeletons reveals tooth wear and traces of psychoactive substance in what may be earliest known evidence for human drug taking What may be the earliest known evidence for human drug taking has been traced to ancient…",
+            "titulo": "Scientists find nine new sponge species in glimpse of Alaska’s deep-sea diversity",
+            "link": "https://www.theguardian.com/us-news/2026/sep/14/deep-sea-sponges-discovery-mining-fishing",
+            "resumen": "But their habitat is threatened by bottom trawling in the region and Trump’s plan to expand seafloor mining Scientists have discovered nine new deep-sea sponge species off Alaska, offering new insights into the region’s largely unexplored…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Mercury Is Shrinking, and Faster Than We Thought",
-            "link": "https://www.nytimes.com/2026/09/11/science/space/mercury-shrinking-wrinkles.html",
-            "resumen": "New estimates using the planet’s surface wrinkles show that our smallest planet is growing even smaller, at a faster clip than expected.",
+            "titulo": "Leaked A.I. Queries Raise Fears of New Biological Weapons Race",
+            "link": "https://www.nytimes.com/2026/09/14/science/ai-bioweapons.html",
+            "resumen": "Current chatbots aren’t likely to help lone actors invent a deadly pathogen, experts say. But newer models, trained in biology, may need stronger safeguards.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Five night sky events to look out for this autumn",
-            "link": "https://www.bbc.co.uk/news/articles/cvgy4w3mnpvo?at_medium=RSS&at_campaign=rss",
-            "resumen": "From meteor showers to a November supermoon, there are a number of impressive sights to behold in the autumn night sky.",
+            "titulo": "Meteor showers and supermoons: Autumn's night sky highlights",
+            "link": "https://www.bbc.co.uk/news/videos/c6kgxmk5zkrgo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Meteor showers and supermoons: night sky phenomenons you won't want to miss",
             "fuente": "BBC"
           },
           {
-            "titulo": "One giant step: first known adult T rex footprints found in North Dakota",
-            "link": "https://www.theguardian.com/us-news/2026/sep/11/tyrannosaurus-rex-footprints-north-dakota",
-            "resumen": "The 23ft-long trackway, consisting of four three-toed footprints, two left and two right, date from 66.5m years ago The first known series of footprints from an adult Tyrannosaurus rex has been found in North Dakota by a team of…",
+            "titulo": "‘Immature playground boasting’: Mathematicians uneasy at OpenAI’s latest scalp",
+            "link": "https://www.theguardian.com/science/2026/sep/12/openai-mathematicians-millennium-prize-problem",
+            "resumen": "As OpenAI model cracks Millennium Prize Problem that puzzled experts for decades, many feel shocked at pace of change It was a week that left mathematicians reeling. Hot on the heels of a flurry of cases of artificial intelligence…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Garcia reality check bursts Benn's bubble in Vegas",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/cx2zy36rzjzo?at_medium=RSS&at_campaign=rss",
-            "resumen": "As the biggest night of Conor Benn's career plummets into freefall in Las Vegas, what did we learn and what does it mean for the rest of his career?",
+            "titulo": "'This is what women in sport look like' - Hunt responds to controversial Sweeney advert",
+            "link": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss",
+            "resumen": "British sprinter Amy Hunt is among the female athletes to criticise the controversial betting advert starring actress Sydney Sweeney.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Arch Manning leads Texas back from 20 points down in fourth quarter to shock No 1 Ohio State",
-            "link": "https://www.theguardian.com/sport/2026/sep/13/arch-manning-leads-texas-back-from-20-points-down-in-fourth-quarter-to-shock-no-1-ohio-state",
-            "resumen": "Ohio State Buckeyes 23-24 Texas Longhorns Longhorns QB shows maturity in huge comeback Arch Manning delivered a moment, and it was a big one for Texas and himself. The Longhorns quarterback led No 4 Texas back from a 20-point…",
+            "titulo": "The Josh Allen rollercoaster is up and running again for the new NFL season",
+            "link": "https://www.theguardian.com/sport/2026/sep/14/nfl-bills-texans-josh-allen",
+            "resumen": "The Bills quarterback produced his usual thrills: a galloping touchdown run, a near game-ending mistake and a brilliant throw. Buffalo fans better hold on Having Josh Allen as your quarterback is a bit like owning a high-performance…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Fixed v fluid - the opposing approaches of Maresca and Carrick",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cn45w80wn5xo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Enzo Maresca and Michael Carrick will go head to head in Sunday's Manchester derby, with their teams set up very differently.",
+            "titulo": "Left in the dark - will fans ever get to hear live VAR audio?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cz6z80qqzplo?at_medium=RSS&at_campaign=rss",
+            "resumen": "VAR is nearly 10 years old, and yet the game is still a long way off being allowed to broadcast the audio live to supporters.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Spanish Grand Prix: Formula One – live",
-            "link": "https://www.theguardian.com/sport/live/2026/sep/13/spanish-grand-prix-formula-one-live",
-            "resumen": "Lights out at 2pm (all times BST) Ecclestone questioned after shotgun found on private jet Share your thoughts with John via email The formation lap is away. It’s a hot day in Madrid, 31 degrees, no shade at all. The track temperature is…",
+            "titulo": "VARs who wrongly allowed Haaland’s goal at Manchester United are stood down",
+            "link": "https://www.theguardian.com/football/2026/sep/14/vars-erling-haaland-goal-manchester-united-stood-down-wrongly-allowed",
+            "resumen": "Matt Donohue and his assistant not used this weekend Pro Ref said allowing winner was ‘error of judgment’ The video assistant referee officials who allowed Erling Haaland’s winning goal in the Manchester derby on Sunday have been stood…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "From struggling to walk to lifting trophy - how Rybakina triumphed",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/cp3kdzlnzneo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Elena Rybakina arrived in New York unable to walk without pain after injuring her foot. She leaves the city as the US Open champion and new world number one.",
+            "titulo": "Brands v country - Kerr ramps up kit battle after latest victory",
+            "link": "https://www.bbc.co.uk/sport/athletics/articles/cr2kw4p3yxy7o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Josh Kerr celebrated becoming Great Britain's first Ultimate Champion by making a clear point about funding in athletics - BBC Sport explains what the issue is.",
             "fuente": "BBC"
           }
         ]
