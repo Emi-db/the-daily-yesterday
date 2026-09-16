@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "15 de septiembre de 2026",
-    "generada": "14:31",
+    "fecha": "16 de septiembre de 2026",
+    "generada": "14:25",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "\"Hace cuatro años que no lo veo y ya no sé si existe o no\": las mujeres que buscan a sus hijos en las cárceles de Bukele",
-            "link": "https://www.bbc.com/mundo/articles/c780j3p04dqo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Cientos de mujeres peregrinan por cárceles, juzgados y procuradurías de El Salvador desde hace cuatro años en busca de información sobre sus familiares detenidos. De tanto coincidir, se han ido juntando orgánicamente y ahora forman un…",
+            "titulo": "Por qué aumentaron las ejecuciones en Florida, el estado que más impone la pena de muerte en EE.UU.",
+            "link": "https://www.bbc.com/mundo/articles/c5yjrzwzkrko?at_medium=RSS&at_campaign=rss",
+            "resumen": "Después de años en declive, la pena capital vuelve a estar en auge en Florida, como desea Donald Trump para todo Estados Unidos.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Un sabotaje provoca el caos en la red ferroviaria de Países Bajos",
-            "link": "https://elpais.com/internacional/2026-09-15/un-presunto-sabotaje-interrumpe-gran-parte-de-la-red-ferroviaria-de-paises-bajos.html",
-            "resumen": "Varios tubos colocados en las vías paralizan decenas de trenes el día que el rey inaugura el año parlamentario",
+            "titulo": "Von der Leyen apuesta por que Canadá sea “el primer miembro asociado de la UE”",
+            "link": "https://elpais.com/internacional/2026-09-16/von-de-leyen-apuesta-por-que-canada-sea-el-primer-miembro-asociado-de-la-ue.html",
+            "resumen": "El primer ministro del país norteamericano Mark Carney acude a la Eurocámara en plena guerra comercial con Washington",
             "fuente": "El País"
           },
           {
-            "titulo": "'Widow's Bay' se impone en unos Emmy marcados por la partida de grandes estrellas",
-            "link": "http://www.france24.com/es/cultura/20260915-widow-s-bay-se-impone-en-unos-emmy-marcados-por-la-partida-de-grandes-estrellas",
-            "resumen": "La comedia de terror \"Widow's Bay\" dominó la ceremonia de los premios Emmy el lunes 14 de septiembre en Los Ángeles; mientras que \"The Pitt\" se alzó con el premio a la mejor serie dramática por segundo año consecutivo. Esa misma noche,…",
+            "titulo": "¿El efecto Sydney Sweeney? El deporte femenino rechaza sexualizar su papel como atletas",
+            "link": "http://www.france24.com/es/programas/deportes/20260916-el-efecto-sydney-sweeney-el-deporte-femenino-rechaza-sexualizar-su-papel-como-atletas",
+            "resumen": "Son varias las voces de atletas femeninas que se han levantado contra una campaña publicitaria de la actriz Sydney Sweeney en la que adorna su desnudez con elementos deportivos para una casa de apuestas. Ese mensaje ha generado un…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Qué se sabe de los Geran-3, los nuevos drones a reacción que Rusia está usando contra Ucrania y que han golpeado con dureza a Kyiv",
-            "link": "https://www.bbc.com/mundo/articles/cwyz1293enxo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Los nuevos modelos pueden alcanzar velocidades de hasta 480 km/h, más que los interceptores de defensa aérea de Ucrania.",
+            "titulo": "Las nuevas tácticas de intimidación de los grupos antiinmigrantes que preocupan a Reino Unido",
+            "link": "https://www.bbc.com/mundo/articles/c770z7v41d8o?at_medium=RSS&at_campaign=rss",
+            "resumen": "El nuevo grupo Patriot Platform asegura que busca aglutinar a votantes de clase trabajadora para influir en los partidos políticos de derecha.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "El Supremo rechaza las restricciones de Trump al voto por correo para las legislativas",
-            "link": "https://elpais.com/us/2026-09-15/el-tribunal-suprema-rechaza-por-ahora-las-restricciones-de-trump-al-voto-por-correo-antes-de-las-elecciones-legislativas.html",
-            "resumen": "La reforma del republicano ponía en riesgo el sufragio de millones de personas por no haber tiempo suficiente para que los Estados implementaran las nuevas normas",
+            "titulo": "Trump pierde en el Supremo la batalla del voto por correo, pero sigue su guerra para subvertir las ‘midterms’",
+            "link": "https://elpais.com/us/2026-09-16/trump-pierde-en-el-supremo-la-batalla-del-voto-por-correo-pero-sigue-su-guerra-para-subvertir-las-midterms.html",
+            "resumen": "El fallo supone un revés para el plan del Gobierno de influir en los comicios a base de amenazas a funcionarios, presiones a los Estados y colocación de negacionistas electorales en puestos clave",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Florista, tapicero o ebanista: las profesiones sin titulación universitaria son las menos expuestas a la IA",
-            "link": "https://elpais.com/economia/2026-09-15/florista-tapicero-o-ebanista-las-profesiones-sin-titulacion-universitaria-son-las-menos-expuestas-a-la-ia.html",
-            "resumen": "La Oficina de Estadísticas de Estados Unidos publica un mapa con las profesiones más sustituibles con inteligencia artificial. Las de mayor cualificación corren mayor riesgo",
+            "titulo": "El Gobierno limita el poder de las comunidades para conseguir subvenciones",
+            "link": "https://elpais.com/economia/2026-09-16/el-gobierno-limita-el-poder-de-las-comunidades-para-conseguir-subvenciones.html",
+            "resumen": "La declaración de “inversión estratégica” que otorgará el Ejecutivo marcará las prioridades a la hora de pedir los incentivos regionales",
             "fuente": "El País"
           },
           {
-            "titulo": "Bruselas propone una tarjeta de Seguridad Social digital válida en toda la UE",
-            "link": "https://elpais.com/economia/2026-09-15/bruselas-propone-una-tarjeta-de-seguridad-social-digital-valida-en-toda-la-ue.html",
-            "resumen": "La Comisión Europea presenta un paquete para facilitar la movilidad laboral que prevé la digitalización de documentos clave y el reconocimiento más rápido de titulaciones",
+            "titulo": "La Fed debería desafiar a Trump con una subida de tipos, según los economistas",
+            "link": "https://www.expansion.com/economia/financial-times/2026/09/16/6aaa59a3468aeb6f088b45ac.html",
+            "resumen": "La gran mayoría de los participantes en una encuesta del FT y la Booth School afirman que el banco central debería elevar los costes de financiación para contener la inflación. Leer",
+            "fuente": "Expansión"
+          },
+          {
+            "titulo": "Decepcionar al mercado o enfurecer a Trump: el dilema de Warsh en su primera gran decisión al frente de la Fed",
+            "link": "https://elpais.com/economia/2026-09-16/decepcionar-al-mercado-o-enfurecer-a-trump-el-dilema-de-warsh-en-su-primera-gran-decision-al-frente-de-la-fed.html",
+            "resumen": "Los analistas prevén que la Reserva Federal suba tipos, presionada por la inflación, a pesar de las presiones de la Casa Blanca, presionado por una inflación que no da tregua",
             "fuente": "El País"
           },
           {
-            "titulo": "Los carburantes disparan la inflación de agosto hasta el 4,3%, su nivel más alto desde 2023",
-            "link": "https://elpais.com/economia/2026-09-15/los-carburantes-disparan-la-inflacion-de-agosto-hasta-el-43-su-nivel-mas-alto-desde-2023.html",
-            "resumen": "El Instituto Nacional de Estadística confirma el dato adelantado hace dos semanas tanto para el índice general como para el subyacente, que se sitúa en el 2,9%",
-            "fuente": "El País"
+            "titulo": "CaixaBank venderá más riesgo para blindar el dividendo pese al alza del crédito",
+            "link": "https://www.expansion.com/empresas/banca/2026/09/16/6aa141d3468aeb420c8b4571.html",
+            "resumen": "El banco asegura que las condiciones de precio y liquidez son buenas. El objetivo es ceder al mercado los activos que generen menos rentabilidad. Leer",
+            "fuente": "Expansión"
           },
           {
-            "titulo": "Telefónica acuerda con DAZN la distribución de LaLiga hasta 2032 por 1.650 millones",
-            "link": "https://cincodias.elpais.com/companias/2026-09-15/telefonica-acuerda-con-dazn-la-distribucion-de-laliga-hasta-2032-por-1650-millones.html",
-            "resumen": "El contrato no exclusivo abarca cinco temporadas a razón de 330 millones anuales y permite a la operadora mantener el 100% del fútbol de Primera División",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "El bum de la IA se lleva mano de obra de la construcción de vivienda",
-            "link": "https://cincodias.elpais.com/opinion/2026-09-15/el-bum-de-la-ia-se-lleva-mano-de-obra-de-la-construccion-de-vivienda.html",
-            "resumen": "El despliegue de centros de datos también podría impulsar proyectos inmobiliarios más ambiciosos",
+            "titulo": "Vodafone dejará de ingresar hasta 1.100 millones de euros tras la salida de Patrick Drahi de su filial alemana de fibra",
+            "link": "https://cincodias.elpais.com/companias/2026-09-16/vodafone-dejara-de-ingresar-hasta-1100-millones-de-euros-tras-la-salida-de-patrick-drahi-de-su-filial-alemana-de-fibra.html",
+            "resumen": "Société Générale adquiere el 50% de OXG sin asumir las obligaciones de pago aplazado y objetivos pactados previamente con Geodesia Holding",
             "fuente": "El País"
           }
         ]
@@ -84,9 +84,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "EE UU y China se enseñan los dientes por la IA: del miedo al apocalipsis a la guerra fría tecnológica",
-            "link": "https://elpais.com/tecnologia/2026-09-15/ee-uu-y-china-se-ensenan-los-dientes-por-la-ia-del-miedo-al-apocalipsis-a-la-guerra-fria-tecnologica.html",
-            "resumen": "Las dos grandes potencias exhiben su enfrentamiento por el futuro de la inteligencia artificial al estallar el debate sobre cómo regularla para evitar escenarios catastróficos",
+            "titulo": "Sam Altman insiste en el peligro de la IA: “El mundo hace bien en tener miedo, pero debe confiar en nosotros”",
+            "link": "https://elpais.com/tecnologia/2026-09-16/sam-altman-insiste-en-el-peligro-de-la-ia-el-mundo-hace-bien-en-tener-miedo-pero-debe-confiar-en-nosotros.html",
+            "resumen": "Mark Zuckerberg se pronuncia por primera vez: “Nos centramos en la seguridad”. Los líderes del sector, como Dario Amodei o Jensen Huang, coinciden en una conferencia y repiten sus temores",
             "fuente": "El País"
           },
           {
@@ -96,9 +96,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "¿Vamos a morir todos o es solo teatro? Argumentos contra el apocalipsis de la IA",
-            "link": "https://elpais.com/tecnologia/2026-09-15/vamos-a-morir-todos-o-es-solo-teatro-argumentos-contra-el-apocalipsis-de-la-ia.html",
-            "resumen": "Algunos expertos creen que no hay ninguna prueba científica que invite a pensar que esta tecnología podría provocar la extinción, y que sostener eso puede obedecer a intereses muy concretos",
+            "titulo": "Los planes para restringir el uso de las redes a los menores, país por país",
+            "link": "https://elpais.com/tecnologia/2026-09-16/los-planes-para-restringir-el-uso-de-las-redes-a-los-menores-pais-por-pais.html",
+            "resumen": "Francia, España e Italia son tres de los Estados de la UE con propuestas para limitar el uso de las plataformas digitales según la edad",
             "fuente": "El País"
           },
           {
@@ -113,33 +113,33 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
-            "link": "https://www.marca.com/sport-business/2playbook/2026/09/08/barca-femenino-roza-30-millones-negocio-gana-8-millones-crecer-33.html",
-            "resumen": "El campeón de Liga F y de la Women’s Champions League disparó su facturación, apoyado nuevamente en los patrocinios, que le aportan ya 20 millones",
+            "titulo": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
+            "link": "https://www.marca.com/futbol/album/2026/09/16/portadas-dia.html",
+            "resumen": "Así vienen los periódicos deportivos de este miércoles 14 de septiembre de 2026.",
             "fuente": "Marca"
           },
           {
-            "titulo": "Flick alerta sobre el Racing pero augura rotaciones",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227514/flick-alerta-sobre-racing-augura-rotaciones.html",
-            "resumen": "Hansi Flick hizo todo un elogio hacia el Racing de Santander en la previa del partido de su equipo ante el conjunto cántabro. Preguntado por la posibilidad de alcanzar un récord de victorias seguidas en el inicio de una temporada, el…",
+            "titulo": "La convocatoria del Barça para recibir al Racing, con una ausencia",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004227975/convocatoria-barca-recibir-racing-ausencia.html",
+            "resumen": "Hansi Flick, técnico del FC Barcelona, dio a conocer la lista de convocados para enfrentarse esta noche al Racing de Santander en el Spotify Camp Nou . El entrenador azulgrana repite los mismos jugaodres que viajaron el pasado domingo a…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Diez 'joyas' que pueden dar el pelotazo en Champions",
-            "link": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html",
-            "resumen": "Analizamos a 10 jóvenes promesas de 10 equipos (distintos) de fuera de LaLiga",
+            "titulo": "\"No puedo fallar tantas\"",
+            "link": "https://www.marca.com/futbol/real-madrid/2026/09/16/vinicius-entona-mea-culpa-goles-volver-fallar-tantas.html",
+            "resumen": "El brasileño se pronunció en sus redes sociales al final del partido",
             "fuente": "Marca"
           },
           {
-            "titulo": "Flick: \"Estoy contento con Balde, pero nadie esperaba este nivel de Xavi Espart\"",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227509/flick-contento-balde-nadie-esperaba-nivel-xavi-espart.html",
-            "resumen": "El futuro de Alejandro Balde (22 años) en Barcelona fue uno de los temas de conversación durante las últimas horas de mercado. El lateral optó por quedarse para tratar de convencer a Hansi Flick , pero de momento no ha contado con…",
+            "titulo": "Con más razones que su racha para pensar en seguir como líder en solitario",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004227946/barca-razones-racha-pensar-seguir-lider-solitario.html",
+            "resumen": "Tras el nuevo sufrido triunfo del Real Madrid en el estadio del Elche (2-3) -ganó en el descuento con un gol de Espí -, el Barça recibe esta noche al Racing de Santander (21:30 horas) en el Spotify Camp Nou con el objetivo de sumar otro…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Fermín: \"Las burlas sobre mi físico me hicieron dudar de mí mismo\"",
-            "link": "https://www.marca.com/futbol/barcelona/2026/09/08/fermin-burlas-sobre-mi-fisico-me-hicieron-dudar-mi.html",
-            "resumen": "El medio alza la voz contra el acoso escolar en un proyecto de la Fundación ColaCao",
+            "titulo": "\"¿Qué narices le pasa al Madrid?\"",
+            "link": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html",
+            "resumen": "La opinión de José Vicente Hernáez",
             "fuente": "Marca"
           }
         ]
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "September 15, 2026",
-    "generada": "14:31",
+    "fecha": "September 16, 2026",
+    "generada": "14:25",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-            "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+            "titulo": "EU chief backs plan for Canada to become 'associate member'",
+            "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+            "resumen": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
             "fuente": "BBC"
           },
           {
-            "titulo": "‘I believed the hype’: the white South Africans denied refugee status in the US",
-            "link": "https://www.theguardian.com/world/2026/sep/15/white-south-africans-denied-refugee-status-us",
-            "resumen": "Drive to save thousands of Afrikaners from false claims of ‘white genocide’ appears to show signs of slowing When Donald Trump announced in February 2025 that the US would accept Afrikaners from South Africa as refugees, many white South…",
+            "titulo": "US to bar some South Africans over claims of anti-white discrimination",
+            "link": "https://www.theguardian.com/world/2026/sep/16/us-visa-restrictions-south-africans-trump-claims-anti-white-discrimination",
+            "resumen": "Announcement of visa restrictions follows Trump’s false claims of ‘white genocide’ taking place in South Africa The US has announced visa restrictions on some South Africans as Donald Trump’s administration continues to claim that South…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "It’s Boom Time in Kyrgyzstan, Courtesy in Part of the War in Ukraine",
-            "link": "https://www.nytimes.com/2026/09/15/world/asia/kyrgyzstan-economy-russia-war.html",
-            "resumen": "The economy of the Central Asian nation grew by 11 percent last year, partly by becoming a key conduit for goods flowing into Russia.",
+            "titulo": "How Sept. 11 Paved the Way to Mideast Power for Iran",
+            "link": "https://www.nytimes.com/2026/09/16/world/middleeast/sept-11-iran-islamic-state-iraq.html",
+            "resumen": "The American invasion of Iraq in 2003 set the path for Tehran to dominate its neighbor and whetted its appetite to expand its influence across the greater Middle East.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Denmark says Russian warship fired flares at military helicopter",
-            "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
+            "titulo": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+            "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Ebola outbreak in DRC has peaked, say authorities, as infection rates slow",
-            "link": "https://www.theguardian.com/global-development/2026/sep/15/ebola-outbreak-in-drc-has-peaked-say-authorities-as-infection-rates-slow",
-            "resumen": "Almost 3,500 people have died in outbreak and experts say more must be done to ensure Bundibugyo is under control Authorities in the Democratic Republic of the Congo have announced that the Ebola outbreak ravaging parts of the country has…",
+            "titulo": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
+            "link": "https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa",
+            "resumen": "String of female murder victims found near Johannesburg’s international airport, including five in the past week The discovery of the bodies of seven women around Johannesburg’s international airport, including five in the past week, has…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
-            "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The rise has reignited the debate about the state pension's long-term affordability and generational fairness.",
+            "titulo": "Petrol and diesel price rises push UK inflation higher",
+            "link": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.",
             "fuente": "BBC"
           },
           {
-            "titulo": "AI-linked stocks slide after tech bosses call for slowdown in ‘reckless’ development",
-            "link": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
-            "resumen": "Donald Trump dismisses attempts to increase controls on artificial intelligence as ‘sick conspiracy’ AI -linked stocks tumbled on Monday after the bosses of Anthropic, OpenAI and SpaceX called for a slowdown in AI “reckless” development ,…",
+            "titulo": "US treasury secretary hails government’s bond buyback a success",
+            "link": "https://www.theguardian.com/business/2026/sep/15/scott-bessent-bonds-buyback",
+            "resumen": "On Tuesday, the 10-year treasury rate yield reached a 19-year high at 5.041%, even as investors wary Iran war fallout Scott Bessent, the US treasury secretary, claimed the government’s massive buyback of US bonds was a success. The claim…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Here’s the latest.",
-            "link": "https://www.nytimes.com/live/2026/09/15/business/bessent-testify/heres-the-latest",
-            "resumen": "",
+            "titulo": "Bessent and Warsh Take On the Bond Bears",
+            "link": "https://www.nytimes.com/2026/09/16/business/dealbook/bessent-warsh-bond-investors.html",
+            "resumen": "The Treasury secretary and the Federal Reserve chairman face similar tests: calming investors’ growing worries about inflation and deficits.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "US borrowing costs hit 5% for first time since 2023 amid bond sell-off",
-            "link": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-            "resumen": "Soaring oil prices of above $108 a barrel after Houthi attacks on Saudi infrastructure stoke inflation fears US government borrowing costs have risen to 5% for the first time since 2023 as soaring oil prices fuelled by the war in the…",
+            "titulo": "European Union invites Canada to become first ever ‘associate member’",
+            "link": "https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member",
+            "resumen": "Commission president says EU must ‘urgently reimagine our partnerships’ as she makes unprecedented offer Europe live – latest updates Canada has been invited to become the first “associate member” of the EU by the European Commission…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "The Unlikely Political Bedfellows on A.I. Regulation",
-            "link": "https://www.nytimes.com/2026/09/15/business/dealbook/ai-regulation-khan-sacks.html",
-            "resumen": "David Sacks and Lina Khan? Bernie Sanders and Steve Bannon? The debate on artificial intelligence limits is creating unlikely alliances.",
+            "titulo": "In Silicon Valley, Hardware Is Having a Moment Again",
+            "link": "https://www.nytimes.com/2026/09/16/business/dealbook/in-silicon-valley-hardware-is-having-a-moment-again.html",
+            "resumen": "As A.I. transforms the technology industry, venture capital is flowing into “deep tech” start-ups that build robots and semiconductors.",
             "fuente": "N.Y. Times"
           }
         ]
@@ -224,15 +224,15 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "What weapon could the US have put into space?",
-            "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
+            "titulo": "Colombia and Brazil deadliest countries for environmental activists, report says",
+            "link": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The two countries accounted for 52% of killings of environmental activists in 2025, according to Global Witness.",
             "fuente": "BBC"
           },
           {
-            "titulo": "US confirms for first time it has deployed weapons in space",
-            "link": "https://www.theguardian.com/science/2026/sep/15/us-confirms-first-time-it-has-deployed-weapons-space",
-            "resumen": "Analysts warn of an acceleration in high-risk arms race with Russia and China in Earth’s orbit The US has deployed weapons in space, the US military has confirmed, in an extraordinary public announcement that analysts warn will accelerate…",
+            "titulo": "UK mathematician debunks myth around Parthenon’s optical illusions",
+            "link": "https://www.theguardian.com/science/2026/sep/16/uk-mathematician-debunks-myth-parthenon-optical-illusions",
+            "resumen": "Study challenges belief that temple’s curves were designed to correct optical illusions that would have ruined its clean lines A mathematician has uncovered what may be one of the longest-running myths in history after studying optical…",
             "fuente": "The Guardian"
           },
           {
@@ -242,15 +242,15 @@ const EDICION_MUNDO = {
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Will El Niño bring winter snow to the UK?",
-            "link": "https://www.bbc.co.uk/news/videos/cred7xze25ndo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Will El Niño bring winter snow to the UK? Matt Taylor looks ahead to the autumn and winter months.",
+            "titulo": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
+            "link": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies.",
             "fuente": "BBC"
           },
           {
-            "titulo": "No, collagen won’t make your wrinkles disappear - video",
-            "link": "https://www.theguardian.com/science/video/2026/sep/15/is-collagen-a-lie-video",
-            "resumen": "Collagen powders, gummies and pills have boomed in popularity in recent years boosted by claims that they smooth wrinkles, promote glossy hair and help with joint pain. Amid the noise it can be hard to figure out whether there’s any…",
+            "titulo": "Plantwatch: The insect-eating alpine plant that proves Darwin was right",
+            "link": "https://www.theguardian.com/science/2026/sep/16/plantwatch-the-insect-eating-alpine-plant-that-proves-darwin-was-right",
+            "resumen": "Study shows Saxifraga candelabrum traps and digests midges – just as the evolutionary biologist predicted back in 1875 In 1875, Charles Darwin predicted that Saxifraga candelabrum , a small alpine plant, could eat insects. Its leaves,…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Sterling admits dangerous driving after crash",
-            "link": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The former England winger crashed a Lamborghini into motorway barriers in May.",
+            "titulo": "What next for Gabriel and Man Utd?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/crgjqw0l01njo?at_medium=RSS&at_campaign=rss",
+            "resumen": "On the night JJ Gabriel was supposed to become Manchester United's youngest player in history, the scramble is on to persuade him not to quit.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Patrick Mahomes triumphant on NFL return as Chiefs beat up misfiring Broncos",
-            "link": "https://www.theguardian.com/sport/2026/sep/14/patrick-mahomes-triumphant-on-nfl-return-as-chiefs-beat-up-misfiring-broncos",
-            "resumen": "Denver Broncos 10–31 Kansas City Chiefs Chiefs QB throws two TDs on return from torn ACL Kenneth Walker III rushes for 173 yards on debut Kenneth Walker III ran for 173 yards and scored two touchdowns on his Chiefs debut, stealing some of…",
+            "titulo": "Watching Cavan Sullivan, excitement is tempered by memories of hypetrains past",
+            "link": "https://www.theguardian.com/football/2026/sep/16/cavan-sullivan-mls-philadelphia-union",
+            "resumen": "The 16-year-old Union star isn’t the first wunderkind to be feted by the American soccersphere The trouble with trying not to hype up Cavan Sullivan is that he keeps on doing cool stuff. Like this past weekend, when he scampers along on a…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "London loses bid to host 2029 World Athletics as Nairobi named host",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/crwyzvyn0p3go?at_medium=RSS&at_campaign=rss",
-            "resumen": "London has lost to Nairobi in its bid to host the World Athletics Championships in 2029, while the 2031 event will be held in Munich.",
+            "titulo": "Maresca criticises focus on controversial Manchester derby winner",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmx2zyjylee1o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Manchester City manager Enzo Maresca says it is \"quite poor\" that the controversy surrounding Erling Haaland's winner has overshadowed his side's win at Manchester United.",
             "fuente": "BBC"
           },
           {
-            "titulo": "From influencers to brutal finishes, US Open 2026 was worst grand slam in recent memory | Tumaini Carayol",
-            "link": "https://www.theguardian.com/sport/2026/sep/14/us-open-2026-worst-grand-slam-tournament-in-recent-memory",
-            "resumen": "Despite the drama on the court, the poor condition of Arthur Ashe Stadium was just one problem among many At the end of another comically late night and early morning in Flushing Meadows, when the remaining spectators were departing, a…",
+            "titulo": "Mets fans celebrate home run against own team as returning hero Alonso goes yard",
+            "link": "https://www.theguardian.com/sport/2026/sep/16/pete-alonso-home-run-mets-fans-cheer",
+            "resumen": "Slugger ties game in ninth with 414ft shot Reaction irks Mets pitcher Sean Manaea Alonso’s departure annoyed many Mets fans Pete Alonso launched his 300th career home run Tuesday night, a tying shot in the ninth inning against his former…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Sweeney ad a barrier for girls in sport - Hunt",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/cr780v5361j0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "British sprinter Amy Hunt says she is concerned about the controversial advert starring Sydney Sweeney being part of a \"barrier\" to girls' participation in sport.",
+            "titulo": "Ranking the greatest all-time fantasy football icons",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cq70dl3pn8xjo?at_medium=RSS&at_campaign=rss",
+            "resumen": "There's nothing quite like the satisfaction of unearthing an absolute Fantasy Premier League bargain - so who are the most iconic picks ever?",
             "fuente": "BBC"
           }
         ]
