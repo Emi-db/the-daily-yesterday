@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "16 de septiembre de 2026",
-    "generada": "14:25",
+    "fecha": "17 de septiembre de 2026",
+    "generada": "14:30",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Por qué aumentaron las ejecuciones en Florida, el estado que más impone la pena de muerte en EE.UU.",
-            "link": "https://www.bbc.com/mundo/articles/c5yjrzwzkrko?at_medium=RSS&at_campaign=rss",
-            "resumen": "Después de años en declive, la pena capital vuelve a estar en auge en Florida, como desea Donald Trump para todo Estados Unidos.",
+            "titulo": "El caso de los 3 estadounidenses que denunciaron torturas en Venezuela y por el que el gobierno de Trump pidió inmunidad para Delcy Rodríguez",
+            "link": "https://www.bbc.com/mundo/articles/crl6j975nz5o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Edgar José Marval fue uno de los 10 estadounidenses detenidos en Venezuela que fueron liberados a cambio de la liberación de Alex Saab, el empresario colombiano aliado de Nicolás Maduro.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Von der Leyen apuesta por que Canadá sea “el primer miembro asociado de la UE”",
-            "link": "https://elpais.com/internacional/2026-09-16/von-de-leyen-apuesta-por-que-canada-sea-el-primer-miembro-asociado-de-la-ue.html",
-            "resumen": "El primer ministro del país norteamericano Mark Carney acude a la Eurocámara en plena guerra comercial con Washington",
+            "titulo": "Mark Carney, tras las nuevas amenazas arancelarias de Trump: “Europa y Canadá son más fuertes juntos”",
+            "link": "https://elpais.com/internacional/2026-09-17/mark-carney-tras-las-nuevas-amenazas-arancelarias-de-trump-europa-y-canada-son-mas-fuertes-juntos.html",
+            "resumen": "El jefe de gobierno canadiense aboga en la Eurocámara por una “alianza profunda” que se convierta en un “faro para otras democracias” y rechaza las amenazas de Trump: “Nadie nos va a imponer con quién podemos firmar acuerdos a nivel…",
             "fuente": "El País"
           },
           {
-            "titulo": "¿El efecto Sydney Sweeney? El deporte femenino rechaza sexualizar su papel como atletas",
-            "link": "http://www.france24.com/es/programas/deportes/20260916-el-efecto-sydney-sweeney-el-deporte-femenino-rechaza-sexualizar-su-papel-como-atletas",
-            "resumen": "Son varias las voces de atletas femeninas que se han levantado contra una campaña publicitaria de la actriz Sydney Sweeney en la que adorna su desnudez con elementos deportivos para una casa de apuestas. Ese mensaje ha generado un…",
+            "titulo": "EE. UU. niega visado e impide asistencia del presidente de la Autoridad Palestina al encuentro de la ONU",
+            "link": "http://www.france24.com/es/medio-oriente/20260917-ee-uu-niega-visado-e-impide-asistencia-del-presidente-de-la-autoridad-palestina-al-encuentro-de-la-onu",
+            "resumen": "Por segundo año consecutivo, el Gobierno estadounidense denegó los visados ​​para una delegación palestina de alto nivel, incluido el presidente de la Autoridad Nacional Palestina, Mahmoud Abbas, por lo que no podrán asistir a la reunión…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Las nuevas tácticas de intimidación de los grupos antiinmigrantes que preocupan a Reino Unido",
-            "link": "https://www.bbc.com/mundo/articles/c770z7v41d8o?at_medium=RSS&at_campaign=rss",
-            "resumen": "El nuevo grupo Patriot Platform asegura que busca aglutinar a votantes de clase trabajadora para influir en los partidos políticos de derecha.",
+            "titulo": "Las imágenes que revelan la destrucción causada por Irán en instalaciones militares de EE.UU.",
+            "link": "https://www.bbc.com/mundo/articles/cr5yevn02vv8o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Las fotografías obtenidas por la cadena CBS muestran aviones destruidos, remolques aplastados y edificios gravemente dañados en bases de Arabia Saudita y Kuwait.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Trump pierde en el Supremo la batalla del voto por correo, pero sigue su guerra para subvertir las ‘midterms’",
-            "link": "https://elpais.com/us/2026-09-16/trump-pierde-en-el-supremo-la-batalla-del-voto-por-correo-pero-sigue-su-guerra-para-subvertir-las-midterms.html",
-            "resumen": "El fallo supone un revés para el plan del Gobierno de influir en los comicios a base de amenazas a funcionarios, presiones a los Estados y colocación de negacionistas electorales en puestos clave",
+            "titulo": "Trump amenaza con “cortar el comercio” si la UE se asocia con Canadá",
+            "link": "https://elpais.com/internacional/2026-09-17/trump-amenaza-con-cortar-el-comercio-si-la-ue-se-asocia-con-canada.html",
+            "resumen": "El presidente de Estados Unidos se reserva la imposición de “elevados aranceles” si prospera el plan de alianza transatlántica entre su vecino del Norte y Europa",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "El Gobierno limita el poder de las comunidades para conseguir subvenciones",
-            "link": "https://elpais.com/economia/2026-09-16/el-gobierno-limita-el-poder-de-las-comunidades-para-conseguir-subvenciones.html",
-            "resumen": "La declaración de “inversión estratégica” que otorgará el Ejecutivo marcará las prioridades a la hora de pedir los incentivos regionales",
+            "titulo": "La Airef empeora hasta el 2,7% del PIB su previsión de déficit para este año",
+            "link": "https://elpais.com/economia/2026-09-17/la-airef-empeora-hasta-el-27-del-pib-su-prevision-de-deficit-para-el-ano.html",
+            "resumen": "Inés Olóndriz, presidenta del organismo, alerta de que el margen fiscal se agota y que la productividad estancada puede minar el crecimiento futuro",
             "fuente": "El País"
           },
           {
-            "titulo": "La Fed debería desafiar a Trump con una subida de tipos, según los economistas",
-            "link": "https://www.expansion.com/economia/financial-times/2026/09/16/6aaa59a3468aeb6f088b45ac.html",
-            "resumen": "La gran mayoría de los participantes en una encuesta del FT y la Booth School afirman que el banco central debería elevar los costes de financiación para contener la inflación. Leer",
+            "titulo": "Los hackers exigen a Revolut un rescate de tres millones de dólares para no filtrar los datos de los clientes",
+            "link": "https://www.expansion.com/economia/financial-times/2026/09/17/6aabc9e7468aeb7b378b4589.html",
+            "resumen": "Un grupo que se autodenomina iamnotavillain amenaza con vender los registros confidenciales de los clientes de Revolut a otros piratas si Revolut no le paga un rescate de tres millones en un plazo de 24 horas. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Decepcionar al mercado o enfurecer a Trump: el dilema de Warsh en su primera gran decisión al frente de la Fed",
-            "link": "https://elpais.com/economia/2026-09-16/decepcionar-al-mercado-o-enfurecer-a-trump-el-dilema-de-warsh-en-su-primera-gran-decision-al-frente-de-la-fed.html",
-            "resumen": "Los analistas prevén que la Reserva Federal suba tipos, presionada por la inflación, a pesar de las presiones de la Casa Blanca, presionado por una inflación que no da tregua",
+            "titulo": "El precio de la vivienda alcanza un nuevo récord con 2.355 euros el metro cuadrado",
+            "link": "https://elpais.com/economia/vivienda/2026-09-17/el-precio-de-la-vivienda-alcanza-un-nuevo-record-con-2355-euros-el-metro-cuadrado.html",
+            "resumen": "Entre abril y junio, el valor medio creció un 12,5% y encadena ya 15 trimestres consecutivos de subidas. En los últimos cuatro años se ha encarecido en 260 euros",
             "fuente": "El País"
           },
           {
-            "titulo": "CaixaBank venderá más riesgo para blindar el dividendo pese al alza del crédito",
-            "link": "https://www.expansion.com/empresas/banca/2026/09/16/6aa141d3468aeb420c8b4571.html",
-            "resumen": "El banco asegura que las condiciones de precio y liquidez son buenas. El objetivo es ceder al mercado los activos que generen menos rentabilidad. Leer",
+            "titulo": "Revolut planea una doble cotización en Nueva York y Londres y aspira a \"cientos de millones\" de clientes",
+            "link": "https://www.expansion.com/empresas/banca/2026/09/17/6aabdf6fe5fdea3c2b8b4597.html",
+            "resumen": "Storonsky afirma que el neobanco tiene un mayor retorno sobre el capital que las entidades tradicionales, pero reconoce que su rentabilidad por cliente es inferior. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Vodafone dejará de ingresar hasta 1.100 millones de euros tras la salida de Patrick Drahi de su filial alemana de fibra",
-            "link": "https://cincodias.elpais.com/companias/2026-09-16/vodafone-dejara-de-ingresar-hasta-1100-millones-de-euros-tras-la-salida-de-patrick-drahi-de-su-filial-alemana-de-fibra.html",
-            "resumen": "Société Générale adquiere el 50% de OXG sin asumir las obligaciones de pago aplazado y objetivos pactados previamente con Geodesia Holding",
+            "titulo": "Anthropic desembarca en España con una exdirectiva de Google: “Ralentizar la IA nos da la oportunidad de hacerlo bien”",
+            "link": "https://elpais.com/economia/2026-09-17/anthropic-desembarca-en-espana-para-impulsar-sus-negocios-en-plena-tormenta-en-la-industria-de-la-ia.html",
+            "resumen": "Cristina Pitarch considera a Madrid como un centro estratégico para la península, el sur de Europa y los mercados que hablan español. Grupos como Santander, CaixaBank, BBVA, Telefónica o Indra ya usan su inteligencia artificial",
             "fuente": "El País"
           }
         ]
@@ -78,33 +78,33 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
+            "titulo": "Ratones con millones de neuronas humanas en su cerebro acercan la respuesta a enfermedades mentales",
+            "link": "https://elpais.com/ciencia/2026-09-16/ratones-con-millones-de-neuronas-humanas-en-su-cerebro-acercan-la-respuesta-a-enfermedades-mentales.html",
+            "resumen": "Científicos de Estados Unidos y España crean roedores vivos cuya corteza cerebral proviene de personas sanas para facilitar la investigación del autismo, la esquizofrenia y la epilepsia",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "“Eres tú mismo, no rindes cuentas a nadie y nunca te disculpas”. Los extraños mensajes de una IA de OpenAI en el último incidente",
+            "link": "https://elpais.com/tecnologia/2026-09-17/eres-tu-mismo-no-rindes-cuentas-a-nadie-y-nunca-te-disculpas-los-extranos-mensajes-de-una-ia-de-openai-en-el-ultimo-incidente.html",
+            "resumen": "El último informe de incidencias de la compañía detrás de ChatGPT escondía unas frases con una motivación difícil de entender",
+            "fuente": "El País"
+          },
+          {
             "titulo": "Hallado en Teruel el primer diplodocus fuera de Norteamérica",
             "link": "https://elpais.com/ciencia/2026-09-15/hallado-en-teruel-el-primer-diplodocus-fuera-de-norteamerica.html",
             "resumen": "El ejemplar medía 25 metros y vivió hace 150 millones de años",
             "fuente": "El País"
           },
           {
-            "titulo": "Sam Altman insiste en el peligro de la IA: “El mundo hace bien en tener miedo, pero debe confiar en nosotros”",
-            "link": "https://elpais.com/tecnologia/2026-09-16/sam-altman-insiste-en-el-peligro-de-la-ia-el-mundo-hace-bien-en-tener-miedo-pero-debe-confiar-en-nosotros.html",
-            "resumen": "Mark Zuckerberg se pronuncia por primera vez: “Nos centramos en la seguridad”. Los líderes del sector, como Dario Amodei o Jensen Huang, coinciden en una conferencia y repiten sus temores",
+            "titulo": "De los ‘amigos digitales’ al control parental: Bruselas exige nuevas condiciones a la IA que usan los menores",
+            "link": "https://elpais.com/tecnologia/2026-09-17/de-los-amigos-digitales-al-control-parental-bruselas-exige-nuevas-condiciones-a-la-ia-que-usan-los-menores.html",
+            "resumen": "La normativa presentada hoy por la Comisión busca minimizar los efectos nocivos del mundo digital en los niños, lo que incluye a herramientas como ChatGPT, además de las redes sociales o los videojuegos ‘online’",
             "fuente": "El País"
           },
           {
             "titulo": "Uno de cada dos españoles apoya usar animales en investigaciones científicas",
             "link": "https://elpais.com/ciencia/2026-09-14/uno-de-cada-dos-espanoles-apoya-usar-animales-en-investigaciones-cientificas.html",
             "resumen": "El 46% de los encuestados considera grave emplear ratones, simios o perros en experimentos, según un estudio",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Los planes para restringir el uso de las redes a los menores, país por país",
-            "link": "https://elpais.com/tecnologia/2026-09-16/los-planes-para-restringir-el-uso-de-las-redes-a-los-menores-pais-por-pais.html",
-            "resumen": "Francia, España e Italia son tres de los Estados de la UE con propuestas para limitar el uso de las plataformas digitales según la edad",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "La élite de las matemáticas teme que se queden vacías de sentido ante los avances de la IA",
-            "link": "https://elpais.com/ciencia/2026-09-13/la-elite-de-las-matematicas-alerta-del-riesgo-de-que-los-avances-de-la-ia-las-vacie-de-sentido.html",
-            "resumen": "Veinticinco medallas Fields y algunos de los matemáticos más importantes del mundo reivindican la importancia del proceso humano de descubrimiento más allá de los resultados",
             "fuente": "El País"
           }
         ]
@@ -119,27 +119,27 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "La convocatoria del Barça para recibir al Racing, con una ausencia",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004227975/convocatoria-barca-recibir-racing-ausencia.html",
-            "resumen": "Hansi Flick, técnico del FC Barcelona, dio a conocer la lista de convocados para enfrentarse esta noche al Racing de Santander en el Spotify Camp Nou . El entrenador azulgrana repite los mismos jugaodres que viajaron el pasado domingo a…",
-            "fuente": "Mundo Deportivo"
-          },
-          {
             "titulo": "\"No puedo fallar tantas\"",
             "link": "https://www.marca.com/futbol/real-madrid/2026/09/16/vinicius-entona-mea-culpa-goles-volver-fallar-tantas.html",
             "resumen": "El brasileño se pronunció en sus redes sociales al final del partido",
             "fuente": "Marca"
           },
           {
-            "titulo": "Con más razones que su racha para pensar en seguir como líder en solitario",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004227946/barca-razones-racha-pensar-seguir-lider-solitario.html",
-            "resumen": "Tras el nuevo sufrido triunfo del Real Madrid en el estadio del Elche (2-3) -ganó en el descuento con un gol de Espí -, el Barça recibe esta noche al Racing de Santander (21:30 horas) en el Spotify Camp Nou con el objetivo de sumar otro…",
-            "fuente": "Mundo Deportivo"
-          },
-          {
             "titulo": "\"¿Qué narices le pasa al Madrid?\"",
             "link": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html",
             "resumen": "La opinión de José Vicente Hernáez",
+            "fuente": "Marca"
+          },
+          {
+            "titulo": "\"El problema me parece obvio...\"",
+            "link": "https://www.marca.com/futbol/real-madrid/2026/09/15/mourinho-mi-unica-critica-matar-partidos.html",
+            "resumen": "La rueda de prensa del entrenador del Real Madrid tras el partido ante el Elche",
+            "fuente": "Marca"
+          },
+          {
+            "titulo": "Así fue el codazo de Osorio a Huijsen... que quedó en nada",
+            "link": "https://www.marca.com/futbol/primera-division/2026/09/15/codazo-osorio-huijsen-qu-video.html",
+            "resumen": "",
             "fuente": "Marca"
           }
         ]
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "September 16, 2026",
-    "generada": "14:25",
+    "fecha": "September 17, 2026",
+    "generada": "14:30",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "EU chief backs plan for Canada to become 'associate member'",
-            "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-            "resumen": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+            "titulo": "Ninth woman's body found as South African police investigate string of deaths",
+            "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
+            "resumen": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
             "fuente": "BBC"
           },
           {
-            "titulo": "US to bar some South Africans over claims of anti-white discrimination",
-            "link": "https://www.theguardian.com/world/2026/sep/16/us-visa-restrictions-south-africans-trump-claims-anti-white-discrimination",
-            "resumen": "Announcement of visa restrictions follows Trump’s false claims of ‘white genocide’ taking place in South Africa The US has announced visa restrictions on some South Africans as Donald Trump’s administration continues to claim that South…",
+            "titulo": "‘Like a Disney movie’: Three wild dog brothers make Africa’s longest journey",
+            "link": "https://www.theguardian.com/environment/2026/sep/17/wildlife-african-wild-dogs-longest-journey-zambia-conservation-aoe",
+            "resumen": "As three siblings came of age and had to leave their pack, scientists tracked the dogs’ perilous 2,500-mile odyssey to find their own territory It sounds like a Disney movie: three wild dogs, all brothers, on an epic journey to find a…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "How Sept. 11 Paved the Way to Mideast Power for Iran",
-            "link": "https://www.nytimes.com/2026/09/16/world/middleeast/sept-11-iran-islamic-state-iraq.html",
-            "resumen": "The American invasion of Iraq in 2003 set the path for Tehran to dominate its neighbor and whetted its appetite to expand its influence across the greater Middle East.",
+            "titulo": "What Is the E1 Project, Israel’s Disputed Settlement Plan in the West Bank?",
+            "link": "https://www.nytimes.com/2026/09/17/world/middleeast/e1-israel-west-bank-settlement.html",
+            "resumen": "Israel’s right-wing government is opening bidding for thousands of housing units in a patch of the West Bank, a move that would thwart efforts at Palestinian statehood.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-            "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+            "titulo": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+            "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
             "fuente": "BBC"
           },
           {
             "titulo": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
             "link": "https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa",
-            "resumen": "String of female murder victims found near Johannesburg’s international airport, including five in the past week The discovery of the bodies of seven women around Johannesburg’s international airport, including five in the past week, has…",
+            "resumen": "String of female murder victims found near Johannesburg’s international airport, including five in the past week The discovery of the bodies of eight women around Johannesburg’s international airport, including five in the past week, has…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,34 +189,34 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Petrol and diesel price rises push UK inflation higher",
-            "link": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.",
+            "titulo": "Interest rates held but Bank signals rise if energy prices stay high",
+            "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
             "fuente": "BBC"
           },
           {
-            "titulo": "US treasury secretary hails government’s bond buyback a success",
-            "link": "https://www.theguardian.com/business/2026/sep/15/scott-bessent-bonds-buyback",
-            "resumen": "On Tuesday, the 10-year treasury rate yield reached a 19-year high at 5.041%, even as investors wary Iran war fallout Scott Bessent, the US treasury secretary, claimed the government’s massive buyback of US bonds was a success. The claim…",
+            "titulo": "Trump and Rubio allies are vying for control of Cuba’s assets if regime falls",
+            "link": "https://www.theguardian.com/us-news/2026/sep/17/trump-marco-rubio-cuba",
+            "resumen": "Washington and Florida insiders are exploring lucrative deals for a post-communist Cuba crushed by ever-increasing US sanctions Spanish hotel chains . A Canadian mining firm . European shipping giants . Visa and Mastercard . Scores of…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Bessent and Warsh Take On the Bond Bears",
-            "link": "https://www.nytimes.com/2026/09/16/business/dealbook/bessent-warsh-bond-investors.html",
-            "resumen": "The Treasury secretary and the Federal Reserve chairman face similar tests: calming investors’ growing worries about inflation and deficits.",
+            "titulo": "As a New Oil Power, China Gains More Sway Over Energy Markets",
+            "link": "https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html",
+            "resumen": "The war with Iran revealed just how much influence the world’s biggest oil importer has over prices and other countries’ supplies of jet fuel, gasoline and diesel.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "European Union invites Canada to become first ever ‘associate member’",
-            "link": "https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member",
-            "resumen": "Commission president says EU must ‘urgently reimagine our partnerships’ as she makes unprecedented offer Europe live – latest updates Canada has been invited to become the first “associate member” of the EU by the European Commission…",
+            "titulo": "Barclays workers ask for more money to return to the office",
+            "link": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Trump threatens to stop trading with EU over ‘laughable’ membership offer to Canada",
+            "link": "https://www.theguardian.com/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs",
+            "resumen": "US president responds as Mark Carney seeks to move closer to Europe and diversify defence ties Europe live – latest updates Donald Trump has threatened the EU with “serious tariffs” and a halt to trade after the bloc proposed making…",
             "fuente": "The Guardian"
-          },
-          {
-            "titulo": "In Silicon Valley, Hardware Is Having a Moment Again",
-            "link": "https://www.nytimes.com/2026/09/16/business/dealbook/in-silicon-valley-hardware-is-having-a-moment-again.html",
-            "resumen": "As A.I. transforms the technology industry, venture capital is flowing into “deep tech” start-ups that build robots and semiconductors.",
-            "fuente": "N.Y. Times"
           }
         ]
       },
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Colombia and Brazil deadliest countries for environmental activists, report says",
-            "link": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The two countries accounted for 52% of killings of environmental activists in 2025, according to Global Witness.",
+            "titulo": "The farmer who turned to singing after bovine TB silenced his fields",
+            "link": "https://www.bbc.co.uk/news/articles/c58jd32wgwk4o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Dairy farmer Mervyn Kelso struggled with the sadness of the empty fields when he lost his entire herd to bovine TB.",
             "fuente": "BBC"
           },
           {
-            "titulo": "UK mathematician debunks myth around Parthenon’s optical illusions",
-            "link": "https://www.theguardian.com/science/2026/sep/16/uk-mathematician-debunks-myth-parthenon-optical-illusions",
-            "resumen": "Study challenges belief that temple’s curves were designed to correct optical illusions that would have ruined its clean lines A mathematician has uncovered what may be one of the longest-running myths in history after studying optical…",
+            "titulo": "‘Very messy eaters’: scientists solve the mystery of when black holes ‘burp’",
+            "link": "https://www.theguardian.com/science/2026/sep/17/black-hole-burps-scientists-solve-mystery-astronomy",
+            "resumen": "The astronomical bodies fire off powerful jets in two distinct phases in their feeding cycle, researchers discover Scientists have solved the mystery of when black holes “burp” – when the astronomical bodies launch jets after feeding on…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Exoplanets Offer Clues to What Lies Beyond Our Solar System",
-            "link": "https://www.nytimes.com/2026/09/15/science/exoplanets.html",
-            "resumen": "Thousands of planets have been discovered beyond our solar system, offering clues to where life might thrive and whether Earth is truly unique.",
+            "titulo": "A Feather Found in Dinosaur Poop Might Explain How Birds Beat Extinction",
+            "link": "https://www.nytimes.com/2026/09/17/science/feather-dinosaur-poop-bird-extinction.html",
+            "resumen": "It’s the only example of a dinosaur-era feather found within rock that wasn’t completely flattened through the centuries.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
-            "link": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies.",
+            "titulo": "Part-human part-mouse brain developed in science breakthrough",
+            "link": "https://www.bbc.co.uk/news/articles/c60m3k28j81mo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Researchers at Stanford University genetically altered mice to be able to receive and function with human brain cells.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Plantwatch: The insect-eating alpine plant that proves Darwin was right",
-            "link": "https://www.theguardian.com/science/2026/sep/16/plantwatch-the-insect-eating-alpine-plant-that-proves-darwin-was-right",
-            "resumen": "Study shows Saxifraga candelabrum traps and digests midges – just as the evolutionary biologist predicted back in 1875 In 1875, Charles Darwin predicted that Saxifraga candelabrum , a small alpine plant, could eat insects. Its leaves,…",
+            "titulo": "Climate crisis probably weakened glacier that caused devastating Nepal-Tibet floods, first study finds",
+            "link": "https://www.theguardian.com/science/2026/sep/17/climate-crisis-likely-behind-deadly-nepal-tibet-floods",
+            "resumen": "Scientists say global heating was a destabilising factor in collapse of 200,000 sq metre glacier in August Climate breakdown probably weakened the glacier that collapsed causing catastrophic floods and killing over a thousand people in…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "What next for Gabriel and Man Utd?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/crgjqw0l01njo?at_medium=RSS&at_campaign=rss",
-            "resumen": "On the night JJ Gabriel was supposed to become Manchester United's youngest player in history, the scramble is on to persuade him not to quit.",
+            "titulo": "How an Aston Villa fringe player became Europe's most prolific scorer",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cvj64wg0lgeyo?at_medium=RSS&at_campaign=rss",
+            "resumen": "No player in Europe's top five leagues has scored more goals than Donyell Malen since his Roma debut in January - BBC Sport examines his transformation.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Watching Cavan Sullivan, excitement is tempered by memories of hypetrains past",
-            "link": "https://www.theguardian.com/football/2026/sep/16/cavan-sullivan-mls-philadelphia-union",
-            "resumen": "The 16-year-old Union star isn’t the first wunderkind to be feted by the American soccersphere The trouble with trying not to hype up Cavan Sullivan is that he keeps on doing cool stuff. Like this past weekend, when he scampers along on a…",
+            "titulo": "Robert Kraft, once the NFL’s good guy, is just another billionaire silencing Macklemore | Howard Bryant",
+            "link": "https://www.theguardian.com/sport/2026/sep/17/robert-kraft-macklemore-ed-sheeran-stadium-ban-nfl",
+            "resumen": "The Patriots owner’s decision to ban the rapper from performing at the team’s stadium brings back memories of the blackballing of Colin Kaepernick Six years ago, in the middle of a “racial reckoning” that never was, a White House that had…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Maresca criticises focus on controversial Manchester derby winner",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmx2zyjylee1o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Manchester City manager Enzo Maresca says it is \"quite poor\" that the controversy surrounding Erling Haaland's winner has overshadowed his side's win at Manchester United.",
+            "titulo": "Real Madrid keen on Man Utd forward Gabriel, 15",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Mets fans celebrate home run against own team as returning hero Alonso goes yard",
-            "link": "https://www.theguardian.com/sport/2026/sep/16/pete-alonso-home-run-mets-fans-cheer",
-            "resumen": "Slugger ties game in ninth with 414ft shot Reaction irks Mets pitcher Sean Manaea Alonso’s departure annoyed many Mets fans Pete Alonso launched his 300th career home run Tuesday night, a tying shot in the ninth inning against his former…",
+            "titulo": "Jets suspend US Olympic hero Connor Hellebuyck for training camp no-show",
+            "link": "https://www.theguardian.com/sport/2026/sep/17/connor-hellebuyck-winnipeg-jets-suspended-training-camp-trade-request",
+            "resumen": "Three-time Vezina winner fails to report to camp US Olympic star requested trade earlier this summer Jets general manager to address situation Thursday Winnipeg goaltender Connor Hellebuyck, who publicly requested a trade last month, was…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Ranking the greatest all-time fantasy football icons",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cq70dl3pn8xjo?at_medium=RSS&at_campaign=rss",
-            "resumen": "There's nothing quite like the satisfaction of unearthing an absolute Fantasy Premier League bargain - so who are the most iconic picks ever?",
+            "titulo": "FA chair demands Infantino release World Cup sell-off documents",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckqxvd41z93qo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Fifa president Gianni Infantino has been told to release all documents relating to his controversial plan to sell off a stake in the World Cup.",
             "fuente": "BBC"
           }
         ]
