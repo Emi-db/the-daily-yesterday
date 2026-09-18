@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "17 de septiembre de 2026",
-  "generada": "14:30",
+  "fecha": "18 de septiembre de 2026",
+  "generada": "13:56",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Malvinas: Uruguay negó que se vaya a tender un cable submarino para conectar a su territorio con las islas",
-          "link": "https://www.clarin.com/politica/malvinas-uruguay-nego-vaya-tender-cable-submarino-conectar-territorio-islas_0_fXKEzVjysJ.html",
-          "resumen": "\"Nunca tuvimos ninguna propuesta, es una noticia falsa\", aseguró el mandatario del país vecino, Yamandú Orsi. A su vez, reafirmó la postura respecto a la disputa de soberanía en el Atlántico Sur, al aseverar que \"Uruguay tiene posición…",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente viaja hoy a Bahía Blanca para reunirse con empresarios adheridos al RIGI",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-viaja-hoy-bahia-blanca-reunirse-empresarios-adhirieron-rigi_0_qyiG51pbP0.html",
+          "resumen": "El mandatario viajará junto a Karina Milei y Diego Santilli, con quienes recorrerá las plantas de Compañía Mega y Louis Dreyfus Company, dos empresas que se incorporaron al régimen de grandes inversiones.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Senado, en vivo: las últimas noticias del debate sobre el proyecto de Inocencia Fiscal II, minuto a minuto",
-          "link": "https://www.infobae.com/politica/2026/09/17/senado-en-vivo-las-ultimas-noticias-del-debate-sobre-el-proyecto-de-inocencia-fiscal-ii-minuto-a-minuto/",
-          "resumen": "La reforma de la Carta Orgánica del Banco Central, uno de los proyectos prioritarios para el Ejecutivo, quedó fuera de la agenda",
-          "fuente": "Infobae"
-        },
-        {
-          "titulo": "Senado hoy, EN VIVO: LLA y sus aliados buscan aprobar los proyectos de Inocencia Fiscal II y la reforma de biocombustibles",
-          "link": "https://www.clarin.com/politica/senado-hoy-vivo-lla-aliados-buscan-aprobar-proyectos-inocencia-fiscal-ii-reforma-biocombustibles_0_XKQgxa5Iwa.html",
-          "resumen": "Además, se tratarán los pliegos de tres jueces y la transferencia de competencias a la Ciudad de Buenos Aires.",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "Maximiliano Pullaro arma una cumbre de gobernadores aliados en Rosario en plena discusión por el presupuesto y las PASO",
-          "link": "https://www.lanacion.com.ar/politica/maximiliano-pullaro-arma-una-cumbre-de-gobernadores-aliados-en-rosario-en-plena-discusion-por-el-nid17092026/",
-          "resumen": "Los mandatarios de Córdoba, Chubut y Corrientes recorrerán las sedes de los Juegos Suramericanos y posarán para una foto conjunta; vuelve a surgir el plan de construir una tercera vía con miras a 2027",
+          "titulo": "Javier Milei y sus medidas, en vivo: “Después se quejan cuando les digo que son mier... humanas”, apuntó el Presidente contra la prensa",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-despues-se-quejan-cuando-les-digo-que-son-mier-humanas-apunto-el-nid18092026/",
+          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Patricia Bullrich dijo que no le avisaron del recorte en Discapacidad: “Quedás como tonto o que engañás, eso resiente las relaciones”",
-          "link": "https://www.infobae.com/politica/2026/09/17/patricia-bullrich-dijo-que-no-le-avisaron-del-recorte-en-discapacidad-quedas-como-tonto-o-que-enganas-eso-resiente-las-relaciones/",
-          "resumen": "La senadora del PRO expuso fallas en la coordinación interna del Gobierno. Lamentó no haber sido informada de las modificaciones en el proyecto de Presupuesto 2027, a pesar de ser jefa de bloque y parte de la Mesa Política",
+          "titulo": "Malvinas y seguridad: una especialista advirtió que el proyecto incorpora facultades que exceden el reclamo de soberanía",
+          "link": "https://www.infobae.com/politica/2026/09/18/malvinas-y-seguridad-una-especialista-advirtio-que-el-proyecto-incorpora-facultades-que-exceden-el-reclamo-de-soberania/",
+          "resumen": "La politóloga Mariana Altieri cuestionó que la iniciativa vincule la disputa territorial con seguridad, inteligencia y desinformación",
           "fuente": "Infobae"
+        },
+        {
+          "titulo": "La nueva encuesta que le llegó a Javier Milei con datos clave para su reelección",
+          "link": "https://www.clarin.com/politica/nueva-encuesta-llego-javier-milei-datos-clave-reeleccion_0_omBKtjbbmv.html",
+          "resumen": "Es el último estudio nacional de Opinaia, una firma que envía sus trabajos al Gobierno. La evaluación de la gestión, la imagen del Presidente y las expectativas económicas. Además, intención de voto por espacio y un balotaje con Kicillof.",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "La Justicia ordenó desalojar la planta de Fate a siete meses de su cierre y hay protestas",
+          "link": "https://www.lanacion.com.ar/politica/la-justicia-ordeno-desalojar-la-planta-de-fate-a-siete-meses-de-su-cierre-y-hay-protestas-nid18092026/",
+          "resumen": "Tras la decisión, el gremio organiza un abrazo simbólico y una conferencia de prensa, que se hará a las 10",
+          "fuente": "La Nación"
         }
       ]
     },
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Sube la confianza del consumidor después de dos meses de caída: mejoras en el interior y en los sectores bajos",
-          "link": "https://www.clarin.com/economia/sube-confianza-consumidor-despues-meses-caida-mejoras-interior-sectores-bajos_0_Ml4rZ0QrKY.html",
-          "resumen": "El índice de la Universidad Di Tella muestra que la Ciudad de Buenos Aires y los sectores altos son los más descreídos. Y hay más optimismo sobre la situación personal que sobre la macroeconomía.",
+          "titulo": "Ley de Biocombustibles: el Consejo Agroindustrial y exportadores celebraron la media sanción y aseguran que destrabaría inversiones por US$ 1.000 millones",
+          "link": "https://www.clarin.com/rural/ley-biocombustibles-consejo-agroindustrial-exportadores-celebraron-media-sancion-aseguran-destrabaria-inversiones-us-1000-millones_0_x40li6r96Z.html",
+          "resumen": "El Consejo Agroindustrial Argentino (CAA) y la Cámara de la Industria Aceitera (Ciara) apoyaron la aprobación en el Senado del proyecto impulsado por el oficialismo, que aumenta los cortes con combustibles fósiles y abre la posibilidad de…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Nintendo revela un remake de su juego más icónico, su primera película live action y nuevas entregas para la Switch 2",
-          "link": "https://www.lanacion.com.ar/tecnologia/nintendo-revela-un-remake-de-su-juego-mas-iconico-su-primera-pelicula-live-action-y-nuevas-entregas-nid17092026/",
-          "resumen": "Una nueva versión de un clásico competirá con GTA 6; “La Leyenda de Zelda” va a la pantalla grande en su 40° aniversario; su consola entra en calor con la llegada de franquicias históricas pero tiene un revés en los mercados japoneses",
+          "titulo": "Micromedidas y paciencia, la apuesta oficial hasta la elección",
+          "link": "https://www.lanacion.com.ar/economia/micromedidas-y-paciencia-la-apuesta-oficial-hasta-la-eleccion-nid17092026/",
+          "resumen": "En estos días, todos los esfuerzos del Gobierno están puestos en demostrar que se puede conseguir aprobar el presupuesto 2027",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La economía argentina vuelve a encender una señal de alerta: el riesgo de recesión subió al 82%",
-          "link": "https://www.ambito.com/economia/la-argentina-vuelve-encender-una-senal-alerta-el-riesgo-recesion-subio-al-82-n6323361",
-          "resumen": "El Índice Líder de la Universidad Di Tella cayó 0,27% en agosto y cortó la mejora que había mostrado la probabilidad de recesión en julio. Solo tres de las diez variables que integran el indicador registraron avances significativos.",
+          "titulo": "Crece el pluriempleo y ya 4 de cada 10 trabajadores buscan un complemento para sus ingresos",
+          "link": "https://www.ambito.com/economia/crece-el-pluriempleo-y-ya-4-cada-10-trabajadores-buscan-un-complemento-sus-ingresos-n6323854",
+          "resumen": "El estudio refleja una profunda transformación en los hábitos de ahorro, las decisiones de inversión y las preferencias laborales según la franja etaria, la región geográfica y el grado de familiaridad con las herramientas digitales.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Rocca y Eurnekian construyen un nuevo gasoducto desde Vaca Muerta para exportar a Brasil",
-          "link": "https://www.clarin.com/economia/rocca-eurnekian-construyen-nuevo-gasoducto-vaca-muerta-exportar-brasil_0_2HgKsSKvGE.html",
-          "resumen": "Será desde Tratayén, en Neuquén, hasta La Carlota, en Córdoba. Permitirá transportar gas hasta el norte y desbloquear exportaciones. La inversión la hará Transportadora de Gas del Norte (TGN) y rondará los 2.200 millones de dólares.",
+          "titulo": "Aruba: cómo la isla paradisíaca se reconvirtió al turismo sustentable y hoy es un imán para los argentinos",
+          "link": "https://www.clarin.com/economia/aruba-isla-paradisiaca-reconvirtio-turismo-sustentable-hoy-iman-argentinos_0_7IxUVy0DG5.html",
+          "resumen": "La isla, que hace un siglo tuvo al petróleo como motor de su economía, crece a la par que busca evitar el deterioro del destino. Entre enero y julio, recibió a casi 87.500 argentinos, 160% más que en los primeros siete meses de 2025. Por…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Calendario Anses: cuándo cobro la AUH en septiembre 2026 si mi DNI termina en 7",
-          "link": "https://www.lanacion.com.ar/economia/calendario-anses-cuando-cobro-la-auh-en-septiembre-2026-si-mi-dni-termina-en-7-nid17092026/",
-          "resumen": "El calendario de pagos de la Anses para el noveno mes del año incluye la fecha de cobro de los beneficiarios de la Asignación Universal por Hijo con documento finalizado en 7",
+          "titulo": "Súper Niño: mientras hay expectativa por el fenómeno, a 160.000 hectáreas de trigo les falta agua y se encendió una alarma",
+          "link": "https://www.lanacion.com.ar/economia/campo/super-nino-mientras-hay-expectativa-por-el-fenomeno-a-160000-hectareas-de-trigo-les-falta-agua-y-se-nid18092026/",
+          "resumen": "Las escasas lluvias empiezan a preocupar cuando el cereal se acerca a su período crítico; hay regiones que requieren hasta 110 milímetros",
           "fuente": "La Nación"
         }
       ]
@@ -77,34 +77,34 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Por qué Israel quiere más bombas de una tonelada de EE. UU. y por qué la venta es controvertida",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/israel-quiere-bombas-tonelada-ee-uu-venta-controvertida_0_zbYGSJg7Q2.html",
-          "resumen": "La Administración Trump tiene previsto suministrar 60.000 unidades de esta potente munición en un momento en el que crece la oposición en Washington a la venta de armas a Israel.",
+          "titulo": "La historia de EE.UU., contada en 15 millones de primeros borradores de la historia",
+          "link": "https://www.clarin.com/new-york-times-international-weekly/historia-eeuu-contada-15-millones-primeros-borradores-historia_0_8iZWjjGN2r.html",
+          "resumen": "El Times ha sido testigo de la transformación del país. Seguirá atento a lo que suceda.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "\"Tsunami del Himalaya\": un estudio reveló cómo el cambio climático agravó la devastadora riada de Nepal",
-          "link": "https://www.clarin.com/mundo/tsunami-himalaya-estudio-revelo-cambio-climatico-agravo-devastadora-riada-nepal_0_V5HG9SYcXK.html",
-          "resumen": "Un informe de World Weather Attribution afirma que por efecto de la acción humana las temperaturas en la zona fueron más altas de lo habitual en los dos meses previos. Esto fue un factor desestabilizador que actuó sobre una predisposición…",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "El hermano de Lady Di aseguró que tras la muerte de la princesa el rey Carlos lanzó una polémica frase",
-          "link": "https://www.lanacion.com.ar/el-mundo/el-hermano-de-lady-di-aseguro-que-tras-la-muerte-de-la-princesa-el-rey-carlos-lanzo-una-polemica-nid17092026/",
-          "resumen": "El conde Charles Spencer publicará en los próximos días un libro en que habla sobre los días posteriores a la tragedia; desde la Familia Real desmintieron las declaraciones",
+          "titulo": "Tensión en Ceuta: un caótico traslado de migrantes provoca nuevas críticas para Pedro Sánchez",
+          "link": "https://www.lanacion.com.ar/el-mundo/tension-en-ceuta-un-caotico-traslado-de-migrantes-provoca-nuevas-criticas-para-pedro-sanchez-nid18092026/",
+          "resumen": "El operativo para realojar a 1700 personas en carpas temporales ubicadas en el puerto del enclave volvió a dejar al gobierno socialista en el ojo de la tormenta",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Suecia: se confirma la victoria de la oposición de centroizquierda y renuncia el primer ministro",
-          "link": "https://www.clarin.com/mundo/suecia-confirma-victoria-oposicion-centroizquierda-renuncia-primer-ministro_0_uNHEWYutU1.html",
-          "resumen": "El conservador Ulf Kristersson presentó su renuncia pocos minutos después de conocer los resultados. La líder socialdemócrata, Magdalena Andersson, deberá ahora intentar formar gobierno con sus aliados.",
+          "titulo": "¿Qué es E1, donde Israel impulsa un plan de solución a una disputa territorial?",
+          "link": "https://www.clarin.com/new-york-times-international-weekly/e1-israel-impulsa-plan-solucion-disputa-territorial_0_5t5UlNUcUj.html",
+          "resumen": "El Gobierno de derechas de Israel está sacando a concurso la construcción de miles de viviendas en una zona de Cisjordania, una medida que frustraría los esfuerzos por la creación de un Estado palestino.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "OpenAI revela seis nuevos casos de comportamientos “inesperados o preocupantes” en modelos de IA",
-          "link": "https://www.lanacion.com.ar/el-mundo/openai-revela-seis-nuevos-casos-de-comportamientos-inesperados-o-preocupantes-en-modelos-de-ia-nid17092026/",
-          "resumen": "La empresa de inteligencia artificial detectó sistemas que ocultaron errores, inventaron datos y movieron archivos a internet sin permiso",
+          "titulo": "Christina Koch, astronauta de Artemis II: “La respuesta a nuestra misión superó con creces todo lo que habíamos imaginado y esperado”",
+          "link": "https://www.lanacion.com.ar/el-mundo/christina-koch-astronauta-de-artemis-ii-la-respuesta-a-nuestra-mision-supero-con-creces-todo-lo-que-nid17092026/",
+          "resumen": "Tras su regreso a la Tierra, Donald Trump le entregó a cada tripulante una medalla Medalla de Honor Espacial del Congreso, durante una ceremonia en el Centro Espacial Jonhson de Houston",
           "fuente": "La Nación"
+        },
+        {
+          "titulo": "Ataque suicida en una mezquita en Pakistán en pleno viernes de oración: hay al menos 16 muertos",
+          "link": "https://www.clarin.com/mundo/ataque-mezquita-pakistan-pleno-viernes-oracion-16-muertos_0_eEJz9lKjQs.html",
+          "resumen": "Un vehículo cargado de explosivos se estrelló contra el templo en Kohat, noreste del país. La zona fronteriza con Afganistán vive un agravamiento de la actividad terrorista.",
+          "fuente": "Clarín"
         }
       ]
     },
@@ -118,27 +118,27 @@ const EDICION = {
           "fuente": "Clarín"
         },
         {
-          "titulo": "Los tensos cruces entre Lionel Messi y el comisionado de la MLS, Don Garber, tras la final de la Campeones Cup",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/que-genero-los-tensos-cruces-entre-lionel-messi-y-don-gaber-el-comisionado-de-la-mls-nid17092026/",
-          "resumen": "Luego de la victoria de Inter Miami ante Cruz Azul, el rosarino encaró al dirigente para reclamarle una situación que data de un año atrás",
+          "titulo": "Entradas para la despedida de Messi: cuándo salen a la venta, cómo registrarse y qué se sabe de los precios",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/entradas-para-la-despedida-de-messi-cuando-salen-a-la-venta-como-registrarse-y-que-se-sabe-de-los-nid17092026/",
+          "resumen": "La AFA no dio detalles del expendio de tickets, pero todo indica que se venderán a través de Deportick, la plataforma que se utiliza desde hace varios años",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La decisión de Arruabarrena con el 11 de Boca para jugar con San Lorenzo",
-          "link": "https://www.ole.com.ar/boca-juniors/equipo-boca-san-lorenzo-cambios-rotacion-rodolfo-arruabarrena_0_LaSFeK4RW0.html",
-          "resumen": "Tras la clasificación en Brasil, el Vasco ya piensa en el clásico del domingo y deberá resolver cómo administrar el desgaste antes de definir la formación.",
+          "titulo": "La confirmación Monumental de Ponzio antes de Huracán",
+          "link": "https://www.ole.com.ar/river-plate/river-plate-leonardo-ponzio-formacion-titular-11-huracan-monumental_0_s82van7G80.html",
+          "resumen": "El plantel de River se entrenó en Núñez y el DT tiene todo listo para recibir al Globo. Acá, el equipo.",
           "fuente": "Olé"
         },
         {
-          "titulo": "\"Conmigo, no\": Messi se cruzó feo con el jefe de la MLS y le puso los puntos en medio de los festejos de Inter Miami",
-          "link": "https://www.clarin.com/deportes/conmigo-messi-cruzo-feo-jefe-mls-puso-puntos-medio-festejos-inter-miami_0_IpLttKAl1x.html",
-          "resumen": "El tenso momento con Don Gaber se dio justo después del triunfo ante Cruz Azul. El crack argentino sorprendió con su fuerte enojo, tras ganar la Campeones Cup. Cuál sería el motivo del desencuentro con el dirigente máximo de la liga local.",
+          "titulo": "Cristiano Ronaldo se diferencia de Messi y a los 41 años no afloja: fue convocado por Portugal para jugar la Liga de Naciones",
+          "link": "https://www.clarin.com/deportes/cristiano-ronaldo-diferencia-messi-41-anos-afloja-convocado-portugal-jugar-liga-naciones_0_iCR6SuW0ZH.html",
+          "resumen": "Jorge Jesús, el flamante entrenador del combinado luso, lo incluyó en su primera lista. Ya ganó dos veces este certamen, además de una Euro, y quiere seguir haciendo historia. El crack del Al Nassr viene de hacer un flojo Mundial y está…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Nicolás Varrone abandonó su escudería de la Fórmula 2 a tres fechas del final de la competencia",
-          "link": "https://www.lanacion.com.ar/deportes/automovilismo/nico-varrone-abandono-su-escuderia-de-la-formula-2-a-tres-fechas-del-final-nid16092026/",
-          "resumen": "El corredor bonaerense informó que, junto con Van Amersfoort Racing, decidieron no continuar con el calendario; el viernes había protagonizado un duro accidente",
+          "titulo": "La Copa Davis y Vaca Muerta: el salvataje de las petroleras y la Patagonia al tenis argentino en una serie que busca ser un “win-win”",
+          "link": "https://www.lanacion.com.ar/deportes/tenis/la-copa-davis-y-vaca-muerta-el-salvataje-de-las-petroleras-y-la-patagonia-al-tenis-argentino-en-una-nid18092026/",
+          "resumen": "Tras la caída de febrero en Corea del Sur, la Argentina jugará este fin de semana en Neuquén ante Turquía por no descender; el respaldo económico de las empresas, el apoyo del presidente de YPF y del gobernador neuquino",
           "fuente": "La Nación"
         }
       ]

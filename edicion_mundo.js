@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "17 de septiembre de 2026",
-    "generada": "14:30",
+    "fecha": "18 de septiembre de 2026",
+    "generada": "13:56",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "El caso de los 3 estadounidenses que denunciaron torturas en Venezuela y por el que el gobierno de Trump pidió inmunidad para Delcy Rodríguez",
-            "link": "https://www.bbc.com/mundo/articles/crl6j975nz5o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Edgar José Marval fue uno de los 10 estadounidenses detenidos en Venezuela que fueron liberados a cambio de la liberación de Alex Saab, el empresario colombiano aliado de Nicolás Maduro.",
+            "titulo": "Cómo el peso colombiano se convirtió en una de las monedas más fuertes del mundo en 2026",
+            "link": "https://www.bbc.com/mundo/articles/cm1wxz8d3dj5o?at_medium=RSS&at_campaign=rss",
+            "resumen": "El peso colombiano se ha caracterizado históricamente más por su devaluación que apreciación. Ahora acumula una racha al alza poco habitual.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Mark Carney, tras las nuevas amenazas arancelarias de Trump: “Europa y Canadá son más fuertes juntos”",
-            "link": "https://elpais.com/internacional/2026-09-17/mark-carney-tras-las-nuevas-amenazas-arancelarias-de-trump-europa-y-canada-son-mas-fuertes-juntos.html",
-            "resumen": "El jefe de gobierno canadiense aboga en la Eurocámara por una “alianza profunda” que se convierta en un “faro para otras democracias” y rechaza las amenazas de Trump: “Nadie nos va a imponer con quién podemos firmar acuerdos a nivel…",
+            "titulo": "Putin extiende la persecución a los comunistas pese a su lealtad",
+            "link": "https://elpais.com/internacional/2026-09-18/putin-extiende-la-persecucion-a-los-comunistas-pese-a-su-lealtad.html",
+            "resumen": "La inhabilitación de decenas de candidatos críticos con el Gobierno convierte los comicios legislativos en un trámite",
             "fuente": "El País"
           },
           {
-            "titulo": "EE. UU. niega visado e impide asistencia del presidente de la Autoridad Palestina al encuentro de la ONU",
-            "link": "http://www.france24.com/es/medio-oriente/20260917-ee-uu-niega-visado-e-impide-asistencia-del-presidente-de-la-autoridad-palestina-al-encuentro-de-la-onu",
-            "resumen": "Por segundo año consecutivo, el Gobierno estadounidense denegó los visados ​​para una delegación palestina de alto nivel, incluido el presidente de la Autoridad Nacional Palestina, Mahmoud Abbas, por lo que no podrán asistir a la reunión…",
+            "titulo": "\"Francia se esfuerza para facilitar la reapertura de Ormuz\": Macron sobre crisis de combustible",
+            "link": "https://www.france24.com/es/video/20260918-francia-se-esfuerza-para-facilitar-la-reapertura-de-ormuz-macron-sobre-crisis-de-combustible",
+            "resumen": "El presidente francés, Emmanuel Macron, se dirigió a la prensa tras reunirse con los líderes políticos, con los que evaluó la situación del país, en medio de situaciones externas que han afectado al territorio galo, como la guerra en…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Las imágenes que revelan la destrucción causada por Irán en instalaciones militares de EE.UU.",
-            "link": "https://www.bbc.com/mundo/articles/cr5yevn02vv8o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Las fotografías obtenidas por la cadena CBS muestran aviones destruidos, remolques aplastados y edificios gravemente dañados en bases de Arabia Saudita y Kuwait.",
+            "titulo": "Por qué a Putin le importan las elecciones legislativas en Rusia (aunque no habrá sorpresas)",
+            "link": "https://www.bbc.com/mundo/articles/cqgl75nenp3no?at_medium=RSS&at_campaign=rss",
+            "resumen": "No hay dudas sobre el resultado de esta votación, pero para el Kremlin sigue siendo importante.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Trump amenaza con “cortar el comercio” si la UE se asocia con Canadá",
-            "link": "https://elpais.com/internacional/2026-09-17/trump-amenaza-con-cortar-el-comercio-si-la-ue-se-asocia-con-canada.html",
-            "resumen": "El presidente de Estados Unidos se reserva la imposición de “elevados aranceles” si prospera el plan de alianza transatlántica entre su vecino del Norte y Europa",
+            "titulo": "Merz y el Gobierno alemán se juegan su futuro en las elecciones regionales del domingo",
+            "link": "https://elpais.com/internacional/2026-09-18/merz-y-el-gobierno-aleman-se-juegan-su-futuro-en-las-elecciones-regionales-de-domingo.html",
+            "resumen": "Una probable derrota de la CDU en los comicios de Berlín y en Mecklemburgo-Pomerania Occidental pueden provocar grandes cambios en el Ejecutivo o incluso forzar el cese del canciller",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "La Airef empeora hasta el 2,7% del PIB su previsión de déficit para este año",
-            "link": "https://elpais.com/economia/2026-09-17/la-airef-empeora-hasta-el-27-del-pib-su-prevision-de-deficit-para-el-ano.html",
-            "resumen": "Inés Olóndriz, presidenta del organismo, alerta de que el margen fiscal se agota y que la productividad estancada puede minar el crecimiento futuro",
+            "titulo": "El INE corrige dos décimas a la baja, hasta el 2,6%, el crecimiento económico del año pasado",
+            "link": "https://elpais.com/economia/2026-09-18/el-ine-corrige-dos-decimas-a-la-baja-hasta-el-26-el-crecimiento-economico-del-ano-pasado.html",
+            "resumen": "La menor pujanza del gasto de las familias y de las exportaciones explica el retroceso, que también afecta al dato de 2023, aunque mejora la tasa de 2024",
             "fuente": "El País"
           },
           {
-            "titulo": "Los hackers exigen a Revolut un rescate de tres millones de dólares para no filtrar los datos de los clientes",
-            "link": "https://www.expansion.com/economia/financial-times/2026/09/17/6aabc9e7468aeb7b378b4589.html",
-            "resumen": "Un grupo que se autodenomina iamnotavillain amenaza con vender los registros confidenciales de los clientes de Revolut a otros piratas si Revolut no le paga un rescate de tres millones en un plazo de 24 horas. Leer",
+            "titulo": "Las constructoras pujan por los primeros grandes contratos de Aena en Barajas, pero 'pasan' de los 500 millones de Tenerife",
+            "link": "https://www.expansion.com/empresas/transporte/2026/09/18/6aad1c1d468aebfe708b458a.html",
+            "resumen": "El gestor aeroportuario recibe entre siete y ocho ofertas para dos licitaciones relativas a la ampliación del aeropuerto de Madrid después del fiasco de que nadie haya pujado por la remodelación de las instalaciones canarias. Se trata del…",
             "fuente": "Expansión"
           },
           {
-            "titulo": "El precio de la vivienda alcanza un nuevo récord con 2.355 euros el metro cuadrado",
-            "link": "https://elpais.com/economia/vivienda/2026-09-17/el-precio-de-la-vivienda-alcanza-un-nuevo-record-con-2355-euros-el-metro-cuadrado.html",
-            "resumen": "Entre abril y junio, el valor medio creció un 12,5% y encadena ya 15 trimestres consecutivos de subidas. En los últimos cuatro años se ha encarecido en 260 euros",
+            "titulo": "El Gobierno enfría la idea de crear un máster y una escuela de opositores para acceder a las categorías de alto funcionario",
+            "link": "https://elpais.com/economia/2026-09-18/el-gobierno-enfria-la-idea-de-crear-un-master-y-una-escuela-de-opositores-para-acceder-a-las-categorias-de-alto-funcionario.html",
+            "resumen": "La Administración tiene problemas para captar candidatos en algunas áreas cuando necesita renovar las plantillas a corto plazo porque el 57% de los empleados estatales son mayores de 50 años",
             "fuente": "El País"
           },
           {
-            "titulo": "Revolut planea una doble cotización en Nueva York y Londres y aspira a \"cientos de millones\" de clientes",
-            "link": "https://www.expansion.com/empresas/banca/2026/09/17/6aabdf6fe5fdea3c2b8b4597.html",
-            "resumen": "Storonsky afirma que el neobanco tiene un mayor retorno sobre el capital que las entidades tradicionales, pero reconoce que su rentabilidad por cliente es inferior. Leer",
+            "titulo": "Warren Buffett deja la presidencia de Berkshire Hathaway y pasa el testigo a su hijo Howard",
+            "link": "https://www.expansion.com/mercados/2026/09/18/6aad157be5fdea17108b456d.html",
+            "resumen": "Buffett anunció la noticia el viernes en una carta dirigida a los inversores. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Anthropic desembarca en España con una exdirectiva de Google: “Ralentizar la IA nos da la oportunidad de hacerlo bien”",
-            "link": "https://elpais.com/economia/2026-09-17/anthropic-desembarca-en-espana-para-impulsar-sus-negocios-en-plena-tormenta-en-la-industria-de-la-ia.html",
-            "resumen": "Cristina Pitarch considera a Madrid como un centro estratégico para la península, el sur de Europa y los mercados que hablan español. Grupos como Santander, CaixaBank, BBVA, Telefónica o Indra ya usan su inteligencia artificial",
+            "titulo": "Alemania y los frugales rechazan de plano la propuesta española para el presupuesto europeo",
+            "link": "https://elpais.com/economia/2026-09-18/alemania-y-los-frugales-rechazan-de-plano-la-propuesta-espanola-para-el-presupuesto-europeo.html",
+            "resumen": "Merz y el resto de países de ese grupo reclaman recortes de cientos de miles de millones y se niegan a considerar el plan de Cuerpo para reestructurar el pago del fondos de recuperación",
             "fuente": "El País"
           }
         ]
@@ -78,9 +78,9 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "Ratones con millones de neuronas humanas en su cerebro acercan la respuesta a enfermedades mentales",
-            "link": "https://elpais.com/ciencia/2026-09-16/ratones-con-millones-de-neuronas-humanas-en-su-cerebro-acercan-la-respuesta-a-enfermedades-mentales.html",
-            "resumen": "Científicos de Estados Unidos y España crean roedores vivos cuya corteza cerebral proviene de personas sanas para facilitar la investigación del autismo, la esquizofrenia y la epilepsia",
+            "titulo": "Un juzgado condena al CNIO a readmitir e indemnizar con 50.000 euros al ejecutivo que denunció la corrupción",
+            "link": "https://elpais.com/ciencia/2026-09-18/un-juzgado-condena-al-cnio-a-readmitir-e-indemnizar-con-50000-euros-al-ejecutivo-que-denuncio-la-corrupcion.html",
+            "resumen": "El juez considera que el empleado, que denunció el caso al Ministerio de Ciencia, fue “represaliado”",
             "fuente": "El País"
           },
           {
@@ -90,9 +90,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Hallado en Teruel el primer diplodocus fuera de Norteamérica",
-            "link": "https://elpais.com/ciencia/2026-09-15/hallado-en-teruel-el-primer-diplodocus-fuera-de-norteamerica.html",
-            "resumen": "El ejemplar medía 25 metros y vivió hace 150 millones de años",
+            "titulo": "El tilcayo, primer felino salvaje descubierto en más de cien años",
+            "link": "https://elpais.com/ciencia/2026-09-18/el-tilcayo-primer-felino-salvaje-descubierto-en-mas-de-cien-anos.html",
+            "resumen": "El linaje del pequeño animal, descrito por la científica Paola Nogales-Ascarrunz en los bosques nubosos de Bolivia, se separó del resto de los gatos tigre hace 1,4 millones de años",
             "fuente": "El País"
           },
           {
@@ -102,9 +102,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Uno de cada dos españoles apoya usar animales en investigaciones científicas",
-            "link": "https://elpais.com/ciencia/2026-09-14/uno-de-cada-dos-espanoles-apoya-usar-animales-en-investigaciones-cientificas.html",
-            "resumen": "El 46% de los encuestados considera grave emplear ratones, simios o perros en experimentos, según un estudio",
+            "titulo": "Sabrina González-Pasterski, física: “Me daba vergüenza que me llamasen la nueva Einstein, pero ahora pienso: que le den”",
+            "link": "https://elpais.com/ciencia/2026-09-18/sabrina-gonzalez-pasterski-fisica-me-daba-verguenza-que-me-llamasen-la-nueva-einstein-pero-ahora-pienso-que-le-den.html",
+            "resumen": "Con 14 años construyó un avión y aprendió a pilotarlo. Con 22, escribió un artículo sobre agujeros negros citado por Stephen Hawking. Ahora quiere aprovechar la IA para descubrir nuevas conexiones entre teorías y formular nuevas preguntas",
             "fuente": "El País"
           }
         ]
@@ -119,27 +119,27 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
+            "titulo": "Los otros temas de Lamine: Messi, el racismo, el Madrid y la 'bronca' de Busquets",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228739/messi-racismo-madrid-bronca-busquets-otros-temas-lamine-valdano.html",
+            "resumen": "Lamine Yamal participó en el programa ' Universo Valdano ' y habló largo y tendido sobre el Balón de Oro , pero además tocó muchos otros temas en una charla muy interesante. El delantero azulgrana se posicionó sobre el racismo en el…",
+            "fuente": "Mundo Deportivo"
+          },
+          {
             "titulo": "\"No puedo fallar tantas\"",
             "link": "https://www.marca.com/futbol/real-madrid/2026/09/16/vinicius-entona-mea-culpa-goles-volver-fallar-tantas.html",
             "resumen": "El brasileño se pronunció en sus redes sociales al final del partido",
             "fuente": "Marca"
           },
           {
+            "titulo": "Lamine Yamal: \"El Balón de Oro debe ser para el mejor, no para el que gana la Champions o el que mete más goles\"",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228644/lamine-yamal-balon-oro-debe-mejor-no-gana-champions-mete-goles.html",
+            "resumen": "Después de varios días de pequeñas píldoras, por fin hemos podido ver la entrevista íntegra de Lamine Yamal en el programa 'Universo Valdano' de Movistar Plus . En los avances se había podido escuchar al crack azulgrana hablando del Balón…",
+            "fuente": "Mundo Deportivo"
+          },
+          {
             "titulo": "\"¿Qué narices le pasa al Madrid?\"",
             "link": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html",
             "resumen": "La opinión de José Vicente Hernáez",
-            "fuente": "Marca"
-          },
-          {
-            "titulo": "\"El problema me parece obvio...\"",
-            "link": "https://www.marca.com/futbol/real-madrid/2026/09/15/mourinho-mi-unica-critica-matar-partidos.html",
-            "resumen": "La rueda de prensa del entrenador del Real Madrid tras el partido ante el Elche",
-            "fuente": "Marca"
-          },
-          {
-            "titulo": "Así fue el codazo de Osorio a Huijsen... que quedó en nada",
-            "link": "https://www.marca.com/futbol/primera-division/2026/09/15/codazo-osorio-huijsen-qu-video.html",
-            "resumen": "",
             "fuente": "Marca"
           }
         ]
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "September 17, 2026",
-    "generada": "14:30",
+    "fecha": "September 18, 2026",
+    "generada": "13:56",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Ninth woman's body found as South African police investigate string of deaths",
-            "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-            "resumen": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
+            "titulo": "Russian hybrid attacks against Europe intensifying, says Macron",
+            "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
             "fuente": "BBC"
           },
           {
-            "titulo": "‘Like a Disney movie’: Three wild dog brothers make Africa’s longest journey",
-            "link": "https://www.theguardian.com/environment/2026/sep/17/wildlife-african-wild-dogs-longest-journey-zambia-conservation-aoe",
-            "resumen": "As three siblings came of age and had to leave their pack, scientists tracked the dogs’ perilous 2,500-mile odyssey to find their own territory It sounds like a Disney movie: three wild dogs, all brothers, on an epic journey to find a…",
+            "titulo": "British woman who was kidnapped in Malawi rescued by police after shootout",
+            "link": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout",
+            "resumen": "Four of Nurat Osman’s alleged abductors were killed during rescue after she was taken from outside her home last week A British woman kidnapped in Malawi last week has been rescued by police after a shootout in which four of her alleged…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "What Is the E1 Project, Israel’s Disputed Settlement Plan in the West Bank?",
-            "link": "https://www.nytimes.com/2026/09/17/world/middleeast/e1-israel-west-bank-settlement.html",
-            "resumen": "Israel’s right-wing government is opening bidding for thousands of housing units in a patch of the West Bank, a move that would thwart efforts at Palestinian statehood.",
+            "titulo": "German Art Institutions Prepare for a Fight as Far Right Looks to Take Power",
+            "link": "https://www.nytimes.com/2026/09/18/world/europe/germany-afd-bauhaus-culture.html",
+            "resumen": "As the Alternative for Germany party seeks to control a state government for the first time, its push for “patriotic” art has drawn comparisons with Nazi policies.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
-            "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
+            "titulo": "Three dead and eight injured in Philippines school shooting",
+            "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The gunman is among the dead in what is the third school shooting in the country since June.",
             "fuente": "BBC"
           },
           {
-            "titulo": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
-            "link": "https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa",
-            "resumen": "String of female murder victims found near Johannesburg’s international airport, including five in the past week The discovery of the bodies of eight women around Johannesburg’s international airport, including five in the past week, has…",
+            "titulo": "Louisiana firefighters find feline native to sub-Saharan Africa while responding to house fire",
+            "link": "https://www.theguardian.com/us-news/2026/sep/18/louisiana-firefighters-sub-saharan-africa-feline",
+            "resumen": "The African serval, illegally enclosed in the back yard, was subdued and transferred to an animal welfare facility Louisiana firefighters responding to a small house blaze found a wildcat native to sub-Saharan Africa illegally enclosed in…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Interest rates held but Bank signals rise if energy prices stay high",
-            "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
+            "titulo": "Flight chaos caused by software defect in the 'space of a millisecond', report says",
+            "link": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Trump and Rubio allies are vying for control of Cuba’s assets if regime falls",
-            "link": "https://www.theguardian.com/us-news/2026/sep/17/trump-marco-rubio-cuba",
-            "resumen": "Washington and Florida insiders are exploring lucrative deals for a post-communist Cuba crushed by ever-increasing US sanctions Spanish hotel chains . A Canadian mining firm . European shipping giants . Visa and Mastercard . Scores of…",
+            "titulo": "Warren Buffett steps down as chair of Berkshire Hathaway after over 50 years",
+            "link": "https://www.theguardian.com/business/2026/sep/18/warren-buffett-steps-down-berkshire-hathaway",
+            "resumen": "Buffett, 96, will become chair emeritus and remain director as his son, Howard, will step in as company’s new chair Warren Buffett is stepping down as chair of Berkshire Hathaway after serving in the role at the conglomerate for more than…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "As a New Oil Power, China Gains More Sway Over Energy Markets",
-            "link": "https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html",
-            "resumen": "The war with Iran revealed just how much influence the world’s biggest oil importer has over prices and other countries’ supplies of jet fuel, gasoline and diesel.",
+            "titulo": "More U.S. Households Are Struggling Financially, Analysis Finds",
+            "link": "https://www.nytimes.com/2026/09/18/your-money/household-finances-struggle.html",
+            "resumen": "Inflation and a pullback in government assistance have resulted in more people having trouble paying their bills, a nonprofit found in its annual report.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Barclays workers ask for more money to return to the office",
-            "link": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.",
+            "titulo": "We bought our £242,000 home without a deposit - here's how",
+            "link": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The share of UK mortgages with smaller deposits is the highest it's been since 2008. The BBC spoke to borrowers about how they manage the risks.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Trump threatens to stop trading with EU over ‘laughable’ membership offer to Canada",
-            "link": "https://www.theguardian.com/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs",
-            "resumen": "US president responds as Mark Carney seeks to move closer to Europe and diversify defence ties Europe live – latest updates Donald Trump has threatened the EU with “serious tariffs” and a halt to trade after the bloc proposed making…",
+            "titulo": "Workers in New York seek to create first AutoZone union as company resists",
+            "link": "https://www.theguardian.com/us-news/2026/sep/18/autozone-new-york-union",
+            "resumen": "Company may have spent about $200,000 to fight union effort in White Plains, where 11 people can vote to join UAW Workers at an AutoZone in White Plains, New York, are seeking to become the first store at the US’s largest auto parts…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "The farmer who turned to singing after bovine TB silenced his fields",
-            "link": "https://www.bbc.co.uk/news/articles/c58jd32wgwk4o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Dairy farmer Mervyn Kelso struggled with the sadness of the empty fields when he lost his entire herd to bovine TB.",
+            "titulo": "Michael Sheen's 'constructive' meeting with first minister over toxic dumping claims",
+            "link": "https://www.bbc.co.uk/news/articles/cke87n51563po?at_medium=RSS&at_campaign=rss",
+            "resumen": "Michael Sheen said his meeting with the first minister was \"early days but that's really encouraging\".",
             "fuente": "BBC"
           },
           {
-            "titulo": "‘Very messy eaters’: scientists solve the mystery of when black holes ‘burp’",
-            "link": "https://www.theguardian.com/science/2026/sep/17/black-hole-burps-scientists-solve-mystery-astronomy",
-            "resumen": "The astronomical bodies fire off powerful jets in two distinct phases in their feeding cycle, researchers discover Scientists have solved the mystery of when black holes “burp” – when the astronomical bodies launch jets after feeding on…",
+            "titulo": "‘A map is never neutral’: meet the cartographers who took on centuries of western bias",
+            "link": "https://www.theguardian.com/science/ng-interactive/2026/sep/18/map-cartographers-western-bias-mercator-equal-earth",
+            "resumen": "Equal Earth projection, adopted by the UN last week, provides an alternative to 16th-century Mercator display Three cartographers have spoken of their astonishment at the UN’s near-universal adoption of a map they created to more…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "A Feather Found in Dinosaur Poop Might Explain How Birds Beat Extinction",
-            "link": "https://www.nytimes.com/2026/09/17/science/feather-dinosaur-poop-bird-extinction.html",
-            "resumen": "It’s the only example of a dinosaur-era feather found within rock that wasn’t completely flattened through the centuries.",
+            "titulo": "Will A.I. Kill Us? Can It Hack My Bank Account? Your A.I. Questions Answered",
+            "link": "https://www.nytimes.com/2026/09/18/science/ai-safety-questions-risk-danger.html",
+            "resumen": "Nearly 1,000 readers sent us their questions about artificial intelligence, its potential and its potential risks.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Part-human part-mouse brain developed in science breakthrough",
-            "link": "https://www.bbc.co.uk/news/articles/c60m3k28j81mo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Researchers at Stanford University genetically altered mice to be able to receive and function with human brain cells.",
+            "titulo": "See tiny organisms on show in microscopic video competition",
+            "link": "https://www.bbc.co.uk/news/videos/cr209jz45vn4o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The winning video features tiny hair-like structures, called cilia, in the airways of a child with a rare genetic disease.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Climate crisis probably weakened glacier that caused devastating Nepal-Tibet floods, first study finds",
-            "link": "https://www.theguardian.com/science/2026/sep/17/climate-crisis-likely-behind-deadly-nepal-tibet-floods",
-            "resumen": "Scientists say global heating was a destabilising factor in collapse of 200,000 sq metre glacier in August Climate breakdown probably weakened the glacier that collapsed causing catastrophic floods and killing over a thousand people in…",
+            "titulo": "Improved air quality linked to better mental development in toddlers, study finds",
+            "link": "https://www.theguardian.com/environment/2026/sep/18/improved-air-quality-pollution-mental-development-toddlers-new-york-study",
+            "resumen": "Long-term research in New York shows efforts to reduce air pollution associated with higher cognitive test scores Improvements in air pollution are leading to brighter, smarter toddlers, according to a new study from Columbia University…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "How an Aston Villa fringe player became Europe's most prolific scorer",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cvj64wg0lgeyo?at_medium=RSS&at_campaign=rss",
-            "resumen": "No player in Europe's top five leagues has scored more goals than Donyell Malen since his Roma debut in January - BBC Sport examines his transformation.",
+            "titulo": "Tuchel recalls Alexander-Arnold and Palmer with warning",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmly4gpnwk2go?at_medium=RSS&at_campaign=rss",
+            "resumen": "England boss Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer but says players have to \"perform\".",
             "fuente": "BBC"
           },
           {
-            "titulo": "Robert Kraft, once the NFL’s good guy, is just another billionaire silencing Macklemore | Howard Bryant",
-            "link": "https://www.theguardian.com/sport/2026/sep/17/robert-kraft-macklemore-ed-sheeran-stadium-ban-nfl",
-            "resumen": "The Patriots owner’s decision to ban the rapper from performing at the team’s stadium brings back memories of the blackballing of Colin Kaepernick Six years ago, in the middle of a “racial reckoning” that never was, a White House that had…",
+            "titulo": "Josh Allen shines again as Bills celebrate new home with slugfest victory over Lions",
+            "link": "https://www.theguardian.com/sport/2026/sep/17/buffalo-bills-detroit-lions-nfl-thursday-night-football",
+            "resumen": "Detroit Lions 31-41 Buffalo Bills Bills QB throws three TDs and rushes for two Jared Goff excellent in defeat for Lions Josh Allen quickly put his stamp on the Buffalo Bills’ new stadium, which has been dubbed “The House that Allen…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Real Madrid keen on Man Utd forward Gabriel, 15",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
+            "titulo": "Oxford apologise for United 93 shirt advert",
+            "link": "https://www.bbc.co.uk/news/articles/cmr4v5v3zzr7o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Oxford United apologises for the image, which features the call sign of one of the planes used in the 9/11 attacks.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Jets suspend US Olympic hero Connor Hellebuyck for training camp no-show",
-            "link": "https://www.theguardian.com/sport/2026/sep/17/connor-hellebuyck-winnipeg-jets-suspended-training-camp-trade-request",
-            "resumen": "Three-time Vezina winner fails to report to camp US Olympic star requested trade earlier this summer Jets general manager to address situation Thursday Winnipeg goaltender Connor Hellebuyck, who publicly requested a trade last month, was…",
+            "titulo": "Noahkai Banks, top dual-national prospect, chooses Germany in blow to USMNT",
+            "link": "https://www.theguardian.com/football/2026/sep/18/noahkai-banks-germany-usmnt",
+            "resumen": "Germany U-21 manager announces the decision 19-year-old had represented only US at youth level The United States’ pursuit of dual-national defender Noahkai Banks appears to be over. The 19-year-old was named in Germany’s U-21 squad for…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "FA chair demands Infantino release World Cup sell-off documents",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ckqxvd41z93qo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Fifa president Gianni Infantino has been told to release all documents relating to his controversial plan to sell off a stake in the World Cup.",
+            "titulo": "From depression after Chelsea injury to playing non-league at 37",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cm89jqxpvy3xo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Sam Hutchinson is getting ready to play for Farnham Town in the second qualifying round of the FA Cup - 19 years after making his Chelsea debut under Jose Mourinho.",
             "fuente": "BBC"
           }
         ]
