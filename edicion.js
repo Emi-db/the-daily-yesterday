@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "18 de septiembre de 2026",
-  "generada": "13:56",
+  "fecha": "19 de septiembre de 2026",
+  "generada": "13:31",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente viaja hoy a Bahía Blanca para reunirse con empresarios adheridos al RIGI",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-viaja-hoy-bahia-blanca-reunirse-empresarios-adhirieron-rigi_0_qyiG51pbP0.html",
-          "resumen": "El mandatario viajará junto a Karina Milei y Diego Santilli, con quienes recorrerá las plantas de Compañía Mega y Louis Dreyfus Company, dos empresas que se incorporaron al régimen de grandes inversiones.",
+          "titulo": "\"Dictadura o libertad\": un intendente de Milei ploteó un salón municipal como si fuera un local partidario y desató una polémica",
+          "link": "https://www.clarin.com/politica/dictadura-libertad-formosa-intendente-milei-ploteo-salon-municipal-local-partidario-desato-polemica_0_obmulBM8tg.html",
+          "resumen": "Pablo Basualdo, de Las Lomitas, montó carpas de ANSES y PAMI en una dependencia municipal que parece un búnker de campaña. Desde el Ministerio de Capital Humano dijeron que no avalaron la actividad, que choca con las normas de Ética…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: “Después se quejan cuando les digo que son mier... humanas”, apuntó el Presidente contra la prensa",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-despues-se-quejan-cuando-les-digo-que-son-mier-humanas-apunto-el-nid18092026/",
-          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "titulo": "El Gobierno está dispuesto a introducir cambios en la parte de discapacidad del presupuesto",
+          "link": "https://www.lanacion.com.ar/politica/el-gobierno-esta-dispuesto-a-introducir-cambios-en-la-parte-de-discapacidad-del-presupuesto-nid18092026/",
+          "resumen": "Se trabaja en la redacción de un nuevo dictamen tras la polémica por los parámetros que fijó el Ministerio de Economía para el año próximo; “vamos por un texto consensuado”, dijo una fuente oficial",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Malvinas y seguridad: una especialista advirtió que el proyecto incorpora facultades que exceden el reclamo de soberanía",
-          "link": "https://www.infobae.com/politica/2026/09/18/malvinas-y-seguridad-una-especialista-advirtio-que-el-proyecto-incorpora-facultades-que-exceden-el-reclamo-de-soberania/",
-          "resumen": "La politóloga Mariana Altieri cuestionó que la iniciativa vincule la disputa territorial con seguridad, inteligencia y desinformación",
+          "titulo": "El Gobierno porteño reportó menos reclamos por residuos y una encuesta mostró apoyo a controles y sanciones",
+          "link": "https://www.infobae.com/politica/2026/09/19/el-gobierno-porteno-reporto-menos-reclamos-por-residuos-y-una-encuesta-mostro-apoyo-a-controles-y-sanciones/",
+          "resumen": "Las incidencias vinculadas con la limpieza urbana descendieron entre enero y julio, según datos oficiales. Un relevamiento de 2.800 casos midió la opinión de habitantes sobre el cumplimiento de las normas",
           "fuente": "Infobae"
         },
         {
-          "titulo": "La nueva encuesta que le llegó a Javier Milei con datos clave para su reelección",
-          "link": "https://www.clarin.com/politica/nueva-encuesta-llego-javier-milei-datos-clave-reeleccion_0_omBKtjbbmv.html",
-          "resumen": "Es el último estudio nacional de Opinaia, una firma que envía sus trabajos al Gobierno. La evaluación de la gestión, la imagen del Presidente y las expectativas económicas. Además, intención de voto por espacio y un balotaje con Kicillof.",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: tras su visita a Bahía Blanca, el Presidente ultima los detalles del viaje a Nueva York",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-visita-bahia-blanca-presidente-ultima-detalles-viaje-nueva-york-hablar-onu_0_KbyOB42Vc7.html",
+          "resumen": "El mandatario partirá el próximo lunes por la noche hacia Estados Unidos, donde el miércoles hablará ante la Asamblea de las Naciones Unidas. Entre sus actividades también se reunirá con grandes empresarios.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La Justicia ordenó desalojar la planta de Fate a siete meses de su cierre y hay protestas",
-          "link": "https://www.lanacion.com.ar/politica/la-justicia-ordeno-desalojar-la-planta-de-fate-a-siete-meses-de-su-cierre-y-hay-protestas-nid18092026/",
-          "resumen": "Tras la decisión, el gremio organiza un abrazo simbólico y una conferencia de prensa, que se hará a las 10",
+          "titulo": "La agenda de Milei en la ONU: reclamo por Malvinas, charla con economistas, encuentro con un rabino y galardón",
+          "link": "https://www.lanacion.com.ar/politica/la-agenda-de-milei-en-la-onu-reclamo-por-malvinas-charla-con-economistas-encuentro-con-un-rabino-y-nid18092026/",
+          "resumen": "El mandatario estará entre el martes y el jueves en Nueva York; prepara el discurso con Santiago Caputo",
           "fuente": "La Nación"
         }
       ]
@@ -42,34 +42,34 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Ley de Biocombustibles: el Consejo Agroindustrial y exportadores celebraron la media sanción y aseguran que destrabaría inversiones por US$ 1.000 millones",
-          "link": "https://www.clarin.com/rural/ley-biocombustibles-consejo-agroindustrial-exportadores-celebraron-media-sancion-aseguran-destrabaria-inversiones-us-1000-millones_0_x40li6r96Z.html",
-          "resumen": "El Consejo Agroindustrial Argentino (CAA) y la Cámara de la Industria Aceitera (Ciara) apoyaron la aprobación en el Senado del proyecto impulsado por el oficialismo, que aumenta los cortes con combustibles fósiles y abre la posibilidad de…",
+          "titulo": "Euro hoy en Venezuela: precio y cotización de la divisa este sábado 19 de septiembre de 2026",
+          "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-sabado-19-de-septiembre-de-2026_0_UxstaC1240.html",
+          "resumen": "Mirá la cotización del euro en Venezuela, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Micromedidas y paciencia, la apuesta oficial hasta la elección",
-          "link": "https://www.lanacion.com.ar/economia/micromedidas-y-paciencia-la-apuesta-oficial-hasta-la-eleccion-nid17092026/",
-          "resumen": "En estos días, todos los esfuerzos del Gobierno están puestos en demostrar que se puede conseguir aprobar el presupuesto 2027",
+          "titulo": "“La gente se ríe de cómo arrancamos”: los campeones del mundo por sus quesos se preparan para dar otra sorpresa en Europa",
+          "link": "https://www.lanacion.com.ar/economia/campo/world-cheese-awards-los-campeones-del-mundo-por-sus-quesos-se-preparan-para-dar-otra-sorpresa-en-nid18092026/",
+          "resumen": "Los Couly, con su Quesería Ventimiglia en Cipolletti, Río Negro, competirán del World Cheese Awards en noviembre próximo; la logística, la maduración y el largo recorrido son parte del desafío antes de llegar a la mesa del jurado",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Crece el pluriempleo y ya 4 de cada 10 trabajadores buscan un complemento para sus ingresos",
-          "link": "https://www.ambito.com/economia/crece-el-pluriempleo-y-ya-4-cada-10-trabajadores-buscan-un-complemento-sus-ingresos-n6323854",
-          "resumen": "El estudio refleja una profunda transformación en los hábitos de ahorro, las decisiones de inversión y las preferencias laborales según la franja etaria, la región geográfica y el grado de familiaridad con las herramientas digitales.",
+          "titulo": "Los precios del comercio exterior ya superan a los de 2003-2012: ¿por qué la economía no aprovecha el \"viento de cola\"?",
+          "link": "https://www.ambito.com/economia/los-precios-del-comercio-exterior-ya-superan-los-2003-2012-por-que-la-no-aprovecha-el-viento-cola-n6324093",
+          "resumen": "Los términos de intercambio están en uno de sus mejores momentos de la historia argentina. Sin embargo, a diferencia de otros períodos, el crecimiento económico es acotado y concentrado, sin traslado a mejoras en empleo y salarios.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Aruba: cómo la isla paradisíaca se reconvirtió al turismo sustentable y hoy es un imán para los argentinos",
-          "link": "https://www.clarin.com/economia/aruba-isla-paradisiaca-reconvirtio-turismo-sustentable-hoy-iman-argentinos_0_7IxUVy0DG5.html",
-          "resumen": "La isla, que hace un siglo tuvo al petróleo como motor de su economía, crece a la par que busca evitar el deterioro del destino. Entre enero y julio, recibió a casi 87.500 argentinos, 160% más que en los primeros siete meses de 2025. Por…",
-          "fuente": "Clarín"
+          "titulo": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 19 de septiembre",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-19-de-septiembre-nid19092026/",
+          "resumen": "La cotización de la moneda estadounidense se mantiene igual que el último día hábil; cómo fue el comportamiento de la divisa informal y los dólares financieros",
+          "fuente": "La Nación"
         },
         {
-          "titulo": "Súper Niño: mientras hay expectativa por el fenómeno, a 160.000 hectáreas de trigo les falta agua y se encendió una alarma",
-          "link": "https://www.lanacion.com.ar/economia/campo/super-nino-mientras-hay-expectativa-por-el-fenomeno-a-160000-hectareas-de-trigo-les-falta-agua-y-se-nid18092026/",
-          "resumen": "Las escasas lluvias empiezan a preocupar cuando el cereal se acerca a su período crítico; hay regiones que requieren hasta 110 milímetros",
-          "fuente": "La Nación"
+          "titulo": "Cómo recorrer Europa en tren con poco presupuesto",
+          "link": "https://www.ambito.com/economia/como-recorrer-europa-tren-poco-presupuesto-n6323874",
+          "resumen": "Reservar con tiempo, combinar operadores y elegir horarios menos demandados puede reducir el costo total de un itinerario continental.",
+          "fuente": "Ámbito"
         }
       ]
     },
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "La historia de EE.UU., contada en 15 millones de primeros borradores de la historia",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/historia-eeuu-contada-15-millones-primeros-borradores-historia_0_8iZWjjGN2r.html",
-          "resumen": "El Times ha sido testigo de la transformación del país. Seguirá atento a lo que suceda.",
+          "titulo": "Lula da Silva denuncia orgías con jueces de la Corte y crece el escándalo en Brasil",
+          "link": "https://www.clarin.com/mundo/lula-da-silva-denuncia-orgias-jueces-corte-crece-escandalo-brasil_0_ZoCebBICLX.html",
+          "resumen": "El presidente brasileño afirmó que hay al menos cinco magistrados vinculados con el banquero y playboy Daniel Vorcaro, autor de un fraude multimillonario. La revelación agrava una crisis inédita en el Tribunal Supremo y agita la campaña…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Tensión en Ceuta: un caótico traslado de migrantes provoca nuevas críticas para Pedro Sánchez",
-          "link": "https://www.lanacion.com.ar/el-mundo/tension-en-ceuta-un-caotico-traslado-de-migrantes-provoca-nuevas-criticas-para-pedro-sanchez-nid18092026/",
-          "resumen": "El operativo para realojar a 1700 personas en carpas temporales ubicadas en el puerto del enclave volvió a dejar al gobierno socialista en el ojo de la tormenta",
+          "titulo": "La Casa Blanca prohíbe el acceso a la primera periodista tras la polémica medida de Trump",
+          "link": "https://www.lanacion.com.ar/el-mundo/la-casa-blanca-prohibe-el-acceso-a-la-primera-periodista-tras-la-polemica-medida-de-trump-nid19092026/",
+          "resumen": "Akayla Gardner, acreditada de MS NOW, dijo que el oficial del predio le pidió que entregara su credencial",
           "fuente": "La Nación"
         },
         {
-          "titulo": "¿Qué es E1, donde Israel impulsa un plan de solución a una disputa territorial?",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/e1-israel-impulsa-plan-solucion-disputa-territorial_0_5t5UlNUcUj.html",
-          "resumen": "El Gobierno de derechas de Israel está sacando a concurso la construcción de miles de viviendas en una zona de Cisjordania, una medida que frustraría los esfuerzos por la creación de un Estado palestino.",
+          "titulo": "Confirmado por la Casa Blanca: Trump se reunirá con Delcy Rodríguez en Nueva York",
+          "link": "https://www.clarin.com/mundo/confirmado-casa-blanca-trump-reunira-delcy-rodriguez-nueva-york_0_ZXj363eNYU.html",
+          "resumen": "El encuentro será el martes, al margen de la Asamblea General de la ONU. Se trata de la primera reunión entre el presidente de Estados Unidos y la mandataria interina de Venezuela.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Christina Koch, astronauta de Artemis II: “La respuesta a nuestra misión superó con creces todo lo que habíamos imaginado y esperado”",
-          "link": "https://www.lanacion.com.ar/el-mundo/christina-koch-astronauta-de-artemis-ii-la-respuesta-a-nuestra-mision-supero-con-creces-todo-lo-que-nid17092026/",
+          "titulo": "Victor Glover, astronauta de Artemis II: “Pilotar la nave Orion en el espacio fue un inmenso honor”",
+          "link": "https://www.lanacion.com.ar/el-mundo/victor-glover-astronauta-de-artemis-ii-pilotar-la-nave-orion-en-el-espacio-fue-un-inmenso-honor-nid19092026/",
           "resumen": "Tras su regreso a la Tierra, Donald Trump le entregó a cada tripulante una medalla Medalla de Honor Espacial del Congreso, durante una ceremonia en el Centro Espacial Jonhson de Houston",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Ataque suicida en una mezquita en Pakistán en pleno viernes de oración: hay al menos 16 muertos",
-          "link": "https://www.clarin.com/mundo/ataque-mezquita-pakistan-pleno-viernes-oracion-16-muertos_0_eEJz9lKjQs.html",
-          "resumen": "Un vehículo cargado de explosivos se estrelló contra el templo en Kohat, noreste del país. La zona fronteriza con Afganistán vive un agravamiento de la actividad terrorista.",
+          "titulo": "El insólito acuerdo con su padre, un pasado como sheriff y su vida fuera de Wall Street: así es Howard Buffett, el nuevo presidente de Berkshire Hathaway",
+          "link": "https://www.clarin.com/mundo/insolito-acuerdo-padre-pasado-sheriff-vida-wall-street-howard-buffett-nuevo-presidente-berkshire-hathaway_0_WkRoYFvSt2.html",
+          "resumen": "El hijo de Warren Buffett asumirá la conducción de la compañía tras la salida de su padre, quien continuará vinculado al directorio como chairman emérito. A los 71 años, combina su actividad agropecuaria con una fundación dedicada a la…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Medallero de los Juegos Suramericanos Santa Fe 2026: cuántas medallas tiene Argentina y tabla de posiciones por país",
-          "link": "https://www.clarin.com/deportes/medallero-juegos-suramericanos-santa-fe-2026-cuantas-medallas-argentina-tabla-posiciones-pais_0_WWMtx0mk4e.html",
-          "resumen": "Los XIII Juegos Suramericanos se disputan hasta el 26 de septiembre, con Rosario, Santa Fe y Rafaela como las tres sedes principales. Más de 4.000 atletas de 15 países compiten en 43 deportes y 60 disciplinas: el medallero completo y la…",
+          "titulo": "Verón habló de política, Foster Gillett y AFA: “Los clubes tienen una fuerza que no tiene ningún político”",
+          "link": "https://www.clarin.com/deportes/veron-hablo-politica-foster-gillett-afa-clubes-fuerza-politico_0_5EpLsV1deM.html",
+          "resumen": "El presidente de Estudiantes aseguró que hoy no se imagina en la política nacional ni al frente de la AFA.También explicó por qué no prosperó el proyecto con Foster Gillett y se refirió al arbitraje argentino.Además, destacó el peso…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Entradas para la despedida de Messi: cuándo salen a la venta, cómo registrarse y qué se sabe de los precios",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/entradas-para-la-despedida-de-messi-cuando-salen-a-la-venta-como-registrarse-y-que-se-sabe-de-los-nid17092026/",
-          "resumen": "La AFA no dio detalles del expendio de tickets, pero todo indica que se venderán a través de Deportick, la plataforma que se utiliza desde hace varios años",
+          "titulo": "Carne, vino y mucho más: por qué los brasileños llegaron para copar la 42a. Maratón de Buenos Aires",
+          "link": "https://www.lanacion.com.ar/deportes/atletismo/carne-vino-y-mucho-mas-por-que-los-brasilenos-llegaron-para-copar-la-42a-maraton-de-buenos-aires-nid19092026/",
+          "resumen": "Son 2769 los inscriptos del vecino país, que constituyen el 17% del total de los participantes; este domingo, desde las 7 de la mañana se pondrá en marcha una prueba con récord de corredores",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La confirmación Monumental de Ponzio antes de Huracán",
-          "link": "https://www.ole.com.ar/river-plate/river-plate-leonardo-ponzio-formacion-titular-11-huracan-monumental_0_s82van7G80.html",
-          "resumen": "El plantel de River se entrenó en Núñez y el DT tiene todo listo para recibir al Globo. Acá, el equipo.",
+          "titulo": "Jorge Jesús le puso los puntos a Cristiano Ronaldo tras citarlo para la Nations League: \"Si no rinde, no juega\"",
+          "link": "https://www.ole.com.ar/futbol-internacional/america/cristiano-ronaldo-nations-league-portugal_0_ZIcnewmmqf.html",
+          "resumen": "El nuevo entrenador de Portugal convocó al Bicho para los próximos compromisos, pero dejó claro que sumará minutos únicamente si está al nivel correspondiente.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Cristiano Ronaldo se diferencia de Messi y a los 41 años no afloja: fue convocado por Portugal para jugar la Liga de Naciones",
-          "link": "https://www.clarin.com/deportes/cristiano-ronaldo-diferencia-messi-41-anos-afloja-convocado-portugal-jugar-liga-naciones_0_iCR6SuW0ZH.html",
-          "resumen": "Jorge Jesús, el flamante entrenador del combinado luso, lo incluyó en su primera lista. Ya ganó dos veces este certamen, además de una Euro, y quiere seguir haciendo historia. El crack del Al Nassr viene de hacer un flojo Mundial y está…",
+          "titulo": "Argentina vs Turquía por la Copa Davis, EN VIVO: a qué hora juegan Cerúndolo y Tirante, dónde ver y minuto a minuto",
+          "link": "https://www.clarin.com/deportes/argentina-vs-turquia-copa-davis-vivo-hora-juegan-cerundolo-tirante-ver-minuto-minuto_0_Qwt7EgZFda.html",
+          "resumen": "Los dos seleccionados se enfrentan en Neuquén, que recibe por primera vez a este certamen. Fran abrirá la serie en un estadio que estará colmado y luego saldrá a la cancha Thiago. Mañana se jugará el dobles y, en caso de ser necesario,…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La Copa Davis y Vaca Muerta: el salvataje de las petroleras y la Patagonia al tenis argentino en una serie que busca ser un “win-win”",
-          "link": "https://www.lanacion.com.ar/deportes/tenis/la-copa-davis-y-vaca-muerta-el-salvataje-de-las-petroleras-y-la-patagonia-al-tenis-argentino-en-una-nid18092026/",
-          "resumen": "Tras la caída de febrero en Corea del Sur, la Argentina jugará este fin de semana en Neuquén ante Turquía por no descender; el respaldo económico de las empresas, el apoyo del presidente de YPF y del gobernador neuquino",
+          "titulo": "Jordy Caicedo, el ecuatoriano de los goles importantes, se destaca en Huracán y se ilusiona con Gallardo",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/jordy-caicedo-el-ecuatoriano-de-los-goles-importantes-se-destaca-en-huracan-y-se-ilusiona-con-nid19092026/",
+          "resumen": "El goleador del Globo le pide paciencia a los hinchas y se proyecta en el nuevo ciclo en la selección de Ecuador",
           "fuente": "La Nación"
         }
       ]
