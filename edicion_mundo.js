@@ -1,41 +1,41 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "19 de septiembre de 2026",
-    "generada": "13:31",
+    "fecha": "20 de septiembre de 2026",
+    "generada": "13:46",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "EE.UU. y Dinamarca anuncian un acuerdo por el que Washington asumirá el \"control permanente de la seguridad\" de Groenlandia",
-            "link": "https://www.bbc.com/mundo/articles/cx05rdze7v60o?at_medium=RSS&at_campaign=rss",
-            "resumen": "La noticia del acuerdo fue confirmada por la primera ministra de Dinamarca, Mette Frederiksen.",
+            "titulo": "Cuál es la visión de China sobre los peligros de la inteligencia artificial en plena competencia con EE.UU.",
+            "link": "https://www.bbc.com/mundo/articles/cm2dw10jdlrpo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Los esfuerzos para abordar los riesgos que plantea la IA podrían complicarse por la intensa rivalidad entre las dos principales superpotencias mundiales, China y Estados Unidos.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Los hutíes tras Bab el-Mandeb: ¿una nueva carta de poder para Irán?",
-            "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20260919-los-hut%C3%ADes-tras-bab-el-mandeb-una-nueva-carta-de-poder-para-ir%C3%A1n",
-            "resumen": "Los rebeldes hutíes de Yemen han reforzado sus posiciones en torno al estratégico estrecho de Bab el-Mandeb, una vía marítima que conecta el mar Rojo con el golfo de Adén y por la que circula cerca del 12% del comercio mundial. Su avance,…",
-            "fuente": "France 24"
-          },
-          {
-            "titulo": "Exclusiva BBC | \"Estoy diciendo la verdad\": el hermano de Diana de Gales defiende sus señalamientos de que Carlos III estaba \"eufórico\" tras la muerte de la princesa",
-            "link": "https://www.bbc.com/mundo/articles/cmkgw3g6y7gdo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Charles Spencer asegura en entrevista con la BBC que escuchó al entonces príncipe de Gales decirle que olvidarían \"muy pronto\" a la princesa tras la muerte de esta.",
-            "fuente": "BBC Mundo"
-          },
-          {
-            "titulo": "La OTAN acoge con “satisfacción” el acuerdo de EE UU y Dinamarca sobre Groenlandia",
-            "link": "https://elpais.com/internacional/2026-09-19/la-otan-acoge-con-satisfaccion-el-acuerdo-de-ee-uu-y-dinamarca-sobre-groenlandia.html",
-            "resumen": "La Alianza sostiene que el compromiso alcanzado entre las tres partes “contribuirá a fomentar la seguridad, la estabilidad y la cooperación”",
+            "titulo": "Un mundo en llamas se da cita en una ONU en ruinas",
+            "link": "https://elpais.com/internacional/2026-09-20/un-mundo-en-llamas-se-da-cita-en-una-onu-en-ruinas.html",
+            "resumen": "El aumento de los conflictos, los peligros climáticos y tecnológicos y la erosión democrática marcan la cita anual en Naciones Unidas, mermada por la escasez de fondos y los ataques al multilateralismo",
             "fuente": "El País"
           },
           {
-            "titulo": "Johanna Gómez: \"Hay una limitación para que las mujeres estemos en mejores posiciones\"",
-            "link": "https://www.france24.com/es/video/20260919-johanna-g%C3%B3mez-hay-una-limitaci%C3%B3n-para-que-las-mujeres-estemos-en-mejores-posiciones",
-            "resumen": "En el Día Internacional de la Igualdad Salarial, recordamos los datos de la Organización para la Cooperación y el Desarrollo Económicos (OCDE) sobre América Latina. Chile lidera la desigualdad con 13,6 %, México con 12,4 % y Costa Rica…",
+            "titulo": "Elecciones regionales en Alemania: dos comicios difíciles para un canciller Merz ya debilitado",
+            "link": "https://www.france24.com/es/europa/20260920-elecciones-regionales-en-alemania-dos-comicios-dif%C3%ADciles-para-un-canciller-merz-ya-debilitado",
+            "resumen": "Los alemanes acuden a las urnas este domingo en dos elecciones regionales, en Berlín y Mecklemburgo-Pomerania Occidental, donde los avances de la extrema derecha y la izquierda podrían desestabilizar al gobierno del canciller Friedrich…",
             "fuente": "France 24"
+          },
+          {
+            "titulo": "Karl Bushby, el aventurero británico que partió de Chile y lleva 28 años recorriendo el mundo a pie",
+            "link": "https://www.bbc.com/mundo/articles/cqn4kvv0jv7xo?at_medium=RSS&at_campaign=rss",
+            "resumen": "La BBC se traslada a Bélgica para caminar un tramo con el aventurero Karl Bushby, cuyo viaje de regreso a casa se acerca al final tras 28 años.",
+            "fuente": "BBC Mundo"
+          },
+          {
+            "titulo": "El pacto con Groenlandia y el encuentro entre Delcy Rodríguez y Trump trastocan la agenda de la Asamblea General de la ONU",
+            "link": "https://elpais.com/internacional/2026-09-20/el-pacto-con-groenlandia-y-el-encuentro-entre-delcy-rodriguez-y-trump-trastocan-la-agenda-de-la-asamblea-general-de-la-onu.html",
+            "resumen": "Unos 130 mandatarios hablarán la próxima semana en Nueva York ante un organismo atascado en la búsqueda de su nuevo líder",
+            "fuente": "El País"
           }
         ]
       },
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Las grandes fortunas ahorran 3.000 millones en el impuesto de patrimonio por el escudo del IRPF",
-            "link": "https://elpais.com/economia/2026-09-19/las-grandes-fortunas-ahorran-3000-millones-en-el-impuesto-de-patrimonio-por-el-escudo-del-irpf.html",
-            "resumen": "La rebaja fiscal por el límite conjunto entre renta y patrimonio supera los ingresos del tributo sobre la riqueza",
+            "titulo": "El otro miedo de la IA: ¿y si estalla una burbuja?",
+            "link": "https://elpais.com/economia/2026-09-20/el-otro-miedo-de-la-ia-y-si-estalla-una-burbuja.html",
+            "resumen": "La expansión tecnológica galopa a lomos de inversiones billonarias, tejidas por un enjambre de acuerdos circulares entre los actores implicados, y con deudas crecientes: una bomba de relojería si las expectativas no se cumplen",
             "fuente": "El País"
           },
           {
-            "titulo": "La carrera global por la IA despeja el recorrido en Bolsa de las tecnológicas",
-            "link": "https://www.expansion.com/inversion/2026/09/19/6aad7c4ce5fdeafa338b4592.html",
-            "resumen": "Ni EEUU ni China van a pisar el freno en la competición por ser líderes a pesar de las dudas generadas al inicio de esta semana sobre la ética y la IA. Las compañías tienen asegurada su actividad de varios años, según los expertos. La…",
+            "titulo": "Llega la nueva era de la guerra controlada con IA",
+            "link": "https://www.expansion.com/economia/financial-times/2026/09/19/6aae9eeee5fdeae26d8b456e.html",
+            "resumen": "La guerra en Ucrania acelera la revolución militar con drones controlados por IA. Cambia la estrategia militar global hacia la automatización aunque preocupa delegar las decisiones letales en las máquinas. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Cuando el chollo inmobiliario no es una vivienda, sino una deuda o una cesión de remate",
-            "link": "https://elpais.com/economia/negocios/2026-09-19/cuando-el-chollo-inmobiliario-no-es-una-vivienda-sino-una-deuda-o-una-cesion-de-remate.html",
-            "resumen": "Las operaciones alejadas de la compraventa tradicional ganan terreno con fuertes descuentos y altas dosis de incertidumbre",
+            "titulo": "Las pilas de Varta se apagan tras 139 años de historia",
+            "link": "https://elpais.com/economia/2026-09-20/las-pilas-de-varta-se-apagan-tras-139-anos-de-historia.html",
+            "resumen": "El mítico fabricante de baterías se declara en quiebra por no poder competir con China y amenaza con hundir la región que alberga a su sede",
             "fuente": "El País"
           },
           {
-            "titulo": "EY se refuerza en capital riesgo con seis fichajes en Alvarez & Marsal",
-            "link": "https://www.expansion.com/empresas/2026/09/19/6aad7965468aebfe708b45ae.html",
-            "resumen": "Rodrigo Rodríguez regresa a la firma de la que formó parte durante casi una década como socio de cuota junto a un equipo formado por un director y otros cuatro profesionales. Leer",
+            "titulo": "¿Podemos fiarnos de la nueva IA médica?",
+            "link": "https://www.expansion.com/economia/financial-times/2026/09/19/6aaea643468aeb710e8b458a.html",
+            "resumen": "Aunque la IA promete revolucionar la sanidad, la falta de transparencia en los algoritmos médicos suponen un riesgo para los pacientes. Urgen ensayos reales y una supervisión independiente. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "La construcción en España cae casi un 10% interanual, muy por encima del 2% de media europea",
-            "link": "https://cincodias.elpais.com/economia/2026-09-19/la-construccion-en-espana-cae-casi-un-10-interanual-muy-por-encima-del-2-de-media-europea.html",
-            "resumen": "La facturación del sector desciende por el incremento de costes y la falta de mano de obra, según argumenta la patronal",
+            "titulo": "Los robotaxis en Madrid, un pulso entre tecnología acelerada y regulación lenta",
+            "link": "https://cincodias.elpais.com/companias/2026-09-20/los-robotaxis-en-madrid-un-pulso-entre-tecnologia-acelerada-y-regulacion-lenta.html",
+            "resumen": "Uber, WeRide y Avomo prueban vehículos autónomos en la capital con la vista puesta en el mercado, un camino que será largo, según advierte Tráfico",
             "fuente": "El País"
           }
         ]
@@ -84,9 +84,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "¿Nos roba la IA las ideas? “No se puede demostrar al 100%, pero es lógico pensar que sí”",
-            "link": "https://elpais.com/tecnologia/2026-09-19/nos-roba-la-ia-las-ideas-no-se-puede-demostrar-al-100-pero-es-logico-pensar-que-si.html",
-            "resumen": "La resolución de uno de un reto matemático por OpenAI da alas a la sospecha de que estas herramientas podrían estar extrayendo información, según los expertos",
+            "titulo": "Tú la temes, yo la amo: la cumbre Trump-XI afronta la IA con mentalidades opuestas en China y EE UU",
+            "link": "https://elpais.com/tecnologia/2026-09-20/tu-la-temes-yo-la-amo-la-cumbre-trump-xi-afronta-la-ia-con-mentalidades-opuestas-en-china-y-ee-uu.html",
+            "resumen": "La mayoría de los chinos considera excitantes los productos de esta tecnología, mientras más de la mitad de los estadounidenses teme que destruya la humanidad",
             "fuente": "El País"
           },
           {
@@ -96,9 +96,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "“Eres tú mismo, no rindes cuentas a nadie y nunca te disculpas”. Los extraños mensajes de una IA de OpenAI en el último incidente",
-            "link": "https://elpais.com/tecnologia/2026-09-17/eres-tu-mismo-no-rindes-cuentas-a-nadie-y-nunca-te-disculpas-los-extranos-mensajes-de-una-ia-de-openai-en-el-ultimo-incidente.html",
-            "resumen": "El último informe de incidencias de la compañía detrás de ChatGPT escondía unas frases con una motivación difícil de entender",
+            "titulo": "Confieso que tengo ‘IAnsiedad’, ¿y usted?",
+            "link": "https://elpais.com/tecnologia/2026-09-20/confieso-que-tengo-iansiedad-y-usted.html",
+            "resumen": "Desde que el chico de la gorra tuiteó el apocalipsis, un runrún nos reconcome a algunos. Como un chiste, se ha colado hasta en la cola del pan: “Ponme un bollo también, por si el fin del mundo”",
             "fuente": "El País"
           },
           {
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Laporta aspira \"a ganarlo todo\" y envía un palo al Madrid",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004228964/laporta-aspiramos-ganarlo.html",
-            "resumen": "Joan Laporta ha abierto la Asamblea de compromisarios del FC Barcelona con un discurso sobrio en el que se declaró partícipe del optimismo reinante entre la masa social en el ámbito deportivo y en el que justificó la necesidad de ampliar…",
+            "titulo": "Este es el once del Real Madrid para el derbi ante el Atlético",
+            "link": "https://www.mundodeportivo.com/futbol/real-madrid/20260920/1004229390/once-real-madrid-derbi-atletico.html",
+            "resumen": "Pocas sorpresas en el once del R eal Madrid para enfrentarse al Atlético de Madrid en el Metropolitano (16.15 horas). L as grandes dudas del once de Mourinho estaban en el doble pivote en el banda derecha del ataque merengue. Un once con…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,15 +131,15 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Laporta explica el sobrecoste de las obras del Spotify Camp Nou",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004228947/laporta-explica-sobrecoste-obras-avanza-formulas-alternativas-palau.html",
-            "resumen": "Joan Laporta , presidente del FC Barcelona , fue el primero en tomar la palabra en la Asamblea General Ordinaria haciendo hincapié en las causas del nuevo crédito por valor de 300 millones de euros para acabar las obras del Spotify Camp…",
-            "fuente": "Mundo Deportivo"
-          },
-          {
             "titulo": "\"¿Qué narices le pasa al Madrid?\"",
             "link": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html",
             "resumen": "La opinión de José Vicente Hernáez",
+            "fuente": "Marca"
+          },
+          {
+            "titulo": "\"El problema me parece obvio...\"",
+            "link": "https://www.marca.com/futbol/real-madrid/2026/09/15/mourinho-mi-unica-critica-matar-partidos.html",
+            "resumen": "La rueda de prensa del entrenador del Real Madrid tras el partido ante el Elche",
             "fuente": "Marca"
           }
         ]
@@ -147,16 +147,16 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "September 19, 2026",
-    "generada": "13:31",
+    "fecha": "September 20, 2026",
+    "generada": "13:46",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "US and Denmark reach deal over Greenland after Trump annexation threats",
-            "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Denmark and Greenland have welcomed the deal, which Trump claims will give the US \"permanent control over security and all other needs\" in the Danish territory.",
+            "titulo": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+            "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
             "fuente": "BBC"
           },
           {
@@ -166,15 +166,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Behold the Most Handsome Melons in Mexico",
-            "link": "https://www.nytimes.com/2026/09/19/world/americas/mexico-melon-contest-veracruz.html",
-            "resumen": "In the eastern city of Xalapa, what started as a joke among friends over two decades ago has become a vibrant annual tradition that highlights creativity and absurdity with melons.",
+            "titulo": "A Diplomat From Myanmar Refuses to Give Up New York City Post",
+            "link": "https://www.nytimes.com/2026/09/20/world/asia/myanmar-mission-un-envoy.html",
+            "resumen": "For more than five years, U Kyaw Moe Tun has refused to give up his United Nations post and a sandstone townhouse on the Upper East Side.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Trump says he is banning CNN and Politico from White House",
-            "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+            "titulo": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+            "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
             "fuente": "BBC"
           },
           {
@@ -189,9 +189,27 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-            "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-            "resumen": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
+            "titulo": "Billionaire Man United owner loses moral high ground after tax exile, Labour chair says",
+            "link": "https://www.bbc.co.uk/news/articles/cm0rexrwjj1vo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The billionaire businessman told the BBC he has lost confidence in the UK due to a combination of high taxes and high immigration.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Kevin Warsh may be the adult in the room. But can he calm the US economy?",
+            "link": "https://www.theguardian.com/business/2026/sep/19/kevin-warsh-interest-rate-hike",
+            "resumen": "Fed chair presided over unanimous decision to raise interest rates despite intense campaign from White House In the end, Kevin Warsh’s Federal Reserve acquitted itself well. For all the uncertainty he had sparked at the previous meeting…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "In China, A.I. Is Moving Forward While the Economy Lags Behind",
+            "link": "https://www.nytimes.com/2026/09/20/business/china-ai-economy.html",
+            "resumen": "As Xi Jinping arrives in the United States this week for a state visit, China’s advances in artificial intelligence will be in the air. Less discussed: China’s economy in its worst shape in decades.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Ed Davey calls for immediate 10p cut to fuel duty",
+            "link": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
             "fuente": "BBC"
           },
           {
@@ -199,30 +217,30 @@ const EDICION_MUNDO = {
             "link": "https://www.theguardian.com/business/2026/sep/18/warren-buffett-steps-down-berkshire-hathaway",
             "resumen": "‘Father Time always wins,’ Buffett, 96, says as his son, Howard, steps in as the $1tn conglomerate’s new chair Warren Buffett is stepping down as chair of Berkshire Hathaway, the company that he took from a faltering textile manufacturer…",
             "fuente": "The Guardian"
-          },
-          {
-            "titulo": "MS NOW Reporter Barred From White House After Trump Imposes Press Ban",
-            "link": "https://www.nytimes.com/2026/09/19/business/media/trump-white-house-press-ban.html",
-            "resumen": "The president said on Friday he would ban CNN, Politico and MS NOW. Any prohibition will probably face a legal challenge.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "Flight chaos caused by 'millisecond' software defect, report says",
-            "link": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "10 Ways to Explain Why Interest Rates Are So High",
-            "link": "https://www.nytimes.com/2026/09/19/business/dealbook/why-are-interest-rates-high.html",
-            "resumen": "If you can’t pin down why something’s happening, you don’t have much hope of fixing it.",
-            "fuente": "N.Y. Times"
           }
         ]
       },
       {
         "nombre": "Science & Tech",
         "notas": [
+          {
+            "titulo": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+            "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Is culture alive?",
+            "link": "https://www.theguardian.com/science/2026/sep/20/is-culture-alive",
+            "resumen": "From Mozart to Madonna, dim sum to doughnuts, Shakespeare to Sartre – not all forms of life need DNA On Mount Athos, in northern Greece, a monk rises before dawn to sing the same office that has been sung on that mountain for more than…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "Creating a Kill Switch to Shut Down a Rogue A.I. Is Harder Than It Sounds",
+            "link": "https://www.nytimes.com/2026/09/19/science/creating-a-kill-switch-to-shut-down-a-rogue-ai-is-harder-than-it-sounds.html",
+            "resumen": "A bipartisan group in Congress and Gov. Gavin Newsom of California have floated ideas for building a mechanism that would instantly power down an A.I. system. Only no one really knows how.",
+            "fuente": "N.Y. Times"
+          },
           {
             "titulo": "When a beloved tree began withering away, locals suspected a killer in their midst",
             "link": "https://www.bbc.co.uk/news/articles/cw5yl228lvzlo?at_medium=RSS&at_campaign=rss",
@@ -234,24 +252,6 @@ const EDICION_MUNDO = {
             "link": "https://www.theguardian.com/science/2026/sep/19/space-weapons-white-house-nasa",
             "resumen": "The revelation ‘left experts scratching their heads at exactly what Donald Trump has in his cosmic arsenal’ In Hollywood at least, space weapons are a relatively simple concept. The good guys, from Captain Kirk and his crew in Star Trek ,…",
             "fuente": "The Guardian"
-          },
-          {
-            "titulo": "Creating a Kill Switch to Shut Down a Rogue A.I. Is Harder Than It Sounds",
-            "link": "https://www.nytimes.com/2026/09/19/science/creating-a-kill-switch-to-shut-down-a-rogue-ai-is-harder-than-it-sounds.html",
-            "resumen": "A bipartisan group in Congress and Gov. Gavin Newsom of California have floated ideas for building a mechanism that would instantly power down an A.I. system. Only no one really knows how.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "Michael Sheen's 'constructive' meeting with first minister over toxic dumping claims",
-            "link": "https://www.bbc.co.uk/news/articles/cke87n51563po?at_medium=RSS&at_campaign=rss",
-            "resumen": "Michael Sheen said his meeting with the first minister was \"early days but that's really encouraging\".",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "‘A map is never neutral’: meet the cartographers who took on centuries of western bias",
-            "link": "https://www.theguardian.com/science/ng-interactive/2026/sep/18/map-cartographers-western-bias-mercator-equal-earth",
-            "resumen": "Equal Earth projection, adopted by the UN last week, provides an alternative to 16th-century Mercator display Three cartographers have spoken of their astonishment at the UN’s near-universal adoption of a map they created to more…",
-            "fuente": "The Guardian"
           }
         ]
       },
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Brentford stay unbeaten as they put three past Chelsea",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium.",
+            "titulo": "Townsend run over by pitch roller in Thailand",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cr93e70xv21ko?at_medium=RSS&at_campaign=rss",
+            "resumen": "Former England winger Andros Townsend jokes that playing Stoke away \"wasn't so bad after all\" following a bizarre incident before a game in Thailand.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Tottenham v Aston Villa: Premier League – live",
-            "link": "https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live",
-            "resumen": "⚽️ Premier League updates from 12.30pm (BST) ⚽️ Today’s fixtures | Send Daniel your thoughts via email This is the 176th meeting between the sides. Spurs have the historical edge having won 79 to Villa’s 62. There have been 32 draws.…",
+            "titulo": "Bournemouth v Liverpool: Premier League – live",
+            "link": "https://www.theguardian.com/football/live/2026/sep/20/bournemouth-v-liverpool-premier-league-live",
+            "resumen": "Updates from 2pm (BST) kickoff at the Vitality Stadium Get in touch: contact Daniel via email I don’t imagine Rose spent too long sweating over his team. Kluivert is a miss, and of course Junior Kroupi is long-term injured, but otherwise,…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "The man who would be king - the rise and fall of 'the next Prince Naseem'",
-            "link": "https://www.bbc.co.uk/news/articles/c5ye0l17dnjo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Touted as the king to Naseem Hamed's prince, Daniel Teasdale's story is instead a cautionary tale.",
+            "titulo": "Littler could boycott Dutch events over booing",
+            "link": "https://www.bbc.co.uk/sport/darts/articles/cr5ye91l200go?at_medium=RSS&at_campaign=rss",
+            "resumen": "Luke Littler threatens a boycott of playing in the Netherlands after being booed and whistled at the World Series of Darts Finals in Amsterdam.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Alex de Minaur roars back to life as Australia and Poland share spoils in Davis Cup",
-            "link": "https://www.theguardian.com/sport/2026/sep/19/tennis-davis-cup-australia-poland-day-one-report-alex-de-minaur-kasnikowski-duckworth-majchrzak",
-            "resumen": "World No 9 beats Maks Kasnikowski 6-3, 6-0 in World Group I tie James Duckworth loses to Kamil Majchrzak 2-6, 6-3, 6-3 in Brisbane Alex de Minaur has taken his frustrations out in a Davis Cup thumping to put Australia up 1-0 in their…",
+            "titulo": "NC State’s unfathomable last-second blunder gifts Vanderbilt miracle win",
+            "link": "https://www.theguardian.com/sport/2026/sep/19/vanderbilt-nc-state-fumble-music-city-miscue-college-football",
+            "resumen": "Wolfpack fumble with six seconds left proves decisive Vanderbilt recover in end zone for stunning 35-31 win Commodores complete comeback from 17 points down Call this one the Music City Miscue. NC State quarterback CJ Bailey fumbled in…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "100 years on, is time up for Milan's iconic San Siro?",
-            "link": "https://www.bbc.co.uk/sport/football/videos/c0q4k74kvy5o?at_medium=RSS&at_campaign=rss",
-            "resumen": "As the iconic home of AC Milan and Inter Milan turns 100, BBC Sport visits the San Siro - the venue for the recent Winter Olympics opening ceremony, to find out why that could have been the last global event held at the stadium, and what…",
+            "titulo": "GB qualify for Davis Cup Finals after doubles win",
+            "link": "https://www.bbc.co.uk/sport/tennis/videos/cwx2z105mx48o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Great Britain qualify for the Davis Cup Finals after taking an unassailable 3-0 lead over Ecuador as Henry Patten and Neal Skupski beat Gonzalo Escobar and Diego Hidalgo 6-3 6-4.",
             "fuente": "BBC"
           }
         ]
