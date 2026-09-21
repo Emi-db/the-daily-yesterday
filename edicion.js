@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "20 de septiembre de 2026",
-  "generada": "13:46",
+  "fecha": "21 de septiembre de 2026",
+  "generada": "16:03",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Un temblor de magnitud 5 generó preocupación en la madrugada de Tucumán",
-          "link": "https://www.clarin.com/sociedad/temblor-magnitud-5-genero-preocupacion-madrugada-tucuman_0_j16Q3lgz37.html",
-          "resumen": "El sismo tuvo su epicentro en el norte de la provincia Trancas y se sintió también en Catamarca y Salta.",
+          "titulo": "Quiénes son los ganadores y los perdedores tras la definición de la agenda del papa León en la Argentina",
+          "link": "https://www.clarin.com/politica/ganadores-perdedores-definicion-agenda-papa-leon-argentina_0_pjShnNRx6O.html",
+          "resumen": "El Gobierno no logró bajar un encuentro de pontífice con los movimientos populares, aunque estos no consiguieron que Robert Prevost visitara una villa. La presión de la Iglesia para que la Casa Rosada no se adueñe de la visita papal y que…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Elecciones 2027: ¿cuándo son las próximas elecciones presidenciales en la Argentina?",
-          "link": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-en-la-argentina-y-que-se-elige-nid25082026/",
-          "resumen": "A continuación, conocé las fechas para emitir el sufragio; cuáles son las fechas clave y qué provincias eligen gobernador; descubrí los detalles",
+          "titulo": "Atentado a la AMIA: procesaron a siete iraníes y un libanés como responsables del ataque y avanza el juicio en ausencia",
+          "link": "https://www.lanacion.com.ar/politica/atentado-a-la-amia-procesaron-a-ocho-iranies-y-libaneses-como-responsables-del-ataque-y-avanza-el-nid21092026/",
+          "resumen": "El juez Daniel Rafecas consideró probado que fueron los terroristas que idearon y organizaron la ejecución del ataque a la mutual judía de 1994",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Crisis de la Mesa Política: por qué volvieron a romperse los vínculos entre los principales sectores del Gobierno",
-          "link": "https://www.infobae.com/politica/2026/09/20/crisis-de-la-mesa-politica-por-que-volvieron-a-romperse-los-vinculos-entre-los-principales-sectores-del-gobierno/",
-          "resumen": "Los episodios acontecidos esta semana con el Presupuesto 2027 y las declaraciones de Patricia Bullrich reavivaron las críticas entre múltiples sectores del oficialismo. Qué está ocurriendo puertas adentro y la perspectiva de cara al año…",
+          "titulo": "El Gobierno prepara el operativo de seguridad “más grande de la historia” para la visita del Papa: qué pasará con los feriados y con la Marcha del Orgullo",
+          "link": "https://www.infobae.com/politica/2026/09/21/el-gobierno-prepara-el-operativo-de-seguridad-mas-grande-de-la-historia-para-la-visita-del-papa-que-pasara-con-los-feriados-y-con-la-marcha-del-orgullo/",
+          "resumen": "La Santa Sede y el Gobierno confirmaron las actividades del viaje apostólico, que prevé actos en Buenos Aires, Claypole, Córdoba y Luján y podría reunir a unos siete millones de personas. Cómo será el operativo de seguridad",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente se prepara para un nuevo viaje a Nueva York",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-prepara-nuevo-viaje-nueva-york_0_6jBpSF1vbJ.html",
-          "resumen": "El mandatario partirá este lunes a Estados Unidos, donde participará como orador en la 81ª Asamblea General de las Naciones Unidas. Su agenda incluye conferencias académicas, reuniones con economistas y empresarios.",
+          "titulo": "Conflicto por Malvinas: cumbre de Milei con un funcionario clave de Trump en Nueva York",
+          "link": "https://www.clarin.com/politica/conflicto-malvinas-cumbre-milei-funcionario-clave-trump-nueva-york_0_zoDU94YlB4.html",
+          "resumen": "Será con Marco Rubio, el secretario de Estado, muy interesado en la política latinoamericana. El presidente argentino viaja para participar de la Asamblea General de las Naciones Unidas.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Los ruidos con la Iglesia que anteceden a la llegada del papa León XIV y la estrategia del Gobierno para enfrentarlos",
-          "link": "https://www.infobae.com/politica/2026/09/20/los-ruidos-con-la-iglesia-que-anteceden-a-la-llegada-del-papa-leon-xiv-y-la-estrategia-del-gobierno-para-enfrentarlos/",
-          "resumen": "Desde la pobreza hasta la inteligencia artificial, la ludopatía y la baja de edad de imputabilidad penal, los reparos del Episcopado se acumulan a medida que se acerca la visita del Sumo Pontífice. En la Casa Rosada la consigna es…",
-          "fuente": "Infobae"
+          "titulo": "Sergio Uñac busca posicionarse como precandidato del PJ, en medio de las especulaciones sobre Cristina Kirchner",
+          "link": "https://www.lanacion.com.ar/politica/sergio-unac-se-sostiene-como-precandidato-del-pj-en-medio-de-las-especulaciones-sobre-cristina-nid21092026/",
+          "resumen": "El senador se lanzó hace más de cinco meses y busca profundizar su despliegue; lo apoyan sectores que intentan que la expresidenta pueda competir, a pesar de la condena; él la considera la opción “más competitiva”",
+          "fuente": "La Nación"
         }
       ]
     },
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Euro hoy en Venezuela: precio y cotización de la divisa este domingo 20 de septiembre de 2026",
-          "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-domingo-20-de-septiembre-de-2026_0_3hto8VAWno.html",
-          "resumen": "Mirá la cotización del euro en Venezuela, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
+          "titulo": "Euro hoy en Uruguay: precio y cotización de la divisa este lunes 21 de septiembre de 2026",
+          "link": "https://www.clarin.com/economia/euro-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-lunes-21-de-septiembre-de-2026_0_uRxYoAyqJv.html",
+          "resumen": "Mirá la cotización del euro en Uruguay, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Paritaria con aumento: cuánto cobran las niñeras y cuidadores de adultos en septiembre de 2026",
-          "link": "https://www.lanacion.com.ar/economia/paritaria-con-aumento-cuanto-cobran-las-nineras-y-cuidadores-de-adultos-en-septiembre-de-2026-nid16092026/",
-          "resumen": "La cuarta categoría recibe este mes un incremento y un porcentaje del bono se pasa al sueldo básico; los detalles en la nota",
+          "titulo": "“Es completamente falso”. El CEO de Nvidia dice que hay 0% de probabilidades de que la IA destruya la humanidad en 10 años",
+          "link": "https://www.lanacion.com.ar/tecnologia/es-completamente-falso-el-ceo-de-nvidia-dice-que-hay-0-de-probabilidades-de-que-la-ia-destruya-la-nid21092026/",
+          "resumen": "Jensen Huang rechazó las advertencias sobre la extinción de la humanidad por la IA",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Crisis de ingresos: 6 de cada 10 argentinos se endeudaron y el 76% lo hizo para para pagar alimentos, salud, tarifas y servicios",
-          "link": "https://www.ambito.com/economia/crisis-ingresos-6-cada-10-argentinos-se-endeudaron-y-el-76-lo-hizo-para-pagar-alimentos-salud-tarifas-y-servicios-n6324445",
-          "resumen": "Un informe reciente reveló que el 60,2% tomó deuda en los últimos seis meses. Los gastos en productos y servicios básicos se llevan la mayor parte del gasto del crédito.",
+          "titulo": "Morosidad récord: las deudas de casi 900.000 personas ya pasaron a manos de las agencias de cobranza",
+          "link": "https://www.ambito.com/economia/morosidad-record-las-deudas-casi-900000-personas-ya-pasaron-manos-las-agencias-cobranza-n6324716",
+          "resumen": "El incumplimiento de pagos de más de un año creció un 60% interanual. Cuáles fueron las provincias dónde más aumentó la morosidad el último año, y cómo se transformó el mapa nacional, atravesado por el endeudamiento.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Martín Rossi, exfuncionario de Javier Milei: \"El país lleva tres años ordenando la macro, pero el crecimiento no vendrá solo”",
-          "link": "https://www.ambito.com/economia/martin-rossi-exfuncionario-javier-milei-el-pais-lleva-tres-anos-ordenando-la-macro-pero-el-crecimiento-no-vendra-solo-n6324342",
-          "resumen": "El exsecretario de Desregulación divide el programa económico en tres columnas: fiscal, aperturista y desregulatoria. Celebra la primera y la tercera, aunque reconoce que sostiene matices con la segunda.",
-          "fuente": "Ámbito"
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 21 de septiembre, minuto a minuto",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid21092026/",
+          "resumen": "La divisa oficial opera a $1535 para la venta en el Banco Nación; el dólar blue cotiza a $1550 para esa operación; qué pasa con el MEP y el CCL",
+          "fuente": "La Nación"
         },
         {
-          "titulo": "Créditos hipotecarios en septiembre de 2026: ¿Cuánto hay que ganar para comprar un departamento?",
-          "link": "https://www.ambito.com/economia/creditos-hipotecarios-septiembre-2026-cuanto-hay-que-ganar-comprar-un-departamento-n6323661",
-          "resumen": "Las líneas UVA siguen activas, pero los bancos fijan distintos pisos salariales y limitan cuánto puede representar la primera cuota sobre los ingresos.",
+          "titulo": "La industria metalúrgica se desplomó 6,1% anual en agosto y opera con apenas el 39,6% de su capacidad instalada",
+          "link": "https://www.ambito.com/economia/la-industria-metalurgica-se-desplomo-61-anual-agosto-y-opera-apenas-el-396-su-capacidad-instalada-n6324668",
+          "resumen": "La producción del sector cayó 6,1% interanual en agosto y 3,9% frente a julio, mientras que el uso de la capacidad instalada se redujo al 39,6%. Todos los sectores estratégicos registraron retrocesos y el 10,3% de las empresas ya presenta…",
           "fuente": "Ámbito"
         }
       ]
@@ -77,34 +77,34 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Moscú bajo ataque: dos muertos, una refinería petrolera en llamas y 338 drones derribados",
-          "link": "https://www.clarin.com/mundo/moscu-ataque-muertos-refineria-petrolera-llamas-250-drones-derribados_0_NJfP20vsgz.html",
-          "resumen": "Andréi Vorobiov, gobernador de la región capital de Rusia aseguró que desde la medianoche se interceptaron cerca de 250 vehículos no tripulados. Luego, la Agencia TASS informó que fueron 338. El alcalde confirmó los ataques a la…",
+          "titulo": "Cinco grandes cadenas de TV de EE.UU. suspenden la cobertura conjunta de la Casa Blanca por el veto de Trump a periodistas",
+          "link": "https://www.clarin.com/mundo/grandes-cadenas-tv-eeuu-suspenden-cobertura-conjunta-casa-blanca-veto-trump-periodistas_0_xiTQBcNdzu.html",
+          "resumen": "Es en represalia por la prohibición impuesta a tres periodistas para acceder a la Casa Blanca durante el fin de semana. Las cadenas que suspenden la cobertura son ABC, CBS, CNN, Fox News y NBC.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Elecciones en Brasil 2026: la fecha de cuándo se vota al próximo presidente",
-          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-en-brasil-2026-la-fecha-de-cuando-se-vota-al-proximo-presidente-nid17092026/",
-          "resumen": "En el mes de octubre, los ciudadanos brasileños asistirán a las urnas para elegir a quien ocupará el máximo cargo ejecutivo del país; los detalles en la nota",
+          "titulo": "Entre críticas y llamados a elecciones, Delcy Rodríguez llegó a EE.UU. para reunirse con Trump y hablar en la ONU",
+          "link": "https://www.lanacion.com.ar/el-mundo/entre-criticas-y-llamados-a-elecciones-delcy-rodriguez-llego-a-eeuu-para-reunirse-con-trump-y-hablar-nid21092026/",
+          "resumen": "La líder del chavismo sostendrá su primer cara a cara con el mandatario norteamericano y hablará en el organismo multilateral este jueves; la diáspora convoca a una protesta",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Conmoción en Perú: asesinaron a tiros a una candidata durante un acto de campaña",
-          "link": "https://www.clarin.com/mundo/conmocion-peru-asesinaron-tiros-candidata-acto-campana_0_2BooqUXExP.html",
-          "resumen": "Susy Aponte Polo competía por la gobernación regional de Áncash, una región ubicada al norte de Lima. La mujer había denunciado amenazas horas antes de que se produjera el ataque.",
+          "titulo": "\"Forbidden Stories\": la investigación sobre la red mundial tejida por EE.UU. para organizar expulsiones masivas de inmigrantes",
+          "link": "https://www.clarin.com/mundo/forbidden-stories-investigacion-red-mundial-tejida-eeuu-organizar-expulsiones-masivas-inmigrantes_0_kavXEnznrL.html",
+          "resumen": "Un grupo de más de 20 medios de comunicación, entre ellos The Washington Post y RFI, llevaron adelante durante meses, una profunda investigación sobre las expulsiones masivas de la administración Trump. Más de 25.000 personas han sido…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Macron respondió al mapa de Trump que incluía territorios franceses bajo la bandera de Estados Unidos: \"No hay debate\"",
-          "link": "https://www.clarin.com/mundo/macron-respondio-mapa-trump-incluia-territorios-franceses-bandera-estados-unidos-debate_0_i6An71Ytof.html",
-          "resumen": "El presidente francés llegó a San Pedro y Miquelón y reivindicó la soberanía de París sobre el archipiélago ubicado frente a Canadá. La imagen también mostraba bajo los colores estadounidenses a Martinica, Guadalupe, San Bartolomé y San…",
+          "titulo": "Directores de escuela ponen en duda el plan de Meloni de limitar la matrícula de extranjeros en Italia: \"No podemos expulsar niños\"",
+          "link": "https://www.clarin.com/mundo/directores-escuela-ponen-duda-plan-meloni-limitar-matricula-extranjeros-italia-podemos-expulsar-ninos_0_TkG93ZXjyv.html",
+          "resumen": "El presidente de la Asociación Nacional de Directores sostuvo que la medida es difícil de implementar y recordó una iniciativa similar que fracasó en 2010. Para la oposición, se trata de una movida de propaganda de ultraderecha.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Más acusaciones contra el rey Carlos y una lluvia de secretos revelados: el libro del hermano de Lady Di promete gran revuelo en Gran Bretaña",
-          "link": "https://www.clarin.com/mundo/acusaciones-rey-carlos-lluvia-secretos-revelados-libro-hermano-lady-di-promete-gran-revuelo-gran-bretana_0_dRhs1Jz05o.html",
-          "resumen": "En una entrevista con la BBC, el conde Spencer contó más detalles de su enfrentamiento con el actual monarca. El martes salen a la venta sus memorias, de las que ya se adelantaron extractos que hacen prever mucha polémica.",
-          "fuente": "Clarín"
+          "titulo": "Christina Koch, astronauta y única mujer de Artemis II: “No hay nada que te prepare para la impresionante sensación de ver tu planeta iluminado como si fuera de día”",
+          "link": "https://www.lanacion.com.ar/el-mundo/christina-koch-astronauta-y-unica-mujer-de-artemis-ii-no-hay-nada-que-te-prepare-para-la-nid20092026/",
+          "resumen": "Tras completar con éxito el histórico sobrevuelo lunar, se conoció una frase que la astronauta de la NASA pronunció mientras realizaba la misión Artemis II",
+          "fuente": "La Nación"
         }
       ]
     },
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "\"De otro planeta\": el espectacular gol de chilena del Colibrí Borja que amargó a Gabriel Milito en el clásico América contra Chivas en México",
-          "link": "https://www.clarin.com/deportes/planeta-espectacular-gol-chilena-colibri-borja-amargo-gabriel-milito-clasico-america-chivas-mexico_0_FpWPTIoR8x.html",
-          "resumen": "Las Aguilas perdían 2-0 y consiguieron el empate con un doblete del colombiano que jugó en River. Mirá el video.",
+          "titulo": "Nico Tagliafico se sumó a la Selección pero insistió en cerrar su ciclo tras la despedida de Lionel Messi: \"Es mi etapa final\"",
+          "link": "https://www.clarin.com/deportes/nico-tagliafico-sumo-seleccion-insistio-cerrar-ciclo-despedida-lionel-messi-etapa-final_0_zfbfnrrXRb.html",
+          "resumen": "El lateral izquierdo habló al desembarcar en Buenos Aires para la fecha FIFA que marcará el final de la Pulga. Ya había avisado que la Copa del Mundo 2026 había sido la última. ¿Llega a la Copa América 2028?",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Enzo Fernández metió un golazo de tiro libre para el Manchester City ante el Sunderland",
-          "link": "https://www.lanacion.com.ar/deportes/enzo-fernandez-metio-un-golazo-de-tiro-libre-para-el-manchester-city-ante-el-sunderland-nid20092026/",
-          "resumen": "El argentino convirtió por primera vez para el equipo inglés.",
+          "titulo": "Ángel Di María confirmó que acompañará a Lionel Messi en la despedida con la selección argentina",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/angel-di-maria-confirmo-que-acompanara-a-lionel-messi-en-la-despedida-con-la-seleccion-argentina-nid21092026/",
+          "resumen": "El futbolista de Rosario Central formará parte de la celebración que será el próximo 6 de octubre en el Monumental",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Colo Barco sobre la despedida de Messi de la Selección: \"Deja un vacío muy grande, difícil de llenar\"",
-          "link": "https://www.ole.com.ar/seleccion/colo-barco-llegada-ezeiza-seleccion-argentina_0_KWcD3HZkeg.html",
-          "resumen": "El volante de Chelsea ya está en el país para iniciar los trabajos con el Seleccionado. Y habló del 10 antes del homenaje del 6 de octubre en River.",
+          "titulo": "¿El Papa se lleva una camiseta de River de su visita a Argentina?",
+          "link": "https://www.ole.com.ar/river-plate/river-papa-leon-xiv-camiseta-14-pablo-quirno_0_8razFEo2NO.html",
+          "resumen": "Quién es el funcionario argentino que está detrás de la movida con León XIV: \"Le tenemos que llevar la 14, que además es el número de Los Borrachos del Tablón\".",
           "fuente": "Olé"
         },
         {
-          "titulo": "Argentina vs Turquía por la Copa Davis, EN VIVO: a qué hora juegan Andreozzi y Molteni, dónde ver y minuto a minuto",
-          "link": "https://www.clarin.com/deportes/argentina-vs-turquia-copa-davis-vivo-hora-juegan-andreozzi-molteni-ver-minuto-minuto_0_EH1RpeUUAy.html",
-          "resumen": "El equipo argentino quedó match point tras las victorias de Francisco Cerúndolo y Thiago Tirante. Busca, ahora, sellar la clasificación con sus doblistas.",
+          "titulo": "Escándalo en la Selección de Suiza, rival de Argentina en el Mundial 2026: apartaron al capitán por truchar un certificado de vacunación y podría ir preso",
+          "link": "https://www.clarin.com/deportes/escandalo-seleccion-suiza-rival-argentina-mundial-2026-apartaron-capitan-truchar-certificado-vacunacion-podria-ir-preso_0_E2ZWJg7JmM.html",
+          "resumen": "Se trata de Granit Xhaka, una de las estrellas del equipo, que confesó su falsificación en la época de la pandemia de COVID. El comunicado de la la Asociación Suiza de Fútbol (ASF).",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Así está el medallero de los Juegos Suramericanos Santa Fe 2026, tras el día 7",
-          "link": "https://www.lanacion.com.ar/deportes/asi-esta-el-medallero-de-los-juegos-suramericanos-santa-fe-2026-tras-el-dia-7-nid19092026/",
-          "resumen": "Tras varios días de competencia, Brasil se mantiene en la cima del medallero, con Argentina y Colombia como principales competidores",
+          "titulo": "Un producto, dos valores: las cosas que el dinero sí puede comprar en la Fórmula 1",
+          "link": "https://www.lanacion.com.ar/deportes/automovilismo/un-producto-dos-valores-las-cosas-que-el-dinero-si-puede-comprar-en-la-formula-1-nid21092026/",
+          "resumen": "En Monza se observó una diferencia de precio de treinta veces para acceder al mismo bien. Lo que separa a esos dos mundos no es el lujo: es una arquitectura comercial",
           "fuente": "La Nación"
         }
       ]
