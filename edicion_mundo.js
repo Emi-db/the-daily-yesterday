@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "21 de septiembre de 2026",
-    "generada": "16:03",
+    "fecha": "22 de septiembre de 2026",
+    "generada": "14:14",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "\"Para mí, eran como mis hijos\": el duelo de una profesora que perdió a más de 200 alumnos en el doble terremoto de Venezuela",
-            "link": "https://www.bbc.com/mundo/articles/cxr501n9z45qo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Madeleine Cova es una profesora de secundaria que llora los estudiantes que perdió en los terremotos que sacudieron el norte de Venezuela el 24 de junio.",
+            "titulo": "\"Es un hada madrina\": la mujer que envía US$10.000 a la semana para que los niños migrantes detenidos en EE.UU. compren comida",
+            "link": "https://www.bbc.com/mundo/articles/cm5y798z1lv1o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Casey Revkin empezó a ayudar a menores afectados por las políticas migratorias durante el primer gobierno de Trump. Hoy deposita dinero en las cuentas de las familias detenidas en Dilley.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "El presidente de Irán viajará a la Asamblea General de la ONU en Nueva York",
-            "link": "https://elpais.com/internacional/2026-09-21/el-presidente-de-iran-viajara-a-la-asamblea-general-de-la-onu-en-nueva-york.html",
-            "resumen": "Teherán niega que en su agenda haya ningún encuentro con “funcionarios” estadounidenses, aunque Trump se dice dispuesto a reunirse con Pezeshkian",
+            "titulo": "Irán se muestra dispuesto a reabrir Ormuz si Trump afloja la presión militar y levanta su bloqueo",
+            "link": "https://elpais.com/internacional/2026-09-22/iran-se-muestra-dispuesto-a-reabrir-ormuz-si-trump-afloja-la-presion-militar-y-levanta-su-bloqueo.html",
+            "resumen": "El anuncio de la delegación de Teherán a la Asamblea de la ONU presiona a la baja el precio del petróleo, que cae por debajo de los 100 dólares",
             "fuente": "El País"
           },
           {
-            "titulo": "En directo: Dos buques son impactados en Ormuz, mientras EE. UU. e Irán intercambian nuevas amenazas",
-            "link": "https://www.france24.com/es/medio-oriente/20260921-en-directo-dos-buques-son-impactados-en-ormuz-mientras-ee-uu-e-ir%C3%A1n-intercambian-nuevas-amenazas",
-            "resumen": "El Centro de Operaciones de Comercio Marítimo de Reino Unido (UKMTO) informó que dos petroleros fueron alcanzados por \"proyectiles desconocidos\" cuando transitaban por el estrecho de Ormuz. Uno de los impactos causó heridas leves a dos…",
+            "titulo": "En vivo: António Guterres emite su último discurso en el debate general de la Asamblea General de la ONU",
+            "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260922-en-directo-la-asamblea-general-de-la-onu-comenzar%C3%A1-este-martes-marcada-por-las-guerras-en-ir%C3%A1n-y-ucrania",
+            "resumen": "",
             "fuente": "France 24"
           },
           {
-            "titulo": "Una alerta de 4 minutos no basta: la nueva e incesante táctica de bombardeos de Rusia que está agotando a los habitantes de Kyiv",
-            "link": "https://www.bbc.com/mundo/articles/cw8d3l13p113o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Desde hace meses, la capital ucraniana viene sufriendo ataques cada vez más frecuentes y feroces.",
+            "titulo": "Por qué los estados de la antigua Alemania comunista se convirtieron en el bastión de la extrema derecha en el país europeo",
+            "link": "https://www.bbc.com/mundo/articles/cr93ex2jyz54o?at_medium=RSS&at_campaign=rss",
+            "resumen": "La inmigración, el declive económico, las secuelas de la reunificación e incluso el legado del nazismo son algunos de los factores que los expertos señalan para explicar el voto de los alemanes orientales.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "La noche más larga de Merz: “Es un punto de inflexión para la CDU”",
-            "link": "https://elpais.com/internacional/2026-09-21/la-noche-mas-larga-de-merz-es-un-punto-de-inflexion-para-la-cdu.html",
-            "resumen": "La debacle de Mecklemburgo-Pomerania Occidental deja a los democristianos alemanes fuera de un Parlamento regional por primera vez en su historia",
+            "titulo": "Los hutíes prosiguen su avance en Yemen y acarician el control total del estrecho de Bab el Mandeb",
+            "link": "https://elpais.com/internacional/2026-09-22/los-huties-prosiguen-su-avance-en-yemen-y-acarician-el-control-total-del-estrecho-de-bab-el-mandeb.html",
+            "resumen": "Pese a los recientes ataques contra Riad y sus instalaciones petroleras, Arabia Saudí promete retomar los envíos de crudo desde Yanbu mientras recibe el apoyo de países occidentales",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "La inversión extranjera en España se dispara en la primera mitad del año y roza los 12.500 millones de euros",
-            "link": "https://elpais.com/economia/2026-09-21/la-inversion-extranjera-en-espana-se-dispara-en-la-primera-mitad-del-ano-y-roza-los-12500-millones-de-euros.html",
-            "resumen": "El volumen de capital foráneo crece un 30% anual entre enero y junio, pero sigue lejos del nivel de 2024. El Gobierno quiere reforzar el control de estas operaciones",
+            "titulo": "La gran industria alerta al Gobierno de paradas de sus fábricas este otoño por los altos precios de la energía",
+            "link": "https://elpais.com/economia/2026-09-22/la-gran-industria-alerta-al-gobierno-de-paradas-de-sus-fabricas-este-otono-por-los-altos-precios-de-la-energia.html",
+            "resumen": "Diez patronales que representan a sectores estratégicos del tejido productivo nacional piden a Cuerpo (Economía) y Hereu (Industria) ampliar ayudas tras constatar ya una destrucción progresiva de actividad",
             "fuente": "El País"
           },
           {
-            "titulo": "Santander ficha al director general de la 'fintech' del exCEO de BBVA Ángel Cano",
-            "link": "https://www.expansion.com/empresas/banca/2026/09/21/6ab13ce1468aeb0a0c8b4586.html",
-            "resumen": "Luis Cantero se ha incorporado a los equipos de la unidad global de Datos a Inteligencia Artificial de Santander. Leer",
+            "titulo": "Santander ficha a UBS para la opa en Brasil y deja atrás el 'caso Orcel'",
+            "link": "https://www.expansion.com/empresas/banca/2026/09/22/6ab24e80468aeb2f168b4571.html",
+            "resumen": "Santander ha fichado a UBS para realizar trabajos de banca de inversión en la oferta de compra de 1.900 millones de euros que ha lanzado por el 10% que no controla de su filial de Brasil. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "La jornada de 35 horas avanza en la administración autonómica y local y anticipa conflictos donde aún no se ha implantado",
-            "link": "https://elpais.com/economia/2026-09-21/la-jornada-de-35-horas-avanza-en-la-administracion-autonomica-y-local-y-anticipa-conflictos-donde-aun-no-se-ha-implantado.html",
-            "resumen": "Los empleados públicos regionales de Madrid y Galicia amenazan con movilizaciones, mientras que los de Cataluña ya negocian la reducción del tiempo de trabajo",
+            "titulo": "Trabajo propone un programa público para que 200.000 jóvenes accedan a su primer empleo hasta 2028",
+            "link": "https://elpais.com/economia/2026-09-22/trabajo-propone-un-programa-publico-para-que-200000-jovenes-accedan-a-su-primer-empleo-hasta-2028.html",
+            "resumen": "El ministerio empieza a negociar con sindicatos y patronal una amplia estrategia para activar el empleo entre menores de 24 años y parados de larga duración mayores de 45",
             "fuente": "El País"
           },
           {
-            "titulo": "El miedo a subidas de impuestos y los precios de la vivienda disparan las donaciones en vida",
-            "link": "https://www.expansion.com/economia/2026/09/20/6aac0fd7e5fdeacf488b45aa.html",
-            "resumen": "Leer",
+            "titulo": "¿Qué riesgo hay de burbuja inmobiliaria en Madrid?",
+            "link": "https://www.expansion.com/inmobiliario/mercado/2026/09/22/6ab25f16468aeb67278b45a7.html",
+            "resumen": "Los precios de la vivienda han aumentado con fuerza en los últimos años. Estas subidas han estado respaldadas por un demanda extranjera creciente, una sólida formación de hogares y una oferta limitada. El resultado es que comprar un piso…",
             "fuente": "Expansión"
           },
           {
-            "titulo": "España mejora la sostenibilidad de las pensiones tras rebajar su generosidad y elevar los ingresos, según un informe de Fedea",
-            "link": "https://elpais.com/economia/2026-09-21/espana-mejora-la-sostenibilidad-de-las-pensiones-tras-rebajar-su-generosidad-y-elevar-los-ingresos-segun-un-informe-de-fedea.html",
-            "resumen": "El centro de estudios destaca este avance, pero alerta de que puede estar provocado por unas proyecciones demasiado optimistas",
+            "titulo": "Francia pide a Bruselas que flexibilice las normas de calidad de los carburantes por la crisis de Oriente Próximo",
+            "link": "https://elpais.com/economia/2026-09-22/francia-pide-a-bruselas-que-flexibilice-las-normas-de-calidad-de-los-carburantes-por-la-crisis-de-oriente-proximo.html",
+            "resumen": "Macron reclama a Von der Leyen medidas para hacer frente a los problemas de suministro de hidrocarburos por el cierre de Ormuz pero sin mencionar las bajadas de impuestos",
             "fuente": "El País"
           }
         ]
@@ -77,6 +77,24 @@ const EDICION_MUNDO = {
       {
         "nombre": "Ciencia y Tecnología",
         "notas": [
+          {
+            "titulo": "OpenAI anuncia ahora que su IA ha resuelto más de 100 problemas históricos de las matemáticas, ¿qué futuro le queda a la disciplina?",
+            "link": "https://elpais.com/tecnologia/2026-09-22/openai-anuncia-ahora-que-su-ia-ha-resuelto-mas-de-100-problemas-historicos-de-las-matematicas-que-futuro-le-queda-a-la-disciplina.html",
+            "resumen": "Días después de resolver uno de los ‘problemas del milenio’, un modelo de ChatGPT ha resuelto de golpe docenas de cálculos. La compañía ha pedido a un grupo de académicos de prestigio que les ayuden a cómo comunicarlo",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "El ‘no’ a La Palma anticipa el final del Telescopio de Treinta Metros: “El proyecto está muerto”",
+            "link": "https://elpais.com/ciencia/2026-09-22/el-no-a-la-palma-anticipa-el-final-del-telescopio-de-treinta-metros-el-proyecto-esta-muerto.html",
+            "resumen": "El gran observatorio de 3.000 millones va camino de esfumarse por completo por la falta de presupuesto, la oposición en Hawái y el probable abandono de Canadá",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "La IA no necesita frenos, necesita otro rumbo",
+            "link": "https://elpais.com/tecnologia/2026-09-22/la-ia-no-necesita-frenos-necesita-otro-rumbo.html",
+            "resumen": "Los avances en esta tecnología pueden reorientarse y ajustarse para responder a necesidades concretas de la población, en lugar de aspirar a ser modelos que lo hagan todo",
+            "fuente": "El País"
+          },
           {
             "titulo": "Azúcar entre las estrellas",
             "link": "https://elpais.com/ciencia/2026-09-21/azucar-entre-las-estrellas.html",
@@ -88,24 +106,6 @@ const EDICION_MUNDO = {
             "link": "https://elpais.com/tecnologia/2026-09-21/sanchez-reclama-un-nuevo-contrato-social-de-la-ia-antes-de-viajar-a-la-cumbre-de-la-onu-en-nueva-york.html",
             "resumen": "El presidente del Gobierno presenta medidas para adaptar a España a esta nueva tecnología y anuncia que convocará a los agentes sociales para abordarlo",
             "fuente": "El País"
-          },
-          {
-            "titulo": "Consuelo Walss-Bass, científica que estudia la esquizofrenia: “Mi madre y mi hermana ya se acostumbraron a oír las voces, pero siguen ahí”",
-            "link": "https://elpais.com/ciencia/2026-09-19/consuelo-walss-bass-cientifica-que-estudia-la-esquizofrenia-mi-madre-y-mi-hermana-ya-se-acostumbraron-a-oir-las-voces-pero-siguen-ahi.html",
-            "resumen": "La bioquímica, que estudia las bases biológicas de la enfermedad en minicerebros, publica un libro que entreteje la historia familiar con su estudio sobre la base genética del trastorno",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Estados Unidos propone a China un sistema de alertas mutuo por incidentes de IA",
-            "link": "https://elpais.com/tecnologia/2026-09-21/estados-unidos-propone-a-china-un-sistema-de-alertas-mutuo-por-incidentes-de-ia.html",
-            "resumen": "“Queremos una visión compartida de objetivos comunes y amenazas comunes”, ha dicho el secretario del Tesoro, Scott Bessent",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "La isla canaria de La Palma, descartada para albergar el Telescopio de Treinta Metros",
-            "link": "https://elpais.com/ciencia/2026-09-18/la-palma-descartada-para-albergar-el-telescopio-de-treinta-metros.html",
-            "resumen": "El Gobierno había comprometido 1.000 millones de euros para atraer esta gigantesca infraestructura científica a España",
-            "fuente": "El País"
           }
         ]
       },
@@ -113,33 +113,33 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
-            "link": "https://www.marca.com/futbol/album/2026/09/16/portadas-dia.html",
-            "resumen": "Así vienen los periódicos deportivos de este miércoles 14 de septiembre de 2026.",
+            "titulo": "'De repente', Sergio Ramos aparece por la sede de Ferrari",
+            "link": "https://www.marca.com/coches-y-motos/coches/2026/09/22/repente-sergio-ramos-aparece-sede-ferrari.html",
+            "resumen": "El ex jugador del Real Madrid ha compartido el redes sociales las imágenes de su paso por Maranello, a donde no solo ha acudido como aficionado al motor",
             "fuente": "Marca"
           },
           {
-            "titulo": "El Atlético responde a Mou y al Madrid: \"Stop acoso arbitral ya\"",
-            "link": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260921/1004229840/atletico-responde-mou-madrid-stop-acoso-arbitral.html",
-            "resumen": "El derbi disputado por el Atlético de Madrid y el Real Madrid , resuelto a favor del conjunto colchonero por 2-1, no estuvo exento de polémica. Más bien lo contrario. A pesar de la superioridad exhibida por el equipo dirigido por Diego…",
+            "titulo": "Gavi: \"Ahora siento mucha más presión que con 17 años\"",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260922/1004230080/gavi-mi-rodilla-fuerte-no-me-descuidar.html",
+            "resumen": "La temporada de Gavi (22 años) comenzó con un sabor agridulce. Hansi Flick le dio la titularidad en el estreno en Liga, ante el Elche , pero un golpe en la rodilla le obligó a sustituirle. El canterano se perdió un par de partidos por…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "\"No puedo fallar tantas\"",
-            "link": "https://www.marca.com/futbol/real-madrid/2026/09/16/vinicius-entona-mea-culpa-goles-volver-fallar-tantas.html",
-            "resumen": "El brasileño se pronunció en sus redes sociales al final del partido",
+            "titulo": "Recuperar al soldado Thiago Pitarch",
+            "link": "https://www.marca.com/futbol/real-madrid/2026/09/22/recuperar-soldado-thiago-pitarch.html",
+            "resumen": "El plan es que juegue con el Castilla durante el parón y acelerar una puesta a punto que podría completar con la selección sub 20",
             "fuente": "Marca"
           },
           {
-            "titulo": "Competición no sancionará a Florentino Pérez por su ataque a los árbitros",
-            "link": "https://www.mundodeportivo.com/futbol/real-madrid/20260921/1004229850/competicion-no-sancionara-florentino-perez-ataque-arbitros.html",
-            "resumen": "No habrá sanción disciplinaria a Florentino Pérez por sus declaraciones contra el estamento arbitral en la rueda de prensa del 12 de mayo de este año donde convocó elecciones. Tres días más tarde conocíamos que el sindicato de árbitros…",
+            "titulo": "No hubo encuentro Flick-Mourinho",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260922/1004230064/no-hubo-encuentro-flick-mourinho.html",
+            "resumen": "Hansi Flick ha asistido esta mañana a la Ciudad del Fútbol de Las Rozas . Se celebraba el encuentro anual de los entrenadores de Primera y Segunda División, donde tienen un espacio para expresar sus quejas y preocupaciones. Habría sido el…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "\"¿Qué narices le pasa al Madrid?\"",
-            "link": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html",
-            "resumen": "La opinión de José Vicente Hernáez",
+            "titulo": "FIFA abre dos escuelas de fútbol en Cisjordania",
+            "link": "https://www.marca.com/futbol/2026/09/22/fifa-abre-dos-escuelas-futbol-cisjordania.html",
+            "resumen": "La Copa Infantil Unidos por la Paz, con 14 equipos palestinos y 160 niños, servirá como apertura oficial de estos campos en Rabah y Qusin",
             "fuente": "Marca"
           }
         ]
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "September 21, 2026",
-    "generada": "16:03",
+    "fecha": "September 22, 2026",
+    "generada": "14:14",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-            "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti",
+            "titulo": "Major US outlets suspend shared Trump coverage in protest at media ban",
+            "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
+            "link": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
+            "resumen": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacle The United States’ withdrawal from key aid programs has put has put healthcare in Africa and…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "U.N. Live Updates: Secretary General Calls on World Leaders to End Conflicts and Confront A.I. Threats",
+            "link": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news",
+            "resumen": "António Guterres, the U.N. secretary general, was among the first to deliver remarks to the General Assembly in New York. President Trump is expected to defend the U.S.-Israeli war in Iran in his address.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+            "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
             "fuente": "BBC"
           },
           {
             "titulo": "Banished to alien lands: Trump’s secret deportation deals",
             "link": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals",
             "resumen": "After a plane journey in shackles, an Iranian woman found herself in the middle of Africa in a country she did not know existed. She is one of thousands deported from the US on the back of shadowy deals made with dozens of countries. An…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "The Fuel That Feeds Europe’s Far Right: Nostalgia and Lost Pride",
-            "link": "https://www.nytimes.com/2026/09/21/world/europe/germany-afd-far-right.html",
-            "resumen": "The populist emphasis on national identity and threats to it, real and imagined, finds a deep response in voters adrift in a world they no longer understand.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "Merz vows to keep coalition together for Germany's 'democratic future'",
-            "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
-            "resumen": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
-            "link": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea",
-            "resumen": "Group trapped at Hotel Bamy after US removal as rights groups sound alarm over poor conditions and violence Two men that the Trump administration expelled to Equatorial Guinea were bound, fitted with bags over their heads, beaten and…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Airlines criticise air traffic control as second glitch causes more disruption",
-            "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Airlines are angry about the delays, with EasyJet saying the latest incident \"once again calls into question the resilience\" of the system.",
+            "titulo": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+            "link": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
             "fuente": "BBC"
           },
           {
-            "titulo": "CNN, MS Now and Politico sue Trump after being blocked from White House",
-            "link": "https://www.theguardian.com/us-news/2026/sep/21/white-house-news-organization-ban-lawsuit",
-            "resumen": "Three news outlets filed lawsuit in attempt to regain access to the White House after having badges disabled In what will be one of the largest battles yet between the press and Donald Trump’s administration , three news organizations –…",
+            "titulo": "Oil falls below $100 a barrel on reports Iran ‘makes strait of Hormuz offer’; UK government borrowing paints ‘dismal picture’ – business live",
+            "link": "https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates",
+            "resumen": "The rising cost of servicing the UK national debt pushed up borrowing last month, while oil is dropping, and M&G holds Bond Vigilantes Forum in London How much ‘headroom’ might John Healey still have to keep within the government’s fiscal…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Paramount to Resolve Antitrust Lawsuit, Clearing the Way for Warner Bros. Acquisition",
-            "link": "https://www.nytimes.com/2026/09/21/business/paramount-warner-bros-ellison.html",
-            "resumen": "The deal would remove the last significant hurdle the media mogul David Ellison faced to create a news and entertainment empire, home to movie studios, HBO, CBS and CNN.",
+            "titulo": "Patagonia Offers $100 to Customers Who Help Others Plan to Vote",
+            "link": "https://www.nytimes.com/2026/09/22/business/patagonia-midterms-voting-incentive.html",
+            "resumen": "The outdoor apparel brand, which sued the Trump administration this month, is ramping up its environmental activism before the midterm elections.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "What are my rights if my flight is cancelled or delayed?",
-            "link": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Flights are affected again owing to air traffic control problems, so what are your rights if you're affected?",
+            "titulo": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
+            "link": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Starbucks baristas reel from surges in health insurance costs: ‘I’m considering a second job’",
-            "link": "https://www.theguardian.com/business/2026/sep/21/starbucks-baristas-health-insurance-surge",
-            "resumen": "Several workers say they’re opting to go without health coverage due to premium costs soaring this year Starbucks workers say their health insurance premiums have soared this year, in some cases more than doubling, according to a recent…",
+            "titulo": "Plan for editorial oversight board at CNN and CBS News draws skepticism: ‘Utter garbage’",
+            "link": "https://www.theguardian.com/media/2026/sep/21/cnn-cbs-news-editorial-board-skepticsm",
+            "resumen": "Some network employees and media-watchers have questions and concerns about how arrangement will work Leading media figures and insiders dismissed plans to create an editorial oversight board to protect CNN ’s independence as “utter…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,9 +224,9 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alert",
-            "link": "https://www.bbc.co.uk/news/videos/ckjrxpqxx2v3o?at_medium=RSS&at_campaign=rss",
-            "resumen": "More than 1.9 million people are under evacuation orders as Typhoon Dujuan batters Japan.",
+            "titulo": "Developing El Niño becomes strongest on record weeks before expected peak",
+            "link": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
             "fuente": "BBC"
           },
           {
@@ -236,21 +236,21 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "What a Massive New Crater Means for Future Moon Bases",
-            "link": "https://www.nytimes.com/2026/09/21/science/space/what-a-massive-new-crater-means-for-future-moon-bases.html",
-            "resumen": "At a whopping 728 feet wide, the newfound basin hints at the risks that impact events may pose to planned human outposts.",
+            "titulo": "New Hope for Diagnosing C.T.E. in Brain Injured Patients",
+            "link": "https://www.nytimes.com/2026/09/22/science/cte-diagnosis-brain-injury.html",
+            "resumen": "Scientists are developing imaging techniques and blood tests that one day may enable doctors to identify the disease definitively in living patients.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Which emergency foods should you stock up on?",
-            "link": "https://www.bbc.co.uk/news/videos/ckly58lmy2gvo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The BBC's Annabel Rackham shares some dos and don'ts, following government advice in case of food supply chain disruption.",
+            "titulo": "Inside Scotland's wildcat HQ",
+            "link": "https://www.bbc.co.uk/news/videos/ckq6312dq0qjo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The Saving Wildcats partnership is keeping an eye on the latest wildcats being bred in captivity for release into the Cairngorms.",
             "fuente": "BBC"
           },
           {
-            "titulo": "‘Jaw-dropping’ El Niño bursts through temperature record months before peak",
-            "link": "https://www.theguardian.com/environment/2026/sep/21/super-el-nino-temperature-record",
-            "resumen": "‘Godzilla-level’ phenomenon is supercharging the climate crisis and will have a huge impact on communities across the world The “jaw-dropping” El Niño currently heating up the planet has burst through the highest temperature ever recorded…",
+            "titulo": "From paleo to intermittent fasting: are any diets actually good for us? - podcast",
+            "link": "https://www.theguardian.com/lifeandstyle/audio/2026/sep/22/do-any-diets-actually-work-podcast",
+            "resumen": "As diet trends proliferate on social media, it can be hard to work out which are backed by science and which should be ignored. From paleo to keto, raw food to intermittent fasting, each attracts a tribe of ardent followers. Now Daniel…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Was Neville right to call out Man Utd for a 'lack of effort'?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqrl6pe56348o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Was Gary Neville right to call out Manchester United for a \"lack of effort\" in their 1-1 draw at Fulham on Sunday?",
+            "titulo": "Arteta agrees new deal with champions Arsenal",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Mikel Arteta agrees an improved new contract with Premier League champions Arsenal.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Justin Herbert has been the quarterback of tomorrow his entire NFL career. Whose fault is that?",
-            "link": "https://www.theguardian.com/sport/2026/sep/21/justin-herbert-chargers-quarterback-nfl",
-            "resumen": "The Chargers star is huge, can run and has a golden right arm. But he has never quite reached the heights many expected for him Justin Herbert is one of the most promising quarterbacks in the NFL. In fact, Justin Herbert has forever been…",
+            "titulo": "Rams crush Giants but Jaxson Dart escapes ‘devastating outcome’ after knee injury",
+            "link": "https://www.theguardian.com/sport/2026/sep/21/nfl-giants-rams-jaxson-dart-knee-injury-aaron-donald-return",
+            "resumen": "New York Giants 6-28 Los Angeles Rams Aaron Donald celebrates return to NFL with victory Davante Adams has eight catches for 195 yards Davante Adams made eight catches for 195 yards and hauled in two of Matthew Stafford’s four touchdown…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Palmer & Rice among five withdrawals from England squad",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c617j2prweejo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Tino Livramento, Kobbie Mainoo, Cole Palmer, Marcus Rashford and Declan Rice all pull out of England's squad for forthcoming Nations League matches.",
+            "titulo": "Pollock left money on table to stay at Saints - Hearn",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckn8eq99jnevo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Henry Pollock turned down rival offers worth much more than his Northampton extension, which will earn him over £400,000 a year, says adviser Eddie Hearn.",
             "fuente": "BBC"
           },
           {
-            "titulo": "The last two seasons were grim for Spurs. This is as bad as it’s ever been | Jonathan Wilson",
-            "link": "https://www.theguardian.com/football/2026/sep/21/tottenham-hotspur-premier-league",
-            "resumen": "Pre-season thoughts of European qualification are already beginning to look bafflingly optimistic for Roberto De Zerbi’s team Sign up for our free newsletter here In March, Tottenham, fearing possible relegation, spent big to bring in…",
+            "titulo": "‘Hardships never last’: Jenn Lichter’s path from Colombian orphanage to ultrarunning records",
+            "link": "https://www.theguardian.com/sport/2026/sep/22/jenn-lichter-ultrarunning",
+            "resumen": "Jenn Lichter’s childhood followed a difficult path. The resilience she gained helped her achieve an unbreakable ultrarunning feat this summer On 27 June, Jenn Lichter lined up for her first 100-mile race, the Western States 100. The…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Celtic can't sack manager O'Neill, says Lambert",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c3j4jpzy08p5o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Martin O'Neill leaving Celtic would not surprise Paul Lambert, but the former club captain would be \"shocked and disappointed\" if the veteran manager was to be sacked.",
+            "titulo": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
+            "resumen": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations.",
             "fuente": "BBC"
           }
         ]

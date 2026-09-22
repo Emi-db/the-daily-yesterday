@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "21 de septiembre de 2026",
-  "generada": "16:03",
+  "fecha": "22 de septiembre de 2026",
+  "generada": "14:14",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Quiénes son los ganadores y los perdedores tras la definición de la agenda del papa León en la Argentina",
-          "link": "https://www.clarin.com/politica/ganadores-perdedores-definicion-agenda-papa-leon-argentina_0_pjShnNRx6O.html",
-          "resumen": "El Gobierno no logró bajar un encuentro de pontífice con los movimientos populares, aunque estos no consiguieron que Robert Prevost visitara una villa. La presión de la Iglesia para que la Casa Rosada no se adueñe de la visita papal y que…",
+          "titulo": "Camino a Nueva York, Milei cuestionó la política fiscal de Lula: \"No cuenten conmigo para este disparate\"",
+          "link": "https://www.clarin.com/politica/camino-nueva-york-milei-cuestiono-politica-fiscal-lula-cuenten-conmigo-disparate_0_FXzrBqUnwb.html",
+          "resumen": "El mandatario argentino y su par de Brasil participarán de la 81° Asamblea General de las Naciones Unidas. \"Nos quiere mostrar esta política fiscal como el modelo a seguir...No gracias...\", disparó el libertario.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Atentado a la AMIA: procesaron a siete iraníes y un libanés como responsables del ataque y avanza el juicio en ausencia",
-          "link": "https://www.lanacion.com.ar/politica/atentado-a-la-amia-procesaron-a-ocho-iranies-y-libaneses-como-responsables-del-ataque-y-avanza-el-nid21092026/",
-          "resumen": "El juez Daniel Rafecas consideró probado que fueron los terroristas que idearon y organizaron la ejecución del ataque a la mutual judía de 1994",
+          "titulo": "Javier Milei y sus medidas, en vivo: “La progresía quiere mostrar esta política como modelo a seguir”, dijo sobre Brasil",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-se-refirio-a-la-causa-malvinas-y-sostuvo-que-no-nid22092026/",
+          "resumen": "El minuto a minuto de las decisiones del jefe de Estado, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El Gobierno prepara el operativo de seguridad “más grande de la historia” para la visita del Papa: qué pasará con los feriados y con la Marcha del Orgullo",
-          "link": "https://www.infobae.com/politica/2026/09/21/el-gobierno-prepara-el-operativo-de-seguridad-mas-grande-de-la-historia-para-la-visita-del-papa-que-pasara-con-los-feriados-y-con-la-marcha-del-orgullo/",
-          "resumen": "La Santa Sede y el Gobierno confirmaron las actividades del viaje apostólico, que prevé actos en Buenos Aires, Claypole, Córdoba y Luján y podría reunir a unos siete millones de personas. Cómo será el operativo de seguridad",
+          "titulo": "Jorge Macri anticipó que hubo un acuerdo para posponer la Marcha del Orgullo por la visita del Papa",
+          "link": "https://www.infobae.com/politica/2026/09/22/jorge-macri-anticipo-que-hubo-un-acuerdo-para-posponer-la-marcha-del-orgullo-por-la-visita-del-papa/",
+          "resumen": "El jefe de Gobierno porteño aseguró que existe consenso con la mayoría de las organizaciones para trasladar la movilización, prevista un día antes de la llegada de León XIV al país",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Conflicto por Malvinas: cumbre de Milei con un funcionario clave de Trump en Nueva York",
-          "link": "https://www.clarin.com/politica/conflicto-malvinas-cumbre-milei-funcionario-clave-trump-nueva-york_0_zoDU94YlB4.html",
-          "resumen": "Será con Marco Rubio, el secretario de Estado, muy interesado en la política latinoamericana. El presidente argentino viaja para participar de la Asamblea General de las Naciones Unidas.",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente llega a Estados Unidos y participa del \"Escudo de las Américas\"",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-llega-estados-unidos-participa-escudo-americas_0_6AVO58Vxlf.html",
+          "resumen": "El mandatario arriba esta mañana a la ciudad de Nueva York, donde mañana disertará en la 81° Asamblea General de las Naciones Unidas. Esta noche se reunirá con Marco Rubio.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Sergio Uñac busca posicionarse como precandidato del PJ, en medio de las especulaciones sobre Cristina Kirchner",
-          "link": "https://www.lanacion.com.ar/politica/sergio-unac-se-sostiene-como-precandidato-del-pj-en-medio-de-las-especulaciones-sobre-cristina-nid21092026/",
-          "resumen": "El senador se lanzó hace más de cinco meses y busca profundizar su despliegue; lo apoyan sectores que intentan que la expresidenta pueda competir, a pesar de la condena; él la considera la opción “más competitiva”",
+          "titulo": "Cuándo es el discurso de Javier Milei en la ONU en medio de la tensión con Reino Unido por Malvinas",
+          "link": "https://www.lanacion.com.ar/politica/cuando-es-el-discurso-de-javier-milei-en-la-onu-en-medio-de-la-tension-con-reino-unido-por-malvinas-nid22092026/",
+          "resumen": "El Presidente reforzaría ante la Asamblea General el reclamo por la soberanía sobre las islas",
           "fuente": "La Nación"
         }
       ]
@@ -42,34 +42,34 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Euro hoy en Uruguay: precio y cotización de la divisa este lunes 21 de septiembre de 2026",
-          "link": "https://www.clarin.com/economia/euro-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-lunes-21-de-septiembre-de-2026_0_uRxYoAyqJv.html",
-          "resumen": "Mirá la cotización del euro en Uruguay, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
+          "titulo": "Revelan que de cada $100 que genera una hectárea agrícola, $58,2 se destinan al pago de impuestos nacionales, provinciales y municipales",
+          "link": "https://www.clarin.com/rural/informe-100-genera-hectarea-agricola-582-destinan-pago-impuestos-nacionales-provinciales-municipales_0_2SApi8BiqI.html",
+          "resumen": "Según el Índice FADA de septiembre, la participación del Estado bajó frente al 61,9% registrado en junio. La mejora estuvo vinculada a la suba de los precios de los granos y a la fuerte baja de la urea.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "“Es completamente falso”. El CEO de Nvidia dice que hay 0% de probabilidades de que la IA destruya la humanidad en 10 años",
-          "link": "https://www.lanacion.com.ar/tecnologia/es-completamente-falso-el-ceo-de-nvidia-dice-que-hay-0-de-probabilidades-de-que-la-ia-destruya-la-nid21092026/",
-          "resumen": "Jensen Huang rechazó las advertencias sobre la extinción de la humanidad por la IA",
+          "titulo": "Con imágenes de Xi Jinping y Mao, el embajador de EE.UU. redobla la presión contra la tecnología china en la Argentina",
+          "link": "https://www.lanacion.com.ar/economia/con-imagenes-de-xi-jinping-y-mao-el-embajador-de-eeuu-redobla-la-presion-contra-la-tecnologia-china-nid22092026/",
+          "resumen": "Peter Lamelas publicó una placa en la que contrapone una “tecnología confiable” y otra “no confiable”; es el último capítulo de una campaña que incluyó la amenaza de restringir visas a directivos de una cooperativa neuquina",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Morosidad récord: las deudas de casi 900.000 personas ya pasaron a manos de las agencias de cobranza",
-          "link": "https://www.ambito.com/economia/morosidad-record-las-deudas-casi-900000-personas-ya-pasaron-manos-las-agencias-cobranza-n6324716",
-          "resumen": "El incumplimiento de pagos de más de un año creció un 60% interanual. Cuáles fueron las provincias dónde más aumentó la morosidad el último año, y cómo se transformó el mapa nacional, atravesado por el endeudamiento.",
+          "titulo": "Se traba el acuerdo comercial con EEUU: el Gobierno busca renegociar los términos, pero Washington lo rechaza",
+          "link": "https://www.ambito.com/se-traba-el-acuerdo-comercial-eeuu-el-gobierno-busca-renegociar-los-terminos-pero-washington-lo-rechaza-n6325195",
+          "resumen": "Delegados de la Casa Rosada intentan rediscutir los condiciones del acuerdo con Washington, porque desde el gobierno argentino no cuentan con los votos necesarios en el Congreso para ratificar el tratado comercial.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 21 de septiembre, minuto a minuto",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid21092026/",
-          "resumen": "La divisa oficial opera a $1535 para la venta en el Banco Nación; el dólar blue cotiza a $1550 para esa operación; qué pasa con el MEP y el CCL",
+          "titulo": "Los Grobo dejó su negocio emblema y busca resurgir con promesas de “duplicar clientes”",
+          "link": "https://www.clarin.com/rural/grobo-dejo-negocio-emblema-busca-resurgir-promesas-duplicar-clientes_0_Tb5HHDnA0N.html",
+          "resumen": "La compañía de Victoria Capital desactivó las siembras compartidas por baja rentabilidad y se concentra en originación de granos, asociada a la brasileña Amaggi. En concurso de acreedores, redujo sus empleados a la mitad, achicó pérdidas…",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "“Es un desastre”: una ruta tiene 156 pozos en pocos kilómetros y el gobierno de Kicillof prometió taparlos",
+          "link": "https://www.lanacion.com.ar/economia/campo/es-un-desastre-el-gobierno-de-kicillof-prometio-reparar-una-ruta-que-tiene-156-pozos-en-pocos-nid21092026/",
+          "resumen": "El compromiso alcanza un tramo de la ruta 50 entre Colón y Pearson, donde los productores dicen que está intransitable; el ministro Gabriel Katopodis planteó avanzar hacia un sistema de consorcios integrado por productores y cuestionó el…",
           "fuente": "La Nación"
-        },
-        {
-          "titulo": "La industria metalúrgica se desplomó 6,1% anual en agosto y opera con apenas el 39,6% de su capacidad instalada",
-          "link": "https://www.ambito.com/economia/la-industria-metalurgica-se-desplomo-61-anual-agosto-y-opera-apenas-el-396-su-capacidad-instalada-n6324668",
-          "resumen": "La producción del sector cayó 6,1% interanual en agosto y 3,9% frente a julio, mientras que el uso de la capacidad instalada se redujo al 39,6%. Todos los sectores estratégicos registraron retrocesos y el 10,3% de las empresas ya presenta…",
-          "fuente": "Ámbito"
         }
       ]
     },
@@ -77,34 +77,34 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Cinco grandes cadenas de TV de EE.UU. suspenden la cobertura conjunta de la Casa Blanca por el veto de Trump a periodistas",
-          "link": "https://www.clarin.com/mundo/grandes-cadenas-tv-eeuu-suspenden-cobertura-conjunta-casa-blanca-veto-trump-periodistas_0_xiTQBcNdzu.html",
-          "resumen": "Es en represalia por la prohibición impuesta a tres periodistas para acceder a la Casa Blanca durante el fin de semana. Las cadenas que suspenden la cobertura son ABC, CBS, CNN, Fox News y NBC.",
+          "titulo": "Arqueólogos descifran las reglas de un antiguo juego de mesa romano",
+          "link": "https://www.clarin.com/new-york-times-international-weekly/arqueologos-descifran-reglas-antiguo-juego-mesa-romano_0_Y8WcDL9hH5.html",
+          "resumen": "Escanearon el patrón de imperfecciones microscópicas de una antigua losa de piedra caliza y utilizaron la inteligencia artificial para averiguar cómo se habría jugado a un juego.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Entre críticas y llamados a elecciones, Delcy Rodríguez llegó a EE.UU. para reunirse con Trump y hablar en la ONU",
-          "link": "https://www.lanacion.com.ar/el-mundo/entre-criticas-y-llamados-a-elecciones-delcy-rodriguez-llego-a-eeuu-para-reunirse-con-trump-y-hablar-nid21092026/",
-          "resumen": "La líder del chavismo sostendrá su primer cara a cara con el mandatario norteamericano y hablará en el organismo multilateral este jueves; la diáspora convoca a una protesta",
+          "titulo": "Las revelaciones en el libro del hermano de Lady Di contra Carlos e Isabel II que reabren viejas heridas de la familia real",
+          "link": "https://www.lanacion.com.ar/el-mundo/las-revelaciones-en-el-libro-del-hermano-de-lady-di-contra-carlos-e-isabel-ii-que-reabren-viejas-nid22092026/",
+          "resumen": "En “El canto del cisne: Diana, mi hermana”, Charles Spencer afirma que el monarca parecía “eufórico” tras la muerte de la princesa; el Palacio de Buckingham respondió con una inusual declaración",
           "fuente": "La Nación"
         },
         {
-          "titulo": "\"Forbidden Stories\": la investigación sobre la red mundial tejida por EE.UU. para organizar expulsiones masivas de inmigrantes",
-          "link": "https://www.clarin.com/mundo/forbidden-stories-investigacion-red-mundial-tejida-eeuu-organizar-expulsiones-masivas-inmigrantes_0_kavXEnznrL.html",
-          "resumen": "Un grupo de más de 20 medios de comunicación, entre ellos The Washington Post y RFI, llevaron adelante durante meses, una profunda investigación sobre las expulsiones masivas de la administración Trump. Más de 25.000 personas han sido…",
+          "titulo": "Comienza la 81° Asamblea General en Nueva York: Trump regresa a la ONU en un momento complicado para el mundo y su presidencia",
+          "link": "https://www.clarin.com/mundo/comienza-81-asamblea-general-nueva-york-trump-regresa-onu-momento-complicado-mundo-presidencia_0_ArgNc3O5Ac.html",
+          "resumen": "El lema de este año es \"Restaurar la confianza, gestionar la transformación: unas Naciones Unidas que cumplan para todos\". Participan cerca de 130 jefes y jefas de Estado y de Gobierno.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Directores de escuela ponen en duda el plan de Meloni de limitar la matrícula de extranjeros en Italia: \"No podemos expulsar niños\"",
-          "link": "https://www.clarin.com/mundo/directores-escuela-ponen-duda-plan-meloni-limitar-matricula-extranjeros-italia-podemos-expulsar-ninos_0_TkG93ZXjyv.html",
-          "resumen": "El presidente de la Asociación Nacional de Directores sostuvo que la medida es difícil de implementar y recordó una iniciativa similar que fracasó en 2010. Para la oposición, se trata de una movida de propaganda de ultraderecha.",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "Christina Koch, astronauta y única mujer de Artemis II: “No hay nada que te prepare para la impresionante sensación de ver tu planeta iluminado como si fuera de día”",
-          "link": "https://www.lanacion.com.ar/el-mundo/christina-koch-astronauta-y-unica-mujer-de-artemis-ii-no-hay-nada-que-te-prepare-para-la-nid20092026/",
-          "resumen": "Tras completar con éxito el histórico sobrevuelo lunar, se conoció una frase que la astronauta de la NASA pronunció mientras realizaba la misión Artemis II",
+          "titulo": "Elecciones Brasil 2026: una por una, qué dicen las últimas encuestas para presidente",
+          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-una-por-una-que-dicen-las-ultimas-encuestas-para-presidente-nid22092026/",
+          "resumen": "Los sondeos de opinión continúan marcando un achicamiento en la diferencia entre los dos candidatos favoritos",
           "fuente": "La Nación"
+        },
+        {
+          "titulo": "La Asamblea General de la ONU se enfrentará a crisis conocidas, nuevos conflictos e inteligencia artificial",
+          "link": "https://www.clarin.com/new-york-times-international-weekly/asamblea-general-onu-enfrentara-crisis-conocidas-nuevos-conflictos-inteligencia-artificial_0_ZTXUd3OJK0.html",
+          "resumen": "Las Naciones Unidas también están buscando un sucesor para António Guterres, que ha ocupado el cargo de secretario general durante dos mandatos y va a dejar el cargo.",
+          "fuente": "Clarín"
         }
       ]
     },
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Nico Tagliafico se sumó a la Selección pero insistió en cerrar su ciclo tras la despedida de Lionel Messi: \"Es mi etapa final\"",
-          "link": "https://www.clarin.com/deportes/nico-tagliafico-sumo-seleccion-insistio-cerrar-ciclo-despedida-lionel-messi-etapa-final_0_zfbfnrrXRb.html",
-          "resumen": "El lateral izquierdo habló al desembarcar en Buenos Aires para la fecha FIFA que marcará el final de la Pulga. Ya había avisado que la Copa del Mundo 2026 había sido la última. ¿Llega a la Copa América 2028?",
+          "titulo": "¿Se achica un mercado para los argentinos?: Brasil limitará el cupo de futbolistas extranjeros",
+          "link": "https://www.clarin.com/deportes/achica-mercado-argentinos-brasil-limitara-cupo-futbolistas-extranjeros_0_BpzvMZoCdY.html",
+          "resumen": "La CBF dispuso reducir paulatinamente el cupo de extranjeros a partir de 2027 hasta fijar un tope de cinco por partido en 2030. Argentina es el país que más futbolistas exporta al Brasileirão: apenas dos de los 20 equipos no cuentan con…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Ángel Di María confirmó que acompañará a Lionel Messi en la despedida con la selección argentina",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/angel-di-maria-confirmo-que-acompanara-a-lionel-messi-en-la-despedida-con-la-seleccion-argentina-nid21092026/",
-          "resumen": "El futbolista de Rosario Central formará parte de la celebración que será el próximo 6 de octubre en el Monumental",
+          "titulo": "La selección argentina de fútbol Sub 19 empató con Venezuela y se clasificó a las semifinales de los Juegos Suramericanos",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/la-seleccion-argentina-de-futbol-sub-19-empato-con-venezuela-y-se-clasifico-a-las-semifinales-de-los-nid21092026/",
+          "resumen": "Igualó con una jugada sobre el final del partido; ya conoce a su próximo rival",
           "fuente": "La Nación"
         },
         {
-          "titulo": "¿El Papa se lleva una camiseta de River de su visita a Argentina?",
-          "link": "https://www.ole.com.ar/river-plate/river-papa-leon-xiv-camiseta-14-pablo-quirno_0_8razFEo2NO.html",
-          "resumen": "Quién es el funcionario argentino que está detrás de la movida con León XIV: \"Le tenemos que llevar la 14, que además es el número de Los Borrachos del Tablón\".",
+          "titulo": "Una multitud recibió la primavera en los Fan Fest de los Juegos Suramericanos",
+          "link": "https://www.ole.com.ar/polideportivo/juegos-suramericanos/multitud-recibio-primavera-fan-fest-juegos-suramericanos-santa-fe-2026_0_dbtPptbjwF.html",
+          "resumen": "Rosario, Santa Fe y Rafaela vivieron una jornada especial con música, encuentros y propuestas para disfrutar al aire libre. Los escenarios reunieron a familias, jóvenes, vecinos y visitantes que se sumaron a la celebración.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Escándalo en la Selección de Suiza, rival de Argentina en el Mundial 2026: apartaron al capitán por truchar un certificado de vacunación y podría ir preso",
-          "link": "https://www.clarin.com/deportes/escandalo-seleccion-suiza-rival-argentina-mundial-2026-apartaron-capitan-truchar-certificado-vacunacion-podria-ir-preso_0_E2ZWJg7JmM.html",
-          "resumen": "Se trata de Granit Xhaka, una de las estrellas del equipo, que confesó su falsificación en la época de la pandemia de COVID. El comunicado de la la Asociación Suiza de Fútbol (ASF).",
+          "titulo": "Cómo conseguir entradas para el retiro de Messi: cuándo arranca la venta, precios, cómo comprar y todo lo que hay que saber",
+          "link": "https://www.clarin.com/deportes/conseguir-entradas-retiro-messi-arranca-venta-precios-comprar-saber_0_mitFRPqKOU.html",
+          "resumen": "La AFA confirmó que el expendio se habilitará este martes 22 de septiembre a las 18 mediante la plataforma DeporTick. Para adquirir los tickets, que tendrán un límite de cuatro generales por usuario, será requisito indispensable…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Un producto, dos valores: las cosas que el dinero sí puede comprar en la Fórmula 1",
-          "link": "https://www.lanacion.com.ar/deportes/automovilismo/un-producto-dos-valores-las-cosas-que-el-dinero-si-puede-comprar-en-la-formula-1-nid21092026/",
-          "resumen": "En Monza se observó una diferencia de precio de treinta veces para acceder al mismo bien. Lo que separa a esos dos mundos no es el lujo: es una arquitectura comercial",
+          "titulo": "Lionel Messi suma apoyos para el Balón de Oro: hasta sus rivales quieren verlo ganar",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/lionel-messi-suma-apoyos-para-el-balon-de-oro-hasta-sus-rivales-quieren-verlo-ganar-nid22092026/",
+          "resumen": "A los 39, es uno de los candidatos más firmes al premio, que se entregará el 26 de octubre",
           "fuente": "La Nación"
         }
       ]
