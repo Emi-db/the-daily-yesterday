@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "24 de septiembre de 2026",
-    "generada": "14:29",
+    "fecha": "25 de septiembre de 2026",
+    "generada": "14:49",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Cómo la nueva derecha que gobierna en América Latina muestra su alineamiento pleno con Trump ante los ojos del mundo",
-            "link": "https://www.bbc.com/mundo/articles/ckp84717p3lyo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Varios presidentes de la región endosan en Nueva York las políticas de mano dura en seguridad impulsadas por Estados Unidos, señal del giro político radical del continente.",
+            "titulo": "Cómo la turística Santa Marta se convirtió en la primera prueba de fuego de la lucha de De la Espriella contra los grupos armados en Colombia",
+            "link": "https://www.bbc.com/mundo/articles/cm74ky4x3vp8o?at_medium=RSS&at_campaign=rss",
+            "resumen": "La muerte de alias \"Cholo\", uno de los líderes de un grupo paramilitar colombiano, desató una ola de violencia que llevó a militarizar la ciudad por orden del presidente.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Neonazis, exactores porno, una proxeneta y un condenado por robo entre los nuevos diputados regionales de AfD",
-            "link": "https://elpais.com/internacional/2026-09-24/neonazis-exactores-porno-una-proxeneta-un-condenado-por-robo-entre-los-nuevos-diputados-regionales-de-afd.html",
-            "resumen": "La extrema derecha alemana duplica el número de escaños en los parlamentos de los ‘länder’ y con ello, la presencia de nuevos políticos con un perfil turbio",
+            "titulo": "La cena de gala (y un águila calva) de Trump para agasajar a Xi Jinping",
+            "link": "https://elpais.com/internacional/2026-09-25/la-cena-de-gala-y-un-aguila-calva-de-trump-para-agasajar-a-xi-jinping.html",
+            "resumen": "El presidente chino ha llamado a Washington y Pekín a explorar nuevas vías de colaboración entre potencias",
             "fuente": "El País"
           },
           {
-            "titulo": "En vivo: \"Nuestros hermanos están siendo sometidos a una guerra genocida con una catástrofe sin precedentes\": Abbas",
-            "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260924-en-directo-netanyahu-afronta-el-debate-sobre-gaza-en-la-onu-mientras-abbas-intervendr%C3%A1-por-videoconferencia",
-            "resumen": "",
+            "titulo": "Xi Jinping en EE. UU.: ¿qué hay debajo de la alfombra roja?",
+            "link": "https://www.france24.com/es/programas/el-debate/20260925-xi-jinping-en-ee-uu-qu%C3%A9-hay-debajo-de-la-alfombra-roja",
+            "resumen": "En medio de una rivalidad latente y tras un año marcado por la escalada arancelaria, el presidente de China, Xi Jinping, pisa Washington por primera vez en más de una década para reunirse con Donald Trump en la Casa Blanca. Con la…",
             "fuente": "France 24"
           },
           {
-            "titulo": "\"Siento que esto es como un secuestro\": los migrantes que se aíslan en sus casas para evitar las redadas de ICE en Doral, la ciudad más venezolana de EE.UU.",
-            "link": "https://www.bbc.com/mundo/articles/c6p93pep99jzo?at_medium=RSS&at_campaign=rss",
-            "resumen": "María y su familia evitan salir a la calle en Doral para evitar toparse con agentes de ICE, aunque tienen una solicitud activa de asilo que, según la ley de EE.UU., debería protegerlos de la deportación.",
+            "titulo": "Valentina Agudelo, la colombiana que creó un innovador dispositivo que identifica el riesgo de cáncer de mama en minutos y en cualquier parte",
+            "link": "https://www.bbc.com/mundo/articles/cr89j2n7z7y0o?at_medium=RSS&at_campaign=rss",
+            "resumen": "El cáncer de mama es uno de los más tratables, pero sigue siendo el que más mujeres mata. La clave es un diagnóstico oportuno. Y una colombiana lo está logrando,",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Trump impide a periodistas de CNN, Politico y MS NOW acceder a la Casa Blanca pese a que un juez levantó el veto",
-            "link": "https://elpais.com/internacional/2026-09-24/un-juez-levanta-la-prohibicion-de-acceso-a-la-casa-blanca-impuesta-por-trump-a-cnn-ms-now-y-politico.html",
-            "resumen": "Los tres medios solicitan al magistrado que ordenó la restitución “inmediata” de las credenciales que convoque una audiencia urgente ante el desacato de la Administración",
+            "titulo": "Netanyahu reta a una Asamblea de la ONU semivacía en protesta por su invasión de Gaza: “Acusarnos de genocidio es la mayor mentira del siglo”",
+            "link": "https://elpais.com/internacional/2026-09-24/netanyahu-reta-a-una-asamblea-de-la-onu-semivacia-en-protesta-por-su-invasion-de-gaza-acusarnos-de-genocidio-es-la-mayor-mentira-del-siglo.html",
+            "resumen": "El primer ministro israelí, que se juega su futuro el próximo mes en las elecciones, lanza un mensaje de dureza frente a las críticas. Abbas denuncia una “limpieza étnica” contra los palestinos",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "El plan de Trump para vetar las exportaciones de diésel agrava la crisis en Europa",
-            "link": "https://elpais.com/economia/2026-09-24/la-amenaza-de-trump-de-vetar-las-exportaciones-de-diesel-deja-en-el-alambre-a-america-latina-y-a-europa.html",
-            "resumen": "Cercado por el precio récord del combustible, el republicano mueve ficha antes de las elecciones. La espiral de precios empeorará fuera de EE UU, con el Viejo Continente y América Latina en el ojo del huracán",
+            "titulo": "Penalización por subir el alquiler, facilidad para construir y protección del inquilino: los puntos calientes del decreto de vivienda",
+            "link": "https://elpais.com/economia/2026-09-25/penalizacion-por-subir-el-alquiler-facilidad-para-construir-y-proteccion-del-inquilino-los-puntos-calientes-del-decreto-de-vivienda.html",
+            "resumen": "El Gobierno rescata el borrador que no logró sacar en julio y que toca varios aspectos en la regulación del mercado inmobiliario que hacen que los intereses de los grupos políticos choquen entre sí",
             "fuente": "El País"
           },
           {
-            "titulo": "Bruselas no muestra sorpresa ante la amenaza de que drones rusos pudieran atacar España, Francia o Italia",
-            "link": "https://www.expansion.com/economia/politica/2026/09/24/6ab515cb468aeb8c218b4593.html",
-            "resumen": "La Comisión Europea (CE) afirmó este jueves no estar \"sorprendida\" por informaciones sobre que drones rusos pudieran atacar el territorio de España, Francia o Italia, ya que el espacio aéreo comunitario ya ha sido violado en varias…",
+            "titulo": "Joaquim Saurina asume todo el poder ejecutivo en WiZink tras la renuncia del consejero delegado",
+            "link": "https://www.expansion.com/empresas/banca/2026/09/25/6ab653fc468aeb85638b4586.html",
+            "resumen": "La salida de Iheb Nafaa responde a motivos familiares y se ha comunicado esta mañana a la plantilla. La entidad asegura que no tiene ninguna relación con la negociación de venta de algunos negocios a Unicaja, que sigue abierta. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "La vendimia sufre la falta de mano de obra: “A mí los extranjeros me salvan el culo”",
-            "link": "https://elpais.com/economia/2026-09-24/la-vendimia-sufre-la-falta-de-mano-de-obra-a-mi-los-extranjeros-me-salvan-el-culo.html",
-            "resumen": "Los viticultores de Castilla y León se quejan del desinterés entre los jóvenes en un contexto de precariedad de algunas ofertas y desprestigio del campo",
+            "titulo": "La tarifa regulada del gas subirá más del 50% en octubre si el Gobierno no interviene",
+            "link": "https://elpais.com/economia/2026-09-25/la-tarifa-regulada-del-gas-natural-subira-mas-del-50-a-partir-del-1-de-octubre.html",
+            "resumen": "El Ejecutivo guarda silencio sobre la posibilidad de frenar un incremento de la TUR, que afecta a tres millones de usuarios, a la que aplicó un tope entre 2021 y 2023",
             "fuente": "El País"
           },
           {
-            "titulo": "La Seguridad Social premia con un 25% extra de pensión a los jubilados que vuelvan a trabajar",
-            "link": "https://www.expansion.com/economia/2026/09/23/6ab40381468aeb8d218b4571.html",
-            "resumen": "Cuando la jornada laboral se sitúa entre el 33% y menos del 55% se prevé un 15% de pensión adicional, mientras que si está en la horquilla de entre el 55% y el 80% se abonará un 25% extra de pensión. Leer",
+            "titulo": "Jubilación demorada: un 4% más de pensión o 12.000 euros por cada año",
+            "link": "https://www.expansion.com/economia/2026/09/24/6ab53ffce5fdea21078b4583.html",
+            "resumen": "¿Qué opción es más rentable? El jubilado tarda una media de menos de 11 años en recuperar mediante las mensualidades el importe íntegro del pago único. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Feijóo pide suprimir el IVA a los alimentos básicos y rebajar el de la energía",
-            "link": "https://elpais.com/economia/2026-09-24/feijoo-pide-suprimir-el-iva-a-los-alimentos-basicos-y-rebajar-el-de-la-energia.html",
-            "resumen": "El PP propone duplicar las desgravaciones por cada hijo desde agosto hasta final de año en un plan para la mejora del poder adquisitivo",
+            "titulo": "Sumar se abre a dar incentivos fiscales a los propietarios de pisos en alquiler para sacar el decreto de vivienda",
+            "link": "https://elpais.com/economia/2026-09-25/sumar-se-abre-a-dar-incentivos-fiscales-a-los-propietarios-de-pisos-en-alquiler-para-sacar-el-decreto-de-vivienda.html",
+            "resumen": "El ministro Ernest Urtasun dice que su parte del Gobierno está abierto a esta petición realizada por Junts",
             "fuente": "El País"
           }
         ]
@@ -77,6 +77,18 @@ const EDICION_MUNDO = {
       {
         "nombre": "Ciencia y Tecnología",
         "notas": [
+          {
+            "titulo": "Los perros también prefieren las consonantes: así es como nuestro lenguaje moldea su cerebro",
+            "link": "https://elpais.com/salud-y-bienestar/2026-09-24/los-perros-tambien-prefieren-las-consonantes-asi-es-como-nuestro-lenguaje-moldea-su-cerebro.html",
+            "resumen": "Un estudio analiza cómo desarrollan el sesgo de preferencia consonante, imitando a los humanos. No son los únicos: las ratas y ChatGPT nos copian ciertas formas de procesamiento del lenguaje",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Australia pide en la ONU “salvaguardas” para la IA tras el ‘hackeo’ de su sistema de salud",
+            "link": "https://elpais.com/tecnologia/2026-09-25/australia-pide-en-la-onu-salvaguardas-para-la-ia-tras-el-hackeo-de-su-sistema-de-salud.html",
+            "resumen": "El primer ministro Anthony Albanese considera el incidente “inaceptable”, mientras su Gobierno prepara una ley que permitirá desconectar el algoritmo de las redes sociales",
+            "fuente": "El País"
+          },
           {
             "titulo": "Dos estudiantes descubren una nueva especie de anfibio primitivo y la nombran en honor a sus madres: así nació el ‘Jeanerpeton mazonensis’",
             "link": "https://elpais.com/ciencia/2026-09-24/dos-estudiantes-descubren-una-nueva-especie-de-anfibio-primitivo-y-la-nombran-en-honor-a-sus-madres-asi-nacio-el-jeanerpeton-mazonensis.html",
@@ -94,18 +106,6 @@ const EDICION_MUNDO = {
             "link": "https://elpais.com/ciencia/2026-09-24/los-elefantes-se-automedican-con-plantas-medicinales-que-tambien-usan-los-humanos.html",
             "resumen": "El seguimiento a varias poblaciones de Kenia apunta a que estos paquidermos también excavan en las cuevas buscando minerales esenciales",
             "fuente": "El País"
-          },
-          {
-            "titulo": "Una IA de OpenAI hackeó el sistema público de salud de Australia y otros tres objetivos",
-            "link": "https://elpais.com/tecnologia/2026-09-24/una-ia-de-openai-hackeo-el-sistema-publico-de-salud-de-australia.html",
-            "resumen": "El primer ministro australiano, Anthony Albanese, denuncia que la compañía les avisó tres meses tarde",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Las edades del cerebro: el atlas más detallado de la corteza prefrontal revela cómo cambia y envejece a lo largo de la vida",
-            "link": "https://elpais.com/ciencia/2026-09-23/las-edades-del-cerebro-el-atlas-mas-detallado-de-la-corteza-prefrontal-revela-como-cambia-y-envejece-a-lo-largo-de-la-vida.html",
-            "resumen": "Un extenso mapa de la actividad de los genes cerebrales muestra cambios biológicos que pueden estar implicados en la salud y en la posibilidad de sufrir enfermedades",
-            "fuente": "El País"
           }
         ]
       },
@@ -113,33 +113,33 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "'De repente', Sergio Ramos aparece por la sede de Ferrari",
-            "link": "https://www.marca.com/coches-y-motos/coches/2026/09/22/repente-sergio-ramos-aparece-sede-ferrari.html",
-            "resumen": "El ex jugador del Real Madrid ha compartido el redes sociales las imágenes de su paso por Maranello, a donde no solo ha acudido como aficionado al motor",
+            "titulo": "Dabiz Muñoz, chef, desvela el secreto de la puntilla crujiente: \"Freír un huevo se puede hacer muy bien o muy mal\"",
+            "link": "https://www.marca.com/tiramillas/gastronomia/2026/09/25/dabiz-munoz-chef-sobre-secreto-puntilla-crujiente-freir-huevo-bien-mal.html",
+            "resumen": "Fuego vivo y mucho aceite: así fríe los huevos el mejor chef del mundo",
             "fuente": "Marca"
           },
           {
-            "titulo": "Rodri desvela las \"palizas físicas\" de Flick: \"¿Dónde me he metido?\"",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260924/1004230706/rodri-desvela-palizas-fisicas-flick-me-he-metido.html",
-            "resumen": "Rodrigo Hernández ya conoce de primera mano las particularidades del excelente Barça de Hansi Flick . El centrocampista azulgrana, que llegó este verano procedente del Manchester City en uno de los grandes y sorprendentes movimientos del…",
+            "titulo": "Ancelotti exprime a Raphinha: único atacante que completó los 90'",
+            "link": "https://www.mundodeportivo.com/futbol/america/20260925/1004231190/ancelotti-exprime-raphinha-unico-atacante-brasileno-completo-90.html",
+            "resumen": "La Brasil de Carlo Ancelotti no se supo beneficiar del mejor Raphinha que se recuerda, autor de 14 goles en ocho partidos con el FC Barcelona (12 en ocho jornadas de Liga y otros dos al Feyenoord, en la fecha inaugural de la Champions…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Recuperar al soldado Thiago Pitarch",
-            "link": "https://www.marca.com/futbol/real-madrid/2026/09/22/recuperar-soldado-thiago-pitarch.html",
-            "resumen": "El plan es que juegue con el Castilla durante el parón y acelerar una puesta a punto que podría completar con la selección sub 20",
+            "titulo": "Septiembre, el mes en el que más parejas rompen: el mes donde el amor llega a su fin",
+            "link": "https://www.marca.com/bienestar/psicologia-sexo/2026/09/25/septiembre-mes-parejas-rompen-ocurre-durante-verano-amor-llegue.html",
+            "resumen": "Más tiempo juntos, conflictos con la familia política, problemas de intimidad o infidelidades pueden hacer aflorar durante las vacaciones problemas que permanecían ocultos el resto del año",
             "fuente": "Marca"
           },
           {
-            "titulo": "Rodri tiene claro que las acusaciones de corrupción arbitral del Madrid \"hacen daño al fútbol\"",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230608/rodri-claro-acusaciones-corrupcion-arbitral-madrid-dano-futbol.html",
-            "resumen": "Rodri Hernández (30 años), centrocampista del FC Barcelona, habló de lo sucedido en el último derbi madrileño y también de las manifestaciones del entrenador del Real Madrid, Jose Mourinho , tras el mismo en que se quejaba de la…",
+            "titulo": "Las redes no dan crédito a lo que ha hecho Vini: \"Se ha olvidado de jugar a la pelota\"",
+            "link": "https://www.mundodeportivo.com/futbol/20260925/1004231166/redes-no-dan-credito-hecho-vinicius-australia-olvidado-jugar-pelota.html",
+            "resumen": "Vinicius Jr. no está atravesando su mejor momento futbolístico. Lo sabe él y cada vez más gente. Pero, por si acaso queda aún algún defensor del brasileño, les dejamos esta jugada que se ha marcado en el partido contra Australia de este…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "FIFA abre dos escuelas de fútbol en Cisjordania",
-            "link": "https://www.marca.com/futbol/2026/09/22/fifa-abre-dos-escuelas-futbol-cisjordania.html",
-            "resumen": "La Copa Infantil Unidos por la Paz, con 14 equipos palestinos y 160 niños, servirá como apertura oficial de estos campos en Rabah y Qusin",
+            "titulo": "Chema Andrés: \"Me halaga que me comparen con Rodri, pero yo quiero ser Chema Andrés\"",
+            "link": "https://www.marca.com/futbol/seleccion/2026/09/25/chema-andres-me-halaga-me-comparen-rodri-quiero-chema-andres.html",
+            "resumen": "El centrocampista del Brighton, concentrado con la Sub 21, repasa en MARCA su salto a la Premier, la comparación con Rodri y las necesidades del Real Madrid en su parcela",
             "fuente": "Marca"
           }
         ]
@@ -147,34 +147,34 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "September 24, 2026",
-    "generada": "14:29",
+    "fecha": "September 25, 2026",
+    "generada": "14:49",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-            "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+            "titulo": "Pope warns against 'losing humanity' to AI machines",
+            "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+            "resumen": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Fears of return to war as Tigray rebels launch offensive against Ethiopian army",
+            "titulo": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
             "link": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
-            "resumen": "Fighting escalates after TPLF forms new rebel coalition aimed at overthrowing Abiy Ahmed government There are growing fears of a return to civil war in Ethiopia after an offensive by rebels from Tigray into the neighbouring states of Afar…",
+            "resumen": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government There are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "U.N. Live Updates: Abbas and Netanyahu Offer Dueling Speeches",
-            "link": "https://www.nytimes.com/live/2026/09/24/world/un-general-assembly-news",
-            "resumen": "The Palestinian leader, Mahmoud Abbas, is addressing the United Nations General Assembly on video after he was denied a U.S. visa. Prime Minister Benjamin Netanyahu of Israel will take the stage weeks before pivotal elections at home.",
+            "titulo": "Russian Attacks Destroy Millions of Books, the Heart of Ukrainian Culture",
+            "link": "https://www.nytimes.com/2026/09/25/world/europe/russia-ukraine-books-attacks.html",
+            "resumen": "A publisher whose warehouse was hit twice said Moscow “thinks that books are more dangerous for them than military equipment.”",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-            "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+            "titulo": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+            "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
             "fuente": "BBC"
           },
           {
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Reported assaults on Britain's rail services rise by more than a third",
-            "link": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Recorded incidents of violence and harassment against passengers and rail workers showed a sharp increase in the year to March.",
+            "titulo": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+            "link": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Amid soaring living costs, America’s biggest convenience-store chains quietly overcharge consumers",
-            "link": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/24/7-eleven-circle-k-convenience-stores-overcharge",
-            "resumen": "Guardian investigation: 7-Eleven and Circle K stores often fail to honor advertised prices – charging more at pump and register for gas, snacks, and other items Marco Cruz pulled off a four-lane road into the parking lot of a Circle K…",
+            "titulo": "‘Your body fights to stay cool’: workers toil in record heat as federal rule frozen",
+            "link": "https://www.theguardian.com/environment/2026/sep/25/extreme-heat-regulations-trump",
+            "resumen": "Trump officials and Republicans are rolling back protections against heat-related illnesses and deaths When it’s 90F on a hot summer day, Esther Minton wears a long-sleeved shirt to work. “Working outside, you don’t have cover. There’s…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "White House Still Bars CNN, MS NOW and Politico Despite Court Ruling",
-            "link": "https://www.nytimes.com/2026/09/24/business/media/trump-white-house-press-ban-order-cnn-msnow-politico.html",
-            "resumen": "A federal court ordered President Trump to reverse his ban on the three news outlets around 1 a.m. Thursday, but none were granted entry later that morning.",
+            "titulo": "Fed Faces Prospect of Another Interest Rate Increase Just Before Midterm Elections",
+            "link": "https://www.nytimes.com/2026/09/25/business/fed-interest-rates-midterms.html",
+            "resumen": "Financial markets are placing nearly 70 percent odds on the Federal Reserve raising interest rates in late October.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "£170 a bag? Protein users squeezed as prices soar",
-            "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Consumers are feeling the pinch from the rising cost of protein.",
+            "titulo": "UK diesel price close to all-time high",
+            "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
             "fuente": "BBC"
           },
           {
-            "titulo": "JoAnn Fabrics fans seek to stitch void left by private equity with crafts co-op",
-            "link": "https://www.theguardian.com/business/2026/sep/24/joann-fabrics-fans-crafts-co-op",
-            "resumen": "US crafters are looking to build a communal network to replace the company after it was bankrupted by private equity investors in 2025 To its dedicated fans, JoAnn Fabrics wasn’t just a fabric store. It was a vital hub for small…",
+            "titulo": "Revealed: the undisclosed safety data emerging as weedkiller maker faces Parkinson’s lawsuits in US",
+            "link": "https://www.theguardian.com/environment/ng-interactive/2026/sep/25/syngenta-paraquat-parkinsons-lawsuits-epa",
+            "resumen": "Syngenta denies keeping relevant data from the EPA as paraquat stays in the US market despite global bans Sweden started ringing the alarm bell more than 20 years ago, calling for a ban on the weedkilling chemical paraquat in 2004. One by…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Elephants use medicinal plants to treat themselves, researchers find",
-            "link": "https://www.bbc.co.uk/news/articles/cv1j4yr6j2p0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "African elephants use dozens of different medicinal plants to treat themselves and their families when they are sick, research reveals.",
+            "titulo": "What are my children exposed to? Why I want testing for cancer-causing chemicals",
+            "link": "https://www.bbc.co.uk/news/articles/cw05rym38gdqo?at_medium=RSS&at_campaign=rss",
+            "resumen": "People living near a lagoon branded \"a shame on Britain\" want to be tested for cancer-causing PCBs.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Glimpses into lives of Roman suburbanites in Bath revealed in rare finds",
-            "link": "https://www.theguardian.com/science/2026/sep/23/archaeologists-clues-suburban-life-roman-times-bath",
-            "resumen": "Exclusive: Restoration work at Bath Assembly Rooms unearths Roman ditches containing pottery, coins and fragments of a military helmet The restoration of a Georgian building in Bath once frequented by Jane Austen has unexpectedly provided…",
+            "titulo": "‘Gamechanging’ brain tumour test reduces diagnosis from eight weeks to two hours",
+            "link": "https://www.theguardian.com/society/2026/sep/25/gamechanging-brain-tumour-test-reduces-diagnosis-eight-weeks-two-hours",
+            "resumen": "NHS England says test can be done while patient is on operating table and is being piloted in five centres around the country A rapid new test for brain tumours can diagnose patients while they are still on the operating table. Scientists…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Can Tech Companies Like Google Really Put Data Centers in Space?",
-            "link": "https://www.nytimes.com/2026/09/24/technology/data-centers-in-space-science.html",
-            "resumen": "Google is preparing to launch a satellite that can run its A.I. technologies from the heavens. But this is just a first step.",
+            "titulo": "On This Mexican Island, Raccoons Make and Play With Toys (and Also Sip Margaritas)",
+            "link": "https://www.nytimes.com/2026/09/25/science/raccoons-toys-cozumel-mexico-research.html",
+            "resumen": "Scientists observed a family of pygmy raccoons near a Cozumel beach club learning from one another how to craft balls from paper, an indication that the animals have a culture.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "When and how to see the Harvest Moon in 2026",
-            "link": "https://www.bbc.co.uk/weather/articles/cmp8dr34rz0yo?at_medium=RSS&at_campaign=rss",
-            "resumen": "September's full Moon will rise across on Saturday 26 September. The best viewing conditions currently look to be across southern and eastern parts of the UK.",
+            "titulo": "Just how hot and dry was your summer? Use our postcode lookup to find out",
+            "link": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Most of us experienced drought and heatwaves - but temperatures and rainfall were not the same everywhere.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Are baby girls more sociable? Super El Niño, meningitis outbreak explained – podcast",
-            "link": "https://www.theguardian.com/science/audio/2026/sep/24/are-baby-girls-more-sociable-super-el-nino-meningitis-outbreak-explained-podcast",
-            "resumen": "Madeleine Finlay sits down with her co-host and Guardian science editor, Ian Sample, to discuss three science stories from the week, including a study that offers a clue in the age-old debate about whether sex differences are present from…",
+            "titulo": "DNA database of UK dogs could help police collar criminals",
+            "link": "https://www.theguardian.com/science/2026/sep/25/dna-database-uk-dogs-vital-evidence-police-criminals",
+            "resumen": "Experts working on database that could identify particular breeds involved in crimes, or rule out canine suspects From tracking criminals to sniffing out drugs, dogs have long helped police crack cases. Now experts are hoping a database…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Drinking at football matches - would fans welcome it?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cq1kx140gwlzo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Andy Burnham has long championed a repeal of the ban which prevents football supporters from drinking alcohol in the view of the pitch. But do fans even want it?",
+            "titulo": "Russell takes pole in Baku as Antonelli hits wall",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/cmde0wl6rk0ko?at_medium=RSS&at_campaign=rss",
+            "resumen": "George Russell takes pole position for Mercedes at the Azerbaijan Grand Prix as his team-mate and championship leader Kimi Antonelli crashes out.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Kim Kardashian’s Team Moms highlights the ridiculous excess of the US youth-sports industry",
-            "link": "https://www.theguardian.com/sport/2026/sep/24/team-moms-baseball-kim-kardashian-paramount-youth-sports",
-            "resumen": "A new Paramount+ series premiering Thursday turns pushy sports parents into glossy entertainment – with the children largely ushered off stage Remember when pushy sports parents were deserving objects of our collective scorn? When Marv…",
+            "titulo": "Manchester City: reports emerging over guilty verdict on almost all charges – live news and reaction",
+            "link": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
+            "resumen": "⚽ All the latest heading in to the weekend’s action ⚽ De la Fuente wants more from Spain | Mail John One of the best players in the world right now is Raphinha and Sid Lowe sat down with him about life at Barca, read here: The Premier…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Fury v Joshua announced for 11 December in Cardiff",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/c89n188d53no?at_medium=RSS&at_campaign=rss",
-            "resumen": "Cardiff's Principality Stadium will host Anthony Joshua and Tyson Fury's all-British heavyweight fight on 11 December.",
+            "titulo": "Back and loving it - Pietersen on his history, Brook & helping win the Ashes",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c32l8q4z481wo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Former batter turned specialist mentor Kevin Pietersen talks about his new role with England, his past history with the ECB and working with Harry Brook and Brendon McCullum.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Have Arsenal been figured out? Three big questions after Brighton’s upset",
-            "link": "https://www.theguardian.com/sport/2026/sep/24/arsenal-brighton-premier-league-questions",
-            "resumen": "This week, we dive into the big questions surrounding the most surprising result of the Premier League weekend Before this past weekend, Arsenal had not lost in the Premier League since April. Nine straight league wins had been enough to…",
+            "titulo": "Falcons trample punchless Packers as Bijan Robinson runs riot in Penix return",
+            "link": "https://www.theguardian.com/sport/2026/sep/24/falcons-packers-bijan-robinson-michael-penix-nfl",
+            "resumen": "Robinson rushes for 194 yards and two touchdowns Penix throws TD pass in return from torn ACL Packers’ 13-game home-opener winning streak ends Bijan Robinson rushed for 194 yards and two touchdowns as the Atlanta Falcons capitalized on…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Ex-England striker Carroll reveals he was sexually assaulted in 2021",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6grv7x544qro?at_medium=RSS&at_campaign=rss",
-            "resumen": "Former England striker Andy Carroll reveals he was sexually assaulted in 2021, by a man who has subsequently been jailed for three years.",
+            "titulo": "Israel game should not go ahead - Republic of Ireland's Knight",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cm750g0zx9weo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Jason Knight has become the first Republic of Ireland player to publicly voice his opposition to playing Israel on Sunday.",
             "fuente": "BBC"
           }
         ]
