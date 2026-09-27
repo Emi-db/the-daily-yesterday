@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "26 de septiembre de 2026",
-    "generada": "13:56",
+    "fecha": "27 de septiembre de 2026",
+    "generada": "14:52",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "\"Me enteré de que lo mataron por las redes sociales\": el doble castigo que sufren los condenados en Arabia Saudita, uno de los países que ejecuta más personas en el mundo",
-            "link": "https://www.bbc.com/mundo/articles/cqkgwx3zed53o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Arabia Saudita se encuentra entre los tres países con mayor número de ejecuciones, que se aplican a extranjeros en más del 40% de los casos.",
+            "titulo": "Por qué un nuevo pacto fronterizo entre Pakistán y China enfurece a India",
+            "link": "https://www.bbc.com/mundo/articles/cqgmrp4kr88yo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Un acuerdo de fronteras entre China y Pakistán desafía las reivindicaciones territoriales de India y profundiza las preocupaciones estratégicas sobre la disputada región de Cachemira.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Todos contra la inmigración, pero divididos frente a Putin: qué une y qué separa a la extrema derecha europea",
-            "link": "https://elpais.com/internacional/2026-09-26/todos-contra-la-inmigracion-pero-divididos-frente-a-putin-que-une-y-que-separa-a-la-extrema-derecha-europea.html",
-            "resumen": "Un análisis académico de 23 partidos ultra muestra sus diferencias frente a Rusia, los derechos de la mujer o el cambio climático y unos programas a la carta destinados a “contentar” a la opinión pública",
+            "titulo": "Europa se atrinchera frente a la guerra híbrida de Rusia",
+            "link": "https://elpais.com/internacional/2026-09-27/europa-se-atrinchera-frente-a-la-guerra-hibrida-de-rusia.html",
+            "resumen": "Los aliados europeos de Ucrania refuerzan su seguridad ante el aumento de los sabotajes y acciones hostiles del Kremlin",
             "fuente": "El País"
           },
           {
-            "titulo": "Trump rechaza una propuesta iraní para reabrir Ormuz y mantiene abierta la puerta a nuevos bombardeos",
-            "link": "https://www.france24.com/es/medio-oriente/20260926-trump-rechaza-una-propuesta-iran%C3%AD-para-reabrir-ormuz-y-mantiene-abierta-la-puerta-a-nuevos-bombardeos",
-            "resumen": "Donald Trump rechazó el plan presentado por Irán para reabrir en siete días el estrecho de Ormuz y poner fin a las hostilidades, según informó The Wall Street Journal, que cita a funcionarios estadounidenses. El presidente estadounidense…",
+            "titulo": "La policía británica detiene a cinco hombres y evacúa viviendas cerca de una base aérea utilizada por EE. UU.",
+            "link": "https://www.france24.com/es/europa/20260927-la-polic%C3%ADa-brit%C3%A1nica-detiene-a-cinco-hombres-y-evac%C3%BAa-viviendas-cerca-de-una-base-a%C3%A9rea-utilizada-por-ee-uu",
+            "resumen": "La policía británica informó este domingo de la evacuación de viviendas próximas a la base aérea de Fairford, en el suroeste de Inglaterra, y de la detención de cinco hombres por presuntos delitos relacionados con explosivos. La unidad…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Quién fue Francisco Morazán y por qué Bukele mandó ahora trasladar sus restos a un nuevo mausoleo",
-            "link": "https://www.bbc.com/mundo/articles/cq98609xx5p6o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Los restos de Francisco Morazán fueron trasladados a un nuevo mausoleo durante una ceremonia cargada de simbolismo. ¿Quién fue este caudillo militar y qué representa hoy para Nayib Bukele?",
+            "titulo": "La policía antiterrorista británica investiga un \"incidente grave\" cerca de una base aérea que utiliza el ejército de Estados Unidos",
+            "link": "https://www.bbc.com/mundo/articles/cj3v4qlv5p1xo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Cinco sujetos fueron detenidos sospechosos por delitos relacionados con explosivos, informaron las autoridades británicas.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Friedrich Merz, el impopular ‘canciller de las reformas’ que lucha por mantenerse a flote",
-            "link": "https://elpais.com/internacional/2026-09-26/friedrich-merz-el-impopular-canciller-de-las-reformas-que-lucha-por-mantenerse-a-flote.html",
-            "resumen": "Los batacazos electorales en varias elecciones regionales de Alemania han puesto en duda el liderazgo del conservador",
+            "titulo": "La escalada rusa alimenta el debate en el flanco oriental de la OTAN sobre la capacidad de respuesta aliada",
+            "link": "https://elpais.com/internacional/2026-09-27/la-escalada-rusa-alimenta-el-debate-en-el-flanco-oriental-de-la-otan-sobre-la-capacidad-de-respuesta-aliada.html",
+            "resumen": "Polonia multiplica las advertencias sobre la agresividad creciente de Moscú, mientras los países bálticos intentan contener el alarmismo ante una amenaza que consideran real pero no inminente",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
+            "titulo": "El consumidor entra en “modo control”: más visitas al súper, más legumbres y menos pescado",
+            "link": "https://elpais.com/economia/2026-09-27/el-consumidor-entra-en-modo-control-mas-visitas-al-super-mas-legumbres-y-menos-pescado.html",
+            "resumen": "Los alimentos se han encarecido un 35% en los últimos cinco años, una subida que obliga a los hogares a cambiar de hábitos y a reajustar el presupuesto",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Pedro Sánchez confirma que el Gobierno trabaja en un decreto sobre vivienda",
+            "link": "https://www.expansion.com/economia/2026/09/27/6ab8fabae5fdea9c308b4571.html",
+            "resumen": "El Ejecutivo está trabajando para llevar al Consejo de Ministros del próximo martes un Real Decreto sobre vivienda. Leer",
+            "fuente": "Expansión"
+          },
+          {
+            "titulo": "“Somos suficientes”: se acabó el pastel de la fiesta ibicenca",
+            "link": "https://elpais.com/economia/2026-09-27/somos-suficientes-se-acabo-el-pastel-de-la-fiesta-ibicenca.html",
+            "resumen": "Los clubs cierran una temporada irregular con el mercado saturado y el anuncio del Consell de que no habrá más discotecas nuevas para “encapsular” un sector, concentrado en unas pocas manos, que supone un tercio del PIB insular",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "El 'decreto Maricarmen' no sirve al vulnerable",
+            "link": "https://www.expansion.com/economia/politica/2026/09/27/6ab92b9be5fdeaa77b8b4570.html",
+            "resumen": "A Sumar le preocupa más la plusvalía de un fondo o un constructor que el drama de los vulnerables. Leer",
+            "fuente": "Expansión"
+          },
+          {
             "titulo": "Vivienda estudia eliminar el IPC como referencia para la subida de todos los alquileres",
             "link": "https://elpais.com/economia/2026-09-26/vivienda-estudia-eliminar-el-ipc-como-referencia-para-la-subida-de-todos-los-alquileres.html",
             "resumen": "La negociación del decreto que se aprobará la próxima semana explora un mecanismo para topar las revisiones de los contratos previos a 2023 si los precios se desbocan",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Las operaciones en Bolsa catapultan los ingresos de la banca de inversión",
-            "link": "https://www.expansion.com/empresas/banca/2026/09/25/6aabd262468aebf1328b459b.html",
-            "resumen": "Las comisiones totales suben un 17% en el mundo en 2026, pero las bursátiles lo hacen un 67%. BBVA y Santander destacan entre las entidades europeas por el avance de su negocio. Leer",
-            "fuente": "Expansión"
-          },
-          {
-            "titulo": "La IA encarece hasta un 90% las memorias y provoca escasez de los móviles más baratos",
-            "link": "https://cincodias.elpais.com/companias/2026-09-26/la-ia-encarece-hasta-un-90-las-memorias-y-provoca-escasez-de-los-moviles-mas-baratos.html",
-            "resumen": "La GSMA alerta de que el fuerte aumento del precio de los componentes puede provocar en 2026 la mayor caída de envíos de ‘smartphones’ de la historia",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "MyInvestor, Trade Republic o Revolut: ¿cuál elegir para invertir en fondos?",
-            "link": "https://www.expansion.com/mercados/fondos/2026/09/25/6ab6d50e468aebbb028b4578.html",
-            "resumen": "Los neobancos compiten por atraer al pequeño inversor con catálogos de fondos cada vez más amplios, comisiones reducidas y mínimos de entrada desde un euro. Leer",
-            "fuente": "Expansión"
-          },
-          {
-            "titulo": "Cómo lidiar con un jefe tóxico (y no morir en el intento)",
-            "link": "https://elpais.com/economia/negocios/2026-09-26/como-lidiar-con-un-jefe-toxico-y-no-morir-en-el-intento.html",
-            "resumen": "El liderazgo autoritario está en boga. Estos son los pasos a dar cuando el trabajador se siente acosado sin tener que abandonar la empresa",
             "fuente": "El País"
           }
         ]
@@ -78,9 +78,9 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "Los perros también prefieren las consonantes: así es como nuestro lenguaje moldea su cerebro",
-            "link": "https://elpais.com/salud-y-bienestar/2026-09-24/los-perros-tambien-prefieren-las-consonantes-asi-es-como-nuestro-lenguaje-moldea-su-cerebro.html",
-            "resumen": "Un estudio analiza cómo desarrollan el sesgo de preferencia consonante, imitando a los humanos. No son los únicos: las ratas y ChatGPT nos copian ciertas formas de procesamiento del lenguaje",
+            "titulo": "Victor Glover, piloto de Artemis 2: “Llevaremos humanos a Marte y, para ello, ganaremos a China la carrera al polo sur de la Luna”",
+            "link": "https://elpais.com/ciencia/2026-09-27/victor-glover-piloto-de-artemis-2-llevaremos-humanos-a-marte-y-para-ello-ganaremos-a-china-la-carrera-al-polo-sur-de-la-luna.html",
+            "resumen": "El astronauta de la NASA, que visitará España en octubre para acudir al Festival Starmus, ofrece una entrevista exclusiva a EL PAÍS tras su histórico viaje alrededor del satélite",
             "fuente": "El País"
           },
           {
@@ -90,9 +90,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Dos estudiantes descubren una nueva especie de anfibio primitivo y la nombran en honor a sus madres: así nació el ‘Jeanerpeton mazonensis’",
-            "link": "https://elpais.com/ciencia/2026-09-24/dos-estudiantes-descubren-una-nueva-especie-de-anfibio-primitivo-y-la-nombran-en-honor-a-sus-madres-asi-nacio-el-jeanerpeton-mazonensis.html",
-            "resumen": "El hallazgo permite afirmar que en la zona donde se encontró el fósil había más variedad de estos animales de la que inicialmente se creía",
+            "titulo": "Los perros también prefieren las consonantes: así es como nuestro lenguaje moldea su cerebro",
+            "link": "https://elpais.com/salud-y-bienestar/2026-09-24/los-perros-tambien-prefieren-las-consonantes-asi-es-como-nuestro-lenguaje-moldea-su-cerebro.html",
+            "resumen": "Un estudio analiza cómo desarrollan el sesgo de preferencia consonante, imitando a los humanos. No son los únicos: las ratas y ChatGPT nos copian ciertas formas de procesamiento del lenguaje",
             "fuente": "El País"
           },
           {
@@ -102,9 +102,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Los elefantes se automedican con plantas medicinales que también usan los humanos",
-            "link": "https://elpais.com/ciencia/2026-09-24/los-elefantes-se-automedican-con-plantas-medicinales-que-tambien-usan-los-humanos.html",
-            "resumen": "El seguimiento a varias poblaciones de Kenia apunta a que estos paquidermos también excavan en las cuevas buscando minerales esenciales",
+            "titulo": "Dos estudiantes descubren una nueva especie de anfibio primitivo y la nombran en honor a sus madres: así nació el ‘Jeanerpeton mazonensis’",
+            "link": "https://elpais.com/ciencia/2026-09-24/dos-estudiantes-descubren-una-nueva-especie-de-anfibio-primitivo-y-la-nombran-en-honor-a-sus-madres-asi-nacio-el-jeanerpeton-mazonensis.html",
+            "resumen": "El hallazgo permite afirmar que en la zona donde se encontró el fósil había más variedad de estos animales de la que inicialmente se creía",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Russell gana por solo 0\"1 ante un Verstappen estelar en Bakú; Sainz remonta y tortura para Alonso",
-            "link": "https://www.mundodeportivo.com/motor/f1/20260926/1004231478/russell-gana-carrera-0-01-verstappen-estelar-baku-sainz-remonta-tortura-alonso.html",
-            "resumen": "George Russell ganó el GP de Azerbaiyán de F1 2026 disputado este sábado en Bakú por solo una décima de margen frente a un Max Verstappen estelar , que fue el gran protagonista del día con una espectacular remontada, del 8º al 2º. El…",
+            "titulo": "39-29: El Barça ya está en la final del Mundial de clubs: nace una estrella de 17 años en el Zamalek",
+            "link": "https://www.mundodeportivo.com/balonmano/20260927/1004231790/39-29-barca-final-mundial-clubs-nace-estrella-17-anos-zamalek.html",
+            "resumen": "El Barça de balonmano ha superado con autoridad al Zamalek local (39-29) y ya está en la final del Mundial de clubs de Egipto , donde se jugará el título el próximo jueves contra el Füchse Berlín o el One Veszprem , que se enfrentarán…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Lamine desvela qué le dijo a Messi tras ganar el Mundial",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260926/1004231472/lamine-desvela-le-dijo-messi-ganar-mundial.html",
-            "resumen": "A Lamine Yamal , sus 19 años le han dado, de momento, para mucho. Tanto que sus reflexiones muestran una madurez, en ocasiones, impropia de alguien tanto joven que se está abriendo camino en un mundo tan dimensionado como el fútbol. El…",
+            "titulo": "Reverencia mundial a Lamine: hasta en Madrid le elogian",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260927/1004231689/reverencia-mundial-lamine-madrid-le-elogian.html",
+            "resumen": "No sólo Inglaterra y Wembley se rindieron a Lamine Yamal . Los medios de comunicación nacionales e internacionales coincidieron en señalarle como el crack que logró la rendición inglesa. Marcar a los dos minutos, dos años después de la…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "September 26, 2026",
-    "generada": "13:56",
+    "fecha": "September 27, 2026",
+    "generada": "14:52",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Huge crowds greet Pope in Paris for open-air Mass",
-            "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-            "resumen": "More than half a million people are expected to attend the event in the heart of the French capital.",
+            "titulo": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+            "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+            "resumen": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
-            "link": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
-            "resumen": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government There are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states…",
+            "titulo": "At least 27 dead after two mass shootings in South Africa, police say",
+            "link": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+            "resumen": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town Two separate mass shootings near South Africa’s two biggest cities killed at least 27…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Heroine or Public Enemy? The Israeli Blocking Much of Netanyahu’s Agenda.",
-            "link": "https://www.nytimes.com/2026/09/26/world/middleeast/israel-netanyahu-gali-baharav-miara-attorney-general.html",
-            "resumen": "Gali Baharav-Miara, Israel’s first female attorney general, has stopped many of the government’s efforts to remove constraints on its power.",
+            "titulo": "Recreational Aerial Craft Become Weapons in Myanmar’s War",
+            "link": "https://www.nytimes.com/2026/09/27/world/asia/myanmar-light-aircraft-war-weapons.html",
+            "resumen": "Years after a coup, the military is increasingly using motorized paragliders and gyrocopters to bomb towns and villages in rebel-held territory.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-            "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-            "resumen": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+            "titulo": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
+            "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Indian billionaire’s payments firm plots biggest London flotation in years",
-            "link": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
-            "resumen": "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock market Nils Pratley: Does this mark the end of London’s listing drought? Not yet A payments business that operates across Africa and is ultimately controlled…",
+            "titulo": "‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys",
+            "link": "https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe",
+            "resumen": "Two troops of chacma baboons are breaking into homes and shops but animal rights activists insist coexistence is the answer Cape Town’s city council has said it will “imminently” round up two baboon troops coming into repeated conflict…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "OpenAI bots meddled with multiple US government agency sites",
-            "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-            "resumen": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+            "titulo": "Andy Burnham refuses to back third runway at Heathrow",
+            "link": "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Andy Burnham said he would wait for the results of a consultation on a scheme estimated to cost £33bn",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Democracy blindsides Silicon Valley’s power players looking to transform the world with AI",
+            "link": "https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power",
+            "resumen": "‘The push against datacenters speaks to the frustration of people who don’t feel they are making the choices in their lives’ The Stanford ethicist Rob Reich was once invited to a dinner organized by a Silicon Valley mogul to discuss what…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "Why Won’t My Co-Workers Acknowledge My Birthday?",
+            "link": "https://www.nytimes.com/2026/09/27/business/workplace-.html",
+            "resumen": "Plus: What to do when your boss is nit-picking your work.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Faisal Islam: The two big decisions the chancellor must make",
+            "link": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
+            "resumen": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
             "fuente": "BBC"
           },
           {
             "titulo": "‘It’s just getting worse’: anger in Maine over Trump’s trade war with close neighbor Canada",
             "link": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/26/maine-voters-canada-trump-trade-war",
             "resumen": "President’s tariffs have hurt fishers, loggers and others in a state with deep bonds to Canada – will voters show their displeasure in the midterms? It was an ideal summer to cut trees. The weather in Maine’s Penobscot county – one of the…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "As A.I. Makes Law Firms More Efficient, Clients Ask: ‘Where’s My Discount?’",
-            "link": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
-            "resumen": "There’s growing pressure to move beyond the billable hour. But big firms aren’t ready to blow up their trusted business model.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "Could an iced coffee freeze you out of the job market?",
-            "link": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
-            "resumen": "Employees and recruiters weigh into the online debate around interview etiquette.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Revealed: the undisclosed safety data emerging as weedkiller maker faces Parkinson’s lawsuits in US",
-            "link": "https://www.theguardian.com/environment/ng-interactive/2026/sep/25/syngenta-paraquat-parkinsons-lawsuits-epa",
-            "resumen": "Syngenta denies keeping relevant data from the EPA as paraquat stays in the US market despite global bans Sweden started ringing the alarm bell more than 20 years ago, calling for a ban on the weedkilling chemical paraquat in 2004. One by…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,9 +224,9 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Bangkok roads submerged as flood disaster declared",
-            "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-            "resumen": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
+            "titulo": "One dead as nor'easter storm pummels New York and New Jersey",
+            "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
             "fuente": "BBC"
           },
           {
@@ -242,9 +242,9 @@ const EDICION_MUNDO = {
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-            "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
+            "titulo": "Your pictures of the Harvest Moon shimmering across the UK sky",
+            "link": "https://www.bbc.co.uk/weather/articles/cm70lpzywlpdo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The full Moon put on a stunning display over the skies of UK on Saturday night and here are some of your photographs.",
             "fuente": "BBC"
           },
           {
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Russell wins despite late Verstappen challenge",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/ck8d33760j63o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Mercedes' George Russell holds off a late challenge from Red Bull's Max Verstappen to win an Azerbaijan Grand Prix enlivened by two late safety car periods.",
+            "titulo": "Why Premier League faces uncertainty and chaos after Man City ruling",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
+            "resumen": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Enzo Maresca posts ‘I know nothing’ message after Manchester City’s guilty verdict",
-            "link": "https://www.theguardian.com/football/2026/sep/26/enzo-maresca-noel-gallagher-manchester-city-guilty-verdict",
-            "resumen": "Noel Gallagher, fan and Oasis star, shocked and sad David Bernstein: a fine is not sufficient if appeal fails Manchester City’s manager, Enzo Maresca, posted a cryptic message on social media reading “I know nothing” after the club was…",
+            "titulo": "In playful moments, the USMNT’s new youth movement is already paying off",
+            "link": "https://www.theguardian.com/football/2026/sep/27/usa-peru-soccer-justin-ellis-cavan-sullivan-julian-hall",
+            "resumen": "After a crushing World Cup exit, 11 debutants and two teenage scorers are giving the program renewed verve Subscribe to our free newsletter for US soccer fans Follow Guardian Soccer on Instagram and TikTok The fans who witnessed the…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "No Premier League appetite to strip Man City of titles - but threat remains",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cxyvzzj17682o?at_medium=RSS&at_campaign=rss",
-            "resumen": "After being found guilty of the majority of the 115 charges for breaching Premier League, could Manchester city really be stripped of eight trophies?",
+            "titulo": "Horner a distraction for Ferrari says Vasseur",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/cvwyz791096jo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Christian Horner is proving a distraction for Ferrari by \"looking for a job\", team principal Frederic Vasseur says.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Azerbaijan Grand Prix: George Russell holds off Max Verstappen to win – as it happened",
-            "link": "https://www.theguardian.com/sport/live/2026/sep/26/azerbaijan-grand-prix-formula-one-2026-live",
-            "resumen": "The British driver won his third Grand Prix of the season to stay in the title hunt behind world championship leader Kimi Antonelli According to said broadcaster, the winds have dropped in Baku and we’re set for rather favourable racing…",
+            "titulo": "Lanning decries ‘disgusting’ late hit that sends Oregon QB Dante Moore to hospital",
+            "link": "https://www.theguardian.com/sport/2026/sep/27/dante-moore-late-hit-hospital-oregon-usc-college-football",
+            "resumen": "Senior able to move limbs but taken to hospital USC linebacker Desman Stephens II ejected for play Oregon head coach Dan Lanning has decried a “disgusting play” that left his starting quarterback, Dante Moore, in hospital during the…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Republic of Ireland confirm Israel game will go ahead",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The Republic of Ireland have confirmed Sunday's Uefa Nations League B3 game against Israel in Debrecen, Hungary will go ahead.",
+            "titulo": "Four men down - but Australia still beat South Africa",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cx05r4gg209ro?at_medium=RSS&at_campaign=rss",
+            "resumen": "Australia are reduced to 11 men but dig in for a remarkable win against a much-changed South Africa side as they beat the world champions 42-38 in Perth.",
             "fuente": "BBC"
           }
         ]

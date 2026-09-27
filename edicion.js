@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "26 de septiembre de 2026",
-  "generada": "13:56",
+  "fecha": "27 de septiembre de 2026",
+  "generada": "14:52",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: los próximos pasos de LLA en el Congreso, el viaje del Presidente a París y todo lo que tenés que saber este 26 de septiembre",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-proximos-pasos-lla-congreso-viaje-presidente-paris-tenes-saber-26-septiembre_0_SRPJPtrGsl.html",
-          "resumen": "Seguí todas las novedades sobre las medidas del gobierno de Javier Milei en la cobertura minuto a minuto de Clarín.",
+          "titulo": "Denuncian \"desvíos técnicamente indefendibles\" en la ANDIS: sobreprecios de hasta 1.972% y productos importados de menor durabilidad que los nacionales",
+          "link": "https://www.clarin.com/politica/denuncian-desvios-tecnicamente-indefendibles-andis-sobreprecios-1972-productos-importados-menor-durabilidad-nacionales_0_U8HSp0vqoX.html",
+          "resumen": "Un informe periodístico reveló la información que el Ministerio de Salud y Alejandro Vilches presentaron ante la Justicia. Detectaron precios por encima de la media, pagos duplicados, e insumos que figuraban como entregados que nunca…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Gremios, empresarios y movimientos sociales buscan articular un documento económico para la visita del Papa León XIV",
-          "link": "https://www.lanacion.com.ar/politica/gremios-empresarios-y-movimientos-sociales-buscan-articular-un-documento-economico-para-la-visita-nid26092026/",
-          "resumen": "Jorge Sola, uno de los jefes de la CGT, y Osvaldo Cornide, extitular de CAME, trabajan en un informe sobre la situación social y la falta de empleo; inquietud oficial por la actividad del Pontífice en la UCA",
+          "titulo": "Elecciones en la Argentina 2027: fechas, cargos que se renuevan y todo lo que hay que saber",
+          "link": "https://www.lanacion.com.ar/politica/elecciones-en-la-argentina-2027-fechas-cargos-que-se-renuevan-y-todo-lo-que-hay-que-saber-nid23092026/",
+          "resumen": "A continuación, conocé las fechas para emitir el sufragio; cuáles son las fechas clave y qué provincias eligen gobernador; descubrí los detalles",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La Justicia de Formosa condenó a cuatro periodistas por una cobertura en una comunidad originaria",
-          "link": "https://www.infobae.com/politica/2026/09/26/la-justicia-de-formosa-condeno-a-cuatro-periodistas-por-una-cobertura-en-una-comunidad-originaria/",
-          "resumen": "La sentencia del Juzgado de Paz de Menor Cuantía de Las Lomitas impuso cinco días de arresto, sustituibles por una multa de $282.550, por una supuesta infracción al Código de Faltas provincial",
+          "titulo": "El Gobierno porteño volvió a pedir que la jueza que declaró inconstitucional la Ley Penal Juvenil sea destituida",
+          "link": "https://www.infobae.com/politica/2026/09/27/el-gobierno-porteno-volvio-a-pedir-que-la-jueza-que-declaro-inconstitucional-la-ley-penal-juvenil-sea-destituida/",
+          "resumen": "El ministro de Justicia de la Ciudad, Gabino Tapia, afirmó que el procedimiento está contemplado en la Constitución y rechazó que la denuncia contra la magistrada constituya un escrache o un cuestionamiento general al Poder Judicial de la…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "El oficialismo apura el proyecto por Malvinas y Diputados empieza a debatirlo el miércoles que viene",
-          "link": "https://www.clarin.com/politica/oficialismo-apura-proyecto-malvinas-diputados-empieza-debatirlo-miercoles-viene_0_uJ7khCW5Q7.html",
-          "resumen": "Prevén hacer una reunión informativa con funcionarios del Ejecutivo. Quieren dictaminarlo el 6 de octubre.",
+          "titulo": "Javier Milei y sus medidas EN VIVO: tras su paso por los EE.UU., el Presidente se prepara para un nuevo viaje, este vez, hacia París",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-paso-eeuu-presidente-prepara-nuevo-viaje-vez-paris_0_au8C5EKjGJ.html",
+          "resumen": "El mandatario viajará el martes para participar de la Semana Argentina en Francia. Lo acompañarán, entre otros, su hermana Karina, el ministro de Economía, Luis Caputo, el presidente del Banco Central, Santiago Bausili, el ministro de…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "“Netanyahu es uno de los mayores líderes de la historia del mundo”, afirmó Javier Milei",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-netanyahu-se-reunio-con-el-presidente-en-la-onu-y-lo-definio-como-nid25092026/",
-          "resumen": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
-          "fuente": "La Nación"
+          "titulo": "La polémica Ley Moyano vuelve a escena con la nueva licitación para la recolección de residuos en CABA",
+          "link": "https://www.infobae.com/politica/2026/09/27/la-polemica-ley-moyano-vuelve-a-escena-con-la-nueva-licitacion-para-la-recoleccion-de-residuos-en-caba/",
+          "resumen": "En los pliegos para renovar las concesiones, que se analizarán el 5 de octubre en una audiencia pública, no se prevé el pago de las indemnizaciones para los 6 mil empleados del sector, eje de un tradicional reclamo del Sindicato de…",
+          "fuente": "Infobae"
         }
       ]
     },
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "La mina de cobre que fue un hito hoy abre paso a proyectos por U$S13.500 millones",
-          "link": "https://www.clarin.com/energia-y-mineria/mina-cobre-hito-hoy-abre-paso-proyectos-us13500-millones_0_eC7xf3Lbl2.html",
-          "resumen": "Glencore reabre Alumbrera en 2027 y es el primer paso de un plan que incluye Agua Rica y El Pachón. Mientras esperan el RIGI, los proyectos generan más de 2000 puestos de trabajo en Catamarca y San Juan.",
+          "titulo": "Chevron quiere triplicar su producción en Vaca Muerta con la mayor inversión extranjera del RIGI",
+          "link": "https://www.clarin.com/economia/chevron-quiere-triplicar-produccion-vaca-muerta-mayor-inversion-extranjera-rigi_0_ecEhpc9HVA.html",
+          "resumen": "La petrolera estadounidense pondrá unos 13.800 millones de dólares para multiplicar su actividad hasta 2035. Clarín recorrió El Trapial, que es dos veces más grande que la Ciudad de Buenos Aires, donde se concentrará la nueva producción…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La economía quedó al borde de una recesión técnica, según expertos",
-          "link": "https://www.lanacion.com.ar/economia/la-economia-quedo-al-borde-de-una-recesion-tecnica-segun-expertos-nid25092026/",
-          "resumen": "La magnitud de la baja mensual del EMAE de julio dejó poco margen para una recuperación en el tercer trimestre; en el segundo había caído 0,6% con respecto a los primeros tres meses del año",
+          "titulo": "¿Abren los supermercados, shoppings y comercios mañana, 28 de septiembre, por el Día del Empleado de Comercio?",
+          "link": "https://www.lanacion.com.ar/economia/abren-los-supermercados-shoppings-y-comercios-manana-28-de-septiembre-por-el-dia-del-empleado-de-nid27092026/",
+          "resumen": "Descubrí por qué se cambió la fecha del Día del Empleado de Comercio, celebración estipulada para cada 26 del mes corriente",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Ingresos Brutos: Catamarca elimina el impuesto a la industria y reaviva el debate fiscal con las provincias",
-          "link": "https://www.ambito.com/economia/ingresos-brutos-catamarca-elimina-el-impuesto-la-industria-y-reaviva-el-debate-fiscal-las-provincias-n6326748",
-          "resumen": "La medida anunciada por el gobernador Raúl Jalil apunta a aliviar la carga sobre las fábricas. En territorio bonaerense, los industriales pidieron excluir del tributo a pymes que facturen hasta $3.200 millones al año.",
+          "titulo": "Créditos hipotecarios UVA en 2026: ¿De cuánto es la cuota mensual, tras la baja de tasas de los bancos?",
+          "link": "https://www.ambito.com/economia/creditos-hipotecarios-uva-2026-de-cuanto-es-la-cuota-mensual-la-baja-tasas-los-bancos-n6326384",
+          "resumen": "Las entidades volvieron a competir con intereses desde 6,5% y plazos de hasta 30 años, pero el costo final cambia mucho entre propuestas.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Los empresarios ante la visita del Papa: las lecturas que circulan e interpelan la manera de hacer negocios",
-          "link": "https://www.clarin.com/economia/empresarios-visita-papa-lecturas-circulan-interpelan-manera-hacer-negocios_0_s7aJjgHTr3.html",
-          "resumen": "En la UIA y otros ámbitos circulan libros de los economistas Paolo Venturi y Stefano Zamagni. Señalan que el capitalismo necesita nuevamente empresarios. Las empresas generadoras de riqueza.",
+          "titulo": "Euro hoy en Venezuela: precio y cotización de la divisa este domingo 27 de septiembre de 2026",
+          "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-domingo-27-de-septiembre-de-2026_0_O4ZmzjSJ6q.html",
+          "resumen": "Mirá la cotización del euro en Venezuela, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "“Impotencia y bronca”: se cayó un puente de 1930 y llevan 220 días sin poder circular",
-          "link": "https://www.lanacion.com.ar/economia/campo/impotencia-y-bronca-se-cayo-un-puente-de-1930-y-llevan-220-dias-sin-poder-circular-nid25092026/",
-          "resumen": "Productores de la zona de Arroyo Venado, en el sudoeste bonaerense, reclaman una solución urgente para recuperar el paso entre las localidades de Guaminí y de Carhué; en el gobierno provincial dicen que la obra de reconstrucción será en…",
+          "titulo": "Paritaria con aumento: cuánto cobran las niñeras y cuidadores de adultos en septiembre de 2026",
+          "link": "https://www.lanacion.com.ar/economia/paritaria-con-aumento-cuanto-cobran-las-nineras-y-cuidadores-de-adultos-en-septiembre-de-2026-nid16092026/",
+          "resumen": "La cuarta categoría recibe este mes un incremento y un porcentaje del bono se pasa al sueldo básico; descubrí los detalles",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Histórica visita del papa León XIV a Francia: un millón de personas desafiaron a la lluvia en París para redescubrir al catolicismo",
-          "link": "https://www.clarin.com/mundo/historica-visita-papa-leon-xiv-francia-millon-personas-desafiaron-lluvia-paris-redescubrir-catolicismo_0_pyhNL6krJ6.html",
-          "resumen": "El Sumo Pontífice brindó este sábado una multitudinaria misa en la Plaza de la Concorde, donde no solo hubo fieles cristianos sino de todas las religiones.",
+          "titulo": "En su visita a Francia, el papa León XIV dio un contundente mensaje contra la eutanasia",
+          "link": "https://www.clarin.com/mundo/visita-francia-papa-leon-xiv-dio-contundente-mensaje-eutanasia_0_I1fXRLl6gO.html",
+          "resumen": "Lo hizo al dar una misa en Lourdes antes más de 150 mil fieles. Esta tarde tendrá un encuentro con víctimas de abusos sexuales en la Iglesia.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Lula prohibió las apuestas online a días de las elecciones y generó el rechazo de los clubes brasileños",
-          "link": "https://www.lanacion.com.ar/el-mundo/lula-prohibio-las-apuestas-online-a-dias-de-las-elecciones-y-genero-el-rechazo-de-los-clubes-nid26092026/",
-          "resumen": "Las principales instituciones deportivas consideran que la medida amenaza a su financiamiento; la debe ratificar el Congreso",
+          "titulo": "Arrestan a cinco hombres que planeaban un ataque terrorista en una base aérea británica utilizada por EE.UU. contra Irán",
+          "link": "https://www.lanacion.com.ar/el-mundo/arrestan-a-cinco-hombres-que-planeaban-un-ataque-terrorista-una-base-aerea-britanica-utilizada-por-nid27092026/",
+          "resumen": "Hay cinco detenidos; inspeccionan vehículos sospechosos y la investigación permanece abierta",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Una multitud marchó en Madrid contra Pedro Sánchez: exigieron su renuncia y elecciones inmediatas",
-          "link": "https://www.clarin.com/mundo/multitud-marcho-madrid-pedro-sanchez-exigieron-renuncia-elecciones-inmediatas_0_N8Ovj3Yp1I.html",
-          "resumen": "Se trató de la segunda Marcha por la Dignidad, que también puso el foco en la crisis migratoria en Ceuta.",
+          "titulo": "Por un \"incidente mayor\", detienen a 5 sospechosos y evacúan 85 casas cerca de una base militar con personal estadounidense en el Reino Unido",
+          "link": "https://www.clarin.com/mundo/incidente-mayor-evacuados-detenidos-cerca-base-militar-personal-estadounidense-reino-unido_0_JgmpwSdveF.html",
+          "resumen": "Es en Fairford, desde donde salen los aviones norteamericanos a Medio Oriente. Evacuaron a todos los habitantes del pueblo cercano de Whelford. Los detenidos están sospechados de infringir la Ley de Explosivos.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Una foto tomada en Argentina ganó el premio internacional a Fotografía Musical del Año",
-          "link": "https://www.lanacion.com.ar/el-mundo/una-foto-tomada-en-argentina-gano-el-premio-internacional-a-fotografia-musical-del-ano-nid25092026/",
-          "resumen": "La imagen fue capturada por el fotógrafo Joshua Halling durante la segunda presentación que ofreció Oasis en Buenos Aires en noviembre de 2025",
+          "titulo": "Voto electrónico de las elecciones en Brasil 2026: cómo funciona el sistema para las presidenciales",
+          "link": "https://www.lanacion.com.ar/el-mundo/voto-electronico-de-las-elecciones-en-brasil-2026-como-funciona-el-sistema-para-las-presidenciales-nid24092026/",
+          "resumen": "En los comicios se utilizan nuevamente las urnas electrónicas que agilizan la votación y la difusión de resultados",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Putin dice que no se está preparando para \"una guerra con Europa\", en medio de las alarmas por una intensificación de los ataques híbridos",
-          "link": "https://www.clarin.com/mundo/putin-dice-preparando-guerra-europa-medio-alarmas-intensificacion-ataques-hibridos_0_MPnYs1XMdR.html",
-          "resumen": "El líder ruso afirmó que \"no existen motivos ni razones reales para una escalada de la situación con Europa\". Esta semana, la inteligencia danesa dijo que no se puede descartar un ataque contra algún país de la OTAN.",
+          "titulo": "Risas y guiños a la izquierda: el video de Pedro Sánchez y Zohran Mamdani que se hizo viral",
+          "link": "https://www.clarin.com/mundo/risas-guinos-izquierda-video-pedro-sanchez-zohran-mamdani-hizo-viral_0_RLUY1udAXX.html",
+          "resumen": "El alcalde neoyorquino recibió al presidente del Gobierno español el miércoles en su residencia oficial, Gracie Mansion. Sánchez viajó a Nueva York para la semana de Alto Nivel de la Asamblea General de la ONU.",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Franco Colapinto y la maniobra que lo dejó fuera de carrera: se pasó, chocó a Gasly y puede traerle consecuencias en Alpine",
-          "link": "https://www.clarin.com/deportes/franco-colapinto-maniobra-dejo-carrera-paso-choco-gasly-puede-traerle-consecuencias-alpine_0_eUEsCWt4l4.html",
-          "resumen": "Fue en la vuelta 36 tras la reanudación de la carrera por el accidente de Albon. El argentino entró pasado a la frenada de la curva 1 y se llevó puesto a su compañero de equipo. \"Perdón, perdón, perdón a Pierre\", dijo por la radio.",
+          "titulo": "Tigst Assefa, entre el dolor y el drama en el Maratón de Berlín: iba a batir el récord mundial pero llegó rengueando a la meta",
+          "link": "https://www.clarin.com/deportes/tigst-assefa-dolor-drama-maraton-berlin-iba-batir-record-mundial-llego-rengueando-meta_0_fLoYXoVxsH.html",
+          "resumen": "La etíope estaba 20 segundos abajo de la marca de Ruth Chepngetich, pero en los últimos dos kilómetros una lesión la complicó. De todas formas, pudo ganar por tercera vez consecutiva en Alemania y marcó el tercer mejor tiempo de la…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Cómo le fue a Franco Colapinto en el GP de Azerbaiyán de la Fórmula 1 2026",
-          "link": "https://www.lanacion.com.ar/deportes/automovilismo/como-le-fue-a-franco-colapinto-en-el-gp-de-azerbaiyan-de-la-formula-1-2026-nid26092026/",
-          "resumen": "El argentino abandonó por primera vez tras un grave accidente que también dejó afuera a Pierre Gasly, su compañero de escudería, y a Lando Norris (McLaren)",
+          "titulo": "A qué hora juegan Boca vs. Racing, por la Copa Argentina 2026",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juegan-boca-vs-racing-por-la-copa-argentina-2026-nid27092026/",
+          "resumen": "El partido de cuartos de final se disputa este domingo en el estadio Gigante de Arroyito de Rosario con arbitraje de Andrés Gariano",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Lando Norris, durísimo contra Colapinto: “Este tipo de conducción no merece estar en la Fórmula 1”",
-          "link": "https://www.ole.com.ar/autos/norris-durisimo-colapinto-accidente-baku_0_17fC2gdl0Y.html",
-          "resumen": "El campeón del mundo explotó con el argentino después de quedar afuera en la carambola de Bakú y reclamó que la FIA aplique sanciones severas.",
+          "titulo": "El posteo denuncia de Verón y la agresión policía a un periodista de TN",
+          "link": "https://www.ole.com.ar/estudiantes/estudiantes-denuncia-maltratos-policia-santiago_0_uDC6Stcl6G.html",
+          "resumen": "El presidente de Estudiantes cargó contra los efectivos policiales por excesos contra sus hinchas en Santiago. Además, mirá lo que pasó con Sebastián Domenech.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Estudiantes vs Rosario Central, por la Supercopa Internacional 2026 EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
-          "link": "https://www.clarin.com/deportes/estudiantes-vs-rosario-central-supercopa-internacional-2026-vivo-hora-juegan-formaciones-ver-partido_0_iqz2Qru6Za.html",
-          "resumen": "Juegan en el Madre de Ciudades, desde las 16. El Pincha llega como ganador del Trofeo de Campeones, mientras que el Canalla es el campeón de la tabla anual 2025. Por ESPN Premium.",
+          "titulo": "Tras el choque de Colapinto en Bakú, Alpine volvió a condenar \"enérgicamente\" el abuso en redes: mensajes contra Gasly y Norris",
+          "link": "https://www.clarin.com/deportes/choque-colapinto-baku-alpine-volvio-condenar-energicamente-abuso-redes-mensajes-gasly-norris_0_CT7Vacgnv1.html",
+          "resumen": "Emitió un comunicado en redes después del accidente múltiple que inició el piloto argentino y quitó del Gran Premio de Azerbaiyán a su compañero francés y el vigente campeón británico. Como ya lo hizo otras veces, la escudería francesa…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Franco Colapinto, tras chocar a Gasly y Norris en Bakú: “Fue un error grande y grave”",
-          "link": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-tras-chocar-a-gasly-y-norris-en-baku-fue-un-error-grande-y-grave-nid26092026/",
-          "resumen": "El argentino describió el momento que generó el accidente con su compañero y con Lando Norris y que precipitó el abandono de los tres corredores",
+          "titulo": "Australia resistió con once jugadores y se quedó con un triunfo electrizante ante Sudáfrica",
+          "link": "https://www.lanacion.com.ar/deportes/rugby/australia-resistio-con-once-hombres-y-se-quedo-con-un-triunfo-electrizante-ante-sudafrica-nid27092026/",
+          "resumen": "Los Wallabies vencieron a los Springboks por 42-38 en Perth en un amistoso internacional; sufrió cuatro amonestaciones en el tramo final",
           "fuente": "La Nación"
         }
       ]
