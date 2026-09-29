@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "28 de septiembre de 2026",
-  "generada": "17:50",
+  "fecha": "29 de septiembre de 2026",
+  "generada": "16:10",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Con dudas sobre las explicaciones de Adorni, el fiscal pidió más medidas patrimoniales",
-          "link": "https://www.clarin.com/politica/dudas-explicaciones-adorni-fiscal-pidio-medidas-patrimoniales_0_swRRkdX5ym.html",
-          "resumen": "En la fiscalía de Gerardo Pollicita no conformaron los argumentos con los que el exjefe de Gabinete quiso justificar su meteórico ascenso económico. Antes de tomar una decisión al respecto, requirió más detalles.",
+          "titulo": "En la previa de la visita del Papa, el Gobierno denunció \"amenazas a funcionarios de primer nivel\" y las vinculó a los cambios en la seguridad de la Quinta de Olivos",
+          "link": "https://www.clarin.com/politica/previa-visita-papa-gobierno-denuncio-amenazas-funcionarios-primer-nivel-vinculo-cambios-seguridad-quinta-olivos_0_DGa2IxSRxG.html",
+          "resumen": "Lo dijo el vocero Adrián Ravier al hablar del despido del personal civil que cumplía funciones domésticas en la residencial oficial. \"Casa Militar se está haciendo cargo de toda residencia en la cual resida el Presidente\", destacó.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente habló de Patricia Bullrich y dijo: “No la subestimen”",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-tengo-algunos-enemigos-muy-pesados-aca-y-en-el-mundo-dijo-el-nid28092026/",
-          "resumen": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "titulo": "“Posibles terroristas”: el vocero presidencial habló de las declaraciones de Milei sobre los extranjeros expulsados",
+          "link": "https://www.lanacion.com.ar/politica/posibles-terroristas-el-vocero-presidencial-hablo-de-las-declaraciones-de-milei-sobre-los-nid29092026/",
+          "resumen": "El vocero presidencial se refirió a los dichos del presidente, quien aseguró que el Gobierno “deportó 20.000 terroristas” este año",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Máximo Kirchner aseguró que CFK tiene la voluntad de ser candidata a presidenta",
-          "link": "https://www.infobae.com/politica/2026/09/28/maximo-kirchner-aseguro-que-cfk-tiene-la-voluntad-de-ser-candidata-a-presidenta/",
-          "resumen": "El líder de La Cámpora visitó el estudio de Infobae al Mediodía y señaló que la presentación de la exmandataria ante la ONU, con la que busca revertir su condena e inhabilitación, es una señal de que quiere competir. \"Sin Cristina en la…",
+          "titulo": "El caso Edgardo Kueider en la Argentina: un juicio paralizado y un calabozo preparado para el ex senador",
+          "link": "https://www.infobae.com/politica/2026/09/29/el-caso-edgardo-kueider-en-la-argentina-un-juicio-paralizado-y-un-calabozo-preparado-para-el-ex-senador/",
+          "resumen": "Mientras la Justicia paraguaya avanza con condenas, incautaciones y embargos, en los tribunales argentinos hay un juicio a sus presuntos cómplices frenado hace seis meses. Uno de los pocos datos firmes es que cuando pise la Argentina irá…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Milei, EN VIVO: el Presidente dijo que su relación con Bullrich es \"excelente\", pero evitó hablar de una fórmula conjunta en 2027",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-dijo-relacion-patricia-bullrich-excelente-evito-hablar-formula-conjunta-2027_0_QYepQK40bC.html",
-          "resumen": "El mandatario sostuvo que las diferencias son parte del modelo libertario y dijo que el desafío importante es que un gobierno no peronista logre la reelección.",
+          "titulo": "Juicio por el caso Cuadernos: un empresario contó cómo casi se funde por no pagar las coimas que le exigía el gobierno K para poder cobrar por sus obras",
+          "link": "https://www.clarin.com/politica/juicio-caso-cuadernos-empresario-conto-funde-pagar-coimas-exigia-gobierno-k-poder-cobrar-obras_0_2JP6u2gMsN.html",
+          "resumen": "Fernando Palluchini es dueño de una constructora que llegó a padecer retrasos de 200 días para cobrar trabajos ya hechos. Le hicieron saber que “la forma de cobrarlos es que te pongas con lo que hay que poner, y así se destraba”.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Malena Galmarini, sobre el viaje al Caribe con Massa en jet privado: “Tenemos un amigo que tiene la enorme suerte de tener un avión”",
-          "link": "https://www.lanacion.com.ar/politica/malena-galmarini-sobre-el-viaje-al-caribe-con-massa-en-jet-privado-tenemos-un-amigo-que-tiene-la-nid28092026/",
-          "resumen": "La pareja viajó a Barbados para celebrar sus 30 años de matrimonio invitada por el empresario Francisco De Narváez; la senadora provincial se justificó diciendo que con su marido no salen a comer afuera ni van al teatro",
+          "titulo": "Qué se sabe de la muerte del senador nacional Juan Carlos Pagotto",
+          "link": "https://www.lanacion.com.ar/politica/que-se-sabe-de-la-muerte-del-senador-nacional-juan-carlos-pagotto-nid29092026/",
+          "resumen": "El legislador de La Libertad Avanza tenía 74 años y fue hallado sin vida en su domicilio de La Rioja; hasta el momento no se informaron oficialmente las causas del fallecimiento",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Uno de los índices de imagen del Gobierno más observados por el mercado tuvo una caída este mes: cuáles fueron los motivos",
-          "link": "https://www.clarin.com/economia/indices-imagen-gobierno-observados-mercado-caida-mes-motivos_0_lOueg3mwjK.html",
-          "resumen": "El Índice de Confianza del Gobierno (ICG) de la UTDT bajó casi 6% este mes. Acumula un retroceso de 21,4% desde diciembre. De todas formas, aún tiene una cifra mejor que los últimos presidentes a esta altura del mandato.",
+          "titulo": "El riesgo país se toma un respiro después de 12 días de subas: baja y se acerca a los 600 puntos",
+          "link": "https://www.clarin.com/economia/riesgo-pais-toma-respiro-despues-12-dias-subas-baja-acerca-600-puntos_0_K2fouVK3eb.html",
+          "resumen": "El indicador cae casi 4% en el día. Se recuperan los bonos y las acciones.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Esperan recaudar más de US$800 millones: el Gobierno desarma el esquema de De Vido y pone a la venta tres joyas del Estado",
-          "link": "https://www.lanacion.com.ar/economia/esperan-recaudar-mas-de-us800-millones-el-gobierno-desarma-el-esquema-de-de-vido-y-privatiza-tres-nid28092026/",
-          "resumen": "Un decreto autoriza a vender las acciones de Enarsa en las térmicas Belgrano y San Martín, y abre la puerta a la Guillermo Brown; los accionistas privados tienen derecho a igualar cualquier oferta",
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 29 de septiembre, minuto a minuto",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid29092026/",
+          "resumen": "La divisa oficial opera a $1545 para la venta en el Banco Nación; el dólar blue cotiza a $1565 para esa operación; qué pasó con el MEP y el CCL",
           "fuente": "La Nación"
         },
         {
-          "titulo": "En agosto, los argentinos compraron más dólares que los que generaron cuatro sectores clave de la economía",
-          "link": "https://www.ambito.com/economia/en-agosto-los-argentinos-compraron-mas-dolares-que-los-que-generaron-cuatro-sectores-clave-la-n6327516",
-          "resumen": "Pese al superávit reportado por el BCRA, la demanda minorista de divisas volvió a absorber la mayor parte de los dólares generados por la economía real, evidenciando la persistencia de la cobertura en moneda extranjera. Los detalles, en…",
+          "titulo": "China acelera medidas para impulsar la economía: créditos baratos y un histórico plan de subsidios hipotecarios",
+          "link": "https://www.ambito.com/economia/china-acelera-medidas-impulsar-la-creditos-baratos-y-un-historico-plan-subsidios-hipotecarios-n6327965",
+          "resumen": "Tras desacelerar su crecimiento al 4,3%, el régimen despliega rebajas de tasas selectivas para la industria y el agro, junto con una ayuda inédita a la compra de primera vivienda para contener la crisis inmobiliaria. Los detalles, en la…",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Antes del viaje de Milei a París, los bonos vuelven a caer y el riesgo país supera los 640 puntos",
-          "link": "https://www.clarin.com/economia/viaje-milei-paris-bonos-vuelven-caer-riesgo-pais-acerca-630-puntos_0_58TsLn6psE.html",
-          "resumen": "El indicador de la banca JP Morgan trepa más de 5% en el inicio de la rueda de la mano de un nuevo arranque negativo para los bonos en dólares. Las acciones argentinas en Wall Street caen más de 6% en un día rojo para los mercados…",
+          "titulo": "Luis Caputo: \"Kicillof es el anticristo y el kirchnerismo es el infierno, así está visto\"",
+          "link": "https://www.clarin.com/economia/luis-caputo-kicillof-anticristo-kirchnerismo-infierno-visto_0_t8mAjylcj2.html",
+          "resumen": "El ministro de Economía habló sobre la percepción de los mercados de que pueda haber un cambio de gobierno en 2027. Dijo que en el año electoral no habrá volatilidad con el dólar y que son \"momias miserables\" los que piden devaluación.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La deuda argentina, bajo presión: el riesgo país trepó a 642 puntos y alcanza el valor más alto en 10 meses",
-          "link": "https://www.lanacion.com.ar/economia/dolar/la-deuda-argentina-bajo-presion-el-riesgo-pais-trepo-a-642-puntos-y-alcanza-el-valor-mas-alto-en-10-nid28092026/",
-          "resumen": "Las acciones caen hasta 6% en Nueva York y el dólar oficial alcanzó un récord a $1550",
+          "titulo": "Donald Trump reúne a los gigantes de la IA en la Casa Blanca mientras crecen las alertas",
+          "link": "https://www.lanacion.com.ar/tecnologia/donald-trump-reune-a-los-gigantes-de-la-ia-en-la-casa-blanca-mientras-crecen-las-alertas-nid29092026/",
+          "resumen": "La reunión se celebra mientras aumentan los casos de modelos por fuera de control y en medio de la competencia tecnológica entre Washington y Pekín",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Acampe \"indesalojable\" en la Puerta del Sol: a contrarreloj, Pedro Sánchez busca apoyos para aprobar un decreto que descomprima la crisis de los inquilinos",
-          "link": "https://www.clarin.com/mundo/acampe-indesalojable-puerta-sol-contrarreloj-pedro-sanchez-busca-apoyos-aprobar-decreto-descomprima-crisis-inquilinos_0_0L79qB0qfn.html",
-          "resumen": "Unas 600 personas duermen en 350 carpas desde el sábado para reclamarle al gobierno que su Consejo de Ministros apruebe el martes un decreto que termine con los desalojos. Ya complicado en diversos frentes, la presión de la calle deja…",
+          "titulo": "Lula vs. Bolsonaro: un país dividido en \"tres Brasiles\" y una puja voto a voto por los indecisos",
+          "link": "https://www.clarin.com/mundo/lula-vs-bolsonaro-pais-dividido-brasiles-puja-voto-voto-indecisos_0_sV6xPCLGwr.html",
+          "resumen": "Ambos se reparten un tercio, cada uno, del universo electoral y queda como factor dominante otra gran fracción similar de independientes. El escenario es difuso. Dos encuestas dieron el lunes un avance ligero de Lula, pero otra este…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Ciudadanos británicos, explosivos y la sombra de Irán: los nuevos detalles del presunto complot contra la base utilizada por EE.UU.",
-          "link": "https://www.lanacion.com.ar/el-mundo/ciudadanos-britanicos-explosivos-y-la-sombra-de-iran-los-nuevos-detalles-del-presunto-complot-contra-nid28092026/",
-          "resumen": "Los cinco detenidos tienen entre 23 y 25 años y viven en Londres; la policía investiga qué planeaban y si tenían vínculos con un Estado extranjero",
+          "titulo": "Un bar lésbico, una regla sobre los barbijos y una insólita disputa que llegó hasta el Congreso de EE.UU.",
+          "link": "https://www.lanacion.com.ar/estados-unidos/un-bar-lesbico-una-regla-sobre-los-barbijos-y-una-insolita-disputa-que-llego-hasta-el-congreso-de-nid29092026/",
+          "resumen": "El Last Ditch dejó de exigir mascarillas los sábados para intentar sobrevivir financieramente y terminó en el centro de una discusión nacional sobre inclusión, salud pública y las divisiones de la izquierda estadounidense",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Elecciones en Brasil: dos encuestas le dan ligera ventaja a Lula por el cierre del juego en línea y otras medidas, pero mantienen el empate con Bolsonaro",
-          "link": "https://www.clarin.com/mundo/elecciones-brasil-encuestas-dan-ligera-ventaja-lula-cierre-juego-linea-medidas-mantienen-empate-bolsonaro_0_Mda9or7sN4.html",
-          "resumen": "Con la prohibición de las apuestas, mejoras en el plan Bolsa Familia y otras iniciativas de fuerte apoyo popular como el doble franco semanal, logró un avance en los sondeos. Pero los números difundidos este lunes, si bien muestran esos…",
+          "titulo": "Ladrones de poca monta, complot extranjero y misterio: ¿Qué hay detrás del atentado frustrado a una base militar británica?",
+          "link": "https://www.clarin.com/mundo/ladrones-poca-monta-complot-extranjero-misterio-detras-atentado-frustrado-base-militar-britanica_0_rzMjy5XcJj.html",
+          "resumen": "Cuando la investigación entra en su tercer día, hay más preguntas que respuestas. La policía antiterrorista liberó bajo fianza a los cinco británicos detenidos cerca de la base de RAF Fairford al constatar que no llevaban explosivos. La…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Starship, el megacohete de Elon Musk, alcanza por primera vez la órbita y abre una nueva etapa espacial",
-          "link": "https://www.lanacion.com.ar/estados-unidos/starship-el-megacohete-de-elon-musk-alcanza-por-primera-vez-la-orbita-y-abre-una-nueva-etapa-nid28092026/",
-          "resumen": "La nave alcanzó la órbita terrestre después de 13 intentos fallidos, pero se vio truncada por un problema en un motor",
+          "titulo": "Elecciones Brasil 2026, EN VIVO: encuestas, final de las campañas y el minuto a minuto",
+          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-en-vivo-encuestas-final-de-las-campanas-y-el-minuto-a-minuto-nid29092026/",
+          "resumen": "Los últimos sondeos de intención de voto marcan un panorama reñido entre Flavio Bolsonaro e Luiz Inácio “Lula” da Silva; los comicios tendrán lugar el domingo 4 de octubre",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Operativo militar en Colombia: matan a un líder de las disidencias de las FARC acusado de financiar el magnicidio del senador Miguel Uribe",
-          "link": "https://www.clarin.com/mundo/operativo-militar-colombia-matan-lider-disidencias-farc-acusado-financiar-magnicidio-senador-miguel-uribe_0_1t0aghPv7J.html",
-          "resumen": "'Robinson Gutiérrez' fue \"dado de baja\" en el departamento de Huila, según anunció el presidente Abelardo de la Espriella. \"Vamos por el jefe de la banda: 'Iván Márquez'\", advirtió.",
+          "titulo": "Quién es Christa Pike, la primera mujer que será ejecutada en Tennessee en más de 200 años: qué crimen cometió y por qué hoy recibiría otra pena",
+          "link": "https://www.clarin.com/mundo/christa-pike-primera-mujer-ejecutada-tennessee-200-anos-crimen-cometio-hoy-recibiria-pena_0_BE8D7PHH8p.html",
+          "resumen": "En 1995, con 18 años, torturó y asesinó a Collen Slemmer durante un campamento de formación laboral. Su novio participó del crimen, pero evitó la pena de muerte porque aún era menor de edad. Los atenuantes que la Justicia no tuvo en…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "AFA publicó los audios del VAR y Baliño se defendió de las polémicas en Rosario Central - Estudiantes: \"Mi función no es convencer al árbitro\"",
-          "link": "https://www.clarin.com/deportes/afa-publico-audios-var-balino-defendio-polemicas-rosario-central-estudiantes-funcion-convencer-arbitro_0_rAgfUUNjys.html",
-          "resumen": "El juez que estuvo a cargo del video soporte detalló cada jugada discutida de la Supercopa Internacional, que ganó el Canalla en Santiago del Estero. Y aclaró cómo fue el procedimiento con el neuquino Darío Herrera, principal del partido.…",
+          "titulo": "La particular manera que eligió Fernando Alonso para anunciar su futuro con Aston Martin y la Fórmula 1 en 2027: \"Me voy a retirar... pero todavía no\"",
+          "link": "https://www.clarin.com/deportes/particular-manera-eligio-fernando-alonso-anunciar-futuro-aston-martin-formula-1-2027-voy-retirar-todavia_0_GT7H8SnMBP.html",
+          "resumen": "El piloto asturiano de 45 años acordó su continuidad en la escudería británica para disputar la temporada 2027 junto a Lance Stroll. Con la ratificación de ambos puestos, únicamente restan definir cuatro asientos en la grilla de la máxima…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El gesto de Scottie Scheffler con Nicolás Echavarría en la Presidents Cup que generó admiración",
-          "link": "https://www.lanacion.com.ar/deportes/golf/el-gesto-de-scottie-scheffler-con-nicolas-echavarria-en-la-presidents-cup-que-nid28092026/",
-          "resumen": "El texano derrotó al colombiano por 2 y 1 en Medinah, pero la escena que quedó grabada fue otra: defendió a su rival de una interrupción del público",
+          "titulo": "Por dónde pasan España vs. Croacia y qué canal lo transmite en vivo",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-espana-vs-croacia-y-que-canal-lo-transmite-en-vivo-nid29092026/",
+          "resumen": "El encuentro correspondiente a la fecha 2 del Grupo 3 se disputa este miércoles a las 15.45 (horario argentino) en el estadio Ramón Sánchez-Pizjuán",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Gustavo Alfaro anunció que se retirará como entrenador en Paraguay",
-          "link": "https://www.ole.com.ar/futbol-internacional/america/gustavo-alfaro-paraguay-retiro-contrato_0_3lfmfEz7qi.html",
-          "resumen": "El técnico argentino, que tiene contrato con la Albirroja hasta 2030, confirmó que no aceptará más ofertas de trabajo una vez que finalice su actual vínculo.",
+          "titulo": "¿Pista o casualidad? El curioso video del Balón de Oro sobre Messi tras el cierre de las votaciones",
+          "link": "https://www.ole.com.ar/futbol-internacional/pista-casualidad-curioso-video-balon-de-oro-sobre-messi-tras-cierre-votaciones_0_GwpoStt0Zu.html",
+          "resumen": "La cuenta oficial del premio publicó un compilado con tres goles del argentino en Inter Miami justo después de que los 100 periodistas seleccionados enviaran sus votos.",
           "fuente": "Olé"
         },
         {
-          "titulo": "La AFA confirmó los horarios para los tres amistosos de la Selección, incluida la despedida de Lionel Messi",
-          "link": "https://www.clarin.com/deportes/afa-confirmo-horarios-amistosos-seleccion-incluida-despedida-lionel-messi_0_o5FcOLOxaX.html",
-          "resumen": "Son los partidos contra Bolivia, el miércoles que viene en Córdoba, Burkina Faso y Benín, estos dos últimos en el Monumental. Las entradas están agotadas, salvo para el segundo encuentro.",
+          "titulo": "Brasil se lo dio vuelta a Australia y volvió a ganar tras la eliminación ante Noruega en el Mundial",
+          "link": "https://www.clarin.com/deportes/brasil-dio-vuelta-australia-volvio-ganar-eliminacion-noruega-mundial_0_9u9uB9JF3P.html",
+          "resumen": "Fue 4-2 en Brisbane. Vanderson, Raphinha -p-, Bruno Guimaraes y Vinicius -p- marcaron los goles. Este sábado el equipo de Ancelotti jugará ante India.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Boca no tiene fecha para la semi de Copa Argentina y la AFA busca variantes: cuándo se juega",
-          "link": "https://www.ole.com.ar/boca-juniors/juega-boca-semifinal-copa-argentina-banfield_0_CmdYP7Iugr.html",
-          "resumen": "La clasificación ante Racing agregó un compromiso decisivo a una agenda exigente. Entre el torneo y la Sudamericana, encontrarle lugar al cruce vs. Banfield será un desafío.",
+          "titulo": "Felipe Contepomi en el Summit: De las charlas con Scaloni al \"si sos siete veces el mejor equipo del día, podés ser campeón del Mundial\"",
+          "link": "https://www.ole.com.ar/ole-sports-summit-congreso/felipecontepomi-scaloni-mundial_0_RMGiv5FeQS.html",
+          "resumen": "El entrenador de Los Pumas analizó las posibilidades de Argentina de cara a la próxima Copa del Mundo 2027, y reveló qué aprendió con el líder de la Scaloneta en los encuentros que mantuvieron: \"Era más rígido en algunos conceptos y hay…",
           "fuente": "Olé"
         }
       ]
