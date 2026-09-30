@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "29 de septiembre de 2026",
-    "generada": "16:10",
+    "fecha": "30 de septiembre de 2026",
+    "generada": "16:08",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Qué se sabe del Corredor Andes-Atlántico, el ambicioso proyecto con el que EE.UU. busca acceder a recursos estratégicos de Argentina (y competir con China)",
-            "link": "https://www.bbc.com/mundo/articles/c6n9wrpdje2ro?at_medium=RSS&at_campaign=rss",
-            "resumen": "De acuerdo con analistas, el proyecto muestra el interés de Washington en tener mayor presencia en países de América Latina y reducir el espacio de China en la región.",
+            "titulo": "EE.UU. se retira completamente de Irak tras 20 años de presencia militar: cómo deja el país y qué ocurrirá ahora",
+            "link": "https://www.bbc.com/mundo/articles/cmjw5j22nnz3o?at_medium=RSS&at_campaign=rss",
+            "resumen": "EE.UU. tiene previsto retirar las tropas que aún mantiene en Irak este 30 de septiembre, poniendo fin a una presencia militar que comenzó con la invasión en 2003 que derrocó a Saddam Hussein.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Bruselas advierte de “lagunas en la defensa” de la UE y pide más esfuerzo en el rearme frente Rusia",
-            "link": "https://elpais.com/internacional/2026-09-28/bruselas-advierte-de-una-brecha-en-la-defensa-de-la-ue-y-pide-mas-esfuerzo-en-el-rearme-frente-rusia.html",
-            "resumen": "El mecanismo de acción que propone Von der Leyen frente a los ataques híbridos del Kremlin suscita el recelo de los Estados miembros",
+            "titulo": "Andy Burnham no descarta estudiar un futuro reingreso del Reino Unido en la UE",
+            "link": "https://elpais.com/internacional/2026-09-30/andy-burnham-no-descarta-estudiar-un-futuro-reingreso-del-reino-unido-en-la-ue.html",
+            "resumen": "“Tenemos que decidir cuál va a ser nuestra relación a largo plazo con el que sigue siendo nuestro principal mercado”, afirma el primer ministro británico durante el congreso anual laborista en Liverpool",
             "fuente": "El País"
           },
           {
-            "titulo": "Chile: las lluvias convierten el desierto de Atacama en un mar de flores",
-            "link": "https://www.france24.com/es/video/20260929-chile-las-lluvias-convierten-el-desierto-de-atacama-en-un-mar-de-flores",
-            "resumen": "El desierto de Atacama ha experimentado intensas precipitaciones en las últimas semanas. La causa: el fenómeno meteorológico de El Niño, cuyos efectos han transformado esta tierra, formando uno de los episodios del desierto florido más…",
+            "titulo": "Netanyahu ordena preparativos ante cualquier \"amenaza potencial\" tras incidente en vuelo con destino Tel Aviv",
+            "link": "https://www.france24.com/es/medio-oriente/20260930-pelea-de-pilotos-en-el-aire-y-aterrizaje-de-emergencia-lo-que-sabemos-del-vuelo-dub%C3%A1i-tel-aviv-que-fue-desviado",
+            "resumen": "",
             "fuente": "France 24"
           },
           {
-            "titulo": "\"Temo por mi vida si me devuelven\": las audiencias masivas en Miami que aceleran las deportaciones sin dar tiempo a los migrantes para defender sus casos",
-            "link": "https://www.bbc.com/mundo/articles/c60m37kxz1xlo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Las “mega audiencias” migratorias ponen bajo presión a los solicitantes de asilo mientras aumentan las órdenes de deportación y las expulsiones en Estados Unidos.",
+            "titulo": "Netanyahu afirma que un piloto apuñaló a otro durante un vuelo con destino a Israel y \"aparentemente intentó estrellar el avión\"",
+            "link": "https://www.bbc.com/mundo/articles/cvkgw565d2g4o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Pese a una breve alerta de emergencia que indicaba un posible secuestro, la oficina del primer ministro israelí dijo posteriormente que esa hipótesis había sido descartada.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "El monte Athos, el feudo de monjes de Europa que prohíbe la entrada de mujeres",
-            "link": "https://elpais.com/internacional/europa/informada/2026-09-29/el-monte-athos-el-feudo-de-monjes-de-europa-que-prohibe-la-entrada-de-mujeres.html",
-            "resumen": "Este enclave griego, considerado por los cristianos ortodoxos el jardín de la Virgen María, alberga una veintena de monasterios y mantiene un régimen jurídico especial que da paso solo a hombres",
+            "titulo": "Tres soldados israelíes sobre Gaza: “Llegó un momento en que ya no parecía tan grave matar a decenas de personas”",
+            "link": "https://elpais.com/internacional/2026-09-29/tres-soldados-israelies-sobre-gaza-llego-un-momento-en-que-ya-no-parecia-tan-grave-matar-a-decenas-de-personas.html",
+            "resumen": "Los militares refuerzan los testimonios del documental ‘NAZA’ sobre los daños colaterales de la guerra. Decidieron hablar tras las críticas al filme en su país",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "El Gobierno renueva el escudo anticrisis reforzado con el tope al gas con la vista puesta en la calefacción del otoño",
-            "link": "https://elpais.com/economia/2026-09-29/el-gobierno-renueva-el-escudo-anticrisis-reforzado-con-el-tope-al-gas-con-la-vista-puesta-en-la-calefaccion-del-otono.html",
-            "resumen": "El Ejecutivo recupera la bajada del IVA a la electricidad al 10% que ya había aprobado en marzo pero que revocó durante el verano",
+            "titulo": "El Gobierno prohíbe a los fondos buitre comprar viviendas por debajo del 70% de su valor",
+            "link": "https://elpais.com/economia/vivienda/2026-09-30/el-gobierno-prohibe-a-los-fondos-buitre-comprar-viviendas-por-debajo-del-70-de-su-valor-de-mercado.html",
+            "resumen": "El decreto que publica el BOE excluye de la limitación las operaciones destinadas a vivienda social y colectivos vulnerables",
             "fuente": "El País"
           },
           {
-            "titulo": "Tope al gas y al butano para contener los precios que desafía a Bruselas",
-            "link": "https://www.expansion.com/empresas/energia/2026/09/29/6abb84cd468aeb637f8b459f.html",
-            "resumen": "Leer",
+            "titulo": "Las principales medidas del nuevo decreto de vivienda, explicadas una a una",
+            "link": "https://www.expansion.com/inmobiliario/mercado/2026/09/30/6abcd273468aebae5a8b45a4.html",
+            "resumen": "El Boletín Oficial del Estado ha publicado este miércoles el Real Decreto Ley sobre la Vivienda. En las 96 páginas del texto se recogen los detalles y las cifras concretas de las medidas aprobadas ayer por el Gobierno. A continuación, un…",
             "fuente": "Expansión"
           },
           {
-            "titulo": "El Gobierno vuelve a incumplir el plazo para presentar los Presupuestos a la espera de la negociación política",
-            "link": "https://elpais.com/economia/2026-09-29/el-gobierno-vuelve-a-incumplir-el-plazo-para-presentar-los-presupuestos-a-la-espera-de-la-negociacion-politica.html",
-            "resumen": "El Constitucional estudia por primera vez el incumplimiento del deber del Ejecutivo de registrar anualmente las cuentas en el Congreso",
+            "titulo": "El casero tendrá que indemnizar con 12 mensualidades al inquilino si decide no renovar el alquiler",
+            "link": "https://elpais.com/economia/vivienda/2026-09-30/el-casero-tendra-que-indemnizar-con-12-mensualidades-al-inquilino-si-decide-no-renovar-el-alquiler.html",
+            "resumen": "El Ejecutivo retrasa un día la publicación en el BOE del segundo decreto de vivienda, que incluye la prórroga indefinida de los contratos y tendrá que votarse en el Congreso",
             "fuente": "El País"
           },
           {
-            "titulo": "Las bonificaciones fiscales a los carburantes se prorrogan hasta diciembre",
-            "link": "https://www.expansion.com/economia/2026/09/29/6abb90eb468aeb171b8b457d.html",
-            "resumen": "El nuevo decreto anticrisis del Gobierno mantendrá hasta final de año los descuentos a los carburantes en el Impuesto de Hidrocarburos, que se irán reduciendo de manera gradual: 20 céntimos por litro en octubre, 13 céntimos en noviembre y…",
+            "titulo": "Prórroga de dos años en los alquileres: todas las claves para propietarios e inquilinos",
+            "link": "https://www.expansion.com/economia/2026/09/30/6abcbfa8468aebd20b8b45a4.html",
+            "resumen": "Dentro del decreto que publica hoy el BOE, el Gobierno ha incluido la prórroga de dos años en los alquileres, que los caseros deberán aceptar sin subir el precio de la renta. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Feijóo dice que si gobierna concederá más poder a las mutuas para dar de alta a trabajadores de baja",
-            "link": "https://elpais.com/economia/2026-09-29/feijoo-dice-que-si-gobierna-concedera-mas-poder-a-las-mutuas-para-dar-de-alta-a-trabajadores-de-baja.html",
-            "resumen": "El líder del PP defiende que las mutuas, que ya controlan la reincorporación en las bajas de origen profesional, lo hagan también en las que no han sido ocasionadas por el trabajo en “determinadas patologías”",
+            "titulo": "Los alquileres de temporada deberán justificar su causa o pasarán a considerarse vivienda habitual",
+            "link": "https://elpais.com/economia/vivienda/2026-09-30/los-alquileres-de-temporada-deberan-justificar-su-causa-o-pasaran-a-considerarse-vivienda-habitual.html",
+            "resumen": "El decreto de vivienda cierra una de las principales vías de fraude para esquivar los límites de precios y encadenar sin razón contratos temporales",
             "fuente": "El País"
           }
         ]
@@ -78,9 +78,21 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "Una nueva especie de dinosaurio plumífero sugiere que distintas especies conquistaron el vuelo por separado",
-            "link": "https://elpais.com/ciencia/2026-09-29/una-nueva-especie-de-dinosaurio-plumifero-sugiere-que-distintas-especies-conquistaron-el-vuelo-por-separado.html",
-            "resumen": "El hallazgo del ‘Norellraptor barsboldi’ añade pruebas para reforzar la teoría de que la capacidad de volar surgió de forma independiente en las aves primitivas y otros dinosaurios",
+            "titulo": "El secreto de las alas de las mariposas: cuanto más llamativas, más difícil es cazarlas",
+            "link": "https://elpais.com/ciencia/2026-09-30/el-secreto-de-las-alas-de-las-mariposas-cuanto-mas-llamativas-mas-dificil-es-cazarlas.html",
+            "resumen": "La viveza de sus colores y patrones crea ilusiones ópticas que confunden a sus posibles depredadores y por eso no tienen apenas en comparación con las polillas",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Trump apuesta por que las empresas de IA se autorregulen para evitar el descontrol de la tecnología",
+            "link": "https://elpais.com/us/2026-09-29/trump-apuesta-por-que-las-empresas-de-ia-se-autorregulen-para-evitar-el-descontrol-de-la-tecnologia.html",
+            "resumen": "El presidente de Estados Unidos asegura que nunca frenará el desarrollo de la IA porque quiere ganar la carrera a China",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Una expedición hispano-argentina viajará a los Andes para comprobar si es real un geoglifo localizado por Google Earth",
+            "link": "https://elpais.com/ciencia/2026-09-30/una-expedicion-hispano-argentina-viajara-a-los-andes-para-comprobar-si-es-real-un-geoglifo-localizado-por-google-earth.html",
+            "resumen": "Los investigadores revisarán si se trata de una estructura sagrada del periodo inca",
             "fuente": "El País"
           },
           {
@@ -90,21 +102,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Starship culmina su primer vuelo orbital: Musk amplía su poder con la nave espacial más grande de la historia",
-            "link": "https://elpais.com/ciencia/2026-09-28/lanzamiento-del-cohete-starship-de-elon-musk-la-nave-espacial-mas-grande-de-la-historia.html",
-            "resumen": "Tras tres años y medio de ensayos, el colosal vehículo ha demostrado finalmente tener utilidad práctica, desplegando 26 satélites de la red Starlink para dar internet a móviles desde el espacio",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Si me disparas misiles, te corto el agua: los ciberataques atribuidos a Irán que mostraron que EE UU es vulnerable",
-            "link": "https://elpais.com/tecnologia/2026-09-29/si-me-disparas-misiles-te-corto-el-agua-los-ciberataques-atribuidos-a-iran-que-mostraron-que-ee-uu-es-vulnerable.html",
-            "resumen": "Los sabotajes que afectaron en verano a infraestructuras hídricas de 12 Estados apuntan a ‘hackers’ iraníes, muy activos desde el inicio de la guerra",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Una farmacéutica de Mataró logra que la UE apruebe una terapia única contra una enfermedad infantil mortal",
-            "link": "https://elpais.com/sociedad/2026-09-28/una-farmaceutica-de-mataro-logra-que-la-ue-apruebe-una-terapia-unica-contra-una-enfermedad-infantil-mortal.html",
-            "resumen": "Las investigaciones que han llevado a la empresa Minoryx a desarrollar el nuevo fármaco contra la adrenoleucodistrofia cerebral empezaron en un hospital público hace 20 años",
+            "titulo": "Una nueva especie de dinosaurio plumífero sugiere que distintas especies conquistaron el vuelo por separado",
+            "link": "https://elpais.com/ciencia/2026-09-29/una-nueva-especie-de-dinosaurio-plumifero-sugiere-que-distintas-especies-conquistaron-el-vuelo-por-separado.html",
+            "resumen": "El hallazgo del ‘Norellraptor barsboldi’ añade pruebas para reforzar la teoría de que la capacidad de volar surgió de forma independiente en las aves primitivas y otros dinosaurios",
             "fuente": "El País"
           }
         ]
@@ -113,33 +113,33 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "Dabiz Muñoz, chef, desvela el secreto de la puntilla crujiente: \"Freír un huevo se puede hacer muy bien o muy mal\"",
-            "link": "https://www.marca.com/tiramillas/gastronomia/2026/09/25/dabiz-munoz-chef-sobre-secreto-puntilla-crujiente-freir-huevo-bien-mal.html",
-            "resumen": "Fuego vivo y mucho aceite: así fríe los huevos el mejor chef del mundo",
+            "titulo": "El Barça busca su séptima corona mundial ante el Veszprem",
+            "link": "https://www.marca.com/balonmano/2026/09/30/barca-busca-septima-corona-mundial-veszprem.html",
+            "resumen": "El exazulgrana Emil Nielsen es duda en la portería del club húngaro",
             "fuente": "Marca"
           },
           {
-            "titulo": "¡Alarma Raphinha! Sustituido con Brasil por unas molestias",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232537/alarma-raphinha-sustituido-brasil-molestias.html",
-            "resumen": "Inquietantes noticias para el Barça. Raphinha ha tenido que ser sustituido en el descanso del segundo amistoso que Brasil ha disputado ante Australia en este parón internacional y que ha terminado en triunfo (2-4). El delantero del Barça,…",
+            "titulo": "Este es el nuevo sueldo millonario de Alonso en Aston Martin: el mejor contrato de su carrera",
+            "link": "https://www.mundodeportivo.com/motor/f1/20260930/1004232977/nuevo-sueldo-millonario-fernando-alonso-mejor-contrato-carrera.html",
+            "resumen": "Fernando Alonso y Aston Martin anunciaron este martes que el piloto asturiano seguirá en la F1 con el equipo de Silverstone en 2027, aunque el ovetense dejó claro que podría seguir más allá de ese año suscrito al volante del coche verde.",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Septiembre, el mes en el que más parejas rompen: el mes donde el amor llega a su fin",
-            "link": "https://www.marca.com/bienestar/psicologia-sexo/2026/09/25/septiembre-mes-parejas-rompen-ocurre-durante-verano-amor-llegue.html",
-            "resumen": "Más tiempo juntos, conflictos con la familia política, problemas de intimidad o infidelidades pueden hacer aflorar durante las vacaciones problemas que permanecían ocultos el resto del año",
+            "titulo": "El Gobierno británico carga contra el City: \"Pueden ser expulsados de la Premier League\"",
+            "link": "https://www.marca.com/futbol/premier-league/2026/09/30/gobierno-britanico-carga-manchester-city-expulsados-premier-league.html",
+            "resumen": "La ministra de deportes, Lisa Nandy, calificó el asunto como \"muy serio\"",
             "fuente": "Marca"
           },
           {
-            "titulo": "2-4: Brasil remonta con goles de Raphinha, que se retira con molestias, y Vinicius",
-            "link": "https://www.mundodeportivo.com/futbol/america/20260929/1004232536/brasil-australia.html",
-            "resumen": "La Brasil de Carlo Ancelotti remontó este martes contra Australia en un amistoso disputado en Brisbane (2-4). El pasado viernes ya se habían enfrentado ambas selecciones y el encuentro acabó 1-1. La peor noticia fue para el Barcelona , ya…",
+            "titulo": "Las 6 opciones de Flick por si Raphinha no se recupera",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260930/1004232909/opciones-flick-raphinha-no-recupera.html",
+            "resumen": "Raphinha tiene un edema en el muslo derecho y, por precaución, el delantero del Barça ha abandonado la concentración de Brasil , en Brisbane antes de partir a Calcuta para otro amistoso ante la India , y está regresando a la Ciudad Condal…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Chema Andrés: \"Me halaga que me comparen con Rodri, pero yo quiero ser Chema Andrés\"",
-            "link": "https://www.marca.com/futbol/seleccion/2026/09/25/chema-andres-me-halaga-me-comparen-rodri-quiero-chema-andres.html",
-            "resumen": "El centrocampista del Brighton, concentrado con la Sub 21, repasa en MARCA su salto a la Premier, la comparación con Rodri y las necesidades del Real Madrid en su parcela",
+            "titulo": "Máximo Quiles será campeón de Moto3 en Japón si...",
+            "link": "https://www.marca.com/motor/motogp/gp-japon/2026/09/30/maximo-quiles-sera-campeon-moto3-japon.html",
+            "resumen": "Las combinaciones para que Máximo Quiles ate el título ya en Motegi",
             "fuente": "Marca"
           }
         ]
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "September 29, 2026",
-    "generada": "16:10",
+    "fecha": "September 30, 2026",
+    "generada": "16:08",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Spain announces ban on evictions after protests over 87-year-old woman's eviction",
-            "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
-            "resumen": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
+            "titulo": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+            "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+            "resumen": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
             "fuente": "BBC"
           },
           {
-            "titulo": "DRC politician beaten to death after radio appearance about Ebola outbreak",
-            "link": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
-            "resumen": "Marie-Celestin Karondwa was attacked on Sunday after promoting measures to prevent spread of disease, his party says A senior member of the Democratic Republic of the Congo’s ruling party was beaten to death on Sunday after appearing on a…",
+            "titulo": "Trump administration diverts human rights funds to push far-right agenda",
+            "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+            "resumen": "Support for white Afrikaners, anti-communism and others reveals how US redefining what qualifies as human rights With hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Bomb by Bomb, the Slow Death of My Hometown in Ukraine",
-            "link": "https://www.nytimes.com/2026/09/29/world/europe/ukraine-kramatorsk.html",
-            "resumen": "It was possible, for a time, to think that Kramatorsk, where I was born and raised, would survive the war mostly unscathed. Not any more.",
+            "titulo": "After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future",
+            "link": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html",
+            "resumen": "Some Iraqis are celebrating the end of an American military presence that unleashed waves of bloodshed. Others fear what happens next for their country, trapped between Washington and Tehran.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail",
-            "link": "https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The US journalist says he realised he was a \"a pawn in a greater game\" when he was not interrogated or tortured by FSB agents.",
+            "titulo": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+            "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+            "resumen": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
             "fuente": "BBC"
           },
           {
-            "titulo": "At least 27 dead after two mass shootings in South Africa, police say",
-            "link": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
-            "resumen": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town Two separate mass shootings near South Africa’s two biggest cities killed at least 27…",
+            "titulo": "South African leader urges men to speak up on gender-based violence after series of killings",
+            "link": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
+            "resumen": "President announces measures amid anger at authorities over recent murders of women South Africa’s president has called on men to take more responsibility for violence against women as he announced measures to tackle the problem, amid…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Warning more homes will be uninsurable due to flood risk",
-            "link": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
+            "titulo": "Household energy bills forecast to see biggest rise in four years",
+            "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
+            "resumen": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "A ‘freaked out’ US food industry is hitting back at Maha – with social media influencers",
+            "link": "https://www.theguardian.com/business/2026/sep/30/us-food-industry-maga-social-media-influencers",
+            "resumen": "Cross-partisan support in Washington on issues like pesticides and food additives pose a threat to the industry’s bottom line Some of the biggest food and agriculture corporations in the US are funding a campaign that pays social media…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "E.E.O.C. Sues Harvard for Data on Diversity in Hiring Practices",
+            "link": "https://www.nytimes.com/2026/09/30/business/economy/harvard-eeoc-diversity-hiring.html",
+            "resumen": "The Equal Employment Opportunity Commission filed a lawsuit asking a judge to compel the university to provide information on hiring practices that it said discriminated against white men.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Regulating AI 'not the right place to start' says Bailey",
+            "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
+            "resumen": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
             "fuente": "BBC"
           },
           {
             "titulo": "Anthropic ‘warns of existential AI risks to humanity’ in IPO document",
             "link": "https://www.theguardian.com/technology/2026/sep/29/anthropic-warns-existential-ai-risks-humanity-ipo-document-claude",
             "resumen": "Reported admission to investors of AI’s ‘self-preserving behaviours’ comes as company prepares for a potential $2tn flotation Anthropic is telling investors that advanced AI could pose “catastrophic or existential risks to humanity”,…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "Black Voting Groups Prepare for Disinformation Campaigns in the Midterms",
-            "link": "https://www.nytimes.com/2026/09/29/business/media/black-voters-disinformation-midterm-elections.html",
-            "resumen": "A new “propaganda playbook” aims to demystify common techniques used to target Black Americans, long a powerful voting bloc, with election-related disinformation.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "OpenAI scraps rollout of new model over safety concerns",
-            "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-            "resumen": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "US ban on Canadian imports likely to weaken already fragile relationship",
-            "link": "https://www.theguardian.com/us-news/2026/sep/29/ban-canada-imports",
-            "resumen": "It marks another ratcheting up of Trump’s trade war and affects nearly $1bn in imports of a $880bn trade relationship US- Canada relations, already tense, are likely to deteriorate further after the United States went ahead early on…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,34 +224,34 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Hurricane Polo makes landfall on Mexico's Pacific coast",
-            "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The storm moved ashore on the Baja California peninsula, which is a popular tourist destination.",
+            "titulo": "Watch: Meet 'Backpack', the chunky bear who won Fat Bear Week",
+            "link": "https://www.bbc.co.uk/news/videos/cqkg07lp9dvlo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The brown bear, described by one supporter as having both the \"chonk and the badonk\", will shortly enter hibernation, which can last up to six months.",
             "fuente": "BBC"
           },
           {
-            "titulo": "‘Starship is in orbit’: cheers go up as huge SpaceX rocket circles Earth for first time",
-            "link": "https://www.theguardian.com/science/2026/sep/28/spacex-starship-rocket-orbits-earth-texas",
-            "resumen": "Mission goes ahead despite some fears an initial engine failure after the Texas launch would scupper the attempt SpaceX has sent its enormous Starship rocket into Earth’s orbit for the first time on a milestone flight intended to pave the…",
+            "titulo": "All of a flutter: how butterflies avoid being a predator’s lunch",
+            "link": "https://www.theguardian.com/science/2026/sep/30/how-butterflies-avoid-being-eaten-by-predators-wildlife-insects",
+            "resumen": "Their whirring wings and bright patterns help keep them safe from birds, British study finds Naturalists have long wondered how brightly coloured butterflies manage to evade the attention of birds that make a meal of other insects. New…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Radio Waves Coming From an Alien Planet May Be a Cosmic First",
-            "link": "https://www.nytimes.com/2026/09/29/science/space/exoplanet-magnetic-field.html",
-            "resumen": "Beta Pictoris b appears to have an aurora caused by a powerful magnetic field. If confirmed, it would be the first such field known outside our solar system.",
+            "titulo": "Ukrainian Science Academy, Struck by Drone, Played Key Role in Research",
+            "link": "https://www.nytimes.com/2026/09/29/science/ukraine-science-academy-russia-attack.html",
+            "resumen": "Over 90 percent of Ukraine’s scientific discoveries have been attributed to Ukraine’s National Academy of Sciences, including advancements in astronomy and military technology.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Are household cleaning products damaging our health? – podcast",
-            "link": "https://www.theguardian.com/science/audio/2026/sep/29/science-weekly-cleaning-products-chemicals-podcast",
-            "resumen": "Our use of cleaning products has increased since the pandemic, but do we understand what they could be doing to our health? The journalist Rebecca Seal recently wrote for the Guardian about the potential impacts of the many chemicals we…",
+            "titulo": "Orionid meteor shower to streak across night sky this week",
+            "link": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The Orionid meteor shower peaks in October as Earth passes through debris left behind by Halley’s Comet.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Can a mushroom make music? Devon exhibition explores ‘cultural world’ of fungi",
+            "link": "https://www.theguardian.com/science/2026/sep/30/exeter-devon-exhibition-fungi-mushrooms-living-labyrinths-ramm",
+            "resumen": "Exeter museum to host DJ’s ‘collaboration’ with woodland fungi and artist’s map of her own body’s mycobiome For one of the installations, a musician spent hours in woodland “collaborating” with fungi to create a soundscape inspired by the…",
             "fuente": "The Guardian"
-          },
-          {
-            "titulo": "What If A.D.H.D. Isn’t About Attention at All?",
-            "link": "https://www.nytimes.com/2026/09/29/science/adhd-attention-motivation.html",
-            "resumen": "Evidence suggests that it really affects what psychiatrists like me call sustained engagement — an important difference in understanding how to think about the condition.",
-            "fuente": "N.Y. Times"
           }
         ]
       },
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Man City guilty of all financial breaches, PL confirms",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss",
-            "resumen": "The Premier League confirms that Manchester City has been found guilty of all charges related to breaches of Premier League financial rules between 2009-10 and 2017-18.",
+            "titulo": "Guardiola backing Man City after guilty verdicts",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckrerg4n2v82o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Former Man City boss Pep Guardiola says he will \"always\" be behind the club after they were found guilty of financial charges.",
             "fuente": "BBC"
           },
           {
-            "titulo": "MLB playoff predictions: are the Dodgers heading for an inevitable fall?",
-            "link": "https://www.theguardian.com/sport/2026/sep/29/mlb-playoff-predictions-dodgers-brewers-rays-wildcard",
-            "resumen": "As the postseason starts with the wildcard round, our writers pick the dark horses, likely winners and the high seeds at risk of going out early The Mariners . The only active MLB team to have never appeared in a World Series came within…",
+            "titulo": "‘I am here more than ever’: Guardiola backs Manchester City owners over guilty verdicts",
+            "link": "https://www.theguardian.com/football/2026/sep/30/guardiola-backs-manchester-city-owners-over-guilty-verdicts",
+            "resumen": "‘I am, always have been, always will, be behind my club’ Former City chair Bernstein calls for directors to quit Pep Guardiola has thrown his support behind Manchester City after the club were found guilty of all charges of breaching…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "England's Palmer a 'victim' of 'sick' schedule, says PFA chief",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c68048pynj94o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Cole Palmer is the \"victim\" of a \"sick\" system that is expecting too much of players, according to Professional Footballers' Association chief executive Maheta Molango.",
+            "titulo": "Criminal investigation? Relegation or expulsion? The key Man City questions",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c9y7zr4l6de1o?at_medium=RSS&at_campaign=rss",
+            "resumen": "BBC Sport takes a look at the key questions following the guilty verdicts handed down to Manchester City.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Bears’ 38-year-old backup Case Keenum rolls back the years to ground Eagles",
-            "link": "https://www.theguardian.com/sport/2026/sep/28/case-keenum-bears-eagles-monday-night-football-nfl",
-            "resumen": "Philadelphia Eagles 7–27 Chicago Bears Keenum throws for two TDs and rushes for another Case Keenum passed for two touchdowns in his first start in almost three years, and the Chicago Bears shut down Jalen Hurts and the Philadelphia…",
+            "titulo": "USMNT youth shines again in contentious 4-2 win over Chile",
+            "link": "https://www.theguardian.com/football/2026/sep/29/usmnt-chile-match-report",
+            "resumen": "Sebastian Berhalter scores and assists on winner Two scuffles between teams erupt as match ends Julian Hall, Mathis Albert set records for youngest scorers Riding goals from Sebastian Berhalter, Julian Hall, Chris Richards and 17-year-old…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Man Utd do not deserve Man City titles - Rooney",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmed7q89vp5no?at_medium=RSS&at_campaign=rss",
-            "resumen": "Wayne Rooney says Man Utd do not \"deserve\" to be awarded Premier League titles if rivals Man City are stripped of them.",
+            "titulo": "Ocon to leave Haas putting F1 future in doubt",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/c9e8e5k21ge5o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Esteban Ocon is fighting to save his Formula 1 career after the Haas team announcement that they are splitting with the Frenchman at the end of the year.",
             "fuente": "BBC"
           }
         ]
