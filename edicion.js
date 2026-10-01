@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "30 de septiembre de 2026",
-  "generada": "16:08",
+  "fecha": "1 de octubre de 2026",
+  "generada": "16:45",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Ley de Tierras: el fallo de la Corte tomó por sorpresa al Gobierno, que quiere \"dejar correr\" la sentencia para no aglutinar a la oposición en el Congreso",
-          "link": "https://www.clarin.com/politica/ley-tierras-fallo-corte-tomo-sorpresa-gobierno-quiere-dejar-correr-sentencia-aglutinar-oposicion-congreso_0_iukWuyfdoR.html",
-          "resumen": "En el oficialismo no estaban al tanto de que podía salir una definición de la Corte. Libera la venta de tierras salvo para zonas fronterizas.",
+          "titulo": "El vicepresidente de Donald Trump visitará la Argentina antes de fin de año",
+          "link": "https://www.clarin.com/politica/vicepresidente-donald-trump-visitara-argentina-fin-ano_0_5iJMRgTxOY.html",
+          "resumen": "JD Vance estará en noviembre en el país y se reuniría con el Presidente. También trascendió una visita del número dos del Departamento de Estado.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La oposición busca forzar una sesión especial en contra del DNU de Milei que habilita la venta de tierras a extranjeros",
-          "link": "https://www.lanacion.com.ar/politica/la-oposicion-busca-forzar-una-sesion-especial-en-contra-del-dnu-de-milei-que-habilita-la-venta-de-nid30092026/",
-          "resumen": "Diputados del PJ, Provincias Unidas, la Coalición Cívica y la izquierda evalúan llevar el tema al recinto el 7 o el 14 de octubre; necesitan la mitad más uno de los presentes para declararlo inconstitucional; ya fue rechazado en el…",
+          "titulo": "Diputados: la oposición desafía al Gobierno y convocó a una sesión especial por discapacidad, morosidad y el DNU 70/23",
+          "link": "https://www.lanacion.com.ar/politica/diputados-la-oposicion-desafia-al-gobierno-y-convoco-a-una-sesion-especial-por-discapacidad-nid01102026/",
+          "resumen": "El llamado del peronismo y los bloques críticos coincidirá además con la marcha universitaria en reclamo de mayor financiamiento",
           "fuente": "La Nación"
         },
         {
-          "titulo": "“Soy de Boca, ¿cuál es el delito?”: Mayra Mendoza respondió las críticas y apuntó contra la Corte por el fallo que habilitó la venta de tierras",
-          "link": "https://www.infobae.com/politica/2026/09/30/soy-de-boca-cual-es-el-delito-mayra-mendoza-respondio-a-las-criticas-y-apunto-contra-la-corte-por-el-fallo-que-habilito-la-venta-de-tierras/",
-          "resumen": "La diputada bonaerense había sido cuestionada por izar la bandera argentina con un pantalón deportivo azul y amarillo. Este miércoles, recogió el guante y se refirió al fallo que validó la posibilidad de vender tierras a extranjeros sin…",
+          "titulo": "El fiscal Diego Luciani reivindicó la condena a Cristina Kirchner por la causa Vialidad: “Sufrimos muchísimas amenazas”",
+          "link": "https://www.infobae.com/politica/2026/10/01/el-fiscal-diego-luciani-reivindico-la-condena-a-cristina-kirchner-por-la-causa-vialidad-sufrimos-muchisimas-amenazas/",
+          "resumen": "El funcionario judicial habló ante empresarios en el Coloquio de IDEA y marcó el caso de corrupción como “cosa juzgada”. En tanto, la consejera Jimena De la Torre pidió más control ciudadano respecto de la designación y del rol de los…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Malvinas: Rockhopper ratificó su plan para extraer petróleo en el proyecto Sea Lion y tildó de \"ilegítimas\" las sanciones de Argentina",
-          "link": "https://www.clarin.com/politica/malvinas-rockhopper-ratifico-plan-extraer-petroleo-proyecto-lion-tildo-ilegitimas-sanciones-argentina_0_fjC8xWxQ9N.html",
-          "resumen": "La empresa británica encabeza la iniciativa para extraer petróleo en las islas junto a la israelí Navitas. En un informe semestral, planteó que las disposiciones del Gobierno de Milei son \"carentes de justificación jurídica\".",
+          "titulo": "El fiscal que terminó con Cristina presa, ovacionado en IDEA: \"Fue un antes y un después de la corrupción\"",
+          "link": "https://www.clarin.com/politica/fiscal-termino-cristina-presa-ovacionado-idea-despues-corrupcion_0_xQbq5GFQqq.html",
+          "resumen": "Diego Luciani habló sobre las presiones del poder político, las amenazas y las dificultades de investigar la corrupción. “La Justicia no le cedió la última palabra a la impunidad”, afirmó.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Tras el fallo de la Corte, Elisa Carrió reclamó a Diputados que rechace el DNU de extranjerización de tierras",
-          "link": "https://www.lanacion.com.ar/politica/tras-el-fallo-de-la-corte-elisa-carrio-reclamo-a-diputados-que-rechace-el-dnu-de-extranjerizacion-de-nid30092026/",
-          "resumen": "La fundadora de la Coalición Cívica se refirió al fallo de la Corte Suprema que, en la práctica, revocó los límites a la venta de terrenos nacionales; “Afecta la soberanía e integridad territorial”, consideró",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: habló en París de sus políticas económicas y dijo que “la comparación es demoledora”",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-argentina-va-a-estar-en-el-cuarto-lugar-de-los-paises-que-mas-nid01102026/",
+          "resumen": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de funcionarios",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Los bonos argentinos se recuperan, pero el riesgo país cerrará el mes con una suba de más de 100 puntos",
-          "link": "https://www.clarin.com/economia/bonos-argentinos-recuperan-riesgo-pais-cerrara-mes-suba-100-puntos_0_Vg9Ydf1KrI.html",
-          "resumen": "El indicador del JP Morgan empeoró casi 19% en septiembre y borró toda la mejora que había alcanzado este año. Las acciones argentinas en Wall Street llegaron a desplomarse más de 20%, mientras que la bolsa porteña pierde más de 9% en…",
+          "titulo": "Tras un día de respiro, el riesgo país vuelve a escalar: salta a 635 puntos",
+          "link": "https://www.clarin.com/economia/dia-respiro-riesgo-pais-vuelve-escalar-salta-635-puntos_0_X0KCUtqFO9.html",
+          "resumen": "El indicador del JP Morgan retoma la senda alcista de las últimas semanas. También es otro mal día para las acciones argentinas. Qué puede pasar el resto de octubre.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "“Arriesgué todo para hacerlo”: vendió su auto, dejó su trabajo y apostó por una idea que ahorra gastos en el campo",
-          "link": "https://www.lanacion.com.ar/economia/campo/arriesgue-todo-para-hacerlo-vendio-su-auto-dejo-su-trabajo-y-aposto-por-una-idea-que-ahorra-gastos-nid30092026/",
-          "resumen": "Emanuel Bravi tiene 25 años y junto con su socio, Juan Cruz Bonino, creó una startup que usa drones e inteligencia artificial para detectar malezas; ya mapearon más de 40.000 hectáreas y aseguran que lograron una baja promedio del 75% en…",
+          "titulo": "Bullrich reclamó velocidad en los cambios para tener “economía familiar mucho más amable”",
+          "link": "https://www.lanacion.com.ar/economia/bullrich-pidio-velocidad-para-la-economia-y-puso-reparos-a-la-estrategia-oficial-por-la-ley-de-nid01102026/",
+          "resumen": "En el Coloquio de IDEA, la senadora advirtió sobre una economía a dos velocidades, con la industria, la construcción y el comercio “caídos” frente al crecimiento de otros sectores; dejó abierta la discusión electoral hacia 2027",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El PBI de EEUU crece 2,2% y supera las expectativas del mercado",
-          "link": "https://www.ambito.com/economia/el-pbi-eeuu-crece-22-y-supera-las-expectativas-del-15-del-mercado-n6328426",
-          "resumen": "El gasto del consumidor y la inversión empresarial impulsaron la actividad. La cifra representó un aumento de 0,1 puntos porcentuales frente al dato previo de 2,1%. Los detalles, en la nota.",
+          "titulo": "La inflación se acelera: qué proyectan las consultoras privadas para el IPC de septiembre",
+          "link": "https://www.ambito.com/economia/la-inflacion-se-acelera-que-proyectan-las-consultoras-privadas-el-ipc-septiembre-n6328945",
+          "resumen": "Tras la cifra de 1,7% de agosto, relevamientos privados prevén un leve repunte debido a la aceleración en la canasta básica, indumentaria y servicios. Los detalles, en la nota.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Guiño a Tesla: el Gobierno aumenta el monto para importar autos eléctricos sin aranceles",
-          "link": "https://www.clarin.com/economia/guino-tesla-gobierno-aumenta-monto-importar-autos-electricos-aranceles_0_51pg8VZBzz.html",
-          "resumen": "La marca de Elon Musk está preparando su desembarco en el país. El nuevo tope para 2027 será de US$ 35.000 para autos 100% eléctricos, cuando antes era de US$ 16.000 por unidad.",
+          "titulo": "Juicio por YPF: Burford se presentó ante la Corte Suprema de EE.UU. contra Argentina para revertir el fallo",
+          "link": "https://www.clarin.com/economia/juicio-ypf-burford-presento-corte-suprema-eeuu-argentina-revertir-fallo_0_6ZS83Cc0cG.html",
+          "resumen": "El fondo de inversión, que financia a las sociedades Petersen y Eton Park, decidió ir por la última vía judicial en Estados Unidos. Este mes ya se había presentado ante el CIADI del Banco Mundial por la expropiación de la petrolera.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El Tesoro volvió a vender dólares para frenar el tipo de cambio lejos del techo de la banda",
-          "link": "https://www.lanacion.com.ar/economia/el-tesoro-volvio-a-vender-dolares-para-frenar-el-tipo-de-cambio-lejos-del-techo-de-la-banda-nid30092026/",
-          "resumen": "Fue el último viernes y para que el mayorista no pase los $1525; el máximo del esquema vigente estaba sobre los $1900",
+          "titulo": "El riesgo país escala hasta los 635 puntos y las acciones argentinas caen hasta casi 6% en Wall Street",
+          "link": "https://www.lanacion.com.ar/economia/dolar/el-dolar-oficial-muestra-una-leve-suba-y-vuelve-a-su-valor-mas-alto-del-ano-nid01102026/",
+          "resumen": "El indicador elaborado por JP Morgan escala casi 30 unidades y se ubica cerca de su máximo del año; los distintos tipos de cambio borran las bajas que tuvieron ayer",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Perdió un hijo en el ataque del 7 de octubre y su hija vivió el terror en el avión de Flydubai: “Estaban seguros de que iban a morir”",
-          "link": "https://www.clarin.com/mundo/perdio-hijo-ataque-7-octubre-hija-vivio-terror-avion-flydubai-seguros-iban-morir_0_bpwhmfhdbt.html",
-          "resumen": "Yasmin Abukasis contó lo que vivió su hija en el vuelo que tuvo que aterrizar de emergencia tras el ataque del copiloto al piloto. Su hijo era sargento y conductor de ambulancias cuando fue asesinado por Hamas.",
+          "titulo": "Por qué falla una ejecución como la de Christa Pike: cables mal conectados, venas inaccesibles y agonías que duran horas",
+          "link": "https://www.clarin.com/mundo/cables-mal-conectados-venas-inaccesibles-agonias-duran-horas-fallan-ejecuciones-caso-christa-pike_0_ZRdIQPpqs8.html",
+          "resumen": "La mujer de 50 años, condenada por el crimen de una compañera, sobrevivió anoche a dos inyecciones letales. En los últimos 30 años hubo más de 60 casos fallidos de ejecución de condenados a pena de muerte en los Estados Unidos.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Terror en avión de Flyubai, EN VIVO: apuñalaron a un piloto en un vuelo a Israel y lograron aterrizar de emergencia",
-          "link": "https://www.lanacion.com.ar/el-mundo/terror-en-avion-de-flyubai-en-vivo-apunalaron-a-un-piloto-en-un-vuelo-a-israel-y-lograron-aterrizar-nid30092026/",
-          "resumen": "Aviones de combate se desplegaron luego de que el vuelo que conectaba Dubái y Tel Aviv tuviera un descenso abrupto; un ministro de Israel aseguró que “un terrorista quería estrellar” la aeronave",
-          "fuente": "La Nación"
-        },
-        {
-          "titulo": "Qué se sabe del código de buenas prácticas firmado por Donald Trump y los gigantes de la Inteligencia Artificial",
-          "link": "https://www.clarin.com/mundo/sabe-codigo-buenas-practicas-firmado-donald-trump-gigantes-inteligencia-artificial_0_41Ft2rjhic.html",
-          "resumen": "Los líderes de las grandes empresas tecnológicas se reunieron con el jefe de la Casa Blanca, con el compromiso de \"regular\" el uso de la IA. Algunas claves de un acuerdo que busca hacer frente a los riesgos que plantea la tecnología.",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "Elecciones Brasil 2026, EN VIVO: qué se sabe de los comicios hoy, miércoles 30 de septiembre",
-          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-en-vivo-que-se-sabe-de-los-comicios-hoy-miercoles-30-de-septiembre-nid30092026/",
+          "titulo": "Elecciones Brasil 2026, EN VIVO: Lula vs. Bolsonaro Jr. y las últimas noticias hoy",
+          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-en-vivo-lula-vs-bolsonaro-jr-y-las-ultimas-noticias-hoy-nid01102026/",
           "resumen": "Los últimos sondeos de intención de voto marcan un panorama reñido entre Flavio Bolsonaro e Luiz Inácio “Lula” da Silva; los comicios tendrán lugar el domingo 4 de octubre",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El caso de Christa Pike: frenan la pena de muerte de una mujer en Estados Unidos, una hora antes de su ejecución",
-          "link": "https://www.clarin.com/mundo/caso-christa-pike-frenan-pena-muerte-mujer-estados-unidos-hora-ejecucion_0_czj21QzvYm.html",
-          "resumen": "Es la primera ejecución de una mujer en Tennessee en 200 años. La mujer, de 50 años, fue condenada por asesinato cuando tenía 18.",
+          "titulo": "El petróleo sube fuerte otra vez y ya está de nuevo en US$ 100: el preocupante dato que apunta a China",
+          "link": "https://www.clarin.com/mundo/petroleo-sube-fuerte-vez-nuevo-us-100-preocupante-dato-apunta-china_0_lurEDTeXgO.html",
+          "resumen": "El crudo Brent, que sirve de referencia en Argentina, aumenta el 2,5% este jueves. Mientras que el WTI texano cerró septiembre con una suba en torno al 5%, impulsado por la guerra en Medio Oriente. ¿Qué dice un informe sobre el gigante…",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Qué se sabe de Christa Pike, la reclusa que fue condenada a muerte y sobrevivió a la inyección letal",
+          "link": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-de-christa-pike-la-reclusa-que-fue-condenada-a-muerte-y-sobrevivio-a-la-inyeccion-letal-nid01102026/",
+          "resumen": "La mujer de 50 años recibió dos dosis de pentobarbital durante el procedimiento en Tennessee, según documentos judiciales; fue trasladada a un hospital y el gobernador suspendió las ejecuciones previstas para este año",
+          "fuente": "La Nación"
+        },
+        {
+          "titulo": "Elecciones en Brasil: el desinterés electoral agita el fantasma de una abstención récord este domingo",
+          "link": "https://www.clarin.com/mundo/elecciones-brasil-desinteres-electoral-agita-fantasma-abstencion-record-domingo_0_bUus6x91zH.html",
+          "resumen": "Lo admiten en el gobierno en diálogo con Clarín. Temen que esta cita exhiba los mismos niveles de 21% o más sin precedentes de las elecciones de 2022 Los analistas ligan el desinterés con los problemas de ingresos, especialmente en los…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "De “Julián o Lautaro” a “Julián y Lautaro”: así empieza la nueva era de la Selección, sin Messi, contra Bolivia en Córdoba",
-          "link": "https://www.clarin.com/deportes/julian-lautaro-julian-lautaro-empieza-nueva-seleccion-messi-bolivia-cordoba_0_CDb2S1CmWL.html",
-          "resumen": "Se terminó el tiempo de elegir entre un goleador o el otro: ante la despedida del capitán, compartirán el ataque. Lo que no habrá es un cambio de esquema, porque el DT entiende que en Argentina abundan los mediocampistas de buen pie.",
+          "titulo": "Los deslumbrantes 13 minutos de Leonel Flores en su debut con la Selección: encaró como en Boca y casi se regala un golazo",
+          "link": "https://www.clarin.com/deportes/deslumbrantes-13-minutos-leonel-flores-debut-seleccion-encaro-boca-regala-golazo_0_L8MHdnzNwd.html",
+          "resumen": "La joven promesa del Xeneize tuvo su primera vez con la Scaloneta y deslumbró. Ingresó sobre el final del encuentro y le alcanzó para ilusionar a los hinchas. El jueves por la mañana ya se puso bajo las órdenes del Vasco Arruabarrena.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Scaloni y la selección: cómo avanzan las charlas para renovar su contrato",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/scaloni-y-la-seleccion-como-avanzan-las-charlas-para-renovar-su-contrato-nid30092026/",
-          "resumen": "El técnico y la AFA avanzan en las negociaciones; qué falta para que la renovación quede anunciada",
+          "titulo": "Matías Soulé fue padre por primera vez y se fue de la concentración de la selección para recibir al bebé",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/matias-soule-fue-padre-por-primera-vez-y-se-fue-de-la-concentracion-de-la-seleccion-nid29092026/",
+          "resumen": "El futbolista de Roma acompañó a su esposa en el nacimiento de su hijo Bautista",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Felipe Melo y Oscar Ruggeri en una charla imperdible en el Olé Summit: la pica Argentina - Brasil, la formación de jugadores y más",
-          "link": "https://www.ole.com.ar/ole-sports-summit-congreso/felipe-melo-oscar-ruggeri-ole-summit_0_gA27jzsXIK.html",
-          "resumen": "El brasileño y el Cabezón brindaron una presentación en La Usina del Arte que tuvo de todo: desde la rivalidad hasta reflexiones sobre los problemas de los futbolistas y del fútbol actual.",
+          "titulo": "La frase de Scaloni sobre el Monumental que encendió a los hinchas de River",
+          "link": "https://www.ole.com.ar/river-plate/river-plate-lionel-scaloni-monumental_0_aU3urwQ96g.html",
+          "resumen": "El entrenador de la Selección mencionó al estadio del CARP en conferencia de prensa.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Quién es Jerónimo Higuaín, el “Pipita” del Ascenso que es goleador del Promocional Amateur, trabaja en el negocio familiar y va a la facultad",
-          "link": "https://www.clarin.com/deportes/jeronimo-higuain-pipita-ascenso-goleador-promocional-amateur-trabaja-negocio-familiar-va-facultad_0_EOL6leQbxZ.html",
-          "resumen": "Con 13 tantos convertidos en Deportivo Metalúrgico, el atacante de 21 años se consolida como uno de los máximos anotadores del torneo Promocional Amateur. En paralelo a su carrera deportiva, cursa la carrera de Negocios Digitales y…",
+          "titulo": "Polémica con Mbappé: tras su lesión, no volvió a los entrenamientos del Real Madrid y fue visto en una disco de París",
+          "link": "https://www.clarin.com/deportes/polemica-mbappe-lesion-volvio-entrenamientos-real-madrid-visto-disco-paris_0_WMwrFJznS6.html",
+          "resumen": "El goleador fue desafectado de la selección francesa tras sufrir una lesión en el último partido. A diferencia de sus compañeros lesionados, no está realizando su recuperación en Valdebebas. Fue visto en las últimas horas con su pareja en…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Adiós a Lionel Messi: quién será el nuevo capitán de la selección argentina",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/adios-a-lionel-messi-quien-sera-el-nuevo-capitan-de-la-seleccion-argentina-nid30092026/",
-          "resumen": "Lionel Scaloni confirmó que Cristian “Cuti” Romero llevará la cinta en este proceso que arrancará en Córdoba",
+          "titulo": "Lautaro Martínez, tercer capitán, titular y heredero del “legado”: empezar de nuevo en la era post Messi",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/lautaro-martinez-tercer-capitan-titular-y-heredero-del-legado-empezar-de-nuevo-en-la-era-post-messi-nid01102026/",
+          "resumen": "El bahiense, suplente desde Qatar, quedó a un gol del podio entre los máximos artilleros de la selección",
           "fuente": "La Nación"
         }
       ]
