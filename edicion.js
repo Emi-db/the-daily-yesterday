@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "1 de octubre de 2026",
-  "generada": "16:45",
+  "fecha": "2 de octubre de 2026",
+  "generada": "15:59",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "El vicepresidente de Donald Trump visitará la Argentina antes de fin de año",
-          "link": "https://www.clarin.com/politica/vicepresidente-donald-trump-visitara-argentina-fin-ano_0_5iJMRgTxOY.html",
-          "resumen": "JD Vance estará en noviembre en el país y se reuniría con el Presidente. También trascendió una visita del número dos del Departamento de Estado.",
+          "titulo": "Yategate: se esperan dos definiciones clave para el futuro de la causa judicial contra Insaurralde",
+          "link": "https://www.clarin.com/politica/yategate-esperan-definiciones-clave-futuro-causa-judicial-insaurralde_0_1rS1QQnzHZ.html",
+          "resumen": "La Cámara Federal de La Plata tiene que resolver si valida los videos de los millones de dólares que grabó Jesica Cirio. También si ratifica o revoca el sobreseimiento de Sofia Clerici.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Diputados: la oposición desafía al Gobierno y convocó a una sesión especial por discapacidad, morosidad y el DNU 70/23",
-          "link": "https://www.lanacion.com.ar/politica/diputados-la-oposicion-desafia-al-gobierno-y-convoco-a-una-sesion-especial-por-discapacidad-nid01102026/",
-          "resumen": "El llamado del peronismo y los bloques críticos coincidirá además con la marcha universitaria en reclamo de mayor financiamiento",
+          "titulo": "Quién es Rocío Gómez, la ladera de los Menem que Karina Milei ungió como referente de la juventud de LLA",
+          "link": "https://www.lanacion.com.ar/politica/quien-es-rocio-gomez-la-ladera-de-los-menem-que-karina-milei-ungio-como-referente-de-la-juventud-de-nid02102026/",
+          "resumen": "Oriunda de Lomas de Zamora, la funcionaria de 23 años ganó espacio en el partido del oficialismo y prepara un encuentro del Presidente con jóvenes libertarios; el vínculo distante con la tropa de tuiteros de Caputo",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El fiscal Diego Luciani reivindicó la condena a Cristina Kirchner por la causa Vialidad: “Sufrimos muchísimas amenazas”",
-          "link": "https://www.infobae.com/politica/2026/10/01/el-fiscal-diego-luciani-reivindico-la-condena-a-cristina-kirchner-por-la-causa-vialidad-sufrimos-muchisimas-amenazas/",
-          "resumen": "El funcionario judicial habló ante empresarios en el Coloquio de IDEA y marcó el caso de corrupción como “cosa juzgada”. En tanto, la consejera Jimena De la Torre pidió más control ciudadano respecto de la designación y del rol de los…",
+          "titulo": "“La magia de París”: con promesas y concesiones, el Gobierno asume que consiguió los votos para eliminar las PASO",
+          "link": "https://www.infobae.com/politica/2026/10/02/la-magia-de-paris-con-promesas-y-concesiones-el-gobierno-asume-que-consiguio-los-votos-para-eliminar-las-paso/",
+          "resumen": "Karina Milei cedió y les prometió a los gobernadores que no les plantarán candidatos en sus distritos a cambio de que respalden la reforma política. Y Luis Caputo y el Presidente los escucharon. Sin embargo, no hubo definiciones de parte…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "El fiscal que terminó con Cristina presa, ovacionado en IDEA: \"Fue un antes y un después de la corrupción\"",
-          "link": "https://www.clarin.com/politica/fiscal-termino-cristina-presa-ovacionado-idea-despues-corrupcion_0_xQbq5GFQqq.html",
-          "resumen": "Diego Luciani habló sobre las presiones del poder político, las amenazas y las dificultades de investigar la corrupción. “La Justicia no le cedió la última palabra a la impunidad”, afirmó.",
+          "titulo": "Lousteau no pone límites para armar un frente anti-Milei: \"Que vengan Cristina, Bregman, los del PRO, todos\"",
+          "link": "https://www.clarin.com/politica/lousteau-pone-limites-armar-frente-anti-milei-vengan-cristina-bregman-pro_0_pRT4X9cLxW.html",
+          "resumen": "El diputado radical de Provincias Unidas habló de \"coordinar para ganar\", y sostuvo que el Presidente \"quiere un país distinto\" al que quieren \"todos los demás\". \"El candidato tiene que ser el que tenga más chances de ganarle a Milei\",…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: habló en París de sus políticas económicas y dijo que “la comparación es demoledora”",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-argentina-va-a-estar-en-el-cuarto-lugar-de-los-paises-que-mas-nid01102026/",
-          "resumen": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de funcionarios",
+          "titulo": "Javier Milei y sus medidas, en vivo: el mandatario cargó contra la prensa y la calificó de “sicarios de la pluma”",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-cargo-contra-la-prensa-y-la-califico-de-sicarios-de-nid02102026/",
+          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Tras un día de respiro, el riesgo país vuelve a escalar: salta a 635 puntos",
-          "link": "https://www.clarin.com/economia/dia-respiro-riesgo-pais-vuelve-escalar-salta-635-puntos_0_X0KCUtqFO9.html",
-          "resumen": "El indicador del JP Morgan retoma la senda alcista de las últimas semanas. También es otro mal día para las acciones argentinas. Qué puede pasar el resto de octubre.",
+          "titulo": "Sin bancos por tres días: suman un nuevo feriado nacional para el sector en noviembre",
+          "link": "https://www.clarin.com/economia/bancos-dias-suman-nuevo-feriado-nacional-sector-noviembre_0_Cqzu5J8Nl6.html",
+          "resumen": "Además del día del Bancario el 6 de noviembre y el feriado nacional del 9, se dará asueto a los empleados a nivel nacional el martes 10.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Bullrich reclamó velocidad en los cambios para tener “economía familiar mucho más amable”",
-          "link": "https://www.lanacion.com.ar/economia/bullrich-pidio-velocidad-para-la-economia-y-puso-reparos-a-la-estrategia-oficial-por-la-ley-de-nid01102026/",
-          "resumen": "En el Coloquio de IDEA, la senadora advirtió sobre una economía a dos velocidades, con la industria, la construcción y el comercio “caídos” frente al crecimiento de otros sectores; dejó abierta la discusión electoral hacia 2027",
+          "titulo": "El Gobierno afirma que se lleva US$27.000 millones en anuncios de inversión del Argentina Week París",
+          "link": "https://www.lanacion.com.ar/economia/el-gobierno-afirma-que-se-lleva-us27000-millones-en-anuncios-de-inversion-del-argentina-week-paris-nid02102026/",
+          "resumen": "Lo informó el embajador argentino en Francia, Ian Sielecki; destacó la participación de 13 gobernadores, los encuentros de Javier Milei con empresarios y los anuncios de inversión realizados durante la visita a París",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La inflación se acelera: qué proyectan las consultoras privadas para el IPC de septiembre",
-          "link": "https://www.ambito.com/economia/la-inflacion-se-acelera-que-proyectan-las-consultoras-privadas-el-ipc-septiembre-n6328945",
-          "resumen": "Tras la cifra de 1,7% de agosto, relevamientos privados prevén un leve repunte debido a la aceleración en la canasta básica, indumentaria y servicios. Los detalles, en la nota.",
+          "titulo": "El mal dato de empleo en EEUU enfría la posibilidad de que la Fed vuelva a subir la tasa en octubre",
+          "link": "https://www.ambito.com/economia/el-mal-dato-empleo-eeuu-enfria-la-posibilidad-que-la-fed-vuelva-subir-la-tasa-octubre-n6329388",
+          "resumen": "Las empresas estadounidenses crearon apenas un tercio de los empleados esperados por el mercado, mientras que la tasa de desempleo subió por primera vez desde febrero y el crecimiento de los salarios se desaceleró.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Juicio por YPF: Burford se presentó ante la Corte Suprema de EE.UU. contra Argentina para revertir el fallo",
-          "link": "https://www.clarin.com/economia/juicio-ypf-burford-presento-corte-suprema-eeuu-argentina-revertir-fallo_0_6ZS83Cc0cG.html",
-          "resumen": "El fondo de inversión, que financia a las sociedades Petersen y Eton Park, decidió ir por la última vía judicial en Estados Unidos. Este mes ya se había presentado ante el CIADI del Banco Mundial por la expropiación de la petrolera.",
+          "titulo": "Tras superar los US$ 100, el petróleo baja fuerte: la medida de la UE que podría aliviar el suministro global",
+          "link": "https://www.clarin.com/mundo/superar-us-100-petroleo-baja-fuerte-medida-ue-podria-aliviar-suministro-global_0_n5Ha1TZvIr.html",
+          "resumen": "El bloque regional del Viejo Continente mantiene contactos de emergencia para estudiar una propuesta presentada por Francia, la cual plantea liberar 50 millones de barriles de crudo y la misma cantidad de barriles de diésel.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El riesgo país escala hasta los 635 puntos y las acciones argentinas caen hasta casi 6% en Wall Street",
-          "link": "https://www.lanacion.com.ar/economia/dolar/el-dolar-oficial-muestra-una-leve-suba-y-vuelve-a-su-valor-mas-alto-del-ano-nid01102026/",
-          "resumen": "El indicador elaborado por JP Morgan escala casi 30 unidades y se ubica cerca de su máximo del año; los distintos tipos de cambio borran las bajas que tuvieron ayer",
+          "titulo": "Negocio circular de la IA: el gigante que le presta US$42.000 millones a Anthropic para que después le compre sus chips",
+          "link": "https://www.lanacion.com.ar/economia/IA/negocio-circular-de-la-ia-el-gigante-que-le-presta-us42000-millones-a-anthropic-para-que-despues-le-nid02102026/",
+          "resumen": "La relación expone el circuito de gasto recíproco que despierta dudas entre los inversores de Wall Street",
           "fuente": "La Nación"
         }
       ]
@@ -77,34 +77,34 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Por qué falla una ejecución como la de Christa Pike: cables mal conectados, venas inaccesibles y agonías que duran horas",
-          "link": "https://www.clarin.com/mundo/cables-mal-conectados-venas-inaccesibles-agonias-duran-horas-fallan-ejecuciones-caso-christa-pike_0_ZRdIQPpqs8.html",
-          "resumen": "La mujer de 50 años, condenada por el crimen de una compañera, sobrevivió anoche a dos inyecciones letales. En los últimos 30 años hubo más de 60 casos fallidos de ejecución de condenados a pena de muerte en los Estados Unidos.",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "Elecciones Brasil 2026, EN VIVO: Lula vs. Bolsonaro Jr. y las últimas noticias hoy",
-          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-en-vivo-lula-vs-bolsonaro-jr-y-las-ultimas-noticias-hoy-nid01102026/",
-          "resumen": "Los últimos sondeos de intención de voto marcan un panorama reñido entre Flavio Bolsonaro e Luiz Inácio “Lula” da Silva; los comicios tendrán lugar el domingo 4 de octubre",
+          "titulo": "Tras el cachetazo a su plan para la vivienda, Pedro Sánchez queda al borde del abismo y analiza convocar a elecciones",
+          "link": "https://www.lanacion.com.ar/el-mundo/pedro-sanchez-recibe-un-reves-en-el-congreso-para-su-plan-de-vivienda-y-queda-al-borde-del-nid02102026/",
+          "resumen": "El oficialismo no consiguió los votos para aprobar su decreto “Maricarmen” y entró en un “período de reflexión” para definir su adelanta los comicios; continúa el acampe en la Puerta del Sol",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El petróleo sube fuerte otra vez y ya está de nuevo en US$ 100: el preocupante dato que apunta a China",
-          "link": "https://www.clarin.com/mundo/petroleo-sube-fuerte-vez-nuevo-us-100-preocupante-dato-apunta-china_0_lurEDTeXgO.html",
-          "resumen": "El crudo Brent, que sirve de referencia en Argentina, aumenta el 2,5% este jueves. Mientras que el WTI texano cerró septiembre con una suba en torno al 5%, impulsado por la guerra en Medio Oriente. ¿Qué dice un informe sobre el gigante…",
+          "titulo": "He aquí los paradigmas de la incompetencia absoluta",
+          "link": "https://www.clarin.com/new-york-times-international-weekly/paradigmas-incompetencia-absoluta_0_y9Qeo4avlS.html",
+          "resumen": "El amanecer de la inteligencia artificial coincide con el ocaso de la cordura estadounidense.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Qué se sabe de Christa Pike, la reclusa que fue condenada a muerte y sobrevivió a la inyección letal",
-          "link": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-de-christa-pike-la-reclusa-que-fue-condenada-a-muerte-y-sobrevivio-a-la-inyeccion-letal-nid01102026/",
-          "resumen": "La mujer de 50 años recibió dos dosis de pentobarbital durante el procedimiento en Tennessee, según documentos judiciales; fue trasladada a un hospital y el gobernador suspendió las ejecuciones previstas para este año",
+          "titulo": "Quiénes son los candidatos a presidente de Brasil en las elecciones 2026",
+          "link": "https://www.lanacion.com.ar/el-mundo/quienes-son-los-candidatos-a-presidente-de-brasil-en-las-elecciones-2026-nid22092026/",
+          "resumen": "Se presentan 13 referentes de los espacios políticos que compiten para ocupar el máximo cargo del Ejecutivo; descubrí los detalles",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Elecciones en Brasil: el desinterés electoral agita el fantasma de una abstención récord este domingo",
-          "link": "https://www.clarin.com/mundo/elecciones-brasil-desinteres-electoral-agita-fantasma-abstencion-record-domingo_0_bUus6x91zH.html",
-          "resumen": "Lo admiten en el gobierno en diálogo con Clarín. Temen que esta cita exhiba los mismos niveles de 21% o más sin precedentes de las elecciones de 2022 Los analistas ligan el desinterés con los problemas de ingresos, especialmente en los…",
+          "titulo": "El impulso de China hacia la IA ha generado un problema: un uso excesivo",
+          "link": "https://www.clarin.com/new-york-times-international-weekly/impulso-china-ia-generado-problema-uso-excesivo_0_CnOMwD8dNG.html",
+          "resumen": "A medida que los ciudadanos adoptan la tecnología para el entretenimiento, las relaciones e incluso para obtener consejos sobre agricultura, el Gobierno está intensificando sus esfuerzos para establecer límites.",
           "fuente": "Clarín"
+        },
+        {
+          "titulo": "Dónde voto para Brasil 2026 en la Argentina: consultá cómo se puede votar para el domingo 4 de octubre",
+          "link": "https://www.lanacion.com.ar/el-mundo/donde-voto-para-brasil-2026-en-la-argentina-consulta-como-se-puede-votar-para-el-domingo-4-de-nid22092026/",
+          "resumen": "Los residentes en el país debían anotarse en un registro de empadronamiento para emitir el sufragio; los detalles en la nota",
+          "fuente": "La Nación"
         }
       ]
     },
@@ -112,34 +112,34 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Los deslumbrantes 13 minutos de Leonel Flores en su debut con la Selección: encaró como en Boca y casi se regala un golazo",
-          "link": "https://www.clarin.com/deportes/deslumbrantes-13-minutos-leonel-flores-debut-seleccion-encaro-boca-regala-golazo_0_L8MHdnzNwd.html",
-          "resumen": "La joven promesa del Xeneize tuvo su primera vez con la Scaloneta y deslumbró. Ingresó sobre el final del encuentro y le alcanzó para ilusionar a los hinchas. El jueves por la mañana ya se puso bajo las órdenes del Vasco Arruabarrena.",
+          "titulo": "La insólita aparición de Flavio Briatore con una hoja y su renovada banca a Franco Colapinto: \"Estaba molesto, pero el pasado es el pasado\"",
+          "link": "https://www.clarin.com/deportes/insolita-aparicion-flavio-briatore-hoja-renovada-banca-franco-colapinto-molesto-pasado-pasado_0_pgaafNCqYK.html",
+          "resumen": "El jefe de Alpine llegó a una conferencia con un papel en la mano y generó una gran expectativa. Después se descubrió que la hoja no tenía nada escrito: fue una humorada del italiano. Más serio, se refirió al accidente de Franco en Bakú y…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Matías Soulé fue padre por primera vez y se fue de la concentración de la selección para recibir al bebé",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/matias-soule-fue-padre-por-primera-vez-y-se-fue-de-la-concentracion-de-la-seleccion-nid29092026/",
-          "resumen": "El futbolista de Roma acompañó a su esposa en el nacimiento de su hijo Bautista",
+          "titulo": "Por dónde pasan Boca vs. Unión y qué canal lo transmite en vivo",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-boca-vs-union-y-que-canal-lo-transmite-en-vivo-nid02102026/",
+          "resumen": "El encuentro correspondiente a la fecha 11 del Grupo A se disputa este viernes a las 21.30 en la Bombonera, con arbitraje de Sebastián Martínez",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La frase de Scaloni sobre el Monumental que encendió a los hinchas de River",
-          "link": "https://www.ole.com.ar/river-plate/river-plate-lionel-scaloni-monumental_0_aU3urwQ96g.html",
-          "resumen": "El entrenador de la Selección mencionó al estadio del CARP en conferencia de prensa.",
+          "titulo": "A qué hora juega hoy Boca vs. Unión y por dónde se puede ver EN VIVO el Torneo Clausura",
+          "link": "https://www.ole.com.ar/futbol-primera/boca-vs-union-partido-torneo-clausura-2026-vivo-minuto-minuto_0_uorfbMhW8X.html",
+          "resumen": "En la Bombonera, el Xeneize y el Tatengue se miden por la fecha 11, en un partido clave para ambos equipos en su pelea por seguir sumando en el campeonato. Seguilo en Olé",
           "fuente": "Olé"
         },
         {
-          "titulo": "Polémica con Mbappé: tras su lesión, no volvió a los entrenamientos del Real Madrid y fue visto en una disco de París",
-          "link": "https://www.clarin.com/deportes/polemica-mbappe-lesion-volvio-entrenamientos-real-madrid-visto-disco-paris_0_WMwrFJznS6.html",
-          "resumen": "El goleador fue desafectado de la selección francesa tras sufrir una lesión en el último partido. A diferencia de sus compañeros lesionados, no está realizando su recuperación en Valdebebas. Fue visto en las últimas horas con su pareja en…",
+          "titulo": "¿Fuga de estrellas en el Manchester City?: el club se defiende pero en Inglaterra advierten que sus figuras podrían irse libres",
+          "link": "https://www.clarin.com/deportes/fuga-estrellas-manchester-city-club-defiende-inglaterra-advierten-figuras-podrian-irse-libres_0_tbDVavlXpV.html",
+          "resumen": "El City presentó un recurso contra la resolución que lo declaró responsable de graves infracciones financieras. Todavía no se conocen las sanciones y la apelación podría extender el caso durante varios meses. El caso suma presión…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Lautaro Martínez, tercer capitán, titular y heredero del “legado”: empezar de nuevo en la era post Messi",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/lautaro-martinez-tercer-capitan-titular-y-heredero-del-legado-empezar-de-nuevo-en-la-era-post-messi-nid01102026/",
-          "resumen": "El bahiense, suplente desde Qatar, quedó a un gol del podio entre los máximos artilleros de la selección",
-          "fuente": "La Nación"
+          "titulo": "Maracaná: la chance de que se juegue Vasco-Boca y el riesgo por el cambio del césped a semanas del Flamengo-Estudiantes",
+          "link": "https://www.ole.com.ar/futbol-internacional/america/boca-vasco-da-gama-sudamericana-marcana-campo-juego-estudiantes-libertadores-flamengo-juega_0_8NJCDCwokC.html",
+          "resumen": "El icónico estadio brasileño comenzó con un proceso de modificación en su campo de juego después de lo que fue el tremendo evento de NFL.",
+          "fuente": "Olé"
         }
       ]
     }

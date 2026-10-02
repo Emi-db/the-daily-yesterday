@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "1 de octubre de 2026",
-    "generada": "16:45",
+    "fecha": "2 de octubre de 2026",
+    "generada": "15:59",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Qué sucedió en la ejecución fallida de Christa Pike y cuán común es que la inyección letal no funcione en EE.UU.",
-            "link": "https://www.bbc.com/mundo/articles/c50m3mxlx9ndo?at_medium=RSS&at_campaign=rss",
-            "resumen": "La inyección letal es el método de ejecución más común en Estados Unidos. También el que resulta en más ejecuciones fallidas o altamente problemáticas.",
+            "titulo": "\"Tenemos miedo a perder la vida aquí\": los migrantes de América Latina que EE.UU. deporta a República Centroafricana",
+            "link": "https://www.bbc.com/mundo/articles/c8046w1kgpgwo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Tenían protecciones ante la deportación ordenadas por un tribunal de inmigración y acabaron en otro continente, en un país del que no tenían referencias. Allí esperan un \"milagro\" para poder regresar a EE.UU.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Netanyahu afirma que el piloto del vuelo a Tel Aviv vivió una “radicalización islamista” e insinúa un posible rol de Irán",
-            "link": "https://elpais.com/internacional/2026-10-01/netanyahu-insinua-un-posible-papel-de-iran-en-el-incidente-del-vuelo-a-tel-aviv.html",
-            "resumen": "Israel participará en la investigación abierta por Emiratos Árabes Unidos",
+            "titulo": "Zelenski a EL PAÍS, ante la nueva ofensiva rusa contra Kiev: “Putin no teme a los europeos”",
+            "link": "https://elpais.com/internacional/2026-10-02/zelenski-a-el-pais-ante-la-nueva-ofensiva-rusa-contra-kiev-putin-no-teme-a-los-europeos.html",
+            "resumen": "En una conversación en un colegio recién bombardeado este jueves, el presidente afirma que Moscú busca “que los ucranios abandonen la capital”",
             "fuente": "El País"
           },
           {
-            "titulo": "Biarritz se convierte en el epicentro del cine y la cultura de América Latina",
-            "link": "https://www.france24.com/es/programas/carrusel-de-las-artes/20261001-biarritz-se-convierte-en-el-epicentro-del-cine-y-la-cultura-de-am%C3%A9rica-latina",
-            "resumen": "Durante una semana, Biarritz, en el suroeste de Francia, se convierte en un punto de encuentro para el cine y las culturas de América Latina. La 35.ª edición del Festival Biarritz despliega su alfombra roja para figuras como el actor…",
+            "titulo": "‘Voces de debajo de los escombros’: relatos de Gaza a París",
+            "link": "https://www.france24.com/es/programas/escala-en-par%C3%ADs/20261002-voces-de-debajo-de-los-escombros-relatos-de-gaza-a-par%C3%ADs",
+            "resumen": "Huir de la guerra no siempre significa abandonar una vocación. Duha Abd Allatif, escritora y educadora palestina de 32 años, logró salir de Gaza junto a su marido y sus dos hijos después de un año de espera. Hoy, instalada desde hace…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Christa Pike sobrevive a dos dosis de inyección letal durante su ejecución y se encuentra hospitalizada en Tennessee",
-            "link": "https://www.bbc.com/mundo/articles/c6vgygpp3eqlo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Según el equipo legal de Pike, ella estaba en una \"innecesaria agonía\". La mujer de 50 años llevaba tres décadas en el corredor de la muerte por un brutal asesinato.",
+            "titulo": "Por qué los católicos votan más a Lula, los evangélicos a Bolsonaro y cómo una polémica por una virgen influye en las elecciones de Brasil",
+            "link": "https://www.bbc.com/mundo/articles/cqr7d7xe1y9lo?at_medium=RSS&at_campaign=rss",
+            "resumen": "El país sudamericano va a las urnas el domingo tras una controversia sobre su santa patrona que avivó la campaña polarizada entre izquierda y derecha.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Pánico a bordo del vuelo FZ1073 con destino a Tel Aviv: “Acabamos de neutralizar al terrorista. Necesitamos ayuda”",
-            "link": "https://elpais.com/internacional/2026-10-01/panico-a-bordo-del-vuelo-fz1073-con-destino-a-tel-aviv-acabamos-de-neutralizar-al-terrorista-necesitamos-ayuda.html",
-            "resumen": "Un piloto apuñala al otro y los pasajeros logran evitar un desastre. Israel quiere intensificar los controles de los pilotos que vuelen al país tras el “intento de atentado yihadista”",
+            "titulo": "Las protestas estudiantiles en Francia ponen en aprietos al Gobierno",
+            "link": "https://elpais.com/internacional/2026-10-02/la-ola-de-protestas-estudiantiles-en-francia-pone-al-gobierno-contra-las-cuerdas.html",
+            "resumen": "Cerca de 2.000 personas fueron detenidas el jueves durante disturbios en varias manifestaciones. El ministro de Educación se reúne con alumnos y padres para abordar la falta de recursos y las malas condiciones de los centros educativos",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "La prórroga extraordinaria de dos años de los alquileres dejará de aplicarse si sale adelante la renovación automática del segundo decreto de vivienda",
-            "link": "https://elpais.com/economia/vivienda/2026-10-01/la-prorroga-extraordinaria-de-dos-anos-de-los-alquileres-dejara-de-aplicarse-si-sale-adelante-la-renovacion-automatica-del-segundo-decreto-de-vivienda.html",
-            "resumen": "El casero deberá indemnizar al inquilino con una cantidad equivalente a 12 meses de renta si decide recuperar la vivienda",
+            "titulo": "El Congreso tumba los decretos de vivienda y abona el terreno para un adelanto electoral",
+            "link": "https://elpais.com/espana/2026-10-02/el-debate-de-los-decretos-se-convierte-en-un-juicio-demoledor-contra-junts.html",
+            "resumen": "Sánchez, a PP, Vox y Junts: “La historia les juzgará antes de lo que creen y con más contundencia de la que imaginan”",
             "fuente": "El País"
           },
           {
-            "titulo": "Martínez-Avial (BNP Paribas Real Estate): \"El principal riesgo en vivienda es su politización\"",
-            "link": "https://www.expansion.com/inmobiliario/mercado/2026/10/01/6abd50a4e5fdea777e8b45a5.html",
-            "resumen": "El primer espada de BNP Paribas Real Estate España, Ignacio Martínez-Avial, anticipa que tras un 2026 récord en inversión el inmobiliario mantendrá su solidez, pero con una leve ralentización en su crecimiento por la subida de tipos. Leer",
+            "titulo": "Estas son las medidas de vivienda que decaen tras el veto del Congreso y así queda ahora el mercado",
+            "link": "https://www.expansion.com/inmobiliario/mercado/2026/10/02/6abfa260468aeba2368b4594.html",
+            "resumen": "Los dos decretos de vivienda aprobados por el Ejecutivo esta semana no han conseguido el apoyo parlamentario y, por lo tanto, sus medidas decaen después de estar en vigor apenas uno y dos días después de su publicación en el Boletín…",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Una parte del decreto de vivienda solo tendrá efecto en las comunidades que hayan declarado zonas tensionadas",
-            "link": "https://elpais.com/economia/vivienda/2026-10-01/una-parte-del-decreto-de-vivienda-solo-tendra-efecto-en-las-comunidades-que-hayan-declarado-zonas-tensionadas.html",
-            "resumen": "Las restricciones al alquiler por habitaciones, las bonificaciones a caseros y los recargos en el IBI de pisos turísticos y vacíos estarán vigentes únicamente en cinco territorios",
+            "titulo": "Qué cae tras el rechazo de los decretos de vivienda: del escudo antidesahucios a la prórroga del alquiler y las ayudas a la compra",
+            "link": "https://elpais.com/economia/vivienda/2026-10-02/que-cae-tras-el-rechazo-de-los-decretos-de-vivienda-del-escudo-antidesahucios-a-la-prorroga-del-alquiler-y-las-ayudas-a-la-compra.html",
+            "resumen": "PP, Vox y Junts tumban las rebajas fiscales a caseros e inquilinos y los topes a la actualización de la renta en un contexto de alta inflación. También caen las prórrogas indefinidas de los contratos",
             "fuente": "El País"
           },
           {
-            "titulo": "El inquilino ya no tiene que indemnizar al casero si se va antes de acabar el contrato",
-            "link": "https://www.expansion.com/inmobiliario/mercado/2026/10/01/6abe2441468aeb16058b4596.html",
-            "resumen": "El decreto publicado este miércoles en el Boletín Oficial del Estado modifica la Ley de Arrendamientos Urbanos (LAU) para reducir las obligaciones contractuales de los arrendatarios. Leer",
+            "titulo": "Así son las novedades que añade la propuesta alternativa de Junts para la vivienda",
+            "link": "https://www.expansion.com/inmobiliario/mercado/2026/10/02/6abf9196468aeb803c8b4596.html",
+            "resumen": "Junts per Catalunya ayer anunció que no iba a apoyar los dos decretos de vivienda aprobados por el Gobierno y le pidió que los retirará para negociar una nueva propuesta. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Sumar presiona al Congreso y calcula que cinco millones de inquilinos se beneficiarán de la prórroga de dos años de alquiler",
-            "link": "https://elpais.com/economia/vivienda/2026-10-01/sumar-presiona-al-congreso-y-calcula-que-cinco-millones-de-inquilinos-se-beneficiaran-de-la-prorroga-de-dos-anos-de-alquiler.html",
-            "resumen": "La memoria de impacto presupuestario que acompaña al decreto cifra en unos 2.000 millones el coste fiscal de las medidas",
+            "titulo": "Bruselas advierte del riesgo de reestructurar la deuda del fondo europeo de recuperación como propone España",
+            "link": "https://elpais.com/economia/2026-10-02/bruselas-advierte-del-riesgo-de-reestructurar-la-deuda-del-fondo-europeo-de-recuperacion-como-propone-espana.html",
+            "resumen": "La Comisión señala que aplazar la amortización o pagar menos capital al principio aumenta el coste de los intereses",
             "fuente": "El País"
           }
         ]
@@ -78,33 +78,33 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
+            "titulo": "Christina Koch, primera mujer en viajar hasta la Luna: “Veíamos destellos azules cuando cerrábamos los ojos”",
+            "link": "https://elpais.com/ciencia/2026-10-02/christina-koch-primera-mujer-en-viajar-hasta-la-luna-veiamos-destellos-azules-cuando-cerrabamos-los-ojos.html",
+            "resumen": "La astronauta y científica habla con EL PAÍS sobre su experiencia durante la histórica misión Artemis 2 y advierte sobre los peligros de la carrera espacial con China",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Los grandes líderes de la IA, como niños temerosos ante un matón",
+            "link": "https://elpais.com/tecnologia/2026-10-02/los-grandes-lideres-de-la-ia-como-ninos-temerosos-ante-un-maton.html",
+            "resumen": "Un rato en el jardín de la Casa Blanca al lado de Donald Trump puede ser eterno: el presidente puso en ridículo a algunos de los personajes más ricos y poderosos del planeta",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "La ciencia confirma que la terapia más segura para tratar la menopausia es la que escasea en España",
+            "link": "https://elpais.com/ciencia/2026-10-02/la-ciencia-confirma-que-la-terapia-mas-segura-para-tratar-la-menopausia-es-la-que-escasea-en-espana.html",
+            "resumen": "Una revisión publicada en ‘Science’ sitúa el estradiol por vía transdérmica como la mejor opción, pero estas formulaciones están casi desaparecidas de las farmacias españolas",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Cómo usar tu móvil como una cámara profesional sin gastar más",
+            "link": "https://elpais.com/tecnologia/tu-tecnologia/2026-10-02/como-usar-tu-movil-como-una-camara-profesional-sin-gastar-mas.html",
+            "resumen": "Los teléfonos tienen más posibilidades fotográficas de las que probablemente utilizas. Con algunos ajustes y una buena composición puedes conseguir resultados mucho mejores",
+            "fuente": "El País"
+          },
+          {
             "titulo": "Google lanza su primer satélite para llevarse los centros de datos al espacio",
             "link": "https://elpais.com/tecnologia/2026-10-01/google-lanza-su-primer-satelite-para-llevarse-los-centros-de-datos-al-espacio.html",
             "resumen": "La empresa investiga cómo crear servidores en la órbita terrestre. SpaceX y otras empresas le llevan cuerpos de ventaja",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Una fábrica de tejidos vivos: células impresas para crear desde médula ósea hasta carne",
-            "link": "https://elpais.com/tecnologia/2026-10-01/una-fabrica-de-tejidos-vivos-celulas-impresas-para-crear-desde-medula-osea-hasta-carne.html",
-            "resumen": "Un grupo de investigadores desarrolla una técnica de bioimpresión 3D que promete abrir múltiples posibilidades que van desde la medicina hasta la carne cultivada",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Trump apuesta por que las empresas de IA se autorregulen para evitar el descontrol de la tecnología",
-            "link": "https://elpais.com/us/2026-09-29/trump-apuesta-por-que-las-empresas-de-ia-se-autorregulen-para-evitar-el-descontrol-de-la-tecnologia.html",
-            "resumen": "El presidente de Estados Unidos asegura que nunca frenará el desarrollo de la IA porque quiere ganar la carrera a China",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Claves de la crisis de los medicamentos para la menopausia: qué falta, cuándo vuelve y qué alternativas hay",
-            "link": "https://elpais.com/sociedad/2026-10-01/claves-de-la-crisis-de-los-medicamentos-para-la-menopausia-que-falta-cuando-vuelve-y-que-alternativas-hay.html",
-            "resumen": "La falta del fármaco Lenzetto ha provocado una crisis en cadena que ha dejado sin suministro de hormonas a miles de mujeres menopáusicas y trans. Una posibilidad sobre la mesa es priorizar pacientes",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "OpenAI retrasa su nueva IA tras reconocer que no ha realizado los controles de calidad pertinentes",
-            "link": "https://elpais.com/tecnologia/2026-09-29/openai-retrasa-su-nueva-ia-por-problemas-de-seguridad-y-anthropic-alerta-de-riesgos-catastroficos-para-la-humanidad.html",
-            "resumen": "La compañía de Sam Altman asegura que no se han corregido los fallos de su nuevo modelo y Anthropic hace lo propio al advertir de peligros “existenciales” en su folleto de la salida a Bolsa",
             "fuente": "El País"
           }
         ]
@@ -113,33 +113,33 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "El Barça busca su séptima corona mundial ante el Veszprem",
-            "link": "https://www.marca.com/balonmano/2026/09/30/barca-busca-septima-corona-mundial-veszprem.html",
-            "resumen": "El exazulgrana Emil Nielsen es duda en la portería del club húngaro",
+            "titulo": "Las mayores polémicas de Cristiano Ronaldo en su carrera: Rooney, Mou, Benítez...",
+            "link": "https://www.marca.com/futbol/2026/10/02/mayores-polemicas-cristiano-ronaldo-carrera-rooney-mou-benitez.html",
+            "resumen": "El portugués vuelve a estar en el foco tras abandonar la concentración y protagonizar un nuevo desencuentro con su entrenador",
             "fuente": "Marca"
           },
           {
-            "titulo": "La UEFA confirma que ha recibido el informe del Madrid sobre el 'caso Negreira'",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261001/1004233430/uefa-confirma-recibido-informe-madrid-sobre-caso-negreira.html",
-            "resumen": "Florentino Pérez, presidente del Real Madrid, advirtió el 12 de mayo que enviaría a la UEFA un amplio informe sobre el ‘ caso Negreira ’. El máximo organismo del fútbol europeo acaba de confirmar este jueves que ha recibido del club…",
+            "titulo": "El Barça respira tras las pruebas a Raphinha: estará contra el Getafe",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261002/1004233724/barca-respira-pruebas-raphinha-estara-getafe.html",
+            "resumen": "Raphinha podrá jugar contra el Getafe el sábado 10 (18.30 h.) en el Spotify Camp Nou en el próximo encuentro de Liga del intratable Barça, líder con 21 puntos de 21 posibles. El delantero brasileño fue examinado en la Ciutat Esportiva…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "El Gobierno británico carga contra el City: \"Pueden ser expulsados de la Premier League\"",
-            "link": "https://www.marca.com/futbol/premier-league/2026/09/30/gobierno-britanico-carga-manchester-city-expulsados-premier-league.html",
-            "resumen": "La ministra de deportes, Lisa Nandy, calificó el asunto como \"muy serio\"",
+            "titulo": "El deseo de Joao Félix: \"Le encantaría volver al Barça\"",
+            "link": "https://www.marca.com/radio/2026/10/02/moretto-desvela-deseo-joao-felix-le-encantaria-volver-barca.html",
+            "resumen": "El periodista italiano explicó en La Pizarra que el estilo de juego y su conocimiento de LaLiga encajarían con el portugués, aunque enfrió cualquier posibilidad",
             "fuente": "Marca"
           },
           {
-            "titulo": "Comunicado del Barça: \"Ni apertura, ni reapertura ni reactivación\"",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261001/1004233470/comunicado-barca-no-apertura-reapertura-reactivacion.html",
-            "resumen": "La UEFA ha confirmado hoy que ha recibido del Real Madrid “una cantidad considerable de documentos relacionados con la investigación\" sobre el 'caso Negreira' . El FC Barcelona ha reaccionado con rapidez y ha emitido un comunicado…",
+            "titulo": "Ferran Torres, nueva baja en la selección española: ya hay sustituto",
+            "link": "https://www.mundodeportivo.com/seleccion-espanola/20261002/1004233788/ferran-torres.html",
+            "resumen": "La RFEF ha informado este viernes de que Ferran Torres causa baja en la concentración de la selección española por culpa de unas molestias en el tobillo izquierdo. Le sustituye en la convocatoria el jugador del Real Madrid Carlos Espí ,…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Máximo Quiles será campeón de Moto3 en Japón si...",
-            "link": "https://www.marca.com/motor/motogp/gp-japon/2026/09/30/maximo-quiles-sera-campeon-moto3-japon.html",
-            "resumen": "Las combinaciones para que Máximo Quiles ate el título ya en Motegi",
+            "titulo": "La reacción de Arturo Vidal ante el 'caso Cristiano': \"Es una vergüenza\"",
+            "link": "https://www.marca.com/futbol/nations-league/2026/10/02/reaccion-arturo-vidal-caso-cristiano-vergueenza.html",
+            "resumen": "El chileno critica el trato recibido por el portugués en su selección y también señala al cuerpo técnico por su gestión de la situación",
             "fuente": "Marca"
           }
         ]
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "October 1, 2026",
-    "generada": "16:45",
+    "fecha": "October 2, 2026",
+    "generada": "15:59",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Tennessee halts executions after death row inmate Christa Pike survives hers",
-            "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Christa Pike was transported to hospital after the failed attempts. Her condition remains unknown.",
+            "titulo": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+            "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+            "link": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+            "resumen": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about Pharaohs’ origins On the eve of Chinese president Xi Jinping’s state visit to Cairo last…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "How Flydubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
+            "link": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
+            "resumen": "A badly wounded Indian pilot managed to unlock the cockpit door. Four Israeli men teamed up to overwhelm an attacker and avert disaster.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Cornell students gather to voice anger over alleged gang rape",
+            "link": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced.",
             "fuente": "BBC"
           },
           {
             "titulo": "Trump administration diverts human rights funds to push far-right agenda abroad",
             "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
             "resumen": "Support such as for white Afrikaners and anti-communism reveals how US is redefining what qualifies as human rights With hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "Live Updates: Investigators Seek to Establish Motive in FlyDubai Attack",
-            "link": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots",
-            "resumen": "The United Arab Emirates said it would lead the investigation, including into possible links to terrorism. Prime Minister Benjamin Netanyahu said the attacker had undergone “Islamist radical indoctrination,” though he did not elaborate.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "What happened in failed execution of Christa Pike - and what next?",
-            "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "South African leader urges men to speak up on gender-based violence after series of killings",
-            "link": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
-            "resumen": "President announces measures amid anger at authorities over recent murders of women South Africa’s president has called on men to take more responsibility for violence against women as he announced measures to tackle the problem, amid…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "AI boom could trigger market shocks, Bank of England boss warns",
-            "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
+            "titulo": "US jobs market sees sharp slowdown ahead of midterm elections",
+            "link": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Bond sell-off: US government borrowing costs hit highest since 2002, as UK 30-year bond yield hits 6% – as it happened",
-            "link": "https://www.theguardian.com/business/live/2026/oct/01/uk-house-prices-september-mortgage-rates-bonds-stock-markets-manufacturing-latest-news-updates",
-            "resumen": "Global bond rout kicks off again, with UK 30-year gilt yields hitting highest since 1998 Worryingly for Paris, the difference between French and German borrowing costs has widened to a 14-year high this morning. The gap between French and…",
+            "titulo": "Nasdaq hits record high after weaker-than-expected US jobs report – business live",
+            "link": "https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates",
+            "resumen": "US economy only added 29,000 jobs in September, which might deter the Federal Reserve from raising interest rates UK diesel price hits record high of £2 a litre Core inflation in the eurozone also inched up last month. Inflation,…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Most American Children Are Being Auto-Enrolled in Trump Accounts. What to Know.",
-            "link": "https://www.nytimes.com/2026/10/01/business/trump-accounts-auto-enrollment.html",
-            "resumen": "The Trump administration may have just signed up your child — and more than 60 million others — for a 530A savings account (if you haven’t already done so).",
+            "titulo": "Here’s the latest.",
+            "link": "https://www.nytimes.com/live/2026/10/02/business/jobs-report-economy/heres-the-latest",
+            "resumen": "",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-            "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
+            "titulo": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
+            "link": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
+            "resumen": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Federal Reserve watchdog finds no criminal violations for building renovation cost overruns",
-            "link": "https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation",
-            "resumen": "Trump criticized $2.4bn rehab amid attempts to pressure then Fed chair Jerome Powell into lowering interest rates An internal watchdog said the Federal Reserve mismanaged costs associated with a $2.4bn renovation of its Washington DC…",
+            "titulo": "US added just 29,000 jobs in September in sharp drop from last month’s gains",
+            "link": "https://www.theguardian.com/business/2026/oct/02/september-jobs-report",
+            "resumen": "Final jobs report before the midterm elections also shows the US unemployment rate rose slightly to 4.2% US employers added just 29,000 jobs in September, a sharp drop from last month’s gains, and unemployment rose slightly to 4.2%, a…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,15 +224,15 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "SpaceX launches crew to ISS",
-            "link": "https://www.bbc.co.uk/news/videos/c5rm9mdperemo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The Falcon 9 rocket blasted off from Cape Canaveral with two Americans, a Russian and a Canadian who will spend up to six months aboard the International Space Station.",
+            "titulo": "How to move 1,300 plants for Kew's Palm House mega makeover",
+            "link": "https://www.bbc.co.uk/news/videos/c914d43gg2zdo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The world-famous Palm House at the Royal Botanic Gardens Kew in London is about to undergo a massive makeover.",
             "fuente": "BBC"
           },
           {
-            "titulo": "‘Hugely exciting’ finds on tiny Scottish island shed light on spread of Christianity",
-            "link": "https://www.theguardian.com/science/2026/oct/01/lismore-archaeological-finds-scottish-island-monastery-spread-of-christianity",
-            "resumen": "Community-funded archaeological excavations of ‘really important’ sixth-century monastery also rewrite story of Lismore To the residents of the Scottish island of Lismore, population 190, history is never very far away. The tiny island…",
+            "titulo": "‘An amazing ride’: SpaceX flight led by first Black female commander sets US speed record",
+            "link": "https://www.theguardian.com/science/2026/oct/01/spacex-speed-record-first-black-female-commander",
+            "resumen": "Four astronauts pulled up at International Space Station after eight-hour express flight led by Jessica Watkins Four astronauts pulled up at the International Space Station (ISS) on Thursday after launching on an eight-hour express that…",
             "fuente": "The Guardian"
           },
           {
@@ -242,15 +242,15 @@ const EDICION_MUNDO = {
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Prince of Wales tells villagers 'holistic' approach is needed to tackle flooding",
-            "link": "https://www.bbc.co.uk/news/articles/cm1j4j9lxp49o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Prince William visits residents of Skenfrith, Monmouthshire, who have faced four floods in six years.",
+            "titulo": "How to see the Orionid meteor shower from Friday",
+            "link": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Friday sees the start of the Orionid meteor shower as Earth passes through debris left behind by Halley’s Comet. It peaks later in October.",
             "fuente": "BBC"
           },
           {
-            "titulo": "The incredible science of memory manipulation – podcast",
-            "link": "https://www.theguardian.com/science/audio/2026/oct/01/science-of-memory-manipulation-podcast",
-            "resumen": "Madeleine Finlay hears from Steve Ramirez, an associate professor of psychological and brain sciences at Boston University, whose book How to Change a Memory was shortlisted for this year’s Royal Society Trivedi science book prize. He…",
+            "titulo": "‘Hugely exciting’ finds on tiny Scottish island shed light on spread of Christianity",
+            "link": "https://www.theguardian.com/science/2026/oct/01/lismore-archaeological-finds-scottish-island-monastery-spread-of-christianity",
+            "resumen": "Community-funded archaeological excavations of ‘really important’ sixth-century monastery also rewrite story of Lismore To the residents of the Scottish island of Lismore, population 190, history is never very far away. The tiny island…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Man City to argue sponsorship deals came from Abu Dhabi government",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
-            "resumen": "Manchester City's appeal against the Premier League's verdict hinges on the club's claim that its sponsorship deals came from the Abu Dhabi government.",
+            "titulo": "Man City confirm appeal against guilty verdict",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The club's statement says the ruling contains \"clear material errors, of law, principle and fact, and is unsafe\".",
             "fuente": "BBC"
           },
           {
-            "titulo": "Pleasant surprises of the NFL season so far: Brock Purdy for MVP and actual Raiders competence",
-            "link": "https://www.theguardian.com/sport/2026/oct/01/pleasant-surprises-of-the-nfl-season-so-far-brock-purdy-for-mvp-and-actual-raiders-competence",
-            "resumen": "It’s still early in the 2026 season but a number of teams and players have found unexpected levels of success in the last few weeks Last season ended with a Super Bowl in which neither team – the Seattle Seahawks and the New England…",
+            "titulo": "Victor Wembanyama said no to gambling money. In today’s NBA, that feels radical",
+            "link": "https://www.theguardian.com/sport/2026/oct/02/victor-wembanyama-sports-betting-gambling-nba",
+            "resumen": "As LeBron James and other NBA stars wholeheartedly embrace the murk of betting and prediction markets, the San Antonio Spurs’ 22-year-old cornerstone has drawn a refreshing line If the song from LeBron James’s agonizing Polymarket ad is…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Ranking the best British football exports this century",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqx2zejdk5x0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "From David Beckham and Gareth Bale to Jude Bellingham and Harry Kane, who are the best British exports this century?",
+            "titulo": "What does Man City guilty verdict mean for their squad?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c68jdjdz32n3o?at_medium=RSS&at_campaign=rss",
+            "resumen": "BBC Sport looks at how Manchester City's guilty verdict will affect their existing players' futures and the club's dealings in the transfer market.",
             "fuente": "BBC"
           },
           {
-            "titulo": "The ultra-rich face … accountability? Manchester City and Clippers verdicts show it’s possible | Leander Schaerlaeckens",
-            "link": "https://www.theguardian.com/football/2026/oct/01/manchester-city-la-clippers-ultra-rich-accountability",
-            "resumen": "The sports world has accomplished a rare feat: calling out industrial-scale cheating on both sides of the Atlantic Sign up for our free newsletter here The first stage of billionaire exposure to accountability is vociferous denial . The…",
+            "titulo": "Watson and Browns hold off Steelers’ fightback on last-gasp 56-yard field goal",
+            "link": "https://www.theguardian.com/sport/2026/oct/02/browns-steelers-deshaun-watson-andre-szmyt-nfl",
+            "resumen": "Szmyt hits career-long kick with 10 seconds remaining Cleveland improve to 3-1 after surviving Pittsburgh rally Rodgers throws three TDs but two costly interceptions Deshaun Watson passed for 268 yards and moved the Browns into position…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "England avoid Australia & India in World Cup draw",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro?at_medium=RSS&at_campaign=rss",
-            "resumen": "England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ICC Cricket World Cup.",
+            "titulo": "Tuchel would never rule out players not in top flight",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqd095z49gjvo?at_medium=RSS&at_campaign=rss",
+            "resumen": "England boss Thomas Tuchel says he would \"never rule out\" selecting someone who is not playing in the top flight, should Manchester City be relegated.",
             "fuente": "BBC"
           }
         ]
