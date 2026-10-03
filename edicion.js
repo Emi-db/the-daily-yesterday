@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "2 de octubre de 2026",
-  "generada": "15:59",
+  "fecha": "3 de octubre de 2026",
+  "generada": "14:26",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Yategate: se esperan dos definiciones clave para el futuro de la causa judicial contra Insaurralde",
-          "link": "https://www.clarin.com/politica/yategate-esperan-definiciones-clave-futuro-causa-judicial-insaurralde_0_1rS1QQnzHZ.html",
-          "resumen": "La Cámara Federal de La Plata tiene que resolver si valida los videos de los millones de dólares que grabó Jesica Cirio. También si ratifica o revoca el sobreseimiento de Sofia Clerici.",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente vuelve hoy de Francia y se reenfoca en la agenda oficialista en el Congreso",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-vuelve-hoy-francia-reenfoca-agenda-oficialista-congreso_0_ovWNCCsK3j.html",
+          "resumen": "Tras su regreso de París, el mandatario pondrá otra vez la lupa sobre las principales iniciativas que el oficialismo impulsa en el Parlamento, entre las que se incluyen el Presupuesto 2027 y la reforma electoral.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Quién es Rocío Gómez, la ladera de los Menem que Karina Milei ungió como referente de la juventud de LLA",
-          "link": "https://www.lanacion.com.ar/politica/quien-es-rocio-gomez-la-ladera-de-los-menem-que-karina-milei-ungio-como-referente-de-la-juventud-de-nid02102026/",
-          "resumen": "Oriunda de Lomas de Zamora, la funcionaria de 23 años ganó espacio en el partido del oficialismo y prepara un encuentro del Presidente con jóvenes libertarios; el vínculo distante con la tropa de tuiteros de Caputo",
+          "titulo": "La reforma laboral de Milei no seduce todavía a los creadores de empleo",
+          "link": "https://www.lanacion.com.ar/politica/la-reforma-laboral-de-milei-no-seduce-todavia-a-los-creadores-de-empleo-nid03102026/",
+          "resumen": "Se perdieron 143.458 empleos registrados desde la sanción de las leyes Bases y Modernización Laboral y se disparó la informalidad; también crecen los pedidos de Preventivos de Crisis; se activa el fondo para las indemnizaciones con una…",
           "fuente": "La Nación"
         },
         {
-          "titulo": "“La magia de París”: con promesas y concesiones, el Gobierno asume que consiguió los votos para eliminar las PASO",
-          "link": "https://www.infobae.com/politica/2026/10/02/la-magia-de-paris-con-promesas-y-concesiones-el-gobierno-asume-que-consiguio-los-votos-para-eliminar-las-paso/",
-          "resumen": "Karina Milei cedió y les prometió a los gobernadores que no les plantarán candidatos en sus distritos a cambio de que respalden la reforma política. Y Luis Caputo y el Presidente los escucharon. Sin embargo, no hubo definiciones de parte…",
+          "titulo": "El guiño de Cristina Kirchner a Uñac, las dudas en el PJ sobre las PASO y el mensaje de Kicillof al interior",
+          "link": "https://www.infobae.com/politica/2026/10/03/el-guino-de-cristina-kirchner-a-unac-las-dudas-en-el-pj-sobre-las-paso-y-el-mensaje-de-kicillof-al-interior/",
+          "resumen": "El peronismo avanza en el armado de una alternativa por vías muy diversas. La posible eliminación de las Primarias obliga a los principales dirigentes a delinear otros caminos para construir una opción",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Lousteau no pone límites para armar un frente anti-Milei: \"Que vengan Cristina, Bregman, los del PRO, todos\"",
-          "link": "https://www.clarin.com/politica/lousteau-pone-limites-armar-frente-anti-milei-vengan-cristina-bregman-pro_0_pRT4X9cLxW.html",
-          "resumen": "El diputado radical de Provincias Unidas habló de \"coordinar para ganar\", y sostuvo que el Presidente \"quiere un país distinto\" al que quieren \"todos los demás\". \"El candidato tiene que ser el que tenga más chances de ganarle a Milei\",…",
+          "titulo": "El nuevo proyecto de defensa sobre Malvinas abre posibles disputas de competencias entre la Armada y Prefectura",
+          "link": "https://www.clarin.com/politica/nuevo-proyecto-defensa-malvinas-abre-posibles-disputas-competencias-armada-prefectura_0_e6rYKK9FAf.html",
+          "resumen": "Con cambios en definiciones sobre asuntos policiales, infracciones administrativas, delito o amenazas a la seguridad nacional, algunas situaciones podrían superponer jurisdicciones.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: el mandatario cargó contra la prensa y la calificó de “sicarios de la pluma”",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-cargo-contra-la-prensa-y-la-califico-de-sicarios-de-nid02102026/",
-          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "titulo": "Elecciones en Brasil: Milei bajó la intensidad de sus ataques a Lula, pero apuesta al triunfo de Bolsonaro",
+          "link": "https://www.lanacion.com.ar/politica/elecciones-en-brasil-milei-bajo-la-intensidad-de-sus-ataques-a-lula-pero-apuesta-al-triunfo-de-nid03102026/",
+          "resumen": "El presidente argentino no fue tema de debate en el tramo final de la campaña; volvió a criticar al presidente de Brasil, pero no hubo esta vez respuesta",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Sin bancos por tres días: suman un nuevo feriado nacional para el sector en noviembre",
-          "link": "https://www.clarin.com/economia/bancos-dias-suman-nuevo-feriado-nacional-sector-noviembre_0_Cqzu5J8Nl6.html",
-          "resumen": "Además del día del Bancario el 6 de noviembre y el feriado nacional del 9, se dará asueto a los empleados a nivel nacional el martes 10.",
+          "titulo": "Lo que faltó en la vidriera argentina de París",
+          "link": "https://www.clarin.com/rural/falto-vidriera-argentina-paris_0_pTkt4cwhhX.html",
+          "resumen": "La Argentina Week reunió oportunidades de inversión en energía, minería, agroindustria y tecnología. No se mostró cómo la ciencia aplicada a la biología puede unir esos sectores, justo cuando Europa busca impulsar ese cambio.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El Gobierno afirma que se lleva US$27.000 millones en anuncios de inversión del Argentina Week París",
-          "link": "https://www.lanacion.com.ar/economia/el-gobierno-afirma-que-se-lleva-us27000-millones-en-anuncios-de-inversion-del-argentina-week-paris-nid02102026/",
-          "resumen": "Lo informó el embajador argentino en Francia, Ian Sielecki; destacó la participación de 13 gobernadores, los encuentros de Javier Milei con empresarios y los anuncios de inversión realizados durante la visita a París",
+          "titulo": "Trabajar para el exterior: las plataformas y billeteras virtuales para cobrar desde la Argentina en dólares o euros",
+          "link": "https://www.lanacion.com.ar/economia/trabajar-para-el-exterior-las-plataformas-y-billeteras-virtuales-para-cobrar-desde-la-argentina-en-nid03102026/",
+          "resumen": "Con comisiones reducidas y cuentas virtuales, billeteras virtuales locales ofrecen alternativas para que los trabajadores independientes reciban ingresos desde afuera",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El mal dato de empleo en EEUU enfría la posibilidad de que la Fed vuelva a subir la tasa en octubre",
-          "link": "https://www.ambito.com/economia/el-mal-dato-empleo-eeuu-enfria-la-posibilidad-que-la-fed-vuelva-subir-la-tasa-octubre-n6329388",
-          "resumen": "Las empresas estadounidenses crearon apenas un tercio de los empleados esperados por el mercado, mientras que la tasa de desempleo subió por primera vez desde febrero y el crecimiento de los salarios se desaceleró.",
+          "titulo": "Créditos hipotecarios UVA: bajan las tasas y reducen los ingresos mínimos para acceder",
+          "link": "https://www.ambito.com/economia/creditos-hipotecarios-uva-bajan-las-tasas-y-reducen-los-ingresos-minimos-acceder-n6329018",
+          "resumen": "Con las nuevas condiciones, más familias vuelven a mirar qué ofrecen los bancos para financiar una vivienda.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Tras superar los US$ 100, el petróleo baja fuerte: la medida de la UE que podría aliviar el suministro global",
-          "link": "https://www.clarin.com/mundo/superar-us-100-petroleo-baja-fuerte-medida-ue-podria-aliviar-suministro-global_0_n5Ha1TZvIr.html",
-          "resumen": "El bloque regional del Viejo Continente mantiene contactos de emergencia para estudiar una propuesta presentada por Francia, la cual plantea liberar 50 millones de barriles de crudo y la misma cantidad de barriles de diésel.",
+          "titulo": "Gobernadores con acento francés y algo más: en París pidieron “aflojar hasta abril”, hablaron de “derrame” y que están bajando impuestos",
+          "link": "https://www.clarin.com/economia/gobernadores-acento-frances-paris-pidieron-aflojar-abril-hablaron-derrame-bajando-impuestos_0_CH82MZz1kl.html",
+          "resumen": "Los mandatarios cerraron su gira por Francia conversando con empresarios e inversores sobre las posibilidades de inversión en sus provincias. Chaco y Catamarca se suman a la reducción de impuestos.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Negocio circular de la IA: el gigante que le presta US$42.000 millones a Anthropic para que después le compre sus chips",
-          "link": "https://www.lanacion.com.ar/economia/IA/negocio-circular-de-la-ia-el-gigante-que-le-presta-us42000-millones-a-anthropic-para-que-despues-le-nid02102026/",
-          "resumen": "La relación expone el circuito de gasto recíproco que despierta dudas entre los inversores de Wall Street",
+          "titulo": "Una minera global analiza una nueva inversión en el país para 2027",
+          "link": "https://www.lanacion.com.ar/economia/una-minera-global-analiza-una-nueva-inversion-en-el-pais-para-2027-nid03102026/",
+          "resumen": "Jérôme Pécresse, CEO de Rio Tinto para Aluminio y Litio, dijo que el RIGI fue un “habilitador crítico” para invertir en la Argentina y que están evaluando oportunidades en cobre en el país",
           "fuente": "La Nación"
         }
       ]
@@ -77,34 +77,34 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Tras el cachetazo a su plan para la vivienda, Pedro Sánchez queda al borde del abismo y analiza convocar a elecciones",
-          "link": "https://www.lanacion.com.ar/el-mundo/pedro-sanchez-recibe-un-reves-en-el-congreso-para-su-plan-de-vivienda-y-queda-al-borde-del-nid02102026/",
-          "resumen": "El oficialismo no consiguió los votos para aprobar su decreto “Maricarmen” y entró en un “período de reflexión” para definir su adelanta los comicios; continúa el acampe en la Puerta del Sol",
-          "fuente": "La Nación"
-        },
-        {
-          "titulo": "He aquí los paradigmas de la incompetencia absoluta",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/paradigmas-incompetencia-absoluta_0_y9Qeo4avlS.html",
-          "resumen": "El amanecer de la inteligencia artificial coincide con el ocaso de la cordura estadounidense.",
+          "titulo": "Miles de personas protestan en toda España por la crisis de vivienda: duras críticas a Pedro Sánchez y reclamo de \"huelga general\"",
+          "link": "https://www.clarin.com/mundo/miles-personas-protestan-toda-espana-crisis-vivienda-duras-criticas-pedro-sanchez-reclamo-huelga-general_0_dUjghhHNMy.html",
+          "resumen": "Las multitudinarias marchas fueron convocadas después del rechazo en el Congreso a los decretos que había firmado el Gobierno para intentar afrontar la problemática habitacional del país.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Quiénes son los candidatos a presidente de Brasil en las elecciones 2026",
-          "link": "https://www.lanacion.com.ar/el-mundo/quienes-son-los-candidatos-a-presidente-de-brasil-en-las-elecciones-2026-nid22092026/",
-          "resumen": "Se presentan 13 referentes de los espacios políticos que compiten para ocupar el máximo cargo del Ejecutivo; descubrí los detalles",
+          "titulo": "Una fuerte lluvia inundó las calles de Albacete: autos arrastrados, calles intransitables y estado de emergencia",
+          "link": "https://www.lanacion.com.ar/el-mundo/una-fuerte-lluvia-inundo-las-calles-de-albacete-autos-arrastrados-calles-intransitables-y-estado-de-nid03102026/",
+          "resumen": "El municipio español recibió intensas precipitaciones que en tres horas provocaron serias inundaciones; murió una mujer de 102 años",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El impulso de China hacia la IA ha generado un problema: un uso excesivo",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/impulso-china-ia-generado-problema-uso-excesivo_0_CnOMwD8dNG.html",
-          "resumen": "A medida que los ciudadanos adoptan la tecnología para el entretenimiento, las relaciones e incluso para obtener consejos sobre agricultura, el Gobierno está intensificando sus esfuerzos para establecer límites.",
+          "titulo": "Elecciones en Brasil: una nueva encuesta y el cierre de las campañas centralizan la última jornada antes de las urnas del domingo",
+          "link": "https://www.clarin.com/mundo/elecciones-brasil-nueva-encuesta-cierre-campanas-centralizan-ultima-jornada-urnas-domingo_0_IOI88h54lZ.html",
+          "resumen": "El nuevo sondeo de Data Folha se difundirá por la tarde y será el último registro antes de la votación. El anterior de este jueves de esa empresa le dio 5 puntos de diferencia a favor a Lula en la primera vuelta y tres en la segunda,…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Dónde voto para Brasil 2026 en la Argentina: consultá cómo se puede votar para el domingo 4 de octubre",
-          "link": "https://www.lanacion.com.ar/el-mundo/donde-voto-para-brasil-2026-en-la-argentina-consulta-como-se-puede-votar-para-el-domingo-4-de-nid22092026/",
-          "resumen": "Los residentes en el país debían anotarse en un registro de empadronamiento para emitir el sufragio; los detalles en la nota",
+          "titulo": "Colapsó en Hawái el arco Hōlei, uno de los puntos turísticos más conocidos",
+          "link": "https://www.lanacion.com.ar/el-mundo/colapso-en-hawai-el-arco-holei-uno-de-sus-puntos-turisticos-mas-conocidos-nid03102026/",
+          "resumen": "Ocurrió por la erosión propia del océano y fue confirmado por el Parque Nacional de los Volcanes",
           "fuente": "La Nación"
+        },
+        {
+          "titulo": "Elecciones en Brasil 2026: cómo votar desde Argentina",
+          "link": "https://www.clarin.com/mundo/elecciones-brasil-2026-votar-argentina_0_0mKF4aJUYO.html",
+          "resumen": "El trámite de inscripción o regularización electoral venció el 7 de mayo y quienes no lo hayan realizado no podrán participar de los comicios. La votación será el 4 de octubre, de 8 a 17, en la Embajada brasileña ubicada en Cerrito 1350,…",
+          "fuente": "Clarín"
         }
       ]
     },
@@ -112,34 +112,34 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "La insólita aparición de Flavio Briatore con una hoja y su renovada banca a Franco Colapinto: \"Estaba molesto, pero el pasado es el pasado\"",
-          "link": "https://www.clarin.com/deportes/insolita-aparicion-flavio-briatore-hoja-renovada-banca-franco-colapinto-molesto-pasado-pasado_0_pgaafNCqYK.html",
-          "resumen": "El jefe de Alpine llegó a una conferencia con un papel en la mano y generó una gran expectativa. Después se descubrió que la hoja no tenía nada escrito: fue una humorada del italiano. Más serio, se refirió al accidente de Franco en Bakú y…",
+          "titulo": "Defensa y Justicia vs San Lorenzo, EN VIVO, por el Torneo Clausura 2026: a qué hora juegan, formaciones y cómo verlo",
+          "link": "https://www.clarin.com/deportes/defensa-justicia-vs-san-lorenzo-vivo-torneo-clausura-2026-hora-juegan-formaciones-verlo_0_PI5B2N1pb9.html",
+          "resumen": "Chocan en Varela a partir de las 14.45 con TV en directo por ESPN Premium. El Halcón marcha cuarto en la Zona A y el Ciclón se ubica décimo. El árbitro es Luis Lobo Medina.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Por dónde pasan Boca vs. Unión y qué canal lo transmite en vivo",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-boca-vs-union-y-que-canal-lo-transmite-en-vivo-nid02102026/",
-          "resumen": "El encuentro correspondiente a la fecha 11 del Grupo A se disputa este viernes a las 21.30 en la Bombonera, con arbitraje de Sebastián Martínez",
+          "titulo": "Francisco Cerúndolo derrotó a Jakub Mensik y avanzó a los cuartos de final del ATP 500 de Pekín",
+          "link": "https://www.lanacion.com.ar/deportes/tenis/francisco-cerundolo-derroto-a-jakub-mensik-y-avanzo-a-los-cuartos-de-final-del-atp-500-de-pekin-nid03102026/",
+          "resumen": "El argentino tuvo una sólida tarea y este domingo se medirá con Medvedev; Zverev también ganó, se enfrentará con Djokovic y se acerca al N° 1",
           "fuente": "La Nación"
         },
         {
-          "titulo": "A qué hora juega hoy Boca vs. Unión y por dónde se puede ver EN VIVO el Torneo Clausura",
-          "link": "https://www.ole.com.ar/futbol-primera/boca-vs-union-partido-torneo-clausura-2026-vivo-minuto-minuto_0_uorfbMhW8X.html",
-          "resumen": "En la Bombonera, el Xeneize y el Tatengue se miden por la fecha 11, en un partido clave para ambos equipos en su pelea por seguir sumando en el campeonato. Seguilo en Olé",
+          "titulo": "Partidos de HOY, sábado 3 de octubre: horario y por dónde ver fútbol EN VIVO",
+          "link": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-sabado-3-octubre-2026-agenda-ole-horario-ver-futbol-vivo-online_0_qxdNcOAtUg.html",
+          "resumen": "Desde la UEFA Nations League hasta el amistoso de la Selección Argentina, pasando por el Torneo Clausura y el ascenso: la agenda completa del sábado.",
           "fuente": "Olé"
         },
         {
-          "titulo": "¿Fuga de estrellas en el Manchester City?: el club se defiende pero en Inglaterra advierten que sus figuras podrían irse libres",
-          "link": "https://www.clarin.com/deportes/fuga-estrellas-manchester-city-club-defiende-inglaterra-advierten-figuras-podrian-irse-libres_0_tbDVavlXpV.html",
-          "resumen": "El City presentó un recurso contra la resolución que lo declaró responsable de graves infracciones financieras. Todavía no se conocen las sanciones y la apelación podría extender el caso durante varios meses. El caso suma presión…",
+          "titulo": "Burkina Faso, rival de Argentina: por qué les dicen \"Los Sementales\" y quién es la joya que se formó en la misma escuela que Haaland",
+          "link": "https://www.clarin.com/deportes/burkina-faso-rival-argentina-dicen-sementales-joya-formo-misma-escuela-haaland_0_mCfANvq97M.html",
+          "resumen": "El seleccionado africano ocupa el puesto 62° del ranking FIFA, nunca jugó un Mundial y tiene a Edmond Tapsoba como principal figura. Llegará a Buenos Aires apenas cinco horas antes del partido tras un viaje cargado de problemas y con un…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Maracaná: la chance de que se juegue Vasco-Boca y el riesgo por el cambio del césped a semanas del Flamengo-Estudiantes",
-          "link": "https://www.ole.com.ar/futbol-internacional/america/boca-vasco-da-gama-sudamericana-marcana-campo-juego-estudiantes-libertadores-flamengo-juega_0_8NJCDCwokC.html",
-          "resumen": "El icónico estadio brasileño comenzó con un proceso de modificación en su campo de juego después de lo que fue el tremendo evento de NFL.",
-          "fuente": "Olé"
+          "titulo": "Cristiano Ronaldo echa nafta al fuego con un “like”, mientras en Portugal espera que acepte una reunión de paz con su entrenador",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/cristiano-ronaldo-echa-nafta-al-fuego-con-un-like-mientras-en-portugal-espera-que-acepte-una-reunion-nid03102026/",
+          "resumen": "Jorge Jesus aceptó participar de una reunión de paz impulsada por la Federación y esperan la respuesta de CR7, que reaccionó de manera llamativa a un duro cuestionamiento hacia sus compañeros",
+          "fuente": "La Nación"
         }
       ]
     }

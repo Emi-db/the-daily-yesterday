@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "2 de octubre de 2026",
-    "generada": "15:59",
+    "fecha": "3 de octubre de 2026",
+    "generada": "14:26",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "\"Tenemos miedo a perder la vida aquí\": los migrantes de América Latina que EE.UU. deporta a República Centroafricana",
-            "link": "https://www.bbc.com/mundo/articles/c8046w1kgpgwo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Tenían protecciones ante la deportación ordenadas por un tribunal de inmigración y acabaron en otro continente, en un país del que no tenían referencias. Allí esperan un \"milagro\" para poder regresar a EE.UU.",
+            "titulo": "Thomas Piketty: \"El nerviosismo que vemos hoy en Washington tiene que ver con el hecho de que EE.UU. está perdiendo el control sobre el mundo\"",
+            "link": "https://www.bbc.com/mundo/articles/cw8r6rdyz2p0o?at_medium=RSS&at_campaign=rss",
+            "resumen": "El economista francés confía en que el mundo avanzará hacia un orden multipolar, con mayor peso de las fuerzas democráticas e impulsado, en buena medida, por la presión del sur global.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Zelenski a EL PAÍS, ante la nueva ofensiva rusa contra Kiev: “Putin no teme a los europeos”",
-            "link": "https://elpais.com/internacional/2026-10-02/zelenski-a-el-pais-ante-la-nueva-ofensiva-rusa-contra-kiev-putin-no-teme-a-los-europeos.html",
-            "resumen": "En una conversación en un colegio recién bombardeado este jueves, el presidente afirma que Moscú busca “que los ucranios abandonen la capital”",
+            "titulo": "Rusia bombardea cuatro puentes clave en Kiev y siembra el caos",
+            "link": "https://elpais.com/internacional/2026-10-03/rusia-bombardea-cuatro-puentes-clave-en-kiev-y-siembra-el-caos.html",
+            "resumen": "La nueva estrategia en la ofensiva del Kremlin deja a la capital ucrania en una situación “dramática”, según las autoridades",
             "fuente": "El País"
           },
           {
-            "titulo": "‘Voces de debajo de los escombros’: relatos de Gaza a París",
-            "link": "https://www.france24.com/es/programas/escala-en-par%C3%ADs/20261002-voces-de-debajo-de-los-escombros-relatos-de-gaza-a-par%C3%ADs",
-            "resumen": "Huir de la guerra no siempre significa abandonar una vocación. Duha Abd Allatif, escritora y educadora palestina de 32 años, logró salir de Gaza junto a su marido y sus dos hijos después de un año de espera. Hoy, instalada desde hace…",
+            "titulo": "Brasil, Trump y el futuro geopolítico de América: ¿qué está en juego?",
+            "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20261003-brasil-trump-y-el-futuro-geopol%C3%ADtico-de-am%C3%A9rica-qu%C3%A9-est%C3%A1-en-juego",
+            "resumen": "Brasil vota el 4 de ocubre en unas elecciones presidenciales y legislativas marcadas por la disputa entre Lula da Silva y Flávio Bolsonaro, cuyo resultado puede influir en el equilibrio geopolítico de América y en la relación con Donald…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Por qué los católicos votan más a Lula, los evangélicos a Bolsonaro y cómo una polémica por una virgen influye en las elecciones de Brasil",
-            "link": "https://www.bbc.com/mundo/articles/cqr7d7xe1y9lo?at_medium=RSS&at_campaign=rss",
-            "resumen": "El país sudamericano va a las urnas el domingo tras una controversia sobre su santa patrona que avivó la campaña polarizada entre izquierda y derecha.",
+            "titulo": "La fiscalía de Emiratos Árabes Unidos afirma que el copiloto del vuelo de Dubái a Israel atacó al capitán con un hacha",
+            "link": "https://www.bbc.com/mundo/articles/cm89zwqvnj72o?at_medium=RSS&at_campaign=rss",
+            "resumen": "El hombre acusado de intentar secuestrar el vuelvo de Flydubai ha sido identificado por varios medios de comunicación como Hamam al-Hammami.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Las protestas estudiantiles en Francia ponen en aprietos al Gobierno",
-            "link": "https://elpais.com/internacional/2026-10-02/la-ola-de-protestas-estudiantiles-en-francia-pone-al-gobierno-contra-las-cuerdas.html",
-            "resumen": "Cerca de 2.000 personas fueron detenidas el jueves durante disturbios en varias manifestaciones. El ministro de Educación se reúne con alumnos y padres para abordar la falta de recursos y las malas condiciones de los centros educativos",
+            "titulo": "Emiratos Árabes constata que el piloto del vuelo a Tel Aviv pretendía cometer una “acción terrorista”",
+            "link": "https://elpais.com/internacional/2026-10-03/emiratos-arabes-constata-que-el-piloto-del-vuelo-a-tel-aviv-pretendia-cometer-un-acto-terrorista.html",
+            "resumen": "La Fiscalía, que investiga el incidente, señala que el arrestado atacó al comandante con una hacha pequeña. Netanyahu amenaza: “Si fue enviado por alguien, pagará un precio muy alto”",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
+            "titulo": "Más del 70% de los afiliados extranjeros regularizados provienen de Latinoamérica",
+            "link": "https://elpais.com/economia/2026-10-03/mas-del-70-de-los-afiliados-extranjeros-regularizados-provienen-de-latinoamerica.html",
+            "resumen": "Trabajo admite que hay 56.000 personas provenientes del proceso regularizador inscritas en el SEPE, pero precisa que más de la mitad no tarda ni un mes en encontrar empleo",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Las manifestaciones por la vivienda recorren todo el país con llamadas a la huelga general",
+            "link": "https://www.expansion.com/economia/2026/10/03/6ac0e1dbe5fdeaff178b4594.html",
+            "resumen": "La portavoz del Sindicato de Inquilinas de Madrid, Valeria Racu, aseguró este sábado que, \"pase lo que pase a nivel electoral, el camino está claro que es hacia la huelga general\", algo que, anunció, \"será pronto\". Leer",
+            "fuente": "Expansión"
+          },
+          {
             "titulo": "El Congreso tumba los decretos de vivienda y abona el terreno para un adelanto electoral",
             "link": "https://elpais.com/espana/2026-10-02/el-debate-de-los-decretos-se-convierte-en-un-juicio-demoledor-contra-junts.html",
             "resumen": "Sánchez, a PP, Vox y Junts: “La historia les juzgará antes de lo que creen y con más contundencia de la que imaginan”",
             "fuente": "El País"
           },
           {
-            "titulo": "Estas son las medidas de vivienda que decaen tras el veto del Congreso y así queda ahora el mercado",
-            "link": "https://www.expansion.com/inmobiliario/mercado/2026/10/02/6abfa260468aeba2368b4594.html",
-            "resumen": "Los dos decretos de vivienda aprobados por el Ejecutivo esta semana no han conseguido el apoyo parlamentario y, por lo tanto, sus medidas decaen después de estar en vigor apenas uno y dos días después de su publicación en el Boletín…",
+            "titulo": "Alivio en el sector inmobiliario, con cautela ante el riesgo de más caída en la oferta de alquileres",
+            "link": "https://www.expansion.com/economia/2026/10/03/6abfef4fe5fdeaca498b4575.html",
+            "resumen": "Los expertos inmobiliarios consultados por este diario celebran la derogación de los dos decretos de vivienda, aunque advierten de los daños que el caos por la crisis de vivienda podría provocar una caída en la oferta de alquileres de…",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Qué cae tras el rechazo de los decretos de vivienda: del escudo antidesahucios a la prórroga del alquiler y las ayudas a la compra",
-            "link": "https://elpais.com/economia/vivienda/2026-10-02/que-cae-tras-el-rechazo-de-los-decretos-de-vivienda-del-escudo-antidesahucios-a-la-prorroga-del-alquiler-y-las-ayudas-a-la-compra.html",
-            "resumen": "PP, Vox y Junts tumban las rebajas fiscales a caseros e inquilinos y los topes a la actualización de la renta en un contexto de alta inflación. También caen las prórrogas indefinidas de los contratos",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Así son las novedades que añade la propuesta alternativa de Junts para la vivienda",
-            "link": "https://www.expansion.com/inmobiliario/mercado/2026/10/02/6abf9196468aeb803c8b4596.html",
-            "resumen": "Junts per Catalunya ayer anunció que no iba a apoyar los dos decretos de vivienda aprobados por el Gobierno y le pidió que los retirará para negociar una nueva propuesta. Leer",
-            "fuente": "Expansión"
-          },
-          {
-            "titulo": "Bruselas advierte del riesgo de reestructurar la deuda del fondo europeo de recuperación como propone España",
-            "link": "https://elpais.com/economia/2026-10-02/bruselas-advierte-del-riesgo-de-reestructurar-la-deuda-del-fondo-europeo-de-recuperacion-como-propone-espana.html",
-            "resumen": "La Comisión señala que aplazar la amortización o pagar menos capital al principio aumenta el coste de los intereses",
+            "titulo": "El buen legado del decreto de vivienda",
+            "link": "https://elpais.com/economia/2026-10-03/el-buen-legado-del-decreto-de-vivienda.html",
+            "resumen": "Las propuestas del Gobierno para regular los alquileres, fondos buitres y desahucios acercan a España a un equilibrio entre una intervención y mercado",
             "fuente": "El País"
           }
         ]
@@ -84,9 +84,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Los grandes líderes de la IA, como niños temerosos ante un matón",
-            "link": "https://elpais.com/tecnologia/2026-10-02/los-grandes-lideres-de-la-ia-como-ninos-temerosos-ante-un-maton.html",
-            "resumen": "Un rato en el jardín de la Casa Blanca al lado de Donald Trump puede ser eterno: el presidente puso en ridículo a algunos de los personajes más ricos y poderosos del planeta",
+            "titulo": "Irse de vacaciones y no subirlo a las redes: “El viaje vuelve a valer por sí mismo”",
+            "link": "https://elpais.com/tecnologia/2026-10-03/irse-de-vacaciones-y-no-subirlo-a-las-redes-el-viaje-vuelve-a-valer-por-si-mismo.html",
+            "resumen": "Hartos del postureo, algunos viajeros optan por vivir la experiencia sin editarla mentalmente para una audiencia. Es lo que se conoce como ‘zeroposting’",
             "fuente": "El País"
           },
           {
@@ -96,9 +96,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Cómo usar tu móvil como una cámara profesional sin gastar más",
-            "link": "https://elpais.com/tecnologia/tu-tecnologia/2026-10-02/como-usar-tu-movil-como-una-camara-profesional-sin-gastar-mas.html",
-            "resumen": "Los teléfonos tienen más posibilidades fotográficas de las que probablemente utilizas. Con algunos ajustes y una buena composición puedes conseguir resultados mucho mejores",
+            "titulo": "Los grandes líderes de la IA, como niños temerosos ante un matón",
+            "link": "https://elpais.com/tecnologia/2026-10-02/los-grandes-lideres-de-la-ia-como-ninos-temerosos-ante-un-maton.html",
+            "resumen": "Un rato en el jardín de la Casa Blanca al lado de Donald Trump puede ser eterno: el presidente puso en ridículo a algunos de los personajes más ricos y poderosos del planeta",
             "fuente": "El País"
           },
           {
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "El Barça respira tras las pruebas a Raphinha: estará contra el Getafe",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261002/1004233724/barca-respira-pruebas-raphinha-estara-getafe.html",
-            "resumen": "Raphinha podrá jugar contra el Getafe el sábado 10 (18.30 h.) en el Spotify Camp Nou en el próximo encuentro de Liga del intratable Barça, líder con 21 puntos de 21 posibles. El delantero brasileño fue examinado en la Ciutat Esportiva…",
+            "titulo": "El Barça, sin noticias por ahora de que el temporal afecte al Clásico femenino",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261003/1004234126/barca-noticias-temporal-afecte-clasico-femenino.html",
+            "resumen": "El FC Barcelona no tiene por ahora notificación alguna de la Generalitat de Catalunya ni de otros organismos en referencia al temporal de lluvia que puede afectar buena parte de Catalunya durante la última parte del día de este sábado…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Ferran Torres, nueva baja en la selección española: ya hay sustituto",
-            "link": "https://www.mundodeportivo.com/seleccion-espanola/20261002/1004233788/ferran-torres.html",
-            "resumen": "La RFEF ha informado este viernes de que Ferran Torres causa baja en la concentración de la selección española por culpa de unas molestias en el tobillo izquierdo. Le sustituye en la convocatoria el jugador del Real Madrid Carlos Espí ,…",
+            "titulo": "Vicky López, baja para el Clásico",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261003/1004234110/vicky-lopez-baja-clasico-convocada-seleccion.html",
+            "resumen": "Pere Romeu confirmó que Vicky López se perderá el primer Clásico de la temporada . La atacante azulgrana no entrará en la convocatoria para enfrentarse al Real Madrid en el Spotify Camp Nou. El club informó que sufría una lesión…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "October 2, 2026",
-    "generada": "15:59",
+    "fecha": "October 3, 2026",
+    "generada": "14:26",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-            "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+            "titulo": "Flydubai co-pilot attacked captain with axe, UAE official says",
+            "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
-            "link": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
-            "resumen": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about Pharaohs’ origins On the eve of Chinese president Xi Jinping’s state visit to Cairo last…",
+            "titulo": "Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities",
+            "link": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar",
+            "resumen": "Western Libya’s GNU say working with Saddam Haftar ‘impossible’ as US-backed merger plan breaks down Allegations that the son of the Libyan warlord Khalifa Haftar oversaw a “terror cell” that launched drone attacks on fuel storage…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "How Flydubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
+            "titulo": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
             "link": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
             "resumen": "A badly wounded Indian pilot managed to unlock the cockpit door. Four Israeli men teamed up to overwhelm an attacker and avert disaster.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Cornell students gather to voice anger over alleged gang rape",
-            "link": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced.",
+            "titulo": "Russia hits second major bridge in Ukraine's capital Kyiv",
+            "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+            "resumen": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Trump administration diverts human rights funds to push far-right agenda abroad",
-            "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
-            "resumen": "Support such as for white Afrikaners and anti-communism reveals how US is redefining what qualifies as human rights With hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state…",
+            "titulo": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+            "link": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+            "resumen": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about pharaohs’ origins On the eve of the Chinese president Xi Jinping’s state visit to Cairo…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,27 +189,27 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "US jobs market sees sharp slowdown ahead of midterm elections",
-            "link": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away.",
+            "titulo": "G7 to release millions of barrels of oil and diesel after Trump threat",
+            "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Nasdaq hits record high after weaker-than-expected US jobs report – business live",
-            "link": "https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates",
-            "resumen": "US economy only added 29,000 jobs in September, which might deter the Federal Reserve from raising interest rates UK diesel price hits record high of £2 a litre Core inflation in the eurozone also inched up last month. Inflation,…",
+            "titulo": "The American dream remains elusive in the valley that inspired East of Eden",
+            "link": "https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck",
+            "resumen": "John Steinbeck’s hometown of Salinas is the least affordable city in the US for the middle class, a recent Brookings Institution analysis found Nestled between two mountain ranges at the crook of central California’s coastline sits a…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Here’s the latest.",
-            "link": "https://www.nytimes.com/live/2026/10/02/business/jobs-report-economy/heres-the-latest",
-            "resumen": "",
+            "titulo": "As A.I. Agents Begin Shopping, Brands Are Changing Their Sales Pitch",
+            "link": "https://www.nytimes.com/2026/10/03/business/dealbook/ai-agent-marketing.html",
+            "resumen": "Faced with bots immune to traditional marketing tactics, marketers are racing to win them over with logic and data.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
-            "link": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
-            "resumen": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
+            "titulo": "Suppliers pile pressure on government over energy bills",
+            "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
             "fuente": "BBC"
           },
           {
@@ -224,9 +224,9 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "How to move 1,300 plants for Kew's Palm House mega makeover",
-            "link": "https://www.bbc.co.uk/news/videos/c914d43gg2zdo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The world-famous Palm House at the Royal Botanic Gardens Kew in London is about to undergo a massive makeover.",
+            "titulo": "Could El Niño mean there are no Atlantic hurricanes this year?",
+            "link": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
+            "resumen": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
             "fuente": "BBC"
           },
           {
@@ -242,9 +242,9 @@ const EDICION_MUNDO = {
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "How to see the Orionid meteor shower from Friday",
-            "link": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Friday sees the start of the Orionid meteor shower as Earth passes through debris left behind by Halley’s Comet. It peaks later in October.",
+            "titulo": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
+            "link": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend.",
             "fuente": "BBC"
           },
           {
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Man City confirm appeal against guilty verdict",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The club's statement says the ruling contains \"clear material errors, of law, principle and fact, and is unsafe\".",
+            "titulo": "'Incredible' Red Bull upgrade enlivens F1 in Malaysia",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/c5vgj31224kmo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Even Lewis Hamilton fears Max Verstappen will be tough to beat in Sunday's Bahrain Grand Prix in Malaysia.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Victor Wembanyama said no to gambling money. In today’s NBA, that feels radical",
-            "link": "https://www.theguardian.com/sport/2026/oct/02/victor-wembanyama-sports-betting-gambling-nba",
-            "resumen": "As LeBron James and other NBA stars wholeheartedly embrace the murk of betting and prediction markets, the San Antonio Spurs’ 22-year-old cornerstone has drawn a refreshing line If the song from LeBron James’s agonizing Polymarket ad is…",
+            "titulo": "Manchester City’s guilty verdict brings football’s great sell-off crashing to earth",
+            "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/03/manchester-city-guilty-verdict-football",
+            "resumen": "On the day Andy Burnham spoke of the wrong turn Britain took under Thatcher, football was facing a day of reckoning over its own story of corporate acquisition It was somehow fitting that Tuesday’s damning ruling against Manchester City…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "What does Man City guilty verdict mean for their squad?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c68jdjdz32n3o?at_medium=RSS&at_campaign=rss",
-            "resumen": "BBC Sport looks at how Manchester City's guilty verdict will affect their existing players' futures and the club's dealings in the transfer market.",
+            "titulo": "Republic of Ireland news conference ends abruptly amid accusations",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cm78p5x6xqq7o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Republic of Ireland manager Heimir Hallgrimsson's pre-match news conference ends abruptly as accusations are levelled at his players.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Watson and Browns hold off Steelers’ fightback on last-gasp 56-yard field goal",
-            "link": "https://www.theguardian.com/sport/2026/oct/02/browns-steelers-deshaun-watson-andre-szmyt-nfl",
-            "resumen": "Szmyt hits career-long kick with 10 seconds remaining Cleveland improve to 3-1 after surviving Pittsburgh rally Rodgers throws three TDs but two costly interceptions Deshaun Watson passed for 268 yards and moved the Browns into position…",
+            "titulo": "Clay Travis: inside the Maga permadad’s world of sports bros, trans panic and mortgages",
+            "link": "https://www.theguardian.com/sport/2026/oct/02/clay-travis-sport-and-state",
+            "resumen": "The rightwing media mogul has lost ground to the likes of Pat McAfee and Joe Rogan. He’s hoping his new venture can recapture some headway When Maga media blowhard Clay Travis offered $2m to Colin Kaepernick last week to appear on the…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Tuchel would never rule out players not in top flight",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqd095z49gjvo?at_medium=RSS&at_campaign=rss",
-            "resumen": "England boss Thomas Tuchel says he would \"never rule out\" selecting someone who is not playing in the top flight, should Manchester City be relegated.",
+            "titulo": "Pretorius breaks Gayle's T20 record score",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Lhuan-dre Pretorius breaks Chris Gayle's record for the highest score in a men's T20 match with an unbeaten 188 in a domestic fixture in South Africa.",
             "fuente": "BBC"
           }
         ]
