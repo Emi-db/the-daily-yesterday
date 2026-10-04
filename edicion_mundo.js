@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "3 de octubre de 2026",
-    "generada": "14:26",
+    "fecha": "4 de octubre de 2026",
+    "generada": "15:01",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Thomas Piketty: \"El nerviosismo que vemos hoy en Washington tiene que ver con el hecho de que EE.UU. está perdiendo el control sobre el mundo\"",
-            "link": "https://www.bbc.com/mundo/articles/cw8r6rdyz2p0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "El economista francés confía en que el mundo avanzará hacia un orden multipolar, con mayor peso de las fuerzas democráticas e impulsado, en buena medida, por la presión del sur global.",
+            "titulo": "\"Mitbestimmung\": cómo Alemania obliga a las grandes empresas a dar voz a los trabajadores en la toma de decisiones (y qué impacto tiene en la economía)",
+            "link": "https://www.bbc.com/mundo/articles/cp3rxlq1nlno?at_medium=RSS&at_campaign=rss",
+            "resumen": "La presencia de trabajadores en los órganos de gobierno de las empresas con más de 2.000 trabajadores es un fenómeno extendido en Alemana gracias a una ley. Pero, ¿cómo beneficia a las compañías y a la economía del país?",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Rusia bombardea cuatro puentes clave en Kiev y siembra el caos",
-            "link": "https://elpais.com/internacional/2026-10-03/rusia-bombardea-cuatro-puentes-clave-en-kiev-y-siembra-el-caos.html",
-            "resumen": "La nueva estrategia en la ofensiva del Kremlin deja a la capital ucrania en una situación “dramática”, según las autoridades",
+            "titulo": "Brasil decide su futuro entre Lula y Bolsonaro, un estadista desgastado y el hijo de un ultra",
+            "link": "https://elpais.com/america/2026-10-04/brasil-decide-su-futuro-entre-lula-y-bolsonaro-un-estadista-desgastado-y-un-hijo-de-papa-ultra.html",
+            "resumen": "El presidente Lula y Flávio Bolsonaro, hijo del exmandatario golpista, se disputan la presidencia en una elección totalmente abierta",
             "fuente": "El País"
           },
           {
-            "titulo": "Brasil, Trump y el futuro geopolítico de América: ¿qué está en juego?",
-            "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20261003-brasil-trump-y-el-futuro-geopol%C3%ADtico-de-am%C3%A9rica-qu%C3%A9-est%C3%A1-en-juego",
-            "resumen": "Brasil vota el 4 de ocubre en unas elecciones presidenciales y legislativas marcadas por la disputa entre Lula da Silva y Flávio Bolsonaro, cuyo resultado puede influir en el equilibrio geopolítico de América y en la relación con Donald…",
+            "titulo": "España: dos muertos y un desaparecido tras récord de lluvias en Cataluña",
+            "link": "https://www.france24.com/es/europa/20261004-espa%C3%B1a-dos-muertos-y-un-desaparecido-tras-r%C3%A9cord-de-lluvias-en-catalu%C3%B1a",
+            "resumen": "Por primera vez en 143 años, desde que hay estadísticas, Barcelona reporta más de 200 litros de lluvia por metro cuadrado tras una jornada que \"pasará a la historia de los registros climáticos\", según el Servicio Meteorológico de…",
             "fuente": "France 24"
           },
           {
-            "titulo": "La fiscalía de Emiratos Árabes Unidos afirma que el copiloto del vuelo de Dubái a Israel atacó al capitán con un hacha",
-            "link": "https://www.bbc.com/mundo/articles/cm89zwqvnj72o?at_medium=RSS&at_campaign=rss",
-            "resumen": "El hombre acusado de intentar secuestrar el vuelvo de Flydubai ha sido identificado por varios medios de comunicación como Hamam al-Hammami.",
+            "titulo": "Entrevisté a Christa Pike hace 20 años y no puedo dejar de pensar en ella",
+            "link": "https://www.bbc.com/mundo/articles/c62e9kx0424do?at_medium=RSS&at_campaign=rss",
+            "resumen": "La periodista británica Helen Roberts dijo a la BBC que en Christa Pike conviven dos facetas distintas: una personal y una criminal.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Emiratos Árabes constata que el piloto del vuelo a Tel Aviv pretendía cometer una “acción terrorista”",
-            "link": "https://elpais.com/internacional/2026-10-03/emiratos-arabes-constata-que-el-piloto-del-vuelo-a-tel-aviv-pretendia-cometer-un-acto-terrorista.html",
-            "resumen": "La Fiscalía, que investiga el incidente, señala que el arrestado atacó al comandante con una hacha pequeña. Netanyahu amenaza: “Si fue enviado por alguien, pagará un precio muy alto”",
+            "titulo": "Ni Bolsonaro, ni Lula: Trump se reserva (de momento) su apoyo en las elecciones de Brasil",
+            "link": "https://elpais.com/america/2026-10-04/ni-bolsonaro-ni-lula-trump-se-reserva-de-momento-su-apoyo-en-las-elecciones-de-brasil.html",
+            "resumen": "El presidente de EE UU no se ha decantado por ninguno de los candidatos, aunque las injerencias de Washington en la política interna del país iberoamericano han sido constantes",
             "fuente": "El País"
           }
         ]
@@ -43,9 +43,21 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Más del 70% de los afiliados extranjeros regularizados provienen de Latinoamérica",
-            "link": "https://elpais.com/economia/2026-10-03/mas-del-70-de-los-afiliados-extranjeros-regularizados-provienen-de-latinoamerica.html",
-            "resumen": "Trabajo admite que hay 56.000 personas provenientes del proceso regularizador inscritas en el SEPE, pero precisa que más de la mitad no tarda ni un mes en encontrar empleo",
+            "titulo": "El apocalipsis laboral de la IA se pospone (por ahora)",
+            "link": "https://elpais.com/economia/2026-10-04/el-apocalipsis-laboral-de-la-ia-se-pospone-por-ahora.html",
+            "resumen": "Los expertos vislumbran más cambios cualitativos (reconversión de empleos, dificultades para los jóvenes) que cuantitativos (despidos masivos), pese a las predicciones catastrofistas de la industria, y alertan del alza de la desigualdad",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "La regulación resta atractivo a la compra para alquiler de vivienda",
+            "link": "https://www.expansion.com/mercados/2026/10/03/6abfed6e468aebf5548b457a.html",
+            "resumen": "Una congelación de precios de los arrendamientos unida a la subida del coste de las casas y al encarecimiento de las condiciones de financiación, obligan a hilar más fino a la hora de invertir. Leer",
+            "fuente": "Expansión"
+          },
+          {
+            "titulo": "La tensión por el aumento de las bajas laborales pone en el foco el papel de las mutuas",
+            "link": "https://elpais.com/economia/2026-10-04/la-tension-por-el-aumento-de-las-bajas-laborales-pone-en-el-foco-el-papel-de-las-mutuas.html",
+            "resumen": "Los sindicatos critican con ferocidad a estas entidades, a las que Feijóo propone dar más poder, y abren el debate sobre hacer pública su gestión, ahora en manos empresariales",
             "fuente": "El País"
           },
           {
@@ -55,21 +67,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "El Congreso tumba los decretos de vivienda y abona el terreno para un adelanto electoral",
-            "link": "https://elpais.com/espana/2026-10-02/el-debate-de-los-decretos-se-convierte-en-un-juicio-demoledor-contra-junts.html",
-            "resumen": "Sánchez, a PP, Vox y Junts: “La historia les juzgará antes de lo que creen y con más contundencia de la que imaginan”",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Alivio en el sector inmobiliario, con cautela ante el riesgo de más caída en la oferta de alquileres",
-            "link": "https://www.expansion.com/economia/2026/10/03/6abfef4fe5fdeaca498b4575.html",
-            "resumen": "Los expertos inmobiliarios consultados por este diario celebran la derogación de los dos decretos de vivienda, aunque advierten de los daños que el caos por la crisis de vivienda podría provocar una caída en la oferta de alquileres de…",
-            "fuente": "Expansión"
-          },
-          {
-            "titulo": "El buen legado del decreto de vivienda",
-            "link": "https://elpais.com/economia/2026-10-03/el-buen-legado-del-decreto-de-vivienda.html",
-            "resumen": "Las propuestas del Gobierno para regular los alquileres, fondos buitres y desahucios acercan a España a un equilibrio entre una intervención y mercado",
+            "titulo": "Combatir la agenda neoliberal desde la izquierda: así son las recetas de los mejores economistas progresistas del mundo",
+            "link": "https://elpais.com/economia/negocios/2026-10-03/combatir-la-agenda-neoliberal-desde-la-izquierda-asi-son-las-recetas-de-los-mejores-economistas-progresistas-del-mundo.html",
+            "resumen": "Thomas Piketty, Daron Acemoglu, Dani Rodrik, Branko Milanovic, Mariana Mazzucato, Abhijit Banerjee y Ha-Joon Chang dan soluciones ante retos como la vivienda, la desigualdad, el cambio climático o el impacto de la IA en el mercado laboral",
             "fuente": "El País"
           }
         ]
@@ -78,9 +78,9 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "Christina Koch, primera mujer en viajar hasta la Luna: “Veíamos destellos azules cuando cerrábamos los ojos”",
-            "link": "https://elpais.com/ciencia/2026-10-02/christina-koch-primera-mujer-en-viajar-hasta-la-luna-veiamos-destellos-azules-cuando-cerrabamos-los-ojos.html",
-            "resumen": "La astronauta y científica habla con EL PAÍS sobre su experiencia durante la histórica misión Artemis 2 y advierte sobre los peligros de la carrera espacial con China",
+            "titulo": "La cara oculta del éxito de Starship: Musk deja fuera de juego a la NASA con su plan para dominar el cielo",
+            "link": "https://elpais.com/ciencia/2026-10-04/la-cara-oculta-del-exito-de-starship-musk-deja-fuera-de-juego-a-la-nasa-con-su-plan-para-dominar-el-cielo.html",
+            "resumen": "SpaceX se va a centrar solo en su megacohete, para ampliar su red Starlink y llevar al espacio sus centros de datos de IA, antes que en viajar a la Luna o lanzar satélites para otras empresas",
             "fuente": "El País"
           },
           {
@@ -90,9 +90,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "La ciencia confirma que la terapia más segura para tratar la menopausia es la que escasea en España",
-            "link": "https://elpais.com/ciencia/2026-10-02/la-ciencia-confirma-que-la-terapia-mas-segura-para-tratar-la-menopausia-es-la-que-escasea-en-espana.html",
-            "resumen": "Una revisión publicada en ‘Science’ sitúa el estradiol por vía transdérmica como la mejor opción, pero estas formulaciones están casi desaparecidas de las farmacias españolas",
+            "titulo": "Christina Koch, primera mujer en viajar hasta la Luna: “Veíamos destellos azules cuando cerrábamos los ojos”",
+            "link": "https://elpais.com/ciencia/2026-10-02/christina-koch-primera-mujer-en-viajar-hasta-la-luna-veiamos-destellos-azules-cuando-cerrabamos-los-ojos.html",
+            "resumen": "La astronauta y científica habla con EL PAÍS sobre su experiencia durante la histórica misión Artemis 2 y advierte sobre los peligros de la carrera espacial con China",
             "fuente": "El País"
           },
           {
@@ -102,9 +102,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Google lanza su primer satélite para llevarse los centros de datos al espacio",
-            "link": "https://elpais.com/tecnologia/2026-10-01/google-lanza-su-primer-satelite-para-llevarse-los-centros-de-datos-al-espacio.html",
-            "resumen": "La empresa investiga cómo crear servidores en la órbita terrestre. SpaceX y otras empresas le llevan cuerpos de ventaja",
+            "titulo": "La ciencia confirma que la terapia más segura para tratar la menopausia es la que escasea en España",
+            "link": "https://elpais.com/ciencia/2026-10-02/la-ciencia-confirma-que-la-terapia-mas-segura-para-tratar-la-menopausia-es-la-que-escasea-en-espana.html",
+            "resumen": "Una revisión publicada en ‘Science’ sitúa el estradiol por vía transdérmica como la mejor opción, pero estas formulaciones están casi desaparecidas de las farmacias españolas",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "El Barça, sin noticias por ahora de que el temporal afecte al Clásico femenino",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261003/1004234126/barca-noticias-temporal-afecte-clasico-femenino.html",
-            "resumen": "El FC Barcelona no tiene por ahora notificación alguna de la Generalitat de Catalunya ni de otros organismos en referencia al temporal de lluvia que puede afectar buena parte de Catalunya durante la última parte del día de este sábado…",
+            "titulo": "Laporta estará en la cumbre por la oferta de la NBA a la Euroliga",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261004/1004234476/laporta-estara-cumbre-oferta-nba-euroliga.html",
+            "resumen": "El FC Barcelona estará representado mañana y pasado al máximo nivel en la cumbre de los 13 clubs de la Euroliga que se celebrará en el lago de Como , en Italia. Finalmente será Joan Laporta quien lidere la delegación azulgrana.…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Vicky López, baja para el Clásico",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261003/1004234110/vicky-lopez-baja-clasico-convocada-seleccion.html",
-            "resumen": "Pere Romeu confirmó que Vicky López se perderá el primer Clásico de la temporada . La atacante azulgrana no entrará en la convocatoria para enfrentarse al Real Madrid en el Spotify Camp Nou. El club informó que sufría una lesión…",
+            "titulo": "Koundé hace autocrítica y acepta su suplencia en el Barça",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261004/1004234410/kounde-autocritica-acepta-suplencia-barca.html",
+            "resumen": "Jules Koundé (27 años) es de los jugadores que van siempre de cara. En vísperas del duelo frente a Bélgica de este lunes, en partido correspondiente de la jornada 4 de la Nations League, el lateral azulgrana compareció en rueda de prensa.…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,16 +147,16 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "October 3, 2026",
-    "generada": "14:26",
+    "fecha": "October 4, 2026",
+    "generada": "15:01",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Flydubai co-pilot attacked captain with axe, UAE official says",
-            "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+            "titulo": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+            "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
             "fuente": "BBC"
           },
           {
@@ -166,15 +166,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
-            "link": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
-            "resumen": "A badly wounded Indian pilot managed to unlock the cockpit door. Four Israeli men teamed up to overwhelm an attacker and avert disaster.",
+            "titulo": "Superpowers Race to Put Nuclear Reactors on the Moon",
+            "link": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html",
+            "resumen": "The United States wants a reactor on the moon by 2030. A Russian-Chinese alliance is working on one for 2036. Some leading scientists say the danger is great.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Russia hits second major bridge in Ukraine's capital Kyiv",
-            "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-            "resumen": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
+            "titulo": "Watch: What we know about Russian strikes on Kyiv bridges",
+            "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+            "resumen": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
             "fuente": "BBC"
           },
           {
@@ -195,15 +195,15 @@ const EDICION_MUNDO = {
             "fuente": "BBC"
           },
           {
-            "titulo": "The American dream remains elusive in the valley that inspired East of Eden",
-            "link": "https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck",
-            "resumen": "John Steinbeck’s hometown of Salinas is the least affordable city in the US for the middle class, a recent Brookings Institution analysis found Nestled between two mountain ranges at the crook of central California’s coastline sits a…",
+            "titulo": "MS Now connects ‘blue dots’ at Texas fan event: ‘I always feel hope when I watch them’",
+            "link": "https://www.theguardian.com/media/2026/oct/04/ms-now-fan-event-texas",
+            "resumen": "Network at receiving end of White House press ban recently chose red state to host fan event as part of broader outreach In 2024, Donald Trump and JD Vance carried Tarrant county, Texas, by 42,125 votes. So why, on the afternoon of 26…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "As A.I. Agents Begin Shopping, Brands Are Changing Their Sales Pitch",
-            "link": "https://www.nytimes.com/2026/10/03/business/dealbook/ai-agent-marketing.html",
-            "resumen": "Faced with bots immune to traditional marketing tactics, marketers are racing to win them over with logic and data.",
+            "titulo": "Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce",
+            "link": "https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html",
+            "resumen": "As Ukraine increasingly takes the war to Russia, the effects may be most visible on the roads.",
             "fuente": "N.Y. Times"
           },
           {
@@ -213,9 +213,9 @@ const EDICION_MUNDO = {
             "fuente": "BBC"
           },
           {
-            "titulo": "US added just 29,000 jobs in September in sharp drop from last month’s gains",
-            "link": "https://www.theguardian.com/business/2026/oct/02/september-jobs-report",
-            "resumen": "Final jobs report before the midterm elections also shows the US unemployment rate rose slightly to 4.2% US employers added just 29,000 jobs in September, a sharp drop from last month’s gains, and unemployment rose slightly to 4.2%, a…",
+            "titulo": "The American dream remains elusive in the valley that inspired East of Eden",
+            "link": "https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck",
+            "resumen": "John Steinbeck’s hometown of Salinas is the least affordable city in the US for the middle class, a recent Brookings Institution analysis found Nestled between two mountain ranges at the crook of central California’s coastline sits a…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,9 +224,9 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Could El Niño mean there are no Atlantic hurricanes this year?",
-            "link": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
-            "resumen": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
+            "titulo": "Queen's University students blast off to US for Nasa robotics competition",
+            "link": "https://www.bbc.co.uk/news/articles/cq20v0e7vjkgo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The students will head to Florida to compete against university teams from Australia, India and the US.",
             "fuente": "BBC"
           },
           {
@@ -236,15 +236,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "A Hacking Competition Shows the Power of China’s Approach to A.I.",
-            "link": "https://www.nytimes.com/2026/10/01/science/hackerone-tenzai-china-open-weights.html",
-            "resumen": "The winner of a cybersecurity contest prevailed by relying on an ‘open weight’ Chinese model — another sign that available A.I. systems could already be too powerful to easily regulate.",
+            "titulo": "Nobel Prizes 2026: What to Know",
+            "link": "https://www.nytimes.com/article/nobel-prizes-2026.html",
+            "resumen": "Six awards will be announced this week in science, literature, economics and peace work.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
-            "link": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend.",
+            "titulo": "I'm a wildlife cameraman but 'special' rare sightings can still take me by surprise",
+            "link": "https://www.bbc.co.uk/news/articles/c6q8jly114j8o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Wildlife cameraman Dan Abbot is caught off guard by a humpback whale, a rare sight in Welsh waters.",
             "fuente": "BBC"
           },
           {
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "'Incredible' Red Bull upgrade enlivens F1 in Malaysia",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/c5vgj31224kmo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Even Lewis Hamilton fears Max Verstappen will be tough to beat in Sunday's Bahrain Grand Prix in Malaysia.",
+            "titulo": "Verstappen wins in Malaysia after long delays as Russell retires",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/c5n49zx3zlvwo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Max Verstappen takes his and Red Bull's first win of the year with a dominant drive in a dramatic Bahrain Grand Prix in Malaysia that started amid chaotic and unprecedented scenes.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Manchester City’s guilty verdict brings football’s great sell-off crashing to earth",
-            "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/03/manchester-city-guilty-verdict-football",
-            "resumen": "On the day Andy Burnham spoke of the wrong turn Britain took under Thatcher, football was facing a day of reckoning over its own story of corporate acquisition It was somehow fitting that Tuesday’s damning ruling against Manchester City…",
+            "titulo": "Cavan Sullivan’s stunner makes him youngest-ever USMNT scorer in romp over Mexico",
+            "link": "https://www.theguardian.com/football/2026/oct/04/usmnt-mexico-match-report",
+            "resumen": "17-year-old scores brilliant long-range chip Julian Hall and Mailk Tillman also grab goals US have scored 11 goals in last three games As it happened: USA 3-0 Mexico The first time the United States and Mexico played at this building,…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Republic of Ireland news conference ends abruptly amid accusations",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cm78p5x6xqq7o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Republic of Ireland manager Heimir Hallgrimsson's pre-match news conference ends abruptly as accusations are levelled at his players.",
+            "titulo": "Dominant Verstappen & superb Hamilton recovery - driver ratings",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/cqkgjnrjr3l5o?at_medium=RSS&at_campaign=rss",
+            "resumen": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Bahrain Grand Prix in Malaysia.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Clay Travis: inside the Maga permadad’s world of sports bros, trans panic and mortgages",
-            "link": "https://www.theguardian.com/sport/2026/oct/02/clay-travis-sport-and-state",
-            "resumen": "The rightwing media mogul has lost ground to the likes of Pat McAfee and Joe Rogan. He’s hoping his new venture can recapture some headway When Maga media blowhard Clay Travis offered $2m to Colin Kaepernick last week to appear on the…",
+            "titulo": "Cable robs Padres of potential home run in bizarre playoff loss to Brewers",
+            "link": "https://www.theguardian.com/sport/2026/oct/04/padres-brewers-mlb-playoffs-home-run-roof-cable-baseball",
+            "resumen": "Ty France’s ninth-inning drive hits roof cable Brewers go on to win NLDS opener 3-2 Brewers manager Pat Murphy credited the team’s legendary late broadcaster Bob Uecker for an unlikely boost in the ninth inning to help preserve a 3-2…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Pretorius breaks Gayle's T20 record score",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Lhuan-dre Pretorius breaks Chris Gayle's record for the highest score in a men's T20 match with an unbeaten 188 in a domestic fixture in South Africa.",
+            "titulo": "Djokovic beats Zverev to reach China Open semis",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/c8kge0d95dzno?at_medium=RSS&at_campaign=rss",
+            "resumen": "Novak Djokovic's quest to win a first trophy of 2026 continues with a hard-fought victory in the quarter-finals of the China Open.",
             "fuente": "BBC"
           }
         ]
