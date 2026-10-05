@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "4 de octubre de 2026",
-    "generada": "15:01",
+    "fecha": "5 de octubre de 2026",
+    "generada": "18:55",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "\"Mitbestimmung\": cómo Alemania obliga a las grandes empresas a dar voz a los trabajadores en la toma de decisiones (y qué impacto tiene en la economía)",
-            "link": "https://www.bbc.com/mundo/articles/cp3rxlq1nlno?at_medium=RSS&at_campaign=rss",
-            "resumen": "La presencia de trabajadores en los órganos de gobierno de las empresas con más de 2.000 trabajadores es un fenómeno extendido en Alemana gracias a una ley. Pero, ¿cómo beneficia a las compañías y a la economía del país?",
+            "titulo": "\"Estamos listos para ir de inmediato\": los millonarios de origen cubano que se están preparando en Miami para cuando caiga el gobierno de la isla",
+            "link": "https://www.bbc.com/mundo/articles/cq8jzlyz7yrpo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Los exiliados cubanos en Florida tienen cada vez más esperanzas de que un cambio de régimen en Cuba esté ahora a la vista.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Brasil decide su futuro entre Lula y Bolsonaro, un estadista desgastado y el hijo de un ultra",
-            "link": "https://elpais.com/america/2026-10-04/brasil-decide-su-futuro-entre-lula-y-bolsonaro-un-estadista-desgastado-y-un-hijo-de-papa-ultra.html",
-            "resumen": "El presidente Lula y Flávio Bolsonaro, hijo del exmandatario golpista, se disputan la presidencia en una elección totalmente abierta",
+            "titulo": "Pedro Sánchez, único líder socialdemócrata en una UE derechizada, activa el súper año electoral en Europa",
+            "link": "https://elpais.com/internacional/2026-10-05/pedro-sanchez-unico-lider-socialdemocrata-en-una-ue-derechizada-activa-el-super-ano-electoral-en-europa.html",
+            "resumen": "El español ha sido el referente de la izquierda europea con su postura sobre Gaza, la defensa, Trump y la agenda verde",
             "fuente": "El País"
           },
           {
-            "titulo": "España: dos muertos y un desaparecido tras récord de lluvias en Cataluña",
-            "link": "https://www.france24.com/es/europa/20261004-espa%C3%B1a-dos-muertos-y-un-desaparecido-tras-r%C3%A9cord-de-lluvias-en-catalu%C3%B1a",
-            "resumen": "Por primera vez en 143 años, desde que hay estadísticas, Barcelona reporta más de 200 litros de lluvia por metro cuadrado tras una jornada que \"pasará a la historia de los registros climáticos\", según el Servicio Meteorológico de…",
+            "titulo": "España: ¿Qué llevó a Pedro Sánchez a convocar elecciones anticipadas?",
+            "link": "https://www.france24.com/es/video/20261005-espa%C3%B1a-qu%C3%A9-llev%C3%B3-a-pedro-s%C3%A1nchez-a-convocar-elecciones-anticipadas",
+            "resumen": "España celebrará elecciones generales anticipadas el próximo 29 de noviembre tras la decisión del presidente del Gobierno, Pedro Sánchez, de disolver las Cortes. El anuncio llega después de la derrota parlamentaria de los decretos de…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Entrevisté a Christa Pike hace 20 años y no puedo dejar de pensar en ella",
-            "link": "https://www.bbc.com/mundo/articles/c62e9kx0424do?at_medium=RSS&at_campaign=rss",
-            "resumen": "La periodista británica Helen Roberts dijo a la BBC que en Christa Pike conviven dos facetas distintas: una personal y una criminal.",
+            "titulo": "Pedro Sánchez convoca elecciones anticipadas tras el fracaso en el Congreso de sus decretos para enfrentar la crisis de la vivienda en España",
+            "link": "https://www.bbc.com/mundo/articles/crgj9408el84o?at_medium=RSS&at_campaign=rss",
+            "resumen": "El anuncio de Sánchez se produce tras varios días de protestas en el país europeo, surgidas a raíz del desalojo de la anciana Maricarmen. Las elecciones se celebrarán el próximo 29 de noviembre.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Ni Bolsonaro, ni Lula: Trump se reserva (de momento) su apoyo en las elecciones de Brasil",
-            "link": "https://elpais.com/america/2026-10-04/ni-bolsonaro-ni-lula-trump-se-reserva-de-momento-su-apoyo-en-las-elecciones-de-brasil.html",
-            "resumen": "El presidente de EE UU no se ha decantado por ninguno de los candidatos, aunque las injerencias de Washington en la política interna del país iberoamericano han sido constantes",
+            "titulo": "Bolsonaro vence a Lula en primera vuelta de las elecciones y acaricia el retorno de la ultraderecha al poder en Brasil",
+            "link": "https://elpais.com/america/2026-10-05/bolsonaro-vence-a-lula-en-primera-vuelta-y-acaricia-el-retorno-de-la-ultraderecha-al-poder-en-brasil.html",
+            "resumen": "El senador, hijo del expresidente condenado por golpismo, logra el 47,1% de los votos frente al 45% del mandatario izquierdista. Ambos se medirán en la segunda vuelta del 25 de octubre",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "El apocalipsis laboral de la IA se pospone (por ahora)",
-            "link": "https://elpais.com/economia/2026-10-04/el-apocalipsis-laboral-de-la-ia-se-pospone-por-ahora.html",
-            "resumen": "Los expertos vislumbran más cambios cualitativos (reconversión de empleos, dificultades para los jóvenes) que cuantitativos (despidos masivos), pese a las predicciones catastrofistas de la industria, y alertan del alza de la desigualdad",
+            "titulo": "Los sindicatos UGT y CC OO irán a la huelga general por la crisis de la vivienda",
+            "link": "https://elpais.com/economia/2026-10-05/los-sindicatos-ugt-y-cc-oo-iran-a-la-huelga-general-por-la-crisis-de-la-vivienda.html",
+            "resumen": "Tal como reclaman el Sindicato de Inquilinas y miles de manifestantes, las organizaciones lideradas por Unai Sordo y Pepe Álvarez convocarán el paro, que tendrá lugar poco antes de las elecciones generales",
             "fuente": "El País"
           },
           {
-            "titulo": "La regulación resta atractivo a la compra para alquiler de vivienda",
-            "link": "https://www.expansion.com/mercados/2026/10/03/6abfed6e468aebf5548b457a.html",
-            "resumen": "Una congelación de precios de los arrendamientos unida a la subida del coste de las casas y al encarecimiento de las condiciones de financiación, obligan a hilar más fino a la hora de invertir. Leer",
+            "titulo": "Sánchez adelanta elecciones al 29 de noviembre",
+            "link": "https://www.expansion.com/economia/politica/2026/10/05/6ac344e5e5fdea9f3a8b4580.html",
+            "resumen": "El jefe del Ejecutivo, Pedro Sánchez, ha decidido adelantar las elecciones generales al próximo 29 de noviembre para las que ha pedido a la elegir entre una \"coalición ultraderechista\" o un parlamento con mayoría progresista para \"seguir…",
             "fuente": "Expansión"
           },
           {
-            "titulo": "La tensión por el aumento de las bajas laborales pone en el foco el papel de las mutuas",
-            "link": "https://elpais.com/economia/2026-10-04/la-tension-por-el-aumento-de-las-bajas-laborales-pone-en-el-foco-el-papel-de-las-mutuas.html",
-            "resumen": "Los sindicatos critican con ferocidad a estas entidades, a las que Feijóo propone dar más poder, y abren el debate sobre hacer pública su gestión, ahora en manos empresariales",
+            "titulo": "Francia y Alemania reclaman un nuevo instrumento comercial que permita a la UE excluir a China “inmediatamente” del mercado único",
+            "link": "https://elpais.com/economia/2026-10-05/francia-y-alemania-reclaman-un-nuevo-instrumento-comercial-que-permita-a-la-ue-excluir-a-china-inmediatamente-del-mercado-unico.html",
+            "resumen": "Berlín y París endurecen su postura sobre el desequilibrio europeo con Pekín y plantean a la Comisión Europea nuevas medidas para combatirlo",
             "fuente": "El País"
           },
           {
-            "titulo": "Las manifestaciones por la vivienda recorren todo el país con llamadas a la huelga general",
-            "link": "https://www.expansion.com/economia/2026/10/03/6ac0e1dbe5fdeaff178b4594.html",
-            "resumen": "La portavoz del Sindicato de Inquilinas de Madrid, Valeria Racu, aseguró este sábado que, \"pase lo que pase a nivel electoral, el camino está claro que es hacia la huelga general\", algo que, anunció, \"será pronto\". Leer",
+            "titulo": "Decreto de vivienda: así podrá entrar en vigor a pesar del 'no' del Congreso",
+            "link": "https://www.expansion.com/inmobiliario/mercado/2026/10/05/6ac36c34e5fdea693f8b458c.html",
+            "resumen": "El Gobierno tiene previsto aprobar, de nuevo mañana, en el Consejo de Ministros los dos decretos de vivienda, rechazados por el Congreso de los Diputados el pasado viernes. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Combatir la agenda neoliberal desde la izquierda: así son las recetas de los mejores economistas progresistas del mundo",
-            "link": "https://elpais.com/economia/negocios/2026-10-03/combatir-la-agenda-neoliberal-desde-la-izquierda-asi-son-las-recetas-de-los-mejores-economistas-progresistas-del-mundo.html",
-            "resumen": "Thomas Piketty, Daron Acemoglu, Dani Rodrik, Branko Milanovic, Mariana Mazzucato, Abhijit Banerjee y Ha-Joon Chang dan soluciones ante retos como la vivienda, la desigualdad, el cambio climático o el impacto de la IA en el mercado laboral",
+            "titulo": "Seat frena el acuerdo con Indra para entrar en defensa por sus dudas sobre la viabilidad del proyecto",
+            "link": "https://elpais.com/economia/2026-10-05/seat-frena-el-acuerdo-con-indra-para-entrar-en-defensa-por-sus-dudas-sobre-la-viabilidad-del-proyecto.html",
+            "resumen": "La compañía presidida por Ángel Simón tenía listo el memorando de entendimiento el 11 de mayo, aunque las conversaciones técnicas continúan",
             "fuente": "El País"
           }
         ]
@@ -78,9 +78,9 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "La cara oculta del éxito de Starship: Musk deja fuera de juego a la NASA con su plan para dominar el cielo",
-            "link": "https://elpais.com/ciencia/2026-10-04/la-cara-oculta-del-exito-de-starship-musk-deja-fuera-de-juego-a-la-nasa-con-su-plan-para-dominar-el-cielo.html",
-            "resumen": "SpaceX se va a centrar solo en su megacohete, para ampliar su red Starlink y llevar al espacio sus centros de datos de IA, antes que en viajar a la Luna o lanzar satélites para otras empresas",
+            "titulo": "Premio Nobel de Medicina para Karl Deisseroth, Peter Hegemann y Georg Nagel por la técnica que permite controlar el cerebro con luz",
+            "link": "https://elpais.com/ciencia/2026-10-05/premio-nobel-de-medicina.html",
+            "resumen": "El Instituto Karolinska de Estocolmo reconoce a los científicos creadores de la optogenética por sentar “las bases de una nueva era en la neurociencia”",
             "fuente": "El País"
           },
           {
@@ -90,9 +90,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Christina Koch, primera mujer en viajar hasta la Luna: “Veíamos destellos azules cuando cerrábamos los ojos”",
-            "link": "https://elpais.com/ciencia/2026-10-02/christina-koch-primera-mujer-en-viajar-hasta-la-luna-veiamos-destellos-azules-cuando-cerrabamos-los-ojos.html",
-            "resumen": "La astronauta y científica habla con EL PAÍS sobre su experiencia durante la histórica misión Artemis 2 y advierte sobre los peligros de la carrera espacial con China",
+            "titulo": "La cara oculta del éxito de Starship: Musk deja fuera de juego a la NASA con su plan para dominar el cielo",
+            "link": "https://elpais.com/ciencia/2026-10-04/la-cara-oculta-del-exito-de-starship-musk-deja-fuera-de-juego-a-la-nasa-con-su-plan-para-dominar-el-cielo.html",
+            "resumen": "SpaceX se va a centrar solo en su megacohete, para ampliar su red Starlink y llevar al espacio sus centros de datos de IA, antes que en viajar a la Luna o lanzar satélites para otras empresas",
             "fuente": "El País"
           },
           {
@@ -102,9 +102,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "La ciencia confirma que la terapia más segura para tratar la menopausia es la que escasea en España",
-            "link": "https://elpais.com/ciencia/2026-10-02/la-ciencia-confirma-que-la-terapia-mas-segura-para-tratar-la-menopausia-es-la-que-escasea-en-espana.html",
-            "resumen": "Una revisión publicada en ‘Science’ sitúa el estradiol por vía transdérmica como la mejor opción, pero estas formulaciones están casi desaparecidas de las farmacias españolas",
+            "titulo": "Christina Koch, primera mujer en viajar hasta la Luna: “Veíamos destellos azules cuando cerrábamos los ojos”",
+            "link": "https://elpais.com/ciencia/2026-10-02/christina-koch-primera-mujer-en-viajar-hasta-la-luna-veiamos-destellos-azules-cuando-cerrabamos-los-ojos.html",
+            "resumen": "La astronauta y científica habla con EL PAÍS sobre su experiencia durante la histórica misión Artemis 2 y advierte sobre los peligros de la carrera espacial con China",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Laporta estará en la cumbre por la oferta de la NBA a la Euroliga",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261004/1004234476/laporta-estara-cumbre-oferta-nba-euroliga.html",
-            "resumen": "El FC Barcelona estará representado mañana y pasado al máximo nivel en la cumbre de los 13 clubs de la Euroliga que se celebrará en el lago de Como , en Italia. Finalmente será Joan Laporta quien lidere la delegación azulgrana.…",
+            "titulo": "Mbappé responde a las críticas: \"Sí, también me enfadé con mi tía abuela\"",
+            "link": "https://www.mundodeportivo.com/futbol/real-madrid/20261005/1004234949/mbappe-responde-criticas-me-enfade-mi-tia-abuela.html",
+            "resumen": "Mbappé está en el centro de las críticas del madridismo por su actitud en este parón. Se lesionó con Francia ante Turquía y regresó a Madrid, pero para marcharse y tomarse unos días de descanso, lo que ha molestado al madridismo.",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Koundé hace autocrítica y acepta su suplencia en el Barça",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261004/1004234410/kounde-autocritica-acepta-suplencia-barca.html",
-            "resumen": "Jules Koundé (27 años) es de los jugadores que van siempre de cara. En vísperas del duelo frente a Bélgica de este lunes, en partido correspondiente de la jornada 4 de la Nations League, el lateral azulgrana compareció en rueda de prensa.…",
+            "titulo": "Mbappé reaparece en Valdebebas",
+            "link": "https://www.mundodeportivo.com/futbol/real-madrid/20261005/1004234990/mbappe-reaparece-valdebebas.html",
+            "resumen": "Mbappé l legó esta mañana de lunes a Madrid tras pasar unos días de descanso lejos de la capital. El jugador aterrizó mientras sus compañeros estaban entrenando en Valdebebas, pero él no fue hasta la Ciudad Real Madrid.",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "October 4, 2026",
-    "generada": "15:01",
+    "fecha": "October 5, 2026",
+    "generada": "18:55",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-            "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+            "titulo": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
+            "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+            "resumen": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities",
-            "link": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar",
-            "resumen": "Western Libya’s GNU say working with Saddam Haftar ‘impossible’ as US-backed merger plan breaks down Allegations that the son of the Libyan warlord Khalifa Haftar oversaw a “terror cell” that launched drone attacks on fuel storage…",
+            "titulo": "Guardian readers fund life-changing surgery for Somali boy injured in US airstrike",
+            "link": "https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah",
+            "resumen": "After Guardian investigation uncovered drone strike that killed 12 civilians and injured many more, seven-year-old Abdiqadir Salah underwent vital operation in Mogadishu On the rickshaw ride to the hospital, Marian Haji Abdi Guled felt a…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Superpowers Race to Put Nuclear Reactors on the Moon",
-            "link": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html",
-            "resumen": "The United States wants a reactor on the moon by 2030. A Russian-Chinese alliance is working on one for 2036. Some leading scientists say the danger is great.",
+            "titulo": "Russia Moves to Tamp Down Rumors About Plague Outbreak in Siberia",
+            "link": "https://www.nytimes.com/2026/10/05/world/europe/russia-plague-siberia.html",
+            "resumen": "The country’s consumer watchdog has said only that “an employee of an anti-plague institute in the Irkutsk Region” contracted pneumonia. Rumors and unconfirmed reports sounded a more ominous note.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Watch: What we know about Russian strikes on Kyiv bridges",
-            "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-            "resumen": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
+            "titulo": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+            "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
-            "link": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
-            "resumen": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about pharaohs’ origins On the eve of the Chinese president Xi Jinping’s state visit to Cairo…",
+            "titulo": "Skull fractures suggest servants of Egypt’s ancient kings were sacrificed",
+            "link": "https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed",
+            "resumen": "Study of remains taken from royal cemetery at Umm el-Qa’ab appears to confirm early Egyptologist’s theory Court officials and craftspeople serving early Egyptian kings may have been sacrificed when their ruler died, according to research…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "G7 to release millions of barrels of oil and diesel after Trump threat",
-            "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+            "titulo": "Average five-year mortgage rate hits 6% for first time in three years",
+            "link": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
             "fuente": "BBC"
           },
           {
-            "titulo": "MS Now connects ‘blue dots’ at Texas fan event: ‘I always feel hope when I watch them’",
-            "link": "https://www.theguardian.com/media/2026/oct/04/ms-now-fan-event-texas",
-            "resumen": "Network at receiving end of White House press ban recently chose red state to host fan event as part of broader outreach In 2024, Donald Trump and JD Vance carried Tarrant county, Texas, by 42,125 votes. So why, on the afternoon of 26…",
+            "titulo": "US supreme court hears big oil’s bid to block climate damage lawsuits",
+            "link": "https://www.theguardian.com/us-news/2026/oct/05/supreme-court-big-oil-climate-damage-lawsuits",
+            "resumen": "How court will lean is unclear amid Suncor Energy and ExxonMobil’s attempt to stop lawsuits at state level The US supreme court began its new nine-month term hearing arguments on Monday in a major case in which big oil companies attempted…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce",
-            "link": "https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html",
-            "resumen": "As Ukraine increasingly takes the war to Russia, the effects may be most visible on the roads.",
+            "titulo": "Nashville Symphony Receives $10 Million Lifeline From Oracle",
+            "link": "https://www.nytimes.com/2026/10/05/arts/music/nashville-symphony-oracle-gift.html",
+            "resumen": "The symphony announced last week that it was pausing the rest of the season after disclosing financial trouble. The concerts are back on now, thanks to a tech company gift.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Suppliers pile pressure on government over energy bills",
-            "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
+            "titulo": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+            "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+            "resumen": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
             "fuente": "BBC"
           },
           {
-            "titulo": "The American dream remains elusive in the valley that inspired East of Eden",
-            "link": "https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck",
-            "resumen": "John Steinbeck’s hometown of Salinas is the least affordable city in the US for the middle class, a recent Brookings Institution analysis found Nestled between two mountain ranges at the crook of central California’s coastline sits a…",
+            "titulo": "Mark Thompson will remain chief executive at CNN after Paramount sale",
+            "link": "https://www.theguardian.com/media/2026/oct/05/mark-thompson-cnn-chief-paramount-sale",
+            "resumen": "Decision by Paramount Skydance executive David Ellison was relief to employees who feared overhaul – and possibility of Bari Weiss taking over Mark Thompson, who since 2023 has served as chair and chief executive of CNN after a storied…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Queen's University students blast off to US for Nasa robotics competition",
+            "titulo": "Why are data centres such a big deal in Scotland?",
+            "link": "https://www.bbc.co.uk/news/articles/c6qxv55882z1o?at_medium=RSS&at_campaign=rss",
+            "resumen": "At least 23 huge data centres are planned in Scotland, causing significant concern for campaigners.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Nobel prize in medicine 2026 awarded for research into mysteries of brain",
+            "link": "https://www.theguardian.com/science/2026/oct/05/nobel-prize-medicine-2026-winner",
+            "resumen": "Three scientists to share 12m Swedish kronor prize for their work on ‘light-gated ion channels and optogenetics’ The Nobel prize in physiology or medicine 2026 has been awarded to three scientists for their work investigating the…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "What Are the Biggest Questions in Science Today? 100 Scientists Weigh In.",
+            "link": "https://www.nytimes.com/2026/10/05/science/100-unanswered-questions-science.html",
+            "resumen": "We asked 100 scientists about unsolved problems in their fields. They sent back provocations — on the origins of life, the possibilities for human progress and much more.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Students blast off to US for Nasa robotics competition",
             "link": "https://www.bbc.co.uk/news/articles/cq20v0e7vjkgo?at_medium=RSS&at_campaign=rss",
             "resumen": "The students will head to Florida to compete against university teams from Australia, India and the US.",
             "fuente": "BBC"
           },
           {
-            "titulo": "‘An amazing ride’: SpaceX flight led by first Black female commander sets US speed record",
-            "link": "https://www.theguardian.com/science/2026/oct/01/spacex-speed-record-first-black-female-commander",
-            "resumen": "Four astronauts pulled up at International Space Station after eight-hour express flight led by Jessica Watkins Four astronauts pulled up at the International Space Station (ISS) on Thursday after launching on an eight-hour express that…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "Nobel Prizes 2026: What to Know",
-            "link": "https://www.nytimes.com/article/nobel-prizes-2026.html",
-            "resumen": "Six awards will be announced this week in science, literature, economics and peace work.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "I'm a wildlife cameraman but 'special' rare sightings can still take me by surprise",
-            "link": "https://www.bbc.co.uk/news/articles/c6q8jly114j8o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Wildlife cameraman Dan Abbot is caught off guard by a humpback whale, a rare sight in Welsh waters.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "‘Hugely exciting’ finds on tiny Scottish island shed light on spread of Christianity",
-            "link": "https://www.theguardian.com/science/2026/oct/01/lismore-archaeological-finds-scottish-island-monastery-spread-of-christianity",
-            "resumen": "Community-funded archaeological excavations of ‘really important’ sixth-century monastery also rewrite story of Lismore To the residents of the Scottish island of Lismore, population 190, history is never very far away. The tiny island…",
+            "titulo": "Women suffer more pain than men across the whole body, major global study finds",
+            "link": "https://www.theguardian.com/society/2026/oct/05/women-more-pain-than-men-global-study",
+            "resumen": "Researchers looked at pain around the world and across the human lifespan, finding steepest rise happens before age 55 Women report suffering more pain than men, a major new global study has found. That was true for all types of pain the…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Verstappen wins in Malaysia after long delays as Russell retires",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/c5n49zx3zlvwo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Max Verstappen takes his and Red Bull's first win of the year with a dominant drive in a dramatic Bahrain Grand Prix in Malaysia that started amid chaotic and unprecedented scenes.",
+            "titulo": "Player welfare, injury worries & boredom - has extended break worked?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cq8jz7verm24o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The extended international break was brought in with player welfare in mind, but has it been a success?",
             "fuente": "BBC"
           },
           {
-            "titulo": "Cavan Sullivan’s stunner makes him youngest-ever USMNT scorer in romp over Mexico",
-            "link": "https://www.theguardian.com/football/2026/oct/04/usmnt-mexico-match-report",
-            "resumen": "17-year-old scores brilliant long-range chip Julian Hall and Mailk Tillman also grab goals US have scored 11 goals in last three games As it happened: USA 3-0 Mexico The first time the United States and Mexico played at this building,…",
+            "titulo": "France v Belgium, Italy v Turkey, Northern Ireland v Georgia: Nations League – live",
+            "link": "https://www.theguardian.com/football/live/2026/oct/05/france-v-belgium-italy-v-turkey-northern-ireland-v-georgia-nations-league-live",
+            "resumen": "⚽️ Nations League updates from 7.45pm BST kick-offs ⚽️ Live scoreboard | Read Football Daily | And mail Daniel Tonight’s a big night for the aforementioned Yoro, who’s shown his quality since joining Man United from Lille, but not…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Dominant Verstappen & superb Hamilton recovery - driver ratings",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cqkgjnrjr3l5o?at_medium=RSS&at_campaign=rss",
-            "resumen": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Bahrain Grand Prix in Malaysia.",
+            "titulo": "F1 needs to have hard look at itself - Sainz",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/cr62y51n1841o?at_medium=RSS&at_campaign=rss",
+            "resumen": "F1 \"needs to have a hard look at\" itself in the wake of unprecedented software glitches that affected the Bahrain Grand Prix in Malaysia, Carlos Sainz says.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Cable robs Padres of potential home run in bizarre playoff loss to Brewers",
-            "link": "https://www.theguardian.com/sport/2026/oct/04/padres-brewers-mlb-playoffs-home-run-roof-cable-baseball",
-            "resumen": "Ty France’s ninth-inning drive hits roof cable Brewers go on to win NLDS opener 3-2 Brewers manager Pat Murphy credited the team’s legendary late broadcaster Bob Uecker for an unlikely boost in the ninth inning to help preserve a 3-2…",
+            "titulo": "The terrifying, unbeaten Chiefs would like you to know your predictions were wrong",
+            "link": "https://www.theguardian.com/sport/2026/oct/05/kansas-city-chiefs-las-vegas-raiders-nfl-football",
+            "resumen": "Kansas City beat the surprisingly feisty Las Vegas Raiders on Sunday. They already look like a very real contender after a lost season in 2025 The rivalry between the Kansas City Chiefs and the Las Vegas Raiders goes back to the formation…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Djokovic beats Zverev to reach China Open semis",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/c8kge0d95dzno?at_medium=RSS&at_campaign=rss",
-            "resumen": "Novak Djokovic's quest to win a first trophy of 2026 continues with a hard-fought victory in the quarter-finals of the China Open.",
+            "titulo": "Bournemouth unhappy after Scott injured with England",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqm2dyrg84ymo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Bournemouth are unhappy with the way they believe England handled the injury to Alex Scott - which means he could now be out for up to eight weeks.",
             "fuente": "BBC"
           }
         ]
