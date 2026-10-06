@@ -1,38 +1,38 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "5 de octubre de 2026",
-  "generada": "18:55",
+  "fecha": "6 de octubre de 2026",
+  "generada": "16:20",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "El Gobierno de Donald Trump destacó a Milei como un \"ejemplo\" en lucha contra el antisemitismo",
-          "link": "https://www.clarin.com/politica/gobierno-donald-trump-destaco-milei-ejemplo-lucha-antisemitismo_0_jpHkPqav3M.html",
-          "resumen": "El embajador Kaploun consideró al presidente argentino como un \"ejemplo\" a través de \"medidas concretas\"",
+          "titulo": "En el día de la despedida de Messi, el vocero de Milei sorprendió al compararlo con el Presidente: \"Es un modelo a seguir\"",
+          "link": "https://www.clarin.com/politica/dia-despedida-messi-vocero-milei-sorprendio-compararlo-presidente-modelo-seguir_0_JWczu2Paa7.html",
+          "resumen": "Al ser consultado sobre el liderazgo y las buenas formas del capitán argentino, Adrián Ravier consideró que tanto él como el mandatario son \"un ejemplo para todos\". Luego buscó defender los recurrentes insultos del mandatario a los…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Milei volvió a reunir al Gabinete en la Casa Rosada y anunció un nuevo viaje a España",
-          "link": "https://www.lanacion.com.ar/politica/de-regreso-de-paris-javier-milei-vuelve-a-reunir-al-gabinete-en-la-casa-rosada-nid05102026/",
-          "resumen": "El mandatario recibió a sus ministros y principales referentes, a quienes les informó que el 19 de octubre visitará Madrid; celebraron el triunfo de Bolsonaro y criticaron lo que el Presidente llama el “plan platita” de Lula",
+          "titulo": "Cuadernos de las coimas: avanza un acuerdo para evitar la difusión de datos personales durante el juicio",
+          "link": "https://www.lanacion.com.ar/politica/cuadernos-de-las-coimas-avanza-un-acuerdo-para-evitar-la-difusion-de-datos-personales-durante-el-nid06102026/",
+          "resumen": "Las partes solicitaron al Tribunal que no se muestre información sobre teléfonos celulares en la próxima audiencia, el jueves próximo; ya habían existido objeciones sobre el material reproducido",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Camioneros presionó en la calle por las indemnizaciones de USD 200 millones, pero no se incluirán en los nuevos pliegos de la basura",
-          "link": "https://www.infobae.com/politica/2026/10/05/camioneros-presiono-en-la-calle-por-las-indemnizaciones-de-usd-200-millones-pero-no-se-incluiran-en-los-nuevos-pliegos/",
-          "resumen": "Liderados por Pablo Moyano, los trabajadores de recolección de residuos buscan garantizar el millonario resarcimiento en los próximos contratos del servicio entre 2028 y 2038, que se analizan en una audiencia pública y virtual",
+          "titulo": "Presupuesto porteño 2027: La Libertad Avanza propuso cambios en ABL, Patentes e Ingresos Brutos",
+          "link": "https://www.infobae.com/politica/2026/10/06/presupuesto-porteno-2027-la-libertad-avanza-propuso-cambios-en-abl-patentes-e-ingresos-brutos/",
+          "resumen": "La legisladora y presidente del bloque, Pilar Ramírez, pidió revisar cada partida oficial y entre las iniciativas se incluyó el cierre de varias áreas",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Recolección de residuos: la Ciudad no prevé indemnizar y crece la tensión con Moyano",
-          "link": "https://www.clarin.com/politica/recoleccion-residuos-ciudad-preve-indemnizar-crece-tension-moyano_0_ECw6uX7X9Y.html",
-          "resumen": "El Gobierno porteño confirmó en audiencia pública que no contempla en los nuevos pliegos el resarcimiento exigido por Camioneros. El gremio se movilizó este lunes para reclamar por el cumplimiento de la denominada \"Ley Moyano\"",
+          "titulo": "Pidieron la indagatoria de un dirigente de La Cámpora por usar a empleados del Congreso para crear noticias falsas",
+          "link": "https://www.clarin.com/politica/pidieron-indagatoria-dirigente-campora-usar-empleados-congreso-crear-noticias-falsas_0_g9sEOo11dw.html",
+          "resumen": "Es Emiliano Estrada, ex diputado nacional por Salta. Creó cuentas en redes sociales para difamar a rivales políticos. El fiscal Marijuán lo acusó de usar a dos empleados para esa función.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente celebró el resultado en Brasil y dijo que el continente americano “quiere vivir en libertad”",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-celebro-el-resultado-en-brasil-y-dijo-que-el-nid05102026/",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: Luis Caputo dijo que el Presidente es un “faro ideológico”",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-luis-caputo-dijo-que-el-presidente-es-un-faro-ideologico-nid06102026/",
           "resumen": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         }
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Flybondi pidió el concurso de acreedores tras las masivas cancelaciones de los últimos meses",
-          "link": "https://www.clarin.com/economia/flybondi-pidio-concurso-acreedores-masivas-cancelaciones-ultimos-meses_0_Ba0KUeakqE.html",
-          "resumen": "El sector esperaba esta presentación desde hace semanas. La low cost no opera prácticamente desde hace 60 días y enfrenta una situación financiera delicada. Tiene las cuentas embargadas, con deudas que rondan en US$ 120 millones y varios…",
+          "titulo": "Tras cruzar el Estrecho de Ormuz, llegaron a Río Negro insumos claves para la exportación de petróleo de Vaca Muerta",
+          "link": "https://www.clarin.com/economia/cruzar-estrecho-ormuz-llegaron-rio-negro-insumos-claves-exportacion-petroleo-vaca-muerta_0_Y4zjiENqTt.html",
+          "resumen": "Son las monoboyas que se instalarán a 7 kilómetros de la costa de Punta Colorada. Permitirán que los barcos amarren en altamar, sin necesidad de construir un muelle fijo.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 5 de octubre, minuto a minuto",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid05102026/",
-          "resumen": "La divisa oficial opera a $1540 para la venta en el Banco Nación; el dólar blue cotiza a $1550 para esa operación; qué pasa con el MEP y el CCL",
+          "titulo": "Emanuel Bravi, dueño de una empresa, 25 años. Vendió un auto, se endeudó y creó una solución que ya está en 40.000 hectáreas: “La verdad, arriesgué todo”",
+          "link": "https://www.lanacion.com.ar/economia/campo/emanuel-bravi-dueno-de-una-empresa-25-anos-vendio-un-auto-se-endeudo-y-creo-una-solucion-que-ya-esta-nid06102026/",
+          "resumen": "Junto con su socio, Juan Cruz Bonino, fundó una startup que usa drones e inteligencia artificial para detectar malezas; ya mapearon más de 40.000 hectáreas y aseguran que lograron una baja promedio del 75% en los costos de herbicidas; su…",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Dólar, exportaciones y Mercosur: cómo podría impactar la victoria de Flávio Bolsonaro en Argentina",
-          "link": "https://www.ambito.com/economia/dolar-exportaciones-y-mercosur-como-podria-impactar-la-victoria-flavio-bolsonaro-argentina-n6330240",
-          "resumen": "Si bien la mayoría de los analistas destaca que una victoria del candidato opositor podría beneficiar al gobierno de Milei, existen algunas interrogantes que podrían perjudicar a las exportaciones argentinas al país vecino.",
+          "titulo": "El Banco Mundial ajustó a la baja las proyecciones de crecimiento para Argentina",
+          "link": "https://www.ambito.com/economia/el-banco-mundial-ajusto-la-baja-las-proyecciones-crecimiento-argentina-n6330634",
+          "resumen": "No obstante, la entidad cree que el país crecerá durante tres años consecutivos por primera vez en varias décadas.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Para el vice del BCRA, los ahorristas que compran dólares \"no son desestabilizadores\" y la mora ya empezó a caer",
-          "link": "https://www.clarin.com/economia/vice-bcra-ahorristas-compran-dolares-desestabilizadores-mora-empezo-caer_0_lFrzewmZer.html",
-          "resumen": "Vladimir Werning, afirmó que el 75% de los dólares comprados por los ahorristas permanece en el sistema local a través de bancos, ALyCs y fondos comunes. Según el funcionario, esta conducta fortalece el mercado de capitales y provee…",
+          "titulo": "Tras meses de controversia, Paramount cierra la compra de Warner Bros Discovery por US$ 110.000 millones: nace la nueva Skydance",
+          "link": "https://www.clarin.com/economia/meses-controversia-paramount-cierra-compra-warner-bros-discovery-us-110000-millones-nace-nueva-skydance_0_rw9c0zNiI4.html",
+          "resumen": "El acuerdo se cerró tras un proceso de revisión por parte de la Justicia. Engloba los estudios de cine y televisión de Paramount y Warner Bros., los servicios de streaming Paramount+ y HBO Max, junto a las cadenas de noticias CNN y CBS…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Con once dragas: avanza una obra reclamada por los productores contra las inundaciones en Buenos Aires",
-          "link": "https://www.lanacion.com.ar/economia/campo/con-once-dragas-avanza-una-obra-reclamada-por-los-productores-contra-las-inundaciones-en-buenos-nid05102026/",
-          "resumen": "A un año de la reactivación, en el río Salado uno de los tres subtramos ya tiene un 88,27% de ejecución y otro superó el 60%; el Gobierno prevé sumar otras dos dragas y completar 33,4 kilómetros pendientes en marzo de 2027",
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 6 de octubre, minuto a minuto",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid06102026/",
+          "resumen": "La divisa oficial opera a $1540 para la venta en el Banco Nación; el dólar blue cotiza a $1545 para esa operación; qué pasa con el MEP y el CCL",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "\"Tiene un tema en el corazón muy delicado\": el hijo de Nicolás Maduro advirtió sobre la situación de Cilia Flores en la prisión de Nueva York",
-          "link": "https://www.clarin.com/mundo/tema-corazon-delicado-hijo-nicolas-maduro-advirtio-situacion-cilia-flores-prision-nueva-york_0_IXcuRXYASv.html",
-          "resumen": "• Capturada en enero durante una operación militar norteamericana, la esposa del ex mandatario enfrenta en Nueva York cargos por presunto transporte de toneladas de cocaína. • Tanto ella como el ex presidente niegan las acusaciones en su…",
+          "titulo": "Revelan que Donald Trump tenía un plan para derribar al gobierno de Polonia",
+          "link": "https://www.clarin.com/mundo/revelan-donald-trump-plan-derribar-gobierno-polonia_0_MdpkTR4Uxw.html",
+          "resumen": "Según publicaron varios medios, el presidente de Estados Unidos quería que cayera el primer ministro conservador y europeísta Donald Tusk. En su lugar, buscaba la formación de un Ejecutivo de extrema derecha.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Un analista internacional explicó en detalle el batacazo de Flavio Bolsonaro y qué se puede esperar para el balotaje",
-          "link": "https://www.lanacion.com.ar/el-mundo/un-analista-internacional-explico-en-detalle-el-batacazo-de-flavio-bolsonaro-y-que-se-puede-esperar-nid05102026/",
-          "resumen": "Andrés Repetto analizó en LN+ la ventaja del candidato de la ultraderecha sobre Lula da Silva y los desafíos de ambos para la segunda vuelta; la búsqueda de nuevos votantes y el contexto regional serán claves en las próximas tres semanas",
+          "titulo": "Elecciones en Brasil, EN VIVO: qué se sabe del balotaje entre Lula y Bolsonaro, encuestas y últimas noticias",
+          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-en-brasil-en-vivo-que-se-sabe-del-balotaje-entre-lula-y-bolsonaro-encuestas-y-ultimas-nid06102026/",
+          "resumen": "El Tribunal Superior Electoral confirmó la segunda vuelta que enfrentará al actual presidente con el líder del Partido Liberal, quien quedó primero; el futuro del país vecino se definirá el domingo 25 de octubre",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El fantasma de Bolsonaro reaparece en Europa: los temores de Bruselas ante un eventual cambio de gobierno en Brasil",
-          "link": "https://www.clarin.com/mundo/fantasma-bolsonaro-reaparece-europa-temores-bruselas-eventual-cambio-gobierno-brasil_0_D0gO0MpZzW.html",
-          "resumen": "• Un cambio de gobierno en Brasil aportaría argumentos a los eurodiputados que buscan frenar la ratificación del entendimiento comercial. • Si entre 50 y 80 legisladores modifican su postura en la votación prevista para los próximos…",
+          "titulo": "La ultraderecha alemana logra por primera vez desde 1945 la presidencia de un Parlamento regional",
+          "link": "https://www.clarin.com/mundo/ultraderecha-alemana-logra-primera-vez-1945-presidencia-parlamento-regional_0_Ph1v1WWxBu.html",
+          "resumen": "Logró los votos para poner a Tobias Rausch, de Alternativa para Alemania (AfD), al frente de la región de Sajonia-Anhalt. Se trata de un partido antiinmigración y prorruso.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Sorpresa: el Vaticano publicará “el diario personal del papa Francisco”, escrito por el cardenal “Tucho” Fernández",
-          "link": "https://www.lanacion.com.ar/el-mundo/sorpresa-el-vaticano-publicara-el-diario-personal-del-papa-francisco-escrito-por-el-cardenal-tucho-nid05102026/",
-          "resumen": "La obra incluye los apuntes de Bergoglio desde 1992 hasta 2024 y saldrá a la venta después del viaje de León XIV a la Argentina",
+          "titulo": "Semana Mundial del Espacio 2026: este año se celebra la “Revolución de los Cohetes”",
+          "link": "https://www.lanacion.com.ar/el-mundo/semana-mundial-del-espacio-2026-este-ano-se-celebra-la-revolucion-de-los-cohetes-nid06102026/",
+          "resumen": "Esta edición busca incentivar los avances globales en ciencia y tecnología",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Israel anunció que mató a 4.000 implicados en la masacre del 7 de octubre: quedan 2.000 prófugos",
-          "link": "https://www.clarin.com/mundo/israel-anuncio-mato-4000-implicados-masacre-7-octubre-quedan-2000-profugos_0_K2puHKKKvO.html",
-          "resumen": "\"Debemos perseguirlos y eliminarlos a todos\", aseguró el ministro israelí de Defensa.",
+          "titulo": "Gigantesca marcha estudiantil en Francia: cerca de medio millón de personas salen a la calle y estallan nuevos incidentes en París",
+          "link": "https://www.clarin.com/mundo/huelgas-marchas-agitacion-apoderan-francia-miles-estudiantes-calles-brutal-represion-policial_0_Ud89pXjpLb.html",
+          "resumen": "Los alumnos secundarios marcharon para reclamar reformas en el sistema educativo. A ellos se sumaron sus padres y los sindicatos. También hubo violentos y represión. Los organizadores estiman que marcharon 450.000 manifestantes en todo el…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "El impactante homenaje en Rosario para Lionel Messi por su despedida de la Selección Argentina",
-          "link": "https://www.clarin.com/deportes/impactante-homenaje-rosario-lionel-messi-despedida-seleccion-argentina_0_XqRS0lgB66.html",
-          "resumen": "Fue a los pies del Monumento a la Bandera y sorprendió a los habitantes de la ciudad santafesina. Mirá las fotos.",
+          "titulo": "India vs Uruguay, por un amistoso internacional, EN VIVO: por qué se suspendió el partido del Seleccionado de Diego Forlán",
+          "link": "https://www.clarin.com/deportes/india-vs-uruguay-amistoso-internacional-vivo-hora-juega-formaciones-ver-partido_0_jFLFtyTDv7.html",
+          "resumen": "Los charrúas cierran su gira por Asia en el Estadio Yuba Bharati Krirangan Stadium de Calcuta. En el arranque de la fecha FIFA, la Celeste cayó 3-1 ante Japón y luego se impuso 4-1 frente a Corea del Sur.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Marcel Dandjinou, el arquero de Benín, elogió a Lionel Messi, pero advirtió que no está en Argentina “para hacer turismo”",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/marcel-dandjinou-el-arquero-de-benin-elogio-a-lionel-messi-pero-advirtio-que-no-esta-en-argentina-nid05102026/",
-          "resumen": "El guardavalla africano aseguró que no le “regalará” nada al rosarino en su último partido con la selección albiceleste",
+          "titulo": "Quiénes son los campeones del mundo que no estarán en la despedida de Lionel Messi",
+          "link": "https://www.lanacion.com.ar/deportes/quienes-son-los-campeones-del-mundo-que-no-estaran-en-la-despedida-de-lionel-messi-nid06102026/",
+          "resumen": "Este martes a las 20 el “10″ usará por última vez la cinta de capitán de la selección argentina, pero cinco excompañeros no estarán en el Monumental para acompañarlo",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El desafío extra que tendrá Colapinto en el GP de Singapur para encontrar el Alpine ideal",
-          "link": "https://www.ole.com.ar/autos/francocolapinto-marinabay-formula1-singapur-alpine-sprint_0_4zxj3CSDO0.html",
-          "resumen": "Franco disputará por tercera vez el GP de Singapur y afrontará un fin de semana particularmente exigente: el formato Sprint le dejará una sola práctica para poner a punto el auto en un callejero en el que el calor, la humedad y la…",
+          "titulo": "Julián Álvarez estaría en la búsqueda de un nuevo agente y ya suena otro argentino",
+          "link": "https://www.ole.com.ar/futbol-internacional/espana/julianalvarez-atleticodemadrid-barcelona-javierpastore-fernandohidalgo_0_nBqGZid60L.html",
+          "resumen": "Según medios españoles, el delantero del Atlético de Madrid no continuaría su vínculo con Fernando Hidalgo y ya tendría conversaciones avanzadas con Javier Pastore.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Vélez vs Platense, EN VIVO: a qué hora juegan, formaciones y dónde ver el partido por el Torneo Clausura",
-          "link": "https://www.clarin.com/deportes/velez-vs-platense-vivo-hora-juegan-formaciones-ver-partido-torneo-clausura_0_iILkaykMLx.html",
-          "resumen": "El Fortín recibe al Calamar por la fecha 11 en el estadio José Amalfitani. Seguí el minuto a minuto en Clarín.",
+          "titulo": "La herida por la Supercopa Internacional sigue sin cicatrizar: el Cacique Medina furioso con la AFA y el arbitraje argentino",
+          "link": "https://www.clarin.com/deportes/herida-supercopa-internacional-sigue-cicatrizar-cacique-medina-furioso-afa-arbitraje-argentino_0_YW3Rg91oKH.html",
+          "resumen": "El entrenador del Pincha le pasó factura a Darío Herrera tras su polémico arbitraje en la final ante el Canalla. Además, cuestionó el apretado calendario que debe afrontar su equipo, que continúa en carrera en la Copa Libertadores. Su…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Carlos Tevez contó detalles del emprendimiento familiar de pádel que armó en Bella Vista: “Un lugar donde disfrutamos todos”",
-          "link": "https://www.lanacion.com.ar/deportes/carlos-tevez-conto-detalles-del-emprendimiento-familiar-de-padel-que-armo-en-bella-vista-un-lugar-nid05102026/",
-          "resumen": "El Apache habló con Agustín Creevy en su nueva faceta empresarial; cómo son sus días en familia y los cuidados en su última etapa como jugador",
+          "titulo": "La despedida de Lionel Messi EN VIVO vs. Benín: hora, todos los invitados y el minuto a minuto del partido",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/la-despedida-de-lionel-messi-en-vivo-vs-benin-hora-todos-los-invitados-y-el-minuto-a-minuto-del-nid06102026/",
+          "resumen": "El evento tiene cita en el estadio Monumental, en el marco del partido amistoso, que está programado a las 20; habrá shows y homenajes antes y después del juego",
           "fuente": "La Nación"
         }
       ]
