@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "6 de octubre de 2026",
-  "generada": "16:20",
+  "fecha": "7 de octubre de 2026",
+  "generada": "17:03",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "En el día de la despedida de Messi, el vocero de Milei sorprendió al compararlo con el Presidente: \"Es un modelo a seguir\"",
-          "link": "https://www.clarin.com/politica/dia-despedida-messi-vocero-milei-sorprendio-compararlo-presidente-modelo-seguir_0_JWczu2Paa7.html",
-          "resumen": "Al ser consultado sobre el liderazgo y las buenas formas del capitán argentino, Adrián Ravier consideró que tanto él como el mandatario son \"un ejemplo para todos\". Luego buscó defender los recurrentes insultos del mandatario a los…",
+          "titulo": "Rafael Grossi sube al segundo lugar en una carrera aún incierta para liderar la ONU y hay entusiasmo en el entorno del argentino",
+          "link": "https://www.clarin.com/mundo/rafael-grossi-sube-segundo-lugar-carrera-incierta-liderar-onu-entusiasmo-entorno-argentino_0_8ieqX7HWDh.html",
+          "resumen": "En la quinta votación de este miércoles, la costarricense Rebeca Grynspan, que lideraba las votaciones hasta ahora, perdió fuerza. Todavía no surge consenso entre Estados Unidos y China por lo que la situación sigue abierta. La próxima…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Cuadernos de las coimas: avanza un acuerdo para evitar la difusión de datos personales durante el juicio",
-          "link": "https://www.lanacion.com.ar/politica/cuadernos-de-las-coimas-avanza-un-acuerdo-para-evitar-la-difusion-de-datos-personales-durante-el-nid06102026/",
-          "resumen": "Las partes solicitaron al Tribunal que no se muestre información sobre teléfonos celulares en la próxima audiencia, el jueves próximo; ya habían existido objeciones sobre el material reproducido",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente saludó a Messi por su despedida y dijo que es “el mejor de todos los tiempos”",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-saludo-a-messi-por-su-despedida-y-dijo-que-es-el-nid07102026/",
+          "resumen": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Presupuesto porteño 2027: La Libertad Avanza propuso cambios en ABL, Patentes e Ingresos Brutos",
-          "link": "https://www.infobae.com/politica/2026/10/06/presupuesto-porteno-2027-la-libertad-avanza-propuso-cambios-en-abl-patentes-e-ingresos-brutos/",
-          "resumen": "La legisladora y presidente del bloque, Pilar Ramírez, pidió revisar cada partida oficial y entre las iniciativas se incluyó el cierre de varias áreas",
+          "titulo": "Tierras, industria y universidades, los reclamos y protestas de sindicatos y piqueteros previstos para octubre",
+          "link": "https://www.infobae.com/politica/2026/10/07/tierras-industria-y-universidades-los-reclamos-y-protestas-de-sindicatos-y-piqueteros-previstos-para-octubre/",
+          "resumen": "La CGT, movimientos sociales, organizaciones de izquierda, docentes y alumnos extenderán por dos semanas un plan de lucha contra la desfinanciación de la educación pública, el DNU 70/2023 y en favor de la industria nacional",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Pidieron la indagatoria de un dirigente de La Cámpora por usar a empleados del Congreso para crear noticias falsas",
-          "link": "https://www.clarin.com/politica/pidieron-indagatoria-dirigente-campora-usar-empleados-congreso-crear-noticias-falsas_0_g9sEOo11dw.html",
-          "resumen": "Es Emiliano Estrada, ex diputado nacional por Salta. Creó cuentas en redes sociales para difamar a rivales políticos. El fiscal Marijuán lo acusó de usar a dos empleados para esa función.",
+          "titulo": "Procesaron a Roberto Baratta por enriquecimiento ilícito: dinero en efectivo, testaferros y un incremento patrimonial “injustificado”",
+          "link": "https://www.clarin.com/politica/procesaron-roberto-baratta-enriquecimiento-ilicito-dinero-efectivo-testaferros-incremento-patrimonial-injustificado_0_L8SQguFD1n.html",
+          "resumen": "El juez Ercolini lo procesó por ilícitos ocurridos hasta diciembre de 2017, es decir dos años después de que la exmano derecha de Julio De Vido dejara la función pública. Acusado por coimas en el caso Cuadernos, ahora le aplicaron un…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: Luis Caputo dijo que el Presidente es un “faro ideológico”",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-luis-caputo-dijo-que-el-presidente-es-un-faro-ideologico-nid06102026/",
-          "resumen": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "titulo": "Caso Andis: las empresas investigadas recibieron $192.000 millones y se quedaron con el 40% de los pagos por medicamentos e insumos",
+          "link": "https://www.lanacion.com.ar/politica/caso-andis-las-empresas-investigadas-recibieron-192000-millones-y-se-quedaron-con-el-40-de-los-pagos-nid07102026/",
+          "resumen": "Así surge de una auditoría y dos informes oficiales en el expediente sobre una posible asociación ilícita entre empresarios, lobistas y funcionarios; los sobreprecios más elevados",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Tras cruzar el Estrecho de Ormuz, llegaron a Río Negro insumos claves para la exportación de petróleo de Vaca Muerta",
-          "link": "https://www.clarin.com/economia/cruzar-estrecho-ormuz-llegaron-rio-negro-insumos-claves-exportacion-petroleo-vaca-muerta_0_Y4zjiENqTt.html",
-          "resumen": "Son las monoboyas que se instalarán a 7 kilómetros de la costa de Punta Colorada. Permitirán que los barcos amarren en altamar, sin necesidad de construir un muelle fijo.",
+          "titulo": "Se acabó el efecto Brasil: el riesgo país vuelve a acercarse a los 600 puntos y sube el dólar",
+          "link": "https://www.clarin.com/economia/acabo-efecto-brasil-riesgo-pais-salta-vez-600-puntos_0_x1G1Q4XLCm.html",
+          "resumen": "Los bonos cortaron dos días de subas y caen hasta 1,1%. También a las acciones les va mal, con bajas de hasta 4%. El dólar avanza a $ 1.545 en el Banco Nación.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Emanuel Bravi, dueño de una empresa, 25 años. Vendió un auto, se endeudó y creó una solución que ya está en 40.000 hectáreas: “La verdad, arriesgué todo”",
-          "link": "https://www.lanacion.com.ar/economia/campo/emanuel-bravi-dueno-de-una-empresa-25-anos-vendio-un-auto-se-endeudo-y-creo-una-solucion-que-ya-esta-nid06102026/",
-          "resumen": "Junto con su socio, Juan Cruz Bonino, fundó una startup que usa drones e inteligencia artificial para detectar malezas; ya mapearon más de 40.000 hectáreas y aseguran que lograron una baja promedio del 75% en los costos de herbicidas; su…",
+          "titulo": "Anthropic y OpenAI se preparan para Wall Street: cuándo son los próximos IPO y por qué las empresas buscan salir a la bolsa",
+          "link": "https://www.lanacion.com.ar/economia/anthropic-y-openai-se-preparan-para-wall-street-cuando-son-los-proximos-ipo-y-por-que-las-empresas-nid07102026/",
+          "resumen": "Las ofertas públicas iniciales de los gigantes de la inteligencia artificial prometen marcar récords históricos en la búsqueda de financiamiento para infraestructura tecnológica",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El Banco Mundial ajustó a la baja las proyecciones de crecimiento para Argentina",
-          "link": "https://www.ambito.com/economia/el-banco-mundial-ajusto-la-baja-las-proyecciones-crecimiento-argentina-n6330634",
-          "resumen": "No obstante, la entidad cree que el país crecerá durante tres años consecutivos por primera vez en varias décadas.",
+          "titulo": "Dato clave para la actividad económica: el despacho de cemento cortó la meseta y tocó su pico anual en septiembre",
+          "link": "https://www.ambito.com/economia/dato-clave-la-actividad-economica-el-despacho-cemento-corto-la-meseta-y-toco-su-pico-anual-septiembre-n6331164",
+          "resumen": "Los despachos de cemento crecieron 4,5% en septiembre, alcanzando su segundo nivel mensual más alto en los últimos tres años, según informó la Asociación de Fabricantes de Cemento Portland (AFCP).",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Tras meses de controversia, Paramount cierra la compra de Warner Bros Discovery por US$ 110.000 millones: nace la nueva Skydance",
-          "link": "https://www.clarin.com/economia/meses-controversia-paramount-cierra-compra-warner-bros-discovery-us-110000-millones-nace-nueva-skydance_0_rw9c0zNiI4.html",
-          "resumen": "El acuerdo se cerró tras un proceso de revisión por parte de la Justicia. Engloba los estudios de cine y televisión de Paramount y Warner Bros., los servicios de streaming Paramount+ y HBO Max, junto a las cadenas de noticias CNN y CBS…",
+          "titulo": "La marca británica Superdry llega a la Argentina para abrir 15 locales y ofrecerá ropa con precios similares a Europa",
+          "link": "https://www.clarin.com/economia/marca-britanica-superdry-llega-argentina-inversion-us-50-millones-busca-abrir-15-tiendas_0_6DkDQwOfpU.html",
+          "resumen": "La línea de indumentaria abre este jueves su primera tienda en Unicenter. Proyecta abrir 15 sedes en el país. Ofrecerá productos de otras tres marcas internacionales.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 6 de octubre, minuto a minuto",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid06102026/",
-          "resumen": "La divisa oficial opera a $1540 para la venta en el Banco Nación; el dólar blue cotiza a $1545 para esa operación; qué pasa con el MEP y el CCL",
+          "titulo": "Al borde de la quiebra: sin interesados, venció el plazo para salvar a Algodonera Avellaneda",
+          "link": "https://www.lanacion.com.ar/economia/campo/al-borde-de-la-quiebra-sin-interesados-vencio-el-plazo-para-salvar-a-algodonera-avellaneda-nid07102026/",
+          "resumen": "La Justicia constató que no se presentó ninguna oferta ni solicitud de inscripción para adquirir las acciones de la textil de integrantes de la familia Vicentin, que tiene unos 360 empleados; el procedimiento había sido abierto luego de…",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Revelan que Donald Trump tenía un plan para derribar al gobierno de Polonia",
-          "link": "https://www.clarin.com/mundo/revelan-donald-trump-plan-derribar-gobierno-polonia_0_MdpkTR4Uxw.html",
-          "resumen": "Según publicaron varios medios, el presidente de Estados Unidos quería que cayera el primer ministro conservador y europeísta Donald Tusk. En su lugar, buscaba la formación de un Ejecutivo de extrema derecha.",
+          "titulo": "Estados Unidos prohíbe el alcohol e impone toque de queda a sus tropas, tras el asesinato de una mujer en Okinawa",
+          "link": "https://www.clarin.com/mundo/estados-unidos-prohibe-alcohol-impone-toque-queda-tropas-asesinato-mujer-okinawa_0_UaKDr2aRhR.html",
+          "resumen": "Este domingo, la policía detuvo al cabo Devin Jacob Ballard, un marine destinado en la base aérea de Futenma. El militar está acusado de asesinar a una mujer y robado sus pertenencias.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Elecciones en Brasil, EN VIVO: qué se sabe del balotaje entre Lula y Bolsonaro, encuestas y últimas noticias",
+          "titulo": "Qué se sabe del balotaje entre Lula y Bolsonaro, encuestas y últimas noticias",
           "link": "https://www.lanacion.com.ar/el-mundo/elecciones-en-brasil-en-vivo-que-se-sabe-del-balotaje-entre-lula-y-bolsonaro-encuestas-y-ultimas-nid06102026/",
           "resumen": "El Tribunal Superior Electoral confirmó la segunda vuelta que enfrentará al actual presidente con el líder del Partido Liberal, quien quedó primero; el futuro del país vecino se definirá el domingo 25 de octubre",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La ultraderecha alemana logra por primera vez desde 1945 la presidencia de un Parlamento regional",
-          "link": "https://www.clarin.com/mundo/ultraderecha-alemana-logra-primera-vez-1945-presidencia-parlamento-regional_0_Ph1v1WWxBu.html",
-          "resumen": "Logró los votos para poner a Tobias Rausch, de Alternativa para Alemania (AfD), al frente de la región de Sajonia-Anhalt. Se trata de un partido antiinmigración y prorruso.",
+          "titulo": "Israel conmemora el tercer aniversario del ataque terrorista de Hamas",
+          "link": "https://www.clarin.com/mundo/israel-conmemora-tercer-aniversario-ataque-terrorista-hamas_0_JXdoIBgVxB.html",
+          "resumen": "El 7 de octubre de 2023, el grupo palestino asesinó a más de 1.200 personas y secuestró a 250. El atentado terrorista es el episodio más letal para Israel desde el Holocausto.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Semana Mundial del Espacio 2026: este año se celebra la “Revolución de los Cohetes”",
-          "link": "https://www.lanacion.com.ar/el-mundo/semana-mundial-del-espacio-2026-este-ano-se-celebra-la-revolucion-de-los-cohetes-nid06102026/",
-          "resumen": "Esta edición busca incentivar los avances globales en ciencia y tecnología",
+          "titulo": "Artemis III: uno de los astronautas convocados reveló por qué no hay mujeres la misión",
+          "link": "https://www.lanacion.com.ar/el-mundo/artemis-iii-uno-de-los-astronautas-convocados-revelo-por-que-no-hay-mujeres-la-mision-nid04102026/",
+          "resumen": "El astronauta de la Agencia Espacial Europea es uno de los cuatro integrantes de la nueva delegación; bromeó con la posibilidad de llevar comida de su país al espacio",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Gigantesca marcha estudiantil en Francia: cerca de medio millón de personas salen a la calle y estallan nuevos incidentes en París",
-          "link": "https://www.clarin.com/mundo/huelgas-marchas-agitacion-apoderan-francia-miles-estudiantes-calles-brutal-represion-policial_0_Ud89pXjpLb.html",
-          "resumen": "Los alumnos secundarios marcharon para reclamar reformas en el sistema educativo. A ellos se sumaron sus padres y los sindicatos. También hubo violentos y represión. Los organizadores estiman que marcharon 450.000 manifestantes en todo el…",
+          "titulo": "Christa Pike, la presa que sobrevivió a una ejecución fallida en Estados Unidos, está consciente y habla",
+          "link": "https://www.clarin.com/mundo/christa-pike-presa-sobrevivio-ejecucion-fallida-estados-unidos-consciente-habla_0_ofTjckl8HC.html",
+          "resumen": "• La mujer, de 50 años se encuentra consciente y habla luego de haber estado en estado crítico con respiración asistida. • A pesar de esta evolución, sus abogados informaron que continúa recibiendo atención médica crítica.",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "India vs Uruguay, por un amistoso internacional, EN VIVO: por qué se suspendió el partido del Seleccionado de Diego Forlán",
-          "link": "https://www.clarin.com/deportes/india-vs-uruguay-amistoso-internacional-vivo-hora-juega-formaciones-ver-partido_0_jFLFtyTDv7.html",
-          "resumen": "Los charrúas cierran su gira por Asia en el Estadio Yuba Bharati Krirangan Stadium de Calcuta. En el arranque de la fecha FIFA, la Celeste cayó 3-1 ante Japón y luego se impuso 4-1 frente a Corea del Sur.",
+          "titulo": "La fecha FIFA dejó un saldo preocupante en Europa: más de 60 jugadores regresaron lesionados a sus clubes",
+          "link": "https://www.clarin.com/deportes/fecha-fifa-dejo-saldo-preocupante-europa-60-jugadores-regresaron-lesionados-clubes_0_FoP4vDZwfQ.html",
+          "resumen": "Se terminó la primera ventana internacional de la temporada europea, y hay preocupación. Los jugadores sufrieron molestias o golpes tras disputar partidos con sus selecciones. Entre los afectados aparecen figuras como Erling Haaland,…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Quiénes son los campeones del mundo que no estarán en la despedida de Lionel Messi",
-          "link": "https://www.lanacion.com.ar/deportes/quienes-son-los-campeones-del-mundo-que-no-estaran-en-la-despedida-de-lionel-messi-nid06102026/",
-          "resumen": "Este martes a las 20 el “10″ usará por última vez la cinta de capitán de la selección argentina, pero cinco excompañeros no estarán en el Monumental para acompañarlo",
+          "titulo": "La despedida de Lionel Messi, EN VIVO: los mensajes y las reacciones tras una noche inolvidable para el capitán de Argentina",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/la-despedida-de-lionel-messi-en-vivo-vs-benin-hora-todos-los-invitados-y-el-minuto-a-minuto-del-nid06102026/",
+          "resumen": "El N° 10 puso fin a 22 años en el conjunto nacional, con sinsabores, goles inolvidables, un Mundial y un legado que perdurará para siempre",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Julián Álvarez estaría en la búsqueda de un nuevo agente y ya suena otro argentino",
-          "link": "https://www.ole.com.ar/futbol-internacional/espana/julianalvarez-atleticodemadrid-barcelona-javierpastore-fernandohidalgo_0_nBqGZid60L.html",
-          "resumen": "Según medios españoles, el delantero del Atlético de Madrid no continuaría su vínculo con Fernando Hidalgo y ya tendría conversaciones avanzadas con Javier Pastore.",
+          "titulo": "Julia Paz Dupuy, la jugadora de futsal que se viralizó por un video sobre Messi: “A ningún otro jugador se le exigió demostrar tantas veces cuánto quería jugar para Argentina”",
+          "link": "https://www.ole.com.ar/fuera-de-juego/julia-paz-dupuy-jugadora-futsal-video-sobre-messi-a-ningun-otro-jugador-exigio-demostrar-tantas-veces-cuanto-queria-jugar-para-argentina_0_uUwWdTksdu.html",
+          "resumen": "La futbolista argentina que vive en España reflexionó con Olé sobre el vínculo de Leo con la Selección, su liderazgo y una característica que, para ella, lo define: el \"siempre volver\".",
           "fuente": "Olé"
         },
         {
-          "titulo": "La herida por la Supercopa Internacional sigue sin cicatrizar: el Cacique Medina furioso con la AFA y el arbitraje argentino",
-          "link": "https://www.clarin.com/deportes/herida-supercopa-internacional-sigue-cicatrizar-cacique-medina-furioso-afa-arbitraje-argentino_0_YW3Rg91oKH.html",
-          "resumen": "El entrenador del Pincha le pasó factura a Darío Herrera tras su polémico arbitraje en la final ante el Canalla. Además, cuestionó el apretado calendario que debe afrontar su equipo, que continúa en carrera en la Copa Libertadores. Su…",
+          "titulo": "Escándalo con Alejandro Mancuso: lo acusan de vender diplomas truchos de DT a estrellas del fútbol brasileño y revelan comprometedores audios",
+          "link": "https://www.clarin.com/deportes/escandalo-alejandro-mancuso-acusan-vender-diplomas-truchos-dt-estrellas-futbol-brasileno_0_WWczABIeEa.html",
+          "resumen": "La denuncia surge de una investigación periodistíca e incluye audios del exfutbolista. Thiago Silva, Roberto Carlos y Felipe Melo, entre otros, habrían recibido certificados apócrifos. Las licencias son atribuidas a la Asociación de…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La despedida de Lionel Messi EN VIVO vs. Benín: hora, todos los invitados y el minuto a minuto del partido",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/la-despedida-de-lionel-messi-en-vivo-vs-benin-hora-todos-los-invitados-y-el-minuto-a-minuto-del-nid06102026/",
-          "resumen": "El evento tiene cita en el estadio Monumental, en el marco del partido amistoso, que está programado a las 20; habrá shows y homenajes antes y después del juego",
+          "titulo": "Revelan quiénes son los pilotos de la Fórmula 1 que más insultos profieren cuando hablan por radio con sus equipos",
+          "link": "https://www.lanacion.com.ar/deportes/automovilismo/revelan-quienes-son-los-pilotos-de-la-formula-1-que-mas-insultos-profieren-cuando-hablan-por-radio-nid07102026/",
+          "resumen": "Compilaron la mayoría de las comunicaciones de los corredores entre 2018 y 2026",
           "fuente": "La Nación"
         }
       ]
