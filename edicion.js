@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "7 de octubre de 2026",
-  "generada": "17:03",
+  "fecha": "8 de octubre de 2026",
+  "generada": "17:02",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Rafael Grossi sube al segundo lugar en una carrera aún incierta para liderar la ONU y hay entusiasmo en el entorno del argentino",
-          "link": "https://www.clarin.com/mundo/rafael-grossi-sube-segundo-lugar-carrera-incierta-liderar-onu-entusiasmo-entorno-argentino_0_8ieqX7HWDh.html",
-          "resumen": "En la quinta votación de este miércoles, la costarricense Rebeca Grynspan, que lideraba las votaciones hasta ahora, perdió fuerza. Todavía no surge consenso entre Estados Unidos y China por lo que la situación sigue abierta. La próxima…",
+          "titulo": "Sin investigar, el juez de Zárate-Campana sobreseyó a Pablo Toviggino y varios de sus familiares en una causa por supuesto lavado de dinero",
+          "link": "https://www.clarin.com/politica/investigar-juez-zarate-campana-sobreseyo-pablo-toviggino-varios-familiares-causa-supuesto-lavado-dinero_0_Jhv9EfTZGv.html",
+          "resumen": "Gonzalez Charvay, quien tiene la causa principal contra la AFA por la mansión de Pilar, aceptó un pedido de las defensas y sobreseyó al Tesorero de la entidad y una docena de parientes y socios a quienes había imputado el fiscal de…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente saludó a Messi por su despedida y dijo que es “el mejor de todos los tiempos”",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-saludo-a-messi-por-su-despedida-y-dijo-que-es-el-nid07102026/",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente volvió a llamar “ladrón” a Lula días después del triunfo de Bolsonaro",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-volvio-a-llamar-ladron-a-lula-dias-despues-del-nid08102026/",
           "resumen": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Tierras, industria y universidades, los reclamos y protestas de sindicatos y piqueteros previstos para octubre",
-          "link": "https://www.infobae.com/politica/2026/10/07/tierras-industria-y-universidades-los-reclamos-y-protestas-de-sindicatos-y-piqueteros-previstos-para-octubre/",
-          "resumen": "La CGT, movimientos sociales, organizaciones de izquierda, docentes y alumnos extenderán por dos semanas un plan de lucha contra la desfinanciación de la educación pública, el DNU 70/2023 y en favor de la industria nacional",
+          "titulo": "El Gobierno espera un clima tenso en la marcha universitaria y prepara una denuncia contra dirigentes opositores por la toma del Palacio Pizzurno",
+          "link": "https://www.infobae.com/politica/2026/10/08/el-gobierno-espera-un-clima-tenso-en-la-marcha-universitaria-y-prepara-una-denuncia-contra-dirigentes-opositores-por-la-toma-del-palacio-pizzurno/",
+          "resumen": "El Ministerio de Capital Humano atribuyó la ocupación de la sede educativa de ayer a agrupaciones políticas y sindicales. Funcionarios señalan que no considerarán reclamos particulares antes de la movilización universitaria del 15 de…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Procesaron a Roberto Baratta por enriquecimiento ilícito: dinero en efectivo, testaferros y un incremento patrimonial “injustificado”",
-          "link": "https://www.clarin.com/politica/procesaron-roberto-baratta-enriquecimiento-ilicito-dinero-efectivo-testaferros-incremento-patrimonial-injustificado_0_L8SQguFD1n.html",
-          "resumen": "El juez Ercolini lo procesó por ilícitos ocurridos hasta diciembre de 2017, es decir dos años después de que la exmano derecha de Julio De Vido dejara la función pública. Acusado por coimas en el caso Cuadernos, ahora le aplicaron un…",
+          "titulo": "Piden 10 años de cárcel para un jefe de camioneros por liderar un piquete a una empresa",
+          "link": "https://www.clarin.com/politica/piden-10-anos-carcel-jefe-camioneros-liderar-piquete-empresa_0_yBWsQvwKh5.html",
+          "resumen": "Maximiliano Cabaleyro fue la cabeza de un bloqueo contra una distribuidora en febrero de 2021. Pedidos de coimas, aprietes y una pérdida de 141 mil dólares. Las dudas por el rol del intendente en las negociaciones.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Caso Andis: las empresas investigadas recibieron $192.000 millones y se quedaron con el 40% de los pagos por medicamentos e insumos",
-          "link": "https://www.lanacion.com.ar/politica/caso-andis-las-empresas-investigadas-recibieron-192000-millones-y-se-quedaron-con-el-40-de-los-pagos-nid07102026/",
-          "resumen": "Así surge de una auditoría y dos informes oficiales en el expediente sobre una posible asociación ilícita entre empresarios, lobistas y funcionarios; los sobreprecios más elevados",
+          "titulo": "La CGT sale a la calle “en defensa de la industria nacional” y posterga la definición sobre un paro general",
+          "link": "https://www.lanacion.com.ar/politica/la-cgt-sale-a-la-calle-en-defensa-de-la-industria-nacional-y-posterga-la-definicion-sobre-un-paro-nid08102026/",
+          "resumen": "La central obrera peronista se manifestará frente a la Secretaría de Industria en rechazo al plan económico de Milei; se debatirá sobre una posible huelga después de la visita del Papa",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Se acabó el efecto Brasil: el riesgo país vuelve a acercarse a los 600 puntos y sube el dólar",
-          "link": "https://www.clarin.com/economia/acabo-efecto-brasil-riesgo-pais-salta-vez-600-puntos_0_x1G1Q4XLCm.html",
-          "resumen": "Los bonos cortaron dos días de subas y caen hasta 1,1%. También a las acciones les va mal, con bajas de hasta 4%. El dólar avanza a $ 1.545 en el Banco Nación.",
+          "titulo": "Privatización de AySA: quién es Mauricio Filiberti, el \"Rey del Cloro\" y dueño de la luz, el gas, la nafta y ahora también el agua",
+          "link": "https://www.clarin.com/economia/privatizacion-aysa-mauricio-filiberti-rey-cloro-dueno-luz-gas-nafta-ahora-agua_0_NQ3Y2C6QpO.html",
+          "resumen": "Será uno de los nuevos dueños de AySA, la empresa que potabiliza el agua y gestiona las cloacas en la Ciudad de Buenos Aires y el conurbano. Ya es su principal proveedor de energía eléctrica y cloro. Es socio de José Luis Manzano y Daniel…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Anthropic y OpenAI se preparan para Wall Street: cuándo son los próximos IPO y por qué las empresas buscan salir a la bolsa",
-          "link": "https://www.lanacion.com.ar/economia/anthropic-y-openai-se-preparan-para-wall-street-cuando-son-los-proximos-ipo-y-por-que-las-empresas-nid07102026/",
-          "resumen": "Las ofertas públicas iniciales de los gigantes de la inteligencia artificial prometen marcar récords históricos en la búsqueda de financiamiento para infraestructura tecnológica",
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 8 de octubre, minuto a minuto",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid08102026/",
+          "resumen": "La divisa oficial opera a $1540 para la venta en el Banco Nación; el dólar blue cotiza a $1555 para esa operación; qué pasa con el MEP y el CCL",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Dato clave para la actividad económica: el despacho de cemento cortó la meseta y tocó su pico anual en septiembre",
-          "link": "https://www.ambito.com/economia/dato-clave-la-actividad-economica-el-despacho-cemento-corto-la-meseta-y-toco-su-pico-anual-septiembre-n6331164",
-          "resumen": "Los despachos de cemento crecieron 4,5% en septiembre, alcanzando su segundo nivel mensual más alto en los últimos tres años, según informó la Asociación de Fabricantes de Cemento Portland (AFCP).",
+          "titulo": "Cuánto cuesta un día de spa en Buenos Aires: un regalo ideal para el Día de la Madre",
+          "link": "https://www.ambito.com/economia/cuanto-cuesta-un-dia-spa-buenos-aires-un-regalo-ideal-el-dia-la-madre-n6330518",
+          "resumen": "Circuitos con masajes, piscinas climatizadas y tratamientos de belleza aparecen entre las alternativas para sorprender en octubre.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "La marca británica Superdry llega a la Argentina para abrir 15 locales y ofrecerá ropa con precios similares a Europa",
-          "link": "https://www.clarin.com/economia/marca-britanica-superdry-llega-argentina-inversion-us-50-millones-busca-abrir-15-tiendas_0_6DkDQwOfpU.html",
-          "resumen": "La línea de indumentaria abre este jueves su primera tienda en Unicenter. Proyecta abrir 15 sedes en el país. Ofrecerá productos de otras tres marcas internacionales.",
+          "titulo": "La minería busca blindar sus inversiones más allá de Milei y los gobiernos quieren capitalizar el reclamo",
+          "link": "https://www.clarin.com/energia-y-mineria/mineria-busca-blindar-inversiones-alla-milei-gobiernos-quieren-capitalizar-reclamo_0_YchEDe3rVA.html",
+          "resumen": "Las compañías mineras buscan blindar las inversiones con estabilidad y reglas claras más allá de quien gobierne. Nación y las provincias exhiben unidad ante inversores internacionales, mientras sigue abierta la discusión sobre proveedores.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Al borde de la quiebra: sin interesados, venció el plazo para salvar a Algodonera Avellaneda",
-          "link": "https://www.lanacion.com.ar/economia/campo/al-borde-de-la-quiebra-sin-interesados-vencio-el-plazo-para-salvar-a-algodonera-avellaneda-nid07102026/",
-          "resumen": "La Justicia constató que no se presentó ninguna oferta ni solicitud de inscripción para adquirir las acciones de la textil de integrantes de la familia Vicentin, que tiene unos 360 empleados; el procedimiento había sido abierto luego de…",
+          "titulo": "El Niño: advierten sobre lugares con “fuertes tormentas” y marcados contrastes de temperatura en los próximos días",
+          "link": "https://www.lanacion.com.ar/economia/campo/el-nino-advierten-sobre-lugares-con-fuertes-tormentas-y-marcados-contrastes-de-temperatura-en-los-nid07102026/",
+          "resumen": "Entre el 8 y el 14 de octubre se prevén precipitaciones en buena parte del área productiva, con importantes registros sobre el norte del Litoral",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Estados Unidos prohíbe el alcohol e impone toque de queda a sus tropas, tras el asesinato de una mujer en Okinawa",
-          "link": "https://www.clarin.com/mundo/estados-unidos-prohibe-alcohol-impone-toque-queda-tropas-asesinato-mujer-okinawa_0_UaKDr2aRhR.html",
-          "resumen": "Este domingo, la policía detuvo al cabo Devin Jacob Ballard, un marine destinado en la base aérea de Futenma. El militar está acusado de asesinar a una mujer y robado sus pertenencias.",
+          "titulo": "Balotaje en Brasil: con las encuestas a favor, Flávio Bolsonaro dice que quiere poner fin a la reelección y ampliar el mandato a 5 años",
+          "link": "https://www.clarin.com/mundo/balotaje-brasil-encuestas-favor-flavio-bolsonaro-dice-quiere-poner-fin-reeleccion-ampliar-mandato-5-anos_0_Dl5tGoUKXz.html",
+          "resumen": "El candidato presidencial afirma que pretende utilizar el capital político desde el inicio de un posible mandato para aprobar una enmienda constitucional sobre el tema. Se enfrentará a Lula en segunda vuelta el 25 de octubre.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Qué se sabe del balotaje entre Lula y Bolsonaro, encuestas y últimas noticias",
-          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-en-brasil-en-vivo-que-se-sabe-del-balotaje-entre-lula-y-bolsonaro-encuestas-y-ultimas-nid06102026/",
-          "resumen": "El Tribunal Superior Electoral confirmó la segunda vuelta que enfrentará al actual presidente con el líder del Partido Liberal, quien quedó primero; el futuro del país vecino se definirá el domingo 25 de octubre",
+          "titulo": "EE.UU. acusa a Maduro por torturas y su mujer pide salir de la cárcel de Nueva York",
+          "link": "https://www.lanacion.com.ar/estados-unidos/eeuu-acusa-a-maduro-por-torturas-y-su-mujer-pide-salir-de-la-carcel-de-nueva-york-nid08102026/",
+          "resumen": "La justicia norteamericana sumó un nuevo delito para la ex pareja presidencial, además de narcotráfico; Cilia Flores busca prisión domiciliaria por motivos de salud",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Israel conmemora el tercer aniversario del ataque terrorista de Hamas",
-          "link": "https://www.clarin.com/mundo/israel-conmemora-tercer-aniversario-ataque-terrorista-hamas_0_JXdoIBgVxB.html",
-          "resumen": "El 7 de octubre de 2023, el grupo palestino asesinó a más de 1.200 personas y secuestró a 250. El atentado terrorista es el episodio más letal para Israel desde el Holocausto.",
+          "titulo": "Nuevas explosiones en Riad estremecen a Arabia Saudita: cerraron el aeropuerto y reportan daños en un jardín y un centro médico",
+          "link": "https://www.clarin.com/mundo/nuevas-explosiones-riad-estremecen-arabia-saudita-cerraron-aeropuerto-reportan-danos-jardin-centro-medico_0_Q1nhExf10V.html",
+          "resumen": "El Aeropuerto Internacional Rey Khalid sufrió el impacto de fuertes detonaciones, lo que provocó la suspensión de las salidas y la evacuación de los pasajeros. Los rebeldes hutíes se atribuyeron el lanzamiento de un misil balístico contra…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Artemis III: uno de los astronautas convocados reveló por qué no hay mujeres la misión",
-          "link": "https://www.lanacion.com.ar/el-mundo/artemis-iii-uno-de-los-astronautas-convocados-revelo-por-que-no-hay-mujeres-la-mision-nid04102026/",
-          "resumen": "El astronauta de la Agencia Espacial Europea es uno de los cuatro integrantes de la nueva delegación; bromeó con la posibilidad de llevar comida de su país al espacio",
+          "titulo": "Un grave error policial favorece al expríncipe Andrés y amenaza con complicar la investigación en su contra",
+          "link": "https://www.lanacion.com.ar/el-mundo/un-grave-error-policial-favorece-al-exprincipe-andres-y-amenaza-con-complicar-la-investigacion-en-su-nid08102026/",
+          "resumen": "La policía británica reconoció que las órdenes utilizadas para allanar las propiedades del hermano de Carlos III fueron emitidas de manera irregular",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Christa Pike, la presa que sobrevivió a una ejecución fallida en Estados Unidos, está consciente y habla",
-          "link": "https://www.clarin.com/mundo/christa-pike-presa-sobrevivio-ejecucion-fallida-estados-unidos-consciente-habla_0_ofTjckl8HC.html",
-          "resumen": "• La mujer, de 50 años se encuentra consciente y habla luego de haber estado en estado crítico con respiración asistida. • A pesar de esta evolución, sus abogados informaron que continúa recibiendo atención médica crítica.",
+          "titulo": "El petróleo volvió a US$ 105 tras el bombardeo a un buque cerca de Ormuz y la posibilidad que Trump ataque otra vez a Irán",
+          "link": "https://www.clarin.com/mundo/petroleo-volvio-us-105-ataque-buque-cerca-ormuz_0_qAXndilDXD.html",
+          "resumen": "Estados Unidos y el régimen persa mantienen una disputa por el control del estratégico paso marítimo, por donde transitaba el 20% de los hidrocarburos antes del inicio de la guerra en Medio Oriente. La eventual nueva ofensiva del…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "La fecha FIFA dejó un saldo preocupante en Europa: más de 60 jugadores regresaron lesionados a sus clubes",
-          "link": "https://www.clarin.com/deportes/fecha-fifa-dejo-saldo-preocupante-europa-60-jugadores-regresaron-lesionados-clubes_0_FoP4vDZwfQ.html",
-          "resumen": "Se terminó la primera ventana internacional de la temporada europea, y hay preocupación. Los jugadores sufrieron molestias o golpes tras disputar partidos con sus selecciones. Entre los afectados aparecen figuras como Erling Haaland,…",
+          "titulo": "Messi y CR7 juntos por primera vez, ¿y en la Bombonera?",
+          "link": "https://www.clarin.com/deportes/messi-cr7-juntos-primera-vez-bombonera_0_jX27yv13dn.html",
+          "resumen": "Es el sueño que tiene Carlos Tevez para su despedida que se celebrará en la cancha de Boca. Carlitos ya tiene el ok de Riquelme, ahora falta convencer a los cracks. La posible fecha de su partido homenaje.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La despedida de Lionel Messi, EN VIVO: los mensajes y las reacciones tras una noche inolvidable para el capitán de Argentina",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/la-despedida-de-lionel-messi-en-vivo-vs-benin-hora-todos-los-invitados-y-el-minuto-a-minuto-del-nid06102026/",
-          "resumen": "El N° 10 puso fin a 22 años en el conjunto nacional, con sinsabores, goles inolvidables, un Mundial y un legado que perdurará para siempre",
+          "titulo": "Lionel Messi e Inter Miami vs. DC United, por la MLS 2026: día, horario, TV y cómo ver online",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/lionel-messi-e-inter-miami-vs-dc-united-por-la-mls-2026-dia-horario-tv-y-como-ver-online-nid08102026/",
+          "resumen": "Después de despedirse de la selección argentina, Leo se enfoca en el que será ahora su único equipo: las Garzas de Florida, Miami",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Julia Paz Dupuy, la jugadora de futsal que se viralizó por un video sobre Messi: “A ningún otro jugador se le exigió demostrar tantas veces cuánto quería jugar para Argentina”",
-          "link": "https://www.ole.com.ar/fuera-de-juego/julia-paz-dupuy-jugadora-futsal-video-sobre-messi-a-ningun-otro-jugador-exigio-demostrar-tantas-veces-cuanto-queria-jugar-para-argentina_0_uUwWdTksdu.html",
-          "resumen": "La futbolista argentina que vive en España reflexionó con Olé sobre el vínculo de Leo con la Selección, su liderazgo y una característica que, para ella, lo define: el \"siempre volver\".",
+          "titulo": "Comenzaron los alegatos finales contra los médicos que atendieron a Diego Maradona: Gianinna, Dalma y Claudia Villafañe se pusieron de espaldas para no ver una foto del cuerpo",
+          "link": "https://www.ole.com.ar/informacion-general/juicio-oral-muerte-diego-armando-maradona-alegato-final-fiscales-pedido-penas-acusados-luque-cosachov-cuerpo-dalma-gianinna-claudia-espaldas-cuerpo_0_5r531D6SHQ.html",
+          "resumen": "Las hijas del Diez evitaron mirar la imagen de su papá muerto, al igual que su madre. El debate llegó a la etapa de alegatos finales después de 45 audiencias y más de 100 declaraciones testigos. Se pedirán penas para seis de los siete…",
           "fuente": "Olé"
         },
         {
-          "titulo": "Escándalo con Alejandro Mancuso: lo acusan de vender diplomas truchos de DT a estrellas del fútbol brasileño y revelan comprometedores audios",
-          "link": "https://www.clarin.com/deportes/escandalo-alejandro-mancuso-acusan-vender-diplomas-truchos-dt-estrellas-futbol-brasileno_0_WWczABIeEa.html",
-          "resumen": "La denuncia surge de una investigación periodistíca e incluye audios del exfutbolista. Thiago Silva, Roberto Carlos y Felipe Melo, entre otros, habrían recibido certificados apócrifos. Las licencias son atribuidas a la Asociación de…",
+          "titulo": "Cristiano Ronaldo respondió a la crítica de un periodista con una agresión: \"Pareces una manzana, deja de usar bótox\"",
+          "link": "https://www.clarin.com/deportes/cristiano-ronaldo-respondio-critica-periodista-agresion-pareces-manzana-deja-usar-botox_0_y76WxsSvGL.html",
+          "resumen": "La novela entre CR7 y Jorge Jesus divide aguas en Europa. EL portugués estalló ante la crítica del exdueño del Crystal Palace, hoy en el rol de periodista. Por su parte, Romario salió en defensa del futbolista.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Revelan quiénes son los pilotos de la Fórmula 1 que más insultos profieren cuando hablan por radio con sus equipos",
-          "link": "https://www.lanacion.com.ar/deportes/automovilismo/revelan-quienes-son-los-pilotos-de-la-formula-1-que-mas-insultos-profieren-cuando-hablan-por-radio-nid07102026/",
-          "resumen": "Compilaron la mayoría de las comunicaciones de los corredores entre 2018 y 2026",
+          "titulo": "Fecha 12 del Torneo Clausura 2026: árbitros, cronograma de partidos y TV",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/fecha-12-del-torneo-clausura-2026-arbitros-cronograma-de-partidos-y-tv-nid08102026/",
+          "resumen": "Se realizaron las designaciones de los jueces de la duodécima jornada; Leandro Rey Hilfer dirigirá Instituto vs. Boca y Nazareno Arasa River vs. Estudiantes de Río Cuarto",
           "fuente": "La Nación"
         }
       ]
