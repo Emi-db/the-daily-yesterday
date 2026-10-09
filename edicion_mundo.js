@@ -1,41 +1,41 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "8 de octubre de 2026",
-    "generada": "17:02",
+    "fecha": "9 de octubre de 2026",
+    "generada": "16:40",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Cómo llegó Colombia a tener una deuda pública tan alta (y por qué De la Espriella tendrá que aumentarla)",
-            "link": "https://www.bbc.com/mundo/articles/c3n04dydq1lxo?at_medium=RSS&at_campaign=rss",
-            "resumen": "El presupuesto presentado por el gobierno de De la Espriella prevee que la deuda llegará a 66,2% del PIB en 2027, la más alta de la historia del país.",
+            "titulo": "Especial BBC Mundo: Isla Coiba, la brutal prisión a cielo abierto que se convirtió en paraíso natural y a la que Panamá vuelve a enviar presos",
+            "link": "https://www.bbc.com/mundo/articles/cr86zqyy4eg3o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Panamá trasladó a 29 presos a una isla que fue una temida colonia penal, marcada por abusos y trabajos forzados. La decisión genera preocupación por el futuro de este territorio, hoy Patrimonio de la Humanidad. Viajamos hasta allí para…",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Rusia mata al menos a 30 personas en la ciudad de Kramatorsk en su segundo día de ataques masivos contra civiles",
-            "link": "https://elpais.com/internacional/2026-10-08/rusia-mata-a-decenas-de-personas-en-un-ataque-contra-la-ciudad-ucrania-de-kramatorsk.html",
-            "resumen": "La ofensiva, que Kiev califica como deliberada contra objetivos no militares, es una de las más mortíferas en lo que va de año",
+            "titulo": "El tiroteo del ICE en Nueva York pone a prueba a Mamdani y a su resistencia proinmigrante",
+            "link": "https://elpais.com/us/migracion/2026-10-09/mamdani-exige-a-trump-el-fin-del-ice-en-nueva-york-no-me-quedare-de-brazos-cruzados.html",
+            "resumen": "El alcalde exige la retirada de la agencia migratoria de la ciudad después de que un agente disparara a un hombre dominicano delante de su hijo de cinco años",
             "fuente": "El País"
           },
           {
-            "titulo": "Directo París y el cuarto día de manifestaciones de estudiantes en Francia",
-            "link": "https://www.france24.com/es/video/20261008-directo-par%C3%ADs-y-el-cuarto-d%C3%ADa-de-manifestaciones-de-estudiantes-en-francia",
-            "resumen": "Los estudiantes franceses siguen en las calles manifestándose por las condiciones educativas en el país. El primer ministro Sébastien Lecornu se pronunció al respecto, prometiendo medidas a finales de octubre y negando que las fuerzas de…",
+            "titulo": "Del apartheid a los tribunales internacionales: Navi Pillay, Nobel de la Paz 2026",
+            "link": "https://www.france24.com/es/video/20261009-del-apartheid-a-los-tribunales-internacionales-navi-pillay-nobel-de-la-paz-2026",
+            "resumen": "Un reconocimiento a una vida dedicada a la justicia internacional. La abogada sudafricana Navanethem Navi Pillay, de 85 años, recibió este 9 de octubre el Premio Nobel de la Paz 2026, otorgado por el Comité Noruego del Nobel. Navi Pillay…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Presentan nuevos cargos en Nueva York contra Maduro y su esposa por presuntas torturas a ciudadanos de EE.UU.",
-            "link": "https://www.bbc.com/mundo/articles/cx7vpe0q7jnyo?at_medium=RSS&at_campaign=rss",
-            "resumen": "El expresidente de Venezuela y su esposa fueron acusados por el Departamento de Justicia de EE.UU. de haber participado en la tortura de estadounidenses detenidos en Caracas.",
+            "titulo": "Quién es Navi Pillay, la jurista sudafricana ganadora del Nobel de la Paz: \"Lo dedico a los sobrevivientes del crimen internacional\"",
+            "link": "https://www.bbc.com/mundo/articles/cm78pw5qwy38o?at_medium=RSS&at_campaign=rss",
+            "resumen": "El Comité Noruego del Nobel ha otorgado el premio Nobel de la Paz 2026 a la ex alta comisionada de derechos humanos de la ONU.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Italia aprueba la controvertida reforma electoral de Meloni y se acerca a las urnas",
-            "link": "https://elpais.com/internacional/2026-10-08/italia-aprueba-la-controvertida-reforma-electoral-de-meloni-y-se-acerca-a-unas-elecciones-anticipadas.html",
-            "resumen": "La ley, que otorga la mayoría absoluta a la coalición que supere el 42% de los votos, afrontará varios recursos ante el Tribunal Constitucional",
-            "fuente": "El País"
+            "titulo": "Directo París y la incorporación de 3.000 profesores mientras continúan las protestas estudiantiles",
+            "link": "https://www.france24.com/es/video/20261009-directo-par%C3%ADs-y-la-incorporaci%C3%B3n-de-3-000-profesores-mientras-contin%C3%BAan-las-protestas-estudiantiles",
+            "resumen": "Continúan extendiéndose las protestas estudiantiles en Francia, que reclaman mejoras en el sistema educativo, un mayor número de profesores y la adecuación de las instalaciones académicas, entre otras demandas. En las últimas horas, el…",
+            "fuente": "France 24"
           }
         ]
       },
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Pepe Álvarez: “No es una huelga clásica”; Unai Sordo: “La chispa es Maricarmen”",
-            "link": "https://elpais.com/economia/2026-10-08/pepe-alvarez-no-es-una-huelga-clasica-unai-sordo-la-chispa-es-maricarmen.html",
-            "resumen": "Los secretarios generales de UGT y CC OO confían en que los trabajadores propietarios secunden el paro general porque la crisis de la vivienda “también afecta a sus hijos”",
+            "titulo": "El decreto de vivienda frena la estrategia de los fondos de vender sus casas de alquiler",
+            "link": "https://elpais.com/economia/vivienda/2026-10-09/el-decreto-de-vivienda-frena-la-estrategia-de-los-fondos-de-vender-sus-casas-de-alquiler.html",
+            "resumen": "La prórroga de los arrendamientos dificulta los planes de negocio de los grandes inversores que compraron carteras para irse desprendiendo de las casas una a una",
             "fuente": "El País"
           },
           {
-            "titulo": "¿Vender o seguir alquilando? El cálculo fiscal que cambia tras el nuevo decreto de vivienda",
-            "link": "https://www.expansion.com/fiscal/2026/10/08/6ac688a9e5fdea56578b457c.html",
-            "resumen": "El Gobierno resucita sus reformas inmobiliarias en plena disolución de las Cortes para someterlas a la Diputación Permanente. El cruce entre las nuevas indemnizaciones al inquilino y la exención de hasta el 100% en el IRPF obliga a los…",
+            "titulo": "CaixaBank acapara el 56% de todo lo que ganan los bancos en seguros",
+            "link": "https://www.expansion.com/empresas/seguros/2026/10/09/6ac7e657468aeba6098b4587.html",
+            "resumen": "La bancaseguros aportó más del 20% al beneficio total de la banca en 2025 con el resultado de sus filiales de seguros y las comisiones por la venta de pólizas. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Díaz da tres semanas a los expertos para que recomienden cuánto subir el salario mínimo sin que pierda poder adquisitivo",
-            "link": "https://elpais.com/economia/2026-10-08/diaz-da-tres-semanas-a-los-expertos-para-que-recomienden-cuanto-subir-el-salario-minimo-sin-que-pierda-poder-adquisitivo.html",
-            "resumen": "Trabajo quiere elevar el SMI de 2027 antes de las elecciones generales y que al menos empate con la inflación, cuyo último dato interanual es el 4,9%",
+            "titulo": "La construcción de vivienda protegida marca su mejor semestre en 15 años",
+            "link": "https://elpais.com/economia/2026-10-09/la-construccion-de-vivienda-protegida-marca-su-mejor-semestre-en-15-anos.html",
+            "resumen": "Las obras se aceleran con el inicio de la edificación de casi 14.000 casas entre enero y junio, un 70% más que hace un año, pero quedan lejos de las cifras previas al estallido de la burbuja inmobiliaria",
             "fuente": "El País"
           },
           {
-            "titulo": "El Gobierno aprueba la 'Ley Ferrovial' para que el Ibex pueda cotizar en Nueva York",
-            "link": "https://www.expansion.com/empresas/2026/10/08/6ac74d6ae5fdea1c358b45a8.html",
-            "resumen": "Decreto urgente antes de las elecciones para facilitar la \"negociación simultánea de valores españoles en mercados extranjeros\" Leer",
+            "titulo": "BBVA renueva la cúpula de su Banca Retail en España",
+            "link": "https://www.expansion.com/empresas/banca/2026/10/09/6ac7d37ee5fdea8e2a8b45a0.html",
+            "resumen": "Luís Simões asume el cargo de responsable de Banca Minorista en España tras el ascenso de Gonzalo Rodríguez a director financiero del grupo. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "La crisis de la vivienda preocupa “mucho” o “bastante” a ocho de cada diez españoles",
-            "link": "https://elpais.com/economia/vivienda/2026-10-08/la-crisis-de-la-vivienda-preocupa-mucho-o-bastante-a-ocho-de-cada-diez-espanoles.html",
-            "resumen": "El barómetro monotemático del CIS publicado este jueves constata que el 76% de la ciudadanía cree que el Estado debería intervenir el mercado",
+            "titulo": "La UE alcanza un entendimiento con China para reducir la importación de coches híbridos a la mitad",
+            "link": "https://elpais.com/economia/2026-10-09/la-ue-alcanza-un-entendimiento-con-china-para-reducir-la-importacion-de-coches-hibridos-a-la-mitad.html",
+            "resumen": "La visita del comisario europeo de Comercio a Pekín concluye con un acuerdo para regular las exportaciones de vehículos híbridos chinos y favorecer las de tierras raras",
             "fuente": "El País"
           }
         ]
@@ -78,33 +78,33 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
+            "titulo": "El microbioma intestinal influye en efectos adversos de la vacunación como la fiebre",
+            "link": "https://elpais.com/salud-y-bienestar/2026-10-08/el-microbioma-intestinal-influye-en-efectos-adversos-de-la-vacunacion-como-la-fiebre.html",
+            "resumen": "Un estudio revela que la composición del universo de bacterias, virus, hongos y arqueas que nos habita puede modular reacciones inflamatorias y síntomas de malestar después del pinchazo",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "¿Se puede ser cruel con una IA? Anthropic prohíbe insultar “de manera sostenida” a su ‘chatbot’ Claude",
+            "link": "https://elpais.com/tecnologia/2026-10-09/se-puede-ser-cruel-con-una-ia-anthropic-prohibe-insultar-de-manera-sostenida-a-su-chatbot-claude.html",
+            "resumen": "Las nuevas políticas de uso de la compañía añaden por primera vez un apartado sobre “abuso hacia nuestros modelos”",
+            "fuente": "El País"
+          },
+          {
             "titulo": "Muere Margaret Hamilton, la mujer que enseñó al ordenador del Apolo a no perder los nervios sobre la Luna",
             "link": "https://elpais.com/ciencia/2026-10-08/muere-margaret-hamilton-la-pionera-de-la-informatica-que-hizo-posible-la-llegada-a-la-luna.html",
             "resumen": "La informática estadounidense, que dirigió los programas de vuelo de las misiones lunares y popularizó el término “ingeniería de software”, ha fallecido a los 90 años",
             "fuente": "El País"
           },
           {
-            "titulo": "El consejo de sabios de la IA pide más impuestos a las tecnológicas y reforzar el control de los menores",
-            "link": "https://elpais.com/tecnologia/2026-10-08/el-consejo-de-sabios-de-la-ia-pide-mas-impuestos-a-las-tecnologicas-y-reforzar-el-control-de-los-menores.html",
-            "resumen": "El panel internacional de expertos que asesora al Gobierno en esta tecnología recomienda más regulación y apostar por la soberanía europea",
+            "titulo": "Multa récord de 750.000 euros por la rifa que realizó TheGrefg de su coche de lujo sin tener los permisos necesarios",
+            "link": "https://elpais.com/sociedad/2026-10-09/un-youtuber-espanol-residente-en-andorra-multado-con-750000-euros-por-la-rifa-de-un-coche-de-lujo.html",
+            "resumen": "El Ministerio de Consumo no señalaba al ‘youtuber’, pero los datos coinciden con un sorteo de su Tesla que impulsó en 2024. Se vendieron casi 380.000 participaciones de un euro",
             "fuente": "El País"
           },
           {
             "titulo": "Carlos Briones, divulgador: “No podemos dejar un móvil a un chaval para que no moleste y luego reprocharle que le dedique horas”",
             "link": "https://elpais.com/ciencia/2026-10-08/carlos-briones-divulgador-no-podemos-dejar-un-movil-a-un-chaval-para-que-no-moleste-y-luego-reprocharle-que-le-dedique-horas.html",
             "resumen": "Con un perfil de verdadero sabio renacentista y una capacidad innata para transmitir su conocimiento, este astrobiólogo es además un comunicador que no concibe la ciencia sin las humanidades",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "La IA no distingue el bien del mal: dos físicos destapan lo que las grandes empresas quieren esconder",
-            "link": "https://elpais.com/tecnologia/2026-10-08/la-ia-no-distingue-el-bien-del-mal-dos-fisicos-destapan-lo-que-las-grandes-empresas-quieren-esconder.html",
-            "resumen": "La inteligencia artificial tiene algo de fiera disfrazada de máquina inteligente: un nuevo estudio da una fórmula para entender cuándo sus respuestas se tuercen",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "La tortuga ‘Jonathan’ tiene 194 años y en sus genes se esconden los secretos de la longevidad",
-            "link": "https://elpais.com/ciencia/2026-10-07/la-tortuga-jonathan-tiene-194-anos-y-en-sus-genes-se-esconden-los-secretos-de-la-longevidad.html",
-            "resumen": "El animal terrestre de mayor edad tiene una combinación de variantes genéticas que le permiten envejecer con mucha más eficacia",
             "fuente": "El País"
           }
         ]
@@ -113,33 +113,33 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "Mourinho y la lentitud del 'caso City': \"Tendremos que tener suerte de seguir aquí cuando llegue la sentencia\"",
-            "link": "https://www.marca.com/futbol/real-madrid/2026/10/08/mourinho-lentitud-caso-city-tendremos-suerte-seguir-aqui-llegue-sentencia.html",
-            "resumen": "El entrenador del Real Madrid repasa en una entrevista la situación judicial del club inglés, sus habituales polémicas arbitrales y su regreso al banquillo blanco",
+            "titulo": "Varela: \"Me pidieron que fuera a una sala, que Ancelotti quería verme y darme las gracias\"",
+            "link": "https://www.marca.com/mundo-marca/2026/10/09/varela-me-pidieron-fuera-sala-ancelotti-queria-verme-darme-gracias.html",
+            "resumen": "Raúl Varela, presentador de 'La Tribu', tercer invitado de 'Frecuencia Marca'",
             "fuente": "Marca"
           },
           {
-            "titulo": "El Barça pide cambiar la fecha del partido contra el Arsenal",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261008/1004236225/barca-pide-cambiar-fecha-partido-arsenal.html",
-            "resumen": "La convocatoria de huelga general para el próximo 11 de noviembre preocupa en el FC Barcelona, por cuanto es la fecha en la que se debe jugar el Barça-Arsenal correspondiente a la cuarta jornada de la fase de Liga de la Champions…",
+            "titulo": "Chelsea y Bayern, atentos a Koundé para enero",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261009/1004236705/chelsea-bayern-atentos-kounde-enero.html",
+            "resumen": "Con la temporada en marcha y el periodo de fichajes paralizado hasta el próximo mes de enero, no se detienen las informaciones de posibles movimientos. Uno de los futbolistas sobre el que recaen las últimas noticias surgidas desde…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Manolo González: “Estoy fuerte y convencido de darle la vuelta a esto”",
-            "link": "https://www.marca.com/futbol/espanyol/2026/10/08/manolo-gonzalez-fuerte-convencido-darle-vuelta-esto.html",
-            "resumen": "El técnico perico se mostraba optimista y con ganas tras los últimos resultados negativos del equipo",
+            "titulo": "\"Ya ha pasado un tiempo para que Alcaraz y yo podamos vernos y darnos un abrazo\"",
+            "link": "https://www.marca.com/tenis/2026/10/09/ferrero-deseo-alcaraz-pasado-podamos-vernos-darnos-abrazo.html",
+            "resumen": "El exnúmero 1 mundial estrena libro y habla de que se siente listo para volver al circuito",
             "fuente": "Marca"
           },
           {
-            "titulo": "Pere Romeu: \"Flick me mandó un mensaje antes del Barça-Madrid\"",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261008/1004236256/pere-romeu-flick-me-mando-mensaje-barca-madrid.html",
-            "resumen": "Pere Romeu , entrenador del FC Barcelona Femenino , destacó durante una entrevista con ESPN el compromiso que están mostrando sus jugadoras en el inicio de la temporada. Después de un verano en el que el campeón de la UEFA Women's…",
+            "titulo": "Flick desvela el plan del Barça con De Jong",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261009/1004236578/plan-barca-jong.html",
+            "resumen": "La vuelta de Frenkie de Jong (29 años) está cada vez más cerca. El centrocampista, tras sufrir una lesión de ligamentos en verano, ha vuelto a entrenar hoy con el grupo. Sin embargo, no entrará en la lista de convocados para el partido…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Expulsan a una empresa de una feria por usar mujeres desnudas: \"No todas las almejas son iguales\"",
-            "link": "https://www.marca.com/tiramillas/sociedad/2026/10/08/conxemar-expulsa-empresa-feria-mujeres-desnudas-promocionar-productos-todas-almejas-son-iguales.html",
-            "resumen": "La organización de la feria internacional de productos del mar congelados de Vigo&nbsp;ha expulsado a La Selvaggia por exhibir y difundir folletos con imágenes de mujeres desnudas o semidesnudas para promocionar sus productos",
+            "titulo": "Atmane, a raquetazo limpio en la previa de Shanghái y no es expulsado",
+            "link": "https://www.marca.com/tenis/2026/10/09/atmane-raquetazo-limpio-previa-shanghai-expulsado.html",
+            "resumen": "El francés se retiró cuando su rival, Bernard Tomic, sacaba para el partido",
             "fuente": "Marca"
           }
         ]
@@ -147,41 +147,41 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "October 8, 2026",
-    "generada": "17:02",
+    "fecha": "October 9, 2026",
+    "generada": "16:40",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-            "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+            "titulo": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+            "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Researchers find 180,000 giant tortoises living on island in Seychelles",
-            "link": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
-            "resumen": "Figure is highest ever recorded for species and confirms one of Indian Ocean’s greatest conservation success stories A survey of the world’s largest free-roaming giant tortoise population has revealed that the once endangered species is…",
+            "titulo": "Firing squad execution to be livestreamed, Pentagon says",
+            "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
+            "link": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
+            "resumen": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding Isaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a minimum pressure of…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "How a U.S. Diplomat Suppressed and Altered Reports Critical of Israel",
-            "link": "https://www.nytimes.com/2026/10/08/world/middleeast/israel-embassy-milstein-huckabee.html",
-            "resumen": "A top aide to Ambassador Mike Huckabee skewed information to portray the Netanyahu government in a favorable light, according to multiple officials and documents obtained by The Times.",
+            "titulo": "Days of Deadly Houthi Attacks Show Saudi Arabia’s Vulnerabilities",
+            "link": "https://www.nytimes.com/2026/10/09/world/middleeast/yemen-houthi-attack-saudi-arabia-airport-riyadh.html",
+            "resumen": "The escalating violence has brought the conflict in Yemen to the doorstep of the Saudi capital, and the kingdom has no easy options to curtail the increasingly sophisticated and targeted strikes.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Christa Pike now walking after failed US execution, lawyer tells BBC",
-            "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
-            "resumen": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
+            "titulo": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
+            "link": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
             "fuente": "BBC"
-          },
-          {
-            "titulo": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
-            "link": "https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray",
-            "resumen": "Government forces’ attack raises risk of internal conflict in Ethiopia that could trigger regional war Eritrean troops who crossed into Ethiopia’s Tigray region have come under drone attack from government forces, raising the risk that…",
-            "fuente": "The Guardian"
           }
         ]
       },
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Asos hackers took more personal details than first revealed, BBC finds",
-            "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
+            "titulo": "Burnham promises to curb non-compete rules in job contracts",
+            "link": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
             "fuente": "BBC"
           },
           {
-            "titulo": "Oil prices jump 5% on Middle East tensions and US hurricane threat",
-            "link": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat",
-            "resumen": "Global bond market sell-off continues and stocks fall amid reports White House has asked to see options for more strikes against Iran Business live – latest updates Oil prices have risen sharply amid fears about escalating tensions in the…",
+            "titulo": "‘People are feeling the real impacts’: influencers are targeting private equity with satire and rage",
+            "link": "https://www.theguardian.com/us-news/2026/oct/09/anti-private-equity-comedy-influencers",
+            "resumen": "Skits and parodies making fun of the trillion-dollar industry have taken over social media, racking up millions of views Johnny Hilbrant Partridge kept getting stuck next to the same kind of finance guy at weddings – the one bragging…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Shifting Eating Habits Push PepsiCo to Weigh Options, Including a Split",
-            "link": "https://www.nytimes.com/2026/10/08/business/pepsico-earnings-splitting.html",
-            "resumen": "The beverage and snack company is under increasing pressure to grow its business in North America, as consumers cut costs and calories.",
+            "titulo": "Trump Sends Obamacare ‘Refund’ Checks Ahead of Midterm Elections",
+            "link": "https://www.nytimes.com/2026/10/09/business/trump-obamacare-refund-checks.html",
+            "resumen": "The $500 checks are accompanied by a letter signed by the president that criticizes the Biden administration for overcharging Americans for health insurance.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "We spent thousands on a Tui river cruise but ended up on coach trips",
-            "link": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Passengers have described their anger after their itineraries changed to involve hours spent on coach trips instead.",
+            "titulo": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
+            "link": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
+            "resumen": "The Court of Appeal quashes the conviction of Christian Bittar, a former Deutsche Bank trader jailed in 2018.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Skepticism mires Trump’s Iowa steel plant project: ‘Promises are not the same as jobs’",
-            "link": "https://www.theguardian.com/business/2026/oct/07/trump-steel-plant-iowa-skepticism",
-            "resumen": "The project has sparked doubts over whether the plant will be built and delivered as promised, given Trump’s record Donald Trump has long sought to portray himself as a man of steel, from the White House photoshopping Trump to look like…",
+            "titulo": "Trump immigrant purge could cut social security for Americans by $2,000 a year",
+            "link": "https://www.theguardian.com/us-news/2026/oct/09/trump-immigration-cost-social-security",
+            "resumen": "New report on economic cost of anti-immigration campaign projects 8.6% reduction in retirement payments by 2034 Elderly Americans can expect to lose an average of $2,152 in annual social security benefits each, a projected 8.6% reduction…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,34 +224,34 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "First Hurricane of the Atlantic season due to hit the Gulf coast",
-            "link": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "El Niño has led to an eerily quiet season so far but the first Atlantic hurricane of the year is now set to impact the southern USA.",
+            "titulo": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+            "link": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Teenager becomes first person to have testicular tissue transplant in UK",
-            "link": "https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility",
-            "resumen": "Operation on 19-year-old who had no sperm after chemotherapy offers hope of preserving children’s fertility after cancer treatment Surgeons have performed the first testicular tissue transplant on a teenager in the UK, offering hope that…",
+            "titulo": "Astronomers detect mysterious burst of energy from a galaxy far, far away",
+            "link": "https://www.theguardian.com/science/2026/oct/09/astronomy-fast-radio-bursts-frb-radio-waves",
+            "resumen": "Intense flash of radio waves is more than 10bn years old and has travelled through ‘approximately 80% of cosmic history’ A long time ago in a galaxy far, far away, a mysterious flash of energy was released into the universe. Astronomers…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code",
-            "link": "https://www.nytimes.com/2026/10/08/science/space/margaret-hamilton-computer-science.html",
-            "resumen": "The woman who helped put astronauts on the moon was a software engineer when the field was not prestigious or lucrative.",
+            "titulo": "Cancer Vaccines Are the N.I.H’s Next ‘Big Bet’",
+            "link": "https://www.nytimes.com/2026/10/09/science/cancer-vaccines-nih-big-bet.html",
+            "resumen": "New details have emerged about an initiative that starts in December to fast-track the vaccines, similar to the successful push for the Covid-19 vaccine.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Residents airlifted to safety after flooding in central Chile",
-            "link": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
-            "fuente": "BBC"
+            "titulo": "You have a higher chance of getting cancer at a younger age than your parents. So what went wrong? | Devi Sridhar",
+            "link": "https://www.theguardian.com/commentisfree/2026/oct/09/rise-cancer-young-people-mystery-early-onset",
+            "resumen": "Some change in our lifestyles and environments over a generation has caused this increased risk. What, exactly, is a mystery Prof Devi Sridhar is chair of global public health at the University of Edinburgh In the field of global health,…",
+            "fuente": "The Guardian"
           },
           {
-            "titulo": "Margaret Hamilton, trailblazer whose software powered Apollo 11 moon landing, dies aged 90",
-            "link": "https://www.theguardian.com/science/2026/oct/07/margaret-hamilton-moon-computer-software",
-            "resumen": "MIT computer scientist led development of software for moon mission and earned Presidential Medal of Freedom Margaret Hamilton, the computer pioneer whose software powered the first moon landing, has died, the Massachusetts Institute of…",
-            "fuente": "The Guardian"
+            "titulo": "‘Breathtaking,’ ‘Devastating’: Mathematics Reels After New OpenAI Release",
+            "link": "https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html",
+            "resumen": "Hundreds of new A.I.-generated findings moved the frontiers of higher math in a single day — dispelling any doubt that the field is forever changed.",
+            "fuente": "N.Y. Times"
           }
         ]
       },
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Maresca tells Man City players to stay focused and positive",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6n4ex2lgg2ko?at_medium=RSS&at_campaign=rss",
-            "resumen": "Manchester City boss Enzo Maresca wants his squad to focus and be positive after the club were found guilty of breaching Premier League financial rules.",
+            "titulo": "What reception awaits Man City at Anfield?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cjkgey07lq15o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Bus welcomes, banners and flags expected as Man City head to Liverpool on Sunday for their first game since they were found guilty of breaching Premier League rules.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Rays sweep Yankees out of playoffs after ‘crazy’ fan interference downgrades New York home run",
-            "link": "https://www.theguardian.com/sport/2026/oct/07/mlb-playoffs-2026-division-series-results-scores-highlights",
-            "resumen": "Rays sweep Yankees 3-0 after fan interference call Dodgers eliminate Braves to keep three-peat bid alive Ramírez leads Guardians past Sox to avoid sweep Anthony Volpe rounded the bases, touched home plate and then waited out the…",
+            "titulo": "Bucky Irving runs riot as Buccaneers stun Cowboys for first win of season",
+            "link": "https://www.theguardian.com/sport/2026/oct/08/bucky-irving-tampa-bay-buccaneers-dallas-cowboys-nfl",
+            "resumen": "Irving rushes for career-high 165 yards and two TDs Rookie Daniels impresses in second NFL start Prescott throws two picks as Dallas fall to 2-3 Bucky Irving already had his first 100-yard game since his rookie year in 2024 when the Tampa…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Clubs fear political interference in Man City appeal",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6y93qq5175wo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Premier League clubs are \"concerned\" about political interference in Manchester City's appeal after Prime Minister Andy Burnham's comments.",
+            "titulo": "Verstappen on sprint pole after another settings issue",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/ck62y7jz1qqro?at_medium=RSS&at_campaign=rss",
+            "resumen": "Red Bull's Max Verstappen beats Mercedes driver George Russell to sprint pole at the Singapore Grand Prix.",
             "fuente": "BBC"
           },
           {
-            "titulo": "With no Pulisic and good results, have the USMNT moved on from their savior complex? | Leander Schaerlaeckens",
-            "link": "https://www.theguardian.com/football/2026/oct/08/usmnt-christian-pulisic-youth-movement-mauricio-pochettino",
-            "resumen": "The US have been defined for so long by the next singular player. This past perfect window shows that era may be over Sign up for our free newsletter here In 1990, then-United States men’s national team manager Bob Gansler made a critical…",
+            "titulo": "Maresca maintains almost total control as he follows Manchester City owners’ line | Jamie Jackson",
+            "link": "https://www.theguardian.com/football/2026/oct/09/maresca-maintains-almost-total-control-as-he-follows-manchester-city-owners-line",
+            "resumen": "Manager’s media conference three times busier than usual but he and his club are still speaking with one voice – for now Enzo Maresca’s first public display since Manchester City were found guilty on virtually all counts of breaching…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Cummins not worried about potential Khawaja revelations",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cr4g1z3913z1o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Pat Cummins confirms he has spoken to Usman Khawaja about his former team-mate’s upcoming autobiography but the Australia captain says he has no concerns about potential sandpapergate revelations.",
+            "titulo": "I've got my own questions on Man City case - Carrick",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Manchester United boss Michael Carrick says he was personally affected by the Manchester City case which has seen the club found guilty of breaching Premier League financial rules and still has questions about the matter.",
             "fuente": "BBC"
           }
         ]
