@@ -1,41 +1,41 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "9 de octubre de 2026",
-    "generada": "16:40",
+    "fecha": "10 de octubre de 2026",
+    "generada": "15:37",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Especial BBC Mundo: Isla Coiba, la brutal prisión a cielo abierto que se convirtió en paraíso natural y a la que Panamá vuelve a enviar presos",
-            "link": "https://www.bbc.com/mundo/articles/cr86zqyy4eg3o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Panamá trasladó a 29 presos a una isla que fue una temida colonia penal, marcada por abusos y trabajos forzados. La decisión genera preocupación por el futuro de este territorio, hoy Patrimonio de la Humanidad. Viajamos hasta allí para…",
+            "titulo": "Quién es James Chambers, el millonario \"comunista\" detenido en España a petición de EE.UU.",
+            "link": "https://www.bbc.com/mundo/articles/cwzrzr40ky1ko?at_medium=RSS&at_campaign=rss",
+            "resumen": "James \"Fergie\" Chambers decidió dedicar su vida y su fortuna al activismo de izquierda. Ahora, su país lo acusa de desórdenes y blanqueo de capitales.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "El tiroteo del ICE en Nueva York pone a prueba a Mamdani y a su resistencia proinmigrante",
-            "link": "https://elpais.com/us/migracion/2026-10-09/mamdani-exige-a-trump-el-fin-del-ice-en-nueva-york-no-me-quedare-de-brazos-cruzados.html",
-            "resumen": "El alcalde exige la retirada de la agencia migratoria de la ciudad después de que un agente disparara a un hombre dominicano delante de su hijo de cinco años",
+            "titulo": "Un año de alto el fuego en Gaza con casi 1.500 muertos",
+            "link": "https://elpais.com/internacional/2026-10-10/un-ano-de-alto-el-fuego-en-gaza-con-casi-1500-muertos.html",
+            "resumen": "Israel bombardea a diario e impide la reconstrucción, castigando a dos millones de personas. Tras recibir de Hamás a los últimos rehenes, ha vaciado la tregua de contenido, con el silencio de EE UU y la Junta de Paz",
             "fuente": "El País"
           },
           {
-            "titulo": "Del apartheid a los tribunales internacionales: Navi Pillay, Nobel de la Paz 2026",
-            "link": "https://www.france24.com/es/video/20261009-del-apartheid-a-los-tribunales-internacionales-navi-pillay-nobel-de-la-paz-2026",
-            "resumen": "Un reconocimiento a una vida dedicada a la justicia internacional. La abogada sudafricana Navanethem Navi Pillay, de 85 años, recibió este 9 de octubre el Premio Nobel de la Paz 2026, otorgado por el Comité Noruego del Nobel. Navi Pillay…",
+            "titulo": "India sofoca las protestas de las \"cucarachas\" con miles de arrestos, incluidos sus líderes",
+            "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20261010-india-sofoca-las-protestas-de-las-cucarachas-con-miles-de-arrestos-incluidos-sus-l%C3%ADderes",
+            "resumen": "Con un amplio despliegue, bloqueos en distintos puntos de Nueva Delhi y múltiples detenciones, la Policía de India consiguió reprimir la movilización convocada por el movimiento juvenil de las \"cucarachas\" (CJP), en rechazo a una…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Quién es Navi Pillay, la jurista sudafricana ganadora del Nobel de la Paz: \"Lo dedico a los sobrevivientes del crimen internacional\"",
-            "link": "https://www.bbc.com/mundo/articles/cm78pw5qwy38o?at_medium=RSS&at_campaign=rss",
-            "resumen": "El Comité Noruego del Nobel ha otorgado el premio Nobel de la Paz 2026 a la ex alta comisionada de derechos humanos de la ONU.",
+            "titulo": "Un fuerte terremoto de magnitud 7,7 sacude Panamá: el presidente Mulino afirma que el desastre que enfrenta su país \"es grande\"",
+            "link": "https://www.bbc.com/mundo/articles/cwg5jyqdlj6mo?at_medium=RSS&at_campaign=rss",
+            "resumen": "El epicentro del sismo se ubicó en el sur del país centroamericano, cerca de la costa Pacífico. Decenas de edificaciones resultaron afectadas.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Directo París y la incorporación de 3.000 profesores mientras continúan las protestas estudiantiles",
-            "link": "https://www.france24.com/es/video/20261009-directo-par%C3%ADs-y-la-incorporaci%C3%B3n-de-3-000-profesores-mientras-contin%C3%BAan-las-protestas-estudiantiles",
-            "resumen": "Continúan extendiéndose las protestas estudiantiles en Francia, que reclaman mejoras en el sistema educativo, un mayor número de profesores y la adecuación de las instalaciones académicas, entre otras demandas. En las últimas horas, el…",
-            "fuente": "France 24"
+            "titulo": "Bally Bagayoko, alcalde de Saint-Denis: “Francia tiene que responder a los estudiantes con medidas concretas y no con la policía”",
+            "link": "https://elpais.com/internacional/2026-10-10/bally-bagayoko-alcalde-de-saint-denis-francia-tiene-que-responder-a-los-estudiantes-con-medidas-concretas-y-no-con-la-policia.html",
+            "resumen": "El popular regidor, que acude a las protestas estudiantiles y se interpone entre los jóvenes y los agentes, cree que el Gobierno de Macron no está actuando correctamente y que el estallido en la calle irá en aumento",
+            "fuente": "El País"
           }
         ]
       },
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "El decreto de vivienda frena la estrategia de los fondos de vender sus casas de alquiler",
-            "link": "https://elpais.com/economia/vivienda/2026-10-09/el-decreto-de-vivienda-frena-la-estrategia-de-los-fondos-de-vender-sus-casas-de-alquiler.html",
-            "resumen": "La prórroga de los arrendamientos dificulta los planes de negocio de los grandes inversores que compraron carteras para irse desprendiendo de las casas una a una",
+            "titulo": "Seat negocia con Volkswagen producir el Audi Q4 eléctrico en Barcelona a partir de 2032",
+            "link": "https://cincodias.elpais.com/companias/2026-10-10/seat-negocia-con-volkswagen-producir-el-audi-q4-electrico-en-barcelona-a-partir-de-2032.html",
+            "resumen": "La filial española ha intensificado las conversaciones con vistas a que haya un anuncio para la fábrica el año que viene. Podría llegar un segundo modelo, aunque depende de la evolución de la crisis del grupo",
             "fuente": "El País"
           },
           {
-            "titulo": "CaixaBank acapara el 56% de todo lo que ganan los bancos en seguros",
-            "link": "https://www.expansion.com/empresas/seguros/2026/10/09/6ac7e657468aeba6098b4587.html",
-            "resumen": "La bancaseguros aportó más del 20% al beneficio total de la banca en 2025 con el resultado de sus filiales de seguros y las comisiones por la venta de pólizas. Leer",
+            "titulo": "Pedro Sánchez promete \"reforzar y mantener\" los decretos de vivienda",
+            "link": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/10/6aca29c5468aebd2358b4572.html",
+            "resumen": "El líder del PSOE y candidato a la Presidencia del Gobierno en las elecciones del 29 de noviembre, Pedro Sánchez, se comprometió este sábado a \"reforzar y mantener\" los dos reales decretos de vivienda que no consiguió sacar adelante en el…",
             "fuente": "Expansión"
           },
           {
-            "titulo": "La construcción de vivienda protegida marca su mejor semestre en 15 años",
-            "link": "https://elpais.com/economia/2026-10-09/la-construccion-de-vivienda-protegida-marca-su-mejor-semestre-en-15-anos.html",
-            "resumen": "Las obras se aceleran con el inicio de la edificación de casi 14.000 casas entre enero y junio, un 70% más que hace un año, pero quedan lejos de las cifras previas al estallido de la burbuja inmobiliaria",
+            "titulo": "Gabriel Escarrer (Meliá): “El nuevo Gobierno tiene que acabar con los pisos turísticos ilegales”",
+            "link": "https://elpais.com/economia/2026-10-10/escarrer-melia-el-nuevo-gobierno-tiene-que-acabar-con-los-pisos-turisticos-ilegales.html",
+            "resumen": "El consejero delegado de la primera hotelera española cree que es la única solución a corto plazo para mitigar la crisis de la vivienda",
             "fuente": "El País"
           },
           {
-            "titulo": "BBVA renueva la cúpula de su Banca Retail en España",
-            "link": "https://www.expansion.com/empresas/banca/2026/10/09/6ac7d37ee5fdea8e2a8b45a0.html",
-            "resumen": "Luís Simões asume el cargo de responsable de Banca Minorista en España tras el ascenso de Gonzalo Rodríguez a director financiero del grupo. Leer",
+            "titulo": "La banca declara la guerra por el ahorro a los neobancos",
+            "link": "https://www.expansion.com/ahorro/2026/10/10/6ac91c0b468aeb74518b4585.html",
+            "resumen": "Con mucha rapidez, entidades como Openbank, Kutxabank y Bankinter han elevado la remuneración de sus productos hasta convertirlos en los mejor pagados. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "La UE alcanza un entendimiento con China para reducir la importación de coches híbridos a la mitad",
-            "link": "https://elpais.com/economia/2026-10-09/la-ue-alcanza-un-entendimiento-con-china-para-reducir-la-importacion-de-coches-hibridos-a-la-mitad.html",
-            "resumen": "La visita del comisario europeo de Comercio a Pekín concluye con un acuerdo para regular las exportaciones de vehículos híbridos chinos y favorecer las de tierras raras",
+            "titulo": "El sindicalismo alternativo toma vuelo con las Inquilinas en dirección a la huelga general",
+            "link": "https://elpais.com/economia/2026-10-10/el-sindicalismo-alternativo-toma-vuelo-con-las-inquilinas-en-direccion-a-la-huelga-general.html",
+            "resumen": "El Sindicato de Inquilinas reclamaba el paro por la vivienda desde hace tiempo, con respaldo de organizaciones laborales de menor tamaño, como CGT. CC OO y UGT dicen que ya manejaban la idea, pero no dieron el paso final hasta el lunes",
             "fuente": "El País"
           }
         ]
@@ -78,33 +78,33 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
+            "titulo": "Los Nobel de 2026 honran a los audaces que se enfrentaron a las preguntas esenciales de la ciencia",
+            "link": "https://elpais.com/ciencia/2026-10-10/los-nobel-de-2026-honran-a-los-audaces-que-se-enfrentaron-a-las-preguntas-esenciales-de-la-ciencia.html",
+            "resumen": "Los premios de Física, Medicina y Química reconocen descubrimientos que parten de lo diminuto para acercarse a algunos de los mayores enigmas científicos: el universo, la vida y la consciencia",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Anthropic revela un aviso falso a la policía entre los nuevos incidentes de una IA descontrolada",
+            "link": "https://elpais.com/tecnologia/2026-10-10/anthropic-revela-un-aviso-falso-a-la-policia-entre-los-nuevos-incidentes-de-una-ia-descontrolada.html",
+            "resumen": "Se trata del primer caso conocido en el que una IA fuera de control parece haber intentado comunicar una denuncia falsa a las autoridades",
+            "fuente": "El País"
+          },
+          {
             "titulo": "El microbioma intestinal influye en efectos adversos de la vacunación como la fiebre",
             "link": "https://elpais.com/salud-y-bienestar/2026-10-08/el-microbioma-intestinal-influye-en-efectos-adversos-de-la-vacunacion-como-la-fiebre.html",
             "resumen": "Un estudio revela que la composición del universo de bacterias, virus, hongos y arqueas que nos habita puede modular reacciones inflamatorias y síntomas de malestar después del pinchazo",
             "fuente": "El País"
           },
           {
-            "titulo": "¿Se puede ser cruel con una IA? Anthropic prohíbe insultar “de manera sostenida” a su ‘chatbot’ Claude",
-            "link": "https://elpais.com/tecnologia/2026-10-09/se-puede-ser-cruel-con-una-ia-anthropic-prohibe-insultar-de-manera-sostenida-a-su-chatbot-claude.html",
-            "resumen": "Las nuevas políticas de uso de la compañía añaden por primera vez un apartado sobre “abuso hacia nuestros modelos”",
+            "titulo": "La política se contagia de las redes sociales: más conflicto y teatralización en el Congreso",
+            "link": "https://elpais.com/tecnologia/2026-10-10/la-politica-se-contagia-de-las-redes-sociales-mas-conflicto-y-teatralizacion-en-el-congreso.html",
+            "resumen": "Un análisis de casi 50.000 intervenciones parlamentarias detecta cómo en las últimas dos décadas ha cambiado el discurso político, impulsado por la viralidad y la desinformación",
             "fuente": "El País"
           },
           {
             "titulo": "Muere Margaret Hamilton, la mujer que enseñó al ordenador del Apolo a no perder los nervios sobre la Luna",
             "link": "https://elpais.com/ciencia/2026-10-08/muere-margaret-hamilton-la-pionera-de-la-informatica-que-hizo-posible-la-llegada-a-la-luna.html",
             "resumen": "La informática estadounidense, que dirigió los programas de vuelo de las misiones lunares y popularizó el término “ingeniería de software”, ha fallecido a los 90 años",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Multa récord de 750.000 euros por la rifa que realizó TheGrefg de su coche de lujo sin tener los permisos necesarios",
-            "link": "https://elpais.com/sociedad/2026-10-09/un-youtuber-espanol-residente-en-andorra-multado-con-750000-euros-por-la-rifa-de-un-coche-de-lujo.html",
-            "resumen": "El Ministerio de Consumo no señalaba al ‘youtuber’, pero los datos coinciden con un sorteo de su Tesla que impulsó en 2024. Se vendieron casi 380.000 participaciones de un euro",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Carlos Briones, divulgador: “No podemos dejar un móvil a un chaval para que no moleste y luego reprocharle que le dedique horas”",
-            "link": "https://elpais.com/ciencia/2026-10-08/carlos-briones-divulgador-no-podemos-dejar-un-movil-a-un-chaval-para-que-no-moleste-y-luego-reprocharle-que-le-dedique-horas.html",
-            "resumen": "Con un perfil de verdadero sabio renacentista y una capacidad innata para transmitir su conocimiento, este astrobiólogo es además un comunicador que no concibe la ciencia sin las humanidades",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Chelsea y Bayern, atentos a Koundé para enero",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261009/1004236705/chelsea-bayern-atentos-kounde-enero.html",
-            "resumen": "Con la temporada en marcha y el periodo de fichajes paralizado hasta el próximo mes de enero, no se detienen las informaciones de posibles movimientos. Uno de los futbolistas sobre el que recaen las últimas noticias surgidas desde…",
+            "titulo": "Revolución en el once de Flick ante el Getafe",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261010/1004237024/revolucion-once-flick-getafe.html",
+            "resumen": "El FC Barcelona ya tiene once para enfrentarse al Getafe. Hansi Flick ya avanzó en la rueda de prensa previa algunas novedades como el regreso de Joan Garcia bajo palos y la primera titularidad de Gabriel Jesús . Pero sorprendió con una…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Flick desvela el plan del Barça con De Jong",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261009/1004236578/plan-barca-jong.html",
-            "resumen": "La vuelta de Frenkie de Jong (29 años) está cada vez más cerca. El centrocampista, tras sufrir una lesión de ligamentos en verano, ha vuelto a entrenar hoy con el grupo. Sin embargo, no entrará en la lista de convocados para el partido…",
+            "titulo": "¡Suspendido el Rayo-Athletic!",
+            "link": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20261010/1004236924/partido-vallecas-queda-interrumpido-lanzamiento-pelotas-papel.html",
+            "resumen": "El partido Rayo-Athletic que ha dado comienzo a las dos de la tarde ha quedado suspendido de forma definitiva cerca de las tres de la tarde por el lanzamiento de objetos de papel al campo que han comenzado en el minuto 13 cuando el…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,41 +147,41 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "October 9, 2026",
-    "generada": "16:40",
+    "fecha": "October 10, 2026",
+    "generada": "15:37",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-            "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
+            "titulo": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
+            "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The convicted murderer was left in a critical condition after she survived two lethal injections.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Firing squad execution to be livestreamed, Pentagon says",
-            "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
-            "link": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
-            "resumen": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding Isaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a minimum pressure of…",
+            "titulo": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
+            "link": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
+            "resumen": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Days of Deadly Houthi Attacks Show Saudi Arabia’s Vulnerabilities",
-            "link": "https://www.nytimes.com/2026/10/09/world/middleeast/yemen-houthi-attack-saudi-arabia-airport-riyadh.html",
-            "resumen": "The escalating violence has brought the conflict in Yemen to the doorstep of the Saudi capital, and the kingdom has no easy options to curtail the increasingly sophisticated and targeted strikes.",
+            "titulo": "What to Know About the Delhi Protests",
+            "link": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html",
+            "resumen": "Protesters opposed to sweeping revisions to India’s voter rolls are trying to rally in New Delhi. The police have come out in force.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
-            "link": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
+            "titulo": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+            "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+            "resumen": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
             "fuente": "BBC"
+          },
+          {
+            "titulo": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+            "link": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+            "resumen": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired…",
+            "fuente": "The Guardian"
           }
         ]
       },
@@ -189,34 +189,34 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Burnham promises to curb non-compete rules in job contracts",
-            "link": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "‘People are feeling the real impacts’: influencers are targeting private equity with satire and rage",
-            "link": "https://www.theguardian.com/us-news/2026/oct/09/anti-private-equity-comedy-influencers",
-            "resumen": "Skits and parodies making fun of the trillion-dollar industry have taken over social media, racking up millions of views Johnny Hilbrant Partridge kept getting stuck next to the same kind of finance guy at weddings – the one bragging…",
+            "titulo": "‘People are pissed’: union decries TSA’s removal of chairs for checkpoint staff",
+            "link": "https://www.theguardian.com/us-news/2026/oct/10/tsa-union-agency-checkpoints-chairs",
+            "resumen": "Order for workers to remain standing to ‘reinforce professionalism’ draws rebuke amid plunging morale Union officials have launched a campaign to allow airport security staff to sit once more after the Trump administration unilaterally…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Trump Sends Obamacare ‘Refund’ Checks Ahead of Midterm Elections",
-            "link": "https://www.nytimes.com/2026/10/09/business/trump-obamacare-refund-checks.html",
-            "resumen": "The $500 checks are accompanied by a letter signed by the president that criticizes the Biden administration for overcharging Americans for health insurance.",
+            "titulo": "What’s Dragging Down A.I. Efficiency? The ‘Verification Tax.’",
+            "link": "https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html",
+            "resumen": "As artificial intelligence automates office tasks, it is also creating a new type of human work.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
-            "link": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
-            "resumen": "The Court of Appeal quashes the conviction of Christian Bittar, a former Deutsche Bank trader jailed in 2018.",
+            "titulo": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+            "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Trump immigrant purge could cut social security for Americans by $2,000 a year",
-            "link": "https://www.theguardian.com/us-news/2026/oct/09/trump-immigration-cost-social-security",
-            "resumen": "New report on economic cost of anti-immigration campaign projects 8.6% reduction in retirement payments by 2034 Elderly Americans can expect to lose an average of $2,152 in annual social security benefits each, a projected 8.6% reduction…",
+            "titulo": "United Auto Workers president Shawn Fain easily wins re-election",
+            "link": "https://www.theguardian.com/us-news/2026/oct/10/uaw-president-shawn-fain-wins-re-election",
+            "resumen": "Fain was dogged by investigation but still decisively beat challenger Rich Boyer, who received just 13% of vote The president of the United Auto Workers, Shawn Fain, has easily won his re-election bid after an campaign period marred by…",
             "fuente": "The Guardian"
+          },
+          {
+            "titulo": "Big Controversy Upends a Contest About Microscopic Videos",
+            "link": "https://www.nytimes.com/2026/10/09/science/nikon-microscopic-videos-ai.html",
+            "resumen": "Nikon announced that it had disqualified the winner of its Small World in Motion competition over how A.I. was used in his submission.",
+            "fuente": "N.Y. Times"
           }
         ]
       },
@@ -224,9 +224,9 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
-            "link": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
+            "titulo": "Hundreds protest over data centre plans",
+            "link": "https://www.bbc.co.uk/news/articles/cm78pwq47vp1o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Placard-waving opponents highlight concerns about a data centre development on the local landscape.",
             "fuente": "BBC"
           },
           {
@@ -236,22 +236,22 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Cancer Vaccines Are the N.I.H’s Next ‘Big Bet’",
-            "link": "https://www.nytimes.com/2026/10/09/science/cancer-vaccines-nih-big-bet.html",
-            "resumen": "New details have emerged about an initiative that starts in December to fast-track the vaccines, similar to the successful push for the Covid-19 vaccine.",
+            "titulo": "Mathematician Who Waited 50 Years for Proper Credit for Her Work Has Died",
+            "link": "https://www.nytimes.com/2026/10/10/science/mary-tsingou-menzel-dead.html",
+            "resumen": "At the Los Alamos National Laboratory, Mary Tsingou Menzel’s computer programming helped set the stage for chaos theory and other fields.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "You have a higher chance of getting cancer at a younger age than your parents. So what went wrong? | Devi Sridhar",
-            "link": "https://www.theguardian.com/commentisfree/2026/oct/09/rise-cancer-young-people-mystery-early-onset",
-            "resumen": "Some change in our lifestyles and environments over a generation has caused this increased risk. What, exactly, is a mystery Prof Devi Sridhar is chair of global public health at the University of Edinburgh In the field of global health,…",
+            "titulo": "Hurricane Isaias downgraded after making landfall in Florida",
+            "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Why you've probably been thinking about narcolepsy all wrong",
+            "link": "https://www.theguardian.com/science/video/2026/oct/09/why-youve-probably-been-thinking-about-narcolepsy-all-wrong",
+            "resumen": "The sleep disorder has been the butt of jokes and a comedic plot point, but the reality of living with narcolepsy is anything but funny. Things could be about to change for people with the condition though, after the US Food and Drug…",
             "fuente": "The Guardian"
-          },
-          {
-            "titulo": "‘Breathtaking,’ ‘Devastating’: Mathematics Reels After New OpenAI Release",
-            "link": "https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html",
-            "resumen": "Hundreds of new A.I.-generated findings moved the frontiers of higher math in a single day — dispelling any doubt that the field is forever changed.",
-            "fuente": "N.Y. Times"
           }
         ]
       },
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "What reception awaits Man City at Anfield?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cjkgey07lq15o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Bus welcomes, banners and flags expected as Man City head to Liverpool on Sunday for their first game since they were found guilty of breaching Premier League rules.",
+            "titulo": "Verstappen beats Ferraris to Singapore pole",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/cvj6j5kyx2p1o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Red Bull's Max Verstappen beats the Ferraris of Charles Leclerc and Lewis Hamilton to pole position in qualifying at the Singapore Grand Prix.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Bucky Irving runs riot as Buccaneers stun Cowboys for first win of season",
-            "link": "https://www.theguardian.com/sport/2026/oct/08/bucky-irving-tampa-bay-buccaneers-dallas-cowboys-nfl",
-            "resumen": "Irving rushes for career-high 165 yards and two TDs Rookie Daniels impresses in second NFL start Prescott throws two picks as Dallas fall to 2-3 Bucky Irving already had his first 100-yard game since his rookie year in 2024 when the Tampa…",
+            "titulo": "Bruno Guimarães completes Arsenal comeback to end Leeds’ unbeaten run",
+            "link": "https://www.theguardian.com/football/2026/oct/10/arsenal-leeds-premier-league-match-report",
+            "resumen": "Arsenal came back from a goal down to defeat strong opponents and reset their form after the lengthy international break. They were not great against Leeds, and the defence continues to look more vulnerable than last season, but the…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Verstappen on sprint pole after another settings issue",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/ck62y7jz1qqro?at_medium=RSS&at_campaign=rss",
-            "resumen": "Red Bull's Max Verstappen beats Mercedes driver George Russell to sprint pole at the Singapore Grand Prix.",
+            "titulo": "'What this team has been crying out for' - Renshaw 190 lifts Australia",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/ckp8gqplvj85o?at_medium=RSS&at_campaign=rss",
+            "resumen": "After nine years and 280 days, Matt Renshaw scores epic century to put Australia on top against South Africa and push his own case for a regular place.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Maresca maintains almost total control as he follows Manchester City owners’ line | Jamie Jackson",
-            "link": "https://www.theguardian.com/football/2026/oct/09/maresca-maintains-almost-total-control-as-he-follows-manchester-city-owners-line",
-            "resumen": "Manager’s media conference three times busier than usual but he and his club are still speaking with one voice – for now Enzo Maresca’s first public display since Manchester City were found guilty on virtually all counts of breaching…",
+            "titulo": "‘I’m supposed to be here’: Angel Reese’s road from ridicule to the WNBA finals",
+            "link": "https://www.theguardian.com/sport/2026/oct/10/angel-reese-wnba-finals-atlanta-dream-critics-apology",
+            "resumen": "After years of mockery and doubts about her game, Reese has helped carry Atlanta to the WNBA’s biggest stage. Her critics might want to start forming an apology queue A lot of folks owe Angel Reese an apology after Friday night. They…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "I've got my own questions on Man City case - Carrick",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Manchester United boss Michael Carrick says he was personally affected by the Manchester City case which has seen the club found guilty of breaching Premier League financial rules and still has questions about the matter.",
+            "titulo": "Who changed the game? - player ratings for Arsenal v Leeds",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmx2dpwv02e1o?at_medium=RSS&at_campaign=rss",
+            "resumen": "How Arsenal and Leeds players rated following their Premier League match.",
             "fuente": "BBC"
           }
         ]

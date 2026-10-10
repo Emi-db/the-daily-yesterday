@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "9 de octubre de 2026",
-  "generada": "16:40",
+  "fecha": "10 de octubre de 2026",
+  "generada": "15:37",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Con una decisión técnica, ahora la Corte repuso la ley que limita la venta de tierra a extranjeros",
-          "link": "https://www.clarin.com/politica/decision-tecnica-ahora-corte-repuso-ley-limita-venta-tierra-extranjeros_0_IfsEYjThwC.html",
-          "resumen": "Con el voto de conjueces, enviaron otra cautelar a la justicia de Bariloche para que decida, pero mientras suspendieron interinamente el DNU de Milei que eliminaba las restricciones.",
+          "titulo": "Echan a una funcionaria judicial por filtrar datos confidenciales a los presuntos testaferros de un ex gobernador del PJ",
+          "link": "https://www.clarin.com/politica/echan-funcionaria-judicial-filtrar-datos-confidenciales-presuntos-testaferros-ex-gobernador-pj_0_mYI6CoXU4E.html",
+          "resumen": "Es en la causa por enriquecimiento ilícito contra Gustavo Bordet, actual diputado nacional por Entre Ríos. La mujer le envió información de allanamientos que no se habían realizado a su padre, investigado en la causa y mano derecha del ex…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: el mandatario volvió a cargar contra la prensa y acusó a una periodista de “zurda”",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-volvio-a-cargar-contra-la-prensa-y-acuso-a-una-nid09102026/",
-          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y declaraciones de los funcionarios",
+          "titulo": "El vínculo de los gobernadores con Milei, caso por caso",
+          "link": "https://www.lanacion.com.ar/politica/relacion-de-los-gobernadores-con-milei-nid10102026/",
+          "resumen": "La Casa Rosada apuesta a converger en una alianza electoral en unas 11 provincias de cara a 2027",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Luego del fallo de la Corte que impacta en la Ley de Tierras, el Gobierno asegura que la oposición no tiene los votos para derogar el DNU 70",
-          "link": "https://www.infobae.com/politica/2026/10/09/luego-del-fallo-de-la-corte-el-gobierno-asegura-que-la-oposicion-no-tiene-los-votos-para-derogar-el-dnu-70/",
-          "resumen": "El máximo tribunal dictó una resolución que repuso los límites a la venta de tierras a extranjeros. En ese contexto, el oficialismo afirma que los bloques que quieren rechazar el megadecreto no tienen quórum. La maniobra que evalúa para…",
+          "titulo": "Martín Menem condicionó las alianzas electorales con los gobernadores para 2027 a un acuerdo sobre la agenda de reformas",
+          "link": "https://www.infobae.com/politica/2026/10/10/martin-menem-condiciono-las-alianzas-electorales-con-los-gobernadores-para-2027-a-un-acuerdo-sobre-la-agenda-de-reformas/",
+          "resumen": "El presidente de la Cámara de Diputados admitió “tensiones” respecto al armado político de cara a las próximas elecciones. Aclaró que las alianzas se harán si hay coincidencias sobre la hoja de ruta que impulsa la gestión de Milei",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Cien presos por día y un convoy \"blindado\": cómo será el operativo para trasladar a los presos desde la cárcel de Devoto a Marcos Paz",
-          "link": "https://www.clarin.com/politica/cien-presos-dia-convoy-blindado-operativo-trasladar-presos-carcel-devoto-marcos-paz_0_g8RLfPdbEP.html",
-          "resumen": "La ministra de Seguridad, Alejandra Monteoliva, reveló detalles este viernes sobre el desplazamiento de presos entre ambos penales. La interrupción por la visita del papa León XIV y el objetivo de terminar el año con \"Devoto desocupada\".",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: Quirno fue tajante sobre la postura argentina ante Chile por el Estrecho de Magallanes",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-medio-polemica-chile-quirno-tajante-postura-argentina-estrecho-magallanes_0_OYsDzRZBo1.html",
+          "resumen": "El canciller, que continúa con su visita oficial a Singapur, hizo referencia al tema luego que su par trasandino advirtiera con énfasis que el estratégico paso marítimo \"es y será siempre chileno\".",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Tras la tensión por los últimos desmarques, Javier Milei se reunió con Patricia Bullrich en Olivos",
-          "link": "https://www.lanacion.com.ar/politica/tras-la-tension-por-los-desmarques-javier-milei-se-reunio-con-patricia-bullrich-en-la-quinta-de-nid09102026/",
-          "resumen": "“Hablamos de todo lo que vengo planteando, con total sinceridad”, dijo la senadora después del encuentro con el Presidente",
+          "titulo": "El Gobierno “extraña” a Adorni y busca sumar voces para “equilibrar” las críticas de Patricia Bullrich",
+          "link": "https://www.lanacion.com.ar/politica/el-gobierno-extrana-a-adorni-y-busca-sumar-voces-para-equilibrar-las-criticas-de-patricia-bullrich-nid10102026/",
+          "resumen": "Surgen voceros por temáticas y el portavoz Ravier mantiene la conferencia de prensa semanal, pero con poco efecto; silencio de Santilli y apariciones fugaces de Karina Milei",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "\"Lujo accesible\": Karl Lagerfeld desembarca en Argentina de la mano de la misma empresa que maneja Tommy Hilfiger",
-          "link": "https://www.clarin.com/economia/lujo-accesible-karl-lagerfeld-desembarca-argentina-mano-misma-empresa-maneja-tommy-hilfiger_0_ZFeLAXxBH4.html",
-          "resumen": "La marca abrió su primera tienda en el país, en Unicenter, con una inversión destinada a la obra, el equipamiento y el stock inicial. La firma evalúa nuevas aperturas.",
+          "titulo": "Tiene 16 salas y ahora un hotel: los Rottemberg, el grupo empresario que ya no es puro teatro",
+          "link": "https://www.clarin.com/economia/rottemberg-grupo-empresario-puro-teatro_0_cW9IucmAs1.html",
+          "resumen": "Poseen 16 salas, desde el inmueble al contenido, y decidieron ampliarse a un hotel de casi 90 habitaciones con centro cultural. El proyecto une a la familia dispersa en el mundo. Los nuevos planes.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 9 de octubre, minuto a minuto",
-          "link": "https://www.lanacion.com.ar/economia/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid09102026/",
-          "resumen": "La divisa oficial opera a $1540 para la venta en el Banco Nación; el dólar blue cotiza a $1540 para esa operación; qué pasa con el MEP y el CCL",
+          "titulo": "La Argentina se abarató en dólares pero lidera el ranking de indumentaria y restaurantes más caros",
+          "link": "https://www.lanacion.com.ar/economia/la-argentina-se-abarato-en-dolares-pero-lidera-el-ranking-de-indumentaria-y-restaurantes-mas-caros-nid10102026/",
+          "resumen": "Un informe de Fundar reveló que el país dejó de figurar entre los más costosos de la región en términos generales, tras dos meses consecutivos en los que el dólar avanzó por encima de la inflación",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La confianza del consumidor en EEUU cayó a su nivel más bajo en cinco meses",
-          "link": "https://www.ambito.com/economia/la-confianza-del-consumidor-eeuu-cayo-su-nivel-mas-cinco-meses-n6332014",
-          "resumen": "El impacto inflacionario de la guerra en Medio Oriente se hizo sentir en la población estadounidense. El dato se conoce a solo un mes de las elecciones de medio término en EEUU.",
+          "titulo": "Crédito al consumo, congelado: por qué las tarjetas y los préstamos personales volvieron a caer en septiembre",
+          "link": "https://www.ambito.com/economia/credito-al-consumo-congelado-que-las-tarjetas-y-los-prestamos-personales-volvieron-caer-septiembre-n6332111",
+          "resumen": "Pese a la baja de tasas, la caída del poder adquisitivo y la morosidad frenan el crédito y el consumo en pesos, mientras ganan terreno los depósitos y la demanda en dólares.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "¿Tregua al ajuste? El Gobierno aprovechó la mejora en la recaudación para aflojar la motosierra del gasto",
-          "link": "https://www.clarin.com/economia/tregua-ajuste-gobierno-aprovecho-mejora-recaudacion-aflojar-motosierra-gasto_0_z82EmAyx6n.html",
-          "resumen": "El uso de fondos presupuestarios creció 4,6% en septiembre. Fueron a sectores como compra de bienes y jubilaciones. Hubo recortes a subsidios y envíos a los gobernadores, según Analytica.",
+          "titulo": "Las definiciones más recientes de Roberto Lavagna: no será candidato y sin vaca muerta, estaríamos peor",
+          "link": "https://www.clarin.com/economia/definiciones-recientes-roberto-lavagna-candidato-vaca-muerta-peor_0_JEE33YVWkk.html",
+          "resumen": "El ex ministro de Economía es consultado por académicos, empresarios, fondos del exterior y políticos locales. Ternium tocó la campanita del Wall Street y el desembarco de los robots en la industria de la construcción entre los secretos…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Robert Covington: “Los Gobiernos y las empresas no están bien preparados para la era poscuántica”",
-          "link": "https://www.lanacion.com.ar/tecnologia/robert-covington-los-gobiernos-y-las-empresas-no-estan-bien-preparados-para-la-era-poscuantica-nid09102026/",
-          "resumen": "El fundador de Quantum Village de DEF CON llegó a la Argentina invitado por Platinum Ciber; explicó qué pueden hacer hoy las computadoras cuánticas y por qué las organizaciones deberían revisar desde ahora sus sistemas criptográficos",
+          "titulo": "En julio continuó el cierre de empresas y ya son 32.290 menos en la gestión de Javier Milei",
+          "link": "https://www.lanacion.com.ar/economia/en-julio-continuo-el-cierre-de-empresas-y-ya-son-32290-en-la-gestion-de-javier-milei-nid09102026/",
+          "resumen": "Son números de la Superintendencia de Riesgos de Trabajo; la pérdida acumulada en doce meses es de 15.475 firmas",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "\"Una intolerante que propagó la demonización de los judíos\": la dura reacción de Netanyahu tras el Nobel de la Paz a Navi Pillay",
-          "link": "https://www.clarin.com/mundo/intolerante-propago-demonizacion-judios-dura-reaccion-netanyahu-nobel-paz-navi-pillay_0_hOCr6IgOKp.html",
-          "resumen": "La cuenta de X del primer ministro fustigó al comité por galardonar a la jurista sudafricana. Pillay presidió la comisión de investigación independiente de la ONU que acusó a Israel de cometer un genocidio en la Franja de Gaza. Donald…",
+          "titulo": "Se despertó el Súper Niño: los huracanes Simón e Isaías avanzan por EE.UU. y México, y la tormenta tropical Rachel mantiene el alerta en el Pacífico",
+          "link": "https://www.clarin.com/mundo/desperto-super-nino-huracanes-simon-isaias-avanzan-eeuu-mexico-tormenta-tropical-rachel-mantiene-alerta-pacifico_0_807H2BbBWO.html",
+          "resumen": "Simón ha ganado fuerza hasta convertirse en un potente huracán de categoría 4, y se espera que deje fuertes lluvias en Jalisco y partes de los estados de Michoacán, Colima y Nayarit. Por su parte, tras haber tocado tierra en Florida, el…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Dos violentos tornados arrasan una ciudad de Sicilia y abren un nuevo frente contra Meloni",
-          "link": "https://www.lanacion.com.ar/el-mundo/dos-violentos-tornados-arrasan-una-ciudad-de-sicilia-y-abren-un-nuevo-frente-contra-meloni-nid09102026/",
-          "resumen": "El temporal dejó casas destruidas, autos arrastrados y seis niños heridos en una escuela donde había 273 alumnos",
+          "titulo": "Trump, furioso tras no lograr el Nobel de la Paz: menosprecio a la galardonada y una “mancha para Noruega”",
+          "link": "https://www.lanacion.com.ar/estados-unidos/trump-furioso-tras-no-lograr-el-nobel-de-la-paz-menosprecio-a-la-galardonada-y-una-mancha-para-nid10102026/",
+          "resumen": "El presidente fustigó la decisión del Comité de premiar a Navi Pillay; “No sé qué hizo esta mujer”, dijo sobre la abogada sudafricana; afirmó que el premio “quedó desacreditado para siempre”",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Mientras Putin libra una guerra encubierta, Europa busca la manera de contraatacar",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/putin-libra-guerra-encubierta-europa-busca-manera-contraatacar_0_5S0qpJso7f.html",
-          "resumen": "Moscú ha utilizado tácticas de miedo y ambigüedad para intentar dividir a la OTAN y limitar el apoyo a Ucrania. Pero, ¿cómo debería responder Europa? ¿Y con qué contundencia?",
+          "titulo": "El huracán Isaías está en la costa de EE.UU., en el Golfo de México y descendió a categoría 1: hay casi 700.000 usuarios sin luz",
+          "link": "https://www.clarin.com/mundo/huracan-isaias-toca-tierra-costa-eeuu-golfo-mexico-golpeo-zona-fort-walton-beach-destin-florida_0_WQk20XYmBU.html",
+          "resumen": "Los fuertes vientos causaron serios problemas eléctricos en varias ciudades del estado de la Florida, con vientos que superaron los 170 km/h. Las autoridades advierten sobre apagones, marejada e inundaciones peligrosas. El Centro Nacional…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Christina Koch, astronauta del Artemis II: “Para explorar el universo y otros planetas, primero debemos entender cómo cuidar el nuestro”",
-          "link": "https://www.lanacion.com.ar/el-mundo/christina-koch-astronauta-del-artemis-ii-para-explorar-el-universo-y-otros-planetas-primero-debemos-nid08102026/",
-          "resumen": "Tras completar con éxito el histórico sobrevuelo lunar, se conoció una frase que la astronauta de la NASA pronunció mientras realizaba la misión Artemis II",
+          "titulo": "Video: el potente huracán Isaías causó destrozos y cortes de luz en Florida y Alabama",
+          "link": "https://www.lanacion.com.ar/el-mundo/video-el-potente-huracan-isaias-causo-destrozos-y-cortes-de-luz-en-florida-y-alabama-nid10102026/",
+          "resumen": "La tormenta tocó tierra el viernes por la noche en Pensacola y Gulf Breeze y avanza como tormenta tropical por Alabama, tras perder intensidad; en el Pacífico, Simón ya tiene categoría 4",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Elecciones en Brasil con dos malas noticias para Lula: otra encuesta da ganador a Bolsonaro y la inflación rompe el techo del Central",
-          "link": "https://www.clarin.com/mundo/elecciones-brasil-malas-noticias-lula-encuesta-da-ganador-bolsonaro-inflacion-rompe-techo-central_0_31eBORdHir.html",
-          "resumen": "Un sondeo de Atlas y Bloomberg ubica a Flávio Bolsonaro al frente de la segunda vuelta, siguiendo la línea de un sondeo de Datafolha, publicado el jueves, La aceleración del costo de vida agrega tensión financiera sobre los electores a…",
+          "titulo": "De Truth Social a la Casa Blanca: quién es Katie Zacharia, la nueva secretaria de Prensa de Trump",
+          "link": "https://www.clarin.com/mundo/truth-social-casa-blanca-katie-zacharia-nueva-secretaria-prensa-trump_0_aKVhuQWenJ.html",
+          "resumen": "El presidente norteamericano la describió como una ferviente admiradora y miembro de MAGA. Reemplaza a Karoline Leavitt, que dejó el cargo a fines de agosto para poder dedicarle más tiempo a su familia.",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Franco Colapinto mejoró en el GP de Singapur, quedó a un paso de la Q3 en la Sprint Qualy y se ilusiona: “No estamos lejos”",
-          "link": "https://www.clarin.com/deportes/franco-colapinto-mejoro-gp-singapur-quedo-paso-q3-sprint-qualy-ilusiona-lejos_0_Ljwe6skRSU.html",
-          "resumen": "El argentino clasificó 11° para la carrera sprint, a solo 94 milésimas de Pierre Gasly. Después de dos fines de semana complicados, confía en sumar puntos este sábado. Fue un viernes con más problemas técnicos para la Fórmula 1, esta vez…",
+          "titulo": "Sigue el escándalo en Portugal con Cristiano Ronaldo: la federación confirmó que lo sancionará por abandonar la concentración",
+          "link": "https://www.clarin.com/deportes/sigue-escandalo-portugal-cristiano-ronaldo-federacion-confirmo-sancionara-abandonar-concentracion_0_jq88qRmitR.html",
+          "resumen": "El futbolista de 41 años había discutido con el entrenador Jorge Jesus y pidió disculpas a sus compañeros y a los hinchas. Aunque cuestionó al técnico, CR7 manifestó que está dispuesto a regresar a la Selección una vez que cumpla el…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Colapinto sacó a relucir todo su potencial y espera sumar en la sprint de Singapur",
-          "link": "https://www.lanacion.com.ar/deportes/automovilismo/colapinto-saco-a-relucir-todo-su-potencial-y-espera-sumar-en-la-sprint-de-singapur-nid09102026/",
-          "resumen": "En la qualy para la carrera corta de este sábado, el argentino quedó 11°; no llegó a la SQ3 por milésimas, pero mostró un gran rendimiento; Verstappen fue el más rápido en la noche calurosa y húmeda de Marina Bay",
+          "titulo": "El blooper de Neuer que terminó en gol de Augsburgo ante Bayern Munich (y en récord) en la liga de Alemania",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/el-blooper-de-neuer-que-termino-en-gol-de-augsburgo-ante-bayern-munich-y-en-record-en-la-liga-de-nid10102026/",
+          "resumen": "Se sorprendieron todos en el arranque del partido por la 5° fecha de la Bundesliga",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Barracas Central vs. Huracán, por el Torneo Clausura 2026: día, hora y cómo ver el partido",
-          "link": "https://www.ole.com.ar/futbol-primera/barracas-central-vs-huracan-partido-torneo-clausura-2026-dia-horario-ver_0_NsXlcSreeU.html",
-          "resumen": "Por la fecha 12 del certamen local, el Guapo y el Globo buscarán sumar tres puntos importantes. Acá los detalles.",
+          "titulo": "La frustración de Colapinto tras la qualy de Singapur y a qué le echó la culpa",
+          "link": "https://www.ole.com.ar/autos/francocolapinto-singapur-marinabay-alpine_0_dtf20M1D6a.html",
+          "resumen": "El argentino cerró un sábado para el olvido: abandonó la Sprint por problemas de batería y quedó 16° en la clasificación, aunque largará 15° por una sanción a Russell, también por un problema en el auto.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Chiqui Tapia sigue sumando repudio en los hinchas: bronca en el Ascenso porque hay que pagar LPF Play para ver los partidos",
-          "link": "https://www.clarin.com/deportes/chiqui-tapia-sigue-sumando-repudio-hinchas-bronca-ascenso-pagar-lpf-play-ver-partidos_0_tW8YmKMnCg.html",
-          "resumen": "El presidente de la AFA es insultado en casi todas las canchas del fútbol argentino, incluso cuando juega la Selección. Ahora, la indignación se instala en la Primera Nacional: a cuatro fechas del final, habrá que suscribirse a la…",
+          "titulo": "Carlos Alcaraz fue demasiado para Juan Manuel Cerúndolo, que se despidió del Masters 1000 de Shanghái",
+          "link": "https://www.clarin.com/deportes/carlos-alcaraz-demasiado-juan-manuel-cerundolo-despidio-masters-1000-shanghai_0_062S1ojK8n.html",
+          "resumen": "El español se impuso por 6-3 y 6-3 sobre el argentino. El número 3 del mundo avanzó a la tercera ronda sin mayores complicaciones. Su próximo rival saldrá del cruce entre el peruano Ignacio Buse y el belga Zizou Bergs.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La alegría del Kily González por el retiro de Lionel Messi de la selección: “Ahora es mío, así que lo tengo que disfrutar”",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/la-alegria-del-kily-gonzalez-por-el-retiro-de-lionel-messi-de-la-seleccion-ahora-es-mio-asi-que-lo-nid09102026/",
-          "resumen": "El entrenador de Inter Miami dijo también que consensuó con el club su viaje a Buenos Aires para estar en la despedida del 10 de la Albiceleste",
+          "titulo": "Norris hizo lo mismo que le cuestionó a Colapinto y generó tensión en McLaren durante la carrera sprint",
+          "link": "https://www.lanacion.com.ar/deportes/automovilismo/norris-hizo-lo-mismo-que-le-cuestiono-a-colapinto-y-genero-tension-en-mclaren-durante-la-carrera-nid10102026/",
+          "resumen": "El británico tocó a su compañero Oscar Piastri, quien tuvo que abandonar",
           "fuente": "La Nación"
         }
       ]
