@@ -1,41 +1,41 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "10 de octubre de 2026",
-    "generada": "15:37",
+    "fecha": "11 de octubre de 2026",
+    "generada": "16:00",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Quién es James Chambers, el millonario \"comunista\" detenido en España a petición de EE.UU.",
-            "link": "https://www.bbc.com/mundo/articles/cwzrzr40ky1ko?at_medium=RSS&at_campaign=rss",
-            "resumen": "James \"Fergie\" Chambers decidió dedicar su vida y su fortuna al activismo de izquierda. Ahora, su país lo acusa de desórdenes y blanqueo de capitales.",
+            "titulo": "Al menos 12 muertos y más de 300 heridos en un ataque contra el aeropuerto internacional de Riad, la capital de Arabia Saudita",
+            "link": "https://www.bbc.com/mundo/articles/c94g13g4zz8do?at_medium=RSS&at_campaign=rss",
+            "resumen": "El hecho ocurre días después de que los hutíes de Yemen reivindicaran ataques similares contra dicha instalación.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Un año de alto el fuego en Gaza con casi 1.500 muertos",
-            "link": "https://elpais.com/internacional/2026-10-10/un-ano-de-alto-el-fuego-en-gaza-con-casi-1500-muertos.html",
-            "resumen": "Israel bombardea a diario e impide la reconstrucción, castigando a dos millones de personas. Tras recibir de Hamás a los últimos rehenes, ha vaciado la tregua de contenido, con el silencio de EE UU y la Junta de Paz",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "India sofoca las protestas de las \"cucarachas\" con miles de arrestos, incluidos sus líderes",
-            "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20261010-india-sofoca-las-protestas-de-las-cucarachas-con-miles-de-arrestos-incluidos-sus-l%C3%ADderes",
-            "resumen": "Con un amplio despliegue, bloqueos en distintos puntos de Nueva Delhi y múltiples detenciones, la Policía de India consiguió reprimir la movilización convocada por el movimiento juvenil de las \"cucarachas\" (CJP), en rechazo a una…",
+            "titulo": "Elecciones Brasil: Flávio promete liberar a su padre; Lula alerta del regreso de la familia al poder",
+            "link": "https://www.france24.com/es/video/20261011-elecciones-brasil-fl%C3%A1vio-promete-liberar-a-su-padre-lula-alerta-del-regreso-de-la-familia-al-poder",
+            "resumen": "Con actos políticos masivos, Luiz Inácio Lula da Silva y Flávio Bolsonaro aceleran sus campañas para ganar la Presidencia de Brasil. El ultraderechista Bolsonaro, que obtuvo alrededor de 2,2 millones de votos más que su rival en la…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Un fuerte terremoto de magnitud 7,7 sacude Panamá: el presidente Mulino afirma que el desastre que enfrenta su país \"es grande\"",
-            "link": "https://www.bbc.com/mundo/articles/cwg5jyqdlj6mo?at_medium=RSS&at_campaign=rss",
-            "resumen": "El epicentro del sismo se ubicó en el sur del país centroamericano, cerca de la costa Pacífico. Decenas de edificaciones resultaron afectadas.",
+            "titulo": "El papa León XIV anuncia que será operado de un nódulo en un pulmón",
+            "link": "https://www.bbc.com/mundo/articles/crx2d882v0w3o?at_medium=RSS&at_campaign=rss",
+            "resumen": "El anuncio lo hizo esta mañana. Señaló que se trata de algo preventivo después de que se le descubriera un bulto en uno de sus pulmones.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Bally Bagayoko, alcalde de Saint-Denis: “Francia tiene que responder a los estudiantes con medidas concretas y no con la policía”",
-            "link": "https://elpais.com/internacional/2026-10-10/bally-bagayoko-alcalde-de-saint-denis-francia-tiene-que-responder-a-los-estudiantes-con-medidas-concretas-y-no-con-la-policia.html",
-            "resumen": "El popular regidor, que acude a las protestas estudiantiles y se interpone entre los jóvenes y los agentes, cree que el Gobierno de Macron no está actuando correctamente y que el estallido en la calle irá en aumento",
+            "titulo": "Las familias israelíes buscan descendencia en el esperma extraído de los cadáveres de sus hijos",
+            "link": "https://elpais.com/internacional/2026-10-11/las-familias-israelies-buscan-descendencia-en-el-esperma-extraido-de-los-cadaveres-de-sus-hijos.html",
+            "resumen": "Una norma temporal desde el ataque de Hamás de 2023 permite obtener el semen del muerto sin autorización judicial. Cuatro hospitales guardan ya el semen de unos 250 soldados",
             "fuente": "El País"
+          },
+          {
+            "titulo": "Qué era la bola negra, el sistema que los clubes privados usaban para vetar a candidatos y que da nombre a la exitosa película española inspirada en García Lorca",
+            "link": "https://www.bbc.com/mundo/articles/ckz7xqnj8pwvo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Antes de ser el título de una obra inacabada de García Lorca, \"La bola negra\" fue un mecanismo real de segregación social. Su historia atraviesa la masonería, los clubes británicos y los casinos de la élite española.",
+            "fuente": "BBC Mundo"
           }
         ]
       },
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
+            "titulo": "El movimiento de vivienda señala a los pequeños caseros: ¿son responsables del alza de los precios?",
+            "link": "https://elpais.com/economia/vivienda/2026-10-11/el-movimiento-de-vivienda-senala-a-los-pequenos-caseros-son-responsables-del-alza-de-los-precios.html",
+            "resumen": "Las protestas ponen el foco sobre los particulares y la legitimidad del alquiler, mientras que los expertos discrepan sobre el papel de los propietarios en la crisis",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Los hutíes demuestran su alcance militar con ataques mortales con misiles contra Riad",
+            "link": "https://www.expansion.com/economia/financial-times/2026/10/11/6acb9508e5fdea742b8b4594.html",
+            "resumen": "Los ataques con misiles que han causado víctimas en el aeropuerto internacional de Riad durante la última semana han puesto de manifiesto el creciente poder militar de los rebeldes hutíes de Yemen, quienes han pasado de ser una…",
+            "fuente": "Expansión"
+          },
+          {
+            "titulo": "Construir vivienda como política de alquiler",
+            "link": "https://elpais.com/economia/2026-10-11/construir-vivienda-como-politica-de-alquiler.html",
+            "resumen": "Cada vez más hogares alquilan, pero quedan menos pisos libres para quien busca. La vivienda nueva, aunque se venda, es lo que vuelve a mover el flujo.",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Cómo sacar partido a la fiscalidad de la vivienda tras el nuevo decreto",
+            "link": "https://www.expansion.com/economia/2026/10/10/6ac907dd468aeb78798b457d.html",
+            "resumen": "Fiscalistas y expertos inmobiliarios recopilan varias recomendaciones para propietarios, inquilinos y empresas ante la entrada en vigor del nuevo decreto. Leer",
+            "fuente": "Expansión"
+          },
+          {
             "titulo": "Seat negocia con Volkswagen producir el Audi Q4 eléctrico en Barcelona a partir de 2032",
             "link": "https://cincodias.elpais.com/companias/2026-10-10/seat-negocia-con-volkswagen-producir-el-audi-q4-electrico-en-barcelona-a-partir-de-2032.html",
             "resumen": "La filial española ha intensificado las conversaciones con vistas a que haya un anuncio para la fábrica el año que viene. Podría llegar un segundo modelo, aunque depende de la evolución de la crisis del grupo",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Pedro Sánchez promete \"reforzar y mantener\" los decretos de vivienda",
-            "link": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/10/6aca29c5468aebd2358b4572.html",
-            "resumen": "El líder del PSOE y candidato a la Presidencia del Gobierno en las elecciones del 29 de noviembre, Pedro Sánchez, se comprometió este sábado a \"reforzar y mantener\" los dos reales decretos de vivienda que no consiguió sacar adelante en el…",
-            "fuente": "Expansión"
-          },
-          {
-            "titulo": "Gabriel Escarrer (Meliá): “El nuevo Gobierno tiene que acabar con los pisos turísticos ilegales”",
-            "link": "https://elpais.com/economia/2026-10-10/escarrer-melia-el-nuevo-gobierno-tiene-que-acabar-con-los-pisos-turisticos-ilegales.html",
-            "resumen": "El consejero delegado de la primera hotelera española cree que es la única solución a corto plazo para mitigar la crisis de la vivienda",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "La banca declara la guerra por el ahorro a los neobancos",
-            "link": "https://www.expansion.com/ahorro/2026/10/10/6ac91c0b468aeb74518b4585.html",
-            "resumen": "Con mucha rapidez, entidades como Openbank, Kutxabank y Bankinter han elevado la remuneración de sus productos hasta convertirlos en los mejor pagados. Leer",
-            "fuente": "Expansión"
-          },
-          {
-            "titulo": "El sindicalismo alternativo toma vuelo con las Inquilinas en dirección a la huelga general",
-            "link": "https://elpais.com/economia/2026-10-10/el-sindicalismo-alternativo-toma-vuelo-con-las-inquilinas-en-direccion-a-la-huelga-general.html",
-            "resumen": "El Sindicato de Inquilinas reclamaba el paro por la vivienda desde hace tiempo, con respaldo de organizaciones laborales de menor tamaño, como CGT. CC OO y UGT dicen que ya manejaban la idea, pero no dieron el paso final hasta el lunes",
             "fuente": "El País"
           }
         ]
@@ -84,9 +84,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Anthropic revela un aviso falso a la policía entre los nuevos incidentes de una IA descontrolada",
-            "link": "https://elpais.com/tecnologia/2026-10-10/anthropic-revela-un-aviso-falso-a-la-policia-entre-los-nuevos-incidentes-de-una-ia-descontrolada.html",
-            "resumen": "Se trata del primer caso conocido en el que una IA fuera de control parece haber intentado comunicar una denuncia falsa a las autoridades",
+            "titulo": "Mark Galeotti, experto en crimen organizado: “Hemos creado una sociedad cíborg a gran escala en la que todos nuestros datos son vulnerables”",
+            "link": "https://elpais.com/sociedad/2026-10-11/mark-galeotti-experto-en-crimen-organizado-hemos-creado-una-sociedad-ciborg-a-gran-escala-en-la-que-todos-nuestros-datos-son-vulnerables.html",
+            "resumen": "El escritor asegura que el camino hacia el tecnoautoritarismo está empedrado de buenas intenciones",
             "fuente": "El País"
           },
           {
@@ -96,9 +96,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "La política se contagia de las redes sociales: más conflicto y teatralización en el Congreso",
-            "link": "https://elpais.com/tecnologia/2026-10-10/la-politica-se-contagia-de-las-redes-sociales-mas-conflicto-y-teatralizacion-en-el-congreso.html",
-            "resumen": "Un análisis de casi 50.000 intervenciones parlamentarias detecta cómo en las últimas dos décadas ha cambiado el discurso político, impulsado por la viralidad y la desinformación",
+            "titulo": "Anthropic revela un aviso falso a la policía entre los nuevos incidentes de una IA descontrolada",
+            "link": "https://elpais.com/tecnologia/2026-10-10/anthropic-revela-un-aviso-falso-a-la-policia-entre-los-nuevos-incidentes-de-una-ia-descontrolada.html",
+            "resumen": "Se trata del primer caso conocido en el que una IA fuera de control parece haber intentado comunicar una denuncia falsa a las autoridades",
             "fuente": "El País"
           },
           {
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Revolución en el once de Flick ante el Getafe",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261010/1004237024/revolucion-once-flick-getafe.html",
-            "resumen": "El FC Barcelona ya tiene once para enfrentarse al Getafe. Hansi Flick ya avanzó en la rueda de prensa previa algunas novedades como el regreso de Joan Garcia bajo palos y la primera titularidad de Gabriel Jesús . Pero sorprendió con una…",
+            "titulo": "Leo Román salva la sentencia",
+            "link": "https://www.mundodeportivo.com/futbol/laliga/20261011/1004235578/real-sociedad-deportivo-coruna-directo-sigue-partido-laliga-ea-sports-vivo.html",
+            "resumen": "Real Sociedad - Deportivo de A Coruña | LaLiga EA Sports",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "¡Suspendido el Rayo-Athletic!",
-            "link": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20261010/1004236924/partido-vallecas-queda-interrumpido-lanzamiento-pelotas-papel.html",
-            "resumen": "El partido Rayo-Athletic que ha dado comienzo a las dos de la tarde ha quedado suspendido de forma definitiva cerca de las tres de la tarde por el lanzamiento de objetos de papel al campo que han comenzado en el minuto 13 cuando el…",
+            "titulo": "Liverpool - Manchester City, en directo",
+            "link": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004235602/liverpool-manchester-city-directo-premier-league.html",
+            "resumen": "",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,16 +147,16 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "October 10, 2026",
-    "generada": "15:37",
+    "fecha": "October 11, 2026",
+    "generada": "16:00",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
-            "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The convicted murderer was left in a critical condition after she survived two lethal injections.",
+            "titulo": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+            "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+            "resumen": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
             "fuente": "BBC"
           },
           {
@@ -166,15 +166,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "What to Know About the Delhi Protests",
-            "link": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html",
-            "resumen": "Protesters opposed to sweeping revisions to India’s voter rolls are trying to rally in New Delhi. The police have come out in force.",
+            "titulo": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
+            "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
+            "resumen": "Three deadly attacks by the Iran-backed Houthis in Yemen on an airport in the Saudi capital underscored the asymmetrical nature of their conflict with the kingdom.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-            "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-            "resumen": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+            "titulo": "Pope Leo to have surgery after lump found on lung",
+            "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
             "fuente": "BBC"
           },
           {
@@ -189,15 +189,21 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "‘People are pissed’: union decries TSA’s removal of chairs for checkpoint staff",
-            "link": "https://www.theguardian.com/us-news/2026/oct/10/tsa-union-agency-checkpoints-chairs",
-            "resumen": "Order for workers to remain standing to ‘reinforce professionalism’ draws rebuke amid plunging morale Union officials have launched a campaign to allow airport security staff to sit once more after the Trump administration unilaterally…",
+            "titulo": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+            "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+            "resumen": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "US’s Reagan-era economic promises return as Trump’s AI-fueled growth fantasy",
+            "link": "https://www.theguardian.com/business/2026/oct/11/trump-ai-economy-reagan",
+            "resumen": "‘Even if AI supercharged the economy, its impact on the government’s finances would be muted’ Back through political history to the age of Ronald Reagan , Republicans have repeatedly promised the US public that tax cuts would pay for…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "What’s Dragging Down A.I. Efficiency? The ‘Verification Tax.’",
-            "link": "https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html",
-            "resumen": "As artificial intelligence automates office tasks, it is also creating a new type of human work.",
+            "titulo": "A Contagious Aversion to Overhead Lights",
+            "link": "https://www.nytimes.com/2026/10/11/business/office-lighting-work-advice.html",
+            "resumen": "Plus: How far to go for a colleague, and now your chance to give someone advice.",
             "fuente": "N.Y. Times"
           },
           {
@@ -207,16 +213,10 @@ const EDICION_MUNDO = {
             "fuente": "BBC"
           },
           {
-            "titulo": "United Auto Workers president Shawn Fain easily wins re-election",
-            "link": "https://www.theguardian.com/us-news/2026/oct/10/uaw-president-shawn-fain-wins-re-election",
-            "resumen": "Fain was dogged by investigation but still decisively beat challenger Rich Boyer, who received just 13% of vote The president of the United Auto Workers, Shawn Fain, has easily won his re-election bid after an campaign period marred by…",
+            "titulo": "‘People are pissed’: union decries TSA’s removal of chairs for checkpoint staff",
+            "link": "https://www.theguardian.com/us-news/2026/oct/10/tsa-union-agency-checkpoints-chairs",
+            "resumen": "Order for workers to remain standing to ‘reinforce professionalism’ draws rebuke amid plunging morale Union officials have launched a campaign to allow airport security staff to sit once more after the Trump administration unilaterally…",
             "fuente": "The Guardian"
-          },
-          {
-            "titulo": "Big Controversy Upends a Contest About Microscopic Videos",
-            "link": "https://www.nytimes.com/2026/10/09/science/nikon-microscopic-videos-ai.html",
-            "resumen": "Nikon announced that it had disqualified the winner of its Small World in Motion competition over how A.I. was used in his submission.",
-            "fuente": "N.Y. Times"
           }
         ]
       },
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Hundreds protest over data centre plans",
-            "link": "https://www.bbc.co.uk/news/articles/cm78pwq47vp1o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Placard-waving opponents highlight concerns about a data centre development on the local landscape.",
+            "titulo": "Owners fear 'healthy' dog died due to orange substance exposure on contaminated land",
+            "link": "https://www.bbc.co.uk/news/articles/cqx2z2xx0k2lo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Donna and Pete O'Brien say Misty's health declined after a walk.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Astronomers detect mysterious burst of energy from a galaxy far, far away",
-            "link": "https://www.theguardian.com/science/2026/oct/09/astronomy-fast-radio-bursts-frb-radio-waves",
-            "resumen": "Intense flash of radio waves is more than 10bn years old and has travelled through ‘approximately 80% of cosmic history’ A long time ago in a galaxy far, far away, a mysterious flash of energy was released into the universe. Astronomers…",
+            "titulo": "Skies across the UK illuminated by the northern lights",
+            "link": "https://www.theguardian.com/science/2026/oct/10/skies-across-the-uk-illuminated-by-the-northern-lights",
+            "resumen": "Though mostly visible near the Arctic Circle, the natural phenomenon dazzled sky-gazers as far south Devon, Hampshire and Kent The northern lights illuminated the skies across the UK on Friday and Saturday evening. Sky-gazers as far south…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Mathematician Who Waited 50 Years for Proper Credit for Her Work Has Died",
-            "link": "https://www.nytimes.com/2026/10/10/science/mary-tsingou-menzel-dead.html",
-            "resumen": "At the Los Alamos National Laboratory, Mary Tsingou Menzel’s computer programming helped set the stage for chaos theory and other fields.",
+            "titulo": "The Underappreciated Benefits of Leaving Fallen Leaves Alone",
+            "link": "https://www.nytimes.com/2026/10/10/science/fallen-leaves.html",
+            "resumen": "To homeowners, fallen leaves look like work. To nature, they’re an investment, with tremendous value on the secondary market as invertebrate real estate.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Hurricane Isaias downgraded after making landfall in Florida",
-            "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US.",
+            "titulo": "Four dead and thousands without power after Hurricane Isaias lashes US",
+            "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Why you've probably been thinking about narcolepsy all wrong",
-            "link": "https://www.theguardian.com/science/video/2026/oct/09/why-youve-probably-been-thinking-about-narcolepsy-all-wrong",
-            "resumen": "The sleep disorder has been the butt of jokes and a comedic plot point, but the reality of living with narcolepsy is anything but funny. Things could be about to change for people with the condition though, after the US Food and Drug…",
+            "titulo": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
+            "link": "https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment",
+            "resumen": "Newly established commission identifies 17 catastrophic threats to human health but says ‘realistic route to act’ on each exists Humans could become extinct by the year 2100 due to malicious use of AI or nuclear conflict, according to a…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Verstappen beats Ferraris to Singapore pole",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cvj6j5kyx2p1o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Red Bull's Max Verstappen beats the Ferraris of Charles Leclerc and Lewis Hamilton to pole position in qualifying at the Singapore Grand Prix.",
+            "titulo": "Verstappen dominates for first Singapore Grand Prix win",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/c84g1p2ql9z5o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Red Bull's Max Verstappen secures his first win in the Singapore Grand Prix, ahead of Charles Leclerc and Kimi Antonelli.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Bruno Guimarães completes Arsenal comeback to end Leeds’ unbeaten run",
-            "link": "https://www.theguardian.com/football/2026/oct/10/arsenal-leeds-premier-league-match-report",
-            "resumen": "Arsenal came back from a goal down to defeat strong opponents and reset their form after the lengthy international break. They were not great against Leeds, and the defence continues to look more vulnerable than last season, but the…",
+            "titulo": "Liverpool v Manchester City: Premier League – live",
+            "link": "https://www.theguardian.com/football/live/2026/oct/11/liverpool-v-manchester-city-premier-league-live-score-updates",
+            "resumen": "⚽ Premier League updates from the 4.30pm BST kick-off ⚽ Live scores | Table | Top scorers | And you can mail us An update from Will Unwin, who is part of our team at Anfield for today’s game A group of over 600 Manchester City fans were…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "'What this team has been crying out for' - Renshaw 190 lifts Australia",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/ckp8gqplvj85o?at_medium=RSS&at_campaign=rss",
-            "resumen": "After nine years and 280 days, Matt Renshaw scores epic century to put Australia on top against South Africa and push his own case for a regular place.",
+            "titulo": "Australia in strong position against South Africa - first Test scorecard",
+            "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
+            "resumen": "Latest scorecard from the first Test between South Africa and Australia in Durban.",
             "fuente": "BBC"
           },
           {
-            "titulo": "‘I’m supposed to be here’: Angel Reese’s road from ridicule to the WNBA finals",
-            "link": "https://www.theguardian.com/sport/2026/oct/10/angel-reese-wnba-finals-atlanta-dream-critics-apology",
-            "resumen": "After years of mockery and doubts about her game, Reese has helped carry Atlanta to the WNBA’s biggest stage. Her critics might want to start forming an apology queue A lot of folks owe Angel Reese an apology after Friday night. They…",
+            "titulo": "Jaguars and Eagles have two players ejected after opening-kickoff brawl in London",
+            "link": "https://www.theguardian.com/sport/2026/oct/11/jaguars-eagles-london-kickoff-brawl-ejections-nfl",
+            "resumen": "Jaguars’ opening kickoff return TD called back Two players ejected after midfield confrontation Chaotic scenes force opening kickoff to be replayed A 90-yard kickoff return for a touchdown nullified and two players ejected. It was quite a…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Who changed the game? - player ratings for Arsenal v Leeds",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmx2dpwv02e1o?at_medium=RSS&at_campaign=rss",
-            "resumen": "How Arsenal and Leeds players rated following their Premier League match.",
+            "titulo": "Kipchoge, 41, breaks course record at Melbourne Marathon",
+            "link": "https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Double Olympic champion Eliud Kipchoge says \"his body is still peaking\" after winning the Melbourne Marathon in a course record time at the age of 41.",
             "fuente": "BBC"
           }
         ]
