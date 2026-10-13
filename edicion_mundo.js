@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "12 de octubre de 2026",
-    "generada": "19:28",
+    "fecha": "13 de octubre de 2026",
+    "generada": "17:12",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Qué pasó con el experimento de Bukele de convertir a El Salvador en el \"país del bitcoin\"",
-            "link": "https://www.bbc.com/mundo/articles/c8ly0ewg93ddo?at_medium=RSS&at_campaign=rss",
-            "resumen": "En 2021 la nación centroamericana se convirtió en la primera del mundo adoptar el criptoactivo como moneda de curso legal. Hoy gran parte de la iniciativa fue desmantelada, ante la apatía de la población y la presión del FMI.",
+            "titulo": "\"Niñas de 3 años contagiadas de VIH\": la indignación en Perú por las más de 1.000 víctimas de abuso sexual infantil que no han sido atendidas por la justicia",
+            "link": "https://www.bbc.com/mundo/articles/cmp3g15gggjeo?at_medium=RSS&at_campaign=rss",
+            "resumen": "El aumento de casos de abuso ha derivado en una epidemia de contagios de VIH entre menores de edad en las comunidades wampis y awajún de Perú.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "El comandante supremo de la OTAN advierte a Rusia de que responderá ante cualquier ataque contra un aliado",
-            "link": "https://elpais.com/internacional/2026-10-12/europa-eleva-la-presion-sobre-rusia-mientras-arrecian-las-amenazas-de-trump-contra-ucrania.html",
-            "resumen": "Europa eleva la presión sobre el Kremlin con nuevas sanciones mientras arrecian las amenazas de Trump contra Ucrania",
+            "titulo": "Un ataque con drones hunde un carguero frente a la costa de Bulgaria, el segundo en una semana",
+            "link": "https://elpais.com/internacional/2026-10-13/un-ataque-con-drones-hunde-un-carguero-frente-a-la-costa-de-bulgaria-el-segundo-en-una-semana.html",
+            "resumen": "El primer ministro búlgaro, Rumen Radev, convoca a la embajadora rusa y pide a la OTAN ayuda urgente para vigilar el mar Negro",
             "fuente": "El País"
           },
           {
-            "titulo": "\"Las cámaras de video están por todas partes; ahora las piratean para la guerra\": 'The Wall Street Journal'",
-            "link": "https://www.france24.com/es/programas/revista-de-prensa/20261012-las-c%C3%A1maras-de-video-est%C3%A1n-por-todas-partes-ahora-las-piratean-para-la-guerra-the-wall-street-journal",
-            "resumen": "En el norte de Israel un avicultor instaló una cámara para monitorear a sus gallinas. Posteriormente, la configuración estaba en árabe. Piratas informáticos habían hackeado ese dispositivo debido a que su ubicación permitía ver cómo se…",
+            "titulo": "Francia: la Asamblea aprueba el proyecto de ley “integral” contra la violencia sexista y sexual",
+            "link": "https://www.france24.com/es/francia/20261013-francia-la-asamblea-aprueba-el-proyecto-de-ley-integral-contra-la-violencia-sexista-y-sexual",
+            "resumen": "La Asamblea Nacional francesa aprobó por unanimidad este martes 13 de octubre el proyecto de ley integral contra la violencia sexista y sexual. Ahora, el texto deberá ser examinado en el Senado, donde sus defensores temen que se suavicen…",
             "fuente": "France 24"
           },
           {
-            "titulo": "\"Si tienen tanta tecnología, por qué nos atacaron\": los pescadores ecuatorianos que fueron bombardeados en una operación por la que se señala a la CIA",
-            "link": "https://www.bbc.com/mundo/articles/cvp8g7enyl2wo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Al menos tres embarcaciones de pescadores de Ecuador han sido objeto de ataques en alta mar este año sin que nadie se haya hecho responsable de lo ocurrido. La prensa estadounidense sugiere que fueron objeto de una operación encubierta de…",
+            "titulo": "\"No podemos seguir diciendo que no existe un sesgo de género en los premios Nobel, porque estadísticamente sí existe\"",
+            "link": "https://www.bbc.com/mundo/articles/cr1exnelj2vxo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Expertas aseguran que la estadística es preocupante, pero llaman a ampliar el debate y centrarse en las barreras previas que enfrentan las mujeres en sus trayectorias.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Rusia considera la tregua energética anunciada por Trump una “trampa” y prosigue sus ataques sobre infraestructura en Ucrania",
-            "link": "https://elpais.com/internacional/2026-10-12/ucrania-no-da-por-rota-la-tregua-energetica-pero-acusa-a-rusia-de-romperla-con-ataques-contra-su-infraestructura.html",
-            "resumen": "Kiev defiende el alto el fuego, pero Moscú replica que “no se dejará engañar por las promesas de Occidente”",
+            "titulo": "La inteligencia británica asegura que Irán ha dado un giro en su guerra híbrida para incluir objetivos militares",
+            "link": "https://elpais.com/internacional/2026-10-13/la-inteligencia-britanica-asegura-que-iran-ha-dado-un-giro-en-su-guerra-hibrida-para-incluir-objetivos-militares.html",
+            "resumen": "El director del MI5, Ken McCallum, señala expresamente el intento de atentado contra la base aérea de Fairford",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Carlos Cuerpo: “Buscamos que el ahorro de los españoles tenga alternativas a la inversión en vivienda”",
-            "link": "https://elpais.com/economia/2026-10-12/carlos-cuerpo-buscamos-que-el-ahorro-de-los-espanoles-tenga-alternativas-a-la-inversion-en-vivienda.html",
-            "resumen": "El vicepresidente primero del Gobierno, que no formará parte de las listas del PSOE a las elecciones, defiende el legado económico del Ejecutivo, aunque admite las críticas por la situación de Ceuta",
+            "titulo": "CC OO y UGT reclaman que el salario mínimo suba un 7% en 2027",
+            "link": "https://elpais.com/economia/2026-10-13/cc-oo-y-ugt-reclaman-que-el-salario-minimo-suba-un-7-en-2027.html",
+            "resumen": "Ambas centrales registrarán la huelga general del 11-N con el lema ‘Salarios, vivienda, precios’ y le darán un anclaje laboral con una plataforma que reivindique sueldos suficientes",
             "fuente": "El País"
           },
           {
-            "titulo": "El M&A en España desciende un 25% en la 'era Pedro Sánchez'",
-            "link": "https://www.expansion.com/empresas/2026/10/11/6acb70fe468aebb04a8b45a2.html",
-            "resumen": "Las adquisiciones de compañías españolas desde junio de 2018 se sitúan en 410.000 millones de euros. El desplome en el valor de las salidas a Bolsa es mayor, al caer un 70%. El intervencionismo y la subida de tipos explican el parón…",
+            "titulo": "Asterion se adelanta a Apollo para comprar Fraikin por 2.000 millones",
+            "link": "https://www.expansion.com/empresas/2026/10/13/6acdc0f0468aebe3508b458d.html",
+            "resumen": "El fondo español controlará una flota europea de alquiler de 50.000 furgonetas y camiones. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "La UE importará como máximo 350.000 coches híbridos chinos al año",
-            "link": "https://elpais.com/economia/2026-10-12/la-ue-importara-como-maximo-350000-coches-hibridos-chinos-al-ano.html",
-            "resumen": "El compromiso alcanzado entre Bruselas y Pekín prevé reducir más de la mitad la cantidad de vehículos de este tipo que llegan desde el gigante asiático",
+            "titulo": "La huelga general culmina la escalada de la conflictividad laboral: casi el doble de paros en ocho meses que en todo 2025",
+            "link": "https://elpais.com/economia/2026-10-13/la-huelga-general-culmina-la-escalada-de-la-conflictividad-laboral-casi-el-doble-de-paros-en-ocho-meses-que-en-todo-2025.html",
+            "resumen": "La estadística oficial registra 1,37 millones de jornadas perdidas hasta agosto, por 383.000 en el mismo periodo del año pasado. Los sindicatos lo relacionan con la ausencia de un pacto nacional de convenios",
             "fuente": "El País"
           },
           {
-            "titulo": "La cuenta de inversión deja fuera al 90% de los fondos españoles",
-            "link": "https://www.expansion.com/ahorro/2026/10/11/6acbe795468aeb78798b45b4.html",
-            "resumen": "Menos del 5% del patrimonio cumple con las exigencias de la propuesta diseñada por Economía. Leer",
+            "titulo": "Valorian propone subir un 18% los sueldos en El Corte Inglés, Ikea o Fnac",
+            "link": "https://www.expansion.com/empresas/distribucion/2026/10/13/6ace5f6de5fdeab23f8b4590.html",
+            "resumen": "El sindicato pedirá a la patronal de la gran distribución incrementos salariales durante los próximos tres años. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "La Eurocámara carga contra los recortes que se barajan en el próximo presupuesto europeo",
-            "link": "https://elpais.com/economia/2026-10-12/la-eurocamara-carga-contra-los-recortes-que-se-barajan-en-el-proximo-presupuesto-europeo.html",
-            "resumen": "La presidencia irlandesa del Consejo de la UE presentó una rebaja del 8% en el proyecto de cuentas de la UE para el periodo 2028-2034",
+            "titulo": "El Gobierno modifica por la vía de urgencia los estatutos del ICO para adaptarlos al fondo España Crece",
+            "link": "https://elpais.com/economia/2026-10-13/el-gobierno-modifica-por-la-via-de-urgencia-los-estatutos-del-ico-para-adaptarlos-al-fondo-espana-crece.html",
+            "resumen": "La nueva normativa, que sustituirá a la vigente desde 1999, separa la actividad del organismo en dos carteras y amplía sus opciones de inversión",
             "fuente": "El País"
           }
         ]
@@ -84,9 +84,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "¿Por qué vuelven los auriculares con cable a estar de moda? Las razones por las que son de nuevo una opción popular",
-            "link": "https://elpais.com/tecnologia/tu-tecnologia/2026-10-12/por-que-vuelven-los-auriculares-con-cable-a-estar-de-moda-las-razones-por-las-que-son-de-nuevo-una-opcion-popular.html",
-            "resumen": "Los cascos con cable, que parecían desterrados por los modelos Bluetooth, están viviendo una segunda juventud. Y no solo por nostalgia: también por sonido, precio, fiabilidad y latencia",
+            "titulo": "Los datos de casi nueve millones de daneses, ¿expuestos por usar la contraseña 123456?",
+            "link": "https://elpais.com/tecnologia/2026-10-13/los-datos-de-casi-nueve-millones-de-daneses-expuestos-por-usar-la-contrasena-123456.html",
+            "resumen": "En declaraciones al diario danés ‘Politiken’, el supuesto atacante afirma haber accedido a una base de datos estatal a través de esa clave. Es la mayor filtración de la historia del país",
             "fuente": "El País"
           },
           {
@@ -96,9 +96,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Mark Galeotti, experto en crimen organizado: “Hemos creado una sociedad cíborg a gran escala en la que todos nuestros datos son vulnerables”",
-            "link": "https://elpais.com/sociedad/2026-10-11/mark-galeotti-experto-en-crimen-organizado-hemos-creado-una-sociedad-ciborg-a-gran-escala-en-la-que-todos-nuestros-datos-son-vulnerables.html",
-            "resumen": "El escritor asegura que el camino hacia el tecnoautoritarismo está empedrado de buenas intenciones",
+            "titulo": "Así es HomeView, la última pantalla inteligente de Apple para controlar los hogares con su nueva IA",
+            "link": "https://elpais.com/tecnologia/2026-10-13/asi-es-homeview-la-ultima-pantalla-inteligente-de-apple-para-controlar-los-hogares-con-su-nueva-ia.html",
+            "resumen": "El dispositivo, diseñado para que la renovada Siri pueda rivalizar con la Alexa de Amazon, no se venderá en la Unión Europea porque no cumple con la normativa comunitaria de competencia digital",
             "fuente": "El País"
           },
           {
@@ -113,33 +113,33 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "Varela: \"Me pidieron que fuera a una sala, que Ancelotti quería verme y darme las gracias\"",
-            "link": "https://www.marca.com/mundo-marca/2026/10/09/varela-me-pidieron-fuera-sala-ancelotti-queria-verme-darme-gracias.html",
-            "resumen": "Raúl Varela, presentador de 'La Tribu', tercer invitado de 'Frecuencia Marca'",
+            "titulo": "Schubert logra lo nunca visto",
+            "link": "https://www.marca.com/deportes-aventura/2026/10/13/schubert-logra-nunca-visto-repite-primera-vez-via-9c.html",
+            "resumen": "Completa la ruta 'DNA' que&nbsp;Seb Boulin abrió en 2022 y catalogó como 9c. Es la primera vez que se logra encadenar por segunda vez una ascensión con este nivel de complejidad",
             "fuente": "Marca"
           },
           {
-            "titulo": "Contundente respuesta de Flick para hablar del Madrid y los arbitrajes",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237882/contundente-respuesta-flick-hablar-madrid-arbitrajes.html",
-            "resumen": "Hansi Flick no quiso entrar en polémicas en la víspera del partido contra el Galatasaray . El entrenador del Barça fue preguntado en Estambul por las críticas del Real Madrid al arbitraje, pero evitó pronunciarse y recordó que su equipo…",
+            "titulo": "Mourinho y el arbitraje ante el Villarreal: \"Os invito a que veáis el primer minuto del partido\"",
+            "link": "https://www.mundodeportivo.com/futbol/real-madrid/20261013/1004238338/mourinho-arbitraje-villarreal-invito-veais-primer-minuto-partido-villarreal.html",
+            "resumen": "Tras su plantón a los medios de comunicación tras el partido ante el Villarreal, Mourinho s e sentó en la sala de prensa del Estadio Olímpico de Roma para hablar de la situación del equipo antes de afrontar mañana el partido ante la Roma…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "\"Ya ha pasado un tiempo para que Alcaraz y yo podamos vernos y darnos un abrazo\"",
-            "link": "https://www.marca.com/tenis/2026/10/09/ferrero-deseo-alcaraz-pasado-podamos-vernos-darnos-abrazo.html",
-            "resumen": "El exnúmero 1 mundial estrena libro y habla de que se siente listo para volver al circuito",
+            "titulo": "El Club 'Divertido' Lugo se lo pasa en grande: líder, invicto y mejor equipo de Primera RFEF",
+            "link": "https://www.marca.com/futbol/primera-rfef/2026/10/13/club-divertido-lugo-pasa-grande-lider-invicto-mejor-equipo-primera-rfef.html",
+            "resumen": "Los gallegos han sumado 19 puntos de 21 posibles y ayer le arrebataron el primer puesto a la UD Logroñés",
             "fuente": "Marca"
           },
           {
-            "titulo": "Flick: \"Gabriel Jesus fue una pequeña sorpresa\"",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237897/flick-gabriel-jesus-pequena-sorpresa.html",
-            "resumen": "Hansi Flick no quiere ningún exceso de confianza en la visita del Barça al Galatasaray de este martes. El técnico alemán compareció ante los medios en Estambul y dejó claro que, pese a la confianza que transmite el equipo, será necesario…",
+            "titulo": "Julián Alvarez ya se ha decidido por un nuevo representante",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261013/1004238183/pablo-barquero-agente-rodri-principal-candidato-representar-julian-alvarez.html",
+            "resumen": "Julián Alvarez (26 años), delantero del Atlético de Madrid, decidió recientemente poner fin a su relación profesional con su agente Fernando Hidalgo y ha recibido varias propuestas para subsituirle. Según ha podido saber Mundo Deportivo,…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Atmane, a raquetazo limpio en la previa de Shanghái y no es expulsado",
-            "link": "https://www.marca.com/tenis/2026/10/09/atmane-raquetazo-limpio-previa-shanghai-expulsado.html",
-            "resumen": "El francés se retiró cuando su rival, Bernard Tomic, sacaba para el partido",
+            "titulo": "¡Netflix se queda el Mundial de España!",
+            "link": "https://www.marca.com/futbol/mundial/2026/10/13/netflix-adquiere-derechos-audiovisuales-espana-mundial-2030.html",
+            "resumen": "La plataforma ofrecerá la cobertura íntegra de los 104 partidos del torneo, incluyendo un encuentro gratuito por jornada y un acuerdo con una cadena en abierto para los encuentros de la selección española, las semifinales y la final",
             "fuente": "Marca"
           }
         ]
@@ -147,16 +147,16 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "October 12, 2026",
-    "generada": "19:28",
+    "fecha": "October 13, 2026",
+    "generada": "17:12",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-            "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+            "titulo": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+            "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
+            "resumen": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
             "fuente": "BBC"
           },
           {
@@ -166,15 +166,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "The Taliban Are Using Europe’s Fear of Migrants to Their Advantage",
-            "link": "https://www.nytimes.com/2026/10/12/world/asia/europe-taliban-deportations-migrants.html",
-            "resumen": "European nations that condemn the Taliban government for its human rights record are seeking its help to deport refugees back to Afghanistan.",
+            "titulo": "A Father’s Mission Is to Show the World ‘What Russia Did to My Family’",
+            "link": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-war-soldier-sumy-family.html",
+            "resumen": "After a glide bomb killed his wife and younger daughter, Yevhen Ovcharov was determined to prevent other Ukrainians from dying the same way.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-            "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
+            "titulo": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
+            "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+            "resumen": "One person is dead and others were injured after an incident at the amusement park in the US state of Georgia.",
             "fuente": "BBC"
           },
           {
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
-            "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The Institute for Fiscal Studies says the government will need a \"top-up\" of billions of pounds if it wants to meet its spending plans.",
+            "titulo": "Three things we've learnt about the UK economy from the IMF",
+            "link": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
-            "link": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
-            "resumen": "US economists developed models that help central bankers and finance ministers to stabilise their economies Business live – latest updates Two US economists have won the 2026 Nobel economics prize for their work developing models that…",
+            "titulo": "Threat of AI share crash puts world financial stability at risk, says IMF",
+            "link": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+            "resumen": "High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacks IMF warns global economy ‘could soon test the limits of resilience’ The threat of an AI share price crash rippling out across…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "How American Retirees at Different Incomes Rely on Social Security",
-            "link": "https://www.nytimes.com/2026/10/12/business/social-security-income-retirement-benefits.html",
-            "resumen": "Social Security funds are on track to run short by 2032, which would mean a reduction in benefits. Here’s how four hypothetical households rely on the program in retirement.",
+            "titulo": "Judy Markey, Frank and Funny Voice on Chicago Radio, Dies at 82",
+            "link": "https://www.nytimes.com/2026/10/13/business/media/judy-markey-dead.html",
+            "resumen": "She and Kathy O’Malley — known as “the Girlfriends” — were the rare female hosts in a major market. Their freewheeling segments included “Sex Thursday.”",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "How to avoid getting stung if you miss credit card payments",
-            "link": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
-            "resumen": "People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
+            "titulo": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
+            "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Trump’s deal with Putin will have little impact on US diesel prices, experts say",
-            "link": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
-            "resumen": "Analysts say fuel will take weeks to ship and quantity is too small to affect prices, while full deal is unlikely to be met given damage to Russian refineries Trump announces partial ceasefire but Zelenskyy says deal is ‘news to me’…",
+            "titulo": "JPMorgan misses profit expectations as bank boss warns of ‘large fiscal deficits’ and ‘sticky inflation’ - as it happened",
+            "link": "https://www.theguardian.com/business/live/2026/oct/13/imf-uk-economy-growth-boost-chancellor-john-healey-oil-prices-inflation-business-live-news",
+            "resumen": "Rolling coverage of the latest economic and financial news UK government bonds are rallying this morning, after the IMF said it had increased its growth forecast for the country this year. Yields (which fall when bond prices rise) are…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,9 +224,9 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Storm Rachel batters Southern California, brings flooding to Las Vegas",
-            "link": "https://www.bbc.co.uk/news/videos/cmj47n488v47o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Large waves from the post-tropical cyclone battered homes in Long Beach, and brought flooding to parts of Las Vegas near the famed Strip.",
+            "titulo": "Super El Niño sets another record as it strengthens to 'unprecedented levels'",
+            "link": "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&at_campaign=rss",
+            "resumen": "El Niño has continued to strengthen, with several key measures now in record territory. Simon King explores how it compares to previous events.",
             "fuente": "BBC"
           },
           {
@@ -236,15 +236,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "How Do Cuttlefish Hide? Scientists Search for the Secret to Camouflage.",
-            "link": "https://www.nytimes.com/2026/10/12/science/cuttlefish-brain-camouflage.html",
-            "resumen": "Cephalopods are masters of camouflage. Scientists want to decipher how the process works in the brain.",
+            "titulo": "There’s Worlds Out There More Habitable Than Earth",
+            "link": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
+            "resumen": "Scientists believe there are planets outside our solar system where life is even more abundant and sustainable.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "'Prepare for the unthinkable' warning over autumn flooding",
-            "link": "https://www.bbc.co.uk/news/articles/cm4g1pqyqzqwo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Those living in flood-hit areas say they are worried, and have started preparing.",
+            "titulo": "Crew searching for Amelia Earhart arrives at crab-infested island",
+            "link": "https://www.bbc.co.uk/news/articles/c6pvgryp8yv0o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Researchers will sleep on their ship to avoid giant crabs that can lift heavy weights, split open coconuts, and may have played a role in Earhart's demise.",
             "fuente": "BBC"
           },
           {
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Hincapie and Zubimendi injured in post-match training session",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmq5nzn8ww98o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Arsenal manager Mikel Arteta says it is \"far from ideal\" that Piero Hincapie and Martin Zubimendi were injured in a post-match training session.",
+            "titulo": "Football regulator says he would quit over Man City political interference",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Christian Horner: ‘Not all teams act that way. You don’t see the same brutality as when I left’",
-            "link": "https://www.theguardian.com/sport/2026/oct/12/christian-horner-red-bull-formula-one",
-            "resumen": "The 52-year-old reflects on the pain of being sacked after two decades turning Red Bull into an F1 powerhouse, questioning his purpose in life and dealing with panic attacks Christian Horner should be in steamy Singapore, preparing for…",
+            "titulo": "Josh Allen finally gets first OT victory of his career as Bills beat Rams in thriller",
+            "link": "https://www.theguardian.com/sport/2026/oct/13/rams-bills-monday-night-football-nfl",
+            "resumen": "Buffalo Bills 37–34 Los Angeles Rams (OT) Allen was 0-7 in overtime coming into game Quarterback rushes for 121 yards on wild night Rams have field goal blocked in overtime Josh Allen accounted for 331 total yards and two touchdowns,…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Do Lionesses lack ruthlessness in front of goal?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cwe8rvm8yl93o?at_medium=RSS&at_campaign=rss",
-            "resumen": "England take a two-goal lead into the second leg of their Women's World Cup qualifying play-off against Greece - but should it be more?",
+            "titulo": "Majority of clubs on edge of 'financial disaster' - regulator",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c6vgx70pzq1jo?at_medium=RSS&at_campaign=rss",
+            "resumen": "English football's finances are \"dangerously exposed, with the majority of clubs living on the edge of financial disaster\", a new report says.",
             "fuente": "BBC"
           },
           {
-            "titulo": "The Deshaun Watson revival derailed, much to the joy of those with a functional memory",
-            "link": "https://www.theguardian.com/sport/2026/oct/12/deshaun-watson-browns-jets-nfl-week-five-column",
-            "resumen": "After three straight game-winning drives, Cleveland’s quarterback was sacked eight times in a dismal defeat that punctured the hype surrounding him I guess the New York Jets didn’t get the memo. This was supposed to be a Deshaun Watson…",
+            "titulo": "Athletics wishes it could scrub the women’s marathon world record – what can be done? | Sean Ingle",
+            "link": "https://www.theguardian.com/sport/2026/oct/13/athletics-scrub-womens-marathon-world-record-ruth-chepngetich",
+            "resumen": "Ruth Chepngetich’s failed doping test, five months after she obliterated the record in 2024, left the sport deeply uneasy but powerless to act When Ruth Chepngetich annihilated the women’s marathon world record in Chicago two years ago…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Saracens sack academy player Auvaa after latest incident",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckvgdegy18e6o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Saracens sack Totoa Auvaa, the academy player who was involved in a nightclub incident with England cricketers Ben Stokes and Gus Atkinson, after another incident.",
+            "titulo": "Liverpool's Wirtz problem - does he need to be dropped?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cvglw07rx6jeo?at_medium=RSS&at_campaign=rss",
+            "resumen": "More than a year since his £116m move, Florian Wirtz is still struggling to hit top form at Liverpool - so does he need to be dropped?",
             "fuente": "BBC"
           }
         ]

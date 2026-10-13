@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "12 de octubre de 2026",
-  "generada": "19:28",
+  "fecha": "13 de octubre de 2026",
+  "generada": "17:12",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Créditos ficticios, balances irregulares y un contrato clave con Lázaro Báez: los detalles de la acusación a Máximo Kirchner en el caso Hotesur",
-          "link": "https://www.clarin.com/politica/creditos-ficticios-balances-irregulares-contrato-clave-lazaro-baez-detalles-acusacion-maximo-kirchner-caso-hotesur_0_1cY31O5CHm.html",
-          "resumen": "Por pedido de la fiscalía, la Casación Federal debe resolver si vuelve a unificar el juicio por lavado de dinero con los hoteles al con el caso Los Sauces, que desde el 23 de octubre analizará lavado con los alquileres de la otra firma de…",
+          "titulo": "Diputados arrancó con el debate del Presupuesto 2027 y el Gobierno lo quiere llevar al recinto a mediados de noviembre",
+          "link": "https://www.clarin.com/politica/diputados-arranco-debate-presupuesto-2027-gobierno-quiere-llevar-recinto-mediados-noviembre_0_wChLeZBdpo.html",
+          "resumen": "El secretario de Hacienda, Carlos Guberman, defiende el proyecto del Gobierno en la comisión de Presupuesto. El oficialismo quiere dictaminar en la última semana de octubre para llevarlo al recinto el 18 de noviembre.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente negó la salida de Caputo y se mostró confiado en que será reelecto",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nos-unimos-en-oracion-por-su-salud-dijo-el-presidente-por-la-nid12102026/",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente dijo que el Gobierno estaría dispuesto a ajustar la fecha de la visita del Papa",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
           "resumen": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Expulsaron a un brasileño que insultó a Milei en redes sociales y le prohibieron ingresar a la Argentina durante 5 años",
-          "link": "https://www.infobae.com/politica/2026/10/12/expulsaron-a-un-brasileno-que-insulto-a-milei-en-redes-sociales-y-le-prohibieron-ingresar-a-la-argentina-durante-5-anos/",
-          "resumen": "Rogério Tomaz Jr. llegó hoy a Aeroparque y Migraciones le ordenó regresar a San Pablo. Vinculado al PT de Lula, había descalificado al Presidente y se enfrentó con dirigentes libertarios. Formalmente, la medida se fundamentó en…",
+          "titulo": "El Reino Unido respaldó la explotación petrolera en Malvinas y anunció medidas legales para blindar a las empresas de la presión Argentina",
+          "link": "https://www.infobae.com/politica/2026/10/13/el-reino-unido-respaldo-la-explotacion-petrolera-en-malvinas-y-anuncio-medidas-legales-para-blindar-a-las-empresas-de-la-presion-argentina/",
+          "resumen": "Es la respuesta del gobierno británico al pedido argentino ante el Tribunal del Mar para frenar Sea Lion. La legislación sobre la protección de los intereses comerciales impide que las personas sujetas a la jurisdicción del Reino Unido…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Javier Milei defendió la gestión de Luis Caputo con una contundente frase y dijo que está \"recontra\" convencido de que va a ser reelecto",
-          "link": "https://www.clarin.com/politica/javier-milei-defendio-gestion-luis-caputo-contundente-frase-dijo-recontra-convencido-va-reelecto_0_AqVJGvb4az.html",
-          "resumen": "El Presidente calificó la relación que lo une con el ministro de Economía como “simbiótica” y afirmó que es \"una pelotudez del tamaño de una casa\" hablar de una posible salida del funcionario. También remarcó que tiene \"125.000 millones…",
+          "titulo": "Un gobernador pone a la venta un palacio de 3 millones de dólares y el senador libertario asegura que si gana las elecciones lo recomprará",
+          "link": "https://www.clarin.com/politica/gobernador-pone-venta-palacio-3-millones-dolares-senador-libertario-asegura-gana-elecciones-recomprara_0_qsUrnlALq2.html",
+          "resumen": "Claudio Poggi sacó a la venta el Palacio Lagomarsino, ubicado en Recoleta, donde funciona la Casa de San Luis. Bartolomé Abdala, senador y presidente provisional del Senado, dice que lo quieren \"malvender\".",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La Corte llamó a conjueces para decidir si reabre una causa por corrupción contra Rodríguez Larreta por la obra del Paseo del Bajo",
-          "link": "https://www.lanacion.com.ar/politica/la-corte-llamo-a-conjueces-para-decidir-si-reabre-una-causa-por-corrupcion-contra-rodriguez-larreta-nid12102026/",
-          "resumen": "Es por el direccionamiento de un tramo de la obra a una firma de Calcaterra, primo de Macri; el caso involucra a exfuncionarios, uno de ellos, Carlos Frugoni, trabajó con Milei y renunció por no declarar sociedades y propiedades en…",
+          "titulo": "El último misterio de Perón: el encuentro secreto con el Papa en una iglesia de Roma y la carta por el cuerpo de Eva",
+          "link": "https://www.lanacion.com.ar/politica/el-ultimo-misterio-de-peron-el-encuentro-secreto-con-el-papa-en-una-iglesia-de-roma-y-la-carta-por-nid14102026/",
+          "resumen": "",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Empresas de Estados Unidos y Chile proponen que el cobre argentino salga por el Pacífico",
-          "link": "https://www.clarin.com/energia-y-mineria/empresas-estados-unidos-chile-proponen-cobre-argentino-salga-pacifico_0_KRVBzDiXQ3.html",
-          "resumen": "La cámara estadounidense en Chile propone aprovechar el Pacífico para abastecer y exportar desde los proyectos de cobre del lado de la Cordillera argentina. El Congreso chileno, mientras tanto, pidió resguardos para las negociaciones con…",
+          "titulo": "Caputo se reunió con la jefa del FMI: elogios al plan fiscal y la revisión de metas aún sin cierre",
+          "link": "https://www.clarin.com/economia/caputo-reunio-jefa-fmi-elogios-plan-fiscal-revision-metas-cierre_0_ba6lWVwRdX.html",
+          "resumen": "El ministro de Economía se encontró con Kristalina Georgieva en Tailandia. El Fondo Monetario recalculó a la baja la proyección de crecimiento de la economía argentina.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Aterosclerosis y trombosis: alimentaron animales con remolacha forrajera y el resultado fue sorprendente",
-          "link": "https://www.lanacion.com.ar/economia/campo/aterosclerosis-y-trombosis-alimentaron-animales-con-remolacha-forrajera-y-el-resultado-fue-nid11102026/",
-          "resumen": "Un estudio del INTA en la Norpatagonia encontró en la carne una calidad comparable a la de los sistemas pastoriles en novillos terminados con maíz; las investigadoras aclararon que se necesitan más evaluaciones",
+          "titulo": "Inflación de septiembre: cuál fue el IPC acumulado y qué proyectan las consultoras para este año",
+          "link": "https://www.lanacion.com.ar/economia/inflacion-de-septiembre-cual-fue-el-ipc-acumulado-y-que-proyectan-las-consultoras-para-este-ano-nid13102026/",
+          "resumen": "La cifra se conocerá esta tarde; en agosto, el alza fue del 1,7%, con una variación interanual del 33,5%; el análisis y las proyecciones de las principales consultoras",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Luis Caputo negó rumores sobre su salida del gabinete: \"Quédate tranquilo que no voy a renunciar\"",
-          "link": "https://www.ambito.com/economia/luis-caputo-nego-rumores-su-salida-del-gabinete-quedate-tranquilo-que-no-voy-renunciar-n6332824",
-          "resumen": "El ministro de Economía cruzó a usuarios en redes sociales respecto a su continuidad en el gobierno libertario, tras la aparición de Alberto Ades. Milei lo bancó, y señaló que las versiones que lo dan afuera a Caputo es \"traición a la…",
+          "titulo": "Kristalina Georgieva se reunió con Luis Caputo y destacó la \"disciplina fiscal\" de la Argentina como ejemplo a nivel global",
+          "link": "https://www.ambito.com/economia/luis-caputo-llega-tailandia-y-busca-destrabar-la-tercera-revision-el-fmi-n6332903",
+          "resumen": "El ministro participará la asamblea del Fondo y el Banco Mundial. La Argentina necesita un waiver por la meta fiscal para acceder a un desembolso de u$s869 millones.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Quiénes son los ganadores del Nobel de economía y por qué su trabajo responde dos preguntas clave para la Argentina",
-          "link": "https://www.clarin.com/economia/ganadores-nobel-economia-trabajo-responde-preguntas-clave-argentina_0_4SbMWdwweH.html",
-          "resumen": "Robert E. Hall y Michael Woodford fueron premiados por sus aportes a la teoría sobre cómo estabilizar una economía. Investigaron cómo las tasas de interés, las decisiones de consumo y las expectativas afectan la actividad y los precios.…",
+          "titulo": "Vacaciones en Brasil 2027, más caras: el real subió 5% tras las elecciones y crecen las reservas para congelar precios",
+          "link": "https://www.clarin.com/economia/vacaciones-brasil-2027-caras-real-subio-5-elecciones-crecen-reservas-congelar-precios_0_Ch0ehCSpU7.html",
+          "resumen": "En lo que va de 2026, la moneda brasileña ya se apreció 10% y los servicios turísticos subieron 5%. Con la posible victoria de Bolsonaro en el balotaje del 25 de octubre, el mercado espera que se fortalezca aún más el real. El país vecino…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Una oportunidad para exportar conocimiento agropecuario",
-          "link": "https://www.lanacion.com.ar/economia/campo/una-oportunidad-para-exportar-conocimiento-agropecuario-nid12102026/",
-          "resumen": "Hay un camino que se empieza a recorrer; las raíces ya existen y el desafío es fortalecerlas, ordenar lo que hoy está disperso y crecer para llevar ese conocimiento al mundo",
+          "titulo": "“La bronca es muy grande”: fuerte cuestionamiento al uso de los fondos de la tasa vial en un municipio bonaerense",
+          "link": "https://www.lanacion.com.ar/economia/campo/la-bronca-es-muy-grande-fuerte-cuestionamiento-al-uso-de-la-tasa-vial-en-un-municipio-bonaerense-nid13102026/",
+          "resumen": "Frente al deterioro de los caminos, autoconvocados de Necochea reclaman recuperar un organismo descentralizado que permita seguir la recaudación, controlar los gastos y garantizar recursos para el mantenimiento de la red",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Uruguay impulsa un proyecto para habilitar la jubilación anticipada a los 60 años",
-          "link": "https://www.clarin.com/mundo/uruguay-impulsa-proyecto-habilitar-jubilacion-anticipada-60-anos_0_AExXglgjpT.html",
-          "resumen": "• La medida enviada por el Gobierno de Yamandú Orsi busca modificar el esquema de retiro impulsado en 2023 por la gestión de Luis Lacalle Pou. • Aquella normativa del período anterior había elevado de 60 a 65 años la edad requerida para…",
+          "titulo": "El MI5 revela un complot de Irán contra una base aérea británica y advierte sobre el riesgo de la IA",
+          "link": "https://www.clarin.com/mundo/mi5-revela-complot-iran-base-aerea-britanica-advierte-riesgo-ia_0_yPHsChoDFk.html",
+          "resumen": "El jefe del servicio de inteligencia interior británico advirtió que la conspiración iraní contra una base militar en Gloucestershire forma parte de un patrón de guerra híbrida más amplio. Frente a esta situación, el gobierno del Reino…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El papa León XIV será operado en Roma: qué se sabe de la cirugía en el pulmón y la expectativa por su viaje a la Argentina",
-          "link": "https://www.lanacion.com.ar/el-mundo/el-papa-leon-xiv-sera-operado-en-roma-que-se-sabe-de-la-cirugia-en-el-pulmon-y-la-expectativa-por-su-nid12102026/",
-          "resumen": "El pontífice ingresará al hospital Gemelli este martes para la intervención por un nódulo y estará una semana internado; por ahora, se mantiene su gira a América Latina",
+          "titulo": "Salud del Papa León XIV: qué se sabe de la operación y de su visita a la Argentina",
+          "link": "https://www.lanacion.com.ar/el-mundo/salud-del-papa-leon-xiv-que-se-sabe-de-la-operacion-y-de-su-visita-a-la-argentina-nid13102026/",
+          "resumen": "El pontífice ingresó al hospital Gemelli para una cirugía por un nódulo pulmonar detectado en un control de rutina; se prevé una semana de internación y, por ahora, se mantiene el viaje al país del 8 al 11 de noviembre",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Guerra híbrida en Europa: hackearon las heladeras de cientos de supermercados en Francia y provocaron pérdidas millonarias",
-          "link": "https://www.clarin.com/mundo/guerra-hibrida-europa-hackearon-heladeras-cientos-supermercados-francia-provocaron-perdidas-millonarias_0_6rvwj2G8Ep.html",
-          "resumen": "• Los atacantes tomaron el control a distancia de un software danés para elevar la temperatura de las vitrinas frigoríficas y destruir miles de productos alimentarios. • La Fiscalía de París inició una investigación de oficio que también…",
+          "titulo": "Elecciones en Brasil: en la recta final del balotaje, Lula anunció un paquete para condonar deudas a 3,6 millones de microempresarios",
+          "link": "https://www.clarin.com/mundo/elecciones-brasil-recta-final-balotaje-lula-anuncio-paquete-condonar-deudas-36-millones-microempresarios_0_KLxGZ6FmJL.html",
+          "resumen": "El gobierno busca perdonar deudas por US$ 2.500 millones a pymes y monotributistas. La segunda vuelta es el 25 de octubre.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Investigan en Alemania una presunta agresión sexual a una adolescente con un robot que fue transmitida en vivo en redes",
-          "link": "https://www.lanacion.com.ar/el-mundo/investigan-en-alemania-una-presunta-agresion-sexual-a-una-adolescente-con-un-robot-que-fue-nid12102026/",
-          "resumen": "El episodio ocurrió en Colonia; la policía secuestró el dispositivo utilizado y los teléfonos celulares de los sospechosos",
+          "titulo": "Reid Wiseman, piloto de Artemis II: “Vimos cosas que ningún ser humano ha visto jamás”",
+          "link": "https://www.lanacion.com.ar/el-mundo/reid-wiseman-piloto-de-artemis-ii-vimos-cosas-que-ningun-ser-humano-ha-visto-jamas-nid09102026/",
+          "resumen": "Se trató de un mensaje que difundieron mientras realizaban la misión, que se concretó en abril de este año, antes de que la tripulación perdiera la conexión con el planeta durante 40 minutos",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Elon Musk se convirtió en el mayor donante en la elección legislativa de Estados Unidos con un objetivo: salvar a los republicanos",
-          "link": "https://www.clarin.com/mundo/elon-musk-convirtio-mayor-donante-eleccion-legislativa-estados-unidos-objetivo-salvar-republicanos_0_8FshzOBBTv.html",
-          "resumen": "El dueño de Tesla aportó más de 250 millones de dólares a la campaña electoral del partido del presidente Donald Trump.",
+          "titulo": "Mientras lidera las encuestas en Brasil, Flávio Bolsonaro visitó a su padre en prisión domiciliaria",
+          "link": "https://www.clarin.com/mundo/lidera-encuestas-brasil-flavio-bolsonaro-visito-padre-prision-domiciliaria_0_cSL2HWnS7S.html",
+          "resumen": "El candidato del Partido Liberal, que irá a balotaje contra Lula, pudo ver a Jair Bolsonaro tras 90 días de restricción. \"Salgo muy feliz de aquí, estaba muy alegre con el resultado de la primera vuelta\", dijo. El expresidente cumple una…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Racing en caída libre: un año para el olvido, sin un salto de calidad en el fútbol y con los hinchas calientes de cara al clásico de Avellaneda",
-          "link": "https://www.clarin.com/deportes/racing-caida-libre-ano-olvido-salto-calidad-futbol-hinchas-calientes-cara-clasico-avellaneda_0_xop6Q5nM1q.html",
-          "resumen": "La Academia cayó ante Belgrano y quedó aferrada a un milagro para clasificarse a los playoffs. Después de 11 años, está muy cerca de quedarse sin jugar una copa internacional. Los jugadores parecen indulgentes, ya se devoraron dos…",
+          "titulo": "Atlético de Madrid vs. Manchester United, por la Champions League: a qué hora juegan, formaciones y cómo ver el partido",
+          "link": "https://www.clarin.com/deportes/atletico-madrid-vs-manchester-united-champions-league-hora-juegan-formaciones-ver-partido_0_TDY9beLUli.html",
+          "resumen": "Luego de la caída ante Liverpool del debut, el equipo de Julián Alvarez, Cuti Romero y Giuliano Simeone recibe al de Lisandro Martínez.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Paulo Dybala ¿entre Roma y Boca?: “Espero que pueda haber un final”",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/paulo-dybala-entre-roma-y-boca-espero-que-pueda-haber-un-final-nid12102026/",
-          "resumen": "El delantero habló en la previa del choque con Real Madrid, por la Champions League",
+          "titulo": "Champions League, en vivo: el minuto a minuto de los partidos",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/champions-league-en-vivo-nid13102026/",
+          "resumen": "Comienza la segunda fecha de la etapa de liga con nueve partidos",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El lamento de Santiago Sosa por el presente de Racing: \"Es feo verlo así, duele y no me hace bien\"",
-          "link": "https://www.ole.com.ar/racing/lamento-santiago-sosa-dolor-ver-racing-presente-feo-clasico-independiente_0_h5AZoLzmW3.html",
-          "resumen": "El hoy jugador de Vasco da Gama, capitán de la Academia hasta hace dos meses, analizó la flojo actualidad del club y palpitó el clásico ante Independiente.",
+          "titulo": "El posteo de Ponzio antes de un partido clave para el futuro de River",
+          "link": "https://www.ole.com.ar/river-plate/river-plate-mensaje-leonardo-ponzio-sarmiento-junin_0_FpZ9Qx8gnF.html",
+          "resumen": "Sin margen de error en las dos tablas, el Millonario necesita llevarse una victoria de Junín ante Sarmiento.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Teo Rodríguez Pagano, el pibe bombero de San Lorenzo: un golazo de regalo de cumpleaños y cuatro mandamientos escritos en la muñeca",
-          "link": "https://www.clarin.com/deportes/teo-rodriguez-pagano-pibe-bombero-san-lorenzo-golazo-regalo-cumpleanos-mandamientos-escritos-muneca_0_bRRl7sJSLy.html",
-          "resumen": "Este lunes, el lateral izquierdo festejó sus 21 años, después de convertir su primer gol en Primera y ser la figura del triunfo ante Riestra que calmó los ánimos en el Nuevo Gasómetro. Hincha del Ciclón desde chico, hijo de Lucas…",
+          "titulo": "Las confesiones de Christian Horner sobre su despido en Red Bull: \"No todos los equipos actúan con esa brutalidad\"",
+          "link": "https://www.clarin.com/deportes/confesiones-christian-horner-despido-red-bull-equipos-actuan-brutalidad_0_DDx8wwdsoW.html",
+          "resumen": "El ex jefe de la escudería austríaca volvió a hablar públicamente a más de un años de su salida de la escudería austriaca. \"Después de la muerte de Dietrich, las cosas cambiaron en la dirección\", contó. El difícil momento personal que…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Carlos Alcaraz cayó en el Masters 1000 de Shanghái y Alexander Zverev se aseguró el N° 1 al final del año",
-          "link": "https://www.lanacion.com.ar/deportes/tenis/carlos-alcaraz-cayo-en-el-masters-1000-de-shanghai-y-alexander-zverev-se-aseguro-el-n-1-al-final-del-nid12102026/",
-          "resumen": "El belga Zizou Bergs logró el mejor éxito de su carrera ante el español y, de esa manera, el alemán terminará la temporada en lo más alto por primera vez en su carrera",
+          "titulo": "Una camiseta de Michael Jordan de las Finales de la NBA de 1998 se subastó por una cifra récord",
+          "link": "https://www.lanacion.com.ar/deportes/basquetbol/una-camiseta-de-michael-jordan-de-las-finales-de-la-nba-de-1998-se-subasto-por-una-cifra-record-nid13102026/",
+          "resumen": "Se trata de la casaca del día 2 de la histórica serie contra Utah Jazz, parte del “Last Dance” del legendario basquetbolista",
           "fuente": "La Nación"
         }
       ]
