@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "15 de octubre de 2026",
-    "generada": "14:30",
+    "fecha": "16 de octubre de 2026",
+    "generada": "14:22",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Por qué decido regresar ahora a Venezuela tras haber estado preso en el Helicoide y pasar 12 años en el exilio",
-            "link": "https://www.bbc.com/mundo/articles/cqgk5k0znn0mo?at_medium=RSS&at_campaign=rss",
-            "resumen": "El activista venezolano Rodrigo Diamanti regresa a Venezuela tras más de una década en el exilio y asegura que existe una ventana de oportunidad para una transición que el país debe aprovechar.",
+            "titulo": "Cómo los centros de datos de IA se convirtieron en un elemento clave en la batalla política en EE.UU.",
+            "link": "https://www.bbc.com/mundo/articles/c64g12190082o?at_medium=RSS&at_campaign=rss",
+            "resumen": "La oposición a las instalaciones se extiende por el país y los políticos toman partido en un asunto que gana protagonismo en las inminentes elecciones al Congreso.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Ucrania reanuda los ataques a las refinerías de Rusia en pleno clima de crispación con Trump",
-            "link": "https://elpais.com/internacional/2026-10-15/ucrania-reanuda-los-ataques-a-las-refinerias-de-rusia-en-pleno-clima-de-crispacion-con-trump.html",
-            "resumen": "Zelenski afirma que la restricción a la información satelital de la empresa estadounidense Starlink, esencial para su ejército, fue intencionada",
+            "titulo": "Trump regala a Putin un nuevo balón de oxígeno con el acuerdo sobre el diésel",
+            "link": "https://elpais.com/internacional/2026-10-16/trump-regala-a-putin-un-nuevo-balon-de-oxigeno-con-el-acuerdo-sobre-el-diesel.html",
+            "resumen": "El pacto, que apenas tendrá impacto en los precios, dinamita la posición común de Occidente y afloja la soga financiera al Kremlin",
             "fuente": "El País"
           },
           {
-            "titulo": "Ataques con drones contra buques mercantes agravan la tensión en el mar Negro",
-            "link": "https://www.france24.com/es/europa/20261015-ataques-con-drones-contra-buques-mercantes-agravan-la-tensi%C3%B3n-en-el-mar-negro",
-            "resumen": "Dos buques cisterna se incendiaron tras ser alcanzados por drones frente a la costa de Rumania, en el mar Negro, donde siete tripulantes permanecían desaparecidos este jueves. El presidente rumano, Nicușor Dan, acusó a Rusia de buscar la…",
+            "titulo": "¿Puede Costa Rica frenar al narco con una megacárcel al estilo Bukele?",
+            "link": "https://www.france24.com/es/programas/el-debate/20261016-puede-costa-rica-frenar-al-narco-con-una-megac%C3%A1rcel-al-estilo-bukele",
+            "resumen": "Costa Rica apuesta por el modelo penitenciario de Nayib Bukele para hacer frente al avance del crimen organizado. La presidenta Laura Fernández inauguró el Centro de Alta Contención contra el Crimen Organizado (CACCO), una megacárcel con…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Quién es Katie Zacharia y por qué su designación como secretaria de prensa de Trump ha generado controversia",
-            "link": "https://www.bbc.com/mundo/articles/c68jzgwd9m7go?at_medium=RSS&at_campaign=rss",
-            "resumen": "Las credenciales profesionales de la nueva secretaria de prensa de la Casa Blanca han sido cuestionadas por varios medios de comunicación.",
+            "titulo": "Por qué el internet de Starlink es clave en la guerra de drones de Ucrania contra Rusia",
+            "link": "https://www.bbc.com/mundo/articles/cw62yve9vy93o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Starlink es considerada la \"columna vertebral de las comunicaciones militares en Ucrania\", proporcionando internet de alta velocidad vital a las fuerzas armadas en todo el país.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Un Trump desaforado emprende una huida hacia delante para salvar las ‘midterms’",
-            "link": "https://elpais.com/us/2026-10-15/la-desenfrenada-huida-hacia-delante-de-trump-para-salvar-las-midterms.html",
-            "resumen": "El presidente de EE UU está embarcado en una gira de mítines en los que da rienda suelta a sus obsesiones sin importarle la influencia de sus devaneos en las encuestas",
+            "titulo": "Ucrania necesita usar los satélites de Starlink en la guerra, pero el Pentágono tiene el control",
+            "link": "https://elpais.com/internacional/2026-10-16/ucrania-necesita-usar-los-satelites-de-starlink-en-la-guerra-pero-el-pentagono-tiene-el-control.html",
+            "resumen": "La información del sistema de comunicación de la empresa de Elon Musk permite a las fuerzas ucranias ser más certeras en las operaciones de interceptación de proyectiles rusos y en ataques en el frente. No hay alternativa europea semejante",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Los Veintisiete reclaman medidas urgentes a Von der Leyen ante los precios “disparados” de la energía",
-            "link": "https://elpais.com/economia/2026-10-15/los-veintisiete-reclaman-medidas-urgentes-a-von-der-leyen-ante-los-precios-disparados-de-la-energia.html",
-            "resumen": "“Hay que reconocer que el invierno va a ser difícil en algunas industrias y familias”, admite el comisario de Energía, Dan Jorgensen",
+            "titulo": "Trabajo prepara una subida del salario mínimo antes de las elecciones que rondará el 5%",
+            "link": "https://elpais.com/economia/2026-10-16/trabajo-prepara-una-subida-del-salario-minimo-antes-de-las-elecciones-que-rondara-el-5.html",
+            "resumen": "Los sindicatos piden un incremento del 7% y la patronal critica las implicaciones políticas que tendría la medida, que el Gobierno adoptará cuando tenga el informe de los expertos",
             "fuente": "El País"
           },
           {
-            "titulo": "Diego Della Valle (Tod's) defiende la \"inteligencia artesanal\" frente a la IA",
-            "link": "https://www.expansion.com/luxury-forum/2026/10/15/6ad0864d468aeb06668b45ca.html",
-            "resumen": "El empresario italiano, presidente y consejero delegado de Tod's, rechaza los recortes de empleo en el sector del lujo debidos a la utilización de esta tecnología y defiende el mantenimiento de la esencia de las marcas. Leer",
+            "titulo": "Los bancos, obligados a reintegrar pagos no autorizados aunque se trate de una negligencia del cliente",
+            "link": "https://www.expansion.com/economia/2026/10/15/bancos-obligados-reintegrar-pagos-autorizados-trate-negligencia-cliente.html",
+            "resumen": "Una sentencia del TJUE refuerza la protección al consumidor y obliga a los bancos y otras entidades de pago a devolver los importes de operaciones no autorizadas. Más tarde podrían solicitar el reembolso si demuestran que el cliente…",
             "fuente": "Expansión"
           },
           {
-            "titulo": "REE prohíbe a las eléctricas parar sus centrales por mantenimiento ante el fuerte estrés del sistema",
-            "link": "https://cincodias.elpais.com/companias/2026-10-15/ree-prohibe-a-las-electricas-parar-sus-centrales-por-mantenimiento-ante-el-fuerte-estres-del-sistema.html",
-            "resumen": "El operador deniega decenas de solicitudes de paradas por mantenimiento para el próximo año y les emplaza a reprogramarlas. Red Eléctrica justifica el veto por el elevado número de paradas no programadas simultáneas",
+            "titulo": "El Gobierno defiende que el descuento fiscal a los carburantes se ha trasladado con rapidez a los surtidores",
+            "link": "https://elpais.com/economia/2026-10-16/el-gobierno-defiende-que-el-descuento-fiscal-a-los-carburantes-se-ha-trasladado-con-rapidez-a-los-surtidores.html",
+            "resumen": "El vicepresidente Carlos Cuerpo asegura que el paquete de ayudas ha conseguido reducir hasta siete décimas la inflación causada por el golpe energético",
             "fuente": "El País"
           },
           {
-            "titulo": "Ana Trias: \"La pasión y la obsesión en Puig son fundamentales, pero con disciplina financiera\"",
-            "link": "https://www.expansion.com/luxury-forum/2026/10/15/6ad09613468aeb92238b4596.html",
-            "resumen": "La directora de prestigio y marcas del grupo cotizado sitúa la creatividad y la capacidad de aportar \"algo distinto\" como la principal defensa de la empresa ante los retos del sector. Leer",
+            "titulo": "Unicaja negocia los últimos flecos para hacerse con WiZink",
+            "link": "https://www.expansion.com/empresas/banca/2026/10/16/6ad12838468aeb724e8b458a.html",
+            "resumen": "El Banco de España da su aval a aglutinar en un banco malo los créditos 'revolving' en litigiosidad, que quedan fuera de la operación. La entidad malagueña quiere crecer en financiación al consumo. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Funcas ve señales de ralentización en la economía española por la persistencia de la inflación",
-            "link": "https://elpais.com/economia/2026-10-15/funcas-ve-senales-de-ralentizacion-en-la-economia-espanola-por-la-persistencia-de-la-inflacion.html",
-            "resumen": "El servicio de estudios matiene que el PIB crecerá un 2,5% este año, pero rebaja su previsión hasta el 1,8% en 2027",
+            "titulo": "Canarias pide al Gobierno que solo puedan comprar vivienda quienes lleven 10 años residiendo en las islas",
+            "link": "https://elpais.com/economia/2026-10-16/canarias-pide-al-gobierno-que-solo-puedan-comprar-vivienda-quienes-lleven-10-anos-residiendo-en-las-islas.html",
+            "resumen": "El Gobierno de Clavijo, de Coalición Canaria, propone también que los ayuntamientos puedan limitar el alquiler turístico en determinadas zonas y restringir la compra a extranjeros de fuera de la UE",
             "fuente": "El País"
           }
         ]
@@ -77,6 +77,18 @@ const EDICION_MUNDO = {
       {
         "nombre": "Ciencia y Tecnología",
         "notas": [
+          {
+            "titulo": "El neandertal que murió atravesado por una lanza hace 75.000 años y que muestra cómo cuidaban de sus heridos y sus muertos",
+            "link": "https://elpais.com/ciencia/2026-10-15/el-neandertal-que-murio-atravesado-por-una-lanza-hace-75000-anos-y-que-muestra-como-cuidaban-de-sus-heridos-y-sus-muertos.html",
+            "resumen": "Sus restos han sido encontrados en la cueva que cambió la imagen tosca de la especie humana más cercana a la nuestra. “Se curó de esta lesión, cuidaron de él”, destaca una científica",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "De Lara Croft a Lucía Caminos: ¿por qué todavía molesta que una mujer sea protagonista de un videojuego?",
+            "link": "https://elpais.com/tecnologia/2026-10-16/de-lara-croft-a-lucia-caminos-por-que-todavia-molesta-que-una-mujer-sea-protagonista-de-un-videojuego.html",
+            "resumen": "La decisión de los creadores de GTA VI de dar un papel central a una mujer latina ha reavivado los comentarios sexistas de algunos jugadores",
+            "fuente": "El País"
+          },
           {
             "titulo": "Las autoridades del tiempo deciden que los relojes atómicos y los astronómicos vayan cada uno por su lado",
             "link": "https://elpais.com/ciencia/2026-10-15/las-autoridades-del-tiempo-deciden-que-los-relojes-atomicos-y-los-astronomicos-vayan-cada-uno-por-su-lado.html",
@@ -94,18 +106,6 @@ const EDICION_MUNDO = {
             "link": "https://elpais.com/sociedad/2026-10-15/asi-destrozo-la-covid-los-pulmones-de-los-fallecidos-en-la-pandemia-un-estudio-abre-la-puerta-a-nuevos-tratamientos-en-casos-graves.html",
             "resumen": "Una nueva técnica permite comprobar cómo el tejido sano se convierte en cicatrizado y anula la capacidad de ventilación de los pulmones",
             "fuente": "El País"
-          },
-          {
-            "titulo": "Los trabajadores europeos que entrenan las IA: “Ya sabía que me metía en unas condiciones que no eran las mejores”",
-            "link": "https://elpais.com/tecnologia/2026-10-15/los-trabajadores-europeos-que-entrenan-las-ia-ya-sabia-que-me-metia-en-unas-condiciones-que-no-eran-las-mejores.html",
-            "resumen": "Un nuevo estudio muestra cómo miles de jóvenes europeos dedican horas en la plataforma Outlier para mejorar el funcionamiento de los chatbots",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Anxo Sánchez, científico: “El 40% de los amigos que dices que lo son no se consideran amigos tuyos”",
-            "link": "https://elpais.com/ciencia/2026-10-15/anxo-sanchez-cientifico-el-40-de-los-amigos-que-dices-que-lo-son-no-se-consideran-amigos-tuyos.html",
-            "resumen": "Físico teórico y catedrático de Matemática Aplicada, Sánchez habla en EL PAÍS. “Deja de darle las gracias a la IA: se la pela”. “Es más fácil cambiar de opinión por amor que porque te convenzan”. ”La amistad son dos cosas: dedicación y…",
-            "fuente": "El País"
           }
         ]
       },
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Flick cambia de planes antes de viajar a Sevilla",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261015/1004239100/flick-cambia-planes-viajar-sevilla.html",
-            "resumen": "El FC Barcelona variará ligeramente el plan que tenía previsto de cara a este viernes. Inicialmente, estaba programado que el equipo se ejercitara por la mañana y posteriormente, sobre las 13 horas, Hansi Flick compareciera ante los…",
+            "titulo": "Flick no se alinea con Mourinho: \"Al equipo le digo que no hay excusas\"",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261016/1004239494/flick.html",
+            "resumen": "Hansi Flick afronta el atracón de partidos contra Betis, PSG y Real Madrid en sólo ocho días con la máxima ilusión y sin quejas a pesar del apretado calendario que cada campaña tiene tramos de alta exigencia. El técnico alemán se desmarcó…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "'Cinco en raya' goleador de un Gordon enrachado",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261015/1004238837/cinco-raya-goleador-gordon-enrachado.html",
-            "resumen": "Anyhony Gordon ha tenido que esperar más de lo previsto para marcar su primer gol en su primera temporada como jugador del Barça, pero fue descorchar la botella, lo hizo con su selección en el último parón, y desde entonces cuanta sus…",
+            "titulo": "Flick lo confirma: \"Raphinha y De Jong están disponibles\"",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261016/1004239487/flick-confirma-raphinha-jong-disponibles.html",
+            "resumen": "Antes de dar la lista de convocados esta tarde, justo antes de viajar a Sevilla para enfrentarse al Betis , Hansi Flick , técnico del FC Barcelona , confirmó que Raphinha y De Jong estarán en la lista. \"Están disponibles\", señaló.",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,16 +147,16 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "October 15, 2026",
-    "generada": "14:30",
+    "fecha": "October 16, 2026",
+    "generada": "14:22",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-            "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+            "titulo": "Zelensky says Ukraine has right to defend itself after Trump criticism",
+            "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+            "resumen": "EU leaders rally around Ukraine's leader after Donald Trump says he is \"more difficult to work with than Putin\".",
             "fuente": "BBC"
           },
           {
@@ -166,15 +166,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Why Russia Sees a Window to Bomb Ukraine Into Submission This Winter",
-            "link": "https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html",
-            "resumen": "Moscow is not winning on the battlefield. Instead, it is seizing an opening to inflict immense human suffering in Ukrainian cities.",
+            "titulo": "The Arab Kingmaker in Israel’s Election Who Wants a Partnership With Jews",
+            "link": "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html",
+            "resumen": "Mansour Abbas, a dentist-turned-lawmaker, helped oust Benjamin Netanyahu once before. Now, he and a Jewish ex-police commander have teamed up to try to do it again.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-            "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Rescue officials fear more people are buried under the debris in the north-western city of Peshawar.",
+            "titulo": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+            "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
             "fuente": "BBC"
           },
           {
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
-            "link": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
-            "resumen": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
+            "titulo": "Banks expect to be hit with higher taxes in Budget",
+            "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "‘People’s dignity, and democracy, is at stake’: meet the economist ditching ideology for reality",
+            "link": "https://www.theguardian.com/business/2026/oct/16/isabella-weber-anti-fascist-economics",
+            "resumen": "Exclusive: Isabella Weber prescribes a common-sense solution to poverty, inequality and fascism – making life’s essentials affordable for all The trouble with economists, Isabella Weber believes, is they do not behave like dentists. They…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "You’ve Found a Long-Lost CD. Can You Still Get Your Money?",
+            "link": "https://www.nytimes.com/2026/10/16/your-money/cd-bank-lost-money.html",
+            "resumen": "The bank was required to hold the certificate of deposit only for a limited time, and now has no record of the money. Experts offer tips to avoid having this happen to you.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Watch: Did Tesla really just unveil a flying car?",
+            "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
             "fuente": "BBC"
           },
           {
             "titulo": "Key US voters say economy is getting worse ahead of midterms, exclusive poll finds",
             "link": "https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll",
-            "resumen": "Nearly 61% believe country is in recession and 65% of independents say economy is worse, according to new Harris poll Our reporters answer your questions about the US economy and the midterm elections With the midterm elections less than…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "Midterms Could Shift Focus of Epstein Abuse to Banks’ Role",
-            "link": "https://www.nytimes.com/2026/10/15/business/epstein-banks-midterm-elections.html",
-            "resumen": "With an eye on retaking control of Congress, Democrats are introducing a bill that would hold banks accountable for their handling of Jeffrey Epstein’s finances.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
-            "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-            "resumen": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Tech market sell-off deepens amid fears over US inflation and AI debt",
-            "link": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
-            "resumen": "Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook markets Business news – live updates Larry Elliott: the global economy is muddling through. But a storm is coming An accelerating…",
+            "resumen": "Nearly 61% believe country is in recession and 65% of independents say economy is worse, according to new Harris poll Tell us: what is your personal ‘recession indicator’? With the midterm elections less than three weeks away, key voting…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Sheep are disappearing from our hills - and our dinner plates",
-            "link": "https://www.bbc.co.uk/news/articles/cgrzd72wp5zo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Have we have passed \"peak sheep\" in the UK?",
+            "titulo": "Living with a stink? Technology might help",
+            "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "How an accelerating Earth led experts to adopt the leap hour",
+            "link": "https://www.theguardian.com/science/2026/oct/15/times-up-for-the-leap-second-as-scientists-swap-it-for-the-leap-hour",
+            "resumen": "International delegates agree leap second no longer tenable, but first leap hour not likely to happen for thousands of years After decades of discussion, quibbling and worrying about clocks in computer systems, the world’s official…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "Citizen Science Groups Grapple With the Rise of A.I. Slop",
+            "link": "https://www.nytimes.com/2026/10/16/science/citizen-science-ai-slop.html",
+            "resumen": "Facing a flood of A.I. slop, groups bent on democratizing science create new checks and balances.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Severe drought declared and hosepipe bans in force - is your area affected?",
+            "link": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Parts of southern England have entered \"severe drought\", while about 30 million people are under hosepipe ban.",
             "fuente": "BBC"
           },
           {
             "titulo": "Is your boss watching you? The rise of AI surveillance at work - video",
             "link": "https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video",
             "resumen": "Workers have always been monitored by their bosses, first through output targets, and then via computer software labelled ‘bossware’. But AI is transforming the capabilities of these systems, processing huge volumes of data to provide…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "Inside the Plague Research Labs at the Heart of a Russian Mystery",
-            "link": "https://www.nytimes.com/2026/10/15/science/russia-plague-laboratory-mystery.html",
-            "resumen": "A Russian researcher, who died from an unknown illness, worked at a remote anti-plague facility. Few foreigners have visited these labs, which dot the former Soviet states, and are shrouded in secrecy.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-            "link": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Could AI ‘change the stakes’ in the development of bioweapons?",
-            "link": "https://www.theguardian.com/technology/2026/oct/14/could-ai-change-the-stakes-in-the-development-of-bioweapons",
-            "resumen": "Experts say the technology could help terrorists and nation states with production but that significant hurdles remain In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5, warned…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Infantino apologises to Fifa Council - but told he's still not fit to lead",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmd7qgj3zwero?at_medium=RSS&at_campaign=rss",
-            "resumen": "President Gianni Infantino apologises to the Fifa Council for his World Cup sell-off plan - but is asked to go further.",
+            "titulo": "'I am telling you the truth' - Carrick on Martinez fallout",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cm4g189leelno?at_medium=RSS&at_campaign=rss",
+            "resumen": "Manchester United boss Michael Carrick says he is telling the truth about the club moving on from Lisandro Martinez's explosive post-match interview.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Bueckers broadsides to Lady Magic’s spice: the greatest trash talkers in WNBA history",
-            "link": "https://www.theguardian.com/sport/2026/oct/15/wnba-greastest-trash-talkers",
-            "resumen": "With the season approaching its climax, we look at the players who have perfected the art of smack talking through the years Today, even the most casual of WNBA fans have watched some of the league’s biggest stars talking trash on the…",
+            "titulo": "Hall of Famers v bunch of gamers: the Dodgers’ exit proves money can’t buy everything",
+            "link": "https://www.theguardian.com/sport/2026/oct/16/los-angeles-dodgers-milwaukee-brewers-nlcs-payroll-world-series",
+            "resumen": "The Brewers turned LA’s stars into ghosts during their four-game NLCS sweep, destroying the ‘team that destroyed baseball’ and revealing the sport’s hard truth Milwaukee Brewers manager Pat Murphy had just watched his club dismantle Los…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Man Utd a circus after Martinez comments - Keane",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c3n04gy12r91o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Lisandro Martinez's outburst shows Manchester United are in \"chaos\", says former captain Roy Keane.",
+            "titulo": "The Olympic sprinter now bedbound for 22 hours a day",
+            "link": "https://www.bbc.co.uk/sport/athletics/articles/crd6dj26v4e4o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Beth Dobbin ran for Great Britain at the Tokyo Olympics in 2021. Five years on, she is largely bedbound after being diagnosed with ME, a devastating illness for which there is no cure.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Brewers go one win from World Series as back-to-back homers sink Dodgers",
-            "link": "https://www.theguardian.com/sport/2026/oct/14/brewers-dodgers-nlcs-game-3-bauers-mitchell-home-runs",
-            "resumen": "Milwaukee rally past Los Angeles for 3-0 NLCS lead Bauers and Mitchell homer back-to-back off Blake Snell Defending champions face elimination on Thursday Jake Bauers and Garrett Mitchell hit back-to-back home runs off Blake Snell to…",
+            "titulo": "WNBA finals 2026 predictions: Is Angel Reese about to win a Dream title?",
+            "link": "https://www.theguardian.com/sport/2026/oct/16/wnba-finals-2026-predictions-atlanta-dream-golden-state-valkyries",
+            "resumen": "The Valkyries and Dream tip off the WNBA finals on Saturday at Ballhalla. Our writers give their verdicts with a first-time champion set to be crowned … of big dreams, excellent defense and smart roster construction. This franchise aimed…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Australia edge New Zealand in epic World Cup opener",
-            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/crn8w411gj1yo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Jack Bostock scores a hat-trick of tries as Australia fight back to win the opening game of the Rugby League World Cup against New Zealand.",
+            "titulo": "NRL gap a factor in France's heavy defeat by Samoa, says boss",
+            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c50me81r74n7o?at_medium=RSS&at_campaign=rss",
+            "resumen": "France boss Laurent Frayssinous suggests the gap between the NRL and Super League was a huge factor in their 78-4 defeat by Samoa at the Men's Rugby League World Cup.",
             "fuente": "BBC"
           }
         ]
