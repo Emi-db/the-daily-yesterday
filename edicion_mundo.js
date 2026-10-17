@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "16 de octubre de 2026",
-    "generada": "14:22",
+    "fecha": "17 de octubre de 2026",
+    "generada": "13:19",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Cómo los centros de datos de IA se convirtieron en un elemento clave en la batalla política en EE.UU.",
-            "link": "https://www.bbc.com/mundo/articles/c64g12190082o?at_medium=RSS&at_campaign=rss",
-            "resumen": "La oposición a las instalaciones se extiende por el país y los políticos toman partido en un asunto que gana protagonismo en las inminentes elecciones al Congreso.",
+            "titulo": "Por qué EE.UU. vuelve al pelotón de fusilamiento para aplicar la pena de muerte",
+            "link": "https://www.bbc.com/mundo/articles/cq70pz32x83do?at_medium=RSS&at_campaign=rss",
+            "resumen": "La ejecución de Nidal Hasan, el pistolero de Fort Hood, sería la primera vez que el Ejército de Estados Unidos utilizaría un pelotón de fusilamiento desde 1945.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Trump regala a Putin un nuevo balón de oxígeno con el acuerdo sobre el diésel",
-            "link": "https://elpais.com/internacional/2026-10-16/trump-regala-a-putin-un-nuevo-balon-de-oxigeno-con-el-acuerdo-sobre-el-diesel.html",
-            "resumen": "El pacto, que apenas tendrá impacto en los precios, dinamita la posición común de Occidente y afloja la soga financiera al Kremlin",
+            "titulo": "Trump suspende sanciones contra Rusia en pleno giro para que Putin le ayude a bajar el precio de la energía antes de las elecciones",
+            "link": "https://elpais.com/us/2026-10-17/trump-suspende-temporalmente-sanciones-contra-rusia-por-interes-nacional.html",
+            "resumen": "El republicano justifica la medida, que llega una semana después del acuerdo para comprar diésel a Moscú, en el “interés nacional” de Estados Unidos",
             "fuente": "El País"
           },
           {
-            "titulo": "¿Puede Costa Rica frenar al narco con una megacárcel al estilo Bukele?",
-            "link": "https://www.france24.com/es/programas/el-debate/20261016-puede-costa-rica-frenar-al-narco-con-una-megac%C3%A1rcel-al-estilo-bukele",
-            "resumen": "Costa Rica apuesta por el modelo penitenciario de Nayib Bukele para hacer frente al avance del crimen organizado. La presidenta Laura Fernández inauguró el Centro de Alta Contención contra el Crimen Organizado (CACCO), una megacárcel con…",
+            "titulo": "Katie Zacharia deja cargo de portavoz de la Casa Blanca tras críticas a su trayectoria profesional",
+            "link": "https://www.france24.com/es/video/20261017-katie-zacharia-deja-cargo-de-portavoz-de-la-casa-blanca-tras-cr%C3%ADticas-a-su-trayectoria-profesional",
+            "resumen": "Con apenas una semana en el cargo, la secretaria de prensa de la Casa Blanca, Katie Zacharia, deja su puesto. Su salida la había dejado entrever el presidente estadounidense Donald Trump, quien reveló haber conversado con la vocera para…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Por qué el internet de Starlink es clave en la guerra de drones de Ucrania contra Rusia",
-            "link": "https://www.bbc.com/mundo/articles/cw62yve9vy93o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Starlink es considerada la \"columna vertebral de las comunicaciones militares en Ucrania\", proporcionando internet de alta velocidad vital a las fuerzas armadas en todo el país.",
+            "titulo": "Análisis BBC: Katie Zacharia fue arrojada a un torbellino y falló en un momento crítico para Trump",
+            "link": "https://www.bbc.com/mundo/articles/cj040dx1yx0vo?at_medium=RSS&at_campaign=rss",
+            "resumen": "La Casa Blanca se enfrenta a una adversidad creciente, escribe Anthony Zurcher de la BBC, a semanas de las cruciales elecciones de mitad de mandato.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Ucrania necesita usar los satélites de Starlink en la guerra, pero el Pentágono tiene el control",
-            "link": "https://elpais.com/internacional/2026-10-16/ucrania-necesita-usar-los-satelites-de-starlink-en-la-guerra-pero-el-pentagono-tiene-el-control.html",
-            "resumen": "La información del sistema de comunicación de la empresa de Elon Musk permite a las fuerzas ucranias ser más certeras en las operaciones de interceptación de proyectiles rusos y en ataques en el frente. No hay alternativa europea semejante",
+            "titulo": "Kathleen Belew, historiadora: “Trump utiliza y se beneficia de los supremacistas blancos”",
+            "link": "https://elpais.com/internacional/2026-10-17/kathleen-belew-historiadora-trump-utiliza-y-se-beneficia-de-los-supremacistas-blancos.html",
+            "resumen": "La especialista advierte de los peligros que entraña abrir las puertas de la política a grupos racistas y violentos, un movimiento que gana terreno en todo el mundo",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Trabajo prepara una subida del salario mínimo antes de las elecciones que rondará el 5%",
-            "link": "https://elpais.com/economia/2026-10-16/trabajo-prepara-una-subida-del-salario-minimo-antes-de-las-elecciones-que-rondara-el-5.html",
-            "resumen": "Los sindicatos piden un incremento del 7% y la patronal critica las implicaciones políticas que tendría la medida, que el Gobierno adoptará cuando tenga el informe de los expertos",
+            "titulo": "Marina Echebarría, consejera de Competencia: “Me ha tocado ser un símbolo de que las barreras se rompen”",
+            "link": "https://elpais.com/economia/2026-10-17/marina-echebarria-consejera-de-competencia-me-ha-tocado-ser-un-simbolo-de-que-las-barreras-se-rompen.html",
+            "resumen": "La primera persona trans que se sienta en el consejo de la CNMC recuerda que el organismo “no es decorativo, sino que influye en cuestiones clave”",
             "fuente": "El País"
           },
           {
-            "titulo": "Los bancos, obligados a reintegrar pagos no autorizados aunque se trate de una negligencia del cliente",
-            "link": "https://www.expansion.com/economia/2026/10/15/bancos-obligados-reintegrar-pagos-autorizados-trate-negligencia-cliente.html",
-            "resumen": "Una sentencia del TJUE refuerza la protección al consumidor y obliga a los bancos y otras entidades de pago a devolver los importes de operaciones no autorizadas. Más tarde podrían solicitar el reembolso si demuestran que el cliente…",
+            "titulo": "Volkswagen, Renault y Stellantis resucitan a sus 'clásicos' para crecer",
+            "link": "https://www.expansion.com/empresas/motor/2026/10/17/6ad245af468aeb2d038b456e.html",
+            "resumen": "Los grandes fabricantes europeos del automóvil resucitan modelos legendarios o utilizan nombres reconocidos como estrategia para impulsar las ventas de sus vehículos eléctricos ante el empuje chino. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "El Gobierno defiende que el descuento fiscal a los carburantes se ha trasladado con rapidez a los surtidores",
-            "link": "https://elpais.com/economia/2026-10-16/el-gobierno-defiende-que-el-descuento-fiscal-a-los-carburantes-se-ha-trasladado-con-rapidez-a-los-surtidores.html",
-            "resumen": "El vicepresidente Carlos Cuerpo asegura que el paquete de ayudas ha conseguido reducir hasta siete décimas la inflación causada por el golpe energético",
+            "titulo": "Las empresas del Ibex lideran la creación de empleo entre las grandes cotizadas europeas",
+            "link": "https://elpais.com/economia/2026-10-17/las-empresas-del-ibex-lideran-la-creacion-de-empleo-entre-las-grandes-cotizadas-europeas.html",
+            "resumen": "Las compañías del índice español aumentaron sus plantillas un 0,9% frente a los recortes en Alemania o Francia",
             "fuente": "El País"
           },
           {
-            "titulo": "Unicaja negocia los últimos flecos para hacerse con WiZink",
-            "link": "https://www.expansion.com/empresas/banca/2026/10/16/6ad12838468aeb724e8b458a.html",
-            "resumen": "El Banco de España da su aval a aglutinar en un banco malo los créditos 'revolving' en litigiosidad, que quedan fuera de la operación. La entidad malagueña quiere crecer en financiación al consumo. Leer",
+            "titulo": "García San Miguel (Abenójar Tungsten): \"Vamos a tener en España la mayor mina de wolframio del mundo tras China\"",
+            "link": "https://www.expansion.com/empresas/2026/10/17/6ad20ecb468aebc92b8b457c.html",
+            "resumen": "La empresa que desarrolla Mina El Moto, en Ciudad Real, se lanza a la Bolsa de Londres para captar cerca de 200 millones de euros. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Canarias pide al Gobierno que solo puedan comprar vivienda quienes lleven 10 años residiendo en las islas",
-            "link": "https://elpais.com/economia/2026-10-16/canarias-pide-al-gobierno-que-solo-puedan-comprar-vivienda-quienes-lleven-10-anos-residiendo-en-las-islas.html",
-            "resumen": "El Gobierno de Clavijo, de Coalición Canaria, propone también que los ayuntamientos puedan limitar el alquiler turístico en determinadas zonas y restringir la compra a extranjeros de fuera de la UE",
+            "titulo": "El disparate económico francés",
+            "link": "https://elpais.com/economia/2026-10-17/el-disparate-economico-frances.html",
+            "resumen": "El coste de la deuda se incrementa fruto de unas finanzas públicas desequilibradas y un crecimiento económico estancado",
             "fuente": "El País"
           }
         ]
@@ -78,9 +78,9 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "El neandertal que murió atravesado por una lanza hace 75.000 años y que muestra cómo cuidaban de sus heridos y sus muertos",
-            "link": "https://elpais.com/ciencia/2026-10-15/el-neandertal-que-murio-atravesado-por-una-lanza-hace-75000-anos-y-que-muestra-como-cuidaban-de-sus-heridos-y-sus-muertos.html",
-            "resumen": "Sus restos han sido encontrados en la cueva que cambió la imagen tosca de la especie humana más cercana a la nuestra. “Se curó de esta lesión, cuidaron de él”, destaca una científica",
+            "titulo": "No todos los ultraprocesados son igual de malos para la salud: “Esta clasificación puede ocultar diferencias en los nutrientes”",
+            "link": "https://elpais.com/salud-y-bienestar/2026-10-17/no-todos-los-ultraprocesados-son-igual-de-malos-para-la-salud-esta-clasificacion-puede-ocultar-diferencias-en-los-nutrientes.html",
+            "resumen": "Un estudio encuentra que el consumo de cereales integrales se asocia con menos cáncer de colon y la ingesta de carne procesada, con más",
             "fuente": "El País"
           },
           {
@@ -90,9 +90,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Las autoridades del tiempo deciden que los relojes atómicos y los astronómicos vayan cada uno por su lado",
-            "link": "https://elpais.com/ciencia/2026-10-15/las-autoridades-del-tiempo-deciden-que-los-relojes-atomicos-y-los-astronomicos-vayan-cada-uno-por-su-lado.html",
-            "resumen": "A partir del año que viene dejará de ajustarse el segundo bisiesto. El desajuste entre los relojes atómicos y la rotación irregular de la Tierra se solventará cuando la diferencia se acerque a una hora dentro de varios siglos",
+            "titulo": "Saul Newman: “Si eres Elon Musk y lo has comprado todo, la única cosa que nos queda por venderte es escapar de la muerte”",
+            "link": "https://elpais.com/ciencia/2026-10-17/saul-newman-si-eres-elon-musk-y-lo-has-comprado-todo-la-unica-cosa-que-nos-queda-por-venderte-es-escapar-de-la-muerte.html",
+            "resumen": "El investigador cuestiona la fiabilidad de los datos sobre longevidad y denuncia los conflictos de intereses detrás de las “zonas azules”, donde la gente vive más",
             "fuente": "El País"
           },
           {
@@ -102,9 +102,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Así destrozó la covid los pulmones de los fallecidos en la pandemia: un estudio abre la puerta a nuevos tratamientos en casos graves",
-            "link": "https://elpais.com/sociedad/2026-10-15/asi-destrozo-la-covid-los-pulmones-de-los-fallecidos-en-la-pandemia-un-estudio-abre-la-puerta-a-nuevos-tratamientos-en-casos-graves.html",
-            "resumen": "Una nueva técnica permite comprobar cómo el tejido sano se convierte en cicatrizado y anula la capacidad de ventilación de los pulmones",
+            "titulo": "El neandertal que murió atravesado por una lanza hace 75.000 años y que muestra cómo cuidaban de sus heridos y sus muertos",
+            "link": "https://elpais.com/ciencia/2026-10-15/el-neandertal-que-murio-atravesado-por-una-lanza-hace-75000-anos-y-que-muestra-como-cuidaban-de-sus-heridos-y-sus-muertos.html",
+            "resumen": "Sus restos han sido encontrados en la cueva que cambió la imagen tosca de la especie humana más cercana a la nuestra. “Se curó de esta lesión, cuidaron de él”, destaca una científica",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Flick no se alinea con Mourinho: \"Al equipo le digo que no hay excusas\"",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261016/1004239494/flick.html",
-            "resumen": "Hansi Flick afronta el atracón de partidos contra Betis, PSG y Real Madrid en sólo ocho días con la máxima ilusión y sin quejas a pesar del apretado calendario que cada campaña tiene tramos de alta exigencia. El técnico alemán se desmarcó…",
+            "titulo": "Larguero de Cabrera para romper el dominio rojiblanco",
+            "link": "https://www.mundodeportivo.com/futbol/laliga/20261017/1004237820/espanyol-atletico-madrid-directo-laliga-ea-sports.html",
+            "resumen": "",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Flick lo confirma: \"Raphinha y De Jong están disponibles\"",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261016/1004239487/flick-confirma-raphinha-jong-disponibles.html",
-            "resumen": "Antes de dar la lista de convocados esta tarde, justo antes de viajar a Sevilla para enfrentarse al Betis , Hansi Flick , técnico del FC Barcelona , confirmó que Raphinha y De Jong estarán en la lista. \"Están disponibles\", señaló.",
+            "titulo": "Laporta carga contra el Madrid: \"Quieren reventarlo todo\"",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261017/1004239795/arenga-laporta.html",
+            "resumen": "El FC Barcelona se mide esta tarde (18.30 horas/DAZN) al Real Betis con el objetivo de sumar una nueva victoria en este inicio de curso, un triunfo que también reforzaría la buena dinámica del equipo antes de una semana marcada en rojo en…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,16 +147,16 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "October 16, 2026",
-    "generada": "14:22",
+    "fecha": "October 17, 2026",
+    "generada": "13:19",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Zelensky says Ukraine has right to defend itself after Trump criticism",
-            "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-            "resumen": "EU leaders rally around Ukraine's leader after Donald Trump says he is \"more difficult to work with than Putin\".",
+            "titulo": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+            "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
             "fuente": "BBC"
           },
           {
@@ -166,15 +166,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "The Arab Kingmaker in Israel’s Election Who Wants a Partnership With Jews",
-            "link": "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html",
-            "resumen": "Mansour Abbas, a dentist-turned-lawmaker, helped oust Benjamin Netanyahu once before. Now, he and a Jewish ex-police commander have teamed up to try to do it again.",
+            "titulo": "How Bally Bagayoko, a 53-Year-Old Mayor, Became the Face of France’s Youth Protests",
+            "link": "https://www.nytimes.com/2026/10/17/france-protests-mayor-bally-bagayoko.html",
+            "resumen": "Bally Bagayoko, the mayor of a working-class suburb near Paris, has been a regular presence at student demonstrations, prompting both applause and condemnation.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
-            "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
+            "titulo": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+            "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
             "fuente": "BBC"
           },
           {
@@ -201,9 +201,9 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "You’ve Found a Long-Lost CD. Can You Still Get Your Money?",
-            "link": "https://www.nytimes.com/2026/10/16/your-money/cd-bank-lost-money.html",
-            "resumen": "The bank was required to hold the certificate of deposit only for a limited time, and now has no record of the money. Experts offer tips to avoid having this happen to you.",
+            "titulo": "States Are Stepping Up as the New Antitrust Enforcers",
+            "link": "https://www.nytimes.com/2026/10/17/business/dealbook/state-antitrust-enforcement.html",
+            "resumen": "With the Trump administration taking a relaxed approach, attorneys general around the country have ramped up their scrutiny of mergers.",
             "fuente": "N.Y. Times"
           },
           {
@@ -224,9 +224,9 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Living with a stink? Technology might help",
-            "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+            "titulo": "Avian flu and costs among reasons for loss of captive birds at Castle Espie",
+            "link": "https://www.bbc.co.uk/news/articles/c6m24e1ln130o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Difficulties in transporting animals since Brexit has contributed to the decline in the number of captive birds.",
             "fuente": "BBC"
           },
           {
@@ -236,15 +236,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Citizen Science Groups Grapple With the Rise of A.I. Slop",
-            "link": "https://www.nytimes.com/2026/10/16/science/citizen-science-ai-slop.html",
-            "resumen": "Facing a flood of A.I. slop, groups bent on democratizing science create new checks and balances.",
+            "titulo": "For a Mere $2 Million, You Could Own Three Books That Unlocked the Universe",
+            "link": "https://www.nytimes.com/2026/10/17/science/sothebys-science-books-auction.html",
+            "resumen": "At Sotheby’s, a feast of rare science books includes volumes from Copernicus, Galileo and Newton that together revolutionized human understanding of the cosmos.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Severe drought declared and hosepipe bans in force - is your area affected?",
-            "link": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Parts of southern England have entered \"severe drought\", while about 30 million people are under hosepipe ban.",
+            "titulo": "Brazil sees record fall in Amazon deforestation as key election looms",
+            "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
             "fuente": "BBC"
           },
           {
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "'I am telling you the truth' - Carrick on Martinez fallout",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cm4g189leelno?at_medium=RSS&at_campaign=rss",
-            "resumen": "Manchester United boss Michael Carrick says he is telling the truth about the club moving on from Lisandro Martinez's explosive post-match interview.",
+            "titulo": "England stunned by Tonga in World Cup opener",
+            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c83vqd73k0xlo?at_medium=RSS&at_campaign=rss",
+            "resumen": "England 's men fall to defeat in their Rugby League World Cup opener as Tonga take their chances in Perth.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Hall of Famers v bunch of gamers: the Dodgers’ exit proves money can’t buy everything",
-            "link": "https://www.theguardian.com/sport/2026/oct/16/los-angeles-dodgers-milwaukee-brewers-nlcs-payroll-world-series",
-            "resumen": "The Brewers turned LA’s stars into ghosts during their four-game NLCS sweep, destroying the ‘team that destroyed baseball’ and revealing the sport’s hard truth Milwaukee Brewers manager Pat Murphy had just watched his club dismantle Los…",
+            "titulo": "Everton v Chelsea: Premier League – live",
+            "link": "https://www.theguardian.com/football/live/2026/oct/17/everton-v-chelsea-premier-league-live",
+            "resumen": "⚽ Premier League updates from the 12.30pm BST kick-off ⚽ Live scoreboard | Tables | Top scorers | Email Scott Everton kick off, and launch it long. Martinez claims the punt. Before the kick-off, everyone takes the knee. It’s the first of…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "The Olympic sprinter now bedbound for 22 hours a day",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/crd6dj26v4e4o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Beth Dobbin ran for Great Britain at the Tokyo Olympics in 2021. Five years on, she is largely bedbound after being diagnosed with ME, a devastating illness for which there is no cure.",
+            "titulo": "England's 41-match unbeaten run ended by Canada",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cknv0m61l9e4o?at_medium=RSS&at_campaign=rss",
+            "resumen": "England's 41-match unbeaten streak ends in dramatic fashion as Shoshanah Seumanutafa's late try hands Canada a thrilling 24-21 victory in Toronto.",
             "fuente": "BBC"
           },
           {
-            "titulo": "WNBA finals 2026 predictions: Is Angel Reese about to win a Dream title?",
-            "link": "https://www.theguardian.com/sport/2026/oct/16/wnba-finals-2026-predictions-atlanta-dream-golden-state-valkyries",
-            "resumen": "The Valkyries and Dream tip off the WNBA finals on Saturday at Ballhalla. Our writers give their verdicts with a first-time champion set to be crowned … of big dreams, excellent defense and smart roster construction. This franchise aimed…",
+            "titulo": "The ESPN producer who quit over gambling – and the stories she says went untold",
+            "link": "https://www.theguardian.com/sport/2026/oct/17/espn-producer-nicole-noren-sports-betting-gambling-investigations",
+            "resumen": "Nicole Noren says ESPN sidelined investigations into sports betting companies as gambling partnerships reshaped the network’s priorities Earlier this week, investigative journalist Nicole Noren did something almost impossible for someone…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "NRL gap a factor in France's heavy defeat by Samoa, says boss",
-            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c50me81r74n7o?at_medium=RSS&at_campaign=rss",
-            "resumen": "France boss Laurent Frayssinous suggests the gap between the NRL and Super League was a huge factor in their 78-4 defeat by Samoa at the Men's Rugby League World Cup.",
+            "titulo": "Dubois v Wardley 2 - heavyweight title fight predictions",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/cwz0vdmyvrx8o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Figures from the boxing world give their predictions for Saturday's heavyweight world title rematch between Fabio Wardley and Daniel Dubois.",
             "fuente": "BBC"
           }
         ]

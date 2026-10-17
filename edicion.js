@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "16 de octubre de 2026",
-  "generada": "14:22",
+  "fecha": "17 de octubre de 2026",
+  "generada": "13:19",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "El juez Lijo volvió a procesar a Diego Spagnuolo por una segunda ruta de coimas en la Agencia de Discapacidad",
-          "link": "https://www.clarin.com/politica/juez-lijo-volvio-procesar-diego-spagnuolo-segunda-ruta-coimas-agencia-discapacidad_0_DZfaTCN3Ki.html",
-          "resumen": "Aceptó el pedido del fiscal Franco Picardi sobre la participación del ex titular de la Agencia de Discapacidad en otro tramo de la investigación por corrupción en ese organismo.",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: tras su visita a EE.UU., el Presidente ya prepara otro viaje a España",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-visita-eeuu-presidente-prepara-viaje-espana_0_we2ZpxlEVB.html",
+          "resumen": "El mandatario viajará al país europeo en el marco de la previa de las elecciones presidenciales anticipadas, en las que apoyará a partidos de derecha como por ejemplo VOX, de Santiago Abascal.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El juez Lijo ordenó un exhorto a Suiza por transferencias de US$190.000 de la FIFA a Claudio “Chiqui” Tapia",
-          "link": "https://www.lanacion.com.ar/politica/el-juez-lijo-ordeno-un-exhorto-a-suiza-por-transferencias-de-us190000-de-la-fifa-a-claudio-chiqui-nid16102026/",
-          "resumen": "Levantó el secreto fiscal y bancario de su exesposa, Paola Moyano, hija del dirigente camionero; lo había pedido el fiscal Pollicita",
+          "titulo": "Los intendentes del PJ que afrontarán un recambio inédito si es que la ley de reelecciones no se revierte",
+          "link": "https://www.lanacion.com.ar/politica/los-intendentes-del-pj-que-afrontaran-un-recambio-inedito-si-es-que-la-ley-de-reelecciones-no-se-nid17102026/",
+          "resumen": "Si la Legislatura bonaerense no da marcha atrás con las limitaciones, varios históricos del peronismo deberán buscar un sucesor para 2027",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La Iglesia mantiene los preparativos de la visita de León XIV: ya reunió donaciones por más de USD 3,5 millones",
-          "link": "https://www.infobae.com/politica/2026/10/16/la-iglesia-mantiene-los-preparativos-de-la-visita-de-leon-xiv-ya-reunio-donaciones-por-mas-de-usd-35-millones/",
-          "resumen": "Aunque el viaje sigue en duda por la salud del Pontífice, la organización continúa recibiendo aportes para financiar su visita, incluso si debe reprogramarse. Según fuentes eclesiásticas, los fondos reunidos representan cerca del 60% del…",
+          "titulo": "Un ministro chileno tildó de \"loco\" a Milei y tuvo que pedir disculpas tras las críticas de su propio espacio político",
+          "link": "https://www.infobae.com/politica/2026/10/17/un-ministro-chileno-tildo-de-loco-a-milei-y-tuvo-que-pedir-disculpas-tras-las-criticas-de-su-propio-espacio-politico/",
+          "resumen": "Iván Poduje, a cargo del área de Vivienda, cuestionó al mandatario argentino durante un foro empresarial en Santiago, lo que generó un rápido malestar en el oficialismo y obligó a Kast a intervenir desde Bolivia",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Corrupción en la AFA: llegó a la Corte Suprema la causa por la mansión de Pilar y definirá quién investiga el caso",
-          "link": "https://www.clarin.com/politica/corrupcion-afa-llego-corte-suprema-causa-mansion-pilar-definira-investiga-caso_0_u9SDL14b95.html",
-          "resumen": "La Fiscalía llevó al máximo tribunal la discusión sobre en qué juzgado debe investigarse el presunto lavado de dinero en la compra de la propiedad que se le atribuye al tesorero Pablo Toviggino.",
+          "titulo": "“Contame los votos”: quién es quién en la pelea por la reforma electoral que divide a la mesa política de Milei",
+          "link": "https://www.clarin.com/politica/contame-votos-pelea-reforma-electoral-divide-mesa-politica-milei_0_YEsCYmYSd0.html",
+          "resumen": "Santilli asegura tener 34 de los 37 votos, pero Bullrich lo duda. Unos quieren cerrar acuerdos ya con los gobernadores; los Menem prefieren esperar. Karina Milei todavía no define.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: el FMI espera una “aceleración muy positiva de crecimiento económico para 2027″",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-fmi-espera-una-aceleracion-muy-positiva-de-crecimiento-nid16102026/",
-          "resumen": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "titulo": "La crisis del mercado laboral detrás de la revolución del monotributo",
+          "link": "https://www.lanacion.com.ar/politica/la-crisis-del-mercado-laboral-detras-de-la-revolucion-del-monotributo-nid17102026/",
+          "resumen": "El Gobierno relativiza las estadísticas sobre la caída del empleo registrado con el argumento de que subió la informalidad y el cuentapropismo; la Secretaría de Trabajo recortó el 70% de su personal y pierde influencia",
           "fuente": "La Nación"
         }
       ]
@@ -42,34 +42,34 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "El Despertar Verde de Australia",
-          "link": "https://www.clarin.com/rural/despertar-verde-australia_0_sba4tnxpjV.html",
-          "resumen": "La \"Argentina del Pacífico\" entró en punto de inflexión histórico en su política energética, con una ambiciosa transformación industrial. Un fondo soberano de 1.100 millones de dólares australianos acelerará el desarrollo de…",
+          "titulo": "Euro hoy en Panamá: precio y cotización de la divisa este sábado 17 de octubre de 2026",
+          "link": "https://www.clarin.com/economia/euro-hoy-en-panama-precio-y-cotizacion-de-la-divisa-este-sabado-17-de-octubre-de-2026_0_3OpEfbLLmD.html",
+          "resumen": "Mirá la cotización del euro en Panamá, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El FMI prevé una aceleración de la economía argentina, pese a haber reducido su expectativa de crecimiento para 2026",
-          "link": "https://www.lanacion.com.ar/economia/el-fmi-ratifico-su-confianza-en-el-crecimiento-economico-de-la-argentina-pero-advirtio-sobre-el-nid16102026/",
-          "resumen": "En una conferencia de prensa sobre el Hemisferio Occidental, en Bangkok, referentes del organismo internacional analizaron la coyuntura del país de cara al próximo año",
+          "titulo": "Por qué la soja es la Cenicienta del sistema y la Argentina no aprovecha una tendencia favorable",
+          "link": "https://www.lanacion.com.ar/economia/campo/por-que-la-soja-es-la-cenicienta-del-sistema-y-la-argentina-no-aprovecha-una-tendencia-favorable-nid17102026/",
+          "resumen": "La oleaginosa mantiene una elevada demanda global, pero hay aspectos que deberían ser corregidos para responder a ese requerimiento",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El Banco Mundial apunta a quintuplicar la financiación para minerales críticos en los próximos cinco años",
-          "link": "https://www.ambito.com/economia/el-banco-mundial-apunta-quintuplicar-la-financiacion-minerales-criticos-los-proximos-cinco-anos-n6334518",
-          "resumen": "El nuevo plan del organismo para metales y minerales incluye destinar u$s19.000 millones a la financiación de minerales críticos entre los ejercicios fiscales 2026 y 2030. La iniciativa responde a la presión de potencias como EEUU para…",
+          "titulo": "¿Qué banco tiene la tasa más baja para créditos hipotecarios en octubre 2026?",
+          "link": "https://www.ambito.com/economia/que-banco-tiene-la-tasa-mas-baja-creditos-hipotecarios-octubre-2026-n6334271",
+          "resumen": "Encontrar una tasa baja es importante, pero también hay que ver si se cumplen los requisitos para acceder a las mejores condiciones.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo, minuto a minuto, este 16 de octubre",
-          "link": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-minuto-minuto-16-octubre_0_WJkewZnaYr.html",
-          "resumen": "El precio del dólar oficial abrió sin cambios este viernes a $ 1.530 para la venta en el Banco Nación. En tanto, el dólar blue lo hará a $ 1.545 en el mercado informal de las cuevas de la City porteña.",
-          "fuente": "Clarín"
+          "titulo": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 17 de octubre",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-17-de-octubre-nid17102026/",
+          "resumen": "La cotización de la moneda estadounidense se mantiene igual que el último día hábil; cómo fue el comportamiento de la divisa informal y los dólares financieros",
+          "fuente": "La Nación"
         },
         {
-          "titulo": "Foco en los más vulnerables: el FMI pidió profundizar la baja de subsidios y destacó el ajuste que hizo la Argentina",
-          "link": "https://www.lanacion.com.ar/economia/foco-en-los-mas-vulnerables-el-fmi-pidio-profundizar-la-baja-de-subsidios-y-destaco-el-ajuste-que-nid16102026/",
-          "resumen": "En su informe de Perspectivas Económicas para el Hemisferio Occidental, el organismo recomendó preservar los avances en la reducción de las ayudas a la energía y reemplazar los subsidios generalizados",
-          "fuente": "La Nación"
+          "titulo": "Plazo fijo en dólares: cuánto rinden US$ 5.000 hoy y qué bancos pagan las mejores tasas",
+          "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-rinden-us-5000-hoy-y-que-bancos-pagan-las-mejores-tasas-n6334330",
+          "resumen": "Las entidades volvieron a mejorar algunas tasas en moneda extranjera, pero la diferencia en cuanto tiempo se inmoviliza el dinero puede ser amplia.",
+          "fuente": "Ámbito"
         }
       ]
     },
@@ -77,34 +77,34 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Unas elecciones israelíes como ninguna otra",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/elecciones-israelies_0_IlGBOYYS4e.html",
-          "resumen": "Muchos afirman que las elecciones que se celebrarán dentro de dos semanas podrían ser las más trascendentales de la historia de Israel.",
+          "titulo": "La salud del papa León XIV, EN VIVO: cómo sigue su recuperación tras la operación y noticias de hoy 17 de octubre",
+          "link": "https://www.clarin.com/mundo/salud-papa-leon-xiv-vivo-sigue-recuperacion-operacion-noticias-hoy-17-octubre_0_n5zrpgMV0k.html",
+          "resumen": "Para este sábado se espera que el Sumo Pontífice abandone el Policlínico Gemelli, de Roma, donde fue operado de un cáncer de pulmón. Qué pasará con su viaje a la Argentina.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Reid Wiseman, piloto de Artemis II: “Vimos cosas que ningún ser humano ha visto jamás”",
-          "link": "https://www.lanacion.com.ar/el-mundo/reid-wiseman-piloto-de-artemis-ii-vimos-cosas-que-ningun-ser-humano-ha-visto-jamas-nid09102026/",
-          "resumen": "Se trató de un mensaje que difundieron mientras realizaban la misión, que se concretó en abril de este año, antes de que la tripulación perdiera la conexión con el planeta durante 40 minutos",
+          "titulo": "El papa León XIV será dado de alta hoy tras ser operado por un cáncer de pulmón",
+          "link": "https://www.lanacion.com.ar/el-mundo/el-papa-leon-xiv-sera-dado-de-alta-tras-ser-operado-por-un-cancer-de-pulmon-nid17102026/",
+          "resumen": "Sus médicos tomaron la decisión luego de nuevos análisis que hablan de una evolución y un cuadro clínico positivos",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Se conocieron las primeras fotos del papa León XIV tras su operación y difundieron un nuevo parte médico: \"Mejoría constante\"",
-          "link": "https://www.clarin.com/mundo/conocieron-primeras-fotos-papa-leon-xiv-operacion-difundieron-nuevo-parte-medico-mejoria-constante_0_LMypvIP995.html",
-          "resumen": "En las dos imágenes se lo ve oficiando una misa junto a su secretario personal, el peruano Edgar Rimaycuna, en el hospital donde continúa internado.",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "¿Viene el papa León XIV a la Argentina? Esto es lo que se sabe de su visita de noviembre",
-          "link": "https://www.lanacion.com.ar/el-mundo/viene-el-papa-leon-xiv-a-la-argentina-esto-es-lo-que-se-sabe-de-su-visita-de-noviembre-nid14102026/",
-          "resumen": "La gira por Uruguay, Argentina y Perú está prevista del 6 al 17 del próximo mes; su recuperación tras una cirugía pulmonar genera incertidumbre y el Vaticano todavía no anunció una postergación",
+          "titulo": "Quién ganará las elecciones en Brasil: qué dicen las encuestas antes del balotaje entre Lula y Bolsonaro",
+          "link": "https://www.lanacion.com.ar/el-mundo/quien-ganara-las-elecciones-en-brasil-que-dicen-las-encuestas-antes-del-balotaje-entre-lula-y-nid17102026/",
+          "resumen": "Los últimos relevamientos muestran una diferencia de dos puntos entre ambos postulantes; cómo se movieron los porcentajes en la semana",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Dentro de los misteriosos laboratorios rusos de investigación contra la peste",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/dentro-misteriosos-laboratorios-rusos-investigacion-peste_0_uwPpRgn8dU.html",
-          "resumen": "Pocos extranjeros han visitado estos laboratorios, que se encuentran repartidos por los antiguos estados soviéticos y están envueltos en un halo de misterio.",
+          "titulo": "Meta negó tener un \"sesgo anti-Lula\" en Brasil y dijo que no favoreció a Flávio Bolsonaro en campaña, tras un fallo del tribunal electoral en su contra",
+          "link": "https://www.clarin.com/mundo/meta-nego-tener-sesgo-anti-lula-brasil-dijo-favorecio-flavio-bolsonaro-campana-fallo-tribunal-electoral_0_No67rNNb4V.html",
+          "resumen": "La compañía sostuvo que sus sistemas no distribuyen contenido en función de la ideología política y habló de \"problemas técnicos\". El comando de campaña del PT afirma que la plataforma recomendó más los contenidos de Bolsonaro, en una…",
           "fuente": "Clarín"
+        },
+        {
+          "titulo": "Elecciones: cuándo se vota para presidente en Brasil 2026",
+          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-cuando-se-vota-para-presidente-en-brasil-2026-nid17102026/",
+          "resumen": "Los dos candidatos que más votos sacaron en los comicios generales, Lula y Bolsonaro, se miden en segunda vuelta",
+          "fuente": "La Nación"
         }
       ]
     },
@@ -112,34 +112,34 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Estudiantes empató y el Cacique Medina apuntó con todo contra la AFA por no contar con Marcos Rojo: \"No tengo pruebas, pero...\"",
-          "link": "https://www.clarin.com/deportes/bombas-alexander-medina-afa-tener-marcos-rojo-empate-estudiantes-pruebas_0_At6GNku7z2.html",
-          "resumen": "El entrenador habló luego del 0-0 con Flamengo en la ida de las semis de la Copa Libertadores. Se quejó por el calendario que afronta su equipo, que vuelve a jugar este domingo. Pero también por la imposibilidad de inscribir al zaguero…",
+          "titulo": "\"No soy un robot\": el cansancio de Zverev y la sorpresa de Davidovich en el Masters 1000 de Shanghái",
+          "link": "https://www.clarin.com/deportes/robot-cansancio-zverev-sorpresa-davidovich-masters-1000-shanghai_0_m02JRhdp8A.html",
+          "resumen": "El alemán, segundo del ranking mundial pero que cerrará el año como número 1, cayó en tres sets ante el español, que buscará su primer título Masters 1000. “Lo primero que se te cansa en el tenis son los ojos”, explicó tras la derrota.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Alexander Medina, entrenador de Estudiantes, se quejó por la no habilitación de Marcos Rojo: “Si hubiera sido otro club, se habría actuado diferente”",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/alexander-medina-entrenador-de-estudiantes-se-quejo-por-la-no-habilitacion-de-marcos-rojo-si-hubiera-nid16102026/",
-          "resumen": "El DT también criticó a la AFA por el calendario: “Fuimos devastados”",
+          "titulo": "Dibu Martínez chocó con un rival y fue retirado en camilla durante Everton vs. Chelsea",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/dibu-martinez-choco-con-un-rival-y-fue-retirado-en-camilla-durante-everton-vs-chelsea-nid17102026/",
+          "resumen": "El arquero argentino sufrió un duro golpe cuando promediaba el segundo tiempo mientras su equipo vencía por 1 a 0",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La poca cantidad de hinchas que llevó Flamengo a la semi con Estudiantes",
-          "link": "https://www.ole.com.ar/futbol-internacional/libertadores/estudiantes-flamengo-pocos-hinchas-copa-libertadores-tribuna-hinchas_0_7GS4Pez6UH.html",
-          "resumen": "El Mengao apenas ocupó 1.400 lugares en La Plata sobre los 4.000 disponibles por la exigencia de Conmebol, lo que hizo que se vean varios huecos en la tribuna visitante.",
+          "titulo": "Estudiantes vs. San Lorenzo, por el Torneo Clausura 2026: día, horario y TV",
+          "link": "https://www.ole.com.ar/futbol-primera/estudiantes-plata-vs-san-lorenzo-partido-torneo-clausura-2026-dia-horario-tv_0_C3GUnygPvf.html",
+          "resumen": "El Pincha y el Ciclón se enfrentarán en La Plata por una nueva jornada del Clausura. Repasá todos los detalles del encuentro.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Max Verstappen, de ganar en la F1 a dejar en trompo al argentino Pérez Companc en el GT World Challenge con una polémica maniobra",
-          "link": "https://www.clarin.com/deportes/max-verstappen-ganar-f1-dejar-trompo-argentino-perez-companc-gt-world-challenge-polemica-maniobra_0_XxGtL7Cg15.html",
-          "resumen": "El neerlandés aprovechó su fin de semana libre para competir en Portimao. Intentó superar por adentro a Ezequiel Pérez Companc y se lo llevó puesto. Los comisarios lo declararon responsable y le aplicaron una amonestación.",
+          "titulo": "Racing vs. Independiente, el clásico del miedo: dos equipos en crisis, mucho para perder y un resultado que puede cambiarlo todo",
+          "link": "https://www.clarin.com/deportes/racing-vs-independiente-clasico-miedo-equipos-crisis-perder-resultado-puede-cambiarlo_0_ZZ03vSuNSB.html",
+          "resumen": "La Academia llega golpeada y con Milito cuestionado por los hinchas. Del otro lado, una derrota podría precipitar la salida de Jadson Viera. Juan Manuel Llop y Cristian Díaz, que dirigieron clásicos en momentos críticos, recuerdan sus…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "River Plate vs. Belgrano, por el Torneo Clausura 2026: día, horario, TV y cómo ver online",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/river-plate-vs-belgrano-por-el-torneo-clausura-2026-dia-horario-tv-y-como-ver-online-nid16102026/",
-          "resumen": "El partido correspondiente a la fecha 13 del Grupo B se disputará el próximo domingo en el estadio Julio César Villagra de Córdoba",
-          "fuente": "La Nación"
+          "titulo": "La revancha de Lolo Miranda: de quedar libre y sufrir un juicio público por un video viral a jugar una final por el ascenso con Berazategui",
+          "link": "https://www.clarin.com/deportes/revancha-lolo-miranda-quedar-libre-sufrir-juicio-publico-video-viral-jugar-final-ascenso-berazategui_0_ERbE0Pudm4.html",
+          "resumen": "Surgió de Independiente, fue campeón con Racing y atravesó una dura crisis emocional después de una grave lesión de rodilla. Reconoció que necesitó tratamiento psiquiátrico para recuperarse. El Naranja le abrió las puertas y este sábado…",
+          "fuente": "Clarín"
         }
       ]
     }
