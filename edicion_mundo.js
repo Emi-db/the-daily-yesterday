@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "17 de octubre de 2026",
-    "generada": "13:19",
+    "fecha": "18 de octubre de 2026",
+    "generada": "13:38",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Por qué EE.UU. vuelve al pelotón de fusilamiento para aplicar la pena de muerte",
-            "link": "https://www.bbc.com/mundo/articles/cq70pz32x83do?at_medium=RSS&at_campaign=rss",
-            "resumen": "La ejecución de Nidal Hasan, el pistolero de Fort Hood, sería la primera vez que el Ejército de Estados Unidos utilizaría un pelotón de fusilamiento desde 1945.",
+            "titulo": "Cuánto aporta la rica provincia de Alberta a la economía de Canadá y qué pasaría si logra la independencia",
+            "link": "https://www.bbc.com/mundo/articles/c95yng8me7vmo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Los habitantes de Alberta votan este lunes sobre si seguir siendo parte de Canadá o avanzar hacia un referendo vinculante de independencia.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Trump suspende sanciones contra Rusia en pleno giro para que Putin le ayude a bajar el precio de la energía antes de las elecciones",
-            "link": "https://elpais.com/us/2026-10-17/trump-suspende-temporalmente-sanciones-contra-rusia-por-interes-nacional.html",
-            "resumen": "El republicano justifica la medida, que llega una semana después del acuerdo para comprar diésel a Moscú, en el “interés nacional” de Estados Unidos",
+            "titulo": "Francia hace balance tras el mayor estallido de violencia en décadas: 1.800 detenidos y un millar de comercios saqueados",
+            "link": "https://elpais.com/internacional/2026-10-18/francia-hace-balance-tras-el-mayor-estallido-de-violencia-y-caos-en-decadas-1800-detenidos-y-un-millar-de-comercios-saqueados.html",
+            "resumen": "Muchas calles de París, Marsella o Lyon han amanecido completamente arrasadas. Solo en la capital se produjeron 855 arrestos, una cifra récord. Tras el caos, Emmanuel Macron se dirigirá esta tarde a la nación",
             "fuente": "El País"
           },
           {
-            "titulo": "Katie Zacharia deja cargo de portavoz de la Casa Blanca tras críticas a su trayectoria profesional",
-            "link": "https://www.france24.com/es/video/20261017-katie-zacharia-deja-cargo-de-portavoz-de-la-casa-blanca-tras-cr%C3%ADticas-a-su-trayectoria-profesional",
-            "resumen": "Con apenas una semana en el cargo, la secretaria de prensa de la Casa Blanca, Katie Zacharia, deja su puesto. Su salida la había dejado entrever el presidente estadounidense Donald Trump, quien reveló haber conversado con la vocera para…",
+            "titulo": "En directo: Trump afirma que \"Francia está ardiendo\" y culpa a la \"inmigración\" de las protestas en todo el país",
+            "link": "https://www.france24.com/es/francia/20261018-en-directo-unos-1-500-comerciantes-afectados-por-los-disturbios-en-francia-seg%C3%BAn-la-federaci%C3%B3n-del-comercio",
+            "resumen": "Donald Trump atribuyó los disturbios en Francia a la inmigración, sin aportar pruebas, y pidió cerrar las fronteras. Los saqueos y destrozos del sábado dejaron unos 1.500 comerciantes afectados y daños estimados en cientos de millones de…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Análisis BBC: Katie Zacharia fue arrojada a un torbellino y falló en un momento crítico para Trump",
-            "link": "https://www.bbc.com/mundo/articles/cj040dx1yx0vo?at_medium=RSS&at_campaign=rss",
-            "resumen": "La Casa Blanca se enfrenta a una adversidad creciente, escribe Anthony Zurcher de la BBC, a semanas de las cruciales elecciones de mitad de mandato.",
+            "titulo": "\"Ahora reanudaré gradualmente mis actividades\": el papa León XIV hace su primera aparición pública tras ser operado por un cáncer de pulmón",
+            "link": "https://www.bbc.com/mundo/articles/c6ev320r2rnwo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Tras la operación del martes, el papa León XIV se asomó por la ventana de su estudio, en el Vaticano, para pronunciar el Ángelus.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Kathleen Belew, historiadora: “Trump utiliza y se beneficia de los supremacistas blancos”",
-            "link": "https://elpais.com/internacional/2026-10-17/kathleen-belew-historiadora-trump-utiliza-y-se-beneficia-de-los-supremacistas-blancos.html",
-            "resumen": "La especialista advierte de los peligros que entraña abrir las puertas de la política a grupos racistas y violentos, un movimiento que gana terreno en todo el mundo",
+            "titulo": "Francia prende fuego al macronismo",
+            "link": "https://elpais.com/internacional/2026-10-18/francia-prende-fuego-al-macronismo.html",
+            "resumen": "El segundo mandato del presidente, desconectado de la sociedad, tiene aún por delante seis largos meses en los que el país debe aprobar un presupuesto y buscar respuestas al imparable ascenso de la ultraderecha",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Marina Echebarría, consejera de Competencia: “Me ha tocado ser un símbolo de que las barreras se rompen”",
-            "link": "https://elpais.com/economia/2026-10-17/marina-echebarria-consejera-de-competencia-me-ha-tocado-ser-un-simbolo-de-que-las-barreras-se-rompen.html",
-            "resumen": "La primera persona trans que se sienta en el consejo de la CNMC recuerda que el organismo “no es decorativo, sino que influye en cuestiones clave”",
+            "titulo": "El debate de las pensiones entra en terreno pantanoso: ¿hay que reformar el modelo o cambiarlo por otro?",
+            "link": "https://elpais.com/economia/2026-10-18/el-debate-de-las-pensiones-entra-en-terreno-pantanoso-hay-que-reformar-el-modelo-o-cambiarlo-por-otro.html",
+            "resumen": "La hipoteca creciente con las futuras generaciones genera dudas sobre cómo mitigar este daño",
             "fuente": "El País"
           },
           {
-            "titulo": "Volkswagen, Renault y Stellantis resucitan a sus 'clásicos' para crecer",
-            "link": "https://www.expansion.com/empresas/motor/2026/10/17/6ad245af468aeb2d038b456e.html",
-            "resumen": "Los grandes fabricantes europeos del automóvil resucitan modelos legendarios o utilizan nombres reconocidos como estrategia para impulsar las ventas de sus vehículos eléctricos ante el empuje chino. Leer",
+            "titulo": "Sin sueños no hay creatividad",
+            "link": "https://www.expansion.com/mercados/2026/10/17/6ad37d07e5fdea84158b459b.html",
+            "resumen": "El sueño es un proceso en el que asoman eventos que comunican felicidad o atormentan al semoviente abombado. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Las empresas del Ibex lideran la creación de empleo entre las grandes cotizadas europeas",
-            "link": "https://elpais.com/economia/2026-10-17/las-empresas-del-ibex-lideran-la-creacion-de-empleo-entre-las-grandes-cotizadas-europeas.html",
-            "resumen": "Las compañías del índice español aumentaron sus plantillas un 0,9% frente a los recortes en Alemania o Francia",
+            "titulo": "La solución a la crisis de vivienda no es (solo) construir más",
+            "link": "https://elpais.com/economia/2026-10-18/la-solucion-a-la-crisis-de-vivienda-no-es-solo-construir-mas.html",
+            "resumen": "Las izquierdas y los expertos reclaman regulación ante los clamorosos agujeros del mercado inmobiliario",
             "fuente": "El País"
           },
           {
-            "titulo": "García San Miguel (Abenójar Tungsten): \"Vamos a tener en España la mayor mina de wolframio del mundo tras China\"",
-            "link": "https://www.expansion.com/empresas/2026/10/17/6ad20ecb468aebc92b8b457c.html",
-            "resumen": "La empresa que desarrolla Mina El Moto, en Ciudad Real, se lanza a la Bolsa de Londres para captar cerca de 200 millones de euros. Leer",
+            "titulo": "Así es la empresa a la que aspiran los ‘Zeta’",
+            "link": "https://www.expansion.com/expansion-empleo/2026/10/16/asi-empresa-aspiran-zeta.html",
+            "resumen": "Los jóvenes no buscan sólo teletrabajo o mesas de ‘ping pong’ en la oficina. Quieren un sueldo justo, estabilidad laboral y jefes que les ayuden a crecer profesionalmente. Y son implacables con la coherencia corporativa, la transparencia…",
             "fuente": "Expansión"
           },
           {
-            "titulo": "El disparate económico francés",
-            "link": "https://elpais.com/economia/2026-10-17/el-disparate-economico-frances.html",
-            "resumen": "El coste de la deuda se incrementa fruto de unas finanzas públicas desequilibradas y un crecimiento económico estancado",
+            "titulo": "Más de 1.000 días sin nuevos Presupuestos: ¿hasta cuándo puede vivir España con las cuentas de 2023?",
+            "link": "https://elpais.com/economia/negocios/2026-10-17/mas-de-1000-dias-sin-nuevos-presupuestos-hasta-cuando-puede-vivir-espana-con-las-cuentas-de-2023.html",
+            "resumen": "La economía sigue creciendo más que la media europea, pero los expertos advierten de que las prórrogas impiden aprovechar mejor las oportunidades de inversión y critican la falta de transparencia",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Larguero de Cabrera para romper el dominio rojiblanco",
-            "link": "https://www.mundodeportivo.com/futbol/laliga/20261017/1004237820/espanyol-atletico-madrid-directo-laliga-ea-sports.html",
-            "resumen": "",
+            "titulo": "2-1: Frenazo al Barça un año después ante la Real",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261018/1004240150/0-1-barca-suyo.html",
+            "resumen": "El FC Barcelona volvió a tropezar en la misma piedra. El campeón de todo, acostumbrado a superar a todo tipo de rivales en España y en Europa, cayó precisamente ante el único equipo que ya fue capaz de derrotarle la temporada pasada en la…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Laporta carga contra el Madrid: \"Quieren reventarlo todo\"",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261017/1004239795/arenga-laporta.html",
-            "resumen": "El FC Barcelona se mide esta tarde (18.30 horas/DAZN) al Real Betis con el objetivo de sumar una nueva victoria en este inicio de curso, un triunfo que también reforzaría la buena dinámica del equipo antes de una semana marcada en rojo en…",
+            "titulo": "La intrahistoria del retraso del Barça: cumbre en el avión y Sebastián Yatra en el hotel",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261018/1004240133/intrahistoria-retraso-barca-cumbre-avion-sebastian-yatra-hotel.html",
+            "resumen": "Los jugadores del Barça dejaron el Hotel Eurostars de Sevilla pasadas las 16 h. del sábado sin imaginar que volverían un poco más tarde de las 01 h. ante las constantes demoras del vuelo de regreso. El equipo tenía que haber llegado hacia…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "October 17, 2026",
-    "generada": "13:19",
+    "fecha": "October 18, 2026",
+    "generada": "13:38",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-            "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+            "titulo": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+            "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+            "resumen": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
             "fuente": "BBC"
           },
           {
-            "titulo": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
-            "link": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
-            "resumen": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reports Mass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+…",
+            "titulo": "Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music",
+            "link": "https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype",
+            "resumen": "Style of emceeing based on high-octane, ad-libbed vocals has flourished thanks to its unique way of captivating crowds For the 2015 freshmen cohort of the history degree programme at the University of Lagos, their classmate’s…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "How Bally Bagayoko, a 53-Year-Old Mayor, Became the Face of France’s Youth Protests",
-            "link": "https://www.nytimes.com/2026/10/17/france-protests-mayor-bally-bagayoko.html",
-            "resumen": "Bally Bagayoko, the mayor of a working-class suburb near Paris, has been a regular presence at student demonstrations, prompting both applause and condemnation.",
+            "titulo": "France in Shock After Protests Devolve Into Riots",
+            "link": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
+            "resumen": "Centrist and leftist leaders blamed each other after anti-government protests devolved into chaos.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-            "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+            "titulo": "Oil facilities hit in deadly overnight attack on St Petersburg",
+            "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+            "resumen": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
-            "link": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
-            "resumen": "Article in Atlantic claims The Blue Fighter was artificially generated, days after it won Caine prize for African writers The Zimbabwean writer Simbarashe Kundizeza has denied using AI to write a prize-winning short story after an article…",
+            "titulo": "An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria",
+            "link": "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria",
+            "resumen": "A girl called Àìná was captured by an African king and later taken to England to become Sarah Forbes Bonetta, protege of the imperial monarch When she was seven years old, Bayo Randle’s great-great-grandmother Sarah Forbes Bonetta was…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Banks expect to be hit with higher taxes in Budget",
-            "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+            "titulo": "There's a crackdown on sports piracy - but is it already out of control?",
+            "link": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "US corporate lobbyists mounted ‘blitz’ to dilute landmark EU deforestation law, report finds",
+            "link": "https://www.theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation",
+            "resumen": "Environmental watchdog Mighty Earth reveals two-year effort to postpone and weaken EU Deforestation Regulation US corporate lobbyists launched a two-year “blitz” to postpone and weaken the world’s most progressive legislation to protect…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "3 Charts That Explain the Economy as Voters Head to the Polls",
+            "link": "https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html",
+            "resumen": "Inflation is high, consumer spending is strong and seemingly everything depends on what happens with artificial intelligence.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Third runway at Heathrow Airport would drive growth, Healey says",
+            "link": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
+            "resumen": "It comes after the prime minister refused to say whether he backed expansion.",
             "fuente": "BBC"
           },
           {
             "titulo": "‘People’s dignity, and democracy, is at stake’: meet the economist ditching ideology for reality",
             "link": "https://www.theguardian.com/business/2026/oct/16/isabella-weber-anti-fascist-economics",
             "resumen": "Exclusive: Isabella Weber prescribes a common-sense solution to poverty, inequality and fascism – making life’s essentials affordable for all The trouble with economists, Isabella Weber believes, is they do not behave like dentists. They…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "States Are Stepping Up as the New Antitrust Enforcers",
-            "link": "https://www.nytimes.com/2026/10/17/business/dealbook/state-antitrust-enforcement.html",
-            "resumen": "With the Trump administration taking a relaxed approach, attorneys general around the country have ramped up their scrutiny of mergers.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "Watch: Did Tesla really just unveil a flying car?",
-            "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Key US voters say economy is getting worse ahead of midterms, exclusive poll finds",
-            "link": "https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll",
-            "resumen": "Nearly 61% believe country is in recession and 65% of independents say economy is worse, according to new Harris poll Tell us: what is your personal ‘recession indicator’? With the midterm elections less than three weeks away, key voting…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,15 +224,15 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Avian flu and costs among reasons for loss of captive birds at Castle Espie",
-            "link": "https://www.bbc.co.uk/news/articles/c6m24e1ln130o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Difficulties in transporting animals since Brexit has contributed to the decline in the number of captive birds.",
+            "titulo": "Fuel leak spreads more than two miles along River Taff",
+            "link": "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Public Health Wales advise people living nearby to shut their doors and windows due to the smell.",
             "fuente": "BBC"
           },
           {
-            "titulo": "How an accelerating Earth led experts to adopt the leap hour",
-            "link": "https://www.theguardian.com/science/2026/oct/15/times-up-for-the-leap-second-as-scientists-swap-it-for-the-leap-hour",
-            "resumen": "International delegates agree leap second no longer tenable, but first leap hour not likely to happen for thousands of years After decades of discussion, quibbling and worrying about clocks in computer systems, the world’s official…",
+            "titulo": "Japan to launch world-first mission to collect samples from Martian moon",
+            "link": "https://www.theguardian.com/science/2026/oct/18/japan-mission-mars-moon-phobos-samples",
+            "resumen": "Japanese space agency leads five-year mission to Phobos, one of ‘most important unclimbed mountains in the solar system’ Japan is to launch a spacecraft on the world’s first mission to bring back samples from Phobos, one of the two small,…",
             "fuente": "The Guardian"
           },
           {
@@ -242,15 +242,15 @@ const EDICION_MUNDO = {
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Brazil sees record fall in Amazon deforestation as key election looms",
-            "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+            "titulo": "How to see the Orionid meteor shower",
+            "link": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
+            "resumen": "One of the best-known meteor showers peaks this week and will remain active until 7 November.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Is your boss watching you? The rise of AI surveillance at work - video",
-            "link": "https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video",
-            "resumen": "Workers have always been monitored by their bosses, first through output targets, and then via computer software labelled ‘bossware’. But AI is transforming the capabilities of these systems, processing huge volumes of data to provide…",
+            "titulo": "Hiding in plane sight: the invisible turbulence that can strike out of a clear blue sky",
+            "link": "https://www.theguardian.com/world/ng-interactive/2026/oct/18/invisible-clear-air-turbulence-airline-safety-climate-crisis",
+            "resumen": "As the planet warms, airlines are grappling with what this means for air travel – and for the passengers who simply refuse to keep their seatbelts fastened It was a swelteringly hot afternoon in south-west Myanmar on 21 May 2024. Tropical…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "England stunned by Tonga in World Cup opener",
-            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c83vqd73k0xlo?at_medium=RSS&at_campaign=rss",
-            "resumen": "England 's men fall to defeat in their Rugby League World Cup opener as Tonga take their chances in Perth.",
+            "titulo": "After Dubois' dominant win, what's next for heavyweight boxing?",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/ck3r59ywz99ro?at_medium=RSS&at_campaign=rss",
+            "resumen": "After world champion Daniel Dubois' emphatic win over Fabio Wardley, what's next for the heavyweight division?",
             "fuente": "BBC"
           },
           {
-            "titulo": "Everton v Chelsea: Premier League – live",
-            "link": "https://www.theguardian.com/football/live/2026/oct/17/everton-v-chelsea-premier-league-live",
-            "resumen": "⚽ Premier League updates from the 12.30pm BST kick-off ⚽ Live scoreboard | Tables | Top scorers | Email Scott Everton kick off, and launch it long. Martinez claims the punt. Before the kick-off, everyone takes the knee. It’s the first of…",
+            "titulo": "Leeds United v Manchester United: Premier League – live",
+            "link": "https://www.theguardian.com/football/live/2026/oct/18/leeds-v-manchester-united-premier-league-live",
+            "resumen": "⚽ Updates from the 2pm BST kick-off at Elland Road ⚽ The Joy of Six: Leeds v Manchester United matches ⚽ Scores | Tables | Read Football Daily | Mail Michael Daniel Farke , Leeds manager, is the next to speak to Sky Sports: We have to…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "England's 41-match unbeaten run ended by Canada",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cknv0m61l9e4o?at_medium=RSS&at_campaign=rss",
-            "resumen": "England's 41-match unbeaten streak ends in dramatic fashion as Shoshanah Seumanutafa's late try hands Canada a thrilling 24-21 victory in Toronto.",
+            "titulo": "Rain returns after Australia's Boland dents South Africa - scorecard",
+            "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998?at_medium=RSS&at_campaign=rss",
+            "resumen": "Latest scorecard from the second Test between South Africa and Australia in Gqeberha.",
             "fuente": "BBC"
           },
           {
-            "titulo": "The ESPN producer who quit over gambling – and the stories she says went untold",
-            "link": "https://www.theguardian.com/sport/2026/oct/17/espn-producer-nicole-noren-sports-betting-gambling-investigations",
-            "resumen": "Nicole Noren says ESPN sidelined investigations into sports betting companies as gambling partnerships reshaped the network’s priorities Earlier this week, investigative journalist Nicole Noren did something almost impossible for someone…",
+            "titulo": "Texans v Jaguars at Wembley: NFL week six – live",
+            "link": "https://www.theguardian.com/sport/live/2026/oct/18/texans-v-jaguars-nfl-week-six-live",
+            "resumen": "NFL updates from the 2.30pm BST kick-off at Wembley Week six: Seahawks 14-17 Broncos | Email Graham Here we go . Houston boot it away and Trevor Lawrence jogs out to lead Jacksonville’s opening drive in the teal and black. He drops back…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Dubois v Wardley 2 - heavyweight title fight predictions",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/cwz0vdmyvrx8o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Figures from the boxing world give their predictions for Saturday's heavyweight world title rematch between Fabio Wardley and Daniel Dubois.",
+            "titulo": "New Zealand avoid World Cup shock against Fiji",
+            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cmx2q94rppe9o?at_medium=RSS&at_campaign=rss",
+            "resumen": "New Zealand women are given a World Cup \"wake-up call\" after they are forced to come from behind to beat debutants Fiji in their opening game.",
             "fuente": "BBC"
           }
         ]

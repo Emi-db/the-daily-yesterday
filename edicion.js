@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "17 de octubre de 2026",
-  "generada": "13:19",
+  "fecha": "18 de octubre de 2026",
+  "generada": "13:38",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: tras su visita a EE.UU., el Presidente ya prepara otro viaje a España",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-visita-eeuu-presidente-prepara-viaje-espana_0_we2ZpxlEVB.html",
-          "resumen": "El mandatario viajará al país europeo en el marco de la previa de las elecciones presidenciales anticipadas, en las que apoyará a partidos de derecha como por ejemplo VOX, de Santiago Abascal.",
+          "titulo": "El objetivo más urgente del Gobierno y las maniobras de Javier Milei para evitar el fantasma del lunes negro",
+          "link": "https://www.clarin.com/politica/objetivo-urgente-gobierno-maniobras-javier-milei-evitar-fantasma-lunes-negro_0_y2Ucj51Lg9.html",
+          "resumen": "El desgaste presidencial, la resistencia de la inflación, las disidencias internas por el rumbo económico y una negociación a contrarreloj en el Congreso. El encuentro de Cristina con Massa.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Los intendentes del PJ que afrontarán un recambio inédito si es que la ley de reelecciones no se revierte",
-          "link": "https://www.lanacion.com.ar/politica/los-intendentes-del-pj-que-afrontaran-un-recambio-inedito-si-es-que-la-ley-de-reelecciones-no-se-nid17102026/",
-          "resumen": "Si la Legislatura bonaerense no da marcha atrás con las limitaciones, varios históricos del peronismo deberán buscar un sucesor para 2027",
+          "titulo": "A pesar del optimismo de Diego Santilli, el Gobierno no logra aún los votos en el Senado para eliminar las PASO",
+          "link": "https://www.lanacion.com.ar/politica/a-pesar-del-optimismo-de-diego-santilli-el-gobierno-no-logra-aun-los-votos-en-el-senado-para-nid18102026/",
+          "resumen": "El jefe de Gabinete dijo que tenía el respaldo suficiente de los gobernadores, pero al contar los apoyos quedó lejos de los 37 senadores para aprobar la reforma electoral",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Un ministro chileno tildó de \"loco\" a Milei y tuvo que pedir disculpas tras las críticas de su propio espacio político",
-          "link": "https://www.infobae.com/politica/2026/10/17/un-ministro-chileno-tildo-de-loco-a-milei-y-tuvo-que-pedir-disculpas-tras-las-criticas-de-su-propio-espacio-politico/",
-          "resumen": "Iván Poduje, a cargo del área de Vivienda, cuestionó al mandatario argentino durante un foro empresarial en Santiago, lo que generó un rápido malestar en el oficialismo y obligó a Kast a intervenir desde Bolivia",
+          "titulo": "Jaldo lanzó un mensaje a la interna del peronismo: “Nadie de Buenos Aires me va a venir a decir lo que tengo que hacer con mi provincia, Tucumán está primero”",
+          "link": "https://www.infobae.com/politica/2026/10/18/jaldo-lanzo-un-mensaje-a-la-interna-del-peronismo-nadie-de-buenos-aires-me-va-a-venir-a-decir-lo-que-tengo-que-hacer-con-mi-provincia-tucuman-esta-primero/",
+          "resumen": "Ante miles de militantes en el Hipódromo, el gobernador reclamó autonomía para las provincias, defendió su administración y ratificó su intención de competir en los comicios de 2027",
           "fuente": "Infobae"
         },
         {
-          "titulo": "“Contame los votos”: quién es quién en la pelea por la reforma electoral que divide a la mesa política de Milei",
-          "link": "https://www.clarin.com/politica/contame-votos-pelea-reforma-electoral-divide-mesa-politica-milei_0_YEsCYmYSd0.html",
-          "resumen": "Santilli asegura tener 34 de los 37 votos, pero Bullrich lo duda. Unos quieren cerrar acuerdos ya con los gobernadores; los Menem prefieren esperar. Karina Milei todavía no define.",
+          "titulo": "Día de la Lealtad por separado: Kicillof defendió a Cristina Kirchner y La Cámpora llenó San José 1111",
+          "link": "https://www.clarin.com/politica/dia-lealtad-separado-kicillof-defendio-cristina-kirchner-campora-lleno-san-jose-1111_0_FDAIpqovEr.html",
+          "resumen": "En el Día de la Lealtad, el peronismo volvió a mostrar sus diferencias internas. El gobernador bonaerense encabezó un acto en La Matanza La ex presidenta salió al balcón a saludar a la militancia",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La crisis del mercado laboral detrás de la revolución del monotributo",
-          "link": "https://www.lanacion.com.ar/politica/la-crisis-del-mercado-laboral-detras-de-la-revolucion-del-monotributo-nid17102026/",
-          "resumen": "El Gobierno relativiza las estadísticas sobre la caída del empleo registrado con el argumento de que subió la informalidad y el cuentapropismo; la Secretaría de Trabajo recortó el 70% de su personal y pierde influencia",
+          "titulo": "El peronismo, unido para que haya PASO: la reunión Cristina-Massa, advertencia a los gobernadores y Santilli contracara",
+          "link": "https://www.lanacion.com.ar/politica/el-peronismo-unido-para-que-haya-paso-la-reunion-cristina-massa-advertencia-a-los-gobernadores-y-nid18102026/",
+          "resumen": "Las diferencias internas persisten pero todos quieren que se mantengan las primarias; qué escenario aparece en caso de que el Gobierno logre darlas de baja",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Euro hoy en Panamá: precio y cotización de la divisa este sábado 17 de octubre de 2026",
-          "link": "https://www.clarin.com/economia/euro-hoy-en-panama-precio-y-cotizacion-de-la-divisa-este-sabado-17-de-octubre-de-2026_0_3OpEfbLLmD.html",
-          "resumen": "Mirá la cotización del euro en Panamá, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
+          "titulo": "Euro hoy en Honduras: precio y cotización de la divisa este domingo 18 de octubre de 2026",
+          "link": "https://www.clarin.com/economia/euro-hoy-en-honduras-precio-y-cotizacion-de-la-divisa-este-domingo-18-de-octubre-de-2026_0_J3jPY0XKKq.html",
+          "resumen": "Mirá la cotización del euro en Honduras, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Por qué la soja es la Cenicienta del sistema y la Argentina no aprovecha una tendencia favorable",
-          "link": "https://www.lanacion.com.ar/economia/campo/por-que-la-soja-es-la-cenicienta-del-sistema-y-la-argentina-no-aprovecha-una-tendencia-favorable-nid17102026/",
-          "resumen": "La oleaginosa mantiene una elevada demanda global, pero hay aspectos que deberían ser corregidos para responder a ese requerimiento",
+          "titulo": "El costo de producir granos en la Argentina se acerca al de sus competidores",
+          "link": "https://www.lanacion.com.ar/economia/campo/el-costo-de-producir-granos-en-la-argentina-se-acerca-al-de-sus-competidores-nid18102026/",
+          "resumen": "En un año 13 bienes y servicios en dólares cayeron 5,6 puntos porcentuales",
           "fuente": "La Nación"
         },
         {
-          "titulo": "¿Qué banco tiene la tasa más baja para créditos hipotecarios en octubre 2026?",
-          "link": "https://www.ambito.com/economia/que-banco-tiene-la-tasa-mas-baja-creditos-hipotecarios-octubre-2026-n6334271",
-          "resumen": "Encontrar una tasa baja es importante, pero también hay que ver si se cumplen los requisitos para acceder a las mejores condiciones.",
+          "titulo": "Javier Milei elogia el empleo informal, pero los trabajadores cobran la mitad y pierden la obra social",
+          "link": "https://www.ambito.com/economia/javier-milei-elogia-el-empleo-informal-pero-los-trabajadores-cobran-la-mitad-y-pierden-la-obra-social-n6334935",
+          "resumen": "Los ingresos de los trabajadores informales no llegan ni al 50% de los registrados según el INDEC. Crece el porcentaje de personas sin acceso a cobertura de salud. Se multiplican las filas para conseguir empleo.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 17 de octubre",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-17-de-octubre-nid17102026/",
-          "resumen": "La cotización de la moneda estadounidense se mantiene igual que el último día hábil; cómo fue el comportamiento de la divisa informal y los dólares financieros",
+          "titulo": "Calendario Anses: comienza el pago de las prestaciones sociales que se cobran en la semana del 19 al 23 de octubre",
+          "link": "https://www.lanacion.com.ar/economia/calendario-anses-comienza-el-pago-de-las-prestaciones-sociales-que-se-cobran-en-la-semana-del-19-al-nid18102026/",
+          "resumen": "El organismo previsional empieza con la entrega de las jubilaciones mínimas, AUH, Asignaciones por Embarazo, entre otras prestaciones",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Plazo fijo en dólares: cuánto rinden US$ 5.000 hoy y qué bancos pagan las mejores tasas",
-          "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-rinden-us-5000-hoy-y-que-bancos-pagan-las-mejores-tasas-n6334330",
-          "resumen": "Las entidades volvieron a mejorar algunas tasas en moneda extranjera, pero la diferencia en cuanto tiempo se inmoviliza el dinero puede ser amplia.",
+          "titulo": "ARBA lanza un plan para la regularización de deudas de los contribuyentes",
+          "link": "https://www.ambito.com/economia/arba-lanza-un-plan-la-regularizacion-deudas-los-contribuyentes-n6334927",
+          "resumen": "El organismo habilitará la cancelación de obligaciones pendientes antes de fin de año. Estar al día con los impuestos será un requisito indispensable para acceder a las bonificaciones previstas para 2027.",
           "fuente": "Ámbito"
         }
       ]
@@ -77,34 +77,34 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "La salud del papa León XIV, EN VIVO: cómo sigue su recuperación tras la operación y noticias de hoy 17 de octubre",
-          "link": "https://www.clarin.com/mundo/salud-papa-leon-xiv-vivo-sigue-recuperacion-operacion-noticias-hoy-17-octubre_0_n5zrpgMV0k.html",
-          "resumen": "Para este sábado se espera que el Sumo Pontífice abandone el Policlínico Gemelli, de Roma, donde fue operado de un cáncer de pulmón. Qué pasará con su viaje a la Argentina.",
+          "titulo": "De tiendas de lujo a un ayuntamiento histórico: las fotos y los videos más impactantes de los saqueos y daños por la crisis en Francia",
+          "link": "https://www.clarin.com/mundo/tiendas-lujo-ayuntamiento-historico-fotos-videos-impactantes-saqueos-danos-crisis-francia_0_brTvJ128Bd.html",
+          "resumen": "La protesta estudiantil iniciada en París no sólo se agravó, sino que también se extendió a otras ciudades. Se reportan destrozos, incendios y saqueos.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El papa León XIV será dado de alta hoy tras ser operado por un cáncer de pulmón",
-          "link": "https://www.lanacion.com.ar/el-mundo/el-papa-leon-xiv-sera-dado-de-alta-tras-ser-operado-por-un-cancer-de-pulmon-nid17102026/",
-          "resumen": "Sus médicos tomaron la decisión luego de nuevos análisis que hablan de una evolución y un cuadro clínico positivos",
+          "titulo": "Encuestas de las elecciones Brasil 2026: quién gana según los últimos sondeos para el balotaje",
+          "link": "https://www.lanacion.com.ar/el-mundo/encuestas-de-las-elecciones-brasil-2026-quien-gana-segun-los-ultimos-sondeos-para-el-balotaje-nid18102026/",
+          "resumen": "A días de la votación decisiva hay una diferencia de dos puntos entre ambos candidatos, lo que marca un escenario de empate técnico",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Quién ganará las elecciones en Brasil: qué dicen las encuestas antes del balotaje entre Lula y Bolsonaro",
-          "link": "https://www.lanacion.com.ar/el-mundo/quien-ganara-las-elecciones-en-brasil-que-dicen-las-encuestas-antes-del-balotaje-entre-lula-y-nid17102026/",
-          "resumen": "Los últimos relevamientos muestran una diferencia de dos puntos entre ambos postulantes; cómo se movieron los porcentajes en la semana",
-          "fuente": "La Nación"
-        },
-        {
-          "titulo": "Meta negó tener un \"sesgo anti-Lula\" en Brasil y dijo que no favoreció a Flávio Bolsonaro en campaña, tras un fallo del tribunal electoral en su contra",
-          "link": "https://www.clarin.com/mundo/meta-nego-tener-sesgo-anti-lula-brasil-dijo-favorecio-flavio-bolsonaro-campana-fallo-tribunal-electoral_0_No67rNNb4V.html",
-          "resumen": "La compañía sostuvo que sus sistemas no distribuyen contenido en función de la ideología política y habló de \"problemas técnicos\". El comando de campaña del PT afirma que la plataforma recomendó más los contenidos de Bolsonaro, en una…",
+          "titulo": "Avalancha fatal cerca de un centro de esquí en Chile: al menos tres muertos",
+          "link": "https://www.clarin.com/mundo/avalancha-centro-esqui-chile-muertos_0_KDCeAqZj4G.html",
+          "resumen": "Ocurrió 150 kilómetros al noreste de Santiago, en inmediaciones de un complejo inactivo tras el cierre de temporada. Aún buscan recuperar el cuerpo de una víctima fatal, dentro de una laguna a la que fue arrastrado. Los afectados no…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Elecciones: cuándo se vota para presidente en Brasil 2026",
-          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-cuando-se-vota-para-presidente-en-brasil-2026-nid17102026/",
-          "resumen": "Los dos candidatos que más votos sacaron en los comicios generales, Lula y Bolsonaro, se miden en segunda vuelta",
+          "titulo": "Un militar de EE.UU. cayó más de 30 metros durante una exhibición antes de un partido de fútbol americano",
+          "link": "https://www.lanacion.com.ar/el-mundo/un-militar-de-eeuu-cayo-mas-de-30-metros-durante-una-exhibicion-antes-de-un-partido-de-futbol-nid18102026/",
+          "resumen": "El grave incidente ocurrió en la previa al encuentro entre los UTSA Roadrunners y los Navy Midshipmen en el Alamodome de San Antonio, Texas; la víctima fue derivada de urgencia a un centro de salud",
           "fuente": "La Nación"
+        },
+        {
+          "titulo": "Asesinato en el subte de Nueva York: una discusión terminó con disparos y un muerto en un andén de Manhattan",
+          "link": "https://www.clarin.com/mundo/asesinato-subte-nueva-york-discusion-termino-disparos-muerto-anden-manhattan_0_AQikygu6zi.html",
+          "resumen": "El crimen ocurrió a poca distancia de los teatros de Broadway y del Carnegie Hall, entre la avenida 7 y la calle 53. El hombre baleado en el pecho fue trasladado al hospital Bellevue, donde finalmente falleció.",
+          "fuente": "Clarín"
         }
       ]
     },
@@ -112,34 +112,34 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "\"No soy un robot\": el cansancio de Zverev y la sorpresa de Davidovich en el Masters 1000 de Shanghái",
-          "link": "https://www.clarin.com/deportes/robot-cansancio-zverev-sorpresa-davidovich-masters-1000-shanghai_0_m02JRhdp8A.html",
-          "resumen": "El alemán, segundo del ranking mundial pero que cerrará el año como número 1, cayó en tres sets ante el español, que buscará su primer título Masters 1000. “Lo primero que se te cansa en el tenis son los ojos”, explicó tras la derrota.",
+          "titulo": "Racing vs Independiente, EN VIVO: a qué hora juegan, formaciones y cómo ver el Clásico de Avellaneda por el Torneo Clausura",
+          "link": "https://www.clarin.com/deportes/racing-vs-independiente-vivo-hora-juegan-formaciones-ver-clasico-avellaneda-torneo-clausura_0_8IBXfFSz64.html",
+          "resumen": "La Academia y el Rojo, sumidos en una crisis institucional y deportiva, se enfrentan en el Cilindro de Avellaneda. Seguí el minuto a minuto en Clarín.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Dibu Martínez chocó con un rival y fue retirado en camilla durante Everton vs. Chelsea",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/dibu-martinez-choco-con-un-rival-y-fue-retirado-en-camilla-durante-everton-vs-chelsea-nid17102026/",
-          "resumen": "El arquero argentino sufrió un duro golpe cuando promediaba el segundo tiempo mientras su equipo vencía por 1 a 0",
+          "titulo": "Dibu Martínez: la primera foto que compartió tras la operación, una visita inesperada y el mensaje de Mandinha",
+          "link": "https://www.lanacion.com.ar/deportes/dibu-martinez-la-primera-foto-que-compartio-tras-la-operacion-una-visita-inesperada-y-el-mensaje-de-nid18102026/",
+          "resumen": "El arquero argentino publicó una imagen desde el hospital tras sufrir una fractura de mandíbula en el triunfo del Chelsea; su esposa transmitió tranquilidad sobre el estado del futbolista",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Estudiantes vs. San Lorenzo, por el Torneo Clausura 2026: día, horario y TV",
-          "link": "https://www.ole.com.ar/futbol-primera/estudiantes-plata-vs-san-lorenzo-partido-torneo-clausura-2026-dia-horario-tv_0_C3GUnygPvf.html",
-          "resumen": "El Pincha y el Ciclón se enfrentarán en La Plata por una nueva jornada del Clausura. Repasá todos los detalles del encuentro.",
+          "titulo": "\"Me trae recuerdos hermosos de hace poquito\": el posteo de Lionel Messi tras su doblete con Inter Miami y los comentarios de la Scaloneta",
+          "link": "https://www.clarin.com/deportes/trae-recuerdos-hermosos-hace-poquito-posteo-lionel-messi-doblete-inter-miami-comentarios-scaloneta_0_8ivBNmUviw.html",
+          "resumen": "El astro argentino escribió en sus redes sociales después del triunfo 3-1 contra Atlanta United, por la MLS. Fue en el estadio Mercedes Benz, donde el 15 de julio consiguió una de las victorias más importantes con la Selección, en las…",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Alejandro Davidovich Fokina, un ejemplo de resiliencia: venció a Rafael Jódar y conquistó Shanghái",
+          "link": "https://www.lanacion.com.ar/deportes/tenis/alejandro-davidovich-fokina-un-ejemplo-de-resiliencia-vencio-a-rafael-jodar-y-conquisto-shanghai-nid18102026/",
+          "resumen": "El malagueño perdió sus primeras cinco finales ATP y creyó que nunca podría coronarse, pero hizo un clic y este año rompió el muro",
+          "fuente": "La Nación"
+        },
+        {
+          "titulo": "Otro lesionado de Selección: Cuti Romero, afuera por una molestia en el aductor",
+          "link": "https://www.ole.com.ar/futbol-internacional/espana/cuti-romero-atletico-madrid-lesion-seleccion-argentina_0_BiFUfUxAI7.html",
+          "resumen": "El defensor del Atlético de Madrid se resintió durante el partido ante Espanyol en La Liga y estará de baja, en principio, por diez días. ¿Qué partidos se perderá?",
           "fuente": "Olé"
-        },
-        {
-          "titulo": "Racing vs. Independiente, el clásico del miedo: dos equipos en crisis, mucho para perder y un resultado que puede cambiarlo todo",
-          "link": "https://www.clarin.com/deportes/racing-vs-independiente-clasico-miedo-equipos-crisis-perder-resultado-puede-cambiarlo_0_ZZ03vSuNSB.html",
-          "resumen": "La Academia llega golpeada y con Milito cuestionado por los hinchas. Del otro lado, una derrota podría precipitar la salida de Jadson Viera. Juan Manuel Llop y Cristian Díaz, que dirigieron clásicos en momentos críticos, recuerdan sus…",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "La revancha de Lolo Miranda: de quedar libre y sufrir un juicio público por un video viral a jugar una final por el ascenso con Berazategui",
-          "link": "https://www.clarin.com/deportes/revancha-lolo-miranda-quedar-libre-sufrir-juicio-publico-video-viral-jugar-final-ascenso-berazategui_0_ERbE0Pudm4.html",
-          "resumen": "Surgió de Independiente, fue campeón con Racing y atravesó una dura crisis emocional después de una grave lesión de rodilla. Reconoció que necesitó tratamiento psiquiátrico para recuperarse. El Naranja le abrió las puertas y este sábado…",
-          "fuente": "Clarín"
         }
       ]
     }
