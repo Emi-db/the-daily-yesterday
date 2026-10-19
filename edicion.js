@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "18 de octubre de 2026",
-  "generada": "13:38",
+  "fecha": "19 de octubre de 2026",
+  "generada": "16:40",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "El objetivo más urgente del Gobierno y las maniobras de Javier Milei para evitar el fantasma del lunes negro",
-          "link": "https://www.clarin.com/politica/objetivo-urgente-gobierno-maniobras-javier-milei-evitar-fantasma-lunes-negro_0_y2Ucj51Lg9.html",
-          "resumen": "El desgaste presidencial, la resistencia de la inflación, las disidencias internas por el rumbo económico y una negociación a contrarreloj en el Congreso. El encuentro de Cristina con Massa.",
+          "titulo": "Estados Unidos propuso disolver el comité especial de Naciones Unidas donde Argentina sostiene el reclamo por Malvinas",
+          "link": "https://www.clarin.com/politica/estados-unidos-propuso-disolver-comite-especial-naciones-unidas-argentina-sostiene-reclamo-malvinas_0_iCadXjls5b.html",
+          "resumen": "\"Dejó de cumplir su propósito\", dijo la representante estadounidense sobre el Comité Especial de Descolonización.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "A pesar del optimismo de Diego Santilli, el Gobierno no logra aún los votos en el Senado para eliminar las PASO",
-          "link": "https://www.lanacion.com.ar/politica/a-pesar-del-optimismo-de-diego-santilli-el-gobierno-no-logra-aun-los-votos-en-el-senado-para-nid18102026/",
-          "resumen": "El jefe de Gabinete dijo que tenía el respaldo suficiente de los gobernadores, pero al contar los apoyos quedó lejos de los 37 senadores para aprobar la reforma electoral",
+          "titulo": "Llega a la Corte el caso de los exfuncionarios kirchneristas sobreseídos por el derrame en la mina de Barrick",
+          "link": "https://www.lanacion.com.ar/politica/llega-a-la-corte-el-caso-de-los-exfuncionarios-kirchneristas-sobreseidos-por-el-derrame-en-la-mina-nid19102026/",
+          "resumen": "Las acusaciones contra ellos prescribieron “por afectación al derecho a ser juzgados en un plazo razonable”; la semana pasada, la Cámara de Casación le concedió a la fiscalía un recurso para llegar hasta el máximo tribunal, donde buscará…",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Jaldo lanzó un mensaje a la interna del peronismo: “Nadie de Buenos Aires me va a venir a decir lo que tengo que hacer con mi provincia, Tucumán está primero”",
-          "link": "https://www.infobae.com/politica/2026/10/18/jaldo-lanzo-un-mensaje-a-la-interna-del-peronismo-nadie-de-buenos-aires-me-va-a-venir-a-decir-lo-que-tengo-que-hacer-con-mi-provincia-tucuman-esta-primero/",
-          "resumen": "Ante miles de militantes en el Hipódromo, el gobernador reclamó autonomía para las provincias, defendió su administración y ratificó su intención de competir en los comicios de 2027",
+          "titulo": "Vidal habló del futuro político del PRO: “Soy de las que quieren construir una segunda fuerza y dejar al kirchnerismo tercero”",
+          "link": "https://www.infobae.com/politica/2026/10/19/vidal-hablo-del-futuro-politico-del-pro-soy-de-las-que-quieren-construir-una-segunda-fuerza-y-dejar-al-kirchnerismo-tercero/",
+          "resumen": "La exgobernadora bonaerense sostuvo que el PRO debe definir su posicionamiento frente al oficialismo y planteó la necesidad de construir una alternativa política",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Día de la Lealtad por separado: Kicillof defendió a Cristina Kirchner y La Cámpora llenó San José 1111",
-          "link": "https://www.clarin.com/politica/dia-lealtad-separado-kicillof-defendio-cristina-kirchner-campora-lleno-san-jose-1111_0_FDAIpqovEr.html",
-          "resumen": "En el Día de la Lealtad, el peronismo volvió a mostrar sus diferencias internas. El gobernador bonaerense encabezó un acto en La Matanza La ex presidenta salió al balcón a saludar a la militancia",
+          "titulo": "Con el respaldo de la política nacional, cuatro listas de abogados compiten en las elecciones del Consejo de la Magistratura",
+          "link": "https://www.clarin.com/politica/respaldo-politica-nacional-listas-abogados-compiten-elecciones-consejo-magistratura_0_mtuI4nlXlL.html",
+          "resumen": "Será en los comicios de este martes. Es para elegir a los cuatro representantes de ese estamento en el órgano que selecciona y sanciona a los jueces nacionales y federales. La UCR, el PJ y el kirchnerismo, el PRO y La Libertad Avanza de…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El peronismo, unido para que haya PASO: la reunión Cristina-Massa, advertencia a los gobernadores y Santilli contracara",
-          "link": "https://www.lanacion.com.ar/politica/el-peronismo-unido-para-que-haya-paso-la-reunion-cristina-massa-advertencia-a-los-gobernadores-y-nid18102026/",
-          "resumen": "Las diferencias internas persisten pero todos quieren que se mantengan las primarias; qué escenario aparece en caso de que el Gobierno logre darlas de baja",
+          "titulo": "Karina Milei recordó que su familia vivió en Devoto y celebró el traslado de la cárcel",
+          "link": "https://www.lanacion.com.ar/politica/karina-milei-recordo-que-su-familia-vivio-en-devoto-y-celebro-el-traslado-de-la-carcel-nid19102026/",
+          "resumen": "La secretaria de la Presidencia habló en la finalización de la Fase 1 del traslado de presos al penal de Marcos Paz; junto a ella estuvieron la ministra Alejandra Monteoliva, el jefe de Gabinete, Diego Santilli, y la legisladora Pilar…",
           "fuente": "La Nación"
         }
       ]
@@ -42,34 +42,34 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Euro hoy en Honduras: precio y cotización de la divisa este domingo 18 de octubre de 2026",
-          "link": "https://www.clarin.com/economia/euro-hoy-en-honduras-precio-y-cotizacion-de-la-divisa-este-domingo-18-de-octubre-de-2026_0_J3jPY0XKKq.html",
-          "resumen": "Mirá la cotización del euro en Honduras, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
+          "titulo": "¿100 millones de ingresos con solo 45 empleados? Ya está pasando",
+          "link": "https://www.clarin.com/economia/100-millones-ingresos-solo-45-empleados-pasando_0_whLLP2yt8C.html",
+          "resumen": "Lovable, una startup sueca que crea apps mediante IA, llegó a US$100 millones de ingresos con apenas 45 empleados La IA permite crecer con equipos mínimos, pero plantea un dilema: ¿los empleados son complementos de la IA o serán…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El costo de producir granos en la Argentina se acerca al de sus competidores",
-          "link": "https://www.lanacion.com.ar/economia/campo/el-costo-de-producir-granos-en-la-argentina-se-acerca-al-de-sus-competidores-nid18102026/",
-          "resumen": "En un año 13 bienes y servicios en dólares cayeron 5,6 puntos porcentuales",
+          "titulo": "“No hay evidencia”: qué dice la Sociedad Argentina de la Inteligencia Artificial sobre el peligro de esta tecnología para la humanidad",
+          "link": "https://www.lanacion.com.ar/economia/IA/no-hay-evidencia-que-dice-la-sociedad-argentina-de-la-inteligencia-artificial-sobre-el-peligro-de-nid19102026/",
+          "resumen": "Alexander Ditzend, presidente de la Sociedad Argentina de la Inteligencia Artificial, aseguró en diálogo con LA NACION que, si bien la IA “tiene un potencial gigante para cambiarnos la vida”, debe ser implementada con “conciencia”; cómo…",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Javier Milei elogia el empleo informal, pero los trabajadores cobran la mitad y pierden la obra social",
-          "link": "https://www.ambito.com/economia/javier-milei-elogia-el-empleo-informal-pero-los-trabajadores-cobran-la-mitad-y-pierden-la-obra-social-n6334935",
-          "resumen": "Los ingresos de los trabajadores informales no llegan ni al 50% de los registrados según el INDEC. Crece el porcentaje de personas sin acceso a cobertura de salud. Se multiplican las filas para conseguir empleo.",
+          "titulo": "La industria metalúrgica volvió a caer y tuvo el septiembre con más máquinas paradas desde 2016",
+          "link": "https://www.ambito.com/economia/la-industria-metalurgica-volvio-caer-y-tuvo-el-septiembre-mas-maquinas-paradas-2016-n6335225",
+          "resumen": "La actividad acumula una contracción del 5,3% en lo que va de 2026 y opera con apenas el 40,2% de su capacidad productiva. La debilidad de la demanda y la postergación de inversiones afectan al sector, mientras las empresas mantienen…",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Calendario Anses: comienza el pago de las prestaciones sociales que se cobran en la semana del 19 al 23 de octubre",
-          "link": "https://www.lanacion.com.ar/economia/calendario-anses-comienza-el-pago-de-las-prestaciones-sociales-que-se-cobran-en-la-semana-del-19-al-nid18102026/",
-          "resumen": "El organismo previsional empieza con la entrega de las jubilaciones mínimas, AUH, Asignaciones por Embarazo, entre otras prestaciones",
+          "titulo": "El riesgo país vuelve a subir y llega a su nivel más alto en lo que va del año",
+          "link": "https://www.clarin.com/economia/riesgo-pais-vuelve-subir-llega-nivel-alto-va-ano_0_YEInVFF33j.html",
+          "resumen": "Los bonos argentinos abrieron la semana con otra caída. El indicador que mide JP Morgan alcanzó los 675 puntos.",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 19 de octubre, minuto a minuto",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid19102026/",
+          "resumen": "La divisa oficial opera a $1540 para la venta en el Banco Nación; el dólar blue cotiza a $1555 para esa operación; qué pasa con el MEP y el CCL",
           "fuente": "La Nación"
-        },
-        {
-          "titulo": "ARBA lanza un plan para la regularización de deudas de los contribuyentes",
-          "link": "https://www.ambito.com/economia/arba-lanza-un-plan-la-regularizacion-deudas-los-contribuyentes-n6334927",
-          "resumen": "El organismo habilitará la cancelación de obligaciones pendientes antes de fin de año. Estar al día con los impuestos será un requisito indispensable para acceder a las bonificaciones previstas para 2027.",
-          "fuente": "Ámbito"
         }
       ]
     },
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "De tiendas de lujo a un ayuntamiento histórico: las fotos y los videos más impactantes de los saqueos y daños por la crisis en Francia",
-          "link": "https://www.clarin.com/mundo/tiendas-lujo-ayuntamiento-historico-fotos-videos-impactantes-saqueos-danos-crisis-francia_0_brTvJ128Bd.html",
-          "resumen": "La protesta estudiantil iniciada en París no sólo se agravó, sino que también se extendió a otras ciudades. Se reportan destrozos, incendios y saqueos.",
+          "titulo": "Una jueza de Florida firma una orden de arresto contra Raúl Castro por el derribo de dos aviones humanitarios en 1996",
+          "link": "https://www.clarin.com/mundo/jueza-florida-firma-orden-arresto-raul-castro-derribo-aviones-humanitarios-1996_0_JkvK0vNkIm.html",
+          "resumen": "La jueza principal Ariana Fajardo Orshan, del Undécimo Circuito Judicial de Florida, dispuso la detención estatal del expresidente cubano. El fiscal general James Uthmeier ratificó que se acusa al ex mandatario del delito de conspiración…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Encuestas de las elecciones Brasil 2026: quién gana según los últimos sondeos para el balotaje",
-          "link": "https://www.lanacion.com.ar/el-mundo/encuestas-de-las-elecciones-brasil-2026-quien-gana-segun-los-ultimos-sondeos-para-el-balotaje-nid18102026/",
-          "resumen": "A días de la votación decisiva hay una diferencia de dos puntos entre ambos candidatos, lo que marca un escenario de empate técnico",
+          "titulo": "Balotaje de las Elecciones Brasil 2026, EN VIVO: las últimas noticias sobre los comicios hoy",
+          "link": "https://www.lanacion.com.ar/el-mundo/balotaje-de-las-elecciones-brasil-2026-en-vivo-las-ultimas-noticias-sobre-los-comicios-hoy-nid19102026/",
+          "resumen": "Lula da Silva y Flávio Bolsonaro, se enfrentán en las urnas este domingo 25 de octubre; qué dicen las encuestas",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Avalancha fatal cerca de un centro de esquí en Chile: al menos tres muertos",
-          "link": "https://www.clarin.com/mundo/avalancha-centro-esqui-chile-muertos_0_KDCeAqZj4G.html",
-          "resumen": "Ocurrió 150 kilómetros al noreste de Santiago, en inmediaciones de un complejo inactivo tras el cierre de temporada. Aún buscan recuperar el cuerpo de una víctima fatal, dentro de una laguna a la que fue arrastrado. Los afectados no…",
+          "titulo": "Elecciones en Brasil, EN VIVO: quién ganó el debate entre Lula y Bolsonaro, últimas encuestas y cuenta regresiva al balotaje",
+          "link": "https://www.clarin.com/mundo/elecciones-brasil-vivo-gano-debate-lula-bolsonaro-ultimas-encuestas-cuenta-regresiva-balotaje_0_ErniuibZ3J.html",
+          "resumen": "Todo lo que dejó el mano a mano entre los candidatos, lleno de cruces y chicanas. El domingo próximo se elige el nuevo Presidente.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Un militar de EE.UU. cayó más de 30 metros durante una exhibición antes de un partido de fútbol americano",
-          "link": "https://www.lanacion.com.ar/el-mundo/un-militar-de-eeuu-cayo-mas-de-30-metros-durante-una-exhibicion-antes-de-un-partido-de-futbol-nid18102026/",
-          "resumen": "El grave incidente ocurrió en la previa al encuentro entre los UTSA Roadrunners y los Navy Midshipmen en el Alamodome de San Antonio, Texas; la víctima fue derivada de urgencia a un centro de salud",
+          "titulo": "Nicolás Keenan anunció que será papá junto a Rob Jetten, primer ministro de los Países Bajos",
+          "link": "https://www.lanacion.com.ar/el-mundo/nicolas-keenan-anuncio-que-sera-papa-junto-a-rob-jetten-primer-ministro-de-paises-bajos-nid19102026/",
+          "resumen": "El jugador del equipo de hockey Los Leones y el político neerlandés están juntos desde 2022; el emotivo posteo que compartieron en sus redes sociales",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Asesinato en el subte de Nueva York: una discusión terminó con disparos y un muerto en un andén de Manhattan",
-          "link": "https://www.clarin.com/mundo/asesinato-subte-nueva-york-discusion-termino-disparos-muerto-anden-manhattan_0_AQikygu6zi.html",
-          "resumen": "El crimen ocurrió a poca distancia de los teatros de Broadway y del Carnegie Hall, entre la avenida 7 y la calle 53. El hombre baleado en el pecho fue trasladado al hospital Bellevue, donde finalmente falleció.",
+          "titulo": "La salud del Papa: entre una recuperación increíble y la cautela de un famoso especialista de Milán",
+          "link": "https://www.clarin.com/mundo/salud-papa-recuperacion-increible-cautela-famoso-especialista-milan_0_ISZfsreY0e.html",
+          "resumen": "Aunque la gira por Uruguay, Argentina y Perú está programada entre el 6 y el 17 de noviembre, los médicos desaconsejan trayectos tan extensos a poco tiempo de la intervención. Sin embargo, el pontífice podría realizar la actividad…",
           "fuente": "Clarín"
         }
       ]
@@ -112,34 +112,34 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Racing vs Independiente, EN VIVO: a qué hora juegan, formaciones y cómo ver el Clásico de Avellaneda por el Torneo Clausura",
-          "link": "https://www.clarin.com/deportes/racing-vs-independiente-vivo-hora-juegan-formaciones-ver-clasico-avellaneda-torneo-clausura_0_8IBXfFSz64.html",
-          "resumen": "La Academia y el Rojo, sumidos en una crisis institucional y deportiva, se enfrentan en el Cilindro de Avellaneda. Seguí el minuto a minuto en Clarín.",
+          "titulo": "Juan Martín Del Potro, otra vez nominado para el Salón de la Fama del Tenis: cómo votar al argentino para acompañar a Vilas y Sabatini",
+          "link": "https://www.clarin.com/deportes/juan-martin-potro-vez-nominado-salon-fama-tenis-votar-argentino-acompanar-vilas-sabatini_0_zfVcqE8bZI.html",
+          "resumen": "El año pasado estuvo dentro de la categoría de \"jugadores\", pero solo entró el suizo Roger Federer. ¿Contra quiénes compite esta vez el tandilense?",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Dibu Martínez: la primera foto que compartió tras la operación, una visita inesperada y el mensaje de Mandinha",
-          "link": "https://www.lanacion.com.ar/deportes/dibu-martinez-la-primera-foto-que-compartio-tras-la-operacion-una-visita-inesperada-y-el-mensaje-de-nid18102026/",
-          "resumen": "El arquero argentino publicó una imagen desde el hospital tras sufrir una fractura de mandíbula en el triunfo del Chelsea; su esposa transmitió tranquilidad sobre el estado del futbolista",
+          "titulo": "Luis Enrique, antes del galáctico PSG-Barcelona: fue contundente con la comparación entre Messi y Yamal",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/luis-enrique-antes-del-galactico-psg-barcelona-fue-contundente-con-la-comparacion-entre-messi-y-nid19102026/",
+          "resumen": "A pocas horas del partido en París por la Champions League, el DT celebró que el N° 10 del Barça quiera hacer su propia historia sin pensar en el argentino",
           "fuente": "La Nación"
         },
         {
-          "titulo": "\"Me trae recuerdos hermosos de hace poquito\": el posteo de Lionel Messi tras su doblete con Inter Miami y los comentarios de la Scaloneta",
-          "link": "https://www.clarin.com/deportes/trae-recuerdos-hermosos-hace-poquito-posteo-lionel-messi-doblete-inter-miami-comentarios-scaloneta_0_8ivBNmUviw.html",
-          "resumen": "El astro argentino escribió en sus redes sociales después del triunfo 3-1 contra Atlanta United, por la MLS. Fue en el estadio Mercedes Benz, donde el 15 de julio consiguió una de las victorias más importantes con la Selección, en las…",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "Alejandro Davidovich Fokina, un ejemplo de resiliencia: venció a Rafael Jódar y conquistó Shanghái",
-          "link": "https://www.lanacion.com.ar/deportes/tenis/alejandro-davidovich-fokina-un-ejemplo-de-resiliencia-vencio-a-rafael-jodar-y-conquisto-shanghai-nid18102026/",
-          "resumen": "El malagueño perdió sus primeras cinco finales ATP y creyó que nunca podría coronarse, pero hizo un clic y este año rompió el muro",
-          "fuente": "La Nación"
-        },
-        {
-          "titulo": "Otro lesionado de Selección: Cuti Romero, afuera por una molestia en el aductor",
-          "link": "https://www.ole.com.ar/futbol-internacional/espana/cuti-romero-atletico-madrid-lesion-seleccion-argentina_0_BiFUfUxAI7.html",
-          "resumen": "El defensor del Atlético de Madrid se resintió durante el partido ante Espanyol en La Liga y estará de baja, en principio, por diez días. ¿Qué partidos se perderá?",
+          "titulo": "La sanción que el Flaco Lamadrid pidió para Espino por su gesto a los hinchas de Racing",
+          "link": "https://www.ole.com.ar/racing/racing-espinolamadrid-clasico-independiente_0_Rvyiiq9b5n.html",
+          "resumen": "La desafiante actitud del defensor al irse al vestuario desató la furia de la gente y un histórico referente no dudó en exigir un duro castigo ejemplar. ¿Lo habrá?",
           "fuente": "Olé"
+        },
+        {
+          "titulo": "Sarmiento vs Barracas Central, EN VIVO: a qué hora es, formaciones y cómo ver el partido del Torneo Clausura",
+          "link": "https://www.clarin.com/deportes/sarmiento-vs-barracas-central-vivo-hora-formaciones-ver-partido-torneo-clausura_0_yH4XcgppDk.html",
+          "resumen": "El Verde recibe al Guapo por la fecha 13 de la Liga Profesional, en el estadio Eva Perón de Junín. Seguí el minuto a minuto en Clarín.",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Antonela Roccuzzo compartió fotos inéditas de la despedida de Messi y la intimidad de su vida en Miami",
+          "link": "https://www.lanacion.com.ar/deportes/antonela-roccuzzo-compartio-fotos-ineditas-de-la-despedida-de-messi-y-la-intimidad-de-su-vida-en-nid19102026/",
+          "resumen": "La mujer del excapitán de la selección argentina mostró un compilado divertido de sus mejores momentos juntos como familia en el último mes",
+          "fuente": "La Nación"
         }
       ]
     }
