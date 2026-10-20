@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "19 de octubre de 2026",
-    "generada": "16:40",
+    "fecha": "20 de octubre de 2026",
+    "generada": "14:32",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "\"No hay intención de mantener viva su memoria\": cómo se va difuminando la figura de Maduro en la nueva Venezuela de Delcy Rodríguez",
-            "link": "https://www.bbc.com/mundo/articles/cm1j43k5en2do?at_medium=RSS&at_campaign=rss",
-            "resumen": "A casi diez meses de su captura por parte de Estados Unidos, el expresidente está cada vez menos presente en los discursos y en la agenda.",
+            "titulo": "Por qué Chile enfrenta una crisis económica con récord de desempleo en medio de las políticas de austeridad de Kast",
+            "link": "https://www.bbc.com/mundo/articles/c6gr8x40xvz7o?at_medium=RSS&at_campaign=rss",
+            "resumen": "El desempleo marcó un récord de 9,6%, el mayor en más de cinco años. La inversión está estancada y la confianza de los consumidores ha caído, en medio del plan de austeridad fiscal del gobierno.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Francia implanta toques de queda parciales en algunas ciudades para frenar los disturbios",
-            "link": "https://elpais.com/internacional/2026-10-19/macron-rechaza-la-dimision-del-ministro-del-interior-tras-los-disturbios-del-fin-de-semana.html",
-            "resumen": "Macron rechaza la dimisión del ministro del Interior y el Gobierno se prepara para una nueva gran manifestación el próximo sábado",
+            "titulo": "La UE busca reforzar su influencia en la disputada región del Ártico",
+            "link": "https://elpais.com/internacional/2026-10-20/la-ue-busca-reforzar-su-influencia-en-la-disputada-region-del-artico.html",
+            "resumen": "Bruselas presenta su nueva estrategia regional, más enfocada a los riesgos geoestratégicos que provoca el deshielo en una región donde Rusia, China y EE UU quieren ampliar su presencia",
             "fuente": "El País"
           },
           {
-            "titulo": "\"Protestas en Francia el 17 de octubre: anatomía de un fiasco\": 'Liberation'",
-            "link": "https://www.france24.com/es/programas/revista-de-prensa/20261019-protestas-en-francia-el-17-de-octubre-anatom%C3%ADa-de-un-fiasco-liberation",
-            "resumen": "Caos, ira, verguenza y violencia. Son algunos de los calificativos que más se repiten entre los medios tras la cobertura de las manifestaciones del fin de semana. 'Le Monde' explica, primero, que las protestas son \"consecuencia del fin…",
+            "titulo": "Francia desplegará militares para reforzar a la Policía durante las protestas del próximo sábado",
+            "link": "https://www.france24.com/es/francia/20261020-en-directo-los-toques-de-queda-en-par%C3%ADs-y-otras-ciudades-han-contribuido-a-la-calma-afirma-lecornu",
+            "resumen": "",
             "fuente": "France 24"
           },
           {
-            "titulo": "\"Francia contiene la respiración\": las numerosas preguntas que siguen abiertas tras un \"fin de semana de furia\" y por qué se temen más protestas",
-            "link": "https://www.bbc.com/mundo/articles/cr86z0z5yd3lo?at_medium=RSS&at_campaign=rss",
-            "resumen": "La tensión política se apodera de Francia después de que los disturbios empañaran las protestas por el coste de la vida y las dificultades de los servicios públicos.",
+            "titulo": "¿Cómo le está yendo a la economía estadounidense bajo la presidencia de Trump?",
+            "link": "https://www.bbc.com/mundo/articles/cq0ldk70n888o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Antes de las elecciones de mitad de mandato, Trump ha presumido del desempeño de la economía estadounidense. BBC Verify analiza los datos de inflación, empleo y crecimiento económico para evaluar si esas afirmaciones se sostienen.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Francia hace balance tras el mayor estallido de violencia en décadas: 2.000 detenidos y un millar de comercios saqueados",
-            "link": "https://elpais.com/internacional/2026-10-18/francia-hace-balance-tras-el-mayor-estallido-de-violencia-y-caos-en-decadas-1800-detenidos-y-un-millar-de-comercios-saqueados.html",
-            "resumen": "Muchas calles de París, Marsella o Lyon han amanecido completamente arrasadas. Solo en la capital se produjeron 855 arrestos, una cifra récord",
+            "titulo": "La policía desaloja las acampadas en Lisboa y Oporto y detiene a algunos de los manifestantes",
+            "link": "https://elpais.com/internacional/2026-10-20/la-policia-desaloja-las-acampadas-en-lisboa-y-oporto-y-detiene-a-algunos-de-los-manifestantes.html",
+            "resumen": "Las concentraciones han durado tres días en las dos ciudades más importantes de Portugal, pero se prevén nuevas movilizaciones esta semana",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Las parejas con hijos tendrán derecho a la pensión de viudedad si acreditan dos años de convivencia",
-            "link": "https://elpais.com/economia/2026-10-19/las-parejas-con-hijos-tendran-derecho-a-la-pension-de-viudedad-si-acreditan-dos-anos-de-convivencia.html",
-            "resumen": "El decreto ley que prevé aprobar este martes el Consejo de Ministros, y que deberá convalidar la Diputación Permanente, equipara a estos convivientes con los matrimonios y las parejas de hecho",
+            "titulo": "Vivienda aprueba una subvención de 180 millones a las comunidades con zonas tensionadas",
+            "link": "https://elpais.com/economia/vivienda/2026-10-20/vivienda-aprueba-una-subvencion-de-180-millones-a-las-comunidades-con-zonas-tensionadas.html",
+            "resumen": "El Gobierno destina otros 45 millones a siete proyectos de alojamiento en universidades con los que prevé crear 2.000 plazas",
             "fuente": "El País"
           },
           {
-            "titulo": "La prima de riesgo se dispara en Francia en plena oleada de disturbios",
-            "link": "https://www.expansion.com/economia/2026/10/19/prima-riesgo-dispara-francia-plena-oleada-disturbios.html",
-            "resumen": "Los mercados vuelven a poner en su punto de mira a Francia, señalado por los analistas como \"el talón de Aquiles\" de Europa. Leer",
+            "titulo": "Sabadell y CaixaBank son los bancos que más condicionan el bonus; Bankinter, el que menos",
+            "link": "https://www.expansion.com/empresas/banca/2026/10/20/6a54c287468aebff568b45a6.html",
+            "resumen": "BBVA prima las empresas, Unicaja usa indicadores sintéticos y Santander simplifica, pero la rentabilidad es el indicador estrella de la retribución variable. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Los grandes destinos turísticos tratan de combatir la saturación con nuevas tasas y herramientas de IA",
-            "link": "https://elpais.com/economia/2026-10-19/los-grandes-destinos-turisticos-tratan-de-combatir-la-saturacion-con-nuevas-tasas-y-herramientas-de-ia.html",
-            "resumen": "Ayuntamientos y otras Administraciones buscan restringir los grupos de turistas o preservar el comercio local mientras rastrean a los viajeros para conocer sus hábitos",
+            "titulo": "El Consejo de Ministros aprueba ampliar la pensión de viudedad a parejas con hijos que no formalizasen la relación",
+            "link": "https://elpais.com/economia/2026-10-20/el-consejo-de-ministros-aprueba-ampliar-la-pension-de-viudedad-a-parejas-con-hijos-que-no-formalizasen-la-relacion.html",
+            "resumen": "El Gobierno da un año a los supervivientes que conviviesen al menos dos años y cuyas parejas muriesen hace tiempo para que pidan la prestación",
             "fuente": "El País"
           },
           {
-            "titulo": "Así es el 'contrato con España' de Feijóo: vivienda, pensiones e impuestos como protagonistas",
-            "link": "https://www.expansion.com/economia/2026/10/19/asi-contrato-espana-feijoo-vivienda-pensiones-e-impuestos-protagonistas.html",
-            "resumen": "El líder del PP y candidato a las elecciones generales del 29 de noviembre, Alberto Núñez Feijóo, ha presentado este lunes las líneas maestras de su programa electoral, donde las medidas económicas son protagonistas. Leer",
+            "titulo": "Subida salarial del 5% para los funcionarios: pendiente de las elecciones",
+            "link": "https://www.expansion.com/economia/2026/10/20/subida-salarial-5-funcionarios-pendiente-elecciones.html",
+            "resumen": "El Gobierno se reúne con los sindicatos representantes de los empleados públicos para explorar la posibilidad de aprobar la revalorización antes de las generales del 29 de noviembre. A comienzos de año se debería aprobar el 0,5% extra de…",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Los sindicatos registran el paro por la vivienda del 11-N: “Esta huelga general es de la calle”",
-            "link": "https://elpais.com/economia/2026-10-19/los-sindicatos-registran-el-paro-por-la-vivienda-del-11-n-esta-huelga-general-es-de-la-calle.html",
-            "resumen": "Las centrales mayoritarias y las pequeñas exhiben unidad al notificar en el Ministerio de Trabajo la jornada de movilizaciones",
+            "titulo": "Los barrios ricos de Madrid tienen la desigualdad más alta y duradera frente a la mejora general en España",
+            "link": "https://elpais.com/economia/2026-10-20/los-barrios-ricos-de-madrid-tienen-la-desigualdad-mas-alta-y-duradera-frente-a-la-mejora-general-en-espana.html",
+            "resumen": "Los desarrollos urbanísticos de la costa también mantienen bolsas de inequidad en un contexto de crecimiento de la renta media",
             "fuente": "El País"
           }
         ]
@@ -78,33 +78,33 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "Japón se atreve con la primera misión para traer muestras de Fobos, la desconocida luna de Marte",
-            "link": "https://elpais.com/ciencia/2026-10-19/japon-se-atreve-con-la-primera-mision-para-traer-muestras-de-fobos-la-desconocida-luna-de-marte.html",
-            "resumen": "El pequeño vehículo ‘Idefix’ intentará hacer historia al recolectar tierra del satélite marciano para mandarla de vuelta a la Tierra",
+            "titulo": "Un satélite ruso acecha a otro de EE UU durante días en una maniobra “sin precedentes”: un paso más hacia la guerra de las galaxias",
+            "link": "https://elpais.com/ciencia/2026-10-20/un-satelite-ruso-acecha-a-otro-durante-dias-en-una-maniobra-sin-precedentes-un-paso-mas-hacia-la-guerra-de-las-galaxias.html",
+            "resumen": "El aparato Kosmos-2612 ha puesto en peligro la integridad del estadounidense Iceye-X36, semanas después de que Washington reconociera que ya ha desplegado armas activas en el espacio",
             "fuente": "El País"
           },
           {
-            "titulo": "De Lara Croft a Lucía Caminos: ¿por qué todavía molesta que una mujer sea protagonista de un videojuego?",
-            "link": "https://elpais.com/tecnologia/2026-10-16/de-lara-croft-a-lucia-caminos-por-que-todavia-molesta-que-una-mujer-sea-protagonista-de-un-videojuego.html",
-            "resumen": "La decisión de los creadores de GTA VI de dar un papel central a una mujer latina ha reavivado los comentarios sexistas de algunos jugadores",
+            "titulo": "Protección de Datos alerta de un récord de brechas de seguridad",
+            "link": "https://elpais.com/tecnologia/2026-10-20/proteccion-de-datos-alerta-de-un-record-de-brechas-de-seguridad.html",
+            "resumen": "En el primer semestre se registraron tantos incidentes como en todo 2025, lo que se achaca al aumento de la ciberdelincuencia",
             "fuente": "El País"
           },
           {
-            "titulo": "Descubierto un nuevo cometa en una de las regiones menos observadas del sistema solar",
-            "link": "https://elpais.com/ciencia/2026-10-19/descubierto-un-nuevo-cometa-en-una-de-las-regiones-menos-observadas-del-sistema-solar.html",
-            "resumen": "El hallazgo fue realizado por Euclid, una misión concebida para estudiar la materia oscura y la energía oscura",
+            "titulo": "En busca de la verdad entre chanclas y pintas en el Festival Starmus",
+            "link": "https://elpais.com/ciencia/2026-10-20/en-busca-de-la-verdad-entre-chanclas-y-pintas-en-el-festival-starmus.html",
+            "resumen": "El profesor de Harvard Steven Pinker, el premio Nobel Geoffrey Hinton y la antropóloga Christiana Figueres debaten sobre los hechos alternativos y las noticias falsas en la segunda jornada del evento científico",
             "fuente": "El País"
           },
           {
-            "titulo": "Ejércitos, sanidad o servicios secretos: 11 países europeos ya tienen contratos millonarios con Palantir con dinero público",
-            "link": "https://elpais.com/tecnologia/2026-10-15/ejercitos-policias-y-servicios-secretos-11-paises-europeos-ya-tienen-contratos-millonarios-con-palantir-con-dinero-publico.html",
-            "resumen": "Expertos y cargos públicos alertan de los riesgos de depender de la polémica tecnológica. En España, el Ejecutivo asegura que habrá una alternativa nacional",
+            "titulo": "Google despliega en Madrid sus primeros robotaxis autónomos Waymo",
+            "link": "https://elpais.com/tecnologia/2026-10-20/google-despliega-en-madrid-sus-primeros-robotaxis-autonomos-waymo.html",
+            "resumen": "Los coches sin conductor empezarán a rodar en los próximos días por las calles de Alcobendas, Getafe y de la capital y se empezarán a comercializar viajes a partir de 2027",
             "fuente": "El País"
           },
           {
-            "titulo": "Astrofísica, premios Nobel y ‘rock and roll’ en el festival Starmus en Tenerife",
-            "link": "https://elpais.com/ciencia/2026-10-19/astrofisica-premios-nobel-y-rock-and-roll-en-el-festival-starmus-en-tenerife.html",
-            "resumen": "Empieza el evento científico que saca la física de los laboratorios y la acerca a las plazas, con la presencia de Brian May, Geoffrey Hinton, Steven Pinker o Julie Payette",
+            "titulo": "Las abejas llevan un siglo desapareciendo de Europa (y Galicia está entre las zonas más afectadas)",
+            "link": "https://elpais.com/ciencia/2026-10-19/las-abejas-llevan-un-siglo-desapareciendo-de-europa-y-galicia-esta-entre-las-zonas-mas-afectadas.html",
+            "resumen": "Otros grandes polinizadores como las moscas también están perdiendo territorio",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Flick, sobre el codazo de Güler: \"Lo vi pero no quiero contestar\"",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240310/rueda-prensa-flick-pedri-directo-previa-ultima-hora-psg-barcelona-champions-league.html",
-            "resumen": "",
+            "titulo": "El posible once del Barça ante el PSG",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004240860/posible-once-barca-psg.html",
+            "resumen": "Hansi Flick decidirá hoy el once que alinea ante el PSG en función de cómo esté Gerard Martí n, y también deberá decantarse por una de las opciones en la punta de ataque. En cuanto al central, las pruebas descartaron lesión pero la…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Laporta atiza al Madrid en 'L'Équipe': \"Se han equivocado y están pagando el precio\"",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240659/laporta-vuelve-atizar-madrid-han-equivocado-pagando-precio.html",
-            "resumen": "El Barcelona afronta una semana ilusionante con los partidos ante el Paris Saint-Germain y el Real Madrid . La relación con ambos clubes es muy distinta. Mientras que Joan Laporta se ha acercado a Nasser Al-Khelaifi , el distanciamiento…",
+            "titulo": "Laporta-Al Khelaifï, de las discrepancias a la buena sintonía",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004240911/laporta-khelaifi-discrepancias-buena-sintonia.html",
+            "resumen": "Joan Laporta , presidente del FC Barcelona , y Nasser Al-Khelaïfi , presidente del PSG , se verán este mediodía (12:30 h.) en el restaurante Pavillon Ledoyen , uno de los más emblemáticos de la capital francesa, antes del partidazo de…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "October 19, 2026",
-    "generada": "16:40",
+    "fecha": "October 20, 2026",
+    "generada": "14:32",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Australian MP critically injured after being hit by car in apparent attack",
-            "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
+            "titulo": "Zelensky and US envoys to hold Oslo talks as Rubio denies withholding intelligence",
+            "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The US secretary of state rejects accusations Ukrainians were dying because the US was withholding intelligence.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "US grants deportation reprieve to migrants from Ukraine and Sudan",
+            "link": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
+            "resumen": "DHS says migrants ‘retain protections’ after temporary protected status was set to expire on Monday Send us your questions about immigration and the midterms More than 100,000 people from Ukraine and Sudan can stay in the United States…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "France Protests Show Europe’s Shift Away From Centrist Politics",
+            "link": "https://www.nytimes.com/2026/10/20/world/europe/france-protests-europe-centrist-far-right.html",
+            "resumen": "Europe’s centrist parties are losing ground among young people and workers, who are increasingly tempted by populist promises of radical change.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+            "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
+            "resumen": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
             "fuente": "BBC"
           },
           {
             "titulo": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
             "link": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
             "resumen": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutors A Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "How a Trillion-Dollar Industry Launders Illegal Gold",
-            "link": "https://www.nytimes.com/2026/10/19/world/africa/dirty-gold-industry-coverup-launder-madagascar.html",
-            "resumen": "The line between dirty and clean gold is an industry fiction. Wall Street and governments profit off gold from criminals, gangsters and those who exploit children.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-            "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Drone attack near market kills 80 in Sudan",
-            "link": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
-            "resumen": "Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of war A drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catching rides home. Ahmed Wadi, a…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Vinted blocks French looters listing stolen goods for sale",
-            "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
-            "resumen": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\".",
+            "titulo": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+            "link": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The government increased taxes on online casino and sports betting in last year's Budget.",
             "fuente": "BBC"
           },
           {
-            "titulo": "HelloFresh workers claim physical abuse and denied bathroom breaks in class action suit",
-            "link": "https://www.theguardian.com/business/2026/oct/19/hellofresh-abuse-lawsuit",
-            "resumen": "The meal kit delivery service denies the allegations, saying it found claims to be ‘entirely without merit’ Workers at a HelloFresh facility in Newark, New Jersey have claimed in court documents that they were verbally and physically…",
+            "titulo": "Google Cloud outage: problems fixed for ‘most‘ customers, as regulators push for details – latest updates",
+            "link": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
+            "resumen": "Google apologises after power issue causes a major Cloud outage in its London region today that led to problems at banks, Revolut, and court video cameras Google cloud failure hits millions as UK courts and banks knocked offline The pound…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Saudi Arabia Postpones Its FII Investment Event After Houthi Attacks",
-            "link": "https://www.nytimes.com/2026/10/19/business/saudi-investment-fii-houthis.html",
-            "resumen": "The Future Investment Initiative, a centerpiece of Saudi efforts to diversify its economy from its reliance on the energy industry, was set to begin next week.",
+            "titulo": "A ‘Doom Loop’ Threatens France as Populism Confronts Markets",
+            "link": "https://www.nytimes.com/2026/10/20/business/france-protests-bond-markets.html",
+            "resumen": "The turmoil shows the profound challenges facing governments stuck between unhappy citizens and wary bond investors.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Bikes 'not for jousting,' says Lime after duel video",
-            "link": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust.",
+            "titulo": "Jobless rate falls but small firms cut back hiring",
+            "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
             "fuente": "BBC"
           },
           {
-            "titulo": "China’s economy grows faster than forecast after AI boom boosts exports",
-            "link": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
-            "resumen": "Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demand Business live – latest updates Roaring exports lifted China’s economic growth in the third quarter of this year, with factory output…",
+            "titulo": "Hollywood AI-listers: is the technology ready to rival flesh-and-blood film stars?",
+            "link": "https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood",
+            "resumen": "As a freaky Val Kilmer doppelganger stars in a new western and faux starlet Tilly Norwood is set for her feature debut, experts are split on whether mainstream adoption is a long way down the line – or just around the corner ‘Don’t fear…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Mission set to blast off for Mars to grab a piece of its moon",
-            "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
-            "resumen": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+            "titulo": "Huge fin whale filmed off Welsh coast",
+            "link": "https://www.bbc.co.uk/news/videos/cxly491v6p7yo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Rhys Morgan captured footage of the world's second-largest whale species lunge feeding on his drone.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Warning signs could predict inflammatory bowel disease a decade before diagnosis",
-            "link": "https://www.theguardian.com/science/2026/oct/18/research-predict-inflammatory-bowel-disease-decade-before-diagnosis",
-            "resumen": "Antibody patterns in the blood may help doctors identify people at risk so they can be treated earlier, research shows Patterns of antibodies in people’s blood could predict the onset of inflammatory bowel disease (IBD) a decade before…",
+            "titulo": "‘These risks are real’: the threat of AI bioweapons - video",
+            "link": "https://www.theguardian.com/science/video/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-video",
+            "resumen": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5 , warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "How Did Life Arise? Three Turning Points in Early Evolution",
-            "link": "https://www.nytimes.com/2026/10/19/science/evolution-life-earth.html",
-            "resumen": "Where did it start? How did it grow complex? Why did it get big? Three moments in Earth’s early history when evolution suddenly, inexplicably turned up the dial.",
+            "titulo": "Where Do Autoimmune Diseases Come From?",
+            "link": "https://www.nytimes.com/2026/10/20/science/autoimmune-diseases-evolution-ms.html",
+            "resumen": "Our genes evolved to fight ancient threats, but in the modern world, some of those changes may be turning against us.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "BBC visits wildfire front in haze-choked Indonesia",
-            "link": "https://www.bbc.co.uk/news/videos/cm9wzye55j4xo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents.",
+            "titulo": "Moment giant fin whale's huge mouth engulfs thousands of gallons of water",
+            "link": "https://www.bbc.co.uk/news/articles/cjr4yeygwdxvo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Videographer Rhys Morgan captured footage of the worlds second largest whale lunge feeding on his drone.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Starwatch: Catch the Orionid meteor shower streak across the night sky",
-            "link": "https://www.theguardian.com/science/2026/oct/19/orionid-meteor-shower-halley-comet-starwatch",
-            "resumen": "As Earth passes through dust left by Halley’s comet, observers may see 10-20 fragments per hour The annual Orionid meteor shower reaches its peak this week, offering the chance to see fragments of the most famous comet of all streaking…",
+            "titulo": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
+            "link": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+            "resumen": "System can estimate a person’s biological age and predict chances of cancer survival from a single photograph Doctors have developed an artificial intelligence tool that can predict a cancer patient’s chances of survival from a single…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Uefa gives Infantino two-week deadline to release key documents",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo?at_medium=RSS&at_campaign=rss",
-            "resumen": "European governing body Uefa tells Fifa it must release key documents related to its governance and decision-making by 2 November.",
+            "titulo": "Ronaldo let Manchester United down - Ten Hag",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Former Manchester United manager Erik ten Hag says Cristiano Ronaldo \"let the team and let me down\" during the Dutchman's spell at Old Trafford.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Eagles QB Jalen Hurts to miss rest of season after blood clots travel to his lungs",
-            "link": "https://www.theguardian.com/sport/2026/oct/19/eagles-qb-jalen-hurts-to-miss-rest-of-season-after-blood-clots-travel-to-his-lungs",
-            "resumen": "28-year-old will take blood thinners for condition Tanner McKee has taken over as Eagles starter Philadelphia Eagles quarterback Jalen Hurts is set to miss the rest of the season after further testing ⁠revealed blood clots had traveled…",
+            "titulo": "Jalen Hurts played through a blood clot. Are NFL players cattle?",
+            "link": "https://www.theguardian.com/sport/2026/oct/20/jalen-hurts-blood-clots-eagles-nfl",
+            "resumen": "The Eagles quarterback’s recent health issues highlight how football’s toughness culture puts its players at risk Jalen Hurts is likely to miss the rest of the season after an ultrasound revealed blood clots in his lungs. Thankfully, he’s…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Are free-scoring Brighton genuine title contenders?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cwn8d48je057o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Brighton's start to the season has surprised many outsiders. But how high could they finish?",
+            "titulo": "We were not underprepared for World Cup, says England's O'Neill",
+            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cmd6d3gj2znxo?at_medium=RSS&at_campaign=rss",
+            "resumen": "England's Brad O'Neill has dismissed the suggestion they were underprepared for their Rugby League World Cup campaign as they bid to start salvaging it with an unchanged team against France.",
             "fuente": "BBC"
           },
           {
-            "titulo": "The Rams have managed to transform themselves from a superteam to a midteam",
-            "link": "https://www.theguardian.com/sport/2026/oct/19/los-angeles-rams-superteam-struggles-nfl-football",
-            "resumen": "Los Angeles were tipped as a Super Bowl contender after assembling a star studded lineup. Now they’ve lost three of their last four games The Rams were supposed to be the closest thing the NFL had seen to a superteam in some time.…",
+            "titulo": "Brock Purdy becomes highest-rated passer in NFL history as 49ers stay perfect",
+            "link": "https://www.theguardian.com/sport/2026/oct/19/washington-commanders-san-francisco-49ers-nfl-monday-night-football",
+            "resumen": "Washington Commanders 17–23 San Francisco 49ers Niners move to 6-0 but are pushed hard by Washington Brock Purdy threw a touchdown pass, Christian McCaffrey ran for two scores and the San Francisco 49ers held on to beat the Washington…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Haaland a doubt, Semenyo out - what are Man City's options?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c5djv21rkekwo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Manchester City coach Enzo Maresca explores his attacking options for Tuesday's Champions League game against AEK Athens.",
+            "titulo": "Race, illness, injury, repeat - REDs and why men are suffering in silence",
+            "link": "https://www.bbc.co.uk/sport/articles/ck054n5nqlv5o?at_medium=RSS&at_campaign=rss",
+            "resumen": "British long-distance runner Jake Smith was enduring a relentless pattern of race, illness, injury, repeat - he had no idea he had REDs and was under-fuelling.",
             "fuente": "BBC"
           }
         ]
