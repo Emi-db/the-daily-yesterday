@@ -1,41 +1,41 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "22 de octubre de 2026",
-    "generada": "14:43",
+    "fecha": "23 de octubre de 2026",
+    "generada": "14:30",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "¿Qué es PHP y por qué generó una falla de seguridad en internet que desató una alerta global?",
-            "link": "https://www.bbc.com/mundo/articles/cmly0k9y9p1vo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Una IA detectó fallos de programación ocultos durante años, lo que desencadenó una inusual respuesta de ciberseguridad por temor a que fueran explotados por ciberatacantes.",
+            "titulo": "3 claves que explican por qué el duelo final entre Flávio Bolsonaro y Lula en Brasil es crucial para América Latina (y para Trump en EE.UU.)",
+            "link": "https://www.bbc.com/mundo/articles/cqrkyj450rmlo?at_medium=RSS&at_campaign=rss",
+            "resumen": "La segunda vuelta que disputarán el domingo el senador derechista y el presidente de izquierda puede tener consecuencias en geopolítica, seguridad o incluso el medioambiente de la región, según expertos.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "El Tribunal Penal Internacional gana el premio Sájarov 2026 del Parlamento Europeo",
-            "link": "https://elpais.com/internacional/2026-10-22/el-tribunal-penal-internacional-premio-sajarov-2026-del-parlamento-europeo.html",
-            "resumen": "La Eurocámara desafía a Trump y galardona a la corte de justicia con sede en La Haya en plena campaña de Estados Unidos en su contra",
+            "titulo": "Netanyahu ordena una gran operación en Cisjordania tras la muerte de dos soldados en un ataque palestino",
+            "link": "https://elpais.com/internacional/2026-10-23/el-ejercito-israeli-mata-a-dos-palestinos-armados-tras-un-tiroteo-en-cisjordania.html",
+            "resumen": "El primer ministro prevé ir “casa por casa” desmantelar las “estructuras terroristas”. A cuatro días de las elecciones israelíes, Hamás pide intensificar las agresiones contra soldados y colonos",
             "fuente": "El País"
           },
           {
-            "titulo": "Detienen en Ecuador a la excandidata presidencial del correísmo Luisa González",
-            "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261022-ecuador-detiene-a-la-excandidata-presidencial-del-corre%C3%ADsmo-luisa-gonz%C3%A1lez",
-            "resumen": "",
-            "fuente": "France 24"
-          },
-          {
-            "titulo": "Sitios web de todo el mundo quedan desactivados tras detectarse una falla de seguridad crítica en internet",
-            "link": "https://www.bbc.com/mundo/articles/cq3djnk48ly8o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Una grieta en el lenguaje de programación PHP, que es ampliamente utilizado en internet, ha sido descrita como las más importantes jamás descubiertas por la inteligencia artificial.",
+            "titulo": "¿Por qué hay tantas protestas en México si Claudia Sheinbaum es tan popular?",
+            "link": "https://www.bbc.com/mundo/articles/cmp3gd784e24o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Aunque en México se protesta casi todos los días, no hay, en general, un clima de descontento social y la presidenta Sheinbaum sigue siendo una de las más populares de la región. ¿Cómo se explica?",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Francia solo autorizará las manifestaciones convocadas por los sindicatos para prevenir nuevos disturbios",
-            "link": "https://elpais.com/internacional/2026-10-22/francia-solo-autorizara-las-manifestaciones-convocadas-por-los-sindicatos-para-prevenir-nuevos-disturbios.html",
-            "resumen": "Macron denuncia los “actos sediciosos” de grupos de ultraizquierda y convoca un consejo de defensa para tomar medidas adicionales ante las movilizaciones del fin de semana",
+            "titulo": "Francia movilizará a 70.000 policías para impedir disturbios y saqueos en una nueva jornada de protestas",
+            "link": "https://elpais.com/internacional/2026-10-23/macron-trata-de-retomar-el-control-con-la-prohibicion-de-manifestaciones-y-el-blindaje-de-las-ciudades.html",
+            "resumen": "El presidente Macron se pone al frente del despliegue de seguridad y se reúne con los estudiantes en vísperas de otra gran movilización. Los sindicatos se revuelven contra el veto a las marchas",
             "fuente": "El País"
+          },
+          {
+            "titulo": "Quiénes son los \"ciudadanos palestinos de Israel\" y por qué pueden tener la llave para desbancar a Netanyahu",
+            "link": "https://www.bbc.com/mundo/articles/crz9812qjxd2o?at_medium=RSS&at_campaign=rss",
+            "resumen": "El descontento ha sido tradicionalmente un factor que ha mermado la participación electoral de los árabes israelíes. Sin embargo, en estas elecciones existe un fuerte deseo de derrotar a la actual coalición gobernante de derecha.",
+            "fuente": "BBC Mundo"
           }
         ]
       },
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "La banca afronta una factura millonaria al tener que devolver el dinero a sus clientes víctimas de fraude",
-            "link": "https://cincodias.elpais.com/mercados-financieros/2026-10-22/la-banca-afronta-una-factura-milmillonaria-al-tener-que-devolver-el-dinero-a-sus-clientes-victimas-de-fraude.html",
-            "resumen": "Las entidades tendrán que reembolsar en 24 horas el dinero de las operaciones no autorizadas y pleitear luego si quieren recuperarlo. El fraude europeo asciende a 4.200 millones anuales",
+            "titulo": "Consumo ordena retirar 8.300 anuncios irregulares de alquiler de temporada, la mayoría en Madrid",
+            "link": "https://elpais.com/economia/vivienda/2026-10-23/consumo-ordena-retirar-8300-anuncios-irregulares-de-alquiler-de-temporada-la-mayoria-en-madrid.html",
+            "resumen": "El ministerio detecta en dos plataformas viviendas turísticas anunciadas bajo otra modalidad para eludir la mayor regulación que tiene ahora la vivienda vacacional",
             "fuente": "El País"
           },
           {
-            "titulo": "El Ibex corrige su optimismo con los resultados",
-            "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/22/6ad9a54ae5fdea1b788b457d.html",
-            "resumen": "La presión del petróleo y los últimos resultados publicados en EEUU giran de nuevo a la baja a las tecnológicas. Las caídas cobran fuerza en Asia y en el Nasdaq, mientras Europa trata de moderar el revés. El Ibex, en el estreno de los…",
+            "titulo": "Qué está provocando el desplome del oro",
+            "link": "https://www.expansion.com/mercados/2026/10/23/6adb41d9e5fdea8e478b457c.html",
+            "resumen": "El contexto actual de mayor aversión al riesgo en los mercados resulta propicio para el oro. Pero lejos de sacar partido a la búsqueda de refugio, el metal precioso se desinfla a mínimos de julio. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Los multipropietarios suben el alquiler casi el doble que los caseros con un solo piso",
-            "link": "https://elpais.com/economia/vivienda/2026-10-22/los-multipropietarios-suben-el-alquiler-casi-el-doble-que-los-caseros-con-un-solo-piso.html",
-            "resumen": "Los dueños de cinco o más viviendas subieron la renta un 13,5% de media entre 2019 y 2023, frente al 7% de los monoarrendadores, según un estudio de Esade",
+            "titulo": "El precio de la vivienda en propiedad ha crecido casi cuatro veces más que los salarios en los últimos 13 años",
+            "link": "https://elpais.com/economia/vivienda/2026-10-23/el-precio-de-la-vivienda-en-propiedad-ha-crecido-casi-cuatro-veces-mas-que-los-salarios-en-los-ultimos-13-anos.html",
+            "resumen": "Un informe de CC OO subraya el efecto del encarecimiento de los locales en la actividad empresarial y estima que una caída del 30% del precio de los pisos podría crear hasta 411.000 empleos",
             "fuente": "El País"
           },
           {
-            "titulo": "Cómo sacar partido a la lluvia de dividendos del Ibex 35",
-            "link": "https://www.expansion.com/podcasts/en-accion/2026/10/22/sacar-partido-lluvia-dividendos-ibex-35.html",
-            "resumen": "¿Es posible vivir de los dividendos? ¿Cómo distinguir una empresa que remunera bien al accionista de otra que puede recortar su pago? Leer",
+            "titulo": "El invierno llega a los mercados",
+            "link": "https://www.expansion.com/economia/financial-times/2026/10/23/invierno-llega-mercados.html",
+            "resumen": "Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "El PP propone segregar pisos de gran tamaño como remedio ante la falta de vivienda",
-            "link": "https://elpais.com/economia/vivienda/2026-10-22/el-pp-propone-segregar-pisos-de-gran-tamano-como-remedio-ante-la-falta-de-vivienda.html",
-            "resumen": "La medida, propuesta por el vicesecretario de Hacienda, ya se aplica en distintas ciudades del país, con escaso impacto en el mercado",
+            "titulo": "Los expertos prevén una oleada de reclamaciones de los clientes a los bancos por las ciberestafas",
+            "link": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/los-expertos-preven-una-oleada-de-reclamaciones-de-los-clientes-a-los-bancos-por-las-ciberestafas.html",
+            "resumen": "Juristas y clientes anticipan una oleada de procesos, en los que la banca se podrá aferrar a la distinción entre si el usuario ha autorizado o no una operación",
             "fuente": "El País"
           }
         ]
@@ -84,27 +84,27 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Millones de intentos de ataque en pocas horas tras destapar la IA fallos graves en miles de webs",
-            "link": "https://elpais.com/tecnologia/2026-10-22/millones-de-intentos-de-ataque-en-pocas-horas-tras-destaparse-fallos-graves-en-miles-de-webs.html",
-            "resumen": "Bancos, aerolíneas y administraciones de todo el mundo han desconectado servicios online tras descubrirse unos agujeros de seguridad en PHP, un lenguaje de programación muy utilizado para crear páginas en internet",
+            "titulo": "El furor por el iPhone Duo llega a las tiendas: horas de espera para adquirir el plegable de 2.300 euros frente a los acampados de Sol",
+            "link": "https://elpais.com/tecnologia/2026-10-23/el-furor-por-el-iphone-duo-llega-a-las-tiendas-horas-de-espera-para-adquirir-el-plegable-de-2300-euros-frente-a-los-acampados-de-sol.html",
+            "resumen": "Decenas de personas se agolpan frente al portal de la tienda oficial del centro de Madrid para hacerse con el nuevo móvil de Apple",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "El cielo que atrapó a Van Gogh: la Luna y Venus revelan la fecha en que observó ‘La noche estrellada’",
+            "link": "https://elpais.com/ciencia/2026-10-22/el-cielo-que-atrapo-a-van-gogh-la-luna-y-venus-revelan-la-fecha-en-que-observo-la-noche-estrellada.html",
+            "resumen": "Un grupo de científicos afirma que la famosa pintura coincide con la posición de los astros en el cielo de las primeras horas del 22 de julio de 1889, más tarde de lo que se creía",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "El año negro de Meta: las claves de la mayor multa a una tecnológica por cometer 43 millones de infracciones",
+            "link": "https://elpais.com/tecnologia/2026-10-23/el-ano-negro-de-meta-las-claves-de-la-mayor-multa-a-una-tecnologica-por-cometer-43-millones-de-infracciones.html",
+            "resumen": "La compañía de Mark Zuckerberg deberá pagar 22.000 millones al Estado de Nuevo México, que se suman a los 18.000 acordados para frenar otra demanda por los efectos de las redes sociales. Y el curso todavía no ha acabado",
             "fuente": "El País"
           },
           {
             "titulo": "La herencia genética de Roma perduró en la Península tras las incursiones de los visigodos",
             "link": "https://elpais.com/ciencia/2026-10-21/la-herencia-genetica-de-roma-perduro-en-la-peninsula-tras-las-incursiones-de-los-visigodos.html",
             "resumen": "El mayor estudio genético de la región Ibérica entre los siglos I y VIII ha contado con ADN de más de 200 cadáveres",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Multa histórica para Meta: pagará 25.000 millones de dólares en Nuevo México por las malas prácticas de Facebook",
-            "link": "https://elpais.com/us/2026-10-21/multa-historica-para-meta-debera-pagar-25000-millones-de-dolares-en-nuevo-mexico.html",
-            "resumen": "Un juez asegura que la red social engañó a los usuarios con sus políticas de privacidad en hasta 43 millones de ocasiones",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Sobrevivir en la morería: un centenar de cadáveres permite el mayor estudio sobre una minoría en la España de la Reconquista",
-            "link": "https://elpais.com/ciencia/2026-10-21/sobrevivir-en-la-moreria-un-centenar-de-cadaveres-permite-el-mayor-estudio-sobre-una-minoria-en-la-espana-de-la-reconquista.html",
-            "resumen": "Compuestos acumulados en los huesos de los difuntos de un cementerio musulmán reconstruyen la dieta de los mudéjares a lo largo de cinco siglos",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Locura por Leo Messi en Oviedo",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261022/1004241879/locura-leo-messi-oviedo.html",
-            "resumen": "Oviedo se ha rendido a Leo Messi . Cientos de aficionados se han congregado a las puertas del Hotel de la Reconquista para recibir al futbolista argentino, distinguido con el Premio Princesa de Asturias de los Deportes de esta edición.",
+            "titulo": "Leo Messi recibe la insignia de los Premios Princesa de Asturias de manos de Leonor",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261023/1004242280/messi-recibe-insignia-audiencia-princesa-leonor.html",
+            "resumen": "Leo Messi ha recibido este viernes la insignia de los Premios Princesa de Asturias 2026 de manos de la princesa Leonor de Borbón, durante la audiencia celebrada en la sala Covadonga del Hotel de la Reconquista, en Oviedo, con la presencia…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "El CSD eleva al TAD las palabras de Tebas sobre el Real Madrid",
-            "link": "https://www.mundodeportivo.com/futbol/real-madrid/20261022/1004241923/csd-eleva-tad-palabras-tebas-sobre-real-madrid.html",
-            "resumen": "El Consejo Superior de Deportes ha anunciado a través de un comunicado que ha elevado al TAD las palabras de Javier Tebas en las que el presidente de LaLiga, a través de un mensaje en su red social 'X', comparó la comunicación del Real…",
+            "titulo": "Cuando Mourinho era culé",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261023/1004239167/mourinho-culer.html",
+            "resumen": "Del creador de los grandes éxitos ‘Teatro del Bueno’, ‘¿Por Qué?’ y ‘No Conozco a Ningún Pito’, además de acciones como la de esperar a un árbitro en el parking, ahora han llegado las impresoras a color y el hit ‘el Gato ya no Está…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "October 22, 2026",
-    "generada": "14:43",
+    "fecha": "October 23, 2026",
+    "generada": "14:30",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
-            "link": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
-            "resumen": "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\".",
+            "titulo": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+            "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+            "resumen": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Controversial US-backed vaccine trial in African newborns halted",
-            "link": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
-            "resumen": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’ The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher…",
+            "titulo": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+            "link": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+            "resumen": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
-            "link": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
-            "resumen": "The airport is in Dammam, which is near the headquarters of oil giant Saudi Aramco. For weeks, Yemen’s Iran-backed Houthi militia has been attacking the kingdom’s aviation and energy sectors.",
+            "titulo": "The Bukeleization of Latin America Has Arrived",
+            "link": "https://www.nytimes.com/2026/10/23/world/americas/nayib-bukele-el-salvador-president.html",
+            "resumen": "Nayib Bukele’s notoriously harsh and wildly popular security crackdown in El Salvador is spawning imitators and remaking the region.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "At least four dead after storm brings flooding to southern France",
-            "link": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.",
+            "titulo": "Ukraine says Starlink still restricted after Trump says limits lifted",
+            "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
-            "link": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
-            "resumen": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail Send us your questions about immigration and the midterms Relatives of gravely ill detainees at two Florida immigration…",
+            "titulo": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
+            "link": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
+            "resumen": "41-year-old set on ‘dream to be able to race in Africa’ Rwanda to host despite criticism of human rights record Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is set…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-            "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+            "titulo": "Earnings limit of up to £140K for first-time buyers loan scheme",
+            "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Oil price rises above $115 a barrel amid fears US will renew strikes on Iran",
+            "link": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+            "resumen": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres Business live – latest updates Oil has hit its highest level in more than five months as fears of fresh escalation in the Middle East…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "Republicans Cut Taxes to Win the Midterms. It May Not Work Out.",
+            "link": "https://www.nytimes.com/2026/10/23/business/salt-cap-midterm-elections.html",
+            "resumen": "Among the stakes in next month’s election is the long-running question of whether tax cuts can shape how people vote.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Lights will stay on this winter, grid operator says after concerns",
+            "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
             "fuente": "BBC"
           },
           {
             "titulo": "Too little, too late: Trump takes on gas prices as fuel costs hamper his midterm hopes",
             "link": "https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle",
             "resumen": "Polls show US voters are deeply upset by high gas prices and are likely to punish Republicans in the midterms as a result How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions With…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "A.I. and Its Dangers Are Embedded In the Midterm Elections",
-            "link": "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html",
-            "resumen": "The midterms are the first elections in which artificial intelligence is integrated into every major social media platform. Efforts to blunt its harms are uneven.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "Tank barrel production returns to UK after 20 years",
-            "link": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Meta strikes deal with Zuckerberg to help him foot billionaire tax bill",
-            "link": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
-            "resumen": "Chief executive agrees to remain in California for eight years even if the state brings in a one-off wealth tax Business live – latest updates Meta has struck a deal with Mark Zuckerberg to help him foot a possible California wealth tax…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "First human case of Shamonda virus detected in France, officials say",
-            "link": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The disease, which usually affects cattle, has been identified in a patient who died in early October.",
+            "titulo": "Weather warnings in place ahead of Storm Boelo",
+            "link": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The amber Met Office alert for counties Antrim and Londonderry lasts from 21:00 BST on Saturday until 21:00 GMT on Sunday.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Mystery of Roman sarcophagus unearthed at Westminster Abbey solved at last, expert says",
-            "link": "https://www.theguardian.com/uk-news/2026/oct/21/mystery-roman-sarcophagus-westminster-abbey-solved-at-last-expert-says",
-            "resumen": "Archaeologist says skeleton inside coffin inscribed to Valerius Amandinus is likely to be remains of 11th-century abbot It has all the ingredients of a chilling mystery: the skeleton of an unknown man discovered within a Roman sarcophagus…",
+            "titulo": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows",
+            "link": "https://www.theguardian.com/society/2026/oct/23/mrna-vaccine-melanoma-cancer-breakthrough-australia",
+            "resumen": "Trial results represent ‘foundational shift’ in approach to cancer, allowing scientists to harness immune system in more personalised way Get our new political email , free app or daily news podcast A personalised mRNA-based melanoma…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "How to Catch the Orionids, a Meteor Shower From Halley’s Comet",
-            "link": "https://www.nytimes.com/2026/10/21/science/space/orionids-meteor-shower-halleys-comet.html",
-            "resumen": "It’s a fall favorite among stargazers, known for bright, speedy streaks that can sometimes linger in the sky for minutes.",
+            "titulo": "Chimps Steal Less Often From Their Friends, Even When Offered Pineapple",
+            "link": "https://www.nytimes.com/2026/10/23/science/stealing-chimps-friends.html",
+            "resumen": "The discovery may hint at the roots of human norms around fairness and friendship.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Weather warning in place ahead of Storm Boelo",
-            "link": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss",
-            "resumen": "A Met Office weather warning is in place from 18:00 BST on Saturday until 15:00 GMT on Sunday.",
+            "titulo": "Why should I stockpile and what will I need?",
+            "link": "https://www.bbc.co.uk/news/articles/cred3xnj0j0qo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The UK government has warned households to have three days of essential supplies on hand.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Bad apple effect: study shows how people are influenced by rule-breaking of others",
-            "link": "https://www.theguardian.com/science/2026/oct/21/bad-apples-rule-breaking-study",
-            "resumen": "Research shows how seeing bigger violations by others can lead people to increase their own rule-breaking From politicians taking bribes to bullying and harassment in City firms , leaders have been quick to label those who break the rules…",
+            "titulo": "Have scientists finally found a way to save the banana from disaster?",
+            "link": "https://www.theguardian.com/global-development/2026/oct/22/have-scientists-finally-found-a-way-to-save-the-banana-from-disaster",
+            "resumen": "With the climate crisis and diseases threatening one of the world’s most popular fruits, researchers are hoping a breakthrough in breeding techniques could give the Cavendish banana a certain future Love them or loathe them, bananas are…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Carrick carrying on but senior Man Utd figures concerned by performances",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cm1wvl5524rno?at_medium=RSS&at_campaign=rss",
-            "resumen": "While head coach Michael Carrick is expected to be in charge for Sunday's match against Bournemouth, Manchester United begin the process of identifying possible replacements.",
+            "titulo": "Carrick refuses to rule out dropping Fernandes in emotional address",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cq78pv0073dlo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Manchester United boss Michael Carrick spoke for five minutes and 30 seconds without taking questions at the start of his media briefing to outline what the club means to him, then later refused to rule out dropping captain Bruno Fernandes.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Welcome to the trap: swaggering Atlanta Dream turn WNBA finals into a hometown spectacle | Andrew Lawrence",
-            "link": "https://www.theguardian.com/sport/2026/oct/22/atlanta-dream-golden-state-valkyries-wnba-finals-game-three-home-court-advantage",
-            "resumen": "Atlanta’s wounded sports fans know better than to get carried away. But the Dream’s first WNBA finals game in 13 years showed this might finally be a team worth falling for The Atlanta Dream were exactly where they wanted to be on…",
+            "titulo": "Caleb Williams outduels friend and rival Drake Maye as Bears beat Patriots",
+            "link": "https://www.theguardian.com/sport/2026/oct/22/caleb-williams-outduels-friend-and-rival-drake-maye-as-bears-beat-patriots",
+            "resumen": "New England Patriots 24–30 Chicago Bears Bears QB throws for 308 yards and two TDs Caleb Williams threw for 308 yards and two touchdowns, and the Chicago Bears cooled off Drake Maye and the New England Patriots with a 30-24 win on…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "South Africa complete famous win over Australia",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo?at_medium=RSS&at_campaign=rss",
-            "resumen": "South Africa break Australia's resistance in the final session a complete a famous victory in the second Test and set up a series decider in Cape Town.",
+            "titulo": "Arsenal fear Saka could be out for two months",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmwyql6v5q82o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Arsenal forward Bukayo Saka could be sidelined for up to eight weeks with the quadriceps injury he suffered against Bayern Munich.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Super Bowl contenders: are the NFL’s unbeaten teams as perfect as they seem?",
-            "link": "https://www.theguardian.com/sport/2026/oct/22/nfl-unbeaten-teams-49ers-chiefs-vikings-bills",
-            "resumen": "The early standouts have emerged. But even the best teams have flaws that can be exposed by their opponents Who would have thought the 49ers would be here after a rough old offseason? Head coach Kyle Shanahan’s participation in training…",
+            "titulo": "Carrick ‘100%’ sure he can lead United forward; Dortmund take on the influencers: football – live",
+            "link": "https://www.theguardian.com/football/live/2026/oct/23/manchester-united-latest-european-reaction-and-more-football-news-live",
+            "resumen": "⚽ All the latest news going into the weekend’s action ⚽ Premier League: weekend guide | Mail Tom Álvaro Arbeloa’s been talking ahead of Fulham’s trip to Coventry on Saturday, and buoyed up by last weekend’s much needed win over Hull.…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "'Not what a captain should be' - the debate around Fernandes' outburst",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cq5ynp67grjro?at_medium=RSS&at_campaign=rss",
-            "resumen": "Bruno Fernandes' comments after Manchester United's humbling by Como have got fans and pundits talking - but what now for the captain?",
+            "titulo": "Conte plays down 'unfounded' Man Utd speculation",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmvg6j8jezn7o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Antonio Conte says he is not in advanced talks with any club, in response to speculation he has held talks with Manchester United.",
             "fuente": "BBC"
           }
         ]
