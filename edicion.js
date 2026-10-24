@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "23 de octubre de 2026",
-  "generada": "14:30",
+  "fecha": "24 de octubre de 2026",
+  "generada": "13:41",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Una por una, las acusaciones contra Cristina Kirchner en el juicio por lavado que arranca este viernes",
-          "link": "https://www.clarin.com/politica/acusaciones-cristina-kirchner-juicio-lavado-arranca-viernes_0_W4CMDmp4Tm.html",
-          "resumen": "Para la Justicia la empresa hotelera Hotesur y la inmobiliaria Los Sauces se usaron para blanquear fondos. Para los jueces Lázaro Báez y Cristóbal López entregaban plata de la obra pública a los K a través del alquiler de propiedades y…",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: Santiago Caputo cruzó a Villarruel por Malvinas y tensó más la interna del Gobierno",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-santiago-caputo-cruzo-villarruel-malvinas-tenso-interna-gobierno_0_SqntTZFMwP.html",
+          "resumen": "\"Los políticos sufren de eyaculación precoz por su deseo de ser queridos\", lanzó el asesor presidencial contra la vice antes de dejar como advertencia que \"la paciencia es una virtud\".",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: el mandatario dijo que piensa un proyecto a “100 años” para la Argentina",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-admitio-que-la-economia-no-evoluciona-como-nid23102026/",
-          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "titulo": "La Justicia sobreseyó al Presidente y a Karina Milei en el caso $LIBRA",
+          "link": "https://www.lanacion.com.ar/politica/el-gobierno-le-contesto-al-fiscal-del-caso-libra-que-no-tenia-registro-del-presunto-acuerdo-nid20032026/",
+          "resumen": "Fue dispuesto por el juez Martínez de Giorgi; lo resolvió sin haber llamado a indagatoria a los acusados; el fallo también favoreció a los otros involucrados",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Patricia Bullrich alimentó las versiones sobre su candidatura con un video musicalizado por el dúo Plan B",
-          "link": "https://www.infobae.com/politica/2026/10/23/patricia-bullrich-alimento-las-versiones-sobre-su-candidatura-con-un-video-musicalizado-por-el-duo-plan-b/",
-          "resumen": "La senadora de La Libertad Avanza difundió una pieza audiovisual en sus redes, a 24 horas de afirmar en Infobae que está “preparada” para ser Presidente",
+          "titulo": "Bariloche: denunciaron a un candidato constituyente por mensajes que reivindican a Videla y al terrorismo de Estado",
+          "link": "https://www.infobae.com/politica/2026/10/24/bariloche-denunciaron-a-un-candidato-constituyente-por-mensajes-que-reivindican-a-videla-y-el-terrorismo-de-estado/",
+          "resumen": "Se trata del oficialista Adrián Marcelo Grau, quien apoyó a Milei en las elecciones de 2023 y al que se le atribuyen posteos en redes en apoyo a la última dictadura miltar. La Asamblea Permanente por los Derechos Humanos hizo una…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: reunión con funcionarios de EE.UU. en pleno debate por la Ley Malvinas",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-reune-funcionario-eeuu-medio-discusiones-ley-malvinas_0_Og4Ejkms1E.html",
-          "resumen": "El encuentro del Presidente con el Vicesecretario de Estado norteamericano será este viernes a las 11 en la Casa Rosada, en medio de las discusiones por la Ley de Defensa de la Soberanía Nacional.",
+          "titulo": "Elecciones en Brasil: qué se juegan Milei y la oposición argentina en el duelo entre Lula y Bolsonaro",
+          "link": "https://www.clarin.com/politica/elecciones-brasil-juegan-milei-oposicion-argentina-duelo-lula-bolsonaro_0_CV3WArQMvJ.html",
+          "resumen": "El Presidente apuesta por un triunfo de Flávio Bolsonaro, que podría darle un aliado clave en la región. El peronismo mira con expectativa una posible reelección de Lula da Silva. La relación diplomática con el principal socio comercial…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Juicio a Cristina Kirchner, EN VIVO: arranca el proceso por Hotesur y Los Sauces donde investigan la corrupción K",
-          "link": "https://www.lanacion.com.ar/politica/juicio-a-cristina-kirchner-en-vivo-arranca-el-proceso-por-hotesur-y-los-sauces-donde-investigan-la-nid23102026/",
-          "resumen": "La Cámara de Casación decidió unificar en un solo juicio oral las causas; el Tribunal Oral Federal N°5, encargado de juzgar a la expresidenta y Máximo Kirchner, entre otros, permitió que los imputados participen de manera virtual durante…",
+          "titulo": "Milei dijo que el caso $LIBRA tuvo “fines golpistas”, acusó a periodistas y advirtió: “Los hijos de puta se tienen que quemar en la hoguera”",
+          "link": "https://www.lanacion.com.ar/politica/milei-hablara-en-la-cena-anual-de-faro-discurso-encuentro-con-el-nucleo-libertario-y-empresarios-nid23102026/",
+          "resumen": "Habló en la cena de la Fundación Faro, donde atacó a LA NACION y a un grupo de periodistas; rechazó la posibilidad de aumentar la emisión para enfrentar la caída de la actividad",
           "fuente": "La Nación"
         }
       ]
@@ -42,34 +42,34 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "No todo es Vaca Muerta: empresas canadienses buscan negocios en los campos petroleros maduros",
-          "link": "https://www.clarin.com/energia-y-mineria/vaca-muerta-empresas-canadienses-buscan-negocios-campos-petroleros-maduros_0_5hXCsaNd3S.html",
-          "resumen": "Compañías de la provincia canadiense de Alberta visitaron el país. Cuál es el interés que tienen en yacimientos con décadas de explotación y también en hidrocarburos no convencionales.",
+          "titulo": "Euro hoy en Venezuela: precio y cotización de la divisa este sábado 24 de octubre de 2026",
+          "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-sabado-24-de-octubre-de-2026_0_NHi6G78Vku.html",
+          "resumen": "Mirá la cotización del euro en Venezuela, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Un violento fenómeno con mucho granizo mató a decenas de animales y dejó graves daños",
-          "link": "https://www.lanacion.com.ar/economia/campo/una-violenta-caida-de-mucho-granizo-mato-a-decenas-de-animales-y-dejo-graves-danos-nid22102026/",
-          "resumen": "En Fortín Olmos, en el norte de Santa Fe, el fenómeno tuvo una importante intensidad, según los productores",
+          "titulo": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 24 de octubre",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-24-de-octubre-nid24102026/",
+          "resumen": "La cotización de la moneda estadounidense se mantiene igual que el último día hábil; cómo fue el comportamiento de la divisa informal y los dólares financieros",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Se aceleró la inflación de Japón y aumenta la presión para que su banco central suba la tasa",
-          "link": "https://www.ambito.com/economia/se-acelero-la-inflacion-japon-y-aumenta-la-presion-que-su-banco-central-suba-la-tasa-n6337146",
-          "resumen": "El incremento fue particularmente sensible en la medición subyacente, que superó el umbral del 2% por primera vez en nueve meses. La autoridad monetaria nipona decidirá sobre la tasa el próximo viernes.",
+          "titulo": "¿Más presión para el dólar?: Caen los precios internacionales del agro y la colocación de deuda privada",
+          "link": "https://www.ambito.com/economia/mas-presion-el-dolar-caen-los-precios-internacionales-del-agro-y-la-colocacion-deuda-privada-n6337397",
+          "resumen": "Dos variables que venían siendo clave para generar un excedente de dólares en las arcas del BCRA sufrieron un deterioro.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Un organismo internacional anunció una garantía de US$ 200 millones en una obra clave para evitar cortes de luz en el AMBA",
-          "link": "https://www.clarin.com/energia-y-mineria/organismo-internacional-anuncio-garantia-us-200-millones-obra-clave-evitar-cortes-luz-amba_0_bMrGZk09Ki.html",
-          "resumen": "El apoyo financiero del BID alcanzará a dos proyectos, entre ellos AMBA I, que busca mejorar el abastecimiento del área metropolitana. Las obras se financiarán con capital privado y se repagarán a través de las boletas de luz.",
-          "fuente": "Clarín"
+          "titulo": "Introducido por un escocés y discutido en sus comienzos, el alambrado marcó un antes y un después en el campo argentino",
+          "link": "https://www.lanacion.com.ar/economia/campo/introducido-por-un-escoces-y-discutido-en-sus-comienzos-el-alambrado-marco-un-antes-y-un-despues-en-nid24102026/",
+          "resumen": "En 1845, Richard Blake Newton los instaló en una estancia de Chascomús para cuidar su huerta y una década más tarde comenzó a utilizarse para la cría de ganado",
+          "fuente": "La Nación"
         },
         {
-          "titulo": "El Niño: nadie puede impedir que ocurra, pero sí evitar buena parte de sus daños",
-          "link": "https://www.lanacion.com.ar/economia/campo/el-nino-nadie-puede-impedir-que-ocurra-pero-si-evitar-buena-parte-de-sus-danos-nid23102026/",
-          "resumen": "Una tormenta llega con horas de aviso, una helada, con días. El Niño, en cambio, se anuncia con meses de anticipación; esa es, quizás, su característica más valiosa y, al mismo tiempo, la menos aprovechada",
-          "fuente": "La Nación"
+          "titulo": "Endeudamiento: 8 de cada 10 argentinos llegan sin margen a fin de mes y usan la tarjeta de crédito para financiarse",
+          "link": "https://www.ambito.com/economia/endeudamiento-8-cada-10-argentinos-llegan-margen-fin-mes-y-usan-tarjeta-credito-financiarse-n6337360",
+          "resumen": "La caída del poder adquisitivo y la pérdida de empleo de calidad asfixian a muchos hogares. El 82% no tiene dinero sobrante a fin de mes, pese a los dichos de Javier Milei: “¿Cómo viven 10 días sin comer ni beber?”. Entre quienes tuvieron…",
+          "fuente": "Ámbito"
         }
       ]
     },
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "A días de las elecciones en Israel, Netanyahu ordena el \"cierre total\" de Cisjordania tras un ataque en Hebrón",
-          "link": "https://www.clarin.com/mundo/dias-elecciones-israel-netanyahu-ordena-cierre-total-cisjordania-evitar-atentado_0_ffGOwk58x5.html",
-          "resumen": "En el ataque habrían murieron dos soldados israelíes. El ejército a su vez abatió a dos palestinos en un enfrentamiento que dejó además cinco heridos.",
+          "titulo": "Elecciones en Brasil, EN VIVO: tras el segundo debate, Lula y Flávio Bolsonaro buscan captar el voto de los indecisos",
+          "link": "https://www.clarin.com/mundo/elecciones-brasil-vivo-segundo-debate-lula-flavio-bolsonaro-buscan-captar-voto-indecisos_0_61qlBPmkAe.html",
+          "resumen": "Se espera que el sábado ambos saquen a decenas de miles de simpatizantes a las calles de Río de Janeiro y San Pablo en un último esfuerzo antes de la segunda vuelta.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Elecciones Brasil 2026: qué pronostica para el balotaje la encuestadora que más se acercó al resultado en los últimos comicios",
-          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-que-pronostica-para-el-balotaje-la-encuestadora-que-mas-se-acerco-al-nid22102026/",
-          "resumen": "A tan solo días de la votación final, la consultora reveló su proyección electoral para los comicios de este domingo, en el que se enfrentan Luiz Inacio Lula da Silva y Flavio Bolsonaro",
+          "titulo": "Francia y una nueva protesta contra el gobierno: calles tomadas, locales cerrados y 70.000 policías desplegados",
+          "link": "https://www.lanacion.com.ar/el-mundo/francia-y-una-nueva-protesta-contra-el-gobierno-calles-tomadas-locales-cerrados-y-70000-policias-nid24102026/",
+          "resumen": "Las autoridades intentan evitar que la tensión suba como en la marcha anterior; temen que se repitan saqueos y disturbios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Casi todos los arrecifes de coral poco profundos del mundo se encuentran ahora en peligro crítico de extinción",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/arrecifes-coral-profundos-mundo-encuentran-ahora-peligro-critico-extincion_0_PMTLjDfOog.html",
-          "resumen": "Si el cambio climático continúa al mismo ritmo, el 96 % de los ecosistemas de arrecifes de coral de aguas poco profundas podrían colapsar en un plazo de 50 años, incluida la Gran Barrera de Coral de Australia.",
+          "titulo": "Marchas contra Macron en toda Francia: habrá al menos 70.000 policías y cambiaron el recorrido en París por el atentado terrorista",
+          "link": "https://www.clarin.com/mundo/marchas-macron-toda-francia-cambiaron-recorrido-paris-atentado-terrorista_0_bTZx0HfVZs.html",
+          "resumen": "Los agentes están desplegados en todo el país y a ellos se han sumado los militares del operativo antiterrorista Sentinelle, que vigilarán colegios, ministerios y lugares de culto.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Reid Wiseman, comandante de la histórica misión Artemis II: “Vimos cosas que ningún ser humano ha visto jamás”",
-          "link": "https://www.lanacion.com.ar/el-mundo/reid-wiseman-comandante-de-la-historica-mision-artemis-ii-vimos-cosas-que-ningun-ser-humano-ha-visto-nid17102026/",
-          "resumen": "Se trató de un mensaje que difundieron mientras realizaban la misión, que se concretó en abril de este año, antes de que la tripulación perdiera la conexión con el planeta durante 40 minutos",
+          "titulo": "Una nueva encuesta enfrentó a Lula y Flavio Bolsonaro en Brasil: la diferencia es de un punto",
+          "link": "https://www.lanacion.com.ar/el-mundo/una-nueva-encuesta-enfrento-a-lula-y-flavio-bolsonaro-en-brasil-la-diferencia-es-de-un-punto-nid21102026/",
+          "resumen": "Los sondeos de opinión marcan un margen escaso entre los dos candidatos; qué estrato achicó la diferencia en los últimos días",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Elecciones en Brasil: Flávio Bolsonaro y Lula da Silva se enfrentan en un debate crucial esta noche a horas del balotaje",
-          "link": "https://www.clarin.com/mundo/elecciones-brasil-flavio-bolsonaro-lula-da-silva-enfrentan-debate-crucial-noche-horas-balotaje_0_3yN5eJDcqr.html",
-          "resumen": "Comienza a las 21:20 (misma hora en Argentina) y durará dos horas. Este encuentro cobra especial relevancia por la paridad total y sin precedentes en una elección presidencial entre ambos candidatos, empatados en 50% según la encuesta de…",
+          "titulo": "Elecciones en Brasil: Lula no ganó el debate pero los errores de Flavio lo beneficiaron, afirman los medios brasileños",
+          "link": "https://www.clarin.com/mundo/elecciones-brasil-lula-gano-debate-errores-flavio-beneficiaron-afirman-medios-brasilenos_0_PJup7shzbH.html",
+          "resumen": "En el balance ninguno elige un ganador, pero sí remarcan que el senador conservador cometió errores sensibles, entre ellos burlarse de la discapacidad de Lula a quien le falta un dedo. También el manejo de datos falsos o un fallido grave…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Lionel Messi recibe el Premio Princesa de Asturias en España: la llegada del astro argentino junto a Antonela Roccuzzo y su primera foto con la princesa Leonor",
-          "link": "https://www.clarin.com/deportes/lionel-messi-recibe-premio-princesa-asturias-espana-llegada-astro-argentino-junto-antonela-roccuzzo-primera-foto-princesa-leonor_0_3TQBCAUhOa.html",
-          "resumen": "Leo es una de las personalidades destacadas en la gala que se celebra este viernes en Oviedo. Ya tuvo su primera audiencia con la heredera al trono español, anfitriona del evento a su joven edad. El ex capitán de la Selección Argentina…",
+          "titulo": "Verón desafía a Tapia y va por la quinta Libertadores con Estudiantes: una final con el peso de la historia y una pelea que no termina",
+          "link": "https://www.clarin.com/deportes/veron-desafia-tapia-va-quinta-libertadores-estudiantes-final-peso-historia-pelea-termina_0_A5Y13Z8oVu.html",
+          "resumen": "El Pincha volverá a enfrentar a Palmeiras en el Centenario, como en 1968. La Brujita busca su primera Copa como presidente, mientras profundiza su enfrentamiento con la conducción de la AFA.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Francisco Cerúndolo ganó en sets corridos y está en las semifinales del ATP 250 de Bruselas",
-          "link": "https://www.lanacion.com.ar/deportes/tenis/francisco-cerundolo-gano-en-sets-corridos-y-esta-en-las-semifinales-del-atp-250-de-bruselas-nid23102026/",
-          "resumen": "Derrotó por 6-2 y 6-4 al francés Clement Chidekh en poco más de una hora de juego",
+          "titulo": "Juegos mentales, promesas y pactos rotos: la dramática definición del campeonato en el que Hunt fue rey y Lauda, leyenda",
+          "link": "https://www.lanacion.com.ar/deportes/automovilismo/juegos-mentales-promesas-y-pactos-rotos-la-dramatica-definicion-del-campeonato-en-el-que-hunt-fue-nid24102026/",
+          "resumen": "Medio siglo atrás, la Fórmula 1 enseñó en el circuito de Fuji el desparpajo que marcó la trayectoria del piloto británico y las firmes convicciones del austríaco",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Estudiantes y un nuevo Maracanazo: los últimos triunfos argentinos en el Templo de Río de Janeiro",
-          "link": "https://www.ole.com.ar/futbol-internacional/america/ultimos-triunfos-argentinos-maracana_0_nRXoLg5xea.html",
-          "resumen": "Días atrás ganó Boca; ahora, el Pincha se impuso por penales ante Flamengo y se metió a la final de la Libertadores. Abajo, todas las victorias albicelestes.",
+          "titulo": "Liga Nacional: Boca se recuperó ante Argentino, Atenas sigue en racha y Quimsa lidera",
+          "link": "https://www.ole.com.ar/basquet/basquet-partidos-26-27-liga-nacional-boca-atenas-argentino-lanus-quimsa-racing-chivilcoy_0_JpBM37Q1sd.html",
+          "resumen": "Mirá todo lo que pasó en la jornada del viernes.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Juan Sebastián Verón y el día después del Maracanazo de Estudiantes en la Copa Libertadores: \"En este tipo de partidos no fallamos\"",
-          "link": "https://www.clarin.com/deportes/juan-sebastian-veron-dia-despues-maracanazo-estudiantes-copa-libertadores-tipo-partidos-fallamos_0_EwSxOtQ7dk.html",
-          "resumen": "El presidente del Pincha disfrutó como un hincha más la victoria por penales sobre Flamengo. El equipo del Cacique Medina jugará la final contra Palmeiras, el 28 de noviembre en Montevideo. \"En este tipo de torneos juega el peso de la…",
+          "titulo": "F1 GP de Estados Unidos con Colapinto, EN VIVO: horarios de la FP3, clasificación y dónde ver la Fórmula 1",
+          "link": "https://www.clarin.com/deportes/f1-gp-estados-unidos-colapinto-vivo-horarios-fp3-clasificacion-ver-formula-1_0_aiBG96BkrK.html",
+          "resumen": "El piloto argentino penaliza 10 puestos en la grilla del domingo. El viernes fue 17° y 15° en la FP1 y FP2, respectivamente. Leclerc fue el más rápido y quiere la pole.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Balón de Oro 2026: cuándo se entrega el premio al mejor jugador del mundo",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/balon-de-oro-2026-cuando-se-entrega-el-premio-al-mejor-jugador-del-mundo-nid23102026/",
-          "resumen": "El galardón otorgado por la revista France Football reconoce al mejor futbolista de la temporada; el evento se puede seguir únicamente por streaming",
+          "titulo": "Leonel Jaime tuvo un gesto de fair play, fue silbado por los hinchas de su equipo y terminó llorando",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/leonel-flores-tuvo-un-gesto-de-fair-play-fue-silbado-por-los-hinchas-de-su-equipo-y-termino-llorando-nid24102026/",
+          "resumen": "El exfutbolista de River, a préstamo en Uruguay, vivió una situación curiosa durante el encuentro entre Peñarol y Juventud de Las Piedras; la buena acción no tuvo premio",
           "fuente": "La Nación"
         }
       ]
