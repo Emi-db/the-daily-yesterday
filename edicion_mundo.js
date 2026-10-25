@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "24 de octubre de 2026",
-    "generada": "13:41",
+    "fecha": "25 de octubre de 2026",
+    "generada": "13:59",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Fatima El Mansouri: cómo la primera mujer en liderar el gobierno de Marruecos está atrapada entre el rey, los clérigos y el feminismo",
-            "link": "https://www.bbc.com/mundo/articles/c39wzvkynkj9o?at_medium=RSS&at_campaign=rss",
-            "resumen": "¿Logrará Fatima El Mansouri impulsar los derechos de las mujeres en medio de barreras religiosas y políticas?",
+            "titulo": "Quién es Gadi Eisenkot, el general retirado que perdió un hijo en Gaza y desafía a Netanyahu en las primeras elecciones en Israel desde el ataque del 7 de octubre",
+            "link": "https://www.bbc.com/mundo/articles/cj1dw0en7n36o?at_medium=RSS&at_campaign=rss",
+            "resumen": "El excomandante supone la mayor amenaza política para el primer ministro Benjamin Netanyahu en las próximas elecciones generales.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Francia contiene el aliento ante una nueva jornada de protestas",
-            "link": "https://elpais.com/internacional/2026-10-24/francia-contiene-el-aliento-ante-una-nueva-jornada-de-protestas.html",
-            "resumen": "El Gobierno, que ha prohibido las manifestaciones en la mayoría de ciudades, ha desplegado 70.000 efectivos para evitar nuevos incidentes en París",
+            "titulo": "Brasil decide entregar todo el poder a los Bolsonaro o dar una última oportunidad a Lula",
+            "link": "https://elpais.com/america/2026-10-25/brasil-decide-entregar-todo-el-poder-a-los-bolsonaro-o-dar-una-ultima-oportunidad-a-lula.html",
+            "resumen": "El senador ultra y el presidente izquierdista se disputan la presidencia en unas elecciones reñidas como nunca",
             "fuente": "El País"
           },
           {
-            "titulo": "Israel derriba edificios de viviendas en Hebrón durante operación en Cisjordania ocupada",
-            "link": "https://www.france24.com/es/video/20261024-israel-derriba-edificios-de-viviendas-en-hebr%C3%B3n-durante-operaci%C3%B3n-en-cisjordania-ocupada",
-            "resumen": "Las fuerzas israelíes llevaron a cabo la demolición de edificios residenciales en la zona de Hebrón, en la Cisjordania ocupada, en el marco de una operación militar lanzada tras un reciente ataque armado contra soldados israelíes. Vecinos…",
+            "titulo": "Informe desde São Paulo: ¿por qué este estado es clave en la elección presidencial?",
+            "link": "https://www.france24.com/es/video/20261025-informe-desde-s%C3%A3o-paulo-por-qu%C3%A9-este-estado-es-clave-en-la-elecci%C3%B3n-presidencial",
+            "resumen": "Desde São Paulo se reporta buena afluencia en los centros de votación pese a que la jornada ha estado marcada por las lluvias. La definición llega después de una primera vuelta en la que ninguno de los candidatos logró superar el 50% de…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Bukele envía un contingente a Haití para ayudar a liberar a los 4 soldados salvadoreños \"secuestrados\" por pandillas",
-            "link": "https://www.bbc.com/mundo/articles/ckm230z1vngqo?at_medium=RSS&at_campaign=rss",
-            "resumen": "El presidente Nayib Bukele había instado previamente a las organizaciones criminales haitianas a liberar a los \"rehenes\" que formaban parte de una misión multinacional de la ONU.",
+            "titulo": "Bukele descarta que los cuerpos encontrados en Haití sean los de los 4 soldados salvadoreños secuestrados por pandillas",
+            "link": "https://www.bbc.com/mundo/articles/cqev3nexxp91o?at_medium=RSS&at_campaign=rss",
+            "resumen": "El presidente de El Salvador rechazó que, como publicó The New York TImes, sus militares desaparecidos hubieran sido encontrados en Puerto Príncipe.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "¿Dónde y por qué se protesta en Europa? Las reivindicaciones de los jóvenes de cada país",
-            "link": "https://elpais.com/internacional/europa/informada/2026-10-24/donde-y-por-que-se-protesta-en-europa-las-reivindicaciones-de-los-jovenes-de-cada-pais.html",
-            "resumen": "Estudiantes, sindicatos y vecinos han convocado más de 170 manifestaciones en poco más de un mes en todo el continente. Sus motivos a menudo coinciden",
+            "titulo": "¿Puede Lula remontar a Flávio Bolsonaro? Esto es lo que dicen las encuestas",
+            "link": "https://elpais.com/america/2026-10-24/puede-lula-remontar-a-flavio-bolsonaro-esto-es-lo-que-dicen-las-encuestas.html",
+            "resumen": "El ultra es el favorito de sondeos y mercados, pero no tiene la victoria asegurada. El modelo de EL PAÍS lo ve ganador siete de cada diez veces, con el izquierdista imponiéndose en las otras tres",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
+            "titulo": "Los ‘milquini’, los nuevos mileuristas en la economía de 2026: “El ocio lo reducimos al mínimo”",
+            "link": "https://elpais.com/economia/2026-10-24/los-milquini-los-nuevos-mileuristas-en-la-economia-de-2026-el-ocio-lo-reducimos-al-minimo.html",
+            "resumen": "Un salario neto de 1.500 euros equivale hoy al poder de compra que tenían los 1.000 euros hace 20 años. Quienes perciben esta renta relatan dificultades para llegar a fin de mes",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Barcelona se dispara un 11% a pesar del freno de la compraventa",
+            "link": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/barcelona-dispara-11-pesar-freno-compraventa.html",
+            "resumen": "La vivienda en la capital catalana vuelve a crecer a doble dígito, impulsada por el distrito de Sants-Montjuïc, que pasa a convertirse en la zona que más se eleva, seguida de Nou Barris y Sant Andreu. Leer",
+            "fuente": "Expansión"
+          },
+          {
+            "titulo": "El modelo vasco para la crisis de la vivienda: más pisos protegidos, reserva de suelo y hasta reconvertir una antigua cárcel",
+            "link": "https://elpais.com/economia/vivienda/2026-10-25/el-modelo-vasco-para-la-crisis-de-la-vivienda-mas-pisos-protegidos-reserva-de-suelo-y-hasta-reconvertir-una-antigua-carcel.html",
+            "resumen": "La comunidad acaba de comprar 500 pisos a un gran fondo y lidera la promoción de pisos protegidos y alquiler social",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "El alquiler cae en un tercio de Madrid",
+            "link": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/alquiler-cae-tercio-madrid.html",
+            "resumen": "Las rentas se estancan tras las subidas de los últimos años, con descensos en Villaverde y San Blas. Leer",
+            "fuente": "Expansión"
+          },
+          {
             "titulo": "¿Dónde viven los caseros? Barrios de renta alta y zonas turísticas concentran a quienes declaran ingresos de alquiler",
             "link": "https://elpais.com/economia/2026-10-24/donde-viven-los-caseros-barrios-de-renta-alta-y-zonas-turisticas-concentran-a-quienes-declaran-ingresos-de-alquiler.html",
             "resumen": "En los códigos postales más pudientes, más del 30% de los contribuyentes reconocen ganancias inmobiliarias en la declaración del IRPF",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Cambio de etapa a la vista en el mercado hipotecario español",
-            "link": "https://www.expansion.com/empresas/banca/2026/10/24/6adbb92ce5fdead5478b4591.html",
-            "resumen": "Aunque los precios siguen siendo competitivos, las entidades suben los costes de los préstamos para adaptarse al nuevo escenario de tipos de interés. La concesión será más selectiva. Leer",
-            "fuente": "Expansión"
-          },
-          {
-            "titulo": "Miles de personas se manifiestan en Madrid en defensa del sistema de pensiones: “¡No se venden!”",
-            "link": "https://elpais.com/economia/2026-10-24/miles-de-personas-se-manifiestan-en-madrid-en-defensa-del-sistema-de-pensiones-no-se-venden.html",
-            "resumen": "La marcha se celebra todos los años en octubre, pero esta vez ha doblado la afluencia, según los convocantes, por el protagonismo de estas prestaciones en la campaña electoral",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "La IA agéntica, la cuenta europea y la deuda soberana amenazan los depósitos de la banca",
-            "link": "https://www.expansion.com/empresas/banca/2026/10/24/6ad74ae7e5fdeadc6a8b45a5.html",
-            "resumen": "La banca de inversión augura más lucha por los recursos de los clientes y más coste. CaixaBank y Unicaja tienen la mayor proporción de dinero no remunerado en su balance. Leer",
-            "fuente": "Expansión"
-          },
-          {
-            "titulo": "Los gigantes tecnológicos preparan el asalto a la industria de los viajes a través de la IA",
-            "link": "https://elpais.com/economia/2026-10-24/los-gigantes-tecnologicos-preparan-el-asalto-a-la-industria-de-los-viajes-a-traves-de-la-ia.html",
-            "resumen": "El 1,4% de los turistas en el mundo ya cierran sus compras a través de esta tecnología, que ha duplicado su peso en los últimos seis meses",
             "fuente": "El País"
           }
         ]
@@ -78,9 +78,21 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "Carrera contrarreloj para estudiar las cuevas heladas de España antes de que desaparezcan: “Es un archivo único y lo vamos a perder”",
-            "link": "https://elpais.com/ciencia/2026-10-24/carrera-contrarreloj-para-estudiar-las-cuevas-heladas-de-espana-antes-de-que-desaparezcan-es-un-archivo-unico-y-lo-vamos-a-perder.html",
-            "resumen": "Un equipo de científicos lucha por tomar las últimas muestras del hielo fósil, que contiene restos de vegetales, virus y bacterias de hace miles de años",
+            "titulo": "Las vacunas contra el cáncer: sí, pero aún no",
+            "link": "https://elpais.com/salud-y-bienestar/2026-10-25/las-vacunas-contra-el-cancer-si-pero-aun-no.html",
+            "resumen": "No todo está resuelto y los avances anunciados ofrecen esperanza, pero abren también nuevos interrogantes",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Cambridge Analytica, diez años después: Meta no ahuyenta los fantasmas de la injerencia política",
+            "link": "https://elpais.com/tecnologia/2026-10-25/cambridge-analytica-diez-anos-despues-meta-no-ahuyenta-los-fantasmas-de-la-injerencia-politica.html",
+            "resumen": "La multa de 22.000 millones impuesta a la tecnológica por ceder datos de sus usuarios para condicionarles el voto llega entre acusaciones de que sus algoritmos favorecen a Bolsonaro en Brasil y a pocos días de las ‘midterms’ en EE UU",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Brian May, guitarrista y astrofísico: “Ver un eclipse es como estar en el escenario: sales pensando ‘tengo que repetirlo”",
+            "link": "https://elpais.com/ciencia/2026-10-25/brian-may-guitarrista-y-astrofisico-ver-un-eclipse-es-como-estar-en-el-escenario-sales-pensando-tengo-que-repetirlo.html",
+            "resumen": "El científico, cara visible del festival Starmus en Canarias, retomó su tesis sobre el polvo interplanetario 30 años después de abandonarla para triunfar con Queen",
             "fuente": "El País"
           },
           {
@@ -90,21 +102,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "EE UU acusa a Rusia de realizar maniobras “peligrosas y amenazantes” con su satélite compatibles con armas espaciales",
-            "link": "https://elpais.com/ciencia/2026-10-22/ee-uu-acusa-a-rusia-de-realizar-maniobras-peligrosas-y-amenazantes-con-su-satelite-compatibles-con-armas-espaciales.html",
-            "resumen": "Washington denuncia ante la ONU el comportamiento amenazante de un satélite militar ruso que acosó a otro que proporciona imágenes al ejército de Ucrania",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "El año negro de Meta: las claves de la mayor multa a una tecnológica por cometer 43 millones de infracciones",
-            "link": "https://elpais.com/tecnologia/2026-10-23/el-ano-negro-de-meta-las-claves-de-la-mayor-multa-a-una-tecnologica-por-cometer-43-millones-de-infracciones.html",
-            "resumen": "La compañía de Mark Zuckerberg deberá pagar 22.000 millones al Estado de Nuevo México, que se suman a los 18.000 acordados para frenar otra demanda por los efectos de las redes sociales. Y el curso todavía no ha acabado",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "El cielo que atrapó a Van Gogh: la Luna y Venus revelan la fecha en que observó ‘La noche estrellada’",
-            "link": "https://elpais.com/ciencia/2026-10-22/el-cielo-que-atrapo-a-van-gogh-la-luna-y-venus-revelan-la-fecha-en-que-observo-la-noche-estrellada.html",
-            "resumen": "Un grupo de científicos afirma que la famosa pintura coincide con la posición de los astros en el cielo de las primeras horas del 22 de julio de 1889, más tarde de lo que se creía",
+            "titulo": "Carrera contrarreloj para estudiar las cuevas heladas de España antes de que desaparezcan: “Es un archivo único y lo vamos a perder”",
+            "link": "https://elpais.com/ciencia/2026-10-24/carrera-contrarreloj-para-estudiar-las-cuevas-heladas-de-espana-antes-de-que-desaparezcan-es-un-archivo-unico-y-lo-vamos-a-perder.html",
+            "resumen": "Un equipo de científicos lucha por tomar las últimas muestras del hielo fósil, que contiene restos de vegetales, virus y bacterias de hace miles de años",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Flick elogia a Mourinho antes del Clásico",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242623/flick-elogia-mourinho-clasico.html",
-            "resumen": "Intensa, rápida y nutrida rueda de prensa de Hansi Flick en la previa del Clásico ante el Real Madrid . El técnico alemán ha vertido elogios sobre el técnico del Real Madrid y también sobre su el equipo blanco, del que desconfía a pesar…",
+            "titulo": "Flick tira de dos canteranos más para completar la convocatoria del Clásico",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004242980/flick-tira-dos-canteranos-completar-convocatoria-clasico.html",
+            "resumen": "Sin sorpresas y con lo esperado. Hansi Flick dio a conocer la convocatoria para enfrentarse al Real Madrid (21.00h/DAZN) pasadas las 13 horas del mediodía con todos los jugadores disponibles además de dos novedades: Álex Campos , como…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Flick, para que quede claro: \"Confío en los árbitros\"",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242637/flic-quede-claro-confio-arbitros.html",
-            "resumen": "Desde la llegada de Jose Mourinho y, sobre todo, después de la evidente diferencia de juego, en el Real Madrid se han empeñado en señalar al colectivo arbitral y lo que consideran errores en contra suyo para justificar los seis puntos de…",
+            "titulo": "Premio para Orian Goren",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004242686/premio-orian-goren.html",
+            "resumen": "Tras una pretemporada en la que Hansi Flick pudo ver de cerca a Orian Goren (17 años), el canterano se ha ganado el estreno en una convocatoria con el primer equipo. Ante la baja de Dani Olmo , Flick le da la primera oportunidad al…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,16 +147,16 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "October 24, 2026",
-    "generada": "13:41",
+    "fecha": "October 25, 2026",
+    "generada": "13:59",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Ukraine says Starlink connection 'now stable' after network limits",
-            "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-            "resumen": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+            "titulo": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+            "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
             "fuente": "BBC"
           },
           {
@@ -166,15 +166,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Live Updates: France Deploys Vast Security Force in Bid to Prevent More Riots",
-            "link": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots",
-            "resumen": "As many as 70,000 police and security officers will try to avert the arson and looting that shocked the country last weekend. The interior minister estimated that 35,000 people were out on streets nationwide by midday.",
+            "titulo": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
+            "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
+            "resumen": "Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a narrow race that could redefine the future of Latin America.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-            "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+            "titulo": "Israel to close West Bank crossings on election day as crackdown escalates",
+            "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
             "fuente": "BBC"
           },
           {
@@ -189,9 +189,9 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "How does the UK state pension compare with other countries?",
-            "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Do British pensioners have it better or worse than those in other countries?",
+            "titulo": "Four ways Labour could raise money in the Budget without hiking income tax",
+            "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
             "fuente": "BBC"
           },
           {
@@ -201,15 +201,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "C.E.O.s Say the A.I. Rollout Is Going Well. Employees Feel Differently.",
-            "link": "https://www.nytimes.com/2026/10/24/business/dealbook/ceos-say-the-ai-rollout-is-going-well-employees-feel-differently.html",
-            "resumen": "Surveys show workers and executives have different views on A.I.",
+            "titulo": "Former ‘60 Minutes’ Boss to Join Video Journalism Start-Up",
+            "link": "https://www.nytimes.com/2026/10/25/business/media/bill-owens-60-minutes-emerson-collective.html",
+            "resumen": "Bill Owens, who left the show after clashing with CBS executives, is joining Newpress, which publishes work from creators on YouTube.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-            "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+            "titulo": "Budget to include £1bn for social and affordable housing",
+            "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The move will take funding for the 10-year programme to more than £40bn.",
             "fuente": "BBC"
           },
           {
@@ -224,15 +224,15 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Trains cancelled and road warnings as Scotland prepares for Storm Boelo",
-            "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast.",
+            "titulo": "Flight disruption and thousands without electricity after Storm Boelo",
+            "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
+            "resumen": "About 350 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure.",
             "fuente": "BBC"
           },
           {
-            "titulo": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows",
-            "link": "https://www.theguardian.com/society/2026/oct/23/mrna-vaccine-melanoma-cancer-breakthrough-australia",
-            "resumen": "Trial results represent ‘foundational shift’ in approach to cancer, allowing scientists to harness immune system in more personalised way Get our new political email , free app or daily news podcast A personalised mRNA-based melanoma…",
+            "titulo": "‘It’s magic’: scientists rediscover how to make ancient Roman colour-changing glass",
+            "link": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
+            "resumen": "Exclusive: Optical engineering that went into 1,600-year-old Lycurgus Cup has baffled experts for centuries The Romans’ proficiency in the art of glass-making has produced some of the wonders of antiquity, but few of their creations…",
             "fuente": "The Guardian"
           },
           {
@@ -242,15 +242,15 @@ const EDICION_MUNDO = {
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Storm Boelo to bring severe gales and heavy rain into Sunday",
-            "link": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss",
-            "resumen": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.",
+            "titulo": "Travel disruption and power cuts after back-to-back storms",
+            "link": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Hundreds of homes have been without power while there is disruption on roads, rail and ferry.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Have scientists finally found a way to save the banana from disaster?",
-            "link": "https://www.theguardian.com/global-development/2026/oct/22/have-scientists-finally-found-a-way-to-save-the-banana-from-disaster",
-            "resumen": "With the climate crisis and diseases threatening one of the world’s most popular fruits, researchers are hoping a breakthrough in breeding techniques could give the Cavendish banana a certain future Love them or loathe them, bananas are…",
+            "titulo": "US military gives Elon Musk’s SpaceX access to sensitive tracking data",
+            "link": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data",
+            "resumen": "This gives the company an advantage in tracking objects in orbit, raising national security concerns and fears of greater control over the space industry The US military has given Elon Musk’s SpaceX access to restricted space tracking…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Infantino says he is backed by 'vast majority'",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.",
+            "titulo": "Fernandes dropped to Man Utd bench - was Carrick right?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Manchester United skipper Bruno Fernandes is dropped from the starting XI for Sunday's game against Bournemouth following his criticism of manager Michael Carrick.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Aston Villa 2-1 Manchester City: Premier League – live",
-            "link": "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-premier-league-live",
-            "resumen": "Nicolas Jackson scored twice and led the line magnificently as Villa ended City’s winning start in a pulsating game Enzo Maresca on the omission of Phil Foden The good thing is that because we play so many games we have so many players…",
+            "titulo": "Brewers erase four-run deficit to stun Rays and take 2-0 World Series lead",
+            "link": "https://www.theguardian.com/sport/2026/oct/25/milwaukee-brewers-tampa-bay-rays-world-series-game-two-comeback",
+            "resumen": "Milwaukee rally from 4-0 down to win 5-4 in Game 2 Frelick homers before Pratt delivers go-ahead single Rays undone by defensive mistakes in seventh inning Sal Frelick tied the score with his first home run in three months, Cooper Pratt…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "England thrash France to keep alive World Cup hopes",
-            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cr93zwx9pzv9o?at_medium=RSS&at_campaign=rss",
-            "resumen": "England beat France 82-0 to maintain their hopes of reaching the Men's Rugby League World Cup semi-finals.",
+            "titulo": "Anderson stops short of retiring after Lancashire exit",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c3qjng48exxwo?at_medium=RSS&at_campaign=rss",
+            "resumen": "James Anderson expresses sadness at being released by Lancashire, but stopped short of confirming the end of his legendary playing career.",
             "fuente": "BBC"
           },
           {
-            "titulo": "‘It feels like a fairy tale’: American Paula Moltzan wins first World Cup race by 0.01sec",
-            "link": "https://www.theguardian.com/sport/2026/oct/24/paula-moltzan-first-world-cup-win-solden-giant-slalom",
-            "resumen": "American, 32, wins season-opening giant slalom Moltzan edges Albania’s Lara Colturi by 0.01sec Mikaela Shiffrin drops from first to seventh place American Paula Moltzan became the oldest woman to claim her first Alpine skiing World Cup…",
+            "titulo": "The WNBA finals are a basketball wonderland – unless you’re part of the Maga machine",
+            "link": "https://www.theguardian.com/sport/2026/oct/25/the-wnba-finals-are-a-basketball-wonderland-unless-youre-part-of-the-maga-machine",
+            "resumen": "The Dream and Valkyries are tied at 2-2 after four absorbing games. Many in America would rather we revisited the national anthem debate When Tyler Perry leading lady Crystal Renee took center stage at State Farm Arena to sing the…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Jackson stars with two goals - player ratings for Aston Villa v Man City",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ck4g14j85y9xo?at_medium=RSS&at_campaign=rss",
-            "resumen": "How Aston Villa and Man City players rated following their Premier League match.",
+            "titulo": "'This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history",
+            "link": "https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Barcelona aim to make La Liga history against Real Madrid, with Jose Mourinho looking to end their winning run.",
             "fuente": "BBC"
           }
         ]
