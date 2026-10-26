@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "25 de octubre de 2026",
-  "generada": "13:59",
+  "fecha": "26 de octubre de 2026",
+  "generada": "16:20",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: todas las novedades del Gobierno, minuto a minuto",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-todas-novedades-gobierno-minuto-minuto_0_vG64e6hRtI.html",
-          "resumen": "Tras su polémico viaje a España, el Presidente sigue de cerca las elecciones que definirán al nuevo mandatario de Brasil. En tanto, las últimas encuestas muestran que el libertario tiene un alto rechazo, pero sigue liderando la intención…",
+          "titulo": "Se reunió el gabinete tras el triunfo de Lula: Milei salió a farmear aura y Bullrich pegó el faltazo",
+          "link": "https://www.clarin.com/politica/reunio-gabinete-triunfo-lula-milei-salio-farmear-aura-bullrich-pego-faltazo_0_7ME7Flj5NN.html",
+          "resumen": "El presidente dijo que \"no vamos a corrernos ni un milímetro de las ideas de la libertad\", en clara referencia a la victoria del PT en Brasil.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "En el Gobierno debaten medidas de reactivación económica pero Milei se muestra inflexible",
-          "link": "https://www.lanacion.com.ar/politica/en-el-gobierno-debaten-medidas-de-reactivacion-economica-pero-milei-se-muestra-inflexible-nid25102026/",
-          "resumen": "El Presidente admitió por primera vez que los indicadores “no evolucionan” como esperaba la Rosada; el ministro de Economía volvió de Tailandia y advirtió por el shock externo; comentarios por Bullrich y por la curita en el cuello",
+          "titulo": "Javier Milei y sus medidas, en vivo: el Presidente acusó a Lula de querer “robar” las elecciones en Brasil",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-acuso-a-lula-de-querer-robar-las-elecciones-en-nid26102026/",
+          "resumen": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Lacunza defendió las PASO y rechazó modificar el sistema electoral cerca de los comicios",
-          "link": "https://www.infobae.com/politica/2026/10/25/lacunza-defendio-las-paso-y-rechazo-modificar-el-sistema-electoral-cerca-de-los-comicios/",
-          "resumen": "El precandidato presidencial por el Pro afirmó que las internas ordenan la competencia entre propuestas afines antes de una segunda vuelta y cuestionó cambios oportunistas en una contienda próxima. Rechazó un posible acuerdo con el…",
+          "titulo": "El Papa León XIV confirmó su viaje a la Argentina",
+          "link": "https://www.infobae.com/politica/2026/10/26/el-papa-leon-xiv-confirmo-su-viaje-a-la-argentina/",
+          "resumen": "El Pontífice ratificó su visita, prevista entre el 8 y el 11 de noviembre, en medio de la recuperación de una cirugía de pulmón",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Esteban Bullrich habla sobre el miedo a la muerte y cuestiona a Milei: \"Me preocupa profundamente la forma de ejercer el poder\"",
-          "link": "https://www.clarin.com/politica/esteban-bullrich-habla-miedo-muerte-cuestiona-milei-preocupa-profundamente-forma-ejercer-poder_0_qGPR3l1lPd.html",
-          "resumen": "El exministro y exsenador, que se comunica con los ojos, dice que ya no se ve candidato. También hace autocrítica de Cambiemos y cuenta cómo cambió su mirada tras ser diagnosticado con ELA.",
+          "titulo": "Mientras desafía al Gobierno en redes, Bullrich busca votos para reactivar el Senado esta semana",
+          "link": "https://www.clarin.com/politica/desafia-gobierno-redes-bullrich-busca-votos-reactivar-senado-semana_0_BgBOKPBnRe.html",
+          "resumen": "Hace un mes que la Cámara Alta no se reúne y la ley de Salud Mental tuvo dictamen, pero no tiene garantizados los votos. El Tratado de Patentes es una deuda con Estados Unidos.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Los fallos anteriores de los jueces de Hotesur - Los Sauces: la “ruta del dinero K”, los bolsos de López y Oil Combustibles",
-          "link": "https://www.lanacion.com.ar/politica/los-fallos-anteriores-de-los-jueces-de-hotesur-los-sauces-la-ruta-del-dinero-k-los-bolsos-de-lopez-y-nid25102026/",
-          "resumen": "Cristina Kirchner, Lázaro Báez y Cristóbal López ya fueron juzgados en otras causas por alguno de los tres magistrados",
+          "titulo": "Solo en Off | El “eterno” Gildo Insfrán gritó un gol que tardó 40 años en llegar",
+          "link": "https://www.lanacion.com.ar/politica/solo-en-off-el-eterno-gildo-insfran-grito-un-gol-que-tardo-40-anos-en-llegar-nid26102026/",
+          "resumen": "La secretaria de Adorni volvió a la Rosada; Massa atiende a Malena Galmarini en plena reunión y Scioli preparó su foto con los Bolsonaro",
           "fuente": "La Nación"
         }
       ]
@@ -42,34 +42,34 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Euro hoy en Uruguay: precio y cotización de la divisa este domingo 25 de octubre de 2026",
-          "link": "https://www.clarin.com/economia/euro-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-domingo-25-de-octubre-de-2026_0_P7hvc3vYUL.html",
-          "resumen": "Mirá la cotización del euro en Uruguay, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
+          "titulo": "Vacaciones en Brasil 2027: se abaratan los paquetes por la caída del real y subió 40% la demanda en agencias de viaje",
+          "link": "https://www.clarin.com/economia/vacaciones-brasil-2027-abaratan-paquetes-caida-real-subio-40-demanda-agencias-viaje_0_SdP3VPhfdA.html",
+          "resumen": "El real comenzó la semana con una fuerte depreciación. Eso hará más económico viajar al país vecino. El país vecino va por otra temporada histórica, después de un año récord. Treparon casi 45% en octubre las consultas online por viajes y…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Visec Carne: así funciona el mundo de los negocios, guste o no",
-          "link": "https://www.lanacion.com.ar/economia/campo/visec-carne-asi-funciona-el-mundo-de-los-negocios-guste-o-no-nid25102026/",
-          "resumen": "La decisión que tomen los productores en relación a la exigencia europea que entrará en vigor en enero sobre deforestación afectará de manera positiva o negativa en su actividad",
+          "titulo": "Estiman que la venta de celulares en el país será la más baja en 20 años",
+          "link": "https://www.lanacion.com.ar/tecnologia/estiman-que-la-venta-de-celulares-en-el-pais-sera-la-mas-baja-en-20-anos-nid26102026/",
+          "resumen": "El volumen total de celulares vendidos durante 2026 en la Argentina será incluso más bajo que durante la pandemia, cuando se frenó la producción local",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Mercado, industria y Mercosur: ¿qué pueden cambiar en la Argentina las elecciones en Brasil?",
-          "link": "https://www.ambito.com/economia/mercado-industria-y-mercosur-que-pueden-cambiar-la-argentina-las-elecciones-brasil-n6337533",
-          "resumen": "El resultado de los comicios pondrá en discusión en qué modelo de integración regional tendrá que competir la industria argentina.",
+          "titulo": "AySA busca subir las tarifas de agua a 2 millones de usuarios en medio de la privatización: ¿de cuánto sería el aumento?",
+          "link": "https://www.ambito.com/economia/aysa-busca-subir-las-tarifas-agua-2-millones-usuarios-medio-la-privatizacion-de-cuanto-seria-el-aumento-n6337924",
+          "resumen": "Se prevé un aumento del 22,6% en la factura media para un grupo, mientras otros verían reducciones o se mantendrían sin cambios. El proceso de venta del 90% de AySA avanza, pese a cuestionamientos por conflictos de interés y una oferta…",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Hugo Lattanzi, productor que invirtió en un campo en Río Negro: “Siempre vi a la zona con mucho potencial”",
-          "link": "https://www.lanacion.com.ar/economia/campo/hugo-lattanzi-productor-que-invirtio-en-un-campo-en-rio-negro-siempre-vi-a-la-zona-con-mucho-nid25102026/",
-          "resumen": "En Lamarque, en el Valle Medio, apunta a estabilizar rindes de maíz superiores a los 120 quintales gracias a condiciones ambientales únicas y con riego",
+          "titulo": "Lula, entre EE.UU. y China: qué busca Brasil con su petróleo y sus minerales y cómo podría impactar en Vaca Muerta",
+          "link": "https://www.clarin.com/energia-y-mineria/lula-eeuu-china-busca-brasil-petroleo-minerales-podria-impactar-vaca-muerta_0_yBwsZulmpG.html",
+          "resumen": "Brasil busca inversiones para procesar sus minerales y negocia con Estados Unidos y China. Para Argentina, hay una oportunidad de vender GNL, aunque deberá competir con otros proveedores.",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "“Gravísima situación”: abrieron la inscripción para comprar activos de la quiebra de Algodonera Avellaneda y un edificio tiene una base de US$1,75 millones",
+          "link": "https://www.lanacion.com.ar/economia/campo/gravisima-situacion-abrieron-la-inscripcion-para-comprar-activos-de-la-quiebra-de-algodonera-nid26102026/",
+          "resumen": "La Justicia formalizó ese proceso para conseguir interesados en la continuidad",
           "fuente": "La Nación"
-        },
-        {
-          "titulo": "Eduardo Crespo, especialista en desarrollo económico: \"El Gobierno va a tener que buscar un reset del programa”",
-          "link": "https://www.ambito.com/economia/eduardo-crespo-especialista-desarrollo-economico-el-gobierno-va-tener-que-buscar-un-reset-del-programa-n6337539",
-          "resumen": "El economista advierte que la economía funciona a dos velocidades y que el mercado interno no tiene motor claro para salir de la recesión. Propone recuperar la inversión pública y una estrategia de desarrollo para los sectores urbanos.",
-          "fuente": "Ámbito"
         }
       ]
     },
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Brasil comenzó a votar en las elecciones de balotaje más reñidas de la historia entre el presidente Lula da Silva y el opositor Flávio Bolsonaro",
-          "link": "https://www.clarin.com/mundo/brasil-comenzo-votar-elecciones-balotaje-renidas-historia-presidente-lula-da-silva-opositor-flavio-bolsonaro_0_UDE9wTFhEX.html",
-          "resumen": "Las urnas abrieron a las ocho de la mañana y cerrarán a las 17, misma hora en Argentina En Brasil no hay boca de urna y solo se cuenta los votos válidos, sin nulos y en blanco Como se vota en máquinas electrónicas se espera que la…",
+          "titulo": "Tras el regreso de María Corina Machado, la Unión Europea pide que se llame a elecciones en Venezuela",
+          "link": "https://www.clarin.com/mundo/regreso-maria-corina-machado-union-europea-pide-llame-elecciones-venezuela_0_jgoNG6fjCI.html",
+          "resumen": "La UE celebró el regreso de la líder opositora al país caribeño y pidió por un \"diálogo inclusivo\" que desemboque en comicios.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Gritos, acusaciones y un Brasil partido en dos: así arrancó el balotaje entre Lula y Flavio Bolsonaro en Río de Janeiro",
-          "link": "https://www.lanacion.com.ar/el-mundo/gritos-acusaciones-y-un-brasil-partido-en-dos-asi-arranco-el-balotaje-entre-lula-y-flavio-bolsonaro-nid25102026/",
-          "resumen": "Los seguidores de ambos candidatos protagonizaron cruces y cánticos frente al colegio donde votó el senador, que llamó a un “cambio real”; los brasileños definen el rumbo político del país con las encuestas en empate técnico",
+          "titulo": "El papa León XIV confirmó que viene a la Argentina: “Me llena de alegría regresar al continente”",
+          "link": "https://www.lanacion.com.ar/el-mundo/el-papa-leon-xiv-confirmo-que-viene-a-la-argentina-nid26102026/",
+          "resumen": "Con un mensaje en X, el Sumo Pontífice ratificó el viaje; sus médicos confirman que “la recuperación sigue avanzando”",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Cuenta regresiva para las elecciones en Estados Unidos: Donald Trump y Melania votaron de manera anticipada",
-          "link": "https://www.clarin.com/mundo/cuenta-regresiva-elecciones-estados-unidos-donald-trump-melania-votaron-manera-anticipada_0_bSTkxXt42n.html",
-          "resumen": "El presidente y la primera dama votaron en Palm Beach, en el primer día de votación anticipada presencial en Florida. El mandatario luego voló a Georgia para un acto, a menos de dos semanas de las elecciones de medio término.",
+          "titulo": "Donald Trump retuvo una felicitación al pueblo brasileño tras las elecciones del domingo que ganó Lula da Silva",
+          "link": "https://www.clarin.com/mundo/donald-trump-retuvo-felicitacion-pueblo-brasileno-elecciones-domingo-gano-lula-da-silva_0_ISgA7lQXan.html",
+          "resumen": "El informe lo publico el diario Folha de Sao Paulo. Tambièn sostiene que aun no reaccionaron los presidentes de Argentina y El Salvador",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Disturbios en Barcelona: 128 detenidos por saqueos, vandalismo y daños en la vía pública",
-          "link": "https://www.lanacion.com.ar/el-mundo/disturbios-en-barcelona-128-detenidos-por-saqueos-vandalismo-y-danos-en-la-via-publica-nid25102026/",
-          "resumen": "Varios países de Europa se enfrentan a una serie de conflictos por protestas y manifestaciones de estudiantes y trabajadores; a España se sumaron Francia, Portugal e Italia",
+          "titulo": "Papa León XIV: qué se sabe de su visita a la Argentina tras la confirmación del Vaticano",
+          "link": "https://www.lanacion.com.ar/el-mundo/salud-del-papa-leon-xiv-que-se-sabe-de-su-visita-a-la-argentina-nid22102026/",
+          "resumen": "El sumo pontífice canceló un viaje en helicóptero a Asís por “precaución” tras su operación por cáncer de pulmón; pese a eso, se mantiene la gira por América latina; este fin de semana habrá cortes y desvíos en la Ciudad por el armado del…",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Violencia y saqueos en Barcelona: una marcha convocada por redes sociales terminó con casi 100 detenidos",
-          "link": "https://www.clarin.com/mundo/violencia-saqueos-barcelona-marcha-convocada-redes-sociales-termino-100-detenidos_0_tHoWMTn583.html",
-          "resumen": "El alcalde Jaume Collboni precisó que más de 600 jóvenes participaron de los alborotos y prometió perseguir a los tutores legales de los menores implicados. Las agresiones a la policía y las quemas de contenedores ocurrieron a metros de…",
+          "titulo": "Brasil: Lula da Silva profesionalizará su gabinete para el cuarto mandato, fortalecerá el ala liberal y se disuelve la protesta de Flávio Bolsonaro",
+          "link": "https://www.clarin.com/mundo/brasil-lula-da-silva-profesionalizara-gabinete-cuarto-mandato-fortalecera-ala-liberal-disuelve-protesta-flavio-bolsonaro_0_bSi6LpwPlz.html",
+          "resumen": "El amplio triunfo en el balotaje impulsará cambios ministeriales y redefinirá la interna entre los sectores del gobierno. Para encabezar el área de Hacienda suenan los nombres de Luiz Carlos Trabuco Cappi y del vicepresidente Geraldo…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "FC Barcelona vs Real Madrid, EN VIVO, por LaLiga de España: a qué hora juegan, formaciones y cómo ver el partido en vivo",
-          "link": "https://www.clarin.com/deportes/fc-barcelona-vs-real-madrid-vivo-laliga-espana-hora-juegan-formaciones-ver-partido-vivo_0_FpMGpbIwyU.html",
-          "resumen": "Chocan en el Camp Nou por la fecha 10 del certamen. El árbitro es Juan Martínez y televisa en Argentina la señal DSports.",
+          "titulo": "River va a la Bombonera para jugar con Boca con la guardia alta: las sospechas por el VAR, los reclamos de Ponzio y la tensión con la AFA",
+          "link": "https://www.clarin.com/deportes/river-va-bombonera-jugar-boca-guardia-alta-sospechas-var-reclamos-ponzio-tension-afa_0_1zrqHanonQ.html",
+          "resumen": "Tras tres goles anulados en los últimos tres partidos, el técnico y los jugadores alzaron la voz antes del Superclásico. Los antecedentes recientes alimentan el malestar. En medio de su enfrentamiento con la conducción de Claudio Tapia,…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Messi Cup 2026, en vivo: cómo ver online los partidos",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/messi-cup-2026-en-vivo-como-ver-online-los-partidos-nid25102026/",
-          "resumen": "El certamen se disputa desde este domingo en Miami con la participación de River, Boca Juniors y Newell’s entre los 16 equipos",
+          "titulo": "Historial de Boca vs. River, en la previa del Superclásico de este 1° de noviembre de 2026",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/historial-de-boca-vs-river-en-la-previa-del-superclasico-de-este-1-de-noviembre-de-2026-nid26102026/",
+          "resumen": "El xeneize tiene una leve ventaja sobre el Millonario, al que derrotó en los últimos dos encuentros entre sí; en total se enfrentaron 266 veces",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Unión vs. Estudiantes, por el Torneo Clausura 2026: día, horario y canal de TV",
-          "link": "https://www.ole.com.ar/futbol-primera/union-vs-estudiantes-partido-torneo-clausura-2026-dia-horario-canal-tv_0_pMvVVK4FMD.html",
-          "resumen": "El Tatengue, que buscará hacerse fuerte en Santa Fe, recibe al Pincha, que viene de clasificarse a la final de la Copa Libertadores, por la fecha 14 del Torneo Clausura 2026. Acá los detalles.",
+          "titulo": "Racing tocó fondo ante River: igualó una racha negra después de 19 años",
+          "link": "https://www.ole.com.ar/racing/racing-river-clasicos_0_aoRIf4yBZk.html",
+          "resumen": "Entre tantas frustraciones, con la derrota ante River en el Monumental la Academia igualó una seguidilla muy negativa que sufrió en 2007. Un repaso detallado.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Central Córdoba vs Vélez Sarsfield, EN VIVO, por el Torneo Clausura 2026: a qué hora juegan, formaciones y cómo ver el partido en vivo",
-          "link": "https://www.clarin.com/deportes/central-cordoba-vs-velez-sarsfield-vivo-torneo-clausura-2026-hora-juegan-formaciones-ver-partido-vivo_0_45Ci3Ei3zY.html",
-          "resumen": "Chocan en el estadio Único Madre de Ciudades de Santiago del Estero por la fecha 14 de la Zona A. El árbitro es Pablo Echavarría. Televisa ESPN Premium.",
+          "titulo": "Instituto vs Riestra, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido por el Torneo Clausura 2026",
+          "link": "https://www.clarin.com/deportes/instituto-vs-riestra-vivo-hora-juegan-formaciones-ver-partido-torneo-clausura-2026_0_UrbcWKKWkL.html",
+          "resumen": "La Gloria, que es líder de su zona, recibe al Malevo por la fecha 14 de la Liga Profesional. Seguí el minuto a minuto en Clarín.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Quién gana este lunes el Balón de Oro, según la IA: ¿Lionel Messi o Lamine Yamal?",
-          "link": "https://www.lanacion.com.ar/deportes/quien-gana-este-lunes-el-balon-de-oro-segun-la-ia-lionel-messi-o-lamine-yamal-nid25102026/",
-          "resumen": "La herramienta tecnológica vaticinó quién será el ganador de la ceremonia organizada por la revista France Football",
+          "titulo": "Balón de Oro 2026, EN VIVO: horario, todos los nominados y dónde ver la ceremonia con Lionel Messi como candidato",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/balon-de-oro-2026-en-vivo-nid26102026/",
+          "resumen": "Se celebrará en el teatro London Palladium, desde las 17, hora de la Argentina",
           "fuente": "La Nación"
         }
       ]
