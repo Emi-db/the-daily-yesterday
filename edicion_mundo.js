@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "26 de octubre de 2026",
-    "generada": "16:20",
+    "fecha": "27 de octubre de 2026",
+    "generada": "15:34",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "3 claves detrás de la histórica remontada electoral de Lula para ganar su cuarto mandato como presidente de Brasil",
-            "link": "https://www.bbc.com/mundo/articles/cmwy41z5lr8zo?at_medium=RSS&at_campaign=rss",
-            "resumen": "La victoria del presidente brasileño parece desafiar la matemática, pero según expertos la clave está en cambios que hubo entre la primera vuelta y el balotaje, que impulsaron su campaña.",
+            "titulo": "5 claves de la crisis por los militares de El Salvador secuestrados en Haití y el ultimátum de Bukele a las poderosas pandillas del país",
+            "link": "https://www.bbc.com/mundo/articles/cwg7xe5gnvzeo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Integrantes de una fuerza multinacional, se les perdió la pista el 18 de octubre. Desde entonces las interrogantes sobre el caso no han dejado de multiplicarse.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Lula logra una remontada histórica en Brasil y da la victoria a la izquierda frente al avance ultra de los Bolsonaro",
-            "link": "https://elpais.com/america/2026-10-26/lula-logra-una-remontada-historica-en-brasil-y-da-la-victoria-a-la-izquierda-frente-al-avance-ultra-de-los-bolsonaro.html",
-            "resumen": "El actual mandatario será presidente por cuarta vez tras vencer con cuatro millones de votos más que el candidato del clan de ultraderecha y se consolida como resistencia ante Trump",
+            "titulo": "Netanyahu se juega su futuro en unas elecciones decisivas para todo Oriente Próximo",
+            "link": "https://elpais.com/internacional/2026-10-27/netanyahu-se-juega-su-futuro-en-unas-elecciones-decisivas-para-todo-oriente-proximo.html",
+            "resumen": "Los israelíes comenzaron a votar en los primeros comicios desde el ataque de Hamás de 2023. El bloque judío de oposición es favorito en los sondeos frente a la coalición del primer ministro, pero ninguno obtendrá la mayoría",
             "fuente": "El País"
           },
           {
-            "titulo": "Francia: el Gobierno se reúne con los líderes de las protestas tras prometer \"respuestas concretas\"",
-            "link": "https://www.france24.com/es/francia/20261026-francia-el-gobierno-se-re%C3%BAne-con-los-l%C3%ADderes-de-las-protestas-tras-prometer-respuestas-concretas",
-            "resumen": "El primer ministro francés, Sébastien Lecornu, se reúne este lunes con representantes de organizaciones estudiantiles de secundaria y universitarias con el objetivo de poner fin a más de un mes de protestas y disturbios. El país afronta…",
+            "titulo": "La participación en las elecciones israelíes alcanza el 55,7 %, la más alta a esa hora desde 1973",
+            "link": "https://www.france24.com/es/medio-oriente/20261027-%F0%9F%94%B4-en-directo-i-abren-las-urnas-en-israel-el-pa%C3%ADs-vota-en-sus-primeras-elecciones-desde-los-ataques-del-7-de-octubre",
+            "resumen": "",
             "fuente": "France 24"
           },
           {
-            "titulo": "Los gráficos que explican la inédita remontada de Lula en las elecciones presidenciales de Brasil",
-            "link": "https://www.bbc.com/mundo/articles/cr2ke8j4944po?at_medium=RSS&at_campaign=rss",
-            "resumen": "Los datos oficiales muestran que el triunfo del aspirante a la reelección fue resultado de una mejora de su desempeño electoral en distintas regiones del país y de una ampliación de su ventaja en áreas clave.",
+            "titulo": "La participación alcanza niveles récord en una crucial elección para el futuro de Israel y el actual primer ministro Benjamin Netanyahu",
+            "link": "https://www.bbc.co.uk/mundo/live/cmx28dldw68pt?at_medium=RSS&at_campaign=rss",
+            "resumen": "El primer ministro israelí enfrenta una cerrada elección frente a Gadi Eisenkot, un exmilitar que encabeza la oposición. Se espera que el legado de los atentados liderados por Hamás el 7 de octubre de 2023 desempeñe un papel fundamental…",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Bolsonaro no reconoce el triunfo de Lula y pide la anulación de las elecciones",
-            "link": "https://elpais.com/america/2026-10-26/bolsonaro-no-reconoce-el-triunfo-de-lula-y-pide-la-anulacion-de-las-elecciones.html",
-            "resumen": "Los ultras se muestran abatidos, pero anuncian una batalla legal contra lo que califican de “canallada”",
+            "titulo": "La ‘generación de Netanyahu’: 640.000 nuevos votantes a la derecha de sus padres",
+            "link": "https://elpais.com/internacional/2026-10-27/la-generacion-de-netanyahu-640000-nuevos-votantes-a-la-derecha-de-sus-padres.html",
+            "resumen": "Un 10% de israelíes acuden por primera vez a las urnas más radicales y religiosos que sus mayores. No conocen otro primer ministro ni un diálogo de paz con los palestinos",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Elma Saiz asegura que el Gobierno aprobará otra deducción para que el salario mínimo no tribute en el IRPF",
-            "link": "https://elpais.com/economia/2026-10-26/elma-saiz-asegura-que-el-gobierno-aprobara-otra-deduccion-para-que-el-salario-minimo-no-tribute-en-el-irpf.html",
-            "resumen": "La portavoz y ministra de Seguridad Social insiste en que el Ejecutivo quiere aprobar la subida del SMI antes de las elecciones",
+            "titulo": "El paro repunta en el tercer trimestre hasta el 10,18%",
+            "link": "https://elpais.com/economia/2026-10-27/el-paro-repunta-en-el-tercer-trimestre-hasta-el-1018.html",
+            "resumen": "La ocupación avanza en 73.600 personas, el peor dato en siete años, y el volumen de parados crece en 95.900. A la vez, se alcanza un nuevo récord de 22,85 millones trabajadores",
             "fuente": "El País"
           },
           {
-            "titulo": "Moeve y Galp cancelan la mayor fusión petrolera intraeuropea",
-            "link": "https://www.expansion.com/empresas/2026/10/26/6adef86ce5fdea4b708b4583.html",
-            "resumen": "Moeve y Galp dan por concluidas, sin éxito, sus negociaciones para integrar negocios en una operación de 18.000 millones que hubiera cambiado el mapa petrolero de Europa. Leer",
+            "titulo": "El Gobierno abre una excepción al decreto de centros de datos para excluir de sus exigencias la gigafactoría catalana de IA",
+            "link": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/27/6ae0775de5fdea0f238b4591.html",
+            "resumen": "Ante el riesgo político de que el decreto haga naufragar el proyecto millonario de Cataluña, el nuevo borrador incluye una cláusula de escape. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "La compra de vivienda vuelve a crecer en agosto, pero acumula una caída anual del 2,3%",
-            "link": "https://elpais.com/economia/vivienda/2026-10-26/la-compra-de-vivienda-vuelve-a-crecer-en-agosto-pero-acumula-una-caida-anual-del-23.html",
-            "resumen": "Ese mes registró 49.319 operaciones y la firma de hipotecas avanzó un 2,3% interanual, con 33.841 préstamos, según el INE",
+            "titulo": "Uber Eats acuerda con los sindicatos renunciar a sus repartidores autónomos y completa la laboralización del sector",
+            "link": "https://elpais.com/economia/2026-10-27/uber-eats-acuerda-con-los-sindicatos-renunciar-a-sus-repartidores-autonomos-y-completa-la-laboralizacion-del-sector.html",
+            "resumen": "La gran plataforma que seguía operando con ‘riders’ por cuenta propia anuncia un pacto por el que serán dados de alta en una empresa de nueva creación",
             "fuente": "El País"
           },
           {
-            "titulo": "Aagesen: \"La transición energética requiere un marco estable pero dinámico para facilitar las señales de inversión\"",
-            "link": "https://www.expansion.com/sostenibilidad/greenworld/2026/10/26/6adf16cce5fdead23e8b4590.html",
-            "resumen": "La vicepresidenta tercera y ministra para la Transición Ecológica y el Reto Demográfico, Sara Aagensen, ha defendido hoy durante su intervención en el foro EXPANSIÓN GreenWorld & Sustainability que \"la transición energética requiere de un…",
+            "titulo": "Los empresarios piden recuperar el despido por bajas reiteradas ante la escalada del absentismo laboral",
+            "link": "https://www.expansion.com/economia/2026/10/27/empresarios-piden-recuperar-despido-bajas-reiteradas-escalada-absentismo-laboral.html",
+            "resumen": "Proponen suspender los complementos salariales voluntarios cuando el empleado rechace someterse a reconocimientos médicos de control y estipular en el contrato que las bajas suspendan el cómputo del periodo de prueba. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Críticas al grupo Volkswagen por la participación del presidente de Audi en la campaña de Trump",
-            "link": "https://elpais.com/economia/2026-10-26/criticas-al-grupo-volkswagen-por-la-participacion-del-presidente-de-audi-en-la-campana-de-trump.html",
-            "resumen": "El comité de empresa, los sindicatos y los socialdemócratas acusan al consorcio alemán de respaldar al líder estadounidense a pocos días de las elecciones",
+            "titulo": "El Gobierno aprueba una subvención de 201 millones a promotores privados para construir 2.500 viviendas públicas",
+            "link": "https://elpais.com/economia/vivienda/2026-10-27/el-gobierno-aprueba-una-subvencion-de-201-millones-a-promotores-privados-para-construir-2500-viviendas-publicas.html",
+            "resumen": "Vivienda precisa que la ayuda se dirige a una treintena de proyectos sobre suelos de la empresa estatal Casa 47, que luego alquilará los pisos a precios asequibles",
             "fuente": "El País"
           }
         ]
@@ -77,6 +77,18 @@ const EDICION_MUNDO = {
       {
         "nombre": "Ciencia y Tecnología",
         "notas": [
+          {
+            "titulo": "Guardianes de la noche: la desafiante profesión de los astrónomos de La Palma",
+            "link": "https://elpais.com/ciencia/2026-10-27/guardianes-de-la-noche-la-desafiante-profesion-de-los-astronomos-de-la-palma.html",
+            "resumen": "Para investigar en uno de los entornos más privilegiados del mundo, los profesionales del Instituto de Astrofísica de Canarias afrontan noches sin dormir y condiciones extremas",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "El iPhone Duo, el primer plegable de Apple, recibe quejas de clientes por roturas de pantallas",
+            "link": "https://elpais.com/tecnologia/2026-10-26/el-iphone-duo-el-primer-plegable-de-apple-recibe-quejas-de-clientes-por-roturas-de-pantallas.html",
+            "resumen": "El dispositivo ha batido récords de ventas, con un precio que supera los 2.300 euros",
+            "fuente": "El País"
+          },
           {
             "titulo": "Nicola Spaldin, favorita al Nobel de Física: “Un material superconductor a temperatura ambiente traería un cambio geopolítico mundial”",
             "link": "https://elpais.com/ciencia/2026-10-26/nicola-spaldin-favorita-al-nobel-de-fisica-un-material-superconductor-a-temperatura-ambiente-traeria-un-cambio-geopolitico-mundial.html",
@@ -94,18 +106,6 @@ const EDICION_MUNDO = {
             "link": "https://elpais.com/salud-y-bienestar/2026-10-25/las-vacunas-contra-el-cancer-si-pero-aun-no.html",
             "resumen": "No todo está resuelto y los avances anunciados ofrecen esperanza, pero abren también nuevos interrogantes",
             "fuente": "El País"
-          },
-          {
-            "titulo": "El furor por el iPhone Duo llega a las tiendas: horas de espera para adquirir el plegable de 2.300 euros frente a los acampados de Sol",
-            "link": "https://elpais.com/tecnologia/2026-10-23/el-furor-por-el-iphone-duo-llega-a-las-tiendas-horas-de-espera-para-adquirir-el-plegable-de-2300-euros-frente-a-los-acampados-de-sol.html",
-            "resumen": "Decenas de personas se agolpan frente al portal de la tienda oficial del centro de Madrid para hacerse con el nuevo móvil de Apple",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Brian May, guitarrista y astrofísico: “Ver un eclipse es como estar en el escenario: sales pensando ‘tengo que repetirlo”",
-            "link": "https://elpais.com/ciencia/2026-10-25/brian-may-guitarrista-y-astrofisico-ver-un-eclipse-es-como-estar-en-el-escenario-sales-pensando-tengo-que-repetirlo.html",
-            "resumen": "El científico, cara visible del festival Starmus en Canarias, retomó su tesis sobre el polvo interplanetario 30 años después de abandonarla para triunfar con Queen",
-            "fuente": "El País"
           }
         ]
       },
@@ -113,33 +113,33 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "Neville tira de la manta en la crisis del United: \"Carrick sentirá asco y repugnancia por sus jugadores\"",
-            "link": "https://www.marca.com/futbol/premier-league/2026/10/26/neville-tira-manta-crisis-manchester-united-carrick-sentira-asco-repugnancia-jugadores.html",
-            "resumen": "Gary Neville critica a la directiva al Manchester United y&nbsp;Eddie Howe y Julian Nagelsmann con los favoritos para suplir a&nbsp;Michael Carrick en Old Trafford",
+            "titulo": "Histórico Yáñez, fiesta de Enzo, obra de arte de 'Caste', pleno y liderato",
+            "link": "https://www.marca.com/futbol/real-madrid/2026/10/21/historico-yanez-fiesta-enzo-obra-arte-caste-pleno-liderato.html",
+            "resumen": "El campeón se coloca líder de la Youth League tras tres victorias&nbsp;",
             "fuente": "Marca"
           },
           {
-            "titulo": "Espart, siete semanas de baja",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261026/1004243382/espart-siete-semanas-baja.html",
-            "resumen": "Xavier Espart es una baja más para la defensa barcelonista. El joven lateral sufre un esguince en el tobillo derechos, como consecuencia de una durísima entrada de Tchouameni , que tocó balón en la disputa pero después arrolló el tobillo…",
+            "titulo": "¡Boicot a Kylian Mbappé!",
+            "link": "https://www.mundodeportivo.com/futbol/real-madrid/20261027/1004243670/boicot-kylian-mbappe.html",
+            "resumen": "Varias empresas chinas, entre ellas el grupo de bebidas Dongpeng y las compañías lácteas Mengniu y Milkground, anunciaron este martes el cese de su cooperación comercial con el futbolista del Real Madrid Kylian Mbappé , después de que el…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "La razón que nadie cuenta por la que no debes esperar a fin de año si quieres un coche con 'etiqueta 0'",
-            "link": "https://www.marca.com/coches-y-motos/consejos/2026/10/26/razon-nadie-cuenta-debes-esperar-ano-quieres-coche-etiqueta-0.html",
-            "resumen": "Las ayudas del Plan Auto+ están gastando sus fondos para 2026. El problema es que no hay financiación aprobada para el próximo año y viene otra complicación añadida",
+            "titulo": "Un menor, investigado por arrojar una piedra desde un puente y dejar en estado crítico a un conductor",
+            "link": "https://www.marca.com/tiramillas/sucesos/2026/10/21/menor-16-anos-investigado-guardia-civil-arrojar-piedra-puente-ap-41-dejar-critico-conductor.html",
+            "resumen": "La víctima, de 42 años, regresaba a casa tras su jornada laboral cuando recibió el impacto de una piedra en su vehículo a la altura de Yuncler, en Toledo",
             "fuente": "Marca"
           },
           {
-            "titulo": "Récord histórico de taquilla en el Spotify Camp Nou: 19,1 millones por el Clásico",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261026/1004243315/record-historico-taquilla-spotify-camp-nou-19-1-millones-clasico.html",
-            "resumen": "Si el pasado 10 de mayo se batió el récord de recaudación en un Clásico con 16.465.731 euros, el del domingo pulverizó todos los registros con una taquilla de 19.105.768 euros en el Spotify Camp Nou con las entradas vendidas para el…",
+            "titulo": "La TV china cancela las emisiones de LaLiga: \"Hieren los sentimientos del pueblo chino\"",
+            "link": "https://www.mundodeportivo.com/futbol/laliga/20261027/1004243690/television-estatal-china-suspende-emisiones-laliga-polemica-mbappe.html",
+            "resumen": "La televisión estatal china CCTV suspendió las retransmisiones de la Liga española de fútbol y de los partidos relacionados con el delantero del Real Madrid Kylian Mbappé , tras la polémica por unas declaraciones del francés sobre un…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Lula da Silva se impone a Flávio Bolsonaro y es reelecto presidente de Brasil",
-            "link": "https://www.marca.com/tiramillas/politica/2026/10/26/lula-da-silva-impone-flavio-bolsonaro-reelecto-presidente-brasil.html",
-            "resumen": "El presidente remonta la primera vuelta y logra un cuarto mandato; su rival pedirá anular los comicios",
+            "titulo": "María Herrera, la reina de las motos: \"Quiero llevar el Mundial Femenino a MotoGP\"",
+            "link": "https://www.marca.com/motor/mas-motor/2026/10/21/maria-herrera-reina-motos-quiero-llevar-mundial-femenino-motogp.html",
+            "resumen": "La bicampeona del mundo visita MARCA con toda una declaración de intenciones: el futuro del Mundial, la batalla entre Márquez y Martín y una carrera deportiva en ascenso",
             "fuente": "Marca"
           }
         ]
@@ -147,16 +147,16 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "October 26, 2026",
-    "generada": "16:20",
+    "fecha": "October 27, 2026",
+    "generada": "15:34",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Lula wins fourth term in dramatic Brazil election comeback",
-            "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+            "titulo": "Turnout so far highest on record as Israelis vote in pivotal election",
+            "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
             "fuente": "BBC"
           },
           {
@@ -166,15 +166,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "To Work With P.O.W.s, Ukrainians Suppress Feelings About the Enemy",
-            "link": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-russia-pows-prisoners.html",
-            "resumen": "Much has been said about how Ukraine should treat Russian prisoners of war. Less attention has been paid to the emotional struggle for the Ukrainians tasked with that work.",
+            "titulo": "In Israel’s Election, It’s Nationalism vs. Founding Ideals",
+            "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html",
+            "resumen": "As Israel votes, ever more strident hard-right views compete with hopes for a diverse land. The outcome could shape the country’s identity for years.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-            "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+            "titulo": "Norway and Finland leaders hold rare call with Putin",
+            "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+            "resumen": "This is the first time European leaders have had direct communication with Russia's president in more than a year.",
             "fuente": "BBC"
           },
           {
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-            "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+            "titulo": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
+            "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+            "resumen": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Anthropic filing for US stock market listing reveals rapid revenue gains and even larger losses",
-            "link": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
-            "resumen": "Market debut of AI company behind Claude chatbot will be one of largest in US history, a test of the AI boom’s financial viability Anthropic has publicly filed for a stock market listing, one of the largest debuts in history. The…",
+            "titulo": "Four takeaways from Anthropic’s potentially record-breaking stock market filing",
+            "link": "https://www.theguardian.com/technology/2026/oct/26/anthropic-stock-market-filing-takeaways",
+            "resumen": "The AI company’s first public financial disclosures reveal explosive growth, huge costs and risks ranging from cyber-attacks to the limits of safeguards Anthropic has filed to go public on the US stock market, revealing for the first time…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "California’s Potential Quartz Ban Pushes Contractors and Retailers to Alternatives",
-            "link": "https://www.nytimes.com/2026/10/26/business/economy/california-quartz-countertop-ban-alternatives.html",
-            "resumen": "Manufacturers and their customers are using materials made without the clouds of dust that have sickened workers in quartz-cutting shops.",
+            "titulo": "China Steps In to Rescue Stocks, But the Market Continues to Fall",
+            "link": "https://www.nytimes.com/2026/10/27/business/china-stocks-losses-government-intervention.html",
+            "resumen": "The Communist Party uses a “national team” of state-owned investment funds to stem the market rout. But this time, investors are not sure it will work.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Healey to shield low-income pensioners from income tax in the Budget",
-            "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
+            "titulo": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+            "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+            "resumen": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
             "fuente": "BBC"
           },
           {
-            "titulo": "‘We don’t have inflation’? Five charts show the US economic reality of Trump’s second term so far",
-            "link": "https://www.theguardian.com/us-news/2026/oct/26/trump-second-term-economy-charts",
-            "resumen": "As the US midterm elections approach, we take a look at data to see a true picture of the US economy under Trump With the midterm elections fast approaching, many Americans have the economy on their minds. US voters are exhausted by years…",
+            "titulo": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+            "link": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+            "resumen": "Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boom Trillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Electricity restored to all of NI after Storm Boelo",
-            "link": "https://www.bbc.co.uk/news/articles/cqe9lykm93jmo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The Met Office has issued two new yellow weather warnings for parts of Northern Ireland.",
+            "titulo": "Scotland's recycling rates at five-year low. How is your area doing?",
+            "link": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Environmental regulator Sepa says households recycled 42.8% of waste in 2025 - down from 44.3% the previous year.",
             "fuente": "BBC"
           },
           {
-            "titulo": "‘Maxxing’ is Dictionary.com’s word of the year: ‘It’s cooler than saying you’re doing more’",
-            "link": "https://www.theguardian.com/science/2026/oct/26/maxxing-word-of-the-year-dictionary",
-            "resumen": "As all facets of our lives are optimized, the suffix has become inescapable - and experts predict it’s around to stay Maxxing is not a new concept. Dungeons and Dragons players have been “min-maxing” character stats for years; Will Smith…",
+            "titulo": "Would you pay to have the ‘best baby’? Liberal eugenics and the troubling quest for human perfection",
+            "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/27/would-you-pay-to-have-the-best-baby-liberal-eugenics-and-the-troubling-quest-for-human-perfection",
+            "resumen": "For decades the idea of eugenics has been taboo. Now it is returning in a new commercial guise For a very long time, I dreamed of being cured. I was born in 1981. I learned to walk early enough, but I stumbled and fell more easily than…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "What Happened to the Neanderthals?",
-            "link": "https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html",
-            "resumen": "Scientists now know that they shared many of the sophisticated abilities of Homo sapiens. So why are we the only humans left standing?",
+            "titulo": "Did the Hardest A.I. Problem Just Get Much Easier?",
+            "link": "https://www.nytimes.com/2026/10/27/science/ai-problem-interpretability.html",
+            "resumen": "A prominent researcher claims to have a revolutionary approach to “interpretability,” or the science of why A.I. models do what they do. Other experts aren’t so sure.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Part of Antarctica named after former BBC science correspondent",
-            "link": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
-            "resumen": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
+            "titulo": "What's happening to our rubbish?",
+            "link": "https://www.bbc.co.uk/news/videos/c9ly02pj4kdjo?at_medium=RSS&at_campaign=rss",
+            "resumen": "As Scotland's recycling rate falls to its lowest level in five years, Kevin Keane looks at what happens to our rubbish.",
             "fuente": "BBC"
           },
           {
-            "titulo": "‘It’s magic’: scientists rediscover how to make ancient Roman colour-changing glass",
-            "link": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
-            "resumen": "Exclusive: Optical engineering that went into 1,600-year-old Lycurgus Cup has baffled experts for centuries The Romans’ proficiency in the art of glass-making has produced some of the wonders of antiquity, but few of their creations…",
+            "titulo": "Perimenopause is everywhere. How do you know if you’re in it? – podcast",
+            "link": "https://www.theguardian.com/science/audio/2026/oct/27/perimenopause-how-do-you-know-if-youre-in-it-podcast",
+            "resumen": "Perimenopause has become a hot topic, with celebrities sharing their experiences and doctors offering tips and advice online. But despite the benefits of growing awareness, a rising number of women are now encountering misinformation…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Howe and Nagelsmann high on Man Utd's list if Carrick sacked",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqdr8zv5dg42o?at_medium=RSS&at_campaign=rss",
-            "resumen": "BBC Sport takes a look at who could replace Michael Carrick at Manchester United if the head coach was sacked.",
+            "titulo": "Carrick to stay in charge of Man Utd for Chelsea game",
+            "link": "https://www.bbc.co.uk/sport/football/articles/crlykgeqzypyo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Michael Carrick will remain in charge of Manchester United for their trip to Chelsea this weekend.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Premier League: 10 talking points from the weekend’s action",
-            "link": "https://www.theguardian.com/football/2026/oct/26/premier-league-10-talking-points-from-the-weekends-action",
-            "resumen": "Bournemouth’s transfer nous puts United to shame, Araújo is winning admirers at Anfield and Suzuki adapts swiftly at Villa The three Bournemouth goalscorers cost a combined £85m, joining from Vasco da Gama, Middlesbrough, and Porto. The…",
+            "titulo": "Ruthless Brewers close in on World Series sweep after crushing Rays 10-1 in Game 3",
+            "link": "https://www.theguardian.com/sport/2026/oct/26/brewers-rays-world-series-game-3-baseball",
+            "resumen": "Milwaukee one win from first World Series title Brewers lead series 3-0 after resounding win in Tampa Jackson Chourio and Brice Turang sparked Milwaukee’s eight-run fifth inning, and the Brewers routed the Tampa Bay Rays 10-1 on Monday…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Racecourse fined after jockey taken to A&E in horsebox",
-            "link": "https://www.bbc.co.uk/sport/horse-racing/articles/c6lykg4l72xlo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Sedgefield Racecourse is fined £6,500 after failing to comply with five 'general instructions' of safety.",
+            "titulo": "Ballon d'Or in London - the most chaotic ever?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c6y8lgg21l89o?at_medium=RSS&at_campaign=rss",
+            "resumen": "It was the first time the Ballon d'Or had been held in London in its 70-year history - but the event was not plain sailing. BBC Sport assesses a chaotic night.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Creaking, smug … and a contender? Aaron Rodgers may yet get his Super Bowl farewell",
-            "link": "https://www.theguardian.com/sport/2026/oct/26/aaron-rodgers-pittsburgh-steelers-nfl",
-            "resumen": "The 42-year-old remains a polarizing figure. But the Steelers have a formidable defense and a quarterback who has seen it all before Aaron Rodgers is nowhere near this NFL season’s MVP conversation. At times in his second season with the…",
+            "titulo": "Golden State Valkyries one win from WNBA title after Game 5 win over Atlanta Dream",
+            "link": "https://www.theguardian.com/sport/2026/oct/26/wnba-finals-game-5-dream-valkyries-basketball",
+            "resumen": "WNBA finals Game 5: Dream 55-64 Valkyries Golden State lead best-of-seven series 3-2 Valkyries could win title in second WNBA season Kiah Stokes kept swatting shots on the interior, while Veronica Burton disrupted the Dream with her own…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The Ballon d'Or winner will be announced in London on Monday - but who is going to claim the showpiece award?",
+            "titulo": "Lawrie, 15, eyes £501,000 live TV win over Littler",
+            "link": "https://www.bbc.co.uk/sport/darts/articles/cq33xj8yyd5do?at_medium=RSS&at_campaign=rss",
+            "resumen": "Mitchell Lawrie, 15, one of 24 amateur players taking part in live TV special Beat Luke Littler, has his sights on a £501,000 bullseye should he beat the world darts champion.",
             "fuente": "BBC"
           }
         ]
