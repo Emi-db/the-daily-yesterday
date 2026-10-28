@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "27 de octubre de 2026",
-  "generada": "15:34",
+  "fecha": "28 de octubre de 2026",
+  "generada": "16:19",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Caso $LIBRA: uno de los inversores apeló el sobreseimiento de los Milei y pidió que no cierren el expediente",
-          "link": "https://www.clarin.com/politica/caso-libra-inversores-apelo-sobreseimiento-milei-pidio-cierren-expediente_0_Pcc2FJZ4LG.html",
-          "resumen": "El juez Marcelo Martínez de Giorgi había dictado el sobreseimiento de Javier y Karina Milei, además de otros nueve implicados. La comparación con la investigación contra Cristina Kirchner.",
+          "titulo": "Los hermanos Passaglia lanzaron su candidatura a presidente: “La única opción al fracaso de Milei no puede ser volver atrás al kirchnerismo”",
+          "link": "https://www.clarin.com/politica/hermanos-passaglia-lanzaron-candidatura-presidente-unica-opcion-fracaso-milei-puede-volver-kirchnerismo_0_YBQGlNacau.html",
+          "resumen": "Santiago y Manuel, actual y exintendente de San Nicolás, respectivamente, presentaron su plataforma aunque sin precisar quién encabezará la lista. Llevarán candidatos a gobernador de la Provincia y a la intendencia de 135 municipios.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El juego propio de Gerardo Zamora, el aliado de Cristina Kirchner que suena como alternativa a Kicillof para 2027",
-          "link": "https://www.lanacion.com.ar/politica/el-juego-propio-de-gerardo-zamora-el-aliado-de-cristina-kirchner-que-suena-como-alternativa-a-nid27102026/",
-          "resumen": "Un sector del peronismo alienta una eventual candidatura a presidente del senador nacional y exgobernador de Santiago del Estero; su rol en la interna y sus movimientos en el Congreso",
+          "titulo": "La Argentina volvió a votar en contra de levantar el embargo a Cuba en la asamblea de la ONU",
+          "link": "https://www.lanacion.com.ar/politica/la-argentina-volvio-a-votar-en-contra-de-levantar-el-embargo-a-cuba-en-la-asamblea-de-la-onu-nid28102026/",
+          "resumen": "La votación se resolvió 130-17, con 25 abstenciones; Alemania, Italia y Letonia se abstuvieron por primera vez en 34 años",
           "fuente": "La Nación"
         },
         {
-          "titulo": "“No va a haber comunicado”: el gobierno argentino confirmó que no felicitará a Lula por su victoria y crece la tensión con Brasil",
-          "link": "https://www.infobae.com/politica/2026/10/27/no-va-a-haber-comunicado-el-gobierno-confirmo-que-no-felicitara-a-lula-por-su-victoria-y-crece-la-tension-con-brasil/",
-          "resumen": "“Se tomó nota del resultado electoral”, señaló el vocero presidencial Adrián Ravier. El funcionario, además, señaló: “El presidente Milei no es un hipócrita, hay una diferencia ideológica entre los dos mandatarios que es real”",
+          "titulo": "Crisis en IOSFA: el Gobierno dictó un nuevo DNU para seguir con el ajuste y evitar \"un grave desequilibrio financiero\"",
+          "link": "https://www.infobae.com/politica/2026/10/28/crisis-en-iosfa-el-gobierno-dicto-un-nuevo-dnu-para-seguir-con-el-ajuste-y-evitar-un-grave-desequilibrio-financiero/",
+          "resumen": "Tras la disolución en marcha de la obra social, el presidente Javier Milei limitó el traspaso de personal afectado a la institución que se encargará de la prestación médica de la \"familia militar\"",
           "fuente": "Infobae"
         },
         {
-          "titulo": "\"Se tomó nota del resultado en Brasil\": el Gobierno explicó que no felicita a Lula porque el presidente de Brasil no saludó a Milei en 2023",
-          "link": "https://www.clarin.com/politica/tomo-nota-resultado-brasil-gobierno-explico-felicita-lula-presidente-brasil-saludo-milei-2023_0_0fqHgcv8Tz.html",
-          "resumen": "El vocero presidencial Adrián Ravier es el primer funcionario en pronunciarse públicamente sobre la victoria del mandatario brasileño. Sostuvo que no habrá un comunicado de Cancillería por las elecciones en el principal socio comercial de…",
+          "titulo": "Milei en Catamarca: duras críticas a Quintela y elogios a gobernadores con proyectos RIGI en sus provincias",
+          "link": "https://www.clarin.com/politica/milei-catamarca-duras-criticas-quintela-elogios-gobernadores-proyectos-rigi-provincias_0_v4JdsrGeWU.html",
+          "resumen": "Durante su discurso por el Día del Minero, el Presidente cruzó a la máxima autoridad de La Rioja por no haberse adherido al régimen de grandes inversiones. A su vez, respaldó a los mandatarios provinciales que sí lo hicieron y enfatizó…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El vocero presidencial aseguró que los dichos de Milei sobre mandar periodistas a la hoguera fueron “una metáfora”",
-          "link": "https://www.lanacion.com.ar/politica/el-vocero-presidencial-aseguro-que-los-dichos-de-milei-sobre-mandar-periodistas-a-la-hoguera-fueron-nid27102026/",
-          "resumen": "Adrián Ravier dijo que los dichos del Presidente fueron producto del enojo y pidió no tomar en forma literal sus palabras; afirmó que algunos medios mintieron y operaron con la causa $LIBRA",
+          "titulo": "Javier Milei y sus medidas, en vivo: la nueva revisión del acuerdo con el FMI y la salida de Bolsonaro desde Misiones",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-nueva-revision-del-acuerdo-con-el-fmi-y-la-salida-de-bolsonaro-nid28102026/",
+          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Javier Milei presentó los avances del paper con el que pretende ganar el Nobel de Economía",
-          "link": "https://www.clarin.com/economia/javier-milei-presento-avances-paper-pretende-ganar-nobel-economia_0_tEF2WfGmrs.html",
-          "resumen": "Es un trabajo que realiza junto a Demian Reidel, quien fuera director de la empresa estatal Nucleoeléctrica Argentina. \"A disfrutar de nueva teoría económica de calidad y con aplicación concreta a la política económica de Argentina\",…",
+          "titulo": "Nueva propuesta oficial para liberalizar el transporte de cabotaje",
+          "link": "https://www.clarin.com/rural/nueva-propuesta-oficial-liberalizar-transporte-cabotaje_0_c3NGRm6smS.html",
+          "resumen": "Un proyecto de ley presentado por senadores afines al Gobierno habilita la operación de buques extranjeros, excepto para determinadas actividades, como la pesca. Apunta a simplificar trámites aduaneros y flexibiliza la admisión temporaria…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Murió Armando Zavala, el productor del megáfono que convirtió la defensa del campo en un compromiso que dejó una huella",
-          "link": "https://www.lanacion.com.ar/economia/campo/murio-armando-zavala-el-productor-del-megafono-que-convirtio-la-defensa-del-campo-en-una-causa-de-nid27102026/",
-          "resumen": "El productor de Salto, que falleció a los 70 años, fue una figura reconocida por su participación en los principales conflictos entre el agro y la política; desde la lucha contra los remates rurales en los años 90 hasta la disputa por las…",
+          "titulo": "Las estaciones Shell ya tienen nueva operadora: quién está detrás del negocio",
+          "link": "https://www.lanacion.com.ar/economia/negocios/las-estaciones-shell-ya-tienen-nueva-operadora-quien-esta-detras-del-negocio-nid28102026/",
+          "resumen": "Mercuria presentó a Signar Energy, la nueva operadora del negocio; la compañía tendrá a su cargo 892 estaciones de servicio, la refinería de Dock Sud y otros activos industriales y logísticos",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Argentina se ubica entre los 11 países con mejores cuentas fiscales, pero hay dos riesgos que preocupan a los inversores",
-          "link": "https://www.ambito.com/economia/argentina-se-ubica-los-11-paises-mejores-cuentas-fiscales-pero-hay-dos-riesgos-que-preocupan-los-inversores-n6338279",
-          "resumen": "Un informe destacó que el país sobresale a nivel internacional por sus resultados fiscales y el nivel de deuda en manos del sector privado. Sin embargo, la escasez de reservas y la incertidumbre electoral condicionan la confianza del…",
+          "titulo": "Dura advertencia de Alfonso Prat-Gay: Vaca Muerta es un \"boom que no arrastra\" al resto de la economía",
+          "link": "https://www.ambito.com/economia/dura-advertencia-alfonso-prat-gay-vaca-muerta-es-un-boom-que-no-arrastra-al-resto-la-n6338845",
+          "resumen": "El exministro de Hacienda señaló que, mientras la minería y el petróleo crecen al 9% anual, la economía no extractiva acumula años de estancamiento. Dardos a la provincia, y advertencias de que el RIGI aún no muestra un impacto…",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "En alerta por las importaciones chinas, empresas industriales pulsean para ser proveedores de los proyectos RIGI mineros",
-          "link": "https://www.clarin.com/energia-y-mineria/alerta-importaciones-chinas-empresas-industriales-pulsean-proveedores-proyectos-rigi-mineros_0_VgWRELh1rH.html",
-          "resumen": "En Rosario, se reunirán más de 1.800 compañías proveedoras en un evento organizado por el Ministerio de Economía. Estarán Luis Caputo, Diego Santilli y gobernadores. El núcleo fabril de Buenos Aires, Santa Fe y Córdoba presiona para…",
+          "titulo": "El Gobierno consiguió US$ 1.150 millones del BID para seguridad y para mejorar la recaudación de las provincias",
+          "link": "https://www.clarin.com/economia/gobierno-consiguio-us-1150-millones-bid-seguridad-mejorar-recaudacion-provincias_0_C06nvmhnl8.html",
+          "resumen": "Un crédito será por US$ 400 millones para fortalecer las fuerzas federales y combatir el crimen organizado. Otro por US$ 750 millones para mejorar la gestión fiscal de las provincias.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Plazo fijo: cuál es la tasa de interés banco por banco este martes 27 de octubre",
-          "link": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-martes-27-de-octubre-nid27102026/",
-          "resumen": "El Banco Central de la República Argentina (BCRA) permite a los ahorristas conocer el rendimiento de estos instrumentos de inversión en pesos con una tabla comparativa de tasas",
+          "titulo": "Crisis política: las acciones en Brasil caen hasta 12% tras la fuga de Flavio Bolsonaro a Estados Unidos",
+          "link": "https://www.lanacion.com.ar/economia/crisis-politica-las-acciones-en-brasil-caen-hasta-9-tras-la-fuga-de-flavio-bolsonaro-a-estados-nid28102026/",
+          "resumen": "La Bolsa de San Paulo cae 2,8% esta mañana tras confirmarse que el excandidato brasileño aterrizó en Miami",
           "fuente": "La Nación"
         }
       ]
@@ -77,34 +77,34 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Con una participación récord, los israelíes deciden en las urnas si destituyen a Benjamin Netanyahu luego de tres años de guerra",
-          "link": "https://www.clarin.com/mundo/participacion-record-israelies-deciden-urnas-destituyen-benjamin-netanyahu-luego-anos-guerra_0_DrGiR70DSL.html",
-          "resumen": "El primer ministro se juega su futuro político en las elecciones legislativas de este martes. La cantidad de votantes a media jornada ya había superado las marcas históricas. Quién es el principal rival del jefe de gobierno y qué esta en…",
+          "titulo": "Elecciones en Israel: ¿Qué pasa si nadie obtiene la mayoría?",
+          "link": "https://www.clarin.com/mundo/elecciones-israel-pasa-nadie-obtiene-mayoria_0_y76RizL1Zx.html",
+          "resumen": "Los bandos legislativos están cabeza a cabeza. Pese a la leve ventaja del partido de Benjamin Netanyahu sobre el de Gadi Eisenkot, ninguno alcanza las 61 bancas necesarias para la mayoría absoluta en el Parlamento. Cuatro escenarios…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Este es el avión retenido en Puerto Iguazú: investigan si Bolsonaro iba a abordarlo para viajar a EE.UU.",
-          "link": "https://www.lanacion.com.ar/el-mundo/este-es-el-avion-retenido-en-puerto-iguazu-investigan-si-bolsonaro-iba-a-abordarlo-para-viajar-a-nid27102026/",
-          "resumen": "Se trata de un Gulfstream G400 matrícula LV-JQW; la ANAC no habría autorizado el despegue a Miami; fuentes oficiales indicaron a LA NACION que el senador no registró entrada al país",
+          "titulo": "Israel espera el resultado de las elecciones en un clima tenso y Benjamin Netanyahu se muestra desafiante",
+          "link": "https://www.clarin.com/mundo/israel-espera-resultado-elecciones-clima-tenso-benjamin-netanyahu-muestra-desafiante_0_7SIlvVqVgd.html",
+          "resumen": "Tras unos comicios con participación histórica, ningún partido tiene mayoría. El primer ministro busca mantenerse en el poder con su coalición de ultraderecha. Y rechaza formar gobierno con los partidos árabes, que lograron un resultado…",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "La confusión sobre la huida de Bolsonaro de Brasil: una operación de desinformación con fuentes oficiales y alcance global",
+          "link": "https://www.lanacion.com.ar/el-mundo/la-confusion-sobre-la-huida-de-bolsonaro-de-brasil-una-operacion-de-desinformacion-con-fuentes-nid28102026/",
+          "resumen": "Con fuentes cercanas al excandidato presidencial e incluso desde el gobierno de Estados Unidos, se instaló una versión del paradero del senador de derecha que finalmente fue desmentida desde la Casa Rosada",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El Gobierno argentino afirmó que no hay registro de que Flávio Bolsonaro haya ingresado al país, mientras Brasil investiga una posible fuga",
-          "link": "https://www.clarin.com/mundo/gobierno-argentino-afirmo-registro-flavio-bolsonaro-ingresado-pais-brasil-investiga-posible-fuga_0_rbRetcxNga.html",
-          "resumen": "Migraciones controló un avión privado en Iguazú y constató que no había ningún plan de vuelo que incluyera a la familia Bolsonaro. Brasil investiga si el senador intentó salir del país con destino final a Estados Unidos, tras la derrota…",
+          "titulo": "Murió la exministra española Fátima Báñez en el choque de trenes en Toledo",
+          "link": "https://www.clarin.com/mundo/exministra-espanola-fatima-banez-viajaba-trenes-chocaron-toledo-pueden-dar-paradero_0_giWjuMRCOo.html",
+          "resumen": "La economista viajaba rumbo a Sevilla para participar de un acto por el Día de la Empresa. Desde el PP habían informado que no podían establecer contacto con ella tras el accidente y horas más tarde se supo que formaba parte de la lista…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La Policía Federal de Brasil investiga si Flavio Bolsonaro huyó hacia la Argentina para viajar a EE.UU.",
-          "link": "https://www.lanacion.com.ar/el-mundo/la-policia-federal-de-brasil-investiga-si-flavio-bolsonaro-huyo-de-brasil-a-la-argentina-para-viajar-nid27102026/",
-          "resumen": "Horas después de perder el balotaje frente a Lula, la Justicia le prohibió salir del país y lo obligó a entregar sus pasaportes, aunque todavía no lo hizo; Migraciones señaló que el excandidato no ingresó al país y su campaña desmintió…",
+          "titulo": "Flavio Bolsonaro llegó a EE.UU. desde la Argentina, EN VIVO: el excandidato escapó de las autoridades y salió desde Iguazú",
+          "link": "https://www.lanacion.com.ar/el-mundo/flavio-bolsonaro-viajo-a-eeuu-desde-la-argentina-en-vivo-el-excandidato-escapo-de-las-autoridades-y-nid28102026/",
+          "resumen": "Qué se sabe hasta el momento y las repercusiones que hubo a nivel mundial cuando se conoció la noticia",
           "fuente": "La Nación"
-        },
-        {
-          "titulo": "Editoriales de The Times: Trump ha fracasado. Hay que exigirle que asuma su responsabilidad",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/editoriales-the-times-trump-fracasado-exigirle-asuma-suresponsabilidad_0_8RG2PxqFg5.html",
-          "resumen": "El pueblo estadounidense tiene la oportunidad de permitir que la nación vislumbre el final de la era Trump y el comienzo de una etapa más prometedora.",
-          "fuente": "Clarín"
         }
       ]
     },
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "La conmovedora confesión de Riquelme sobre cómo lo marcó el secuestro de su hermano, Chanchi: \"Él y mis tres hijos son lo más importante que tengo en mi vida\"",
-          "link": "https://www.clarin.com/deportes/conmovedora-confesion-riquelme-marco-secuestro-hermano-chanchi-hijos-importante-vida_0_pVZARbQITW.html",
-          "resumen": "El presidente de Boca tiene diez hermanos, pero con Cristina tiene una relación especial. En el streaming AZZ recordó cómo su secuestro, en 2002, marcó de manera profunda su relación fraternal. Tras ser liberado, su hermano le pidió…",
+          "titulo": "El fútbol argentino y los cambios continuos en la era del \"no trates de entenderlo\": seis reformas de los torneos en nueve años y una séptima en camino",
+          "link": "https://www.clarin.com/deportes/futbol-argentino-cambios-continuos-trates-entenderlo-reformas-torneos-anos-septima-camino_0_G5cwb3zzPr.html",
+          "resumen": "Desde la asunción de Claudio Chiqui Tapia en 2017, la Primera División pasó de 30 equipos a 24 y volvió a 30, mientras se modificaron los sistemas de disputa y los descensos. Ahora se analiza otra reforma para 2027, con el regreso del…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Horario del Superclásico de este domingo 1° de noviembre de 2026",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/horario-del-superclasico-de-este-domingo-1-de-noviembre-de-2026-nid27102026/",
-          "resumen": "Boca Juniors y River Plate se enfrentarán en la Bombonera por la fecha 15 del Torneo Clausura y el partido se transmitirá por ESPN Premium y TNT Sports",
+          "titulo": "Horarios de la Fórmula 1 para el GP de México 2026",
+          "link": "https://www.lanacion.com.ar/deportes/automovilismo/horarios-de-la-formula-1-para-el-gp-de-mexico-2026-nid28102026/",
+          "resumen": "La fecha 19 del calendario tendrá lugar este fin de semana en el circuito Hermanos Rodríguez, donde Kimi Antonelli puede ser campeón",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El tajante análisis de Giorgian De Arrascaeta tras el golpe con Estudiantes: \"Teníamos que reaccionar\"",
-          "link": "https://www.ole.com.ar/futbol-internacional/america/flamengo-estudiantes-giorgian-arrascaeta-libertadores_0_IbxtCjxum6.html",
-          "resumen": "Mientras Flamengo reclama el pase a la final de la Copa Libertadores por una presunta inclusión indebida de Marcos Rojo, el futbolista del Mengao pidió centrarse en la pelea por el Brasileirao y dejar atrás lo sucedido en el Maracaná.",
+          "titulo": "Las variantes de Arruabarrena para el 11 de Boca contra River y de qué depende su decisión",
+          "link": "https://www.ole.com.ar/boca-juniors/boca-vasco-arruabarrena-equipo-titular-once-flores-villa_0_SUGRUxL23L.html",
+          "resumen": "El Xeneize se prepara para el Súper del domingo y su DT no tiene definido el equipo.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Harry Kane, living la vida loca: cerró una disco en Londres y fue recibido con bengalas y champagne tras su noche de gloria en el Balón de Oro",
-          "link": "https://www.clarin.com/deportes/harry-kane-living-vida-loca-cerro-disco-londres-recibido-bengalas-champagne-noche-gloria-balon-oro_0_BiPfiIJxs2.html",
-          "resumen": "El atacante del Bayern Múnich festejó la obtención del trofeo en una discoteca de Soho junto a su esposa, familiares y excompañeros del Tottenham. La celebración en la noche londinense contó con la presencia del galardón individual que…",
+          "titulo": "La visita del papa León XIV a la Argentina obliga a cambiar el calendario del fútbol: adelantan el cierre del Clausura y postergan las finales del ascenso",
+          "link": "https://www.clarin.com/deportes/visita-papa-leon-xiv-argentina-obliga-cambiar-calendario-futbol-adelantan-cierre-clausura-postergan-finales-ascenso_0_dvy0EtYE0u.html",
+          "resumen": "La última fecha de la fase regular de la Liga Profesional se disputará entre el miércoles 4 y el viernes 6 de noviembre. La Primera Nacional también modifica su programación: la definición del primer ascenso se traslada al 14 o 15 de…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El posteo de Antonela Roccuzzo, a minutos de la entrega del Balón de Oro",
-          "link": "https://www.lanacion.com.ar/deportes/el-posteo-de-antonela-roccuzzo-a-minutos-de-la-entrega-del-balon-de-oro-nid26102026/",
-          "resumen": "La mujer de Lionel Messi compartió varias imágenes en su cuenta de Instagram; de qué son y qué escribió junto a ellas; finalmente, Harry Kane se llevó el máximo galardón",
+          "titulo": "Kimi Antonelli, listo para el empujón final que le permita convertirse en el campeón más joven de la F1",
+          "link": "https://www.lanacion.com.ar/deportes/kimi-antonelli-listo-para-el-empujon-final-que-le-permita-convertirse-en-el-campeon-mas-joven-de-la-nid28102026/",
+          "resumen": "El italiano debe finalizar entre los primeros nueve en México para alzarse con el primer título",
           "fuente": "La Nación"
         }
       ]
