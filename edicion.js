@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "28 de octubre de 2026",
-  "generada": "16:19",
+  "fecha": "29 de octubre de 2026",
+  "generada": "16:29",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Los hermanos Passaglia lanzaron su candidatura a presidente: “La única opción al fracaso de Milei no puede ser volver atrás al kirchnerismo”",
-          "link": "https://www.clarin.com/politica/hermanos-passaglia-lanzaron-candidatura-presidente-unica-opcion-fracaso-milei-puede-volver-kirchnerismo_0_YBQGlNacau.html",
-          "resumen": "Santiago y Manuel, actual y exintendente de San Nicolás, respectivamente, presentaron su plataforma aunque sin precisar quién encabezará la lista. Llevarán candidatos a gobernador de la Provincia y a la intendencia de 135 municipios.",
+          "titulo": "La Asociación Empresaria Argentina se suma a los repudios contra Milei por sus ataques a la prensa",
+          "link": "https://www.clarin.com/politica/asociacion-empresaria-argentina-suma-repudios-milei-ataques-prensa_0_PE5c6Mq1FK.html",
+          "resumen": "Los principales empresarios del país se sumaron al rechazo contra los duros cuestionamientos del Presidente a los periodistas.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La Argentina volvió a votar en contra de levantar el embargo a Cuba en la asamblea de la ONU",
-          "link": "https://www.lanacion.com.ar/politica/la-argentina-volvio-a-votar-en-contra-de-levantar-el-embargo-a-cuba-en-la-asamblea-de-la-onu-nid28102026/",
-          "resumen": "La votación se resolvió 130-17, con 25 abstenciones; Alemania, Italia y Letonia se abstuvieron por primera vez en 34 años",
+          "titulo": "Javier Milei y sus medidas, en vivo: sesión en el Senado y el viaje de Karina Milei a Rosario",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-sesion-en-el-senado-y-el-viaje-de-karina-milei-a-rosario-nid29102026/",
+          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Crisis en IOSFA: el Gobierno dictó un nuevo DNU para seguir con el ajuste y evitar \"un grave desequilibrio financiero\"",
-          "link": "https://www.infobae.com/politica/2026/10/28/crisis-en-iosfa-el-gobierno-dicto-un-nuevo-dnu-para-seguir-con-el-ajuste-y-evitar-un-grave-desequilibrio-financiero/",
-          "resumen": "Tras la disolución en marcha de la obra social, el presidente Javier Milei limitó el traspaso de personal afectado a la institución que se encargará de la prestación médica de la \"familia militar\"",
+          "titulo": "Lula agradeció el reconocimiento de Macri, evitó mencionar a Milei y recordó los tiempos en que Argentina y Brasil dialogaban \"de manera civilizada\"",
+          "link": "https://www.infobae.com/politica/2026/10/29/lula-agradecio-el-reconocimiento-de-macri-evito-mencionar-a-milei-y-recordo-los-tiempos-en-que-argentina-y-brasil-dialogaban-de-manera-civilizada/",
+          "resumen": "El mandatario reelecto de Brasil respondió el saludo del líder del PRO tras el balotaje que tuvo lugar el fin de semana",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Milei en Catamarca: duras críticas a Quintela y elogios a gobernadores con proyectos RIGI en sus provincias",
-          "link": "https://www.clarin.com/politica/milei-catamarca-duras-criticas-quintela-elogios-gobernadores-proyectos-rigi-provincias_0_v4JdsrGeWU.html",
-          "resumen": "Durante su discurso por el Día del Minero, el Presidente cruzó a la máxima autoridad de La Rioja por no haberse adherido al régimen de grandes inversiones. A su vez, respaldó a los mandatarios provinciales que sí lo hicieron y enfatizó…",
+          "titulo": "Destituyeron al juez federal Gastón Salmain y quedará bajo prisión domiciliaria",
+          "link": "https://www.clarin.com/politica/destituyeron-juez-federal-gaston-salmain-quedara-prision-domiciliaria_0_q3b57Jy7wO.html",
+          "resumen": "El Jurado de Enjuiciamiento entendió que cometió mal desempeño por omitir en su curriculum que había sido cesanteado del Poder Judicial. El tribunal rechazó la imputación por un pedido de coimas. Con la remoción, Salmain perdió los fueros…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: la nueva revisión del acuerdo con el FMI y la salida de Bolsonaro desde Misiones",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-nueva-revision-del-acuerdo-con-el-fmi-y-la-salida-de-bolsonaro-nid28102026/",
-          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "titulo": "El Gobierno limita los aumentos salariales y encontró aliados en tres gremios poderosos",
+          "link": "https://www.lanacion.com.ar/politica/el-gobierno-limita-los-aumentos-salariales-y-encontro-aliados-en-tres-gremios-poderosos-nid29102026/",
+          "resumen": "El Ministerio de Economía ordenó a la Secretaría de Trabajo no convalidar paritarias por encima del 2% mensual, pero habilita las sumas fijas no remunerativas",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Nueva propuesta oficial para liberalizar el transporte de cabotaje",
-          "link": "https://www.clarin.com/rural/nueva-propuesta-oficial-liberalizar-transporte-cabotaje_0_c3NGRm6smS.html",
-          "resumen": "Un proyecto de ley presentado por senadores afines al Gobierno habilita la operación de buques extranjeros, excepto para determinadas actividades, como la pesca. Apunta a simplificar trámites aduaneros y flexibiliza la admisión temporaria…",
+          "titulo": "Una de las principales fábricas de tractores nacionales, en problemas: deudas millonarias, caída en las ventas y demoras en el pago de sueldos",
+          "link": "https://www.clarin.com/rural/principales-fabricas-tractores-nacionales-problemas-deudas-millonarias-caida-ventas-demoras-pago-sueldos_0_GnRZhVBM9L.html",
+          "resumen": "Se trata de Pauny, una empresa cordobesa con fuerte presencia en el mercado de maquinaria agrícola. Acumula cheques rechazados por más de $1.000 millones. En lo que va del año, sus ventas cayeron casi 30%.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Las estaciones Shell ya tienen nueva operadora: quién está detrás del negocio",
-          "link": "https://www.lanacion.com.ar/economia/negocios/las-estaciones-shell-ya-tienen-nueva-operadora-quien-esta-detras-del-negocio-nid28102026/",
-          "resumen": "Mercuria presentó a Signar Energy, la nueva operadora del negocio; la compañía tendrá a su cargo 892 estaciones de servicio, la refinería de Dock Sud y otros activos industriales y logísticos",
+          "titulo": "El CEO de YPF les anticipó a los inversores que se llevarán una “sorpresa” en 2027",
+          "link": "https://www.lanacion.com.ar/economia/el-ceo-de-ypf-les-anticipo-a-los-inversores-que-se-llevaran-una-sorpresa-en-2027-nid29102026/",
+          "resumen": "Ratificó la fecha de la decisión final sobre Argentina LNG, adelantó que el acuerdo con el EXIM Bank se completará a mediados del año próximo y contó sobre el desembarco en el negocio de data centers",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Dura advertencia de Alfonso Prat-Gay: Vaca Muerta es un \"boom que no arrastra\" al resto de la economía",
-          "link": "https://www.ambito.com/economia/dura-advertencia-alfonso-prat-gay-vaca-muerta-es-un-boom-que-no-arrastra-al-resto-la-n6338845",
-          "resumen": "El exministro de Hacienda señaló que, mientras la minería y el petróleo crecen al 9% anual, la economía no extractiva acumula años de estancamiento. Dardos a la provincia, y advertencias de que el RIGI aún no muestra un impacto…",
+          "titulo": "Los dos escenarios de Dante Sica para 2027: 70% de chances de crecimiento y 30% de probabilidad de caída del PBI",
+          "link": "https://www.ambito.com/economia/los-dos-escenarios-dante-sica-2027-70-chances-crecimiento-y-30-probabilidad-caida-del-pbi-n6339341",
+          "resumen": "Durante su participación en Amcham, el ex ministro de Producción planteó que los empresarios no deben \"perder el tiempo pensando en quién gana o no la elección\".",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "El Gobierno consiguió US$ 1.150 millones del BID para seguridad y para mejorar la recaudación de las provincias",
-          "link": "https://www.clarin.com/economia/gobierno-consiguio-us-1150-millones-bid-seguridad-mejorar-recaudacion-provincias_0_C06nvmhnl8.html",
-          "resumen": "Un crédito será por US$ 400 millones para fortalecer las fuerzas federales y combatir el crimen organizado. Otro por US$ 750 millones para mejorar la gestión fiscal de las provincias.",
+          "titulo": "El FMI advirtió por la actividad y el empleo y dijo que acordó con el Gobierno impulsar la economía con cuatro medidas",
+          "link": "https://www.clarin.com/economia/fmi-advierte-actividad-medidas-acordo-gobierno-impulsar-economia_0_bdyMDZQEo4.html",
+          "resumen": "La vocera del organismo Julie Kozack dijo que la economía debe apuntar a \"un crecimiento más sólido y a generar empleo”. Incluyen un empuje a los créditos, concesiones viales y más flexibilidad laboral.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Crisis política: las acciones en Brasil caen hasta 12% tras la fuga de Flavio Bolsonaro a Estados Unidos",
-          "link": "https://www.lanacion.com.ar/economia/crisis-politica-las-acciones-en-brasil-caen-hasta-9-tras-la-fuga-de-flavio-bolsonaro-a-estados-nid28102026/",
-          "resumen": "La Bolsa de San Paulo cae 2,8% esta mañana tras confirmarse que el excandidato brasileño aterrizó en Miami",
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 29 de octubre, minuto a minuto",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid29102026/",
+          "resumen": "La divisa oficial opera a $1560 para la venta en el Banco Nación; el dólar blue cotiza a $1565 para esa operación; qué pasa con el MEP y el CCL",
           "fuente": "La Nación"
         }
       ]
@@ -77,34 +77,34 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Elecciones en Israel: ¿Qué pasa si nadie obtiene la mayoría?",
-          "link": "https://www.clarin.com/mundo/elecciones-israel-pasa-nadie-obtiene-mayoria_0_y76RizL1Zx.html",
-          "resumen": "Los bandos legislativos están cabeza a cabeza. Pese a la leve ventaja del partido de Benjamin Netanyahu sobre el de Gadi Eisenkot, ninguno alcanza las 61 bancas necesarias para la mayoría absoluta en el Parlamento. Cuatro escenarios…",
+          "titulo": "Delcy Rodríguez promete elecciones en Venezuela con una autoridad electoral \"renovada\"",
+          "link": "https://www.clarin.com/mundo/delcy-rodriguez-promete-elecciones-venezuela-autoridad-electoral-renovada_0_NNmjrIWRRc.html",
+          "resumen": "La presidenta interina habló con la prensa justo antes de una conferencia de prensa convocada por la líder opositora María Corina Machado. Aseguró además que ordenó a la policía para que no realice detenciones sin orden judicial.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Israel espera el resultado de las elecciones en un clima tenso y Benjamin Netanyahu se muestra desafiante",
-          "link": "https://www.clarin.com/mundo/israel-espera-resultado-elecciones-clima-tenso-benjamin-netanyahu-muestra-desafiante_0_7SIlvVqVgd.html",
-          "resumen": "Tras unos comicios con participación histórica, ningún partido tiene mayoría. El primer ministro busca mantenerse en el poder con su coalición de ultraderecha. Y rechaza formar gobierno con los partidos árabes, que lograron un resultado…",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "La confusión sobre la huida de Bolsonaro de Brasil: una operación de desinformación con fuentes oficiales y alcance global",
-          "link": "https://www.lanacion.com.ar/el-mundo/la-confusion-sobre-la-huida-de-bolsonaro-de-brasil-una-operacion-de-desinformacion-con-fuentes-nid28102026/",
-          "resumen": "Con fuentes cercanas al excandidato presidencial e incluso desde el gobierno de Estados Unidos, se instaló una versión del paradero del senador de derecha que finalmente fue desmentida desde la Casa Rosada",
+          "titulo": "Qué pasó con Flavio Bolsonaro y su huida a Estados Unidos: el recorrido, su paso por la Argentina y las últimas noticias hoy",
+          "link": "https://www.lanacion.com.ar/el-mundo/que-paso-con-flavio-bolsonaro-y-su-huida-a-estados-unidos-el-recorrido-su-paso-por-la-argentina-y-nid29102026/",
+          "resumen": "El gobierno de Milei negó haber participado en la huida del excandidato presidencial, amparado por la administración Trump; la Bolsa de San Paulo cayó 2,7% tras confirmarse que el excandidato brasileño aterrizó en Miami",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Murió la exministra española Fátima Báñez en el choque de trenes en Toledo",
-          "link": "https://www.clarin.com/mundo/exministra-espanola-fatima-banez-viajaba-trenes-chocaron-toledo-pueden-dar-paradero_0_giWjuMRCOo.html",
-          "resumen": "La economista viajaba rumbo a Sevilla para participar de un acto por el Día de la Empresa. Desde el PP habían informado que no podían establecer contacto con ella tras el accidente y horas más tarde se supo que formaba parte de la lista…",
+          "titulo": "Francia teme otro sábado de furia y busca bloquear los contenidos en las redes que llaman a los saqueos",
+          "link": "https://www.clarin.com/mundo/francia-teme-sabado-furia-busca-bloquear-contenidos-redes-llaman-saqueos_0_nqvT09c2cz.html",
+          "resumen": "Se prevén nuevas protestas de estudiantes y sindicatos este fin de semana. Tras los violentos disturbios del 17 de octubre y de las marchas del sábado pasado, el gobierno de Emmanuel Macron quiere evitar mensajes de incitación al odio.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Flavio Bolsonaro llegó a EE.UU. desde la Argentina, EN VIVO: el excandidato escapó de las autoridades y salió desde Iguazú",
-          "link": "https://www.lanacion.com.ar/el-mundo/flavio-bolsonaro-viajo-a-eeuu-desde-la-argentina-en-vivo-el-excandidato-escapo-de-las-autoridades-y-nid28102026/",
-          "resumen": "Qué se sabe hasta el momento y las repercusiones que hubo a nivel mundial cuando se conoció la noticia",
+          "titulo": "Trump calificó de “desgracia” las elecciones brasileñas y sigue sin reconocer el triunfo de Lula",
+          "link": "https://www.lanacion.com.ar/estados-unidos/trump-califico-de-desgracia-las-elecciones-brasilenas-y-sigue-sin-reconocer-el-triunfo-de-lula-nid29102026/",
+          "resumen": "El presidente estadounidense cuestionó los comicios sin precisar sus objeciones y evitó pronunciarse sobre la legitimidad del triunfo del izquierdista Lula da Silva",
           "fuente": "La Nación"
+        },
+        {
+          "titulo": "Tragedia en Turquía: se derrumbó una formación rocosa en la \"chimenea de las hadas\" de Capadocia y murieron tres turistas",
+          "link": "https://www.clarin.com/internacional/tragedia-turquia-derrumbo-formacion-rocosa-chimenea-hadas-capadocia-murieron-turistas_0_bpnDlel0Jx.html",
+          "resumen": "El desplome ocurrió en medio de las fuertes lluvias que afectan una de las zonas turísticas más importantes de Turquía. Hubo al menos cinco heridos, mientras continúan las tareas de rescate.",
+          "fuente": "Clarín"
         }
       ]
     },
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "El fútbol argentino y los cambios continuos en la era del \"no trates de entenderlo\": seis reformas de los torneos en nueve años y una séptima en camino",
-          "link": "https://www.clarin.com/deportes/futbol-argentino-cambios-continuos-trates-entenderlo-reformas-torneos-anos-septima-camino_0_G5cwb3zzPr.html",
-          "resumen": "Desde la asunción de Claudio Chiqui Tapia en 2017, la Primera División pasó de 30 equipos a 24 y volvió a 30, mientras se modificaron los sistemas de disputa y los descensos. Ahora se analiza otra reforma para 2027, con el regreso del…",
+          "titulo": "Martín Palermo, el Titán de los milagros: jugará una nueva final con Platense mientras desea \"que Boca gane todo\"",
+          "link": "https://www.clarin.com/deportes/martin-palermo-titan-milagros-jugara-nueva-final-platense-desea-boca-gane_0_KpVWAwRHWZ.html",
+          "resumen": "Al igual que en 2023, el DT volvió a quedar en las puertas de un título con el Calamar. Se impuso en los penales ante Atlético Tucumán y espera por Boca o Banfield en la Copa Argentina. La mano que le podría dar el Xeneize para clasificar…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Horarios de la Fórmula 1 para el GP de México 2026",
-          "link": "https://www.lanacion.com.ar/deportes/automovilismo/horarios-de-la-formula-1-para-el-gp-de-mexico-2026-nid28102026/",
-          "resumen": "La fecha 19 del calendario tendrá lugar este fin de semana en el circuito Hermanos Rodríguez, donde Kimi Antonelli puede ser campeón",
+          "titulo": "Antonio Mohamed con LA NACION: “El mejor legado para mi hijo es que le digan que su papá es un buen tipo”",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/antonio-mohamed-con-la-nacion-el-mejor-legado-para-mi-hijo-es-que-le-digan-que-su-papa-es-un-buen-nid29102026/",
+          "resumen": "En México encontró su lugar en el mundo: es el entrenador más ganador de la historia de Toluca, pero quiere un desafío grande en Argentina; “Tengo como una espinita clavada con ir a dirigir un equipo importante”, dice",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Las variantes de Arruabarrena para el 11 de Boca contra River y de qué depende su decisión",
-          "link": "https://www.ole.com.ar/boca-juniors/boca-vasco-arruabarrena-equipo-titular-once-flores-villa_0_SUGRUxL23L.html",
-          "resumen": "El Xeneize se prepara para el Súper del domingo y su DT no tiene definido el equipo.",
+          "titulo": "\"Vamos a quererla\": el significado de la frase que se escucha en los partidos de River en la Messi Cup",
+          "link": "https://www.ole.com.ar/river-plate/river-plate-messi-cup-frase-legado-inferiores_0_l4NmsStlnT.html",
+          "resumen": "Los pibes del Millonario están en las semifinales del torneo que organiza Leo en Miami y el DT Martín Pellegrino habló sobre la filosofía del club.",
           "fuente": "Olé"
         },
         {
-          "titulo": "La visita del papa León XIV a la Argentina obliga a cambiar el calendario del fútbol: adelantan el cierre del Clausura y postergan las finales del ascenso",
-          "link": "https://www.clarin.com/deportes/visita-papa-leon-xiv-argentina-obliga-cambiar-calendario-futbol-adelantan-cierre-clausura-postergan-finales-ascenso_0_dvy0EtYE0u.html",
-          "resumen": "La última fecha de la fase regular de la Liga Profesional se disputará entre el miércoles 4 y el viernes 6 de noviembre. La Primera Nacional también modifica su programación: la definición del primer ascenso se traslada al 14 o 15 de…",
+          "titulo": "Nico Williams y una revelación sobre la Final del Mundial que duele en la Argentina: \"Si Molina no me empuja, no llego...\"",
+          "link": "https://www.clarin.com/deportes/nico-williams-revelacion-final-mundial-duele-argentina-molina-empuja-llego_0_W5zKXZZw8g.html",
+          "resumen": "El delantero español Nico Williams reveló que un contacto de Nahuel Molina resultó determinante para asistir a Ferran Torres en la jugada decisiva. El atacante del Athletic Bilbao explicó que el empujón del defensor le permitió…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Kimi Antonelli, listo para el empujón final que le permita convertirse en el campeón más joven de la F1",
-          "link": "https://www.lanacion.com.ar/deportes/kimi-antonelli-listo-para-el-empujon-final-que-le-permita-convertirse-en-el-campeon-mas-joven-de-la-nid28102026/",
-          "resumen": "El italiano debe finalizar entre los primeros nueve en México para alzarse con el primer título",
+          "titulo": "Cumplió el sueño de entrar a la cancha con Lionel Messi y conocer a David Beckham: quién es Huddy, el niño que enamoró a todos",
+          "link": "https://www.lanacion.com.ar/deportes/cumplio-el-sueno-de-entrar-a-la-cancha-con-lionel-messi-y-conocer-a-david-beckham-quien-es-huddy-el-nid29102026/",
+          "resumen": "Hudson tiene cinco años y fue el protagonista en una noche inolvidable en Miami; es hijo de Melanie Droubay, una creadora de contenido que promueve la inclusión de las personas con síndrome de Down",
           "fuente": "La Nación"
         }
       ]

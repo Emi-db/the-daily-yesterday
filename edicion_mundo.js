@@ -1,41 +1,41 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "28 de octubre de 2026",
-    "generada": "16:19",
+    "fecha": "29 de octubre de 2026",
+    "generada": "16:29",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Al menos 68 muertos y decenas de heridos en un choque de trenes de alta velocidad en España",
-            "link": "https://www.bbc.co.uk/mundo/live/c6lyk9npxzqlt?at_medium=RSS&at_campaign=rss",
-            "resumen": "El accidente ocurrió en la localidad de Urda, en Toledo. El gobierno español teme que haya más fallecidos y sospecha que fue provocado por un error humano.",
+            "titulo": "Los gráficos que muestran cómo ha cambiado la migración en EE.UU. en la era Trump",
+            "link": "https://www.bbc.com/mundo/articles/cqdr8205ylvko?at_medium=RSS&at_campaign=rss",
+            "resumen": "Trump prometió mano dura contra la inmigración. ¿Qué dicen los datos de sus políticas?",
+            "fuente": "BBC Mundo"
+          },
+          {
+            "titulo": "Netanyahu trata de desacreditar el resultado electoral",
+            "link": "https://elpais.com/internacional/2026-10-29/el-comite-electoral-de-israel-pide-a-los-servicios-secretos-investigar-graves-alegaciones-de-injerencia-extranjera.html",
+            "resumen": "El primer ministro israelí exige a la oposición judía no pactar con la árabe por las sospechas de apoyo catarí a uno de sus partidos. El Comité Electoral pide a los servicios secretos investigarlas",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "¿Escanear y destruir libros para entrenar a la inteligencia artificial?",
+            "link": "https://www.france24.com/es/programas/en-foco/20261029-escanear-y-destruir-libros-para-entrenar-a-la-inteligencia-artificial",
+            "resumen": "Comprar millones de libros, digitalizarlos y destruirlos para entrenar sistemas de inteligencia artificial: una práctica controvertida que despierta preocupación por la posible desaparición de ejemplares raros y descatalogados. Una…",
+            "fuente": "France 24"
+          },
+          {
+            "titulo": "Cuál fue la posible causa del choque de trenes de alta velocidad que deja al menos 69 muertos en España",
+            "link": "https://www.bbc.com/mundo/articles/cqdjv79dkrdzo?at_medium=RSS&at_campaign=rss",
+            "resumen": "El gobierno apunta a un \"error humano\" como causa del segundo siniestro con decenas de muertos en los trenes españoles en menos de un año.",
             "fuente": "BBC Mundo"
           },
           {
             "titulo": "La victoria de los partidos árabes de Israel: récord de escaños frente al racismo y la discriminación",
             "link": "https://elpais.com/internacional/2026-10-28/la-victoria-de-los-partidos-arabes-de-israel-record-de-escanos-frente-al-racismo-y-la-discriminacion.html",
-            "resumen": "Si el bloque anti-Netanyahu desea formar un Gobierno y evitar nuevas elecciones, está obligado a negociar con estas formaciones. Su presencia en el Parlamento casi se ha duplicado",
+            "resumen": "Si el bloque anti-Netanyahu desea formar un Gobierno, está obligado a negociar con estas formaciones. El partido del primer ministro denuncia que “robaron las elecciones”",
             "fuente": "El País"
-          },
-          {
-            "titulo": "España atribuye el accidente ferroviario a una decisión errónea tras un fallo en las comunicaciones",
-            "link": "https://www.france24.com/es/video/20261028-espa%C3%B1a-atribuye-el-accidente-ferroviario-a-una-decisi%C3%B3n-err%C3%B3nea-tras-un-fallo-en-las-comunicaciones",
-            "resumen": "El ministro español de Transportes, Óscar Puente, afirmó este 28 de octubre que el accidente ferroviario mortal se produjo después de que un tren de alta velocidad de Renfe recibiera autorización para reanudar la marcha pese a que una…",
-            "fuente": "France 24"
-          },
-          {
-            "titulo": "Netanyahu gana las elecciones en Israel, pero su coalición no logra la mayoría",
-            "link": "https://elpais.com/internacional/2026-10-27/netanyahu-gana-las-elecciones-en-israel-pero-su-coalicion-queda-lejos-de-la-mayoria.html",
-            "resumen": "El bloque favorable al primer ministro lograría 54 escaños sobre 120, y la oposición judía, 49, una vez contabilizados más del 70% de los votos. Los partidos árabes serán claves en las negociaciones",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Más de 60 muertos tras colisión de dos trenes de pasajeros al sur de Madrid",
-            "link": "https://www.france24.com/es/video/20261028-al-menos-64-muertos-tras-colisi%C3%B3n-de-dos-trenes-de-pasajeros-al-sur-de-madrid",
-            "resumen": "Dos trenes de pasajeros, con unas 544 personas a bordo, que circulaban por la misma vía en dirección Madrid-Sevilla, colisionaron este 28 de octubre a la altura de la estación de Urda (Toledo), al sur de Madrid. El accidente ha dejado al…",
-            "fuente": "France 24"
           }
         ]
       },
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Puente califica de inexplicable que el centro de control permitiera al AVE reanudar la marcha con normalidad cuando el Iryo seguía parado",
-            "link": "https://elpais.com/economia/2026-10-28/el-ministro-de-transportes-oscar-puente-comparece-para-dar-detalles-sobre-el-accidente-ferroviario-de-urda.html",
-            "resumen": "Un maquinista no involucrado en el accidente advirtió de que los trenes no podían reanudar la marcha con normalidad tras el fallo de seguridad",
+            "titulo": "“Podríamos y deberíamos hacer más”: los expertos piden invertir en el mantenimiento de la alta velocidad",
+            "link": "https://elpais.com/economia/2026-10-29/podriamos-y-deberiamos-hacer-mas-los-expertos-piden-invertir-en-el-mantenimiento-de-la-alta-velocidad.html",
+            "resumen": "España destina a conservar la red ferroviaria menos que otros países europeos, según datos de la Comisión Europea y de los ingenieros de caminos",
             "fuente": "El País"
           },
           {
-            "titulo": "Grave accidente del AVE: al menos 68 muertos en la colisión de dos trenes en Urda (Toledo)",
-            "link": "https://www.expansion.com/sociedad/2026/10/28/adif-suspende-circulacion-linea-alta-velocidad-madrid-andalucia-alcance-dos-trenes.html",
-            "resumen": "Nuevo siniestro de extrema gravedad en el transporte ferroviario español. Leer",
-            "fuente": "Expansión"
-          },
-          {
-            "titulo": "Inquietud por la exministra Fátima Báñez, que viajaba en uno de los trenes accidentados en Toledo",
-            "link": "https://elpais.com/economia/2026-10-28/inquietud-por-la-exministra-fatima-banez-que-viajaba-en-uno-de-los-trenes-accidentados-en-toledo.html",
-            "resumen": "CEOE confirma que la exresponsable de Trabajo y ahora presidenta de la fundación de la patronal estaba en uno de los vagones más afectados",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Así ha sido el accidente de tren de Urda",
-            "link": "https://www.expansion.com/sociedad/2026/10/28/asi-sido-accidente-tren-urda-toledo.html",
+            "titulo": "Lagarde anuncia que deja la presidencia del BCE el 7 de febrero",
+            "link": "https://www.expansion.com/mercados/2026/10/29/lagarde-anuncia-deja-presidencia-bce-7-febrero.html",
             "resumen": "Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Bruselas busca aumentar la capacidad de las refinerías europeas para frenar los precios de los combustibles",
-            "link": "https://elpais.com/economia/2026-10-28/bruselas-busca-aumentar-la-capacidad-de-las-refinerias-europeas-para-frenar-los-precios-de-los-combustibles.html",
-            "resumen": "La Comisión Europea insta a “garantizar una capacidad de refino adecuada y flexible en Europa” pese a los esfuerzos de descarbonización",
+            "titulo": "El corredor Madrid-Sevilla de alta velocidad ha doblado su volumen de tráfico desde su liberalización en 2023",
+            "link": "https://elpais.com/economia/2026-10-29/el-corredor-madrid-sevilla-de-alta-velocidad-ha-doblado-su-volumen-de-trafico-desde-su-liberalizacion-en-2023.html",
+            "resumen": "En tres años esta línea, la primera de estas características en construirse en España, ha ganado más de tres millones de viajeros, y en 2025 fue la que más creció",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "El BCE deja los tipos en el 2,5% ante la presión del mercado de deuda",
+            "link": "https://www.expansion.com/mercados/2026/10/29/bce-deja-tipos-2-5-presion-mercado-deuda.html",
+            "resumen": "La autoridad monetaria se toma una pausa después de que las rentabilidades de los bonos públicos se eleven con fuerza y endurezcan por sí solos las condiciones de financiación en la zona euro. Leer",
+            "fuente": "Expansión"
+          },
+          {
+            "titulo": "Muere la exministra Fátima Báñez, que viajaba en uno de los trenes siniestrados en Urda",
+            "link": "https://elpais.com/economia/2026-10-29/muere-la-exministra-fatima-banez-que-viajaba-en-uno-de-los-trenes-siniestrados.html",
+            "resumen": "La titular de Empleo entre 2011 y 2018 estuvo vinculada en los últimos años a la CEOE",
             "fuente": "El País"
           }
         ]
@@ -78,9 +78,21 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "El alcohol no solo es una fuente de calorías vacías: también nos empuja a desear comida basura",
-            "link": "https://elpais.com/salud-y-bienestar/2026-10-28/el-alcohol-no-solo-es-una-fuente-de-calorias-vacias-tambien-nos-empuja-a-desear-comida-basura.html",
-            "resumen": "Un estudio apunta a que el consumo de bebidas alcohólicas eleva una hormona que favorece la búsqueda de alimentos ricos en proteína y sabor umami",
+            "titulo": "En busca del nuevo Plutón: hallado un candidato a planeta enano en los confines del sistema solar",
+            "link": "https://elpais.com/ciencia/2026-10-29/en-busca-del-nuevo-pluton-hallado-un-candidato-a-planeta-enano-en-los-confines-del-sistema-solar.html",
+            "resumen": "El equipo del observatorio Rubin descubre, en el norte de Chile, un cuerpo celeste inusualmente brillante, de entre 600 y 1.500 kilómetros",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Los hackers norcoreanos del grupo Lazarus se blindan con IA y cifrado poscuántico",
+            "link": "https://elpais.com/tecnologia/2026-10-29/los-hackers-norcoreanos-del-grupo-lazarus-se-blindan-con-ia-y-cifrado-poscuantico.html",
+            "resumen": "El brazo cibernético de Pyongyang empieza a proteger sus ataques contra la potente computación cuántica, llamada a revolucionar la informática",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "De la ovación de Chicago al aplauso de Madrid: los oncólogos celebran avances inéditos contra los tumores más letales",
+            "link": "https://elpais.com/salud-y-bienestar/2026-10-29/de-la-ovacion-de-chicago-al-aplauso-de-madrid-los-oncologos-celebran-avances-ineditos-contra-los-tumores-mas-letales.html",
+            "resumen": "El entusiasmo en los dos congresos de cáncer más importantes, el estadounidense y el europeo, premia los logros de nuevos tratamientos frente al cáncer de páncreas y el de pulmón más agresivo",
             "fuente": "El País"
           },
           {
@@ -90,21 +102,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Guardianes de la noche: la desafiante profesión de los astrónomos de La Palma",
-            "link": "https://elpais.com/ciencia/2026-10-27/guardianes-de-la-noche-la-desafiante-profesion-de-los-astronomos-de-la-palma.html",
-            "resumen": "Para investigar en uno de los entornos más privilegiados del mundo, los profesionales del Instituto de Astrofísica de Canarias afrontan noches sin dormir y condiciones extremas",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "El iPhone Duo, el primer plegable de Apple, recibe quejas de clientes por roturas de pantallas",
-            "link": "https://elpais.com/tecnologia/2026-10-26/el-iphone-duo-el-primer-plegable-de-apple-recibe-quejas-de-clientes-por-roturas-de-pantallas.html",
-            "resumen": "El dispositivo ha batido récords de ventas, con un precio que supera los 2.300 euros",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Nicola Spaldin, favorita al Nobel de Física: “Un material superconductor a temperatura ambiente traería un cambio geopolítico mundial”",
-            "link": "https://elpais.com/ciencia/2026-10-26/nicola-spaldin-favorita-al-nobel-de-fisica-un-material-superconductor-a-temperatura-ambiente-traeria-un-cambio-geopolitico-mundial.html",
-            "resumen": "La vicepresidenta del Consejo Europeo de Investigación reflexiona sobre la computación más allá del chip gracias a los materiales multiferroicos que descubrió por pura curiosidad",
+            "titulo": "Rapaces que extienden incendios y escarabajos que los huelen: los animales que han hecho del fuego una oportunidad",
+            "link": "https://elpais.com/ciencia/2026-10-29/rapaces-que-extienden-incendios-y-escarabajos-que-los-huelen-los-animales-que-han-hecho-del-fuego-una-oportunidad.html",
+            "resumen": "Durante cientos de miles de años, aves, insectos y herbívoros han aprendido a aprovechar las oportunidades que dejan las llamas tras su paso",
             "fuente": "El País"
           }
         ]
@@ -113,33 +113,33 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "Neville tira de la manta en la crisis del United: \"Carrick sentirá asco y repugnancia por sus jugadores\"",
-            "link": "https://www.marca.com/futbol/premier-league/2026/10/26/neville-tira-manta-crisis-manchester-united-carrick-sentira-asco-repugnancia-jugadores.html",
-            "resumen": "Gary Neville critica a la directiva al Manchester United y&nbsp;Eddie Howe y Julian Nagelsmann con los favoritos para suplir a&nbsp;Michael Carrick en Old Trafford",
+            "titulo": "Las Palmas hace oficial la incorporación de Albert Sánchez a su banquillo",
+            "link": "https://www.marca.com/futbol/las-palmas/2026/10/29/palmas-oficial-incorporacion-albert-sanchez-banquillo.html",
+            "resumen": "Anuncia también la salida del interino Juan Manuel Rodríguez&nbsp;",
             "fuente": "Marca"
           },
           {
-            "titulo": "¡Suspendida la jornada de Copa del Rey de este miércoles!",
-            "link": "https://www.mundodeportivo.com/futbol/copa-del-rey/20261028/1004244232/suspendida-jornada-copa-rey-miercoles.html",
-            "resumen": "La Real Federación Española de Fútbol acaba de confirmar que ha decidido suspender todos los partidos que estaban previstos para este miércoles correspondientes a la primera jornada de la Copa del Rey Mapfre. Suspensión como consecuencia…",
+            "titulo": "El Barça activa la 'operación central'",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261029/1004244678/barca-activa-operacion-central.html",
+            "resumen": "La espectacular racha del FC Barcelona después de 11 victorias consecutivas (9 en Liga y 2 en Champions) se vio truncada en una semana negra. Las derrotas ante el PSG en el Parque de los Príncipes de París y en el Clásico frente al Real…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "La razón que nadie cuenta por la que no debes esperar a fin de año si quieres un coche con 'etiqueta 0'",
-            "link": "https://www.marca.com/coches-y-motos/consejos/2026/10/26/razon-nadie-cuenta-debes-esperar-ano-quieres-coche-etiqueta-0.html",
-            "resumen": "Las ayudas del Plan Auto+ están gastando sus fondos para 2026. El problema es que no hay financiación aprobada para el próximo año y viene otra complicación añadida",
+            "titulo": "Niño Becerra: \"¿España puede permitirse el mantenimiento de 4000 kilómetros de vía?\"",
+            "link": "https://www.marca.com/tiramillas/economia/2026/10/29/nino-becerra-sobre-sostenibilidad-alta-velocidad-espana-permitirse-mantenimiento-4000-kilometros-via.html",
+            "resumen": "El economista ha reflexionado sobre el coste del mantenimiento y el descenso de inversión en el ferrocarril",
             "fuente": "Marca"
           },
           {
-            "titulo": "Lula da Silva se impone a Flávio Bolsonaro y es reelecto presidente de Brasil",
-            "link": "https://www.marca.com/tiramillas/politica/2026/10/26/lula-da-silva-impone-flavio-bolsonaro-reelecto-presidente-brasil.html",
-            "resumen": "El presidente remonta la primera vuelta y logra un cuarto mandato; su rival pedirá anular los comicios",
-            "fuente": "Marca"
+            "titulo": "La hora de Brian Fariñas",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261029/1004244441/hora-brian-farinas.html",
+            "resumen": "Tras el debut de Frenkie de Jong ante el Real Madrid , Hansi Flick ha utilizado ya a 24 jugadores en lo que va de temporada. O, lo que es lo mismo, ha utilizado ya a todos los componentes de la plantilla del primer equipo, menos a dos de…",
+            "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Roberto Gómez señala al gran triunfador del Clásico: \"¿Dónde está Mourinho cuestionado?\"",
-            "link": "https://www.marca.com/radio/2026/10/26/roberto-gomez-senala-gran-triunfador-clasico-mourinho-cuestionado.html",
-            "resumen": "El periodista ensalza la actuación del Real Madrid en el Camp Nou, carga contra quienes daban la Liga por sentenciada y considera que el técnico madridista fue el gran protagonista de la victoria",
+            "titulo": "El golazo de Luis Suárez en el empate de Inter Miami",
+            "link": "https://www.marca.com/futbol/2026/10/29/golazo-luis-suarez-empate-inter-miam-video.html",
+            "resumen": "",
             "fuente": "Marca"
           }
         ]
@@ -147,16 +147,16 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "October 28, 2026",
-    "generada": "16:19",
+    "fecha": "October 29, 2026",
+    "generada": "16:29",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "How could Israel break election deadlock? Here are four scenarios",
-            "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-            "resumen": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+            "titulo": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+            "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
             "fuente": "BBC"
           },
           {
@@ -166,15 +166,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear",
-            "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
-            "resumen": "Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government. Vote counting could take days.",
+            "titulo": "How a Self-Described ‘Junkie’ Rode Synthetic Drugs to Oblivion — and Fame",
+            "link": "https://www.nytimes.com/2026/10/29/world/europe/synthetic-opioids-estonia.html",
+            "resumen": "An Estonian addict could barely keep pace with the new drugs flooding the market. His terrifying accounts of the cruel toll they took on his body held his country in its grip.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-            "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
+            "titulo": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+            "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+            "resumen": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
             "fuente": "BBC"
           },
           {
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Your pay, energy bills and savings: How the Budget affects you",
-            "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
+            "titulo": "Poundland's future hangs in the balance as chain edges towards collapse",
+            "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Fed set to hold interest rates steady in last decision before midterms",
-            "link": "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms",
-            "resumen": "US central bank last month raised rates for first time since 2023, in move that infuriated Donald Trump The US Federal Reserve is expected to leave interest rates unchanged on Wednesday during its last rate-setting meeting before the…",
+            "titulo": "Was Ralph Nader right about (almost) everything? His challenge to Democrats ahead of the midterm elections",
+            "link": "https://www.theguardian.com/us-news/2026/oct/29/ralph-nader-midterm-elections",
+            "resumen": "‘Really change things for the working class,’ the ex-presidential candidate says A corporate plutocracy. A broken healthcare system. Massive and widening inequality. Cash-soaked elections. Angry people struggling to pay their bills and…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "What Does the Cheesecake Factory’s Designer Think of Obama and Trump’s Jabs at His Décor?",
-            "link": "https://www.nytimes.com/2026/10/28/dining/cheesecake-factory-obama-trump-midterm-elections.html",
-            "resumen": "Long before its baroque décor and class identity became midterm talking points, this durable restaurant chain survived some withering critiques.",
+            "titulo": "Inflation Accelerated in October, PCE Index Shows",
+            "link": "https://www.nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html",
+            "resumen": "The Personal Consumption Expenditures index picked up in September, according to data released a day after the Federal Reserve’s decision to hold interest rates steady.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "The one thing that didn't change that will affect your pay the most",
-            "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
+            "titulo": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+            "link": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Budget forecasts show growth in living standards grinding almost to a halt.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
-            "link": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
-            "resumen": "Critics warn of climate danger as president in Texas claims change will save companies and consumers billions Donald Trump said his administration is “terminating” Biden-era regulations holding oil and gas companies accountable for large…",
+            "titulo": "US economy grows faster than expected but inflation rises to 3.7%",
+            "link": "https://www.theguardian.com/business/2026/oct/29/economy-growth-third-quarter",
+            "resumen": "Commerce department data contrasts with sharp deterioration in consumer sentiment as midterms loom The US economy grew faster than expected in the third quarter while inflation accelerated in September, according to new commerce…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Weather warning lifted as third storm to hit Scotland eases off",
-            "link": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Energy provider SSEN says 2,000 properties in the north of Scotland are still without power after days of high winds and heavy rain.",
+            "titulo": "Serious pollution by water industry remains high despite £5bn investment",
+            "link": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
+            "resumen": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Astronauts step out of the ISS for spacewalk – watch live",
+            "link": "https://www.theguardian.com/science/video/2026/oct/29/astronauts-step-out-of-the-iss-for-spacewalk-watch-live",
+            "resumen": "NASA astronaut Anil Menon and CSA (Canadian Space Agency) astronaut Joshua Kutryk perform spacewalk to install and deploy an International Space Station Roll-Out Solar Array (IROSA). Continue reading...",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "Three Stone Age Caves Reveal Continual Cannibalism",
+            "link": "https://www.nytimes.com/2026/10/29/science/stone-age-cannibal-caves-of-spain.html",
+            "resumen": "A tour of the three caves in southern Spain suggests that people in the area cannibalized one another as funerary practice over many generations.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
+            "link": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
             "fuente": "BBC"
           },
           {
             "titulo": "How rising seas transformed dry land into Venice lagoon",
             "link": "https://www.theguardian.com/science/2026/oct/28/rising-seas-transformed-dry-land-venice-lagoon",
             "resumen": "Scientists uncover ancient hills and swamps that disappeared as sea levels rose across northern Adriatic Venice is famed for being a floating city, but research shows the land it sits on once lay many miles inland. Dramatic changes in sea…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "Brain Disease Is Pervasive in N.F.L., New Estimate Suggests",
-            "link": "https://www.nytimes.com/2026/10/28/science/brain-disease-cte-nfl-football.html",
-            "resumen": "Using statistical techniques, a new study has arrived at a harrowing estimate: Three of four retired pro football players most likely had C.T.E. at death.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "Will a new strategy help protect Northern Ireland's nature?",
-            "link": "https://www.bbc.co.uk/news/articles/cq0megg87n3po?at_medium=RSS&at_campaign=rss",
-            "resumen": "About 40% of the plants and animals in protected sites across Northern Ireland fall short of meeting the standard for \"favourable condition\".",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Perimenopause is everywhere. How do you know if you’re in it? - video",
-            "link": "https://www.theguardian.com/science/video/2026/oct/27/perimenopause-is-everywhere-how-do-you-know-if-youre-in-it-video",
-            "resumen": "Perimenopause has become a hot topic, with celebrities sharing their experiences and doctors offering tips and advice online. But despite the benefits of growing awareness, a rising number of women are now encountering misinformation…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Carrick and Fernandes hold clear-the-air talks",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Manchester United head coach Michael Carrick and captain Bruno Fernandes hold clear-the-air talks at the club's training ground.",
+            "titulo": "'Fully committed' Fernandes to remain Man Utd captain",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Manchester United head coach Michael Carrick confirms Bruno Fernandes will remain captain, and addresses his own future before Saturday's trip to Chelsea.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Dream say WNBA finals concerns went unheeded as teams prepare for 12.30pm Thursday start",
-            "link": "https://www.theguardian.com/sport/2026/oct/28/atlanta-dream-wnba-finals-start-time-game-6",
-            "resumen": "Crucial Game 6 will take place on Thursday afternoon Game moved to larger State Farm Arena in Atlanta Hawks’ NBA game on same day could not be moved The Atlanta Dream say their concerns about finding a suitable home venue for the WNBA…",
+            "titulo": "The low-budget Brewers won the World Series – and exposed baseball’s biggest lie | Howard Bryant",
+            "link": "https://www.theguardian.com/sport/2026/oct/29/milwaukee-brewers-world-series-title-mlb-salary-cap",
+            "resumen": "Milwaukee’s first World Series championship is a rebuke to baseball’s oligarch class, whose insistence that small-market teams cannot compete has been laid bare as fiction For the entirety of the 2026 baseball season, the overlords of the…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Arsenal to appeal against Dowman red card",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Arsenal will appeal against Max Dowman's sending-off during Tuesday's Carabao Cup defeat at Fleetwood Town.",
+            "titulo": "Is the double drop from the Premier League becoming more common?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Chiefs reportedly signing Tucker in wake of sexual misconduct allegations as Butker struggles",
-            "link": "https://www.theguardian.com/sport/2026/oct/28/justin-tucker-harrison-butker-nfl-kicker-chiefs",
-            "resumen": "Tucker was banned under NFL’s conduct policy Butker has missed five of 16 FG attempts this season The Kansas City Chiefs are reportedly signing the former Baltimore Ravens kicker Justin Tucker to their practice squad after Harrison…",
+            "titulo": "Brewers manager Pat Murphy takes shot at ‘horseshit’ Yankees team after World Series win",
+            "link": "https://www.theguardian.com/sport/2026/oct/29/pat-murphy-new-york-yankees-milwaukee-brewers",
+            "resumen": "Murphy offers critique of 2023 edition of Yankees Howard Bryant: Brewers expose baseball’s biggest lie Milwaukee Brewers manager Pat Murphy was captured taking a shot at a “horseshit Yankees team” after he celebrated his team clinching…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Goodbye to Wawrinka - an everyman who gatecrashed the greats",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/crlykgp51ej4o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Stan Wawrinka's glorious career - which brought him three Grand Slam titles in a golden era - ends after an honourable defeat on an emotional night in Basel.",
+            "titulo": "Mourinho and chaos - is Real Madrid boss misunderstood?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona show he's been misunderstood?",
             "fuente": "BBC"
           }
         ]
