@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "29 de octubre de 2026",
-  "generada": "16:29",
+  "fecha": "30 de octubre de 2026",
+  "generada": "16:19",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "La Asociación Empresaria Argentina se suma a los repudios contra Milei por sus ataques a la prensa",
-          "link": "https://www.clarin.com/politica/asociacion-empresaria-argentina-suma-repudios-milei-ataques-prensa_0_PE5c6Mq1FK.html",
-          "resumen": "Los principales empresarios del país se sumaron al rechazo contra los duros cuestionamientos del Presidente a los periodistas.",
+          "titulo": "Dura contraofensiva judicial contra el empresario Tofoni por el uso de datos confidenciales de EE.UU. en denuncias contra la AFA",
+          "link": "https://www.clarin.com/politica/dura-contraofensiva-judicial-empresario-tofoni-uso-datos-confidenciales-eeuu-denuncias-afa_0_86M2mMLHRI.html",
+          "resumen": "El dueño de la firma TourProdenter, que cobra millones por contratos comerciales de la Asociacion del Fútbol en el exterior, busca que se anulen las investigaciones penales en su contra por los sospechosos negocios con Chiqui Tapia.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: sesión en el Senado y el viaje de Karina Milei a Rosario",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-sesion-en-el-senado-y-el-viaje-de-karina-milei-a-rosario-nid29102026/",
-          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "titulo": "Javier Milei y sus medidas, en vivo: Bullrich celebró la aprobación del RIIR en el Senado y dijo que atraerá “oportunidades de invertir y crecer”",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-bullrich-celebro-la-aprobacion-del-riir-en-el-senado-nid30102026/",
+          "resumen": "El minuto a minuto de las decisiones del jefe de Estado, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Lula agradeció el reconocimiento de Macri, evitó mencionar a Milei y recordó los tiempos en que Argentina y Brasil dialogaban \"de manera civilizada\"",
-          "link": "https://www.infobae.com/politica/2026/10/29/lula-agradecio-el-reconocimiento-de-macri-evito-mencionar-a-milei-y-recordo-los-tiempos-en-que-argentina-y-brasil-dialogaban-de-manera-civilizada/",
-          "resumen": "El mandatario reelecto de Brasil respondió el saludo del líder del PRO tras el balotaje que tuvo lugar el fin de semana",
+          "titulo": "Milei volverá a España tras la reciente visita que provocó una feroz pelea con Pedro Sánchez",
+          "link": "https://www.infobae.com/politica/2026/10/30/milei-volvera-a-espana-tras-la-reciente-visita-que-provoco-una-feroz-pelea-con-pedro-sanchez/",
+          "resumen": "El presidente argentino participará en Madrid de una cumbre iberoamericana que se realizará los días 4 y 5 de noviembre. Hace diez días, el libertario sacudió la campaña electoral ibérica al llamar “dictador” y “corrupto” al mandatario y…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Destituyeron al juez federal Gastón Salmain y quedará bajo prisión domiciliaria",
-          "link": "https://www.clarin.com/politica/destituyeron-juez-federal-gaston-salmain-quedara-prision-domiciliaria_0_q3b57Jy7wO.html",
-          "resumen": "El Jurado de Enjuiciamiento entendió que cometió mal desempeño por omitir en su curriculum que había sido cesanteado del Poder Judicial. El tribunal rechazó la imputación por un pedido de coimas. Con la remoción, Salmain perdió los fueros…",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: \"Bolsonaro entró bárbaro a Argentina, todo legal\", el mensaje que compartió el Presidente",
+          "link": "https://www.clarin.com/politica/milei-medidas-vivo-presidente-recibira-papa-leon-xiv-pie-avion-quieren-transmitirlo-cadena-nacional_0_Nlj4rMOSOa.html",
+          "resumen": "Aunque el mandatario sigue sin pronunciarse de manera oficial sobre el escándalo de la fuga del excandidato presidencial brasileño vía Puerto Iguazú, en las últimas horas avaló los dichos de un actor sobre el tema.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El Gobierno limita los aumentos salariales y encontró aliados en tres gremios poderosos",
-          "link": "https://www.lanacion.com.ar/politica/el-gobierno-limita-los-aumentos-salariales-y-encontro-aliados-en-tres-gremios-poderosos-nid29102026/",
-          "resumen": "El Ministerio de Economía ordenó a la Secretaría de Trabajo no convalidar paritarias por encima del 2% mensual, pero habilita las sumas fijas no remunerativas",
+          "titulo": "Martín Menem: “No hay dos candidatos en La Libertad Avanza a la presidencia; el único es Javier Milei”",
+          "link": "https://www.lanacion.com.ar/politica/martin-menem-no-hay-dos-candidatos-en-la-libertad-avanza-a-la-presidencia-el-unico-es-javier-milei-nid30102026/",
+          "resumen": "El presidente de la Cámara de Diputados y dirigente de extrema confianza de Karina Milei le envió un mensaje a Patricia Bullrich, que insinuó que podría ser candidata y marca cada vez más diferencias con el Gobierno",
           "fuente": "La Nación"
         }
       ]
@@ -42,32 +42,32 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Una de las principales fábricas de tractores nacionales, en problemas: deudas millonarias, caída en las ventas y demoras en el pago de sueldos",
-          "link": "https://www.clarin.com/rural/principales-fabricas-tractores-nacionales-problemas-deudas-millonarias-caida-ventas-demoras-pago-sueldos_0_GnRZhVBM9L.html",
-          "resumen": "Se trata de Pauny, una empresa cordobesa con fuerte presencia en el mercado de maquinaria agrícola. Acumula cheques rechazados por más de $1.000 millones. En lo que va del año, sus ventas cayeron casi 30%.",
+          "titulo": "El petróleo sube con fuerza hasta US$ 117 tras nuevos ataques de Irán en el Estrecho de Ormuz",
+          "link": "https://www.clarin.com/mundo/petroleo-sube-fuerza-us-117-nuevos-ataques-iran-estrecho-ormuz_0_2ZuCD6Sw25.html",
+          "resumen": "Cinco petroleros sufrieron incidentes durante las últimas horas y quedaron inmovilizados cuando intentaban transitar por rutas no autorizadas por el régimen persa en el estratégico paso marítimo.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El CEO de YPF les anticipó a los inversores que se llevarán una “sorpresa” en 2027",
-          "link": "https://www.lanacion.com.ar/economia/el-ceo-de-ypf-les-anticipo-a-los-inversores-que-se-llevaran-una-sorpresa-en-2027-nid29102026/",
-          "resumen": "Ratificó la fecha de la decisión final sobre Argentina LNG, adelantó que el acuerdo con el EXIM Bank se completará a mediados del año próximo y contó sobre el desembarco en el negocio de data centers",
+          "titulo": "Inversiones: el Senado aprobó beneficios para la retención de terneras y la pesca que ahora deberá tratar Diputados",
+          "link": "https://www.lanacion.com.ar/economia/campo/inversiones-el-senado-aprobo-beneficios-para-la-retencion-de-terneras-y-la-pesca-que-ahora-debera-nid30102026/",
+          "resumen": "La iniciativa incorpora ambas actividades a un esquema de incentivos sin un monto mínimo de inversión y contempla la amortización acelerada en una cuota; los cambios fueron propuestos por Maximiliano Abad",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Los dos escenarios de Dante Sica para 2027: 70% de chances de crecimiento y 30% de probabilidad de caída del PBI",
-          "link": "https://www.ambito.com/economia/los-dos-escenarios-dante-sica-2027-70-chances-crecimiento-y-30-probabilidad-caida-del-pbi-n6339341",
-          "resumen": "Durante su participación en Amcham, el ex ministro de Producción planteó que los empresarios no deben \"perder el tiempo pensando en quién gana o no la elección\".",
+          "titulo": "ARCA prorrogó el plazo para entrar al plan especial de pago para pymes hasta el 30 de diciembre",
+          "link": "https://www.ambito.com/economia/arca-prorrogo-el-plazo-entrar-al-plan-especial-pago-pymes-el-30-diciembre-n6339655",
+          "resumen": "También se posterga el plazo para el programa especial para prestadores de servicios de salud. El plan de pagos se anunció este año como respuesta a reclamos de las pymes, aunque no generó mayor entusiasmo entre los contribuyentes debido…",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "El FMI advirtió por la actividad y el empleo y dijo que acordó con el Gobierno impulsar la economía con cuatro medidas",
-          "link": "https://www.clarin.com/economia/fmi-advierte-actividad-medidas-acordo-gobierno-impulsar-economia_0_bdyMDZQEo4.html",
-          "resumen": "La vocera del organismo Julie Kozack dijo que la economía debe apuntar a \"un crecimiento más sólido y a generar empleo”. Incluyen un empuje a los créditos, concesiones viales y más flexibilidad laboral.",
+          "titulo": "Se registraron las primeras operaciones en A3 por \"Soja Visec\", con un precio diferencial de US$ 10 por tonelada",
+          "link": "https://www.clarin.com/rural/registraron-primeras-operaciones-a3-soja-visec-precio-diferencial-us-10-tonelada_0_luH6UkQd5s.html",
+          "resumen": "Este tipo de operaciones fuero habilitadas por la entidad a partir del pasado lunes.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 29 de octubre, minuto a minuto",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid29102026/",
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 30 de octubre, minuto a minuto",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid30102026/",
           "resumen": "La divisa oficial opera a $1560 para la venta en el Banco Nación; el dólar blue cotiza a $1565 para esa operación; qué pasa con el MEP y el CCL",
           "fuente": "La Nación"
         }
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Delcy Rodríguez promete elecciones en Venezuela con una autoridad electoral \"renovada\"",
-          "link": "https://www.clarin.com/mundo/delcy-rodriguez-promete-elecciones-venezuela-autoridad-electoral-renovada_0_NNmjrIWRRc.html",
-          "resumen": "La presidenta interina habló con la prensa justo antes de una conferencia de prensa convocada por la líder opositora María Corina Machado. Aseguró además que ordenó a la policía para que no realice detenciones sin orden judicial.",
+          "titulo": "El papa León XIV votó por correo para las elecciones legislativas de EE.UU.",
+          "link": "https://www.clarin.com/mundo/papa-leon-xiv-voto-correo-elecciones-legislativas-eeuu_0_NNctYPKiRd.html",
+          "resumen": "\"El Papa envió su voto por correo a Chicago\", confirmó este viernes la oficina de prensa del Vaticano. Se trata de la primera vez que se conoce y confirma que un pontífice ejerce el derecho al voto en unos comicios.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Qué pasó con Flavio Bolsonaro y su huida a Estados Unidos: el recorrido, su paso por la Argentina y las últimas noticias hoy",
-          "link": "https://www.lanacion.com.ar/el-mundo/que-paso-con-flavio-bolsonaro-y-su-huida-a-estados-unidos-el-recorrido-su-paso-por-la-argentina-y-nid29102026/",
-          "resumen": "El gobierno de Milei negó haber participado en la huida del excandidato presidencial, amparado por la administración Trump; la Bolsa de San Paulo cayó 2,7% tras confirmarse que el excandidato brasileño aterrizó en Miami",
+          "titulo": "Demócratas indagan si funcionarios de Trump en la Argentina ayudaron en la fuga de Flavio Bolsonaro",
+          "link": "https://www.lanacion.com.ar/estados-unidos/democratas-indagan-si-funcionarios-de-trump-en-la-argentina-ayudaron-en-la-fuga-de-flavio-bolsonaro-nid30102026/",
+          "resumen": "Un grupo de legisladores reclamó explicaciones a Marco Rubio sobre la ayuda que recibió el excandidato brasileño para llegar a Miami, tras pasar por Puerto Iguazú",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Francia teme otro sábado de furia y busca bloquear los contenidos en las redes que llaman a los saqueos",
-          "link": "https://www.clarin.com/mundo/francia-teme-sabado-furia-busca-bloquear-contenidos-redes-llaman-saqueos_0_nqvT09c2cz.html",
-          "resumen": "Se prevén nuevas protestas de estudiantes y sindicatos este fin de semana. Tras los violentos disturbios del 17 de octubre y de las marchas del sábado pasado, el gobierno de Emmanuel Macron quiere evitar mensajes de incitación al odio.",
+          "titulo": "\"Hay una confianza quebrada en la alta velocidad\": Pedro Sánchez rompió el silencio tras la segunda gran tragedia ferroviaria en España en nueve meses",
+          "link": "https://www.clarin.com/mundo/confianza-quebrada-alta-velocidad-pedro-sanchez-rompio-silencio-segunda-gran-tragedia-ferroviaria-espana-meses_0_PB1Jb7QENg.html",
+          "resumen": "El presidente español habló tras el dramático accidente entre dos trenes ocurrido en la provincia de Toledo, y que causó la muerte de 69 personas. Cómo sigue la investigación del trágico hecho que conmocionó a todo el país.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Trump calificó de “desgracia” las elecciones brasileñas y sigue sin reconocer el triunfo de Lula",
-          "link": "https://www.lanacion.com.ar/estados-unidos/trump-califico-de-desgracia-las-elecciones-brasilenas-y-sigue-sin-reconocer-el-triunfo-de-lula-nid29102026/",
-          "resumen": "El presidente estadounidense cuestionó los comicios sin precisar sus objeciones y evitó pronunciarse sobre la legitimidad del triunfo del izquierdista Lula da Silva",
+          "titulo": "Confirman que murió el argentino Agustín Randazzo en el accidente de trenes en España",
+          "link": "https://www.lanacion.com.ar/el-mundo/confirman-que-murio-el-argentino-agustin-randazzo-en-el-accidente-de-trenes-en-espana-nid29102026/",
+          "resumen": "Vivía en España desde 2002; por motivos laborales, realizaba el trayecto Madrid-Sevilla cuando el tren de alta velocidad en el que viajaba impactó contra otra formación",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Tragedia en Turquía: se derrumbó una formación rocosa en la \"chimenea de las hadas\" de Capadocia y murieron tres turistas",
-          "link": "https://www.clarin.com/internacional/tragedia-turquia-derrumbo-formacion-rocosa-chimenea-hadas-capadocia-murieron-turistas_0_bpnDlel0Jx.html",
-          "resumen": "El desplome ocurrió en medio de las fuertes lluvias que afectan una de las zonas turísticas más importantes de Turquía. Hubo al menos cinco heridos, mientras continúan las tareas de rescate.",
+          "titulo": "¿Por qué Miami es un destino para los exiliados políticos de América Latina?",
+          "link": "https://www.clarin.com/new-york-times-international-weekly/miami-destino-exiliados-politicos-america-latina_0_nLYvvfnKM7.html",
+          "resumen": "La mayoría hispana de la ciudad, la cobertura de los medios de comunicación y las conexiones aéreas con Latinoamérica la han convertido en un refugio ideal para los políticos que huyen de sus países de origen.",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Martín Palermo, el Titán de los milagros: jugará una nueva final con Platense mientras desea \"que Boca gane todo\"",
-          "link": "https://www.clarin.com/deportes/martin-palermo-titan-milagros-jugara-nueva-final-platense-desea-boca-gane_0_KpVWAwRHWZ.html",
-          "resumen": "Al igual que en 2023, el DT volvió a quedar en las puertas de un título con el Calamar. Se impuso en los penales ante Atlético Tucumán y espera por Boca o Banfield en la Copa Argentina. La mano que le podría dar el Xeneize para clasificar…",
+          "titulo": "Felipe Contepomi dio la lista de Los Pumas para el segundo tramo del Nations Championship: vuelve Facundo Isa y confirmaron a Santiago Chocabares",
+          "link": "https://www.clarin.com/deportes/felipe-contepomi-dio-lista-pumas-segundo-tramo-nations-championship-vuelve-facundo-isa-confirmaron-santiago-chocabares_0_euDuhtxo6P.html",
+          "resumen": "Facundo Isa regresa luego de tres años de ausencia y será el reemplazo de Santiago Grondona. Se mantuvieron Rodrigo Martínez y Mateo Soler que reemplazaron a Gallo y Santiago Carreras. Chocobares superó el protocolo de conmoción cerebral…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Antonio Mohamed con LA NACION: “El mejor legado para mi hijo es que le digan que su papá es un buen tipo”",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/antonio-mohamed-con-la-nacion-el-mejor-legado-para-mi-hijo-es-que-le-digan-que-su-papa-es-un-buen-nid29102026/",
-          "resumen": "En México encontró su lugar en el mundo: es el entrenador más ganador de la historia de Toluca, pero quiere un desafío grande en Argentina; “Tengo como una espinita clavada con ir a dirigir un equipo importante”, dice",
+          "titulo": "Boca vs. River, por el Superclásico del Torneo Clausura 2026: día, horario, TV y cómo ver online",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/boca-vs-river-por-el-superclasico-del-torneo-clausura-2026-dia-horario-tv-y-como-ver-online-nid30102026/",
+          "resumen": "El trascendental encuentro está programado para este domingo a las 15 en la Bombonera, con arbitraje de Nicolás Ramírez y televisación de ESPN Premium y TNT Sports",
           "fuente": "La Nación"
         },
         {
-          "titulo": "\"Vamos a quererla\": el significado de la frase que se escucha en los partidos de River en la Messi Cup",
-          "link": "https://www.ole.com.ar/river-plate/river-plate-messi-cup-frase-legado-inferiores_0_l4NmsStlnT.html",
-          "resumen": "Los pibes del Millonario están en las semifinales del torneo que organiza Leo en Miami y el DT Martín Pellegrino habló sobre la filosofía del club.",
+          "titulo": "Espino se entrenó en el Predio Tita separado del plantel tras un nuevo escándalo en Racing",
+          "link": "https://www.ole.com.ar/racing/racing-espino-saja-predio-tita_0_shC9w4Nw9T.html",
+          "resumen": "Luego de discutir con Sebastián Saja e insultarlo, el defensor fue mandado por la dirigencia a trabajar lejos del primer equipo. Qué hizo el uruguayo en soledad.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Nico Williams y una revelación sobre la Final del Mundial que duele en la Argentina: \"Si Molina no me empuja, no llego...\"",
-          "link": "https://www.clarin.com/deportes/nico-williams-revelacion-final-mundial-duele-argentina-molina-empuja-llego_0_W5zKXZZw8g.html",
-          "resumen": "El delantero español Nico Williams reveló que un contacto de Nahuel Molina resultó determinante para asistir a Ferran Torres en la jugada decisiva. El atacante del Athletic Bilbao explicó que el empujón del defensor le permitió…",
+          "titulo": "El Dibu Martínez mostró cómo le quedó la mano tras la lesión con la que tuvo que atajar durante el Mundial",
+          "link": "https://www.clarin.com/deportes/dibu-martinez-mostro-quedo-mano-lesion-atajar-mundial_0_b5rszkAQjL.html",
+          "resumen": "El arquero se recuperó a tiempo para ser convocado por Scaloni y disputar el torneo. Sin embargo, lo hizo de una manera no tradicional, que hoy le dejó secuelas. Tras sufrir un choque con el Chelsea, habló desde Londres sobre su actualidad.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Cumplió el sueño de entrar a la cancha con Lionel Messi y conocer a David Beckham: quién es Huddy, el niño que enamoró a todos",
-          "link": "https://www.lanacion.com.ar/deportes/cumplio-el-sueno-de-entrar-a-la-cancha-con-lionel-messi-y-conocer-a-david-beckham-quien-es-huddy-el-nid29102026/",
-          "resumen": "Hudson tiene cinco años y fue el protagonista en una noche inolvidable en Miami; es hijo de Melanie Droubay, una creadora de contenido que promueve la inclusión de las personas con síndrome de Down",
+          "titulo": "Diego Maradona, eterno: “De un golpe salí de Fiorito y fui a parar a la cima del universo y allí me las tuve que arreglar yo solo”",
+          "link": "https://www.lanacion.com.ar/deportes/diego-maradona-eterno-de-un-golpe-sali-de-fiorito-y-fui-a-parar-a-la-cima-del-universo-y-alli-me-las-nid30102026/",
+          "resumen": "Este viernes 30 de octubre, el 10 hubiera cumplido 66 años; en su autobiografía, habló de sus orígenes y hasta de dinero: “A mí nadie me regaló la plata”",
           "fuente": "La Nación"
         }
       ]
