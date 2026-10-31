@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "30 de octubre de 2026",
-    "generada": "16:19",
+    "fecha": "31 de octubre de 2026",
+    "generada": "15:31",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Hackeo a la empresa Binance afecta US$6.300 millones en activos digitales, en el mayor robo de criptomonedas conocido (y con impacto en América Latina)",
-            "link": "https://www.bbc.com/mundo/articles/cvze42lk562ko?at_medium=RSS&at_campaign=rss",
-            "resumen": "Dos empresas de análisis han atribuido el incidente a una unidad de piratería informática norcoreana llamada TraderTraitor.",
+            "titulo": "Investigación BBC: los saboteadores rusos que atentan desde dentro del país para ayudar a Ucrania frente a Putin",
+            "link": "https://www.bbc.com/mundo/articles/cm2d62jgk125o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Dos hombres relatan el trabajo que, según dicen, han estado realizando desde Rusia para apoyar a la inteligencia ucraniana durante la guerra.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Netanyahu trata de desacreditar el resultado electoral",
-            "link": "https://elpais.com/internacional/2026-10-29/el-comite-electoral-de-israel-pide-a-los-servicios-secretos-investigar-graves-alegaciones-de-injerencia-extranjera.html",
-            "resumen": "El primer ministro israelí exige a los partidos judíos no pactar con los árabes por las sospechas de interferencia catarí. La oposición no ve base para cuestionar los comicios e intuye una estratagema",
+            "titulo": "El cruce de vetos entre Rusia y EE UU deja en el aire la misión de la ONU en el Sáhara",
+            "link": "https://elpais.com/internacional/2026-10-30/el-cruce-de-vetos-entre-rusia-y-ee-uu-deja-en-el-aire-la-mision-de-la-onu-en-el-sahara.html",
+            "resumen": "Moscú da un revés diplomático a la alianza de Washington y Rabat para apuntalar el plan de de autonomía marroquí como única solución al conflicto",
             "fuente": "El País"
           },
           {
-            "titulo": "España, de luto: el accidente ferroviario que irrumpe en la campaña electoral",
-            "link": "https://www.france24.com/es/programas/ventana-a-europa/20261030-espa%C3%B1a-de-luto-el-accidente-ferroviario-que-irrumpe-en-la-campa%C3%B1a-electoral",
-            "resumen": "España está de luto tras el choque entre dos trenes de alta velocidad en Urda, en la provincia de Toledo, una tragedia que ha causado decenas de muertos y ha reabierto el debate sobre la seguridad y el mantenimiento de la red ferroviaria.…",
+            "titulo": "¿Qué está pasando en Polonia?: ABC de la crisis institucional tras suspensión del presidente del Constitucional",
+            "link": "https://www.france24.com/es/europa/20261031-qu%C3%A9-est%C3%A1-pasando-en-polonia-abc-de-la-crisis-institucional-tras-suspensi%C3%B3n-del-presidente-del-constitucional",
+            "resumen": "La decisión de la jueza Anna Korwin-Piotrowska de suspender de forma inmediata al presidente y al vicepresidente del Tribunal Constitucional desató una noche de protestas de políticos ultraconservadores, aliados de los magistrados…",
             "fuente": "France 24"
           },
           {
-            "titulo": "\"No ha habido un solo momento desde esa noche en que no sienta dolor\": Christa Pike habla por primera vez desde su fallida ejecución por inyección letal",
-            "link": "https://www.bbc.com/mundo/articles/c674pd105v54o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Esta es la primera declaración pública de Pike desde que sobrevivió a un intento de ejecución mediante inyección letal en septiembre.",
+            "titulo": "Cómo el desastre ferroviario en España ensombrece las posibilidades de reelección de Pedro Sánchez",
+            "link": "https://www.bbc.com/mundo/articles/c5kglp7dyr3no?at_medium=RSS&at_campaign=rss",
+            "resumen": "El presidente del gobierno español se ve afectado por una sucesión de crisis a pocas semanas de unas elecciones generales anticipadas.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "El miedo de los colonos israelíes a un Gobierno con los partidos árabes: “Nadie nos protegerá”",
-            "link": "https://elpais.com/internacional/2026-10-30/el-miedo-de-los-colonos-israelies-a-un-gobierno-con-los-partidos-arabes-nadie-nos-protegera.html",
-            "resumen": "Los habitantes de los asentamientos temen que si ministros más radicales dejan sus puestos se congelen los planes expansionistas en Cisjordania",
+            "titulo": "Canadá y la UE sellan una “alianza para el futuro” en una cumbre en Montreal",
+            "link": "https://elpais.com/internacional/2026-10-30/canada-y-la-ue-sellan-una-alianza-para-el-futuro-en-una-cumbre-en-montreal.html",
+            "resumen": "Ottawa y Bruselas buscan estrechar lazos con nuevos acuerdos económicos y comerciales, sobre energía y tecnología",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "España creció en el tercer trimestre un 2,7% impulsada por el consumo y el gasto público",
-            "link": "https://elpais.com/economia/2026-10-30/espana-crecio-en-el-tercer-trimestre-un-27.html",
-            "resumen": "El ritmo de crecimiento arroja señales mixtas, al acelerar frente al año anterior pero con una moderación respecto al trimestre de primavera",
+            "titulo": "Crecimiento sin inversión privada: cómo la economía española mejora con menos recursos",
+            "link": "https://elpais.com/economia/2026-10-31/crecimiento-sin-inversion-privada-como-la-economia-espanola-mejora-con-menos-recursos.html",
+            "resumen": "Los datos del PIB español muestran fortaleza aunque la productividad genera dudas en un contexto de avance de la digitalización que los indicadores no terminan de capturar",
             "fuente": "El País"
           },
           {
-            "titulo": "CaixaBank gana 4.962 millones hasta septiembre, un 12,9% más",
-            "link": "https://www.expansion.com/empresas/banca/2026/10/30/caixabank-gana-4-962-millones-septiembre-12-9.html",
-            "resumen": "El banco repartirá el 6 de noviembre como dividendo a cuenta un total de 1.281 millones de euros, con un abono de 0,1844 euros por acción, un 10% más que el pasado año. Leer",
+            "titulo": "La sangría de caja de las tecnológicas por el gasto en IA pone a prueba la paciencia de Wall Street",
+            "link": "https://www.expansion.com/tecnologia/2026/10/30/sangria-caja-tecnologicas-gasto-ia-pone-prueba-paciencia-wall-street.html",
+            "resumen": "El flujo de caja libre conjunto de Amazon, Microsoft, Google y Meta entra en terreno negativo, mientras mantienen planes de gasto de capital de 745.000 millones de dólares este año. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "La inflación se mantiene en el 4,9% por el empuje de los combustibles",
-            "link": "https://elpais.com/economia/2026-10-30/la-inflacion-se-mantiene-en-el-49-por-el-empuje-de-los-combustibles.html",
-            "resumen": "El encarecimiento del gas y los precios de los paquetes turísticos explican la resistencia del IPC",
+            "titulo": "De las tecnológicas del LZB a las operadoras de trenes: cuáles son las empresas presentes en el accidente de Urda",
+            "link": "https://elpais.com/economia/2026-10-31/de-las-tecnologicas-del-lzb-a-las-operadoras-de-trenes-cuales-son-las-empresas-presentes-en-el-accidente-de-urda.html",
+            "resumen": "Thales e Hitachi Rail están junto a Adif, Renfe e Iryo en el centro de la conversación tras el siniestro",
             "fuente": "El País"
           },
           {
-            "titulo": "Intel y Amazon desatan otra oleada bajista en el Nasdaq, que cae hasta un 2,6%",
-            "link": "https://www.expansion.com/mercados/2026/10/30/intel-amazon-desatan-oleada-bajista-tecnologicas.html",
-            "resumen": "Los recelos hacia las tecnológicas aumentan con los desplomes que anticipan para hoy las cotizaciones de Amazon e Intel. Sus gastos en IA vuelven a generar dudas entre los inversores. La renta variable de Asia ahonda sus caídas, y el…",
+            "titulo": "Iberia, Air Europa, Ryanair, Volotea y Vueling refuerzan sus rutas con Andalucía tras Urda",
+            "link": "https://www.expansion.com/empresas/transporte/2026/10/30/iberia-air-europa-ryanair-volotea-vueling-refuerzan-rutas-andalucia-urda.html",
+            "resumen": "Las aerolíneas incrementan su capacidad ante el corte prolongado de la conexión ferroviaria de alta velocidad entre Madrid y Sevilla y Málaga. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "La recaudación fiscal crece un 10% pese al desplome en los impuestos a los carburantes",
-            "link": "https://elpais.com/economia/2026-10-30/la-recaudacion-fiscal-crece-un-10-pese-al-desplome-en-los-impuestos-a-los-carburantes.html",
-            "resumen": "Las rebajas impositivas para aliviar el impacto de la guerra en Oriente Próximo suponen una merma para el fisco de unos 3.000 millones hasta septiembre",
+            "titulo": "Claves de la nueva tasa de 2 euros a Shein, Temu y AliExpress: así funciona el recargo a las compras ‘online’ extracomunitarias",
+            "link": "https://elpais.com/economia/2026-10-31/claves-de-la-nueva-tasa-de-2-euros-a-shein-temu-y-aliexpress-asi-funciona-el-recargo-a-las-compras-online-extracomunitarias.html",
+            "resumen": "Bruselas estrena un recargo fijo por producto para frenar la llegada de artículos inseguros y financiar los controles aduaneros",
             "fuente": "El País"
           }
         ]
@@ -78,9 +78,9 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "Desaparecida en el accidente de trenes Marta Shahbazi, una de las científicas españolas más brillantes",
-            "link": "https://elpais.com/ciencia/2026-10-30/desaparecida-en-el-accidente-de-trenes-marta-shahbazi-una-de-las-cientificas-espanolas-mas-brillantes.html",
-            "resumen": "La investigadora, al mando de un laboratorio propio en Cambridge, iba a recoger un premio a la excelencia en un congreso en Huelva",
+            "titulo": "37 millones de caballitos de mar al año: el comercio de vida silvestre es mucho mayor de lo que se creía",
+            "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-30/37-millones-de-caballitos-de-mar-al-ano-el-comercio-de-vida-silvestre-es-mucho-mayor-de-lo-que-se-creia.html",
+            "resumen": "Nuevos cálculos cifran en más de 100.000 las especies con las que se comercia en el mundo, doblando los números estimados hasta ahora",
             "fuente": "El País"
           },
           {
@@ -90,9 +90,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "La ‘proteína de Borges’ muestra cómo aliviar las pérdidas de memoria con la edad",
-            "link": "https://elpais.com/ciencia/2026-10-30/la-proteina-de-borges-muestra-como-aliviar-las-perdidas-de-memoria-con-la-edad.html",
-            "resumen": "Un monumental estudio con millones de moscas demuestra que el mismo tipo de proteínas asociadas a las enfermedades neurodegenerativas interviene en la formación de recuerdos, y apunta a cómo protegerlos a edades avanzadas",
+            "titulo": "Desaparecida en el accidente de trenes Marta Shahbazi, una de las científicas españolas más brillantes",
+            "link": "https://elpais.com/ciencia/2026-10-30/desaparecida-en-el-accidente-de-trenes-marta-shahbazi-una-de-las-cientificas-espanolas-mas-brillantes.html",
+            "resumen": "La investigadora, al mando de un laboratorio propio en Cambridge, iba a recoger un premio a la excelencia en un congreso en Huelva",
             "fuente": "El País"
           },
           {
@@ -102,9 +102,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "En busca del nuevo Plutón: hallado un candidato a planeta enano en los confines del sistema solar",
-            "link": "https://elpais.com/ciencia/2026-10-29/en-busca-del-nuevo-pluton-hallado-un-candidato-a-planeta-enano-en-los-confines-del-sistema-solar.html",
-            "resumen": "El equipo del observatorio Rubin descubre, en el norte de Chile, un cuerpo celeste inusualmente brillante, de entre 600 y 1.500 kilómetros",
+            "titulo": "La ‘proteína de Borges’ muestra cómo aliviar las pérdidas de memoria con la edad",
+            "link": "https://elpais.com/ciencia/2026-10-30/la-proteina-de-borges-muestra-como-aliviar-las-perdidas-de-memoria-con-la-edad.html",
+            "resumen": "Un monumental estudio con millones de moscas demuestra que el mismo tipo de proteínas asociadas a las enfermedades neurodegenerativas interviene en la formación de recuerdos, y apunta a cómo protegerlos a edades avanzadas",
             "fuente": "El País"
           }
         ]
@@ -113,32 +113,32 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "La gran final del Mundial Sub-15, en directo",
-            "link": "https://www.marca.com/futbol/seleccion/2026/10/30/6ae49b2a020dbf8b21b1dec8-directo.html",
-            "resumen": "Sigue en vivo y en directo el España - República Checa, final del Mundial Sub-15 en Bakú",
-            "fuente": "Marca"
-          },
-          {
-            "titulo": "La revolucionaria defensa que probó Flick de cara al Alavés",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261030/1004245068/revolucionaria-defensa-probo-flick-cara-alaves.html",
-            "resumen": "Hansi Flick se ha quedado sin cuatro defensas de cara al partido contra el Alavés . A la antigua baja de Andreas Christensen se le han sumado en los últimos partidos las de J ules Koundé y Eric Garcia , que cayeron en el partido contra el…",
-            "fuente": "Mundo Deportivo"
-          },
-          {
             "titulo": "Hansi Flick: \"Siempre buscaremos lo mejor para el equipo\"",
             "link": "https://www.marca.com/futbol/barcelona/2026/10/30/hansi-flick-siempre-buscaremos-mejor-equip-video.html",
             "resumen": "",
             "fuente": "Marca"
           },
           {
-            "titulo": "Flick confirma que van a por un central: \"Si se puede, lo haremos\"",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261030/1004245037/flick-confirma-central-haremos.html",
-            "resumen": "Hansi Flick , técnico del FC Barcelona , confirmó en la víspera del duelo ante el Alavés que se plantean fichar a un central, tal y como explicó MD , en el próximo mercado de invierno. \"Lo dije durante el mercado, siempre hablamos sobre…",
+            "titulo": "Flick tira de cantera para recibir al Alavés",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261031/1004245339/flick-tira-cantera-recibir-alaves.html",
+            "resumen": "El Barcelona recibe esta noche al Alavés (21.00 horas / Movistar LaLiga) con el claro objetivo de volver a sumar puntos y recuperar sensaciones tras las derrotas ante el Paris Saint-Germain y el Real Madrid . Para este duelo, Hansi Flick…",
             "fuente": "Mundo Deportivo"
           },
           {
             "titulo": "¡Momento histórico! Hijo de Santi Cazorla debuta con el Real Oviedo en Copa del Rey",
             "link": "https://www.marca.com/futbol/copa-rey/2026/10/30/momento-historico-hijo-santi-cazorla-debuta-real-oviedo-copa-rey-video.html",
+            "resumen": "",
+            "fuente": "Marca"
+          },
+          {
+            "titulo": "Lamine, primero en el Balón de Oro en 13 países",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261031/1004245291/lamine-primero-balon-oro-13-paises.html",
+            "resumen": "\"Ya sabéis mi opinión sobre Lamine , está al nivel para ganar el premio. Aceptamos el resultado, estoy contento de que haya terminado y de que ahora podamos centrarnos en las cosas importantes\", señaló Hansi Flick en la rueda de prensa.…",
+            "fuente": "Mundo Deportivo"
+          },
+          {
+            "titulo": "¡Ladrando al campo equivocado! Un perro irrumpe en un partido de la Premier League egipcia.",
+            "link": "https://www.marca.com/futbol/2026/10/30/ladrando-campo-equivocado-perro-irrumpe-partido-premier-league-egipcia-video.html",
             "resumen": "",
             "fuente": "Marca"
           }
@@ -147,16 +147,16 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "October 30, 2026",
-    "generada": "16:19",
+    "fecha": "October 31, 2026",
+    "generada": "15:31",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-            "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-            "resumen": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+            "titulo": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
+            "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
             "fuente": "BBC"
           },
           {
@@ -166,15 +166,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "An Arab Town in Israel Celebrates the Election but Wonders What Will Change",
-            "link": "https://www.nytimes.com/2026/10/30/world/middleeast/arab-voters-israel-election-taibe.html",
-            "resumen": "Gains for Arab-led parties have electrified Taibe, in central Israel, even as voters elsewhere in Israel say they have no place in any future government.",
+            "titulo": "Will Digging Up Vietnam’s War Dead Heal Old Wounds or Reopen Them?",
+            "link": "https://www.nytimes.com/2026/10/31/world/asia/vietnam-missing-war-dead.html",
+            "resumen": "A 500-day campaign to find and identify fallen soldiers has unearthed hundreds of bodies, but not everyone gets a chance at closure.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-            "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
+            "titulo": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+            "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+            "resumen": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
             "fuente": "BBC"
           },
           {
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "US tech stocks see sharp falls over AI cost fears",
+            "titulo": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+            "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "The staggering $446m Elon Musk has spent on the US midterms – visualized",
+            "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized",
+            "resumen": "The tech mogul’s midterm donations backing Republicans have made him the largest single-cycle political donor in modern US history Elon Musk has poured so much money into US politics this midterms election cycle that his donations could…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "How Binance’s $6.3 Billion Hack Went Down",
+            "link": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
+            "resumen": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "US tech stocks see sharp falls as AI spending nears $1tn",
             "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
             "resumen": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
             "fuente": "BBC"
           },
           {
-            "titulo": "North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist",
+            "titulo": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
             "link": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
-            "resumen": "Cryptocurrency exchange scrambles to freeze affected assets, with about $3bn located so far, and says it will cover losses Q&A: How big a deal is the $6.3bn crypto heist? Tell us: have you been affected by the Binance hack? Business live…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "Meta Settles Social Media Addiction Case, Avoiding Trial",
-            "link": "https://www.nytimes.com/2026/10/30/business/meta-settlement-child-addiction-suit.html",
-            "resumen": "The case, brought by an 18-year-old Mississippi woman and set for trial next week, was the fourth of nine bellwether personal injury lawsuits.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "What we know about Binance's $6.3bn hack",
-            "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Government corruption a top issue for US midterm voters, exclusive poll finds",
-            "link": "https://www.theguardian.com/us-news/2026/oct/30/government-corruption-us-midterm-poll",
-            "resumen": "Harris poll for Guardian finds 76% believe officials care more about self-enrichment than helping everyday Americans Government corruption has emerged as a top issue in the upcoming US midterm elections, with an overwhelming majority of…",
+            "resumen": "Binance exchange says it will cover customer losses as it scrambles to freeze affected assets, with about $3bn located so far Q&A: How big a deal is the $6.3bn crypto heist? Tell us: have you been affected by the Binance hack? The world’s…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,9 +224,9 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Six dead after helicopter crashes in northern Indian state",
-            "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
+            "titulo": "Bute House protested by environmental campaigners",
+            "link": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss",
+            "resumen": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh.",
             "fuente": "BBC"
           },
           {
@@ -236,21 +236,21 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "As Picard, Patrick Stewart Had ‘Life-Changing’ Effects on Generations of Scientists",
-            "link": "https://www.nytimes.com/2026/10/30/science/space/patrick-stewart-scientists-react.html",
-            "resumen": "Stewart’s iconic “Star Trek” character inspired astronomers and astronauts in countless ways: “You were the captain of my childhood,” one astrophysicist said.",
+            "titulo": "A Meteorite Found in the Sahara Is a 4.1-Billion-Year-Old Piece of Mars",
+            "link": "https://www.nytimes.com/2026/10/30/science/space/mars-meteorite-teghaza.html",
+            "resumen": "Minerals in the space rock provide hints about the early history of the red planet, when water was flowing on the surface.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Hazardous driving conditions for Friday as fog warning issued by Met Office",
-            "link": "https://www.bbc.co.uk/weather/articles/c6ly075l742ro?at_medium=RSS&at_campaign=rss",
-            "resumen": "Foggy conditions likely to bring tricky conditions for the Friday morning commute as severe weather warning issued.",
+            "titulo": "Global nature talks reach deal but money remains an issue",
+            "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Countries have been trying to get a global agreement to halt nature decline back on track.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Migrating seabirds face a surprising problem: jet lag",
-            "link": "https://www.theguardian.com/science/2026/oct/29/jet-lag-throws-seabirds-off-course-nature",
-            "resumen": "Oxford study shows Manx shearwaters get lost when their body clocks get out of sync Seabirds returning from foraging trips can be thrown hundreds of miles off course by a form of jet lag that arises when their body clocks get out of sync…",
+            "titulo": "The Guardian view on 50 years of The Selfish Gene: flawed, outdated, yet still a model of truly popular science writing | Editorial",
+            "link": "https://www.theguardian.com/commentisfree/2026/oct/30/the-guardian-view-on-50-years-of-the-selfish-gene-flawed-outdated-yet-still-a-model-of-truly-popular-science-writing",
+            "resumen": "Richard Dawkins’ first work has thrilled fans and frustrated critics for five decades. The science has moved on, but any writer looking to supplant its place must learn its lessons Richard Dawkins’ The Selfish Gene was not predicted to be…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,34 +259,34 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Arteta warns Dowman 'we are not in Disneyland' after red card",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c875p940g5v2o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Mikel Arteta says \"we are not in Disneyland\" and that he will hold Max Dowman to the same standards as other first-team players after the teenager's red card against Fleetwood.",
+            "titulo": "'Un-Australian' - Warner tears into former side after SA charge to win",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cmdx3p354v04o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Australia crumble under the pressure of a final-day chase as South Africa charge to a famous Test and series victory.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Packers beat Panthers as Green Bay’s Christian Watson returns after mid-game hospital visit",
-            "link": "https://www.theguardian.com/sport/2026/oct/29/packers-panthers-thursday-night-football-nfl-christian-watson-hospital",
-            "resumen": "Carolina Panthers 19-27 Green Bay Packers Packers WR has 113 receiving yards despite injury Jordan Love threw three touchdown passes, Josh Jacobs scored twice and the Green Bay Packers withstood three turnovers to beat the Carolina…",
+            "titulo": "Manchester United crisis deepens with Chelsea defeat and Martínez red card",
+            "link": "https://www.theguardian.com/football/2026/oct/31/chelsea-manchester-united-premier-league-match-report",
+            "resumen": "Get ready for another week of agonising over the sorry state of Manchester United. The legends of old will rage, clips of a fuming Gary Neville will fly around social media, the airwaves will reverberate with complaints from angry…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Britain's first £100m man facing defining moment",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?",
+            "titulo": "Carragher apologises to Villa for 'wrong' language",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqj6jp63k87zo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Jamie Carragher apologises for \"clumsy and wrong\" language when linking manager Unai Emery with becoming Manchester United head coach, after Aston Villa threatened to sue him.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Set up to fail? Where England's World Cup campaign went wrong",
-            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cqp9gv3mr8myo?at_medium=RSS&at_campaign=rss",
-            "resumen": "England's men and women endured different types of disappointment at the Rugby League World Cup on Friday - and the inquests have already begun.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "NCAA basketball 2026-27 predictions: from JuJu Watkins to Tyran Stokes, the names you’ll know by March",
-            "link": "https://www.theguardian.com/sport/2026/oct/30/ncaa-basketball-2026-27-season-predictions-march-madness",
-            "resumen": "Can Florida’s continuity trump the transfer portal? Will JuJu Watkins pick up where she left off? And who will survive an expanded March Madness? Our writers weigh in Lots of stuff. The return of JuJu Watkins at USC after her 19-month…",
+            "titulo": "He was one of the NFL’s most feared runners. Now Larry Johnson fears what football did to his brain",
+            "link": "https://www.theguardian.com/sport/2026/oct/31/larry-johnson-nfl-cte-brain-injuries-kansas-city-chiefs",
+            "resumen": "Once among the NFL’s most punishing running backs, Larry Johnson opens up about memory loss, intrusive thoughts and his fears over football’s lasting toll In his heyday, Larry Johnson was the NFL tailback you’d least want to line up…",
             "fuente": "The Guardian"
+          },
+          {
+            "titulo": "A 3/10 that might be generous - player ratings for Chelsea v Man Utd",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c3j47prvlz04o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Player ratings as Morgan Rogers and Cole Palmer score second-half goals in Chelsea's home win over Manchester United, who have Lisandro Martinez sent off.",
+            "fuente": "BBC"
           }
         ]
       }

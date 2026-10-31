@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "30 de octubre de 2026",
-  "generada": "16:19",
+  "fecha": "31 de octubre de 2026",
+  "generada": "15:31",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Dura contraofensiva judicial contra el empresario Tofoni por el uso de datos confidenciales de EE.UU. en denuncias contra la AFA",
-          "link": "https://www.clarin.com/politica/dura-contraofensiva-judicial-empresario-tofoni-uso-datos-confidenciales-eeuu-denuncias-afa_0_86M2mMLHRI.html",
-          "resumen": "El dueño de la firma TourProdenter, que cobra millones por contratos comerciales de la Asociacion del Fútbol en el exterior, busca que se anulen las investigaciones penales en su contra por los sospechosos negocios con Chiqui Tapia.",
+          "titulo": "Javier Milei, EN VIVO: el Presidente inaugura hoy un templo evangélico en Neuquén y prepara su nuevo viaje a España",
+          "link": "https://www.clarin.com/politica/javier-milei-vivo-presidente-inaugura-hoy-templo-evangelico-neuquen-prepara-nuevo-viaje-espana_0_6NLcNMvtZd.html",
+          "resumen": "En la provincia patagónica el mandatario estrenará el nuevo auditorio de la iglesia Jesús es Rey. Mientras tanto, se ultiman detalles de la participación del jefe de Estado en la Cumbre Iberoamericana de la próxima semana.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: Bullrich celebró la aprobación del RIIR en el Senado y dijo que atraerá “oportunidades de invertir y crecer”",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-bullrich-celebro-la-aprobacion-del-riir-en-el-senado-nid30102026/",
-          "resumen": "El minuto a minuto de las decisiones del jefe de Estado, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "titulo": "Los Milei refuerzan su vínculo con la iglesia evangélica antes de la visita del papa León XIV",
+          "link": "https://www.lanacion.com.ar/politica/los-milei-refuerzan-su-vinculo-con-la-iglesia-evangelica-antes-de-la-visita-del-papa-leon-xiv-nid31102026/",
+          "resumen": "El Presidente y su hermana participaron de la celebración del Día de las Iglesias Evangélicas en el Museo de la Casa Rosada y hoy inaugurarán un templo cuyo pastor es el padre de una senadora libertaria",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Milei volverá a España tras la reciente visita que provocó una feroz pelea con Pedro Sánchez",
-          "link": "https://www.infobae.com/politica/2026/10/30/milei-volvera-a-espana-tras-la-reciente-visita-que-provoco-una-feroz-pelea-con-pedro-sanchez/",
-          "resumen": "El presidente argentino participará en Madrid de una cumbre iberoamericana que se realizará los días 4 y 5 de noviembre. Hace diez días, el libertario sacudió la campaña electoral ibérica al llamar “dictador” y “corrupto” al mandatario y…",
+          "titulo": "Por qué Lula no rechazó de manera oficial el rol de Argentina en el viaje de Bolsonaro a EEUU y la tesis de guerra fría",
+          "link": "https://www.infobae.com/politica/2026/10/31/por-que-lula-no-rechazo-de-manera-oficial-el-rol-de-argentina-en-el-viaje-de-bolsonaro-a-eeuu-y-la-tesis-de-guerra-fria/",
+          "resumen": "Itamaraty investiga el paso del senador brasileño por Puerto Iguazú y convocó a la encargada de negocios para recabar información, pero eligió no profundizar la crisis con la Argentina. Los cancilleres de ambos países coincidieron en…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: \"Bolsonaro entró bárbaro a Argentina, todo legal\", el mensaje que compartió el Presidente",
-          "link": "https://www.clarin.com/politica/milei-medidas-vivo-presidente-recibira-papa-leon-xiv-pie-avion-quieren-transmitirlo-cadena-nacional_0_Nlj4rMOSOa.html",
-          "resumen": "Aunque el mandatario sigue sin pronunciarse de manera oficial sobre el escándalo de la fuga del excandidato presidencial brasileño vía Puerto Iguazú, en las últimas horas avaló los dichos de un actor sobre el tema.",
+          "titulo": "El factor PASO y las tensiones internas: por qué Macri dijo que \"no se avanzó nada\" en un acuerdo con el Gobierno",
+          "link": "https://www.clarin.com/politica/factor-paso-tensiones-internas-macri-dijo-avanzo-acuerdo-gobierno_0_FCV7Kq5zVC.html",
+          "resumen": "Los desmarques con Javier Milei y las diferencias con su primo por la Ciudad El gobierno todavía no consiguió que el Senado apruebe la suspensión de las Primarias.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Martín Menem: “No hay dos candidatos en La Libertad Avanza a la presidencia; el único es Javier Milei”",
-          "link": "https://www.lanacion.com.ar/politica/martin-menem-no-hay-dos-candidatos-en-la-libertad-avanza-a-la-presidencia-el-unico-es-javier-milei-nid30102026/",
-          "resumen": "El presidente de la Cámara de Diputados y dirigente de extrema confianza de Karina Milei le envió un mensaje a Patricia Bullrich, que insinuó que podría ser candidata y marca cada vez más diferencias con el Gobierno",
+          "titulo": "Milei expuso ante estudiantes: dos horas de charla, críticas a los políticos que solo quieren “ganar elecciones” y guiño a Karina: “Es tan ortodoxa como yo”",
+          "link": "https://www.lanacion.com.ar/politica/seres-cargados-de-maldad-milei-comenzo-su-exposicion-en-una-universidad-con-otro-ataque-al-nid30102026/",
+          "resumen": "Además, el presidente volvió a cargar contra los periodistas, a quienes llamó “seres cargados de maldad” y le respondió a Domingo Cavallo",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "El petróleo sube con fuerza hasta US$ 117 tras nuevos ataques de Irán en el Estrecho de Ormuz",
-          "link": "https://www.clarin.com/mundo/petroleo-sube-fuerza-us-117-nuevos-ataques-iran-estrecho-ormuz_0_2ZuCD6Sw25.html",
-          "resumen": "Cinco petroleros sufrieron incidentes durante las últimas horas y quedaron inmovilizados cuando intentaban transitar por rutas no autorizadas por el régimen persa en el estratégico paso marítimo.",
+          "titulo": "La visión de un ex ministro español y banquero europeo: \"El mundo vive una fragmentación acelerada\"",
+          "link": "https://www.clarin.com/economia/vision-ex-ministro-espanol-banquero-europeo-mundo-vive-fragmentacion-acelerada_0_vroGU6LteB.html",
+          "resumen": "Luis de Guindos, ex ministro en tiempos de Aznar y ex vicepresidente del Banco Central Europeo, habla de los riesgos de la escalada en la guerra de Medio Oriente y el fin de la globalización. Su opinión sobre Argentina y la mirada de los…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Inversiones: el Senado aprobó beneficios para la retención de terneras y la pesca que ahora deberá tratar Diputados",
-          "link": "https://www.lanacion.com.ar/economia/campo/inversiones-el-senado-aprobo-beneficios-para-la-retencion-de-terneras-y-la-pesca-que-ahora-debera-nid30102026/",
-          "resumen": "La iniciativa incorpora ambas actividades a un esquema de incentivos sin un monto mínimo de inversión y contempla la amortización acelerada en una cuota; los cambios fueron propuestos por Maximiliano Abad",
+          "titulo": "Elecciones en Estados Unidos: qué espera Wall Street y en qué Cedears invertir antes de los comicios de medio término",
+          "link": "https://www.lanacion.com.ar/economia/elecciones-en-estados-unidos-que-espera-wall-street-y-en-que-cedears-invertir-antes-de-los-comicios-nid31102026/",
+          "resumen": "Los especialistas anticipan que los inversores descuentan una victoria del Partido Demócrata; el sector de salud surge como una oportunidad clave",
           "fuente": "La Nación"
         },
         {
-          "titulo": "ARCA prorrogó el plazo para entrar al plan especial de pago para pymes hasta el 30 de diciembre",
-          "link": "https://www.ambito.com/economia/arca-prorrogo-el-plazo-entrar-al-plan-especial-pago-pymes-el-30-diciembre-n6339655",
-          "resumen": "También se posterga el plazo para el programa especial para prestadores de servicios de salud. El plan de pagos se anunció este año como respuesta a reclamos de las pymes, aunque no generó mayor entusiasmo entre los contribuyentes debido…",
+          "titulo": "Banco Nación: las refinanciaciones de deudas cayeron un 55,4% en octubre y alcanzaron su menor nivel frente a septiembre",
+          "link": "https://www.ambito.com/economia/banco-nacion-las-refinanciaciones-deudas-cayeron-un-554-octubre-y-alcanzaron-su-menor-nivel-frente-septiembre-n6340058",
+          "resumen": "La entidad financiera registró 17.348 operaciones durante octubre, frente a las 38.884 de septiembre. En lo que va de 2026, concretó más de 159.000 refinanciaciones por un total de $707.007 millones.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Se registraron las primeras operaciones en A3 por \"Soja Visec\", con un precio diferencial de US$ 10 por tonelada",
-          "link": "https://www.clarin.com/rural/registraron-primeras-operaciones-a3-soja-visec-precio-diferencial-us-10-tonelada_0_luH6UkQd5s.html",
-          "resumen": "Este tipo de operaciones fuero habilitadas por la entidad a partir del pasado lunes.",
+          "titulo": "La frase de Milton Friedman, por qué los economistas están en cualquiera y por qué vuelve a ser importante 'la relevancia'",
+          "link": "https://www.clarin.com/economia/frase-milton-friedman-economistas-vuelve-importante-relevancia_0_vC6qKBNvko.html",
+          "resumen": "Economía de No Ficción . ¿Cuántas publicaciones o aportes de los economistas aportan soluciones concretas a un problema en específico? Relevancia vs \"todo lo demás\". El peligro de las recomendaciones sin tener en cuenta las restricciones…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 30 de octubre, minuto a minuto",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid30102026/",
-          "resumen": "La divisa oficial opera a $1560 para la venta en el Banco Nación; el dólar blue cotiza a $1565 para esa operación; qué pasa con el MEP y el CCL",
+          "titulo": "Santos Vega: el mítico payador que enfrentó al diablo",
+          "link": "https://www.lanacion.com.ar/economia/campo/santos-vega-el-mitico-payador-admirado-por-escritores-y-gauchos-que-enfrento-al-diablo-nid31102026/",
+          "resumen": "Bartolomé Mitre y Rafael Obligado, entre otros, le dedicaron poemas al célebre cantor que todavía guarda misterios",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "El papa León XIV votó por correo para las elecciones legislativas de EE.UU.",
-          "link": "https://www.clarin.com/mundo/papa-leon-xiv-voto-correo-elecciones-legislativas-eeuu_0_NNctYPKiRd.html",
-          "resumen": "\"El Papa envió su voto por correo a Chicago\", confirmó este viernes la oficina de prensa del Vaticano. Se trata de la primera vez que se conoce y confirma que un pontífice ejerce el derecho al voto en unos comicios.",
+          "titulo": "Vandalismo en París: en la previa de las marchas de protesta, varias calles amanecieron con pintadas xenófobas y racistas",
+          "link": "https://www.clarin.com/mundo/violencia-paris-previa-marchas-protesta-varias-calles-amanecieron-pintadas-xenofobas-racistas_0_GTctDeUEzc.html",
+          "resumen": "El alcalde de la capital francesa condenó con la máxima firmeza los graffitis que aparecieron este sábado. Las elecciones generales son en abril, y la candidata presidencial que lidera los sondeos es la ultraderechista Marine Le Pen.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Demócratas indagan si funcionarios de Trump en la Argentina ayudaron en la fuga de Flavio Bolsonaro",
-          "link": "https://www.lanacion.com.ar/estados-unidos/democratas-indagan-si-funcionarios-de-trump-en-la-argentina-ayudaron-en-la-fuga-de-flavio-bolsonaro-nid30102026/",
-          "resumen": "Un grupo de legisladores reclamó explicaciones a Marco Rubio sobre la ayuda que recibió el excandidato brasileño para llegar a Miami, tras pasar por Puerto Iguazú",
+          "titulo": "El video inédito del rescate de una de las víctimas del choque de trenes en España",
+          "link": "https://www.lanacion.com.ar/el-mundo/el-video-inedito-del-rescate-de-una-de-las-victimas-del-choque-de-trenes-en-espana-nid31102026/",
+          "resumen": "Las imágenes muestran a un hombre herido en medio de los escombros y la ayuda que recibe de otro de los pasajeros",
           "fuente": "La Nación"
         },
         {
-          "titulo": "\"Hay una confianza quebrada en la alta velocidad\": Pedro Sánchez rompió el silencio tras la segunda gran tragedia ferroviaria en España en nueve meses",
-          "link": "https://www.clarin.com/mundo/confianza-quebrada-alta-velocidad-pedro-sanchez-rompio-silencio-segunda-gran-tragedia-ferroviaria-espana-meses_0_PB1Jb7QENg.html",
-          "resumen": "El presidente español habló tras el dramático accidente entre dos trenes ocurrido en la provincia de Toledo, y que causó la muerte de 69 personas. Cómo sigue la investigación del trágico hecho que conmocionó a todo el país.",
+          "titulo": "EE.UU.: un muerto y seis heridos en un tiroteo en la mayor cadena de ventas de artículos de Halloween",
+          "link": "https://www.clarin.com/mundo/eeuu-muerto-heridos-tiroteo-mayor-cadena-ventas-articulos-halloween_0_XH43LY2KvJ.html",
+          "resumen": "La balacera ocurrió en una reconocida tienda Spirit Halloween, ubicada al noreste de San Francisco. Tres de los heridos se encuentran en estado crítico.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Confirman que murió el argentino Agustín Randazzo en el accidente de trenes en España",
-          "link": "https://www.lanacion.com.ar/el-mundo/confirman-que-murio-el-argentino-agustin-randazzo-en-el-accidente-de-trenes-en-espana-nid29102026/",
-          "resumen": "Vivía en España desde 2002; por motivos laborales, realizaba el trayecto Madrid-Sevilla cuando el tren de alta velocidad en el que viajaba impactó contra otra formación",
+          "titulo": "Cómo un insulto desató un movimiento juvenil que desafía al poder en la India",
+          "link": "https://www.lanacion.com.ar/el-mundo/como-un-insulto-desato-un-movimiento-juvenil-que-desafia-al-poder-en-la-india-nid31102026/",
+          "resumen": "Con memes, sátira y protestas multitudinarias, la Generación Z se convirtió en un inesperado dolor de cabeza para Narendra Modi",
           "fuente": "La Nación"
         },
         {
-          "titulo": "¿Por qué Miami es un destino para los exiliados políticos de América Latina?",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/miami-destino-exiliados-politicos-america-latina_0_nLYvvfnKM7.html",
-          "resumen": "La mayoría hispana de la ciudad, la cobertura de los medios de comunicación y las conexiones aéreas con Latinoamérica la han convertido en un refugio ideal para los políticos que huyen de sus países de origen.",
+          "titulo": "Sábado de alto riesgo en Francia: nuevas marchas de protesta en todo el país y miedo al vandalismo disfrazado de Halloween",
+          "link": "https://www.clarin.com/mundo/sabado-alto-riesgo-francia-nuevas-marchas-protesta-pais-miedo-vandalismo-disfrazado-halloween_0_YT8T12Jwul.html",
+          "resumen": "Las autoridades estiman que hoy podrían congregarse en París entre 100.000 y 150.000 manifestantes. Al menos 70.000 fuerzas de seguridad participan en el operativo y hay drones incluidos por primera vez.",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Felipe Contepomi dio la lista de Los Pumas para el segundo tramo del Nations Championship: vuelve Facundo Isa y confirmaron a Santiago Chocabares",
-          "link": "https://www.clarin.com/deportes/felipe-contepomi-dio-lista-pumas-segundo-tramo-nations-championship-vuelve-facundo-isa-confirmaron-santiago-chocabares_0_euDuhtxo6P.html",
-          "resumen": "Facundo Isa regresa luego de tres años de ausencia y será el reemplazo de Santiago Grondona. Se mantuvieron Rodrigo Martínez y Mateo Soler que reemplazaron a Gallo y Santiago Carreras. Chocobares superó el protocolo de conmoción cerebral…",
+          "titulo": "La agenda del súper sábado deportivo: Ferro a todo o nada, Fórmula 1 con Colapinto, Europa para todos los gustos y la Liga Profesional",
+          "link": "https://www.clarin.com/deportes/agenda-super-sabado-deportivo-ferro-formula-1-colapinto-europa-gustos-liga-profesional_0_HIBBc0AMm2.html",
+          "resumen": "La cartelera de actividades sirve como antesala del Superclásico agendado para el domingo. Las competencias del sábado se reparten entre transmisiones de canales de televisión y la plataforma Disney+.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Boca vs. River, por el Superclásico del Torneo Clausura 2026: día, horario, TV y cómo ver online",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/boca-vs-river-por-el-superclasico-del-torneo-clausura-2026-dia-horario-tv-y-como-ver-online-nid30102026/",
-          "resumen": "El trascendental encuentro está programado para este domingo a las 15 en la Bombonera, con arbitraje de Nicolás Ramírez y televisación de ESPN Premium y TNT Sports",
+          "titulo": "Horarios de la F1 en el GP de México 2026",
+          "link": "https://www.lanacion.com.ar/deportes/automovilismo/horarios-de-la-f1-en-el-gp-de-mexico-2026-nid31102026/",
+          "resumen": "La 19° jornada se corre este fin de semana luego del Gran Premio de Estados Unidos, en el que Andrea Kimi Antonelli se quedó con la victoria",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Espino se entrenó en el Predio Tita separado del plantel tras un nuevo escándalo en Racing",
-          "link": "https://www.ole.com.ar/racing/racing-espino-saja-predio-tita_0_shC9w4Nw9T.html",
-          "resumen": "Luego de discutir con Sebastián Saja e insultarlo, el defensor fue mandado por la dirigencia a trabajar lejos del primer equipo. Qué hizo el uruguayo en soledad.",
+          "titulo": "Jugó tres mundiales con Irán y ahora está haciendo el servicio militar a los 34 años",
+          "link": "https://www.ole.com.ar/futbol-internacional/alireza-beiranvand-servicio-militar-iran_0_P3ubpSgONH.html",
+          "resumen": "Alireza Beiranvand, arquero de la selección iraní, se encuentra realizando la milicia en su país. Conocé la historia.",
           "fuente": "Olé"
         },
         {
-          "titulo": "El Dibu Martínez mostró cómo le quedó la mano tras la lesión con la que tuvo que atajar durante el Mundial",
-          "link": "https://www.clarin.com/deportes/dibu-martinez-mostro-quedo-mano-lesion-atajar-mundial_0_b5rszkAQjL.html",
-          "resumen": "El arquero se recuperó a tiempo para ser convocado por Scaloni y disputar el torneo. Sin embargo, lo hizo de una manera no tradicional, que hoy le dejó secuelas. Tras sufrir un choque con el Chelsea, habló desde Londres sobre su actualidad.",
+          "titulo": "Atlético de Madrid, con Julián Alvarez vs Levante, EN VIVO: minuto a minuto, en directo",
+          "link": "https://www.clarin.com/deportes/atletico-madrid-julian-alvarez-vs-levante-vivo-minuto-minuto-directo_0_OjwzHxPxMz.html",
+          "resumen": "El Colchonero, con Julián Alvarez recuperando su nivel, gana en su visita a la ciudad de Valencia con gol de Grimaldo.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Diego Maradona, eterno: “De un golpe salí de Fiorito y fui a parar a la cima del universo y allí me las tuve que arreglar yo solo”",
-          "link": "https://www.lanacion.com.ar/deportes/diego-maradona-eterno-de-un-golpe-sali-de-fiorito-y-fui-a-parar-a-la-cima-del-universo-y-alli-me-las-nid30102026/",
-          "resumen": "Este viernes 30 de octubre, el 10 hubiera cumplido 66 años; en su autobiografía, habló de sus orígenes y hasta de dinero: “A mí nadie me regaló la plata”",
+          "titulo": "Lisandro Martínez fue expulsado en la derrota de Manchester United ante Chelsea por la Premier League",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/lisandro-martinez-fue-expulsado-en-la-derrota-de-manchester-united-ante-chelsea-por-la-premier-nid31102026/",
+          "resumen": "El defensor vio la tarjeta roja a los 18 minutos de la segunda etapa en el 0-2 de su equipo, que está entre los últimos puestos y es muy cuestionado por la prensa y los hinchas",
           "fuente": "La Nación"
         }
       ]
