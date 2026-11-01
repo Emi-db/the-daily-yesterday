@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "31 de octubre de 2026",
-  "generada": "15:31",
+  "fecha": "1 de noviembre de 2026",
+  "generada": "16:29",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Javier Milei, EN VIVO: el Presidente inaugura hoy un templo evangélico en Neuquén y prepara su nuevo viaje a España",
-          "link": "https://www.clarin.com/politica/javier-milei-vivo-presidente-inaugura-hoy-templo-evangelico-neuquen-prepara-nuevo-viaje-espana_0_6NLcNMvtZd.html",
-          "resumen": "En la provincia patagónica el mandatario estrenará el nuevo auditorio de la iglesia Jesús es Rey. Mientras tanto, se ultiman detalles de la participación del jefe de Estado en la Cumbre Iberoamericana de la próxima semana.",
+          "titulo": "Javier Milei, EN VIVO: \"Podemos trabajar juntos\", el mensaje de Karina Milei y Jorge Macri en la previa de la visita del Papa",
+          "link": "https://www.clarin.com/politica/javier-milei-vivo-arranca-mes-clave-gobierno-congreso-debate-banco-central-defensa-soberania_0_ciI5DpdxfR.html",
+          "resumen": "La Secretaria de la Presidencia y el jefe de Gobierno porteño recorrieron la zona del Monumento a los españoles en Palermo, donde estará León XIV. El Gobierno se prepara para una semana clave en el Congreso.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Los Milei refuerzan su vínculo con la iglesia evangélica antes de la visita del papa León XIV",
-          "link": "https://www.lanacion.com.ar/politica/los-milei-refuerzan-su-vinculo-con-la-iglesia-evangelica-antes-de-la-visita-del-papa-leon-xiv-nid31102026/",
-          "resumen": "El Presidente y su hermana participaron de la celebración del Día de las Iglesias Evangélicas en el Museo de la Casa Rosada y hoy inaugurarán un templo cuyo pastor es el padre de una senadora libertaria",
+          "titulo": "Karina Milei y Jorge Macri recorrieron las obras del escenario donde dará misa el Papa",
+          "link": "https://www.lanacion.com.ar/politica/karina-milei-y-jorge-macri-recorrieron-las-obras-del-escenario-donde-hablara-el-papa-nid01112026/",
+          "resumen": "La secretaria general de la Presidencia y el jefe de Gobierno porteño buscaron dar una señal de unidad de cara a la visita de León XIV e incluso elogiaron el trabajo que realiza la provincia de Buenos Aires",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Por qué Lula no rechazó de manera oficial el rol de Argentina en el viaje de Bolsonaro a EEUU y la tesis de guerra fría",
-          "link": "https://www.infobae.com/politica/2026/10/31/por-que-lula-no-rechazo-de-manera-oficial-el-rol-de-argentina-en-el-viaje-de-bolsonaro-a-eeuu-y-la-tesis-de-guerra-fria/",
-          "resumen": "Itamaraty investiga el paso del senador brasileño por Puerto Iguazú y convocó a la encargada de negocios para recabar información, pero eligió no profundizar la crisis con la Argentina. Los cancilleres de ambos países coincidieron en…",
+          "titulo": "Satisfacción en el Vaticano: Javier Milei convocó a la clase política a la recepción oficial a León XIV en el Palacio Libertad",
+          "link": "https://www.infobae.com/politica/2026/11/01/satisfaccion-en-el-vaticano-javier-milei-convoco-a-la-clase-politica-a-la-recepcion-oficial-a-leon-xiv-en-el-palacio-libertad/",
+          "resumen": "El jefe de Estado ordenó que se invitara a la vicepresidenta Villarruel, a Jorge Macri, a los 23 gobernadores y a todos los legisladores nacionales para recibir al papa, que llega a la Argentina con el legado de unidad nacional que…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "El factor PASO y las tensiones internas: por qué Macri dijo que \"no se avanzó nada\" en un acuerdo con el Gobierno",
-          "link": "https://www.clarin.com/politica/factor-paso-tensiones-internas-macri-dijo-avanzo-acuerdo-gobierno_0_FCV7Kq5zVC.html",
-          "resumen": "Los desmarques con Javier Milei y las diferencias con su primo por la Ciudad El gobierno todavía no consiguió que el Senado apruebe la suspensión de las Primarias.",
+          "titulo": "Desde 2022, el Consejo de la Magistratura destituyó cuatro jueces y y un quinto renunció antes del jury",
+          "link": "https://www.clarin.com/politica/2022-consejo-magistratura-destituyo-jueces-quinto-renuncio-jury_0_JcqmCsFgxr.html",
+          "resumen": "Los magistrados removidos por mal desempeño fueron Walter Bento, de Mendoza; Martín Poderti y Alfredo López, de Mar del Plata; y Gastón Salmain, de Rosario. Marcelo Bailaque, también de Rosario, dejó el cargo mediante una renuncia.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Milei expuso ante estudiantes: dos horas de charla, críticas a los políticos que solo quieren “ganar elecciones” y guiño a Karina: “Es tan ortodoxa como yo”",
-          "link": "https://www.lanacion.com.ar/politica/seres-cargados-de-maldad-milei-comenzo-su-exposicion-en-una-universidad-con-otro-ataque-al-nid30102026/",
-          "resumen": "Además, el presidente volvió a cargar contra los periodistas, a quienes llamó “seres cargados de maldad” y le respondió a Domingo Cavallo",
+          "titulo": "Agustín Caulo: “El Gobierno sigue trabajando para que no se politice la visita de León XIV a la Argentina”",
+          "link": "https://www.lanacion.com.ar/politica/agustin-caulo-el-gobierno-sigue-trabajando-para-que-no-se-politice-la-visita-de-leon-xiv-a-la-nid01112026/",
+          "resumen": "El secretario de Culto y Civilización afirmó que el Papa no dará un mensaje destinado exclusivamente al presidente Milei; “será para todos los argentinos”, dijo; se prevén dos centros sanitarios de alta complejidad si el pontífice…",
           "fuente": "La Nación"
         }
       ]
@@ -42,34 +42,34 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "La visión de un ex ministro español y banquero europeo: \"El mundo vive una fragmentación acelerada\"",
-          "link": "https://www.clarin.com/economia/vision-ex-ministro-espanol-banquero-europeo-mundo-vive-fragmentacion-acelerada_0_vroGU6LteB.html",
-          "resumen": "Luis de Guindos, ex ministro en tiempos de Aznar y ex vicepresidente del Banco Central Europeo, habla de los riesgos de la escalada en la guerra de Medio Oriente y el fin de la globalización. Su opinión sobre Argentina y la mirada de los…",
+          "titulo": "Euro hoy en Uruguay: precio y cotización de la divisa este domingo 1 de noviembre de 2026",
+          "link": "https://www.clarin.com/economia/euro-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-domingo-1-de-noviembre-de-2026_0_eLmOCgLyj0.html",
+          "resumen": "Mirá la cotización del euro en Uruguay, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Elecciones en Estados Unidos: qué espera Wall Street y en qué Cedears invertir antes de los comicios de medio término",
-          "link": "https://www.lanacion.com.ar/economia/elecciones-en-estados-unidos-que-espera-wall-street-y-en-que-cedears-invertir-antes-de-los-comicios-nid31102026/",
-          "resumen": "Los especialistas anticipan que los inversores descuentan una victoria del Partido Demócrata; el sector de salud surge como una oportunidad clave",
+          "titulo": "Cómo planificar el maíz tardío con El Niño en camino",
+          "link": "https://www.lanacion.com.ar/economia/campo/como-planificar-el-maiz-tardio-con-el-nino-en-camino-nid01112026/",
+          "resumen": "A los factores clásicos como fecha de siembra, nutrición y elección del híbrido apropiado se suma la probabilidad de mayores lluvias",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Banco Nación: las refinanciaciones de deudas cayeron un 55,4% en octubre y alcanzaron su menor nivel frente a septiembre",
-          "link": "https://www.ambito.com/economia/banco-nacion-las-refinanciaciones-deudas-cayeron-un-554-octubre-y-alcanzaron-su-menor-nivel-frente-septiembre-n6340058",
-          "resumen": "La entidad financiera registró 17.348 operaciones durante octubre, frente a las 38.884 de septiembre. En lo que va de 2026, concretó más de 159.000 refinanciaciones por un total de $707.007 millones.",
+          "titulo": "Cuánto cuesta la pelota del Superclásico Boca vs River y dónde comprar la Argentum Gambeta Derbi",
+          "link": "https://www.ambito.com/economia/cuanto-cuesta-la-pelota-del-superclasico-boca-vs-river-y-donde-comprar-la-argentum-gambeta-derbi-n6339225",
+          "resumen": "Referencias históricas, acabado texturado y sellado térmico distinguen al balón reservado para algunos encuentros del torneo local.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "La frase de Milton Friedman, por qué los economistas están en cualquiera y por qué vuelve a ser importante 'la relevancia'",
-          "link": "https://www.clarin.com/economia/frase-milton-friedman-economistas-vuelve-importante-relevancia_0_vC6qKBNvko.html",
-          "resumen": "Economía de No Ficción . ¿Cuántas publicaciones o aportes de los economistas aportan soluciones concretas a un problema en específico? Relevancia vs \"todo lo demás\". El peligro de las recomendaciones sin tener en cuenta las restricciones…",
-          "fuente": "Clarín"
+          "titulo": "El Niño: anticipan focos de 200 milímetros en una región del país",
+          "link": "https://www.lanacion.com.ar/economia/campo/el-nino-anticipan-focos-de-200-milimetros-en-una-region-del-pais-nid01112026/",
+          "resumen": "La Bolsa de Cereales de Buenos Aires se refirió a dos semanas de inestabilidad en buena parte de la región pampeana; en el norte del país se esperan temperaturas superiores a los 40 grados y tormentas importantes en Corrientes",
+          "fuente": "La Nación"
         },
         {
-          "titulo": "Santos Vega: el mítico payador que enfrentó al diablo",
-          "link": "https://www.lanacion.com.ar/economia/campo/santos-vega-el-mitico-payador-admirado-por-escritores-y-gauchos-que-enfrento-al-diablo-nid31102026/",
-          "resumen": "Bartolomé Mitre y Rafael Obligado, entre otros, le dedicaron poemas al célebre cantor que todavía guarda misterios",
-          "fuente": "La Nación"
+          "titulo": "Salarios: cuánto cobrarán los empleados de la construcción en noviembre de 2026",
+          "link": "https://www.ambito.com/economia/cuanto-cobraran-los-empleados-la-construccion-noviembre-2026-n6338551",
+          "resumen": "Los trabajadores del sector recibirán una suba del 1,7% sobre los básicos de octubre. Cómo quedan los valores por categoría y qué establece la paritaria de UOCRA.",
+          "fuente": "Ámbito"
         }
       ]
     },
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Vandalismo en París: en la previa de las marchas de protesta, varias calles amanecieron con pintadas xenófobas y racistas",
-          "link": "https://www.clarin.com/mundo/violencia-paris-previa-marchas-protesta-varias-calles-amanecieron-pintadas-xenofobas-racistas_0_GTctDeUEzc.html",
-          "resumen": "El alcalde de la capital francesa condenó con la máxima firmeza los graffitis que aparecieron este sábado. Las elecciones generales son en abril, y la candidata presidencial que lidera los sondeos es la ultraderechista Marine Le Pen.",
+          "titulo": "A una semana de su llegada a la Argentina, el Papa clamó por la paz en Ucrania y pidió \"fomentar la voluntad de diálogo\"",
+          "link": "https://www.clarin.com/mundo/semana-llegada-argentina-papa-clamo-paz-ucrania-pidio-fomentar-voluntad-dialogo_0_NvVQexLw19.html",
+          "resumen": "En su habitual rezo dominical, León XIV destacó la tregua temporal entre Rusia y Ucrania para evacuar una ciudad asediada. Cerca de dos mil ucranianos habían quedado encerrados en Oleshki sin acceso a comida, agua ni medicamentos.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El video inédito del rescate de una de las víctimas del choque de trenes en España",
-          "link": "https://www.lanacion.com.ar/el-mundo/el-video-inedito-del-rescate-de-una-de-las-victimas-del-choque-de-trenes-en-espana-nid31102026/",
-          "resumen": "Las imágenes muestran a un hombre herido en medio de los escombros y la ayuda que recibe de otro de los pasajeros",
+          "titulo": "Saquean negocios en Frankfurt mientras las protestas en Alemania se vuelven violentas",
+          "link": "https://www.lanacion.com.ar/el-mundo/saquean-tiendas-en-francfort-mientras-las-protestas-en-alemania-se-vuelven-violentas-nid01112026/",
+          "resumen": "Hubo también daños a comercios y ataques contra las fuerzas de seguridad; las manifestaciones convocadas por el colectivo Gen Z regelt se realizaron en 34 ciudades",
           "fuente": "La Nación"
         },
         {
-          "titulo": "EE.UU.: un muerto y seis heridos en un tiroteo en la mayor cadena de ventas de artículos de Halloween",
-          "link": "https://www.clarin.com/mundo/eeuu-muerto-heridos-tiroteo-mayor-cadena-ventas-articulos-halloween_0_XH43LY2KvJ.html",
-          "resumen": "La balacera ocurrió en una reconocida tienda Spirit Halloween, ubicada al noreste de San Francisco. Tres de los heridos se encuentran en estado crítico.",
+          "titulo": "Flávio Bolsonaro y su huida de Brasil, EN VIVO: \"Puede quedarse el tiempo que quiera en Estados Unidos\", dijo Donald Trump",
+          "link": "https://www.clarin.com/mundo/flavio-bolsonaro-huida-brasil-vivo-puede-quedarse-tiempo-quiera-estados-unidos-dijo-donald-trump_0_NZVjVKXmmq.html",
+          "resumen": "El presidente de los EE.UU. sostuvo de todas formas que no tiene previsto reunirse con el senador brasileño, que escapó de su país tras perder el balotaje presidencial ante Lula, en medio de una fuerte presión de la Justicia.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Cómo un insulto desató un movimiento juvenil que desafía al poder en la India",
-          "link": "https://www.lanacion.com.ar/el-mundo/como-un-insulto-desato-un-movimiento-juvenil-que-desafia-al-poder-en-la-india-nid31102026/",
-          "resumen": "Con memes, sátira y protestas multitudinarias, la Generación Z se convirtió en un inesperado dolor de cabeza para Narendra Modi",
+          "titulo": "Disturbios en Francia: investigan como “tentativa de asesinato” el lanzamiento de una bomba molotov contra un policía",
+          "link": "https://www.lanacion.com.ar/el-mundo/disturbios-en-francia-investigan-como-tentativa-de-asesinato-el-lanzamiento-de-una-bomba-molotov-nid01112026/",
+          "resumen": "El tercer fin de semana de protestas terminó con más de 100 detenciones en la capital francesa; el oficial herido se encuentra fuera de peligro",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Sábado de alto riesgo en Francia: nuevas marchas de protesta en todo el país y miedo al vandalismo disfrazado de Halloween",
-          "link": "https://www.clarin.com/mundo/sabado-alto-riesgo-francia-nuevas-marchas-protesta-pais-miedo-vandalismo-disfrazado-halloween_0_YT8T12Jwul.html",
-          "resumen": "Las autoridades estiman que hoy podrían congregarse en París entre 100.000 y 150.000 manifestantes. Al menos 70.000 fuerzas de seguridad participan en el operativo y hay drones incluidos por primera vez.",
+          "titulo": "Elecciones legislativas en Estados Unidos: cómo puede impactar el resultado en la relación con Argentina",
+          "link": "https://www.clarin.com/mundo/elecciones-legislativas-estados-unidos-puede-impactar-resultado-relacion-argentina_0_dO136mjNTr.html",
+          "resumen": "La Casa Rosada mira con atención los comicios de medio término de este martes. Los posibles escenarios para los próximos dos años si el Partido Republicano pierde el control del Parlamento.",
           "fuente": "Clarín"
         }
       ]
@@ -112,34 +112,34 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "La agenda del súper sábado deportivo: Ferro a todo o nada, Fórmula 1 con Colapinto, Europa para todos los gustos y la Liga Profesional",
-          "link": "https://www.clarin.com/deportes/agenda-super-sabado-deportivo-ferro-formula-1-colapinto-europa-gustos-liga-profesional_0_HIBBc0AMm2.html",
-          "resumen": "La cartelera de actividades sirve como antesala del Superclásico agendado para el domingo. Las competencias del sábado se reparten entre transmisiones de canales de televisión y la plataforma Disney+.",
+          "titulo": "Cecilia Dieleke hizo historia en Dakar 2026: ganó el oro olímpico juvenil y quebró el récord sudamericano de los 200 metros espalda",
+          "link": "https://www.clarin.com/deportes/cecilia-dieleke-hizo-historia-dakar-2026-gano-oro-olimpico-juvenil-quebro-record-sudamericano-200-metros-espalda_0_6CTzN7Hwzk.html",
+          "resumen": "La nadadora de 17 años, una de las abanderadas de la delegación nacional, se impuso en la final con un tiempo de 2m10s05 y logró la primera medalla dorada argentina en Senegal. Superó por 31 centésimas la marca nacional y continental de…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Horarios de la F1 en el GP de México 2026",
-          "link": "https://www.lanacion.com.ar/deportes/automovilismo/horarios-de-la-f1-en-el-gp-de-mexico-2026-nid31102026/",
-          "resumen": "La 19° jornada se corre este fin de semana luego del Gran Premio de Estados Unidos, en el que Andrea Kimi Antonelli se quedó con la victoria",
+          "titulo": "Boca vs. River, en vivo: horario, TV y formaciones",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/boca-vs-river-en-vivo-nid01112026/",
+          "resumen": "El superclásico se disputa en la Bombonera, por la 15a fecha del torneo Clausura; televisan ESPN Premium y TNT Sports",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Jugó tres mundiales con Irán y ahora está haciendo el servicio militar a los 34 años",
-          "link": "https://www.ole.com.ar/futbol-internacional/alireza-beiranvand-servicio-militar-iran_0_P3ubpSgONH.html",
-          "resumen": "Alireza Beiranvand, arquero de la selección iraní, se encuentra realizando la milicia en su país. Conocé la historia.",
+          "titulo": "Wout Weghorst, el de \"andá pa'llá bobo\", clavó cuatro goles en la liga neerlandesa",
+          "link": "https://www.ole.com.ar/futbol-internacional/wout-weghorst-anda-palla-bobo-clavo-goles-liga-neerlandesa_0_QTJsebXmUi.html",
+          "resumen": "El delantero, famoso desde Qatar 2022 por aquel recordado cruce con Lionel Messi, fue la gran figura de la bestial victoria 9-0 de su Twente ante Excelsior.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Atlético de Madrid, con Julián Alvarez vs Levante, EN VIVO: minuto a minuto, en directo",
-          "link": "https://www.clarin.com/deportes/atletico-madrid-julian-alvarez-vs-levante-vivo-minuto-minuto-directo_0_OjwzHxPxMz.html",
-          "resumen": "El Colchonero, con Julián Alvarez recuperando su nivel, gana en su visita a la ciudad de Valencia con gol de Grimaldo.",
+          "titulo": "De extremo imparable a cerebro magistral: cómo Messi pasó de correr a caminar para reinventar su juego y dominar a los 39 años el fútbol mundial",
+          "link": "https://www.clarin.com/deportes/extremo-imparable-cerebro-magistral-messi-paso-correr-caminar-reinventar-juego-dominar-39-anos-futbol-mundial_0_lAn6s9ID0K.html",
+          "resumen": "El analista táctico español Pedro Sáez reconstruye en un video fabuloso la transformación del argentino a lo largo de más de dos décadas y explica cómo fue cambiando su posición en la cancha. De Rijkaard a Scaloni, pasando por Guardiola,…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Lisandro Martínez fue expulsado en la derrota de Manchester United ante Chelsea por la Premier League",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/lisandro-martinez-fue-expulsado-en-la-derrota-de-manchester-united-ante-chelsea-por-la-premier-nid31102026/",
-          "resumen": "El defensor vio la tarjeta roja a los 18 minutos de la segunda etapa en el 0-2 de su equipo, que está entre los últimos puestos y es muy cuestionado por la prensa y los hinchas",
-          "fuente": "La Nación"
+          "titulo": "¿Te lo imaginás en el fútbol argentino? En España los árbitros ya dan explicaciones en vivo de sus acciones",
+          "link": "https://www.ole.com.ar/futbol-internacional/espana/ricardodeburgos-atleticodemadrid-levante-var-laliga_0_MUTMajX4bj.html",
+          "resumen": "Este fin de semana se comenzó a implementar, de manera progresiva, la curiosa nueva regla de LaLiga. El primero en hablar fue el juez de Levante - Atlético de Madrid.",
+          "fuente": "Olé"
         }
       ]
     }
