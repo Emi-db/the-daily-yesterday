@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "1 de noviembre de 2026",
-    "generada": "16:29",
+    "fecha": "2 de noviembre de 2026",
+    "generada": "19:51",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "\"La pérdida de capacidad del Estado de bienestar en Europa es la clave para entender las protestas lideradas por los jóvenes\"",
-            "link": "https://www.bbc.com/mundo/articles/c3pwgp7jde1wo?at_medium=RSS&at_campaign=rss",
-            "resumen": "España, Italia, Francia, Albania, Portugal... Una oleada de protestas llena Europa. BBC Mundo entrevistó a la experta Yanina Welp para entender qué hay detrás de estos movimientos.",
+            "titulo": "\"Cerró la frontera, pero vivimos peor\": el descontento de los votantes latinos que le dieron a Trump un histórico apoyo en el sur de Texas",
+            "link": "https://www.bbc.com/mundo/articles/c6y9315lrelzo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Trump logró en 2024 un apoyo histórico en el Valle del Río Grande, una región fronteriza con México que no había elegido a un republicano para la Casa Blanca en más de tres décadas. Hoy las encuestas las encabezan los demócratas.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "La ONU ordena desmantelar la misión de la ONU en el Sáhara mientras se dispara el riesgo de escalada bélica",
-            "link": "https://elpais.com/internacional/2026-11-01/la-mision-de-la-onu-en-el-sahara-queda-en-el-limbo-mientras-se-dispara-el-riesgo-de-escalada-belica.html",
-            "resumen": "La Minurso se extingue tras el veto cruzado de EE UU y Rusia después de 35 años sin haber cumplido el encargo de organizar un referéndum de autodeterminación",
+            "titulo": "António Guterres: “Una competición entre EE UU y China para crear armas con IA podría tener consecuencias devastadoras”",
+            "link": "https://elpais.com/internacional/2026-11-01/antonio-guterres-una-competicion-entre-ee-uu-y-china-para-crear-armas-con-ia-podria-tener-consecuencias-devastadoras.html",
+            "resumen": "El veterano político portugués y secretario general de Naciones Unidas, a punto de dejar el cargo, afirma sobre su reemplazo que le alegraría que fuera una mujer. “Un mundo sin reglas sería un desastre”, alerta",
             "fuente": "El País"
           },
           {
-            "titulo": "Bulgaria celebra la segunda vuelta presidencial bajo la sombra de las tensiones en el mar Negro",
-            "link": "https://www.france24.com/es/europa/20261101-bulgaria-celebra-la-segunda-vuelta-presidencial-bajo-la-sombra-de-las-tensiones-en-el-mar-negro",
-            "resumen": "Los ciudadanos de Bulgaria votan este domingo 1 de noviembre en una segunda vuelta presidencial entre dos candidatos con posturas opuestas sobre la invasión rusa en Ucrania y las relaciones con Moscú, en un contexto de crecientes…",
+            "titulo": "\"Muchas gracias, Trump\": Los conservadores de Wyoming divididos antes de las elecciones",
+            "link": "https://www.france24.com/es/programas/reporteros/20261102-muchas-gracias-trump-los-conservadores-de-wyoming-divididos-antes-de-las-elecciones",
+            "resumen": "Bienvenidos a Wyoming, el estado estadounidense más favorable a Donald Trump. El republicano obtuvo casi el 70% de los votos allí durante sus tres campañas presidenciales. El \"Estado Vaquero\" es el menos poblado, el más rural y el más…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Por qué Trump se enfrenta al mismo problema económico que hundió a Biden",
-            "link": "https://www.bbc.com/mundo/articles/cm89z5zp0zkzo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Donald Trump llega a las elecciones de mitad de mandato en Estados Unidos con un problema similar al del expresidente demócrata.",
+            "titulo": "\"Es Gaza o nada\": cómo el apoyo a Israel se convirtió en un punto clave de la contienda electoral en EE.UU.",
+            "link": "https://www.bbc.com/mundo/articles/ckgelpgle3lno?at_medium=RSS&at_campaign=rss",
+            "resumen": "La preocupación por el apoyo estadounidense a Israel está motivando ahora a los votantes de ambos lados del debate, en una de las contiendas más reñidas de las elecciones de mitad de mandato en Estados Unidos.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "La oposición israelí se atasca tras su victoria electoral",
-            "link": "https://elpais.com/internacional/2026-11-01/la-oposicion-israeli-transforma-en-embrollo-su-victoria-sobre-netanyahu.html",
-            "resumen": "Las negociaciones para formar Gobierno marchan paralelas a las señales de preparativos de un nuevo ataque de Netanyahu y Trump a Irán",
+            "titulo": "Merz encarga a la ministra de Familia que dialogue con los estudiantes alemanes tras las protestas",
+            "link": "https://elpais.com/internacional/2026-11-02/merz-encarga-a-la-ministra-de-familia-que-dialogue-con-los-estudiantiles-alemanes-tras-las-protestas.html",
+            "resumen": "El canciller avisa que su Gobierno aplicará “tolerancia cero” para que no vuelvan a repetirse actos vandálicos en las manifestaciones juveniles",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "La banca cobra hasta 276 euros al año al cliente poco vinculado (y despistado)",
-            "link": "https://elpais.com/economia/2026-11-01/la-banca-cobra-hasta-276-euros-al-ano-al-cliente-poco-vinculado-y-despistado.html",
-            "resumen": "Las cuentas gratuitas sin condiciones ni comisiones quedan reservadas al canal ‘online’",
+            "titulo": "La UE afronta una negociación de vértigo para cerrar el relevo de Lagarde y el nuevo presupuesto comunitario en diciembre",
+            "link": "https://elpais.com/economia/2026-11-02/la-ue-afronta-una-negociacion-de-vertigo-para-cerrar-el-relevo-de-lagarde-y-el-nuevo-presupuesto-comunitario-en-diciembre.html",
+            "resumen": "Las grandes capitales velan armas ante una cumbre crítica en diciembre, destinada a reforzar los cimientos de la unión antes del superciclo electoral de 2027",
             "fuente": "El País"
           },
           {
-            "titulo": "Vivienda: Qué falla en el inmobiliario y cómo solucionarlo",
-            "link": "https://www.expansion.com/inmobiliario/2026/10/31/vivienda-falla-inmobiliario-solucionarlo.html",
-            "resumen": "El desfase entre la oferta y la demanda de vivienda en los últimos años se eleva hasta cerca de un millón de inmuebles, según algunos cálculos, lo que dispara los precios de compra y alquiler en el mercado inmobiliario. Leer",
+            "titulo": "El Ibex cierra a las puertas del 19.000 tras firmar su mejor sesión desde julio",
+            "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/11/02/ibex-estrena-mes-alivio-petroleo.html",
+            "resumen": "El selectivo, favorecido por la fuerte caída del crudo, destaca como el mejor índice europeo y se anota una subida del 1,63% gracias al empuje de los bancos y valores turísticos como Amadeus e IAG. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "De Cos, equilibrio y consenso para tiempos volcánicos",
-            "link": "https://elpais.com/economia/2026-11-01/de-cos-un-perfil-de-equilibrio-y-consenso-para-tiempos-volcanicos.html",
-            "resumen": "El candidato a la presidencia del BCE ha construido una credibilidad intachable a base de trabajo, discreción y una habilidad natural para granjearse aliados en el mundo económico",
+            "titulo": "La IA quiere el dinero de los inversores, pero no sus opiniones",
+            "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-02/la-ia-declara-la-guerra-al-capitalismo-popular.html",
+            "resumen": "SpaceX y Anthropic apuestan por estructuras de capital con acciones de voto múltiple, que limitan el papel de los inversores, mientras que colocan en el mercado grandes paquetes accionariales",
             "fuente": "El País"
           },
           {
-            "titulo": "Iberia, Air Europa, Ryanair, Volotea y Vueling refuerzan sus rutas con Andalucía tras Urda",
-            "link": "https://www.expansion.com/empresas/transporte/2026/10/30/iberia-air-europa-ryanair-volotea-vueling-refuerzan-rutas-andalucia-urda.html",
-            "resumen": "Las aerolíneas incrementan su capacidad ante el corte prolongado de la conexión ferroviaria de alta velocidad entre Madrid y Sevilla y Málaga. Leer",
+            "titulo": "El petróleo cae hasta un 8% por los avances en las negociaciones con Irán para acabar con la guerra",
+            "link": "https://www.expansion.com/mercados/materias-primas/2026/11/02/petroleo-cae-6-posible-acuerdo-iran-acabar-guerra.html",
+            "resumen": "El barril toca mínimos intradía por debajo de los 104 dólares después de que el ayatolá Jameneí haya dado luz verde al gobierno iraní para iniciar negociaciones que podrían poner fin al conflicto. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Crecimiento sin inversión privada: cómo la economía española mejora con menos recursos",
-            "link": "https://elpais.com/economia/2026-10-31/crecimiento-sin-inversion-privada-como-la-economia-espanola-mejora-con-menos-recursos.html",
-            "resumen": "Los datos del PIB español muestran fortaleza aunque la productividad genera dudas en un contexto de avance de la digitalización que los indicadores no terminan de capturar",
+            "titulo": "El último truco del mago de las finanzas Juan González",
+            "link": "https://elpais.com/economia/2026-11-02/el-ultimo-truco-del-mago-de-las-finanzas-juan-gonzalez.html",
+            "resumen": "El fundador de Herrero Brigantina promete a sus clientes multiplicar por tres sus fondos mientras está siendo investigado en la Audiencia Nacional por una estafa de 200 millones",
             "fuente": "El País"
           }
         ]
@@ -77,6 +77,18 @@ const EDICION_MUNDO = {
       {
         "nombre": "Ciencia y Tecnología",
         "notas": [
+          {
+            "titulo": "La insólita historia del toro ‘Aquiles’ y el burro ‘Patroclo’: sexo, caricias y una relación estable entre dos machos de dos especies",
+            "link": "https://elpais.com/ciencia/2026-11-02/la-insolita-historia-del-toro-aquiles-y-el-burro-patroclo-sexo-caricias-y-una-relacion-estable-entre-dos-machos-de-dos-especies.html",
+            "resumen": "Las relaciones homosexuales entre estos animales desconciertan a los científicos, que destacan la afectividad entre ambos: “Sus interacciones sexuales estaban estrechamente ligadas a un vínculo social selectivo”",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "“Hay que cambiar el producto, no a los niños”: la izquierda europea plantea otra forma de regular las redes",
+            "link": "https://elpais.com/tecnologia/2026-11-02/hay-que-cambiar-el-producto-no-a-los-ninos-la-izquierda-europea-plantea-otra-forma-de-regular-las-redes.html",
+            "resumen": "Laboratorios de ideas asociados a partidos de centroizquierda van más allá de prohibir las redes sociales a los menores y piden cambios drásticos a las tecnológicas",
+            "fuente": "El País"
+          },
           {
             "titulo": "37 millones de caballitos de mar al año: el comercio de vida silvestre es mucho mayor de lo que se creía",
             "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-30/37-millones-de-caballitos-de-mar-al-ano-el-comercio-de-vida-silvestre-es-mucho-mayor-de-lo-que-se-creia.html",
@@ -94,18 +106,6 @@ const EDICION_MUNDO = {
             "link": "https://elpais.com/ciencia/2026-10-30/desaparecida-en-el-accidente-de-trenes-marta-shahbazi-una-de-las-cientificas-espanolas-mas-brillantes.html",
             "resumen": "La investigadora, al mando de un laboratorio propio en Cambridge, iba a recoger un premio a la excelencia en un congreso en Huelva",
             "fuente": "El País"
-          },
-          {
-            "titulo": "Golpe milmillonario a Binance: así han perpetrado los hackers norcoreanos el mayor robo cibernético de la historia",
-            "link": "https://elpais.com/tecnologia/2026-10-30/golpe-mil-millonario-a-binance-asi-han-perpetrado-los-hackers-norcoreanos-el-mayor-golpe-cibernetico-de-la-historia.html",
-            "resumen": "La sustracción de criptomonedas por valor de 6.300 millones de dólares corona al grupo Lazarus como referencia internacional del cibercrimen y el ciberespionaje, donde despliega la tecnología más puntera",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "La ‘proteína de Borges’ muestra cómo aliviar las pérdidas de memoria con la edad",
-            "link": "https://elpais.com/ciencia/2026-10-30/la-proteina-de-borges-muestra-como-aliviar-las-perdidas-de-memoria-con-la-edad.html",
-            "resumen": "Un monumental estudio con millones de moscas demuestra que el mismo tipo de proteínas asociadas a las enfermedades neurodegenerativas interviene en la formación de recuerdos, y apunta a cómo protegerlos a edades avanzadas",
-            "fuente": "El País"
           }
         ]
       },
@@ -113,32 +113,32 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "La gran final del Mundial Sub-15, en directo",
-            "link": "https://www.marca.com/futbol/seleccion/2026/10/30/6ae49b2a020dbf8b21b1dec8-directo.html",
-            "resumen": "Sigue en vivo y en directo el España - República Checa, final del Mundial Sub-15 en Bakú",
-            "fuente": "Marca"
-          },
-          {
-            "titulo": "Golazo de Diomandé",
-            "link": "https://www.mundodeportivo.com/futbol/real-madrid/20261101/1004244043/racing-santander-real-madrid-directo-laliga-ea-sports-ext-pau.html",
-            "resumen": "",
-            "fuente": "Mundo Deportivo"
-          },
-          {
             "titulo": "Hansi Flick: \"Siempre buscaremos lo mejor para el equipo\"",
             "link": "https://www.marca.com/futbol/barcelona/2026/10/30/hansi-flick-siempre-buscaremos-mejor-equip-video.html",
             "resumen": "",
             "fuente": "Marca"
           },
           {
-            "titulo": "¡El Madrid se adelanta con un penalti de risa!",
-            "link": "https://www.mundodeportivo.com/futbol/real-madrid/20261101/1004245840/madrid-adelanta-penalti-risa.html",
-            "resumen": "Polémica arbitral y de las importantes en El Sardinero después de que el Real Madrid se haya adelantado en el marcador merced a un penalti de chiste cometido sobre Kylian Mbappé y transformado por el propio delantero francés.",
+            "titulo": "Conmoción en el Tenerife-Andorra: Jesús de Miguel, estable tras sufrir una parada cardiorespiratoria",
+            "link": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261102/1004246292/suspendido-tenerife-andorra-caer-desplomado-miguel-choque-brutal-owono.html",
+            "resumen": "El Tenerife-FC Andorra , aplazado al lunes por las previsiones meteorológicas, terminó de la peor manera posible. Cuando los tricolores habían conseguido igualar un 2-0 adverso y buscaban culminar la remontada, un desafortunado choque…",
             "fuente": "Mundo Deportivo"
           },
           {
             "titulo": "¡Momento histórico! Hijo de Santi Cazorla debuta con el Real Oviedo en Copa del Rey",
             "link": "https://www.marca.com/futbol/copa-rey/2026/10/30/momento-historico-hijo-santi-cazorla-debuta-real-oviedo-copa-rey-video.html",
+            "resumen": "",
+            "fuente": "Marca"
+          },
+          {
+            "titulo": "Esto dice el acta del Tenerife - Andorra",
+            "link": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261102/1004246343/esto-dice-acta-tenerife-andorra.html",
+            "resumen": "Ya hay acta arbitral del Tenerife - Andorra que fue suspendido tras el golpe del porteo del Andorra Owono y Jesús de Miguel del Tenerife que cayó desplomado provocando momentos críticos en el estadio tinerfeño, siendo evacuado al hospital…",
+            "fuente": "Mundo Deportivo"
+          },
+          {
+            "titulo": "¡Ladrando al campo equivocado! Un perro irrumpe en un partido de la Premier League egipcia.",
+            "link": "https://www.marca.com/futbol/2026/10/30/ladrando-campo-equivocado-perro-irrumpe-partido-premier-league-egipcia-video.html",
             "resumen": "",
             "fuente": "Marca"
           }
@@ -147,16 +147,16 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "November 1, 2026",
-    "generada": "16:29",
+    "fecha": "November 2, 2026",
+    "generada": "19:51",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Shops looted as German cost-of-living protests turn violent",
-            "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+            "titulo": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+            "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
             "fuente": "BBC"
           },
           {
@@ -166,15 +166,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "India’s Congress Party Holds Mass Protest in New Delhi",
-            "link": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
-            "resumen": "Tens of thousands gathered in India’s capital in a clamor of banging drums, chants and billowing flags, with participants from across the country.",
+            "titulo": "Russia Senses Opportunity in Polish Political Turmoil",
+            "link": "https://www.nytimes.com/2026/11/02/world/europe/russia-polish-political-turmoil.html",
+            "resumen": "After its sometime allies were ousted in elections in Hungary and Serbia, Moscow has seized on Poland’s constitutional standoff in its effort to weaken Europe’s support for Ukraine.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-            "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+            "titulo": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+            "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
+            "resumen": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
             "fuente": "BBC"
           },
           {
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
-            "link": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
+            "titulo": "Ryanair says it may freeze workers' pay and raise airfares",
+            "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Affordability top of mind for voters in final sprint to midterms: ‘I have to pick between medicine or groceries’",
-            "link": "https://www.theguardian.com/us-news/2026/nov/01/affordability-voters-final-sprint-midterms",
-            "resumen": "Cost of living has loomed over this election cycle as workers and unions champion candidates fighting for higher wages and tackling rising prices For millions of Americans heading to the polls on Tuesday, affordability is a constant and…",
+            "titulo": "Oil price falls amid hope of a breakthrough to end Iran war",
+            "link": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
+            "resumen": "Brent crude drops by more than 6% to $105.55 a barrel, the lowest level in more than two weeks The oil price has fallen to its lowest level in more two weeks amid new hopes of a breakthrough to end the Iran war. Brent crude, the…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "How a Little-Known Company Dominated the Persian Gulf Oil Trade",
-            "link": "https://www.nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html",
-            "resumen": "South Korea’s Sinokor controls about half the tanker transits through the Strait of Hormuz, benefiting from a big bet just before the war in Iran started.",
+            "titulo": "Trump’s Tariffs Are On the Ballot in Michigan",
+            "link": "https://www.nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html",
+            "resumen": "The levies as well as trade fighting with Canada are facing a test in the state, where voters appear skeptical of free trade but also of the president’s erratic approach.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-            "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+            "titulo": "Shop freezers in seven European countries hit by cyber-attack",
+            "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
             "fuente": "BBC"
           },
           {
-            "titulo": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
-            "link": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
-            "resumen": "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilities Donald Trump ’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to time when…",
+            "titulo": "Texas voters on high gas prices under Trump: ‘Probably made me go more Democrat’",
+            "link": "https://www.theguardian.com/us-news/2026/nov/02/texas-voters-trump-fuel-prices",
+            "resumen": "In state where driving is part of life, president’s pledge to lower prices at the pumps cuts little ice Behind the granite countertops of Fuel City, a gas station in Dallas where taxidermy deer flank the entrance and hot tacos are served…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
+            "titulo": "'Fascinating' rare beetle found in Wales again after 60 years",
+            "link": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+            "resumen": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash",
+            "link": "https://www.theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash",
+            "resumen": "Dr Marta Shahbazi was travelling to a conference to receive award for scientific excellence in developmental biology An “inspiring” Cambridge scientist died in the Spanish train collision on Wednesday that killed at least 69 people. Dr…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "Do Animals Grieve?",
+            "link": "https://www.nytimes.com/2026/11/02/science/animals-grief-death.html",
+            "resumen": "The feeling of existential loss was long thought to be uniquely human. But studies of coyotes, cockatoos and other creatures are prompting some scientists to reconsider.",
+            "fuente": "N.Y. Times"
+          },
+          {
             "titulo": "Spill from vandalised home oil tank kills 13 birds",
             "link": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss",
             "resumen": "A number of birds are also injured after the spill from the oil tank earlier this week.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Perfume bottle and child’s necklace among treasures found in Pompeii wardrobe",
-            "link": "https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe",
-            "resumen": "Archaeologists uncover jewellery, cosmetics and coins in cabinet sealed since eruption of Mount Vesuvius in AD79 Fragments of personal objects, from makeup tools and a perfume bottle to coins and a child’s necklace, have been found tucked…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "A Meteorite Found in the Sahara Is a 4.1-Billion-Year-Old Piece of Mars",
-            "link": "https://www.nytimes.com/2026/10/30/science/space/mars-meteorite-teghaza.html",
-            "resumen": "Minerals in the space rock provide hints about the early history of the red planet, when water was flowing on the surface.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "'Fascinating' rare beetle found in Wales again after 60 years",
-            "link": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
-            "resumen": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "The Guardian view on 50 years of The Selfish Gene: flawed, outdated, yet still a model of truly popular science writing | Editorial",
-            "link": "https://www.theguardian.com/commentisfree/2026/oct/30/the-guardian-view-on-50-years-of-the-selfish-gene-flawed-outdated-yet-still-a-model-of-truly-popular-science-writing",
-            "resumen": "Richard Dawkins’ first work has thrilled fans and frustrated critics for five decades. The science has moved on, but any writer looking to supplant its place must learn its lessons Richard Dawkins’ The Selfish Gene was not predicted to be…",
+            "titulo": "Starwatch: Catch the striking trifecta of Venus, the moon and Spica at break of dawn",
+            "link": "https://www.theguardian.com/science/2026/nov/02/starwatch-catch-the-striking-trifecta-of-venus-the-moon-and-spica-at-break-of-dawn",
+            "resumen": "The brilliant planet is about to join the waning crescent moon and the brightest star in the Virgo constellation Early risers have a beautiful sight to look forward to this week as brilliant Venus joins the waning crescent moon and the…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Referee accidentally fractures college football player's leg",
-            "link": "https://www.bbc.co.uk/sport/american-football/articles/ck30ey1ezmyqo?at_medium=RSS&at_campaign=rss",
-            "resumen": "A referee accidentally fractures a college football player's leg during a bizarre incident in the first half of East Carolina Pirates' win against Temple Owls.",
+            "titulo": "Carrick says it's 'crazy' but he's looking forward to Roma game",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do?at_medium=RSS&at_campaign=rss",
+            "resumen": "Under-pressure Michael Carrick says it might be \"crazy\" but he is looking forward to Manchester United's Champions League match against Roma at Old Trafford.",
             "fuente": "BBC"
           },
           {
-            "titulo": "‘We have effing unbreakable love’: how the maverick Natalie Nakase led the Valkyries to WNBA glory",
-            "link": "https://www.theguardian.com/sport/2026/nov/01/natalie-nakase-golden-state-valkyries-wnba-championship-culture",
-            "resumen": "A coach shaped by her circuitous basketball journey was uniquely suited to building the trust that made Golden State champions just 534 days after their first game The mighty , miserly Golden State Valkyries won their first WNBA title on…",
+            "titulo": "Newcastle United v Everton: Premier League – live",
+            "link": "https://www.theguardian.com/football/live/2026/nov/02/newcastle-united-v-everton-premier-league-live",
+            "resumen": "Premier League updates from the 8pm GMT kick-off Live scores | Read today’s Football Daily | Email Daniel Jaissle tells Sky Elanga is improving physically and deserves to start today; he wants him and Osula to show their potential, and…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "How Dart revived career with help of Wimbledon champion",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/cmrlyw2y0gxzo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Britain's Harriet Dart knows people doubted whether she would ever win a WTA title, but says the belief of her coach Marion Bartoli helped achieve the best week of her career.",
+            "titulo": "To dive or not to dive? Football's big dilemma",
+            "link": "https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Liverpool feel Alexander Isak should have been awarded a penalty against Arsenal but with the striker not appealing for the decision and the VAR staying out of it, should he have made more of it?",
             "fuente": "BBC"
           },
           {
-            "titulo": "Liverpool v Arsenal: Premier League – live",
-            "link": "https://www.theguardian.com/football/live/2026/nov/01/liverpool-v-arsenal-premier-league-live",
-            "resumen": "Updates from the match at Anfield (4.30pm GMT) Table | Top scorers | Email Daniel here So where is the game? Liverpool will look to get men around the ball when Arsenal have it, opening the pitch for switches should they win possession.…",
+            "titulo": "Zero passing yards, one win. Did the Bucs just reinvent the NFL in all the wrong ways?",
+            "link": "https://www.theguardian.com/sport/2026/nov/02/tampa-bay-buccaneers-zero-passing-yards-nfl-atlanta-falcons",
+            "resumen": "In a downpour against the Atlanta Falcons, Tampa Bay decided throwing was for losers. They were proved right I don’t think I’m being cheeky when I say that passing is the most exciting part of football. A solid hit is nice, and a big run…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Defeat for London City against Man City - but is Europe a real possibility?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o?at_medium=RSS&at_campaign=rss",
-            "resumen": "London City Lionesses suffer defeat by Manchester City but their performance suggests they are closer to Champions League qualification than expected.",
+            "titulo": "England call up Spencer and Randall as injuries hit",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cvp8gxldn304o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Ben Spencer and Harry Randall are named in England's squad for this month's Nations Championship after injury hits Alex Mitchell and Archie McParland.",
             "fuente": "BBC"
           }
         ]
