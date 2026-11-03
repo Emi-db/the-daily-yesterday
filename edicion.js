@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "2 de noviembre de 2026",
-  "generada": "19:51",
+  "fecha": "3 de noviembre de 2026",
+  "generada": "17:24",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Juicio por Hotesur-Los Sauces: revelaron cómo los Kirchner \"extrajeron más de $ 10 millones del dinero lavado\"",
-          "link": "https://www.clarin.com/politica/juicio-hotesur-los-sauces-revelaron-kirchner-extrajeron-10-millones-dinero-lavado_0_W2FAfE78Ix.html",
-          "resumen": "En la tercera audiencia del proceso oral, la fiscalía detalló la maniobra mediante la cual se simularon préstamos a la sociedad inmobiliaria de los Kirchner para justificar la salida de fondos. Según la acusación, los montos originados en…",
+          "titulo": "Llaryora se plantó ante el Gobierno por el cierre de pymes y cuestionó que Caputo anunció la baja del impuesto a los sellos sin consultar a los gobernadores",
+          "link": "https://www.clarin.com/economia/llaryora-planto-gobierno-cierre-pymes-cuestiono-caputo-anuncio-baja-impuesto-sellos-consultar-gobernadores_0_bfJxYL4jct.html",
+          "resumen": "\"Hagamos una reforma en serio\", reclamó el gobernador cordobés en el evento de la UIA en el que minutos antes expuso el ministro de Economía. \"Puedo hacer mías la palabras de él\", se sumó a las críticas el gobernador santafesino…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Massa se mostró con el ideólogo del “ejército de Lula” y proyecta el armado de un frente nacional anti Milei",
-          "link": "https://www.lanacion.com.ar/politica/massa-se-mostro-con-el-armador-del-ejercito-de-lula-y-proyecta-el-armado-de-un-frente-anti-milei-nid02112026/",
-          "resumen": "El referente peronista busca “aprender” de la experiencia del PT para aplicarla en la carrera electoral argentina en 2027; los invitados opositores a la reasunción del presidente de Brasil",
+          "titulo": "Javier Milei y sus medidas, en vivo: “No defendemos a Israel por un capricho personal”, dijo el Presidente",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-no-defendemos-a-israel-por-un-capricho-personal-dijo-el-nid03112026/",
+          "resumen": "El minuto a minuto de las decisiones del jefe de Estado, reacciones de la oposición y declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Una pieza metálica provocó el descarrilamiento del tren en Río Turbio: investigan cómo llegó a las vías",
-          "link": "https://www.infobae.com/politica/2026/11/02/una-pieza-metalica-provoco-el-descarrilamiento-del-tren-en-rio-turbio-investigan-como-llego-a-las-vias/",
-          "resumen": "El resultado de las pericias determinó que el objeto sería parte de una locomotora antigua y las marcas halladas resultan “compatibles con el inicio” del accidente. La causa analiza si hubo un sabotaje a la formación de YCRT que…",
+          "titulo": "Patricia Bullrich celebró el anuncio de Caputo para las pequeñas empresas y se atribuyó la idea",
+          "link": "https://www.infobae.com/politica/2026/11/03/patricia-bullrich-celebro-el-anuncio-de-caputo-para-las-pequenas-empresas-y-se-atribuyo-la-idea/",
+          "resumen": "La legisladora aseguró que venía proponiendo herramientas frente a las dificultades financieras de firmas que, según dijo, enfrentan procesos de embargo que comprometen su continuidad",
           "fuente": "Infobae"
         },
         {
-          "titulo": "AMIA: la Cámara Federal revisará los procesamientos de los iraníes y libaneses acusados del atentado",
-          "link": "https://www.clarin.com/politica/amia-camara-federal-revisara-procesamientos-iranies-libaneses-acusados-atentado_0_gq1mDArFJg.html",
-          "resumen": "El tribunal convocó a una audiencia para el próximo 24 de noviembre. Si ratifica los procesamientos se podrá avanzar con el juicio oral en ausencia.",
+          "titulo": "La SIDE salió a buscar espías: lanzó una convocatoria pública y aparecieron afiches en facultades de la UBA",
+          "link": "https://www.clarin.com/politica/side-salio-buscar-nuevos-talentos-lanzo-convocatoria-publica-aparecieron-afiches-facultades-uba_0_19y8gWTQGt.html",
+          "resumen": "El concurso público, al que podrán inscribirse hasta el 30 de noviembre, fue oficializado por el secretario de Inteligencia de Estado, Cristian Auguadra. Está abierto a ciudadanos argentinos que tengan secundario completo.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Denuncian a cinco jueces ante el Consejo de la Magistratura por integrar tribunales de la AFA",
-          "link": "https://www.lanacion.com.ar/politica/denuncian-a-cinco-jueces-ante-el-consejo-de-la-magistratura-por-integrar-tribunales-de-la-afa-nid02112026/",
-          "resumen": "Lo hizo la Asociación Civil por la Igualdad y la Justicia; ya habían renunciado otros cinco magistrados por sugerencia de la Corte Suprema",
+          "titulo": "La Iglesia y la oposición presionan para salvar la ley que prohíbe la publicidad de apuestas online",
+          "link": "https://www.lanacion.com.ar/politica/la-iglesia-y-la-oposicion-presionan-para-salvar-la-ley-que-prohibe-la-publicidad-de-apuestas-online-nid03112026/",
+          "resumen": "El Episcopado lanzó una campaña y un grupo de diputados pidió reactivar su tratamiento; la media sanción lleva casi dos años frenada en el Senado y está cerca de ser archivada",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "La nafta y el gasoil en Argentina subió en dólares por encima del promedio de América Latina",
-          "link": "https://www.clarin.com/energia-y-mineria/nafta-gasoil-argentina-subio-dolares-encima-promedio-america-latina_0_FJSEYbaTj9.html",
-          "resumen": "Entre febrero y septiembre, las naftas aumentaron 16% en dólares en Argentina, frente al 9% del promedio regional. Otros países aplicaron una mayor intervención para contener las subas. YPF ganó participación en el mercado local.",
+          "titulo": "Yerba mate: se recupera el mercado interno y las exportaciones van camino a un nuevo récord",
+          "link": "https://www.clarin.com/rural/yerba-mate-recupera-mercado-interno-exportaciones-van-camino-nuevo-record_0_7gAf5BEeLT.html",
+          "resumen": "Según los datos estadísticos del Instituto Nacional de la Yerba Mate (INYM), en los primeros nueve meses del año las ventas se incrementaron un 2,07 por ciento.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Los bancos ya no serán como eran: cómo está cambiando el negocio de manejar la plata",
-          "link": "https://www.lanacion.com.ar/economia/negocios/los-bancos-ya-no-seran-como-eran-como-esta-cambiando-el-negocio-de-manejar-la-plata-nid02112026/",
-          "resumen": "Las empresas avanzan sobre nuevos negocios y buscan licencias para ampliar sus operaciones; los reguladores trabajan en una agenda que incluye crédito, finanzas abiertas y criptoactivos",
+          "titulo": "Antes de la visita del Papa, empresarios cristianos pidieron construir una “Argentina fraterna”",
+          "link": "https://www.lanacion.com.ar/economia/antes-de-la-visita-del-papa-empresarios-cristianos-pidieron-construir-una-argentina-fraterna-nid03112026/",
+          "resumen": "La ACDE llamó a que el evento se transforme en en “compromisos cotidianos”; reclamó acompañar a quienes están en la pobreza y advirtió sobre las consecuencias de “la descalificación y el agravio”",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La inflación se consolidó por debajo del 2% en octubre, aunque advierten presiones por el lado de la vivienda",
-          "link": "https://www.ambito.com/economia/la-inflacion-se-consolido-debajo-del-2-octubre-aunque-advierten-presiones-el-lado-la-vivienda-n6340511",
-          "resumen": "Las consultoras estimaron una inflación de octubre similar al nivel de septiembre, presionada por estacionales y transporte, mientras la núcleo cedió. Aseguran que la tregua en tarifas influyó en el número.",
+          "titulo": "Las expectativas también se ajustan: el salario pretendido aumentó 2,2% en el tercer trimestre, por debajo de la inflación",
+          "link": "https://www.ambito.com/economia/las-expectativas-tambien-se-ajustan-el-salario-pretendido-aumento-22-el-tercer-trimestre-debajo-la-inflacion-n6340983",
+          "resumen": "El incremento acumulado del salario requerido en el tercer trimestre se encuentra 4,82 puntos porcentuales debajo del acumulado en el mismo periodo del 2025, que fue de 7%, con una inflación acumulada de 6%.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Una empresa polaca busca minerales fuera de China y suma interés el cobre de San Juan",
-          "link": "https://www.clarin.com/energia-y-mineria/empresa-polaca-busca-minerales-china-suma-interes-cobre-san-juan_0_X0Z5WlEgaN.html",
-          "resumen": "KGHM, con el Estado polaco como principal accionista, busca proyectos de cobre y tiene sus gestiones más avanzadas en San Juan. Una delegación de Los Azules ya visitó una de sus minas en Estados Unidos para conocer sus procesos productivos.",
+          "titulo": "El segundo de Sturzenegger defendió la motosierra: \"Cuando un organismo se resiste al cambio, hay que modificar su estructura o eliminarlo por completo\"",
+          "link": "https://www.clarin.com/economia/segundo-sturzenegger-defendio-motosierra-organismo-resiste-cambio-modificar-estructura-eliminarlo-completo_0_pF2dIEPwNP.html",
+          "resumen": "El funcionario destacó que, desde la llegada de Milei a la Casa Rosada, la planta de empleados públicos del Estado nacional se redujo un 20%, Habló de la necesidad de moverse \"más rápido\" que los lobbies.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El exchange cripto Mercado Bitcoin confirma el hackeo y robo de al menos US$46 millones en Brasil",
-          "link": "https://www.lanacion.com.ar/tecnologia/el-exchange-cripto-mercado-bitcoin-confirma-el-hackeo-y-robo-de-al-menos-us46-millones-en-brasil-nid02112026/",
-          "resumen": "El atraco se hizo durante la madrugada del lunes; la plataforma suspendió sus operaciones hasta nuevo aviso mientras analiza cómo fue la operación",
+          "titulo": "El dólar alcanza un nuevo valor más alto del año, mientras el riesgo país se mantiene en máximos desde las elecciones de 2025",
+          "link": "https://www.lanacion.com.ar/economia/el-riesgo-pais-se-mantiene-e-los-niveles-de-tension-previos-a-las-elecciones-de-2025-nid03112026/",
+          "resumen": "Aunque el contexto internacional presiona a los mercados, el componente local explica la mayor parte del riesgo argentino; el tipo de cambio minorista sube por segundo día consecutivo, mientras que los bonos y las acciones operan en…",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "El misterio detrás de los ciberataques contra supermercados que elevan 50 grados la temperatura de las heladera",
-          "link": "https://www.clarin.com/mundo/misterio-detras-ciberataques-supermercados-elevan-50-grados-temperatura-heladera_0_fLuI9jy8U7.html",
-          "resumen": "Los ciberdelincuentes manipularon de forma remota los sistemas centralizados que supervisan las cámaras frigoríficas industriales en varias naciones europeas. Las intromisiones remotas provocaron la pérdida masiva de alimentos perecederos…",
+          "titulo": "Tensión en las escuelas de Francia: 51 liceos bloqueados antes de una huelga general por el costo de vida",
+          "link": "https://www.clarin.com/mundo/tension-escuelas-francia-51-liceos-bloqueados-huelga-general-costo-vida_0_bOtzx4e14N.html",
+          "resumen": "Tras dos semanas de vacaciones escolares, los alumnos retomaron los bloqueos con vallas y tachos de basura para reclamar mayor presupuesto público. El jueves se sumarán a un paro general indefinido.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Tras sus cruces con Milei, Pedro Sánchez advirtió que España “no se gobierna desde Buenos Aires”",
-          "link": "https://www.lanacion.com.ar/el-mundo/tras-sus-cruces-con-milei-pedro-sanchez-advirtio-que-espana-no-se-gobierna-desde-buenos-aires-nid02112026/",
-          "resumen": "El presidente del gobierno español reavivó el conflicto con el primer mandatario argentino y llamó a estar “más unidos”; el libertario lo había tratado de “delincuente ladrón” durante su visita en Madrid",
+          "titulo": "Un analista internacional anticipó qué podría pasar con las elecciones en Estados Unidos si pierde Donald Trump: “Todo lo que no le guste lo va a vetar”",
+          "link": "https://www.lanacion.com.ar/el-mundo/un-analista-internacional-anticipo-que-podria-pasar-con-las-elecciones-en-estados-unidos-si-pierde-nid03112026/",
+          "resumen": "En comunicación con LN+, Andrés Repetto analizó los comicios de medio término, que definirán el control del Congreso norteamericano para los dos años que le restan al mandatario estadounidense",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Una joven de 20 años piloteaba el avión que se estrelló en Florida",
-          "link": "https://www.clarin.com/mundo/joven-20-anos-piloteaba-avion-estrello-florida_0_HXVc5uAyF5.html",
-          "resumen": "Nathalia Filgueiras, hija de brasileros, obtuvo su licencia de piloto a los 17 años. Había acumulado más de 1.300 horas de vuelo y era la copiloto el domingo, según declaró su madre en una entrevista.",
+          "titulo": "En el día de las elecciones, Trump dijo que acordó con Netanyahu disminuir US$4.000 millones de ayuda a Israel",
+          "link": "https://www.clarin.com/mundo/dia-elecciones-trump-dijo-acordo-netanyahu-disminuir-us4000-millones-ayuda-israel_0_bBfX80Cz16.html",
+          "resumen": "El presidente estadounidense dijo que el flujo de dinero se cortaría a fin de año. La asistencia a Israel y la guerra en Oriente Medio han sido un tema controversial para los comicios, donde los republicanos marchan rezagados en los…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Un baile fuera del protocolo, un diluvio sin paraguas y reclamos por el pasado esclavista: la intensa gira de Carlos de III por el Caribe",
-          "link": "https://www.lanacion.com.ar/el-mundo/un-baile-fuera-del-protocolo-un-diluvio-sin-paraguas-y-reclamos-por-el-pasado-esclavista-la-intensa-nid02112026/",
-          "resumen": "El primer ministro Andy Burnham se mostró dispuesto a escuchar los reclamos de los países caribeños en vísperas de la cumbre de la Commonwealth",
+          "titulo": "El deseo de Reid Wiseman, comandante de Artemis II, para nuevas misiones: “Estoy ansioso por ver a mis amigos continuar este legado”",
+          "link": "https://www.lanacion.com.ar/el-mundo/el-deseo-de-reid-wiseman-comandante-de-artemis-ii-para-nuevas-misiones-estoy-ansioso-por-ver-a-mis-nid01112026/",
+          "resumen": "Tras su regreso a la Tierra, Donald Trump le entregó a cada tripulante una medalla Medalla de Honor Espacial del Congreso, durante una ceremonia en el Centro Espacial Jonhson de Houston",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Primera aparición pública de Flávio Bolsonaro en Estados Unidos: el senador fue a una misa evangélica con su hermano Eduardo",
-          "link": "https://www.clarin.com/mundo/primera-aparicion-publica-flavio-bolsonaro-estados-unidos-senador-misa-evangelica-hermano-eduardo_0_9NSd6vB5Uj.html",
-          "resumen": "El líder del Partido Liberal de Brasil fue visto junto a su familia en un templo evangélico en Florida. Es su primera aparición pública luego de su huida de Brasil, tras perder las elecciones presidenciales.",
+          "titulo": "Elecciones en Estados Unidos: a qué hora se sabrán los resultados y a qué hay que prestar atención",
+          "link": "https://www.clarin.com/mundo/elecciones-estados-unidos-hora-sabran-resultados-prestar-atencion_0_lJ2NFBIxBR.html",
+          "resumen": "Los centros de votación cerrarán paulatinamente entre las 20 del martes y las 3 de la madrugada del miércoles, según la hora en Argentina. El tiempo para definir a los ganadores variará según la rapidez del escrutinio estatal y lo reñida…",
           "fuente": "Clarín"
         }
       ]
@@ -112,34 +112,34 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Por qué a Chiqui Tapia le conviene un Boca campeón: los motivos detrás de una relación estratégica",
-          "link": "https://www.clarin.com/deportes/chiqui-tapia-conviene-boca-campeon-motivos-detras-relacion-estrategica_0_gHCRusPwKB.html",
-          "resumen": "El presidente de la AFA nunca ocultó su fanatismo por Boca, pero hoy tiene razones políticas para desear el éxito de Riquelme. La disputa con River, las elecciones de 2027 y los polémicos arbitrajes que alimentan las sospechas sobre el…",
+          "titulo": "Cecilia Dieleke sumó otra medalla en Dakar 2026 y ya es la máxima ganadora argentina: consiguió el bronce en los 100 metros espalda",
+          "link": "https://www.clarin.com/deportes/cecilia-dieleke-sumo-medalla-dakar-2026-maxima-ganadora-argentina-consiguio-bronce-100-metros-espalda_0_pBXnuf5cJY.html",
+          "resumen": "La nadadora bonaerense de 17 años llegó a su segunda presea en los Juegos Olímpicos de la Juventud. El domingo había ganado el oro en los 200 metros espalda con récord argentino y sudamericano. Todavía tiene dos pruebas por disputar y…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Por dónde pasan Defensa y Justicia vs. Independiente y qué canal lo transmite en vivo",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-defensa-y-justicia-vs-independiente-y-que-canal-lo-transmite-en-vivo-nid02112026/",
-          "resumen": "El Halcón de Varela, uno de los mejores equipos del semestre, recibe al Rojo, que mantiene su ritmo de altibajos y necesita sumar",
+          "titulo": "Lista de convocados de la selección argentina para los amistosos ante Uruguay y Costa Rica",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/lista-de-convocados-de-la-seleccion-argentina-para-los-amistosos-ante-uruguay-y-costa-rica-nid03112026/",
+          "resumen": "En la nueva era sin Lionel Messi en el plantel, el DT Lionel Scaloni dejó afuera a Rodrigo De Paul y Giovani Lo Celso, y sorprendió con la inclusión de posibles debutantes",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Unai Simón reveló qué le dijo el Dibu Martínez tras la final del Mundial 2026: del \"canchero\" al \"me sorprendió para bien\"",
-          "link": "https://www.ole.com.ar/mundial/unai-simon-mundial-2026-dibu-martinez-palabras-final-mundial-lev-yashin-canhcero-sorprendio-bien_0_lG1iwNq7ml.html",
-          "resumen": "Luego de ganar el Trofeo Lev Yashin al mejor arquero del año en la gala del Balón de Oro, el español elogió al argentino como jugador y persona.",
+          "titulo": "Tomy Aranda y un final imprevisto para su increíble 2026: cuál es la chance de que vuelva contra Defensa",
+          "link": "https://www.ole.com.ar/boca-juniors/tomasaranda-boca-defensayjusticia-vascoarruabarrena-seleccionargentina-lionelscaloni-copaargentina-labombonera_0_A2bO32aue0.html",
+          "resumen": "El pibe se sumó al grupo superando la rotura de peroné que sufrió dos meses atrás. De la Reserva a la 10 de Boca y una vuelta milagrosa en menos de un año entero.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Los Pumas 7's le dieron la tercera medalla a la Argentina en Dakar 2026: se le escapó la semifinal pero ganaron el bronce contra Canadá",
-          "link": "https://www.clarin.com/deportes/pumas-7s-dieron-tercera-medalla-argentina-dakar-2026-escapo-semifinal-ganaron-bronce-canada_0_9pXGwsghhW.html",
-          "resumen": "Después de la dorada de la nadadora Cecilia Dieleke y el bronce del judo con Thiago Carvallo, la delegación albiceleste sumó otra presea. El rugby había sido plateada en Nanjing 2014 y campeón en Buenos Aires 2018.",
+          "titulo": "Lionel Scaloni presentó la primera lista de la Selección sin Messi: las sorpresas y las ausencias",
+          "link": "https://www.clarin.com/deportes/lionel-scaloni-presento-primera-lista-seleccion-messi-sorpresas-ausencias_0_KoFdT0spbF.html",
+          "resumen": "Lionel Scaloni convocó a 28 futbolistas para los amistosos ante Uruguay y Costa Rica. Emiliano Martínez, pese a la fractura de mandíbula, integra la nómina. Aaron Anselmino es una de las novedades y Gonzalo Montiel vuelve a estar entre…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Así quedó el Reducido de la Primera Nacional 2026, por el segundo ascenso",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/asi-quedo-el-reducido-de-la-primera-nacional-2026-por-el-segundo-ascenso-nid02112026/",
-          "resumen": "Este lunes se configuraron los cruces entre los equipos que buscarán uno de los pasajes a la Primera División; Godoy Cruz y Tristán Suárez están en la final",
-          "fuente": "La Nación"
+          "titulo": "Atlético de Madrid vs Bayern Munich, por la Champions League, EN VIVO: dónde ver, hora y formaciones",
+          "link": "https://www.clarin.com/deportes/atletico-madrid-vs-bayern-munich-champions-league-vivo-ver-hora-formaciones_0_OeT1IBg9dY.html",
+          "resumen": "Los Colchoneros reciben a los Bávaros este martes por la cuarta fecha de la fase clasificatoria de la Champions League, en el estadio Riyadh Air Metropolitano. Seguí la cobertura de Clarín.",
+          "fuente": "Clarín"
         }
       ]
     }

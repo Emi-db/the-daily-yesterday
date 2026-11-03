@@ -1,41 +1,41 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "2 de noviembre de 2026",
-    "generada": "19:51",
+    "fecha": "3 de noviembre de 2026",
+    "generada": "17:24",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "\"Cerró la frontera, pero vivimos peor\": el descontento de los votantes latinos que le dieron a Trump un histórico apoyo en el sur de Texas",
-            "link": "https://www.bbc.com/mundo/articles/c6y9315lrelzo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Trump logró en 2024 un apoyo histórico en el Valle del Río Grande, una región fronteriza con México que no había elegido a un republicano para la Casa Blanca en más de tres décadas. Hoy las encuestas las encabezan los demócratas.",
+            "titulo": "EE.UU. acude a las urnas en unas elecciones de medio mandato cruciales para el futuro del gobierno de Trump",
+            "link": "https://www.bbc.co.uk/mundo/live/cq9vz4g97xy2t?at_medium=RSS&at_campaign=rss",
+            "resumen": "Millones de estadounidenses acuden a las urnas para decidir quién controlará el Congreso en los dos años de presidencia que le restan a Donald Trump. Están en juego los 435 escaños en la Cámara de Representantes y 35 en el Senado.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "António Guterres: “Una competición entre EE UU y China para crear armas con IA podría tener consecuencias devastadoras”",
-            "link": "https://elpais.com/internacional/2026-11-01/antonio-guterres-una-competicion-entre-ee-uu-y-china-para-crear-armas-con-ia-podria-tener-consecuencias-devastadoras.html",
-            "resumen": "El veterano político portugués y secretario general de Naciones Unidas, a punto de dejar el cargo, afirma sobre su reemplazo que le alegraría que fuera una mujer. “Un mundo sin reglas sería un desastre”, alerta",
+            "titulo": "Estados Unidos ataca la isla iraní de Qeshm en la víspera de sus elecciones de medio mandato",
+            "link": "https://elpais.com/internacional/2026-11-03/estados-unidos-ataca-la-isla-irani-de-qeshm-en-la-vispera-de-sus-elecciones-de-medio-mandato.html",
+            "resumen": "Washington asegura que se trata de ataques “defensivos” que no implican un retorno inmediato a la guerra. Son los primeros bombardeos reconocidos desde septiembre",
             "fuente": "El País"
           },
           {
-            "titulo": "\"Muchas gracias, Trump\": Los conservadores de Wyoming divididos antes de las elecciones",
-            "link": "https://www.france24.com/es/programas/reporteros/20261102-muchas-gracias-trump-los-conservadores-de-wyoming-divididos-antes-de-las-elecciones",
-            "resumen": "Bienvenidos a Wyoming, el estado estadounidense más favorable a Donald Trump. El republicano obtuvo casi el 70% de los votos allí durante sus tres campañas presidenciales. El \"Estado Vaquero\" es el menos poblado, el más rural y el más…",
+            "titulo": "Trump anuncia que Estados Unidos dejará de entregar 4.000 millones de dólares anuales en ayuda a Israel",
+            "link": "https://www.france24.com/es/medio-oriente/20261103-trump-anuncia-que-estados-unidos-dejar%C3%A1-de-entregar-4-000-millones-de-d%C3%B3lares-anuales-en-ayuda-a-israel",
+            "resumen": "Según explicó en una entrevista telefónica con Fox News, la decisión fue acordada con el primer ministro israelí, Benjamín Netanyahu, quien habría planteado la posibilidad de interrumpir los fondos. Trump justificó la medida al afirmar…",
             "fuente": "France 24"
           },
           {
-            "titulo": "\"Es Gaza o nada\": cómo el apoyo a Israel se convirtió en un punto clave de la contienda electoral en EE.UU.",
-            "link": "https://www.bbc.com/mundo/articles/ckgelpgle3lno?at_medium=RSS&at_campaign=rss",
-            "resumen": "La preocupación por el apoyo estadounidense a Israel está motivando ahora a los votantes de ambos lados del debate, en una de las contiendas más reñidas de las elecciones de mitad de mandato en Estados Unidos.",
+            "titulo": "La madre en Chile a la que obligaron a esperar que su bebé muriera en su vientre y ahora un fallo histórico le otorga una indemnización millonaria",
+            "link": "https://www.bbc.com/mundo/articles/cm3el01qqeqxo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Luego de que su hija fuera diagnosticada a las 11 semanas de gestación de un grave cuadro médico, Catalina Pizarro intentó por distintas vías acceder al aborto por inviabilidad fetal, una de las causales legales en Chile, pero no lo…",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Merz encarga a la ministra de Familia que dialogue con los estudiantes alemanes tras las protestas",
-            "link": "https://elpais.com/internacional/2026-11-02/merz-encarga-a-la-ministra-de-familia-que-dialogue-con-los-estudiantiles-alemanes-tras-las-protestas.html",
-            "resumen": "El canciller avisa que su Gobierno aplicará “tolerancia cero” para que no vuelvan a repetirse actos vandálicos en las manifestaciones juveniles",
-            "fuente": "El País"
+            "titulo": "Informe desde Detroit: Michigan promete ser un estado decisorio para las midterms",
+            "link": "https://www.france24.com/es/video/20261103-informe-desde-detroit-michigan-promete-ser-un-estado-decisorio-para-las-midterms",
+            "resumen": "Michigan es uno de los estados clave que podrían inclinar la balanza en la Cámara de Representantes y el Senado de Estados Unidos. El candidato demócrata Abdul El-Sayed ha aprovechado el impulso del ala más progresista de su partido en un…",
+            "fuente": "France 24"
           }
         ]
       },
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "La UE afronta una negociación de vértigo para cerrar el relevo de Lagarde y el nuevo presupuesto comunitario en diciembre",
-            "link": "https://elpais.com/economia/2026-11-02/la-ue-afronta-una-negociacion-de-vertigo-para-cerrar-el-relevo-de-lagarde-y-el-nuevo-presupuesto-comunitario-en-diciembre.html",
-            "resumen": "Las grandes capitales velan armas ante una cumbre crítica en diciembre, destinada a reforzar los cimientos de la unión antes del superciclo electoral de 2027",
+            "titulo": "Las comunidades autónomas reducen a mínimos los préstamos del Estado para financiarse",
+            "link": "https://elpais.com/economia/2026-11-03/las-comunidades-autonomas-reducen-a-minimos-los-prestamos-del-estado-para-financiarse.html",
+            "resumen": "Los recursos captados en el mercado este año crecen casi un 30% respecto a 2025",
             "fuente": "El País"
           },
           {
-            "titulo": "El Ibex cierra a las puertas del 19.000 tras firmar su mejor sesión desde julio",
-            "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/11/02/ibex-estrena-mes-alivio-petroleo.html",
-            "resumen": "El selectivo, favorecido por la fuerte caída del crudo, destaca como el mejor índice europeo y se anota una subida del 1,63% gracias al empuje de los bancos y valores turísticos como Amadeus e IAG. Leer",
+            "titulo": "Botín pide liberar los colchones de capital bancario para crecer más",
+            "link": "https://www.expansion.com/empresas/banca/2026/11/03/botin-pide-liberar-colchones-capital-bancario-crecer.html",
+            "resumen": "\"Crecimiento no es lo mismo que riesgo excesivo o imprudente\", ha asegurado la la banquera. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "La IA quiere el dinero de los inversores, pero no sus opiniones",
-            "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-02/la-ia-declara-la-guerra-al-capitalismo-popular.html",
-            "resumen": "SpaceX y Anthropic apuestan por estructuras de capital con acciones de voto múltiple, que limitan el papel de los inversores, mientras que colocan en el mercado grandes paquetes accionariales",
+            "titulo": "Los sindicatos registran la petición a la Seguridad Social para adelantar la jubilación al personal de tierra de los aeropuertos",
+            "link": "https://elpais.com/economia/2026-11-03/los-sindicatos-registran-la-peticion-a-la-seguridad-social-para-adelantar-la-jubilacion-al-personal-de-tierra-de-los-aeropuertos.html",
+            "resumen": "Los empleados del transporte por carretera amenazan con una huelga indefinida si el Gobierno deja caer su requerimiento de retirarse antes sin penalización en la pensión",
             "fuente": "El País"
           },
           {
-            "titulo": "El petróleo cae hasta un 8% por los avances en las negociaciones con Irán para acabar con la guerra",
-            "link": "https://www.expansion.com/mercados/materias-primas/2026/11/02/petroleo-cae-6-posible-acuerdo-iran-acabar-guerra.html",
-            "resumen": "El barril toca mínimos intradía por debajo de los 104 dólares después de que el ayatolá Jameneí haya dado luz verde al gobierno iraní para iniciar negociaciones que podrían poner fin al conflicto. Leer",
+            "titulo": "Pinchazo en la Cumbre Iberoamericana: Lula y Sheinbaum dejan solo a Sánchez",
+            "link": "https://www.expansion.com/economia/2026/11/03/pinchazo-cumbre-iberoamericana-lula-shainbaum-dejan-sanchez.html",
+            "resumen": "La ausencia de los presidentes de Brasil y México, junto a la de otros importantes líderes de la región, rebaja las expectativas de Moncloa con la cita. Milei sí estará en Madrid tras sus recientes insultos al jefe del Ejecutivo. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "El último truco del mago de las finanzas Juan González",
-            "link": "https://elpais.com/economia/2026-11-02/el-ultimo-truco-del-mago-de-las-finanzas-juan-gonzalez.html",
-            "resumen": "El fundador de Herrero Brigantina promete a sus clientes multiplicar por tres sus fondos mientras está siendo investigado en la Audiencia Nacional por una estafa de 200 millones",
+            "titulo": "El abogado de 563 inversores de Herrero Brigantina pide al juez prisión para el fundador de la compañía",
+            "link": "https://elpais.com/economia/2026-11-03/el-abogado-de-563-inversores-de-herrero-brigantina-pide-al-juez-prision-para-el-fundador-de-la-compania.html",
+            "resumen": "El movimiento llega después de que EL PAÍS desvelara que Juan González, que está siendo investigado por una estafa de 200 millones, sigue captando clientes con la promesa de triplicar sus beneficios en 15 días",
             "fuente": "El País"
           }
         ]
@@ -78,33 +78,33 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
+            "titulo": "Año catastrófico para los últimos glaciares de España: “Ya es posible subir hasta la cima del Aneto sin pisar hielo”",
+            "link": "https://elpais.com/ciencia/2026-11-03/ano-catastrofico-para-los-ultimos-glaciares-de-espana-ya-es-posible-subir-hasta-la-cima-del-aneto-sin-pisar-hielo.html",
+            "resumen": "Los Pirineos registran pérdidas extremas en 2026 pese a las abundantes nevadas de la primavera. Es el tercer peor año desde que hay registros",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Por qué la segunda oleada de ‘hackeos’ a las neveras en supermercados avisa de los riesgos que vienen",
+            "link": "https://elpais.com/tecnologia/2026-11-03/por-que-la-segunda-oleada-de-hackeos-a-las-neveras-avisa-de-lo-que-viene.html",
+            "resumen": "Los ataques prueban que, en un mundo hiperconectado, las infraestructuras críticas son vulnerables. Esta vez fueron los supermercados, mañana puede ser un hospital",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "El telescopio ‘Swift’ está a punto de caer a la Tierra, tras fracasar el rescate de la NASA",
+            "link": "https://elpais.com/ciencia/2026-11-03/el-telescopio-swift-esta-a-punto-de-caer-a-la-tierra-tras-fracasar-el-rescate-de-la-nasa.html",
+            "resumen": "La reentrada del satélite científico se espera para la noche de este martes, en una franja cerca del ecuador que cubre territorios de África, Asia y América Latina",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Un ciberataque causa pérdidas millonarias en decenas de supermercados europeos tras disparar la temperatura de las neveras",
+            "link": "https://elpais.com/tecnologia/2026-11-02/un-ciberataque-causa-perdidas-millonarias-en-decenas-de-supermercados-en-belgica-y-suecia.html",
+            "resumen": "Los ciberdelincuentes manipularon en remoto los refrigeradores de establecimientos en Bélgica, Suecia, Países Bajos, Luxemburgo, Irlanda, Estonia y Finlandia",
+            "fuente": "El País"
+          },
+          {
             "titulo": "La insólita historia del toro ‘Aquiles’ y el burro ‘Patroclo’: sexo, caricias y una relación estable entre dos machos de dos especies",
             "link": "https://elpais.com/ciencia/2026-11-02/la-insolita-historia-del-toro-aquiles-y-el-burro-patroclo-sexo-caricias-y-una-relacion-estable-entre-dos-machos-de-dos-especies.html",
             "resumen": "Las relaciones homosexuales entre estos animales desconciertan a los científicos, que destacan la afectividad entre ambos: “Sus interacciones sexuales estaban estrechamente ligadas a un vínculo social selectivo”",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "“Hay que cambiar el producto, no a los niños”: la izquierda europea plantea otra forma de regular las redes",
-            "link": "https://elpais.com/tecnologia/2026-11-02/hay-que-cambiar-el-producto-no-a-los-ninos-la-izquierda-europea-plantea-otra-forma-de-regular-las-redes.html",
-            "resumen": "Laboratorios de ideas asociados a partidos de centroizquierda van más allá de prohibir las redes sociales a los menores y piden cambios drásticos a las tecnológicas",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "37 millones de caballitos de mar al año: el comercio de vida silvestre es mucho mayor de lo que se creía",
-            "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-30/37-millones-de-caballitos-de-mar-al-ano-el-comercio-de-vida-silvestre-es-mucho-mayor-de-lo-que-se-creia.html",
-            "resumen": "Nuevos cálculos cifran en más de 100.000 las especies con las que se comercia en el mundo, doblando los números estimados hasta ahora",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Un solo hombre frente a los ciberataques que tumbaron miles de webs: “Hace falta querer hacer algo por los demás”",
-            "link": "https://elpais.com/tecnologia/2026-11-01/un-solo-hombre-frente-a-los-ciberataques-que-tumbaron-miles-de-webs-hace-falta-querer-hacer-algo-por-los-demas.html",
-            "resumen": "El checo Ondrej Surý salvó millones de páginas la semana pasada tras descubrirse unos agujeros de seguridad en PHP. La IA acelera el hallazgo de nuevas vulnerabilidades y voluntarios como él no dan abasto",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Desaparecida en el accidente de trenes Marta Shahbazi, una de las científicas españolas más brillantes",
-            "link": "https://elpais.com/ciencia/2026-10-30/desaparecida-en-el-accidente-de-trenes-marta-shahbazi-una-de-las-cientificas-espanolas-mas-brillantes.html",
-            "resumen": "La investigadora, al mando de un laboratorio propio en Cambridge, iba a recoger un premio a la excelencia en un congreso en Huelva",
             "fuente": "El País"
           }
         ]
@@ -113,32 +113,32 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
+            "titulo": "La gran final del Mundial Sub-15, en directo",
+            "link": "https://www.marca.com/futbol/seleccion/2026/10/30/6ae49b2a020dbf8b21b1dec8-directo.html",
+            "resumen": "Sigue en vivo y en directo el España - República Checa, final del Mundial Sub-15 en Bakú",
+            "fuente": "Marca"
+          },
+          {
+            "titulo": "Muere Jesús de Miguel",
+            "link": "https://www.mundodeportivo.com/futbol/tenerife/20261103/1004246522/muere-jesus-miguel-rotos-dolor.html",
+            "resumen": "Jesús de Miguel ha fallecido, según ha anunciado el CD Tenerife este martes. \"Rotos de dolor, con un nudo en la garganta y sin poder creer que esto sea verdad, desde el CD Tenerife comunicamos el trágico fallecimiento, este martes, día 3…",
+            "fuente": "Mundo Deportivo"
+          },
+          {
             "titulo": "Hansi Flick: \"Siempre buscaremos lo mejor para el equipo\"",
             "link": "https://www.marca.com/futbol/barcelona/2026/10/30/hansi-flick-siempre-buscaremos-mejor-equip-video.html",
             "resumen": "",
             "fuente": "Marca"
           },
           {
-            "titulo": "Conmoción en el Tenerife-Andorra: Jesús de Miguel, estable tras sufrir una parada cardiorespiratoria",
-            "link": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261102/1004246292/suspendido-tenerife-andorra-caer-desplomado-miguel-choque-brutal-owono.html",
-            "resumen": "El Tenerife-FC Andorra , aplazado al lunes por las previsiones meteorológicas, terminó de la peor manera posible. Cuando los tricolores habían conseguido igualar un 2-0 adverso y buscaban culminar la remontada, un desafortunado choque…",
+            "titulo": "La Fiscalía ve \"difícil\" abrir un proceso penal contra Owono",
+            "link": "https://www.mundodeportivo.com/futbol/20261103/1004246695/fiscalia-ve-dificil-abrir-proceso-penal-owono-muerte-jesus-miguel.html",
+            "resumen": "El fiscal jefe de Santa Cruz de Tenerife, José Luis Sánchez-Jáuregui , ve \"muy difícil\" que se abra un proceso penal por el fallecimiento del futbolista Jesús de Migue l, pues el golpe que recibió se produjo en un lance del juego y habrá…",
             "fuente": "Mundo Deportivo"
           },
           {
             "titulo": "¡Momento histórico! Hijo de Santi Cazorla debuta con el Real Oviedo en Copa del Rey",
             "link": "https://www.marca.com/futbol/copa-rey/2026/10/30/momento-historico-hijo-santi-cazorla-debuta-real-oviedo-copa-rey-video.html",
-            "resumen": "",
-            "fuente": "Marca"
-          },
-          {
-            "titulo": "Esto dice el acta del Tenerife - Andorra",
-            "link": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261102/1004246343/esto-dice-acta-tenerife-andorra.html",
-            "resumen": "Ya hay acta arbitral del Tenerife - Andorra que fue suspendido tras el golpe del porteo del Andorra Owono y Jesús de Miguel del Tenerife que cayó desplomado provocando momentos críticos en el estadio tinerfeño, siendo evacuado al hospital…",
-            "fuente": "Mundo Deportivo"
-          },
-          {
-            "titulo": "¡Ladrando al campo equivocado! Un perro irrumpe en un partido de la Premier League egipcia.",
-            "link": "https://www.marca.com/futbol/2026/10/30/ladrando-campo-equivocado-perro-irrumpe-partido-premier-league-egipcia-video.html",
             "resumen": "",
             "fuente": "Marca"
           }
@@ -147,16 +147,16 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "November 2, 2026",
-    "generada": "19:51",
+    "fecha": "November 3, 2026",
+    "generada": "17:24",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
-            "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+            "titulo": "US strikes Iranian island ahead of midterm elections",
+            "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+            "resumen": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
             "fuente": "BBC"
           },
           {
@@ -166,15 +166,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Russia Senses Opportunity in Polish Political Turmoil",
-            "link": "https://www.nytimes.com/2026/11/02/world/europe/russia-polish-political-turmoil.html",
-            "resumen": "After its sometime allies were ousted in elections in Hungary and Serbia, Moscow has seized on Poland’s constitutional standoff in its effort to weaken Europe’s support for Ukraine.",
+            "titulo": "Bomb Threats Disrupt Several Flights Across Europe",
+            "link": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html",
+            "resumen": "Officials are investigating threats against at least seven planes. The aircraft landed safely and no explosives were found, the authorities said.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-            "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
-            "resumen": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
+            "titulo": "Tenerife striker De Miguel dies after on-field collision",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
             "fuente": "BBC"
           },
           {
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Ryanair says it may freeze workers' pay and raise airfares",
-            "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+            "titulo": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+            "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Oil price falls amid hope of a breakthrough to end Iran war",
-            "link": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
-            "resumen": "Brent crude drops by more than 6% to $105.55 a barrel, the lowest level in more than two weeks The oil price has fallen to its lowest level in more two weeks amid new hopes of a breakthrough to end the Iran war. Brent crude, the…",
+            "titulo": "‘In the trenches’: Wisconsin’s struggling small businesses could turn a Trump ally’s district blue",
+            "link": "https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race",
+            "resumen": "Affordability and small businesses’ economic woes feature heavily in the House race for Wisconsin’s third district After 18 years in business, Erin Klaus is closing her storefront, a handmade artisan market in downtown Eau Claire,…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Trump’s Tariffs Are On the Ballot in Michigan",
-            "link": "https://www.nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html",
-            "resumen": "The levies as well as trade fighting with Canada are facing a test in the state, where voters appear skeptical of free trade but also of the president’s erratic approach.",
+            "titulo": "Gaming Out the Prospect of a Blue Wave",
+            "link": "https://www.nytimes.com/2026/11/03/business/dealbook/blue-wave-business-market-ramifications.html",
+            "resumen": "Business executives and investors are preparing for a Democratic sweep and the ramifications for policy on data centers, cryptocurrency and more.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Shop freezers in seven European countries hit by cyber-attack",
-            "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+            "titulo": "Drivers may get compensation offers before car finance saga ends",
+            "link": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
+            "resumen": "The regulator says it supports lenders offering early compensation offers, as long as they are fair.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Texas voters on high gas prices under Trump: ‘Probably made me go more Democrat’",
-            "link": "https://www.theguardian.com/us-news/2026/nov/02/texas-voters-trump-fuel-prices",
-            "resumen": "In state where driving is part of life, president’s pledge to lower prices at the pumps cuts little ice Behind the granite countertops of Fuel City, a gas station in Dallas where taxidermy deer flank the entrance and hot tacos are served…",
+            "titulo": "Apple warns of ‘unprecedented’ rise in memory chip prices",
+            "link": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
+            "resumen": "iPhone maker says decision to raise prices has offset some of impact, as revenues are stronger than expected Business live – latest updates Apple has warned of an “unprecedented” rise in memory chip prices, as it battles with datacentres…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "'Fascinating' rare beetle found in Wales again after 60 years",
-            "link": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
-            "resumen": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys.",
+            "titulo": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
+            "link": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
+            "resumen": "A watchdog has criticised the lack of progress made by organisations in tackling climate change.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash",
-            "link": "https://www.theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash",
-            "resumen": "Dr Marta Shahbazi was travelling to a conference to receive award for scientific excellence in developmental biology An “inspiring” Cambridge scientist died in the Spanish train collision on Wednesday that killed at least 69 people. Dr…",
+            "titulo": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
+            "link": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
+            "resumen": "Chemical tests on Aratasaurus bone identify presence of heme, the organic compound that allows haemoglobin in blood to carry oxygen around body It could be the opening of a Jurassic Park rip-off: scientists examining ancient dinosaur…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Do Animals Grieve?",
-            "link": "https://www.nytimes.com/2026/11/02/science/animals-grief-death.html",
-            "resumen": "The feeling of existential loss was long thought to be uniquely human. But studies of coyotes, cockatoos and other creatures are prompting some scientists to reconsider.",
+            "titulo": "Neanderthals Used Wood for Tools, Housing — and Murder?",
+            "link": "https://www.nytimes.com/2026/11/03/science/neanderthals-wood-tools.html",
+            "resumen": "In one case, 75,000-year-old bones reveal what may be the earliest identifiable victim of death by wooden spear.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Spill from vandalised home oil tank kills 13 birds",
-            "link": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss",
-            "resumen": "A number of birds are also injured after the spill from the oil tank earlier this week.",
+            "titulo": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+            "link": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+            "resumen": "The men and women who rummage through commercial bins to take clothes and other items.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Starwatch: Catch the striking trifecta of Venus, the moon and Spica at break of dawn",
-            "link": "https://www.theguardian.com/science/2026/nov/02/starwatch-catch-the-striking-trifecta-of-venus-the-moon-and-spica-at-break-of-dawn",
-            "resumen": "The brilliant planet is about to join the waning crescent moon and the brightest star in the Virgo constellation Early risers have a beautiful sight to look forward to this week as brilliant Venus joins the waning crescent moon and the…",
+            "titulo": "How a scientist went from hero to traitor in a US water crisis – podcast",
+            "link": "https://www.theguardian.com/science/audio/2026/nov/03/us-flint-water-crisis-dr-siddhartha-roy-podcast",
+            "resumen": "When the water in Flint, Michigan, became contaminated with dangerous levels of lead, Dr Siddhartha Roy, then a third year PhD student, was part of the team of scientists who publicly contradicted state and federal claims that it was…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,34 +259,34 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Carrick says it's 'crazy' but he's looking forward to Roma game",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do?at_medium=RSS&at_campaign=rss",
-            "resumen": "Under-pressure Michael Carrick says it might be \"crazy\" but he is looking forward to Manchester United's Champions League match against Roma at Old Trafford.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Newcastle United v Everton: Premier League – live",
-            "link": "https://www.theguardian.com/football/live/2026/nov/02/newcastle-united-v-everton-premier-league-live",
-            "resumen": "Premier League updates from the 8pm GMT kick-off Live scores | Read today’s Football Daily | Email Daniel Jaissle tells Sky Elanga is improving physically and deserves to start today; he wants him and Osula to show their potential, and…",
+            "titulo": "Giannis says Dončić could be best scorer of all time as Lakers star pours in 42 against Heat",
+            "link": "https://www.theguardian.com/sport/2026/nov/03/giannis-says-doncic-could-be-best-scorer-of-all-time-as-lakers-star-pours-in-42-against-heat",
+            "resumen": "Slovenian star is averaging 38.3 points per game Antetokounmpo offers high praise to fellow All-Star Giannis Antetokounmpo has offered high praise to his fellow All-Star Luka Dončić after the Los Angeles Lakers star went on another…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "To dive or not to dive? Football's big dilemma",
-            "link": "https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Liverpool feel Alexander Isak should have been awarded a penalty against Arsenal but with the striker not appealing for the decision and the VAR staying out of it, should he have made more of it?",
+            "titulo": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o?at_medium=RSS&at_campaign=rss",
+            "resumen": "William Saliba returning to first-team training before Arsenal's game with Slavia Prague in the Champions League is a huge boost for the club but now presents Mikel Arteta with a selection headache.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Zero passing yards, one win. Did the Bucs just reinvent the NFL in all the wrong ways?",
-            "link": "https://www.theguardian.com/sport/2026/nov/02/tampa-bay-buccaneers-zero-passing-yards-nfl-atlanta-falcons",
-            "resumen": "In a downpour against the Atlanta Falcons, Tampa Bay decided throwing was for losers. They were proved right I don’t think I’m being cheeky when I say that passing is the most exciting part of football. A solid hit is nice, and a big run…",
+            "titulo": "Caleb Williams and new arrival Jeffery Simmons power Bears past sputtering Seahawks",
+            "link": "https://www.theguardian.com/sport/2026/nov/02/bears-seahawks-caleb-williams-jeffery-simmons-monday-night-football",
+            "resumen": "Star defensive lineman has one sack, six tackles D’Andre Swift rushes for three touchdowns Seattle have lost three of their last four games Caleb Williams threw a touchdown pass on the opening drive and Jeffery Simmons delivered just what…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "England call up Spencer and Randall as injuries hit",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cvp8gxldn304o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Ben Spencer and Harry Randall are named in England's squad for this month's Nations Championship after injury hits Alex Mitchell and Archie McParland.",
+            "titulo": "West Ham approach Parker after sacking boss Nuno",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go?at_medium=RSS&at_campaign=rss",
+            "resumen": "West Ham United sack head coach Nuno Espirito Santo and are said to be in talks with Scott Parker as his replacement.",
             "fuente": "BBC"
+          },
+          {
+            "titulo": "Champagne, cocaine and some very long walks: when pedestrianism ruled the sporting world",
+            "link": "https://www.theguardian.com/sport/2026/nov/03/pedestrianism-long-distance-walking-edward-payson-weston",
+            "resumen": "Crowds once flocked to see ambling athletes pull off amazing feats of stamina. Edward Payson Weston was chief among them More than $1.4bn has been staked on prediction markets for this week’s US midterm elections, according to CNN .…",
+            "fuente": "The Guardian"
           }
         ]
       }
