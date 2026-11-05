@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "4 de noviembre de 2026",
-    "generada": "17:37",
+    "fecha": "5 de noviembre de 2026",
+    "generada": "17:43",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "\"Esto es un desastre\": republicanos indignados culpan a Trump de la estrepitosa derrota en las elecciones de mitad de mandato",
-            "link": "https://www.bbc.com/mundo/articles/c3dxw0kxkgd2o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Algunos republicanos declararon a la BBC que el enfoque del presidente en su legado y su indiferencia ante las preocupaciones de los votantes los perjudicaron.",
+            "titulo": "Santiago Peña presenta su renuncia como presidente de Paraguay por la crisis de Ueno Bank",
+            "link": "https://www.bbc.com/mundo/articles/ckjwe5wy4nxyo?at_medium=RSS&at_campaign=rss",
+            "resumen": "La decisión llega después de que legisladores de la oposición y de su propio partido impulsaran un juicio político para destituirlo.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Los demócratas arrasan en las ‘midterms’ a lomos del voto de castigo a la caótica presidencia de Trump",
-            "link": "https://elpais.com/us/2026-11-04/los-democratas-arrasan-en-las-midterms-a-lomos-del-voto-de-castigo-a-la-caotica-presidencia-de-trump.html",
-            "resumen": "El partido, triunfante en territorios profundamente republicanos, se hace con el Senado y la Cámara de Representantes, algo que solo había pasado seis veces en la historia",
+            "titulo": "Los republicanos buscan culpables de la debacle electoral sin atreverse a señalar a Trump",
+            "link": "https://elpais.com/us/2026-11-04/los-republicanos-buscan-culpables-de-la-debacle-electoral-sin-atreverse-a-senalar-a-trump.html",
+            "resumen": "El presidente descarga en Irán su responsabilidad en la derrota en las ‘midterms’ mientras presume de avances en las obras del salón de baile de la Casa Blanca",
             "fuente": "El País"
           },
           {
-            "titulo": "Vance atribuye la derrota republicana en las elecciones de medio mandato a la guerra en Irán",
-            "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261103-en-directo-estados-unidos-midterms-elecciones-medio-mandato-congreso-gobernaciones-trump-democratas-republicanos",
-            "resumen": "",
+            "titulo": "Una nueva oleada de amenazas de bomba afecta más de una veintena de vuelos en Europa",
+            "link": "https://www.france24.com/es/europa/20261105-una-nueva-oleada-de-amenazas-de-bomba-afecta-m%C3%A1s-de-una-veintena-de-vuelos-en-europa",
+            "resumen": "Por segunda vez esta semana, múltiples aerolíneas recibieron alarmas por la posible presencia de explosivos, forzando aterrizajes no planificados o bajo escolta, aunque ninguna de las amenazas resultó ser creíble. Esto afectó a más de una…",
             "fuente": "France 24"
           },
           {
-            "titulo": "\"Trump sigue siendo su presidente\": la Casa Blanca reacciona a la ola de triunfos demócratas en las elecciones de mitad de mandato; sigue aquí los resultados",
-            "link": "https://www.bbc.co.uk/mundo/live/cq9vz4g97xy2t?at_medium=RSS&at_campaign=rss",
-            "resumen": "Los demócratas celebran una aplastante victoria que les otorga el control tanto del Senado como de la Cámara de Representantes de EE.UU. por los próximos dos años.",
-            "fuente": "BBC Mundo"
+            "titulo": "¿Y ahora qué? Demócratas y republicanos empiezan a diseñar sus estrategias tras el vuelco electoral",
+            "link": "https://elpais.com/us/2026-11-04/y-ahora-que-democratas-y-republicanos-empiezan-a-disenar-sus-estrategias-tras-el-vuelco-electoral.html",
+            "resumen": "Trump coquetea con vetar las medidas de sus rivales; la nueva mayoría, con investigaciones a los miembros del gobierno",
+            "fuente": "El País"
           },
           {
-            "titulo": "Trump admite la amarga derrota en las ‘midterms’: “Estoy un poco sorprendido. Pensé que lo haríamos mejor”",
-            "link": "https://elpais.com/us/2026-11-04/trump-admite-la-amarga-derrota-en-las-midterms-estoy-un-poco-sorprendido-pense-que-lo-hariamos-mejor.html",
-            "resumen": "El presidente de Estados Unidos trata de quitarse responsabilidad de la debacle republicana pese a que pidió votar como si él estuviera en la papeleta y recorrió 30 Estados",
+            "titulo": "Talarico, Hinojosa y Pulido: la combinación con la que los demócratas comienzan a pintar Texas de púrpura",
+            "link": "https://elpais.com/us/2026-11-04/talarico-hinojosa-y-pulido-la-combinacion-con-la-que-los-democratas-comienzan-a-pintar-texas-de-purpura.html",
+            "resumen": "Por primera vez desde hace 30 años, los demócratas alcanzan todos los cargos clave del Estado, en un cambio de fuerzas que el partido había perseguido por años",
             "fuente": "El País"
           }
         ]
@@ -43,33 +43,33 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Los expertos de Trabajo recomiendan que el salario mínimo suba un 4,9% en 2027, hasta los 1.281 euros al mes",
-            "link": "https://elpais.com/economia/2026-11-04/los-expertos-de-trabajo-recomiendan-que-el-salario-minimo-suba-un-49-en-2027-hasta-los-1281-euros-al-mes.html",
-            "resumen": "El ministerio de Díaz presenta este miércoles a sindicatos y patronal la propuesta de los especialistas que elevaría 60 euros mensuales el actual suelo retributivo",
+            "titulo": "El salario mínimo subirá un 5,3% en 2027, hasta 1.286 euros al mes",
+            "link": "https://elpais.com/economia/2026-11-05/el-salario-minimo-subira-un-53-en-2027-hasta-1286-euros-al-mes.html",
+            "resumen": "La cifra definitiva, ya en audiencia pública y que aprobará en breve el Consejo de Ministros, marca un aumento de 65 euros, cinco más que la propuesta de los expertos",
             "fuente": "El País"
           },
           {
-            "titulo": "El Ibex sube un 3% y firma su mejor sesión desde abril con el cambio en EEUU",
-            "link": "https://www.expansion.com/mercados/2026/11/04/ibex-replica-dudas-wall-street.html",
-            "resumen": "El revés electoral a Donald Trump modifica al escenario político en EEUU. El control demócrata del Congreso puede condicionar la evolución de los mercados. De momento, los resultados de AMD ayudan a atenuar las caídas entre las…",
+            "titulo": "La inversión hotelera enfila un año récord gracias al capital español",
+            "link": "https://www.expansion.com/empresas/transporte/2026/11/05/inversion-hotelera-enfila-ano-record-gracias-capital-espanol.html",
+            "resumen": "Cadenas y ‘family offices’ como RIU, los Matutes o los García-Baquero impulsan la inversión hotelera, que roza ya los 4.000 millones. La cifra podría rondar los 5.000 millones a cierre de año. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "Los expertos de Trabajo expresan su inquietud porque las subidas del salario mínimo no impulsen más el resto de sueldos",
-            "link": "https://elpais.com/economia/2026-11-04/los-expertos-de-trabajo-expresan-su-inquietud-porque-las-subidas-del-salario-minimo-no-impulsen-mas-el-resto-de-sueldos.html",
-            "resumen": "Trabajo comunica este miércoles a sindicatos y patronal las recomendaciones de los especialistas, que instan al Gobierno a “potenciar otras herramientas” además del SMI para mejorar las condiciones laborales",
+            "titulo": "El PP vincula el accidente de Urda y la crisis de vivienda con la falta de inversión del Gobierno",
+            "link": "https://elpais.com/economia/2026-11-05/el-pp-vincula-el-accidente-de-urda-y-la-crisis-de-vivienda-con-la-falta-de-inversion-del-gobierno.html",
+            "resumen": "El vicesecretario de Economía del PP, Alberto Nadal, aboga por bajar impuestos y asegura que el sistema de pensiones es sostenible si aumenta la productividad",
             "fuente": "El País"
           },
           {
-            "titulo": "Manolo Falcó, el banquero español más internacional, se despide de Citi tras 28 años en la firma",
-            "link": "https://www.expansion.com/empresas/banca/2026/11/04/manolo-falco-banquero-espanol-internacional-despide-citi-28-anos-firma.html",
-            "resumen": "Falcó ha sido uno de los banqueros de inversión de más éxito en España y ha participado en algunas de las mayores operaciones corporativas de las últimas décadas, como la salida a Bolsa de Inditex y la defensa de Endesa en la guerra de…",
+            "titulo": "ACS negocia construir la sede mundial de Oracle por 4.000 millones",
+            "link": "https://www.expansion.com/empresas/construccion-servicios/2026/11/05/acs-negocia-construir-sede-mundial-oracle-4-000-millones.html",
+            "resumen": "La constructora española, junto a su socio local Walsh, son los favoritos para ejecutar el nuevo cuartel general en Nashville de la multinacional de Larry Ellison. Prevé estar operativa en 2031. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "La OCDE señala a Madrid como una de las ciudades con mayor desequilibrio entre población y oferta residencial",
-            "link": "https://elpais.com/economia/vivienda/2026-11-04/la-ocde-senala-a-madrid-como-una-de-las-ciudades-con-mayor-desequilibrio-entre-poblacion-y-oferta-residencial.html",
-            "resumen": "La organización sitúa a Lisboa y a la capital española entre los mercados más tensionados y cuestiona que movilizar viviendas vacías baste para resolver la crisis",
+            "titulo": "Las empresas reclaman dejar de pagar las bajas laborales y dar el control a las mutuas para frenar el absentismo",
+            "link": "https://elpais.com/economia/2026-11-05/las-empresas-reclaman-dejar-de-pagar-las-bajas-laborales-y-dar-el-control-a-las-mutuas-para-frenar-el-absentismo.html",
+            "resumen": "El 80% de los empresarios exigen reformar la legislación mientras un 85% reconocen que no han implantado protocolos preventivos, según un estudio de la Cámara de Comercio",
             "fuente": "El País"
           }
         ]
@@ -78,9 +78,9 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "El viaje surrealista de las piernas de Dalí en una caja de cartón: una ventana al ADN de la creatividad humana",
-            "link": "https://elpais.com/ciencia/2026-11-04/el-viaje-surrealista-de-las-piernas-de-dali-en-una-caja-de-carton-una-ventana-al-adn-de-la-creatividad-humana.html",
-            "resumen": "El genetista Antonio Alonso, responsable de la prueba de paternidad que se hizo al artista, propone que se usen los restos extraídos de la tumba para buscar las claves de su personalidad",
+            "titulo": "El canadiense que fue a la Luna abandera un proyecto urbanístico en Madrid con 12.000 viviendas de lujo: “Va a ser algo extraordinario”",
+            "link": "https://elpais.com/ciencia/2026-11-05/el-canadiense-que-fue-a-la-luna-abandera-un-proyecto-urbanistico-en-madrid-con-12000-viviendas-de-lujo-va-a-ser-algo-extraordinario.html",
+            "resumen": "El astronauta Jeremy Hansen, que voló en la misión Artemis 2, explica a EL PAÍS su apuesta para una “ciudad inteligente” en torno a una réplica gigante del satélite",
             "fuente": "El País"
           },
           {
@@ -90,9 +90,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Año catastrófico para los últimos glaciares de España: “Ya es posible subir hasta la cima del Aneto sin pisar hielo”",
-            "link": "https://elpais.com/ciencia/2026-11-03/ano-catastrofico-para-los-ultimos-glaciares-de-espana-ya-es-posible-subir-hasta-la-cima-del-aneto-sin-pisar-hielo.html",
-            "resumen": "Los Pirineos registran pérdidas extremas en 2026 pese a las abundantes nevadas de la primavera. Es el tercer peor año desde que hay registros",
+            "titulo": "Voy a echar de menos a Marta, esa persona extraordinaria",
+            "link": "https://elpais.com/ciencia/2026-11-05/voy-a-echar-de-menos-a-marta-esa-persona-extraordinaria.html",
+            "resumen": "Una de las mejores científicas españolas, Marta Shahbazi, murió en la colisión de trenes en Urda. Su directora de tesis recuerda que “tenía una curiosidad que parecía no agotarse nunca, pero también una cualidad menos frecuente: sabía qué…",
             "fuente": "El País"
           },
           {
@@ -102,9 +102,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "El telescopio ‘Swift’ está a punto de caer a la Tierra, tras fracasar el rescate de la NASA",
-            "link": "https://elpais.com/ciencia/2026-11-03/el-telescopio-swift-esta-a-punto-de-caer-a-la-tierra-tras-fracasar-el-rescate-de-la-nasa.html",
-            "resumen": "La reentrada del satélite científico se espera para la noche de este martes, en una franja cerca del ecuador que cubre territorios de África, Asia y América Latina",
+            "titulo": "Hallado en Granada el cuero más antiguo del mundo, posible mortaja de un arquero prehistórico",
+            "link": "https://elpais.com/ciencia/2026-11-04/hallado-en-granada-el-cuero-mas-antiguo-del-mundo-posible-mortaja-de-un-arquero-prehistorico.html",
+            "resumen": "El ADN de dos pieles curtidas hace más de 7.000 años es de cabras que llegaron del este del Mediterráneo y están emparentadas con una raza que solo queda ahora en Asturias",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Jesús Owono rompe su silencio: “Están siendo los días más difíciles de mi vida”",
-            "link": "https://www.mundodeportivo.com/futbol/andorra/20261104/1004247240/jesus-owono-rompe-silencio-siendo-dias-dificiles-mi-vida.html",
-            "resumen": "Jesús Owono ha roto su silencio . Dos días después del trágico incidente ocurrido durante el Tenerife-Andorra, el guardameta tricolor ha compartido sus primeras palabras a través de un comunicado oficial difundido este miércoles por el…",
+            "titulo": "El último adiós a Jesús De Miguel",
+            "link": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261105/1004247587/mundo-futbol-despide-jesus-miguel.html",
+            "resumen": "Día triste pero a la vez muy emotivo el que se está viviendo en la localidad de Navahermosa ( Toledo), donde el mundo del fútbol español se ha reunido para dar el último adiós a Jesús De Miguel, jugador del CD Tenerife que el pasado…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "El juez de competición da por concluido el Tenerife-Andorra",
-            "link": "https://www.mundodeportivo.com/futbol/20261104/1004247252/juez-competicion-da-concluido-tenerife-andorra.html",
-            "resumen": "Este miércoles el Juez Único de Competiciones Profesionales de la RFEF, Rafael Alonso Martínez , ha resuelto considerando como finalizado el encuentro del pasado lunes entre el Tenerife y el Andorra. Encuentro que tuvo que ser suspendido…",
+            "titulo": "Comunicado de la familia de Jesús de Miguel: \"Gracias por quererle, por recordarle y por acompañarnos\"",
+            "link": "https://www.mundodeportivo.com/futbol/tenerife/20261105/1004247532/comunicado-familia-jesus-miguel-gracias-quererle-recordarle-acompanarnos.html",
+            "resumen": "La familia del futbolista Jesús de Miguel ha expresado su agradecimiento por \"todas las palabras, todas las muestras de cariño, apoyo y respeto\" tras el fallecimiento del jugador del CD Tenerife que ha conmocionado al mundo del fútbol. El…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "November 4, 2026",
-    "generada": "17:37",
+    "fecha": "November 5, 2026",
+    "generada": "17:43",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-            "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
+            "titulo": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+            "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "British healthcare worker with Ebola evacuated from DR Congo to UK",
+            "link": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
+            "resumen": "Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unit A British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "Bolsonaro’s Escape From Brazil Was Aided by Milei Adviser at Argentine Airport",
+            "link": "https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html",
+            "resumen": "A top adviser to President Javier Milei of Argentina met Flávio Bolsonaro, the defeated Brazilian presidential candidate, at an Argentine airport, three people involved in the operation said.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "France holds new strikes and protests as unions demand immediate answers",
+            "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Five of France's unions join a wave of strikes and protests in a national day of action.",
             "fuente": "BBC"
           },
           {
             "titulo": "ANC faces anger over poor services as South Africans vote in local elections",
             "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
             "resumen": "Party expected to get less than a third of the vote amid frustration over water outages and power cuts The African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "What Trump’s Midterm Defeat Means for Iran and Oil Prices",
-            "link": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
-            "resumen": "Commentators abroad wondered what President Trump’s electoral losses might mean for oil prices, the war on Iran and the future of American politics.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-            "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-            "resumen": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
-            "link": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
-            "resumen": "There is no end in sight for the drivers of illegal mining, while police action appears ineffective Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort,…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
-            "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-            "resumen": "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign.",
+            "titulo": "Interest rates hiked to 4% in first increase in over three years",
+            "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Most analysts expected the increase from 3.75% to 4%.",
             "fuente": "BBC"
           },
           {
-            "titulo": "US stock markets and government bonds rally while dollar falls after Democrats secure Congress – as it happened",
-            "link": "https://www.theguardian.com/business/live/2026/nov/04/dollar-falls-while-gold-us-treasury-bonds-rally-markets-react-democrats-midterm-election-victory-marks-spencer-latest-live-updates",
-            "resumen": "European shares also power ahead as markets react to blue wave in US midterm elections And Chris Turner , global head of markets at ING, says: Investors will be parsing what this all means. For example, Gina Hinojosa won the Texas…",
+            "titulo": "Rural voters were feeling left behind before the midterms, poll shows",
+            "link": "https://www.theguardian.com/business/2026/nov/05/former-trump-voters-economy",
+            "resumen": "Polling done for the Guardian shows plummeting support from a former key constituency of Donald Trump’s base Polling conducted by the Harris Poll for the Guardian before the election shows just how angry voters were and points to one key…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "A Lawsuit Says the McRib Is Lacking Something You Might Expect It to Have",
-            "link": "https://www.nytimes.com/2026/11/04/business/mcdonalds-mcrib-lawsuit.html",
-            "resumen": "A judge in Chicago ruled that the class-action lawsuit could proceed.",
+            "titulo": "Parents Sue Google Over A.I. Safety Risks on School Chromebooks",
+            "link": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
+            "resumen": "A student made plans to end her life after chatting with Google’s artificial intelligence, a new lawsuit claims, amid mounting concerns about online harms to children.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Poundland owner in crunch talks as retailer's collapse looms",
-            "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-            "resumen": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+            "titulo": "Faisal Islam: How high will interest rates go?",
+            "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Trump blamed Fox News for Republican losses even as network’s hosts went easy on him",
-            "link": "https://www.theguardian.com/us-news/2026/nov/04/trump-blames-fox-news-republican-losses",
-            "resumen": "Fox News pundits hardly criticized the US president in midterms coverage but Trump was still quick to cast blame US midterms 2026 live – latest updates Track live results from all 50 states Tell us: what do you want to know about the…",
+            "titulo": "US stocks rise, dollar slides as investors digest Democrats’ midterm victories",
+            "link": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
+            "resumen": "Government bond yields fall while initial fears ease over impact of election results on world’s biggest economy US midterm elections – live updates After US midterms, what will lame-duck Trump mean for global economy? US stocks have…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "William meets firefighters who tackled summer blazes",
-            "link": "https://www.bbc.co.uk/news/videos/c94g1m232pgyo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
+            "titulo": "Investigation into 'major fish kill' after pollution incident",
+            "link": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The pollution caused the death of brown and migratory sea trout in the Inler river.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Nasa telescope launched in 2004 to plunge back to Earth after failed rescue mission",
-            "link": "https://www.theguardian.com/science/2026/nov/03/nasa-telescope-neil-gehrels-swift-observatory",
-            "resumen": "Neil Gehrels Swift Observatory is expected to re-enter Earth’s atmosphere Wednesday, burning up in the process Nasa ’s Neil Gehrels Swift Observatory, which has spent two decades studying the most powerful explosions in the cosmos, is…",
+            "titulo": "Swapping from dairy to plant-based milk, cheese and yoghurt ‘could lead to micronutrient deficiencies’",
+            "link": "https://www.theguardian.com/science/2026/nov/04/swapping-dairy-milk-cheese-yoghurt-plant-based-vegan-alternatives-deficiencies-micronutrients-iodine",
+            "resumen": "Young people and women most at risk, study finds, as researchers call for vegan products to be fortified with iodine in particular Switching from dairy products to plant-based alternatives could lead to deficiencies in vital…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Prosecutors Seek to Drop Charges Against Russian Scientist Accused of Smuggling Frog Embryos",
-            "link": "https://www.nytimes.com/2026/11/03/science/petrova-russian-scientist-charges-frog-embryo.html",
-            "resumen": "Kseniia Petrova, a researcher at Harvard, has argued that she was vindictively prosecuted after her arrest in 2025.",
+            "titulo": "Tiny Chihuahuas Hold a Big Surprise: A Sliver of Coyote DNA",
+            "link": "https://www.nytimes.com/2026/11/05/science/chihuahuas-coyote-dna.html",
+            "resumen": "The breed is descended from indigenous canines, which may have been intentionally mixed with wild coyotes long before Europeans arrived in the Americas.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-            "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
-            "resumen": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
+            "titulo": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+            "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Why pharma firms are going to Earth’s orbit in search of new cancer drugs",
-            "link": "https://www.theguardian.com/science/2026/nov/04/us-firm-varda-space-industries-manufacturing-drugs-in-space",
-            "resumen": "A space capsule 300 miles above us is growing the tiny crystals of a potential cancer drug in microgravity Roughly 300 miles above our heads, three washing machine-sized capsules are orbiting the Earth. Inside one of them, tiny crystals…",
+            "titulo": "‘Ferritin face’: can you really diagnose low iron from a selfie? – podcast",
+            "link": "https://www.theguardian.com/science/audio/2026/nov/05/ferritin-face-can-you-really-diagnose-low-iron-from-a-selfie-podcast",
+            "resumen": "Social media is awash with claims iron deficiency can be identified in the mirror by dark circles, breaking hair and dry skin. But is ‘ferritin face’ real? Madeleine Finlay tells Ian Sample why so many of us struggle to keep our iron…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "'Most difficult days of my life' for Owono after De Miguel death",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-            "resumen": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+            "titulo": "A bitter end for Ronaldo - the icon who transformed Portugal",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
+            "resumen": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
             "fuente": "BBC"
           },
           {
-            "titulo": "World Series champion Teixeira wins US House seat as former NFL reporter Tafoya’s Senate bid fails",
-            "link": "https://www.theguardian.com/sport/2026/nov/04/mark-teixeira-michele-tafoya-midterm-elections",
-            "resumen": "Former MLB star wins for Republicans in Texas Turek’s Iowa victory clinches Senate for Democrats Tafoya loses to Peggy Flanagan in Minnesota Former World Series champion turned Republican politician Mark Teixeira will represent ⁠Texas’s…",
+            "titulo": "Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson",
+            "link": "https://www.theguardian.com/football/2026/nov/05/cristiano-ronaldo-retires-international-football-career-portugal",
+            "resumen": "There is no doubt his international career was an incredible one, but it would have been greater still if he had not lingered on the stage so long Nothing, perhaps, is quite so difficult for an elite sportsperson as timing their exit.…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
-            "resumen": "After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?",
+            "titulo": "What new Kane deal means for England and the Premier League record",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Fenerbahce v Liverpool: Champions League – live",
-            "link": "https://www.theguardian.com/football/live/2026/nov/04/fenerbahce-v-liverpool-champions-league-live",
-            "resumen": "Minute-by-minute updates on the early kick-off in Turkey Liverpool fizzle out against Arsenal | Email Simon Dirk Kuyt has also had a pre-match chat: I’m feeling well, looking forward to the game. It’s a bit of English weather, but for…",
+            "titulo": "‘He’s basically Wilt’: Wembanyama downs Mavericks with 52-point, 24-rebound classic",
+            "link": "https://www.theguardian.com/sport/2026/nov/05/hes-basically-wilt-wembanyama-downs-mavericks-with-52-point-24-rebound-classic",
+            "resumen": "22-year-old also has eight blocks in Spurs win Frenchman scores decisive free-throw in victory Victor Wembanyama set a career high with 24 rebounds, then sank the winning free throw with 24.2 seconds left to ⁠cap his career-best 52-point…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Real Madrid reach verbal agreement to sign Gabriel",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Real Madrid are confident of winning the race to sign Manchester United forward JJ Gabriel after reaching a verbal agreement with the teenager.",
+            "titulo": "'A void that is impossible to fill' - tributes paid at De Miguel's funeral",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Jesus de Miguel's family say \"the mark he has left on so many people\" is something they will always remember as the footballer's funeral takes place in Spain.",
             "fuente": "BBC"
           }
         ]
