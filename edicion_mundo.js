@@ -1,16 +1,28 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "6 de noviembre de 2026",
-    "generada": "16:59",
+    "fecha": "7 de noviembre de 2026",
+    "generada": "15:57",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Crisis en Paraguay: el presidente Santiago Peña no va al Congreso y sus abogados lo representan en el juicio político",
-            "link": "https://www.bbc.co.uk/mundo/live/c54g11vvvemkt?at_medium=RSS&at_campaign=rss",
-            "resumen": "El Senado de Paraguay avanza con el juicio político al presidente Santiago Peña. El mandatario había pedido una prórroga de 72 horas para preparar su alegato, pero los legisladores la rechazaron.",
+            "titulo": "El expresidente de Paraguay, Santiago Peña, pasa su primera noche bajo arresto en un cuartel militar en medio de protestas en Asunción",
+            "link": "https://www.bbc.com/mundo/articles/c64g1nd9qvn0o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Decenas de personas se congregaron ante la residencia privada del exgobernante para exigir que fuera enviado a prisión.",
+            "fuente": "BBC Mundo"
+          },
+          {
+            "titulo": "Trump, de aliado a rémora: los ultras europeos se alejan de su antiguo socio tras la debacle en las urnas",
+            "link": "https://elpais.com/internacional/2026-11-07/trump-de-aliado-a-remora-los-ultras-europeos-se-alejan-de-su-antiguo-socio-tras-la-debacle-en-las-urnas.html",
+            "resumen": "Los partidos de extrema derecha de la UE pasan de jalear al presidente de Estados Unidos a separar su suerte en vísperas de un superaño electoral",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "El escándalo de Ueno Bank en Paraguay se salda con la detención de Santiago Peña y con Pedro Alliana como nuevo presidente del país",
+            "link": "https://www.bbc.com/mundo/articles/cwkg55edm8r7o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Peña fue destituido por el Congreso en juicio político y se enfrenta ahora a posibles responsabilidades penales por su papel en el caso de Ueno Bank.",
             "fuente": "BBC Mundo"
           },
           {
@@ -20,22 +32,10 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Crisis total en Paraguay: ¿cómo Santiago Peña ayudó a Ueno Bank a crecer?",
-            "link": "https://www.france24.com/es/programas/el-debate/20261106-crisis-total-en-paraguay-c%C3%B3mo-santiago-pe%C3%B1a-ayud%C3%B3-a-ueno-bank-a-crecer",
-            "resumen": "¿Cómo logró crecer Ueno Bank en Paraguay y qué papel tuvieron los vínculos empresariales del presidente Santiago Peña con el grupo detrás de la entidad? El escándalo financiero que sacude al país abre interrogantes sobre la relación entre…",
-            "fuente": "France 24"
-          },
-          {
-            "titulo": "\"Perdí los ahorros de toda mi vida. Todos deben ir presos\": la angustiosa situación de miles de ahorradores en Paraguay por el cierre del Ueno Bank",
-            "link": "https://www.bbc.com/mundo/articles/cqe8llzx5j4yo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Miles de personas en Paraguay desconocen qué va a pasar con el dinero que tenían guardado en el Ueno Bank que fue cerrado esta semana.",
+            "titulo": "Quién es Miguel Vázquez, el banquero milenial y atleta en el centro de la crisis de Paraguay",
+            "link": "https://www.bbc.com/mundo/articles/cwzd6684mgv5o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Vásquez es el accionista mayoritario del Grupo Vásquez, empresa dueña de Ueno Bank en Paraguay",
             "fuente": "BBC Mundo"
-          },
-          {
-            "titulo": "¿Y ahora qué? Demócratas y republicanos empiezan a diseñar sus estrategias tras el vuelco electoral",
-            "link": "https://elpais.com/us/2026-11-04/y-ahora-que-democratas-y-republicanos-empiezan-a-disenar-sus-estrategias-tras-el-vuelco-electoral.html",
-            "resumen": "Trump coquetea con vetar las medidas de sus rivales; la nueva mayoría, con investigaciones a los miembros del gobierno",
-            "fuente": "El País"
           }
         ]
       },
@@ -43,9 +43,9 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Hacienda actualizará la deducción del salario mínimo hasta los 1.030 euros para que sus perceptores no paguen IRPF",
-            "link": "https://elpais.com/economia/2026-11-06/hacienda-actualizara-la-deduccion-del-salario-minimo-hasta-los-1030-euros-para-que-sus-perceptores-no-paguen-irpf.html",
-            "resumen": "El Gobierno subirá el SMI en 2027 hasta los 18.004 euros al año y ajustará el impuesto sobre la renta para garantizar que no tribute",
+            "titulo": "El Gobierno agota la legislatura sin anticipar la jubilación en los sectores con más muertes y bajas",
+            "link": "https://elpais.com/economia/2026-11-07/el-gobierno-agota-la-legislatura-sin-anticipar-la-jubilacion-en-los-sectores-con-mas-muertes-y-bajas.html",
+            "resumen": "Las peticiones afectan a unos dos millones de empleados, pero la Seguridad Social incumple sus propios plazos y no ha resuelto ni las que sí han pactado sindicatos y empresarios",
             "fuente": "El País"
           },
           {
@@ -55,9 +55,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "Acabar con el déficit de 750.000 viviendas que calcula el Banco de España exige una inversión equivalente al 11% del PIB",
-            "link": "https://elpais.com/economia/vivienda/2026-11-06/acabar-con-el-deficit-de-750000-viviendas-que-calcula-el-banco-de-espana-exige-una-inversion-equivalente-al-11-del-pib.html",
-            "resumen": "Madrid y Barcelona concentran el 42% de los 189.680 millones, de capital privado y público, que costaría construir las casas que faltan",
+            "titulo": "Las comunidades autónomas proyectan rebajas fiscales por 2.300 millones hasta 2031",
+            "link": "https://elpais.com/economia/2026-11-07/las-comunidades-autonomas-proyectan-rebajas-fiscales-por-2300-millones-hasta-2031.html",
+            "resumen": "La mayor parte del impacto en la recaudación se concentra en IRPF, tributación inmobiliaria y sucesiones y donaciones",
             "fuente": "El País"
           },
           {
@@ -67,9 +67,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "Agricultura activa por primera vez la retirada del 12% de la producción de aceite para evitar el desplome de los precios",
-            "link": "https://elpais.com/economia/2026-11-05/agricultura-activa-por-primera-vez-la-retirada-del-12-de-la-produccion-de-aceite-para-evitar-el-desplome-de-los-precios.html",
-            "resumen": "El ministerio estrena el mecanismo previsto para campañas excedentarias, cuestionado por parte de la industria, los envasadores y Competencia",
+            "titulo": "La población activa en España envejece más rápido que la media europea",
+            "link": "https://elpais.com/economia/2026-11-07/la-poblacion-activa-en-espana-envejece-mas-rapido-que-la-media-europea.html",
+            "resumen": "Más de dos millones de personas se han integrado a la fuerza laboral entre 2019 y 2026, mientras que la edad media ha aumentado casi un año en ese periodo",
             "fuente": "El País"
           }
         ]
@@ -78,13 +78,25 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
+            "titulo": "Karl Deisseroth, Nobel de Medicina: “Los modelos avanzados de inteligencia artificial podrían leer la actividad cerebral de las personas”",
+            "link": "https://elpais.com/ciencia/2026-11-07/karl-deisseroth-nobel-de-medicina-los-modelos-avanzados-de-inteligencia-artificial-podrian-leer-la-actividad-cerebral-de-las-personas.html",
+            "resumen": "El inventor de la optogenética para controlar el cerebro con luz explica cómo esta técnica acerca mejores tratamientos contra las enfermedades mentales",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Llega la primera movilización europea contra los centros de datos: “No queremos ser el patio trasero de nadie”",
+            "link": "https://elpais.com/tecnologia/2026-11-07/llega-la-primera-movilizacion-europea-contra-los-centros-de-datos-no-queremos-ser-el-patio-trasero-de-nadie.html",
+            "resumen": "España es uno de los 15 países en los que hay convocados este sábado diversos actos para exigir una moratoria en la construcción de estas infraestructuras",
+            "fuente": "El País"
+          },
+          {
             "titulo": "La generación Z descubre las cartas con clubes de ciencia: “Puedes estar a tu bola y huir del ‘scroll infinito”",
             "link": "https://elpais.com/ciencia/2026-11-06/la-generacion-z-descubre-las-cartas-con-clubes-de-ciencia-puedes-estar-a-tu-bola-y-huir-del-scroll-infinito.html",
             "resumen": "Muchos jóvenes encuentran en grupos epistolares creados en torno a los temas que les gustan el primer motivo de sus vidas para estar pendientes del buzón. Esperar la misiva les aporta sosiego en un mundo digitalizado",
             "fuente": "El País"
           },
           {
-            "titulo": "Un ciberataque expone los datos médicos y financieros de casi un cuarto de la población de Moldavia",
+            "titulo": "Un ciberataque expone los datos médicos y financieros de casi un quinto de la población de Moldavia",
             "link": "https://elpais.com/sociedad/2026-11-06/un-ciberataque-expone-los-datos-medicos-y-financieros-de-casi-un-cuarto-de-la-poblacion-de-moldavia.html",
             "resumen": "La presidenta del país admite que las instituciones tardaron en detectar este robo de información personal, que puede usarse en fraudes",
             "fuente": "El País"
@@ -94,18 +106,6 @@ const EDICION_MUNDO = {
             "link": "https://elpais.com/ciencia/2026-11-05/los-farmacos-que-vienen-despues-del-ozempic-buscan-adelgazar-mas-perder-menos-musculo-y-evitar-el-efecto-rebote.html",
             "resumen": "Una revisión en ‘Science’ repasa la nueva generación de fármacos contra la obesidad. También avisa de que las patentes de los genéricos de semaglutida retrasarán su llegada a España hasta 2031, pese a que ya se venden en India y Brasil",
             "fuente": "El País"
-          },
-          {
-            "titulo": "IA soberana: la apuesta de las grandes empresas para ocultar sus datos a los tecnoligarcas estadounidenses",
-            "link": "https://elpais.com/tecnologia/2026-11-06/ia-soberana-la-apuesta-de-las-grandes-empresas-para-ocultar-sus-datos-a-los-tecnoligarcas-estadounidenses.html",
-            "resumen": "Compañías europeas como Airbus, TotalEnergies y BMW buscan inteligencias artificiales privadas para esconderse de la vista de las tecnológicas",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "El canadiense que fue a la Luna abandera un proyecto urbanístico en Madrid con 12.000 viviendas de lujo: “Va a ser algo extraordinario”",
-            "link": "https://elpais.com/ciencia/2026-11-05/el-canadiense-que-fue-a-la-luna-abandera-un-proyecto-urbanistico-en-madrid-con-12000-viviendas-de-lujo-va-a-ser-algo-extraordinario.html",
-            "resumen": "El astronauta Jeremy Hansen, que voló en la misión Artemis 2, explica a EL PAÍS su apuesta para una “ciudad inteligente” en torno a una réplica gigante del satélite",
-            "fuente": "El País"
           }
         ]
       },
@@ -113,33 +113,33 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "España no se deja intimidar por Argentina en el Mundial de pádel: \"No hay un favorito claro\"",
-            "link": "https://www.marca.com/padel/2026/11/06/espana-deja-intimidar-argentina-mundial-padel-hay-favorito-claro.html",
-            "resumen": "Juanjo Gutiérrez y Arturo Coello defienden sus opciones ante la albiceleste pese a la baja de Ale Galán.",
+            "titulo": "¡Locura en Valencia con la llegada del Madrid!",
+            "link": "https://www.marca.com/futbol/real-madrid/2026/11/07/locura-valencia-llegada-madr-video.html",
+            "resumen": "",
             "fuente": "Marca"
           },
           {
-            "titulo": "La convocatoria de Luis de la Fuente: tres estrenos y cuatro porteros",
-            "link": "https://www.mundodeportivo.com/seleccion-espanola/20261106/1004247855/convocatoria-luis-fuente-cuatro-estrenos-cuatro-porteros.html",
-            "resumen": "Luis de la Fuente hizo pública este viernes la convocatoria de la selección española para los dos últimos compromisos de la primera fase de la Nations League. España , que ya tiene asegurada su clasificación para cuartos de final, se…",
+            "titulo": "Espanyol - Deportivo de A Coruña, en directo",
+            "link": "https://www.mundodeportivo.com/futbol/laliga/20261107/1004246442/espanyol-deportivo-coruna-directo-sigue-partido-laliga-ea-sports.html",
+            "resumen": "",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Hezonja se aferra a la NBA",
-            "link": "https://www.marca.com/baloncesto/nba/2026/11/06/hezonja-aferra-nba.html",
-            "resumen": "El alero&nbsp;exmadridista se hace un hueco en los Cavaliers y su regreso a Europa esta temporada parece descartado: en 10 días acaba el plazo para que pueda ser cortado",
+            "titulo": "Simeone y el simpático cruce de palabras con un periodista",
+            "link": "https://www.marca.com/futbol/atletico/2026/11/07/simeone-simpatico-cruce-palabras-periodista-video.html",
+            "resumen": "",
             "fuente": "Marca"
           },
           {
-            "titulo": "De la Fuente, muy claro sobre dosificar minutos: \"Nos jugamos mucho\"",
-            "link": "https://www.mundodeportivo.com/seleccion-espanola/20261106/1004247921/fuente-claro-sobre-dosificar-minutos-jugamos.html",
-            "resumen": "Luis de la Fuente no quiere hacer demasiadas cuentas con los minutos esta vez. España afronta dos partidos importantes ante República Checa e Inglaterra , en los que se juega acabar primera de grupo y llegar a los cuartos de final en las…",
+            "titulo": "Flick: \"Queremos ser primeros durante el parón\"",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261107/1004248254/flick.html",
+            "resumen": "El Atlético de Madrid es con diferencia el equipo al que más se ha enfrentado Hansi Flick como entrenador. Alcanzará mañana en el Metropolitano los 13 pulsos después de los 10 vividos hasta ahora con el FC Barcelona a los que hay que…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Gustavo Varela: de jugar contra su padre a 'Pichichi' de la Serie A... ¿y sustituto de Cristiano en Portugal?",
-            "link": "https://www.marca.com/futbol/liga-italiana/2026/11/06/gustavo-varela-jugar-padre-pichichi-serie-sustituto-cristiano-portugal.html",
-            "resumen": "Jorge Jesus podría llamar al '9' del Monza, 'Capocannoniere' en solitario del 'calcio'",
+            "titulo": "La curiosa paradoja que nos deja el regreso de la NFL",
+            "link": "https://www.marca.com/nfl/2026/11/07/curiosa-paradoja-deja-regreso-nfl.html",
+            "resumen": "Este año, el partido está haciendo mucho menos ruido y, en cambio, la parte deportiva promete mucho más",
             "fuente": "Marca"
           }
         ]
@@ -147,16 +147,16 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "November 6, 2026",
-    "generada": "16:59",
+    "fecha": "November 7, 2026",
+    "generada": "15:57",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "AI stocks climb after trillions wiped from market values",
-            "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+            "titulo": "No clear winner after tight New Zealand general election",
+            "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
             "fuente": "BBC"
           },
           {
@@ -166,15 +166,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout",
-            "link": "https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html",
-            "resumen": "Victory for Democrats could alter the course of peace negotiations and a war nearing its fifth year.",
+            "titulo": "This Israeli Vows to Oust Netanyahu. Here’s How.",
+            "link": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
+            "resumen": "Gadi Eisenkot is poised to get a chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-            "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
-            "resumen": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.",
+            "titulo": "With Stephen Miller pick, Trump readies for a battle",
+            "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+            "resumen": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
             "fuente": "BBC"
           },
           {
@@ -189,34 +189,34 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "US job growth exceeds expectations in October despite economic uncertainty",
-            "link": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
-            "resumen": "‘Low-hire, low-fire’ labor market shows sluggish growth but few layoffs, with an interest rate hike expected in December The US added 165,000 jobs to the economy in October, a sign of resilience in the labor market amid ongoing war in the…",
+            "titulo": "AI stocks climb after trillions wiped from market values",
+            "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Trump may have lost but don’t bet Democrats can fix the economy",
+            "link": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
+            "resumen": "There’s not much they can do over the next couple of years to alleviate angry voters’ stress over prices It was the economy, again. Although Donald Trump largely ignored it, voters’ acute concerns over the rising cost of living fuelled a…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Here’s the latest.",
-            "link": "https://www.nytimes.com/live/2026/11/06/business/jobs-report-stocks-market-economy/heres-the-latest",
-            "resumen": "",
+            "titulo": "How Cardiologists’ High Hopes for Two Drugs Were Dashed",
+            "link": "https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html",
+            "resumen": "By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Could the US midterms burst the AI bubble?",
+            "titulo": "Why the US midterms sparked an AI stock selloff",
             "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
             "resumen": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
             "fuente": "BBC"
           },
           {
-            "titulo": "US tech stocks open higher on Wall Street after worst day in 19 months – business live",
-            "link": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
-            "resumen": "European and Asia-Pacific markets slide after Wall Street rout, while latest US jobs report beats forecasts Despite the sharp losses suffered on global stock markets around the world, most indices are still up for the year. The Nasdaq…",
+            "titulo": "US job growth exceeds expectations in October despite economic uncertainty",
+            "link": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
+            "resumen": "‘Low-hire, low-fire’ labor market shows sluggish growth but few layoffs, with an interest rate hike expected in December The US added 165,000 jobs to the economy in October, a sign of resilience in the labor market amid ongoing war in the…",
             "fuente": "The Guardian"
-          },
-          {
-            "titulo": "A.I. Was Supposed to Come for Our Jobs. So Far, Evidence Is Mixed.",
-            "link": "https://www.nytimes.com/2026/11/06/business/economy/ai-jobs-layoffs.html",
-            "resumen": "White collar industries that are most exposed to artificial intelligence continued to add jobs in October, although that growth has been weak.",
-            "fuente": "N.Y. Times"
           }
         ]
       },
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
+            "titulo": "One of the year's most prolific meteor showers to light up the night sky this weekend",
+            "link": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Thunderstruck: what does the future hold for lightning?",
+            "link": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/future-of-lightning-global-heating-weather-australia",
+            "resumen": "Humans have always been awed by the power and beauty of lightning. How does the experience and understanding of it change in a warming world? In a rock shelter in Kakadu national park in the north of Australia is an image of a being the…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "Biotech Firm Claims Some Credit for Groundbreaking Virus Research",
+            "link": "https://www.nytimes.com/2026/11/06/science/radical-numerics-tabula-phage.html",
+            "resumen": "Radical Numerics turned heads with its announcement about a novel treatment. Now a former partner, Tabula Bioscience, says it performed much of the research.",
+            "fuente": "N.Y. Times"
+          },
+          {
             "titulo": "How climate change worsens heatwaves, droughts, wildfires and floods",
             "link": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
             "resumen": "Rising global temperatures mean extreme weather events are becoming more common and more intense.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Origin of Stonehenge’s altar remains enigma as north-east Scotland theory ruled out",
-            "link": "https://www.theguardian.com/uk-news/2026/nov/05/origin-stonehenge-altar-remains-enigma-north-east-scotland-ruled-out",
-            "resumen": "Geologists say they are getting closer to solving mystery as tests suggest stone may have come from elsewhere in Scotland, northern England or even Ireland They spent countless hours on weather-battered Scottish hills, a hardy band of…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "These Newly Elected Lawmakers Know Something Trump Doesn’t: Science",
-            "link": "https://www.nytimes.com/2026/11/06/science/scientists-election-congress.html",
-            "resumen": "Among those elected to Congress on Tuesday are a mathematician, a microbiologist and a chemical engineer. They plan to take on a White House that has threatened funding cuts to research.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "A really simple guide to climate change",
-            "link": "https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Human activities are causing the world to heat up, posing serious threats to people and nature.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Swapping from dairy to plant-based milk, cheese and yoghurt ‘could lead to micronutrient deficiencies’",
-            "link": "https://www.theguardian.com/science/2026/nov/04/swapping-dairy-milk-cheese-yoghurt-plant-based-vegan-alternatives-deficiencies-micronutrients-iodine",
-            "resumen": "Young people and women most at risk, study finds, as researchers call for vegan products to be fortified with iodine in particular Switching from dairy products to plant-based alternatives could lead to deficiencies in vital…",
+            "titulo": "Want to have a better chat? Scientists say the secret is ‘pink noise’",
+            "link": "https://www.theguardian.com/science/2026/nov/06/better-conversation-study-pink-noise",
+            "resumen": "The most enjoyable conversations strike a balance between exploring a topic and pulling in fresh ideas, study finds As an early stab at rules for conversation, Cicero did a fine job: watch your tone, never look bored, never lose your…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Is Palmer's England career over under Tuchel?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Cole Palmer faces a fight to save his England career after he was excluded from Thomas Tuchel's latest squad, says chief football writer Phil McNulty.",
+            "titulo": "Hamilton, Leclerc and Verstappen to have penalties",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/c574p28devp4o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Red Bull's Max Verstappen and Ferrari drivers Lewis Hamilton and Charles Leclerc will all have grid penalties at the Sao Paulo Grand Prix.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Yaxel Lendeborg is the NBA’s most entertaining rookie – and he’s not holding back",
-            "link": "https://www.theguardian.com/sport/2026/nov/06/yaxel-lendeborg-golden-state-warriors-nba-rookie-media-training",
-            "resumen": "The Warriors’ freshman has spent his first weeks in the NBA antagonizing superstars, speaking his mind and emerging as one of the league’s most compelling personalities If a screen-addled pickup basketball player teleported into the body…",
+            "titulo": "Arsenal v Hull City, Fulham v Newcastle United, FA Cup and more: football – live",
+            "link": "https://www.theguardian.com/football/live/2026/nov/07/arsenal-v-hull-city-fulham-v-newcastle-united-fa-cup-and-more-football-live",
+            "resumen": "⚽️ Follow live updates from all of Saturday’s football action ⚽️ Live scores | Full tables | Follow us on TikTok | Mail Barry In yesterday’s Football Daily email , John Brewin previewed his pick of the weekend’s first round games…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "'A beautiful story' as Bellingham brothers called up",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
-            "resumen": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
+            "titulo": "Tongue ruled out of Australia tour as Rashid stars in warm-up",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c875p26gnnp2o?at_medium=RSS&at_campaign=rss",
+            "resumen": "England fast bowler Josh Tongue is ruled out of the upcoming white-ball tour of Australia with a toe injury.",
             "fuente": "BBC"
           },
           {
-            "titulo": "How Gotham FC re-tooled for another NWSL title run – this time as favorites",
-            "link": "https://www.theguardian.com/football/2026/nov/06/gotham-fc-nwsl-playoffs",
-            "resumen": "After two titles won as the lowest seed in the playoffs, the New Jersey club sought consistency in 2026. It’s arrived, but what’s next? By the time Gotham FC had won their second NWSL Championship in three seasons, Yael Averbuch West had…",
+            "titulo": "Dončić dazzles with 53 in Lakers’ win as LeBron held to eight in Cleveland return",
+            "link": "https://www.theguardian.com/sport/2026/nov/07/nba-cup-luka-doncic-lebron-james-lakers-cavaliers-results",
+            "resumen": "Dončić scores 53 as Lakers hold off Portland James struggles against former team in Cleveland Tatum pours in 34 as Celtics rout Hornets Luka Dončić scored 53 points and hit a key jumper in the lane with 28 seconds to play, carrying Los…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Fly-half Smith fit to steer England against Wallabies",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cv4g11wr6l5jo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Fly-half Fin Smith recovers from a calf injury and will start for England in their opening Test of the autumn against Australia on Sunday.",
+            "titulo": "Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo?at_medium=RSS&at_campaign=rss",
+            "resumen": "How Leeds United and Tottenham Hotspurs' players rated in their Premier League match.",
             "fuente": "BBC"
           }
         ]
