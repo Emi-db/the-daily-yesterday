@@ -1,41 +1,41 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "7 de noviembre de 2026",
-    "generada": "15:57",
+    "fecha": "8 de noviembre de 2026",
+    "generada": "16:25",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "El expresidente de Paraguay, Santiago Peña, pasa su primera noche bajo arresto en un cuartel militar en medio de protestas en Asunción",
+            "titulo": "Ana donó sus órganos al morir en España por eutanasia: ahora un grupo de abogados cristianos quiere prohibir que vuelva a suceder",
+            "link": "https://www.bbc.com/mundo/articles/cqe9eegxvny2o?at_medium=RSS&at_campaign=rss",
+            "resumen": "El debate sobre la donación de órganos de pacientes que se someten a la eutanasia se ha intensificado en España tras varios casos mediáticos y los intentos de algunos grupos de restringir esta práctica.",
+            "fuente": "BBC Mundo"
+          },
+          {
+            "titulo": "Eisenkot apela a un Gobierno de “emergencia nacional” ante la “necesidad urgente de un nuevo liderazgo” en Israel",
+            "link": "https://elpais.com/internacional/2026-11-08/eisenkot-apela-a-un-gobierno-de-emergencia-nacional-ante-la-necesidad-urgente-de-un-nuevo-liderazgo-en-israel.html",
+            "resumen": "Tras recibir el encargo del presidente, el exjefe del Estado Mayor subraya que el país no puede “prolongar la situación o entrar en una ronda interminable de elecciones”",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Eisenkot, en negociaciones para formar gobierno en Israel: ¿logrará romper el bloqueo político?",
+            "link": "https://www.france24.com/es/medio-oriente/20261108-eisenkot-en-negociaciones-para-formar-gobierno-en-israel-lograr%C3%A1-romper-el-bloqueo-pol%C3%ADtico",
+            "resumen": "El presidente israelí, Isaac Herzog, otorgó al opositor Gadi Eisenkot la primera oportunidad para formar un nuevo gobierno, en un revés para Benjamin Netanyahu, quien perdió la mayoría parlamentaria en las elecciones del 27 de octubre.…",
+            "fuente": "France 24"
+          },
+          {
+            "titulo": "Un juez de Paraguay ordena la prisión preventiva para el expresidente Peña por el caso Ueno Bank",
             "link": "https://www.bbc.com/mundo/articles/c64g1nd9qvn0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Decenas de personas se congregaron ante la residencia privada del exgobernante para exigir que fuera enviado a prisión.",
+            "resumen": "La decisión llega después de que la Fiscalía lo imputara por los presuntos delitos de abuso de confianza y administración para beneficio personal",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Trump, de aliado a rémora: los ultras europeos se alejan de su antiguo socio tras la debacle en las urnas",
-            "link": "https://elpais.com/internacional/2026-11-07/trump-de-aliado-a-remora-los-ultras-europeos-se-alejan-de-su-antiguo-socio-tras-la-debacle-en-las-urnas.html",
-            "resumen": "Los partidos de extrema derecha de la UE pasan de jalear al presidente de Estados Unidos a separar su suerte en vísperas de un superaño electoral",
+            "titulo": "Las fuertes lluvias inundan miles de precarias tiendas de campaña en Gaza y agravan la crisis humanitaria",
+            "link": "https://elpais.com/internacional/2026-11-08/las-fuertes-lluvias-inundan-miles-de-precarias-tiendas-de-campana-en-gaza-y-agravan-la-crisis-humanitaria.html",
+            "resumen": "Las familias se afanan en sacar barro y los ríos de agua de lluvia se mezclan con las residuales. Israel lleva más de un año de alto el fuego bloqueando la reconstrucción de la Franja",
             "fuente": "El País"
-          },
-          {
-            "titulo": "El escándalo de Ueno Bank en Paraguay se salda con la detención de Santiago Peña y con Pedro Alliana como nuevo presidente del país",
-            "link": "https://www.bbc.com/mundo/articles/cwkg55edm8r7o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Peña fue destituido por el Congreso en juicio político y se enfrenta ahora a posibles responsabilidades penales por su papel en el caso de Ueno Bank.",
-            "fuente": "BBC Mundo"
-          },
-          {
-            "titulo": "Los republicanos buscan culpables de la debacle electoral sin atreverse a señalar a Trump",
-            "link": "https://elpais.com/us/2026-11-04/los-republicanos-buscan-culpables-de-la-debacle-electoral-sin-atreverse-a-senalar-a-trump.html",
-            "resumen": "El presidente descarga en Irán su responsabilidad en la derrota en las ‘midterms’ mientras presume de avances en las obras del salón de baile de la Casa Blanca",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Quién es Miguel Vázquez, el banquero milenial y atleta en el centro de la crisis de Paraguay",
-            "link": "https://www.bbc.com/mundo/articles/cwzd6684mgv5o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Vásquez es el accionista mayoritario del Grupo Vásquez, empresa dueña de Ueno Bank en Paraguay",
-            "fuente": "BBC Mundo"
           }
         ]
       },
@@ -43,9 +43,9 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "El Gobierno agota la legislatura sin anticipar la jubilación en los sectores con más muertes y bajas",
-            "link": "https://elpais.com/economia/2026-11-07/el-gobierno-agota-la-legislatura-sin-anticipar-la-jubilacion-en-los-sectores-con-mas-muertes-y-bajas.html",
-            "resumen": "Las peticiones afectan a unos dos millones de empleados, pero la Seguridad Social incumple sus propios plazos y no ha resuelto ni las que sí han pactado sindicatos y empresarios",
+            "titulo": "De la nevera al agua del grifo o la luz: los ciberataques ya impactan en la vida cotidiana",
+            "link": "https://elpais.com/tecnologia/2026-11-08/de-la-nevera-al-agua-del-grifo-o-la-luz-los-ciberataques-ya-impactan-en-la-vida-cotidiana.html",
+            "resumen": "La inteligencia artificial dispara la frecuencia, rapidez y efectividad de los incidentes digitales, que cada vez suponen un riesgo mayor para las infraestructuras críticas",
             "fuente": "El País"
           },
           {
@@ -55,9 +55,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "Las comunidades autónomas proyectan rebajas fiscales por 2.300 millones hasta 2031",
-            "link": "https://elpais.com/economia/2026-11-07/las-comunidades-autonomas-proyectan-rebajas-fiscales-por-2300-millones-hasta-2031.html",
-            "resumen": "La mayor parte del impacto en la recaudación se concentra en IRPF, tributación inmobiliaria y sucesiones y donaciones",
+            "titulo": "Las recetas de los supermercados para evitar los ‘hackeos’: segmentar las redes y cifrar los métodos de acceso",
+            "link": "https://elpais.com/economia/2026-11-08/las-recetas-de-los-supermercados-para-evitar-los-hackeos-segmentar-las-redes-y-cifrar-los-metodos-de-acceso.html",
+            "resumen": "Los ciberataques revelan cómo desestabilizar a una sociedad sin armas convencionales y la vulnerabilidad de unas cadenas de suministro cada vez más digitalizadas",
             "fuente": "El País"
           },
           {
@@ -67,9 +67,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "La población activa en España envejece más rápido que la media europea",
-            "link": "https://elpais.com/economia/2026-11-07/la-poblacion-activa-en-espana-envejece-mas-rapido-que-la-media-europea.html",
-            "resumen": "Más de dos millones de personas se han integrado a la fuerza laboral entre 2019 y 2026, mientras que la edad media ha aumentado casi un año en ese periodo",
+            "titulo": "Los deberes económicos tras el 29-N: vivienda, infraestructuras, Presupuestos y pensiones, entre los más urgentes",
+            "link": "https://elpais.com/economia/negocios/2026-11-07/los-deberes-economicos-tras-el-29-n-vivienda-infraestructuras-presupuestos-y-pensiones-entre-los-mas-urgentes.html",
+            "resumen": "El partido o la coalición que logre formar un Gobierno tras las elecciones se encontrará un país que crece, con menos paro y deuda, pero que ofrece también grietas estructurales que hay que afrontar cuanto antes",
             "fuente": "El País"
           }
         ]
@@ -84,27 +84,27 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Llega la primera movilización europea contra los centros de datos: “No queremos ser el patio trasero de nadie”",
-            "link": "https://elpais.com/tecnologia/2026-11-07/llega-la-primera-movilizacion-europea-contra-los-centros-de-datos-no-queremos-ser-el-patio-trasero-de-nadie.html",
-            "resumen": "España es uno de los 15 países en los que hay convocados este sábado diversos actos para exigir una moratoria en la construcción de estas infraestructuras",
-            "fuente": "El País"
-          },
-          {
             "titulo": "La generación Z descubre las cartas con clubes de ciencia: “Puedes estar a tu bola y huir del ‘scroll infinito”",
             "link": "https://elpais.com/ciencia/2026-11-06/la-generacion-z-descubre-las-cartas-con-clubes-de-ciencia-puedes-estar-a-tu-bola-y-huir-del-scroll-infinito.html",
             "resumen": "Muchos jóvenes encuentran en grupos epistolares creados en torno a los temas que les gustan el primer motivo de sus vidas para estar pendientes del buzón. Esperar la misiva les aporta sosiego en un mundo digitalizado",
             "fuente": "El País"
           },
           {
-            "titulo": "Un ciberataque expone los datos médicos y financieros de casi un quinto de la población de Moldavia",
-            "link": "https://elpais.com/sociedad/2026-11-06/un-ciberataque-expone-los-datos-medicos-y-financieros-de-casi-un-cuarto-de-la-poblacion-de-moldavia.html",
-            "resumen": "La presidenta del país admite que las instituciones tardaron en detectar este robo de información personal, que puede usarse en fraudes",
+            "titulo": "Llega la primera movilización europea contra los centros de datos: “No queremos ser el patio trasero de nadie”",
+            "link": "https://elpais.com/tecnologia/2026-11-07/llega-la-primera-movilizacion-europea-contra-los-centros-de-datos-no-queremos-ser-el-patio-trasero-de-nadie.html",
+            "resumen": "España es uno de los 15 países en los que hay convocados este sábado diversos actos para exigir una moratoria en la construcción de estas infraestructuras",
             "fuente": "El País"
           },
           {
             "titulo": "Los fármacos que vienen después del Ozempic: buscan adelgazar más, perder menos músculo y evitar el efecto rebote",
             "link": "https://elpais.com/ciencia/2026-11-05/los-farmacos-que-vienen-despues-del-ozempic-buscan-adelgazar-mas-perder-menos-musculo-y-evitar-el-efecto-rebote.html",
             "resumen": "Una revisión en ‘Science’ repasa la nueva generación de fármacos contra la obesidad. También avisa de que las patentes de los genéricos de semaglutida retrasarán su llegada a España hasta 2031, pese a que ya se venden en India y Brasil",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Un ciberataque expone los datos médicos y financieros de casi un quinto de la población de Moldavia",
+            "link": "https://elpais.com/sociedad/2026-11-06/un-ciberataque-expone-los-datos-medicos-y-financieros-de-casi-un-cuarto-de-la-poblacion-de-moldavia.html",
+            "resumen": "La presidenta del país admite que las instituciones tardaron en detectar este robo de información personal, que puede usarse en fraudes",
             "fuente": "El País"
           }
         ]
@@ -113,33 +113,33 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "¡Locura en Valencia con la llegada del Madrid!",
-            "link": "https://www.marca.com/futbol/real-madrid/2026/11/07/locura-valencia-llegada-madr-video.html",
-            "resumen": "",
+            "titulo": "España no se deja intimidar por Argentina en el Mundial de pádel: \"No hay un favorito claro\"",
+            "link": "https://www.marca.com/padel/2026/11/06/espana-deja-intimidar-argentina-mundial-padel-hay-favorito-claro.html",
+            "resumen": "Juanjo Gutiérrez y Arturo Coello defienden sus opciones ante la albiceleste pese a la baja de Ale Galán.",
             "fuente": "Marca"
           },
           {
-            "titulo": "Espanyol - Deportivo de A Coruña, en directo",
-            "link": "https://www.mundodeportivo.com/futbol/laliga/20261107/1004246442/espanyol-deportivo-coruna-directo-sigue-partido-laliga-ea-sports.html",
-            "resumen": "",
+            "titulo": "Laporta pasa página con Julián Álvarez: \"Las relaciones con el Atlético son buenas\"",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261108/1004248646/laporta-comida-directivas-cerezo.html",
+            "resumen": "Joan Laporta llegó puntual, quince minutos antes de lo previsto, a la comida de directivas con la comitiva del Atlético de Madrid . El presidente del Barça aprovechó para pasar página sobre el intento de fichaje de Julián Álvarez y…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Simeone y el simpático cruce de palabras con un periodista",
-            "link": "https://www.marca.com/futbol/atletico/2026/11/07/simeone-simpatico-cruce-palabras-periodista-video.html",
-            "resumen": "",
+            "titulo": "Hezonja se aferra a la NBA",
+            "link": "https://www.marca.com/baloncesto/nba/2026/11/06/hezonja-aferra-nba.html",
+            "resumen": "El alero&nbsp;exmadridista se hace un hueco en los Cavaliers y su regreso a Europa esta temporada parece descartado: en 10 días acaba el plazo para que pueda ser cortado",
             "fuente": "Marca"
           },
           {
-            "titulo": "Flick: \"Queremos ser primeros durante el parón\"",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261107/1004248254/flick.html",
-            "resumen": "El Atlético de Madrid es con diferencia el equipo al que más se ha enfrentado Hansi Flick como entrenador. Alcanzará mañana en el Metropolitano los 13 pulsos después de los 10 vividos hasta ahora con el FC Barcelona a los que hay que…",
+            "titulo": "Alcaraz gana el 1º set en el tiebreak (7-6) ante Shelton",
+            "link": "https://www.mundodeportivo.com/tenis/20261108/1004248520/alcaraz-shelton-directo-final-masters-1000-paris-2026.html",
+            "resumen": "Sigue todo lo que pasa en la final del Masters 1000 ATP de París 2026 que Carlos Alcaraz disputa contra Ben Shelton , próximo pupilo de Ferrero.",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "La curiosa paradoja que nos deja el regreso de la NFL",
-            "link": "https://www.marca.com/nfl/2026/11/07/curiosa-paradoja-deja-regreso-nfl.html",
-            "resumen": "Este año, el partido está haciendo mucho menos ruido y, en cambio, la parte deportiva promete mucho más",
+            "titulo": "Gustavo Varela: de jugar contra su padre a 'Pichichi' de la Serie A... ¿y sustituto de Cristiano en Portugal?",
+            "link": "https://www.marca.com/futbol/liga-italiana/2026/11/06/gustavo-varela-jugar-padre-pichichi-serie-sustituto-cristiano-portugal.html",
+            "resumen": "Jorge Jesus podría llamar al '9' del Monza, 'Capocannoniere' en solitario del 'calcio'",
             "fuente": "Marca"
           }
         ]
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "November 7, 2026",
-    "generada": "15:57",
+    "fecha": "November 8, 2026",
+    "generada": "16:25",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "No clear winner after tight New Zealand general election",
-            "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+            "titulo": "What we know so far after Krakow gun attack",
+            "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "How African philosophies inspired a new approach to staging film festivals in Manchester",
+            "link": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
+            "resumen": "See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creatives African philosophies including exploring how lessons from the past can shape the present…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "In Argentina, Pope Leo to Meet Church at Odds With President Milei",
+            "link": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
+            "resumen": "The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Houthis say at least 33 killed in Saudi air strike",
+            "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
             "fuente": "BBC"
           },
           {
             "titulo": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
             "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
             "resumen": "Paul Mackenzie convicted over deaths of children and one adult after followers were ordered to starve themselves and their families The leader of a Kenyan doomsday sect has been sentenced to 200 years in prison for the murders of 190…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "This Israeli Vows to Oust Netanyahu. Here’s How.",
-            "link": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
-            "resumen": "Gadi Eisenkot is poised to get a chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "With Stephen Miller pick, Trump readies for a battle",
-            "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-            "resumen": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
-            "link": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
-            "resumen": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 result The African National Congress is on course to suffer a bruising defeat in South Africa’s local elections, with the once dominant party of…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,9 +189,9 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "AI stocks climb after trillions wiped from market values",
-            "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+            "titulo": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+            "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+            "resumen": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
             "fuente": "BBC"
           },
           {
@@ -201,15 +201,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "How Cardiologists’ High Hopes for Two Drugs Were Dashed",
-            "link": "https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html",
-            "resumen": "By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?",
+            "titulo": "Why the Iran War Has Spurred Both Clean Energy and Fossil Fuels",
+            "link": "https://www.nytimes.com/2026/11/08/business/cop-31-iran-war-oil.html",
+            "resumen": "The shock to global oil prices has caused a surge in demand for electric vehicles while propelling a race for immediate, secure power supplies.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Why the US midterms sparked an AI stock selloff",
-            "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
+            "titulo": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
+            "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+            "resumen": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
             "fuente": "BBC"
           },
           {
@@ -230,15 +230,15 @@ const EDICION_MUNDO = {
             "fuente": "BBC"
           },
           {
-            "titulo": "Thunderstruck: what does the future hold for lightning?",
-            "link": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/future-of-lightning-global-heating-weather-australia",
-            "resumen": "Humans have always been awed by the power and beauty of lightning. How does the experience and understanding of it change in a warming world? In a rock shelter in Kakadu national park in the north of Australia is an image of a being the…",
+            "titulo": "Ukraine’s new frontier: how space has become critical to balance of the war",
+            "link": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/ukraine-space-critical-war-starlink",
+            "resumen": "In a war driven by drones and battlefield sensors, access to space is essential. After Starlink speed restrictions and Russian Oreshnik missile strikes, Kyiv is racing to develop its own space capabilities For people in the Russian…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Biotech Firm Claims Some Credit for Groundbreaking Virus Research",
-            "link": "https://www.nytimes.com/2026/11/06/science/radical-numerics-tabula-phage.html",
-            "resumen": "Radical Numerics turned heads with its announcement about a novel treatment. Now a former partner, Tabula Bioscience, says it performed much of the research.",
+            "titulo": "Did These Scientists Find Evidence of Blood in a Dinosaur Bone?",
+            "link": "https://www.nytimes.com/2026/11/08/science/dinosaur-blood-bone.html",
+            "resumen": "Mineralized “structures” discovered in the bone were the fossilized remains of red blood cells, according to a recent study. Other experts aren’t so sure.",
             "fuente": "N.Y. Times"
           },
           {
@@ -248,9 +248,9 @@ const EDICION_MUNDO = {
             "fuente": "BBC"
           },
           {
-            "titulo": "Want to have a better chat? Scientists say the secret is ‘pink noise’",
-            "link": "https://www.theguardian.com/science/2026/nov/06/better-conversation-study-pink-noise",
-            "resumen": "The most enjoyable conversations strike a balance between exploring a topic and pulling in fresh ideas, study finds As an early stab at rules for conversation, Cicero did a fine job: watch your tone, never look bored, never lose your…",
+            "titulo": "Thunderstruck: what does the future hold for lightning?",
+            "link": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/future-of-lightning-global-heating-weather-australia",
+            "resumen": "Humans have always been awed by the power and beauty of lightning. How does the experience and understanding of it change in a warming world? In a rock shelter in Kakadu national park in the north of Australia is an image of a being the…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Hamilton, Leclerc and Verstappen to have penalties",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/c574p28devp4o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Red Bull's Max Verstappen and Ferrari drivers Lewis Hamilton and Charles Leclerc will all have grid penalties at the Sao Paulo Grand Prix.",
+            "titulo": "Rahm pips Hatton & McIlroy to Abu Dhabi title",
+            "link": "https://www.bbc.co.uk/sport/golf/articles/c6y0exdrp2xeo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Jon Rahm fires a final-round 67 to clinch a two-shot victory ahead of Tyrrell Hatton at the Abu Dhabi Championship.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Arsenal v Hull City, Fulham v Newcastle United, FA Cup and more: football – live",
-            "link": "https://www.theguardian.com/football/live/2026/nov/07/arsenal-v-hull-city-fulham-v-newcastle-united-fa-cup-and-more-football-live",
-            "resumen": "⚽️ Follow live updates from all of Saturday’s football action ⚽️ Live scores | Full tables | Follow us on TikTok | Mail Barry In yesterday’s Football Daily email , John Brewin previewed his pick of the weekend’s first round games…",
+            "titulo": "Crystal Palace 1-3 Liverpool, Sunderland 1-0 Chelsea, and more: Premier League – live",
+            "link": "https://www.theguardian.com/football/live/2026/nov/08/crystal-palace-v-liverpool-brighton-v-brentford-and-more-premier-league-live",
+            "resumen": "⚽️ Premier League updates from 2pm GMT kick-offs ⚽️ Live scoreboard | Tables | Email Simon A disastrous goal for Ipswich! Chris Walton, the home side’s keeper, tries to take the ball past the onrushing Evanilson, fails, is dispossessed,…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Tongue ruled out of Australia tour as Rashid stars in warm-up",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c875p26gnnp2o?at_medium=RSS&at_campaign=rss",
-            "resumen": "England fast bowler Josh Tongue is ruled out of the upcoming white-ball tour of Australia with a toe injury.",
+            "titulo": "'That's Reece' - World Cup semi-final brings out best and worst of Walsh",
+            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cm93zrw2wz9go?at_medium=RSS&at_campaign=rss",
+            "resumen": "On a fractious night in Sydney that ended with Australia reaching yet another Men's Rugby League World Cup final, it was no surprise to see Reece Walsh centre stage – for better or worse.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Dončić dazzles with 53 in Lakers’ win as LeBron held to eight in Cleveland return",
-            "link": "https://www.theguardian.com/sport/2026/nov/07/nba-cup-luka-doncic-lebron-james-lakers-cavaliers-results",
-            "resumen": "Dončić scores 53 as Lakers hold off Portland James struggles against former team in Cleveland Tatum pours in 34 as Celtics rout Hornets Luka Dončić scored 53 points and hit a key jumper in the lane with 28 seconds to play, carrying Los…",
+            "titulo": "São Paulo F1 Grand Prix – live updates",
+            "link": "https://www.theguardian.com/sport/live/2026/nov/08/sao-paulo-f1-grand-prix-live-updates",
+            "resumen": "️ Updates from Interlagos (race due to start 5pm GMT) ️ Email Daniel | Sign up for The Recap Also going on: 1 Lando Norris McLaren Continue reading...",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo?at_medium=RSS&at_campaign=rss",
-            "resumen": "How Leeds United and Tottenham Hotspurs' players rated in their Premier League match.",
+            "titulo": "England await Guehi scan results after injury concern",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Manchester City defender Marc Guehi will undergo a scan on a hip complaint on Sunday to determine whether he can report for England duty this week.",
             "fuente": "BBC"
           }
         ]
