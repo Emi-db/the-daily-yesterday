@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "9 de noviembre de 2026",
-  "generada": "20:14",
+  "fecha": "10 de noviembre de 2026",
+  "generada": "17:20",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Victoria Villarruel confirmó que no fue invitada a la misa del Papa y compartió un sugestivo mensaje sobre la visita al Cottolengo",
-          "link": "https://www.clarin.com/politica/victoria-villarruel-confirmo-invitada-misa-papa-compartio-sugestivo-mensaje-visita-cottolengo_0_4Eu1wIB1uV.html",
-          "resumen": "La vicepresidenta contó en redes sociales que no recibió el código de acceso para asistir a la misa en Palermo. En contraste, la secretaría General de la Presidencia sí convocó a distintas figuras del espectáculo.",
+          "titulo": "El Comité de la ONU al que acudió Cristina Kirchner para ser candidata no trató su pedido y lo pasa para el año que viene",
+          "link": "https://www.clarin.com/politica/comite-onu-acudio-cristina-kirchner-candidata-trato-pedido-pasa-ano-viene_0_7UqBlBTeAS.html",
+          "resumen": "El organismo cerró las sesiones ordinarias a principios de noviembre sin evaluar la solicitud de la ex presidenta y se le complica más su estrategia para ser candidata.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El Papa recibió a cinco víctimas de abuso y se comprometió a reforzar la protección dentro de la Iglesia",
-          "link": "https://www.lanacion.com.ar/politica/el-papa-recibio-a-cinco-victimas-de-abuso-y-se-comprometio-a-reforzar-la-proteccion-dentro-de-la-nid09112026/",
-          "resumen": "Conversó individualmente con cada uno y los bendijo; el encuentro duró más de una hora y se realizó en la Nunciatura Apostólica",
+          "titulo": "Allanan propiedades de Lázaro Báez en una causa por narcotráfico y lavado de dinero",
+          "link": "https://www.lanacion.com.ar/politica/allanan-propiedades-de-lazaro-baez-en-una-causa-por-narcotrafico-y-lavado-de-dinero-nid10112026/",
+          "resumen": "Lo ordenó el juez federal de Río Gallegos en una causa contra el empresario, su pareja y otras personas; también allanaron la celda donde está detenido",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El mensaje del papa León XIV en la UCA: “Privar a una persona de trabajo no es simplemente negarle un ingreso económico; es herir gravemente su dignidad”",
-          "link": "https://www.infobae.com/sociedad/2026/11/09/la-visita-del-papa-leon-xiv-a-la-argentina-en-vivo-la-agenda-del-segundo-dia-la-visita-a-don-orione-y-la-expectativa-por-la-misa-en-palermo/",
-          "resumen": "El líder del Vaticano inició su segundo día de actividades en el Cottolengo Don Orione y recorrió Avenida Del Libertador con el Papamóvil hasta llegar al escenario montado en el Monumento de los Españoles. Durante la tarde encabezará una…",
+          "titulo": "Murió Héctor Aguer, el arzobispo emérito de La Plata que fue una de las voces conservadoras de la Iglesia argentina",
+          "link": "https://www.infobae.com/politica/2026/11/10/murio-hector-aguer-el-arzobispo-emerito-de-la-plata-que-fue-una-de-las-voces-conservadoras-de-la-iglesia-argentina/",
+          "resumen": "Tenía 83 años y falleció hoy en Buenos Aires. Condujo el arzobispado platense durante 18 años, desarrolló una extensa trayectoria académica y religiosa, y protagonizó fuertes debates doctrinarios. Estuvo enfrentado con el papa Francisco",
           "fuente": "Infobae"
         },
         {
-          "titulo": "\"Voy a matar al Papa\": indagan a un detenido por amenazar a León XIV y analizan un dron",
-          "link": "https://www.clarin.com/politica/voy-matar-papa-indagan-detenido-amenazar-leon-xiv-analizan-dron_0_k63ZT4WAn1.html",
-          "resumen": "Fue apresado en Pilar tras hacer una llamada anónima al 911. En su casa le encontraron un dron que llamó la atención a los investigadores. Será indagado este martes en la justicia federal de Campana.",
+          "titulo": "León XIV y sus raíces negras: la historia familiar del Papa que conduce a la esclavitud y a la segregación racial en Estados Unidos",
+          "link": "https://www.clarin.com/sociedad/leon-xiv-raices-negras-historia-familiar-papa-conduce-esclavitud-segregacion-racial-estados-unidos_0_mux3WhQi29.html",
+          "resumen": "En Nueva Orleans, sus abuelos maternos fueron registrados como negros; en Chicago, como blancos. La investigación reconstruyó una genealogía que atraviesa el Caribe, Europa y Estados Unidos.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Tras la misa del Papa, Victoria Villarruel volvió a diferenciarse de Milei y exaltó la “justicia social”",
-          "link": "https://www.lanacion.com.ar/politica/tras-la-misa-del-papa-victoria-villarruel-volvio-a-diferenciarse-de-milei-y-exalto-la-justicia-nid09112026/",
-          "resumen": "“Es tal el nivel de ignorancia y fanatismo que la asocian con una ideología política argentina”, dijo; también apuntó contra el Gobierno por no impulsar la derogación del aborto",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: el Gobierno desmiente a Villarruel por la invitación a la misa del Papa en Palermo",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-desmiente-a-villarruel-por-la-invitacion-a-la-misa-nid10112026/",
+          "resumen": "La vicepresidenta dijo que no le mandaron el QR para ingresar a la celebración en el Monumento de los españoles; la Casa Rosada exhibió un correo electrónico con la convocatoria",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Por qué devolver tus compras online está dejando de ser gratis",
-          "link": "https://www.clarin.com/economia/devolver-compras-online-dejando-gratis_0_PJ3j8oHOAh.html",
-          "resumen": "Cada vez más empresas cobran por devolver productos y reducen los plazos de reembolso Un estudio reveló que el 5% de los compradores online devuelve más del 80% de lo que adquiere",
+          "titulo": "Los bonos argentinos mejoran en Wall Street y el riesgo país cae por segundo día seguido",
+          "link": "https://www.clarin.com/economia/bonos-argentinos-mejoran-wall-street-riesgo-pais-cae-segundo-dia-seguido_0_n2ny6jxGdb.html",
+          "resumen": "El indicador de JP Morgan tocó un techo en 940 puntos la semana pasada y hoy retrocedió por debajo de las 860 unidades. No hay cotización del dólar por el feriado bancario.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Granos: después de las fuertes bajas, qué precios esperan los analistas para los próximos meses",
-          "link": "https://www.lanacion.com.ar/economia/campo/granos-despues-de-las-fuertes-bajas-que-precios-esperan-los-analistas-para-los-proximos-meses-nid09112026/",
-          "resumen": "Creen que el maíz y el trigo podrían estar cerca de un piso, pero advierten que la soja todavía podría seguir en baja; el clima en Brasil y las cosechas de los principales países productores serán claves para los próximos meses",
+          "titulo": "Anthropic morigera sus expectativas y espera valer solo US$1 billón cuando cotice en la Bolsa",
+          "link": "https://www.lanacion.com.ar/tecnologia/anthropic-morigera-sus-expectativas-y-espera-valer-solo-us1-billon-cuando-cotice-en-la-bolsa-nid10112026/",
+          "resumen": "Los formularios previos de la compañía incluían un cálculo de valuación de 1,5 billones de dólares con su oferta pública de acciones, pero este martes corrigió sus estimaciones",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Las expectativas de desempleo en Estados Unidos subieron a niveles 2020, reveló la Fed",
-          "link": "https://www.ambito.com/economia/las-expectativas-desempleo-estados-unidos-subieron-niveles-2020-revelo-la-fed-n6343271",
-          "resumen": "Los estadounidenses mostraron que las preocupaciones por las perspectivas del mercado laboral crecieron, según una encuesta publicada el lunes por el Banco de la Reserva Federal de Nueva York.",
+          "titulo": "La inflación en EEUU fue mayor a la esperada en octubre y presiona a las tasas de la Fed",
+          "link": "https://www.ambito.com/economia/la-inflacion-eeuu-subio-mas-lo-previsto-octubre-y-presiona-las-tasas-la-fed-n6343564",
+          "resumen": "El nuevo dato del IPC robustece las expectativas de que el banco central norteamericano volverá a subir las tasas en diciembre. El mercado prevé un alza de 25 puntos básicos el mes que viene.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "US$ 38.000 millones en juego: las inversiones más grandes en Vaca Muerta y la minería se definen en los próximos 90 días",
-          "link": "https://www.clarin.com/energia-y-mineria/us-38000-millones-juego-inversiones-grandes-vaca-muerta-mineria-definen-proximos-90-dias_0_KlyIG4DHiG.html",
-          "resumen": "YPF tomará la decisión final de inversión para su proyecto de gas licuado a fin de mes, que implicaría un desembolso inicial de casi US$ 30.000 millones Vicuña espera hacer lo propio con su proyecto de cobre, oro y plata antes de fin de…",
+          "titulo": "Dos gigantes del agro se unen para desarrollar semillas no tradicionales destinadas a la elaboración de combustibles renovables",
+          "link": "https://www.clarin.com/rural/gigantes-agro-unen-desarrollar-semillas-tradicionales-destinadas-elaboracion-combustibles-renovables_0_xlzfQLRcwu.html",
+          "resumen": "La alianza apunta a impulsar la generación y la comercialización de materias primas con bajas emisiones de carbono. Se abocará a la obtención de oleaginosas que se utilizan en la fabricación de biocombustibles.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotizan el oficial y el paralelo este lunes 9 de noviembre, minuto a minuto",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotizan-el-oficial-y-el-paralelo-este-lunes-9-de-noviembre-nid09112026/",
-          "resumen": "Por el feriado de hoy no hay actividad en el mercado financiero y, para el dólar oficial y el dólar blue se toman como referencia los valores del último cierre",
+          "titulo": "El riesgo país vuelve a caer y queda por debajo de los 860 puntos",
+          "link": "https://www.lanacion.com.ar/economia/el-riesgo-pais-vuelve-a-bajar-y-queda-por-debajo-de-los-860-puntos-nid10112026/",
+          "resumen": "En una jornada sin operaciones en la Bolsa porteña por el feriado, las acciones argentinas retroceden en Wall Street tras el rebote que registraron este lunes",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Camioneros bloquean varias rutas en el sur de Chile, en rechazo al aumento de los combustibles",
-          "link": "https://www.clarin.com/mundo/camioneros-bloquean-varias-rutas-sur-chile-rechazo-aumento-combustibles_0_5suwaIXH1i.html",
-          "resumen": "La medida de fuerza afecta arterias clave como la Ruta 5, donde choferes independientes reclaman frenar los incrementos en el diésel para no comprometer los fletes de cara a la temporada de cosechas. Desde la Confederación de Camioneros…",
+          "titulo": "Durante la madrugada y sin dar detalles: ¿Por qué Estados Unidos evacuó aviones militares del Reino Unido por segunda vez?",
+          "link": "https://www.clarin.com/mundo/madrugada-dar-detalles-estados-unidos-evacuo-aviones-militares-reino-unido-segunda-vez_0_GZQKNm3cD9.html",
+          "resumen": "Retiró aviones cisternas de la base de Mildenhall. Ya había hecho lo mismo, semanas atrás, de la base de Fairford, ambas en Inglaterra. Medios locales afirman que se debe a una \"amenaza iraní\". Pero el Pentágono guarda silencio.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Lucas Sugo y el emotivo mensaje para su hija fallecida tras su intercambio con León XIV: “Sé que estabas ahí conmigo; es un mensaje que parece que viene de un lugar que quiero mucho”",
-          "link": "https://www.lanacion.com.ar/el-mundo/lucas-sugo-y-el-emotivo-mensaje-para-su-hija-fallecida-tras-su-intercambio-con-leon-xiv-se-que-nid09112026/",
-          "resumen": "El artista uruguayo participó de la vigilia papal en Montevideo en medio de un profundo duelo personal; dedicó palabras especiales a su hija tras recibir la bendición del pontífice",
+          "titulo": "Qué se sabe de la crisis en Paraguay hoy: “La posibilidad de que los ahorristas reclamen el dinero de todo el sistema y genere un crack financiero parecen haber quedado atrás”",
+          "link": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-de-la-crisis-en-paraguay-hoy-la-posibilidad-de-que-los-ahorristas-reclamen-el-dinero-de-nid10112026/",
+          "resumen": "A una semana de la caída de Ueno Bank, la respuesta del Banco Central contuvo el temor a un contagio entre entidades; el nuevo presidente, Pedro Alliana, enfrenta el desafío de sostener el respaldo político y resolver el impacto sobre los…",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Guerra en Medio Oriente: el petróleo vuelve a caer fuerte y alcanza su precio más bajo en dos meses",
-          "link": "https://www.clarin.com/mundo/guerra-medio-oriente-petroleo-vuelve-caer-fuerte-alcanza-precio-meses_0_xcQoYYvOlU.html",
-          "resumen": "El nuevo desplome en el valor de los hidrocarburos es como consecuencia de la posibilidad que Estados Unidos e Irán reanuden sus conversaciones a nivel oficial para tratar de poner fin al conflicto bélico en el Golfo Pérsico.",
+          "titulo": "\"Es un espectáculo político\": Pete Hegseth, el ministro de Guerra de Trump, se defiende del juicio político",
+          "link": "https://www.clarin.com/mundo/espectaculo-politico-pete-hegseth-ministro-guerra-trump-defiende-juicio-politico_0_Nc9tk8HDNc.html",
+          "resumen": "Durante su primera conferencia de prensa en seis meses, el titular del Pentágono afirmó que responderá ante la acusación impulsada por un legislador republicano. La definición sobre el juzgamiento de Hegseth podría votarse a mediados de…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Murió el autor del tiroteo en Polonia que dejó seis muertos y 15 heridos",
-          "link": "https://www.lanacion.com.ar/el-mundo/murio-el-autor-del-tiroteo-en-polonia-que-dejo-seis-muertos-y-15-heridos-nid09112026/",
-          "resumen": "El atacante de 24 años falleció en el hospital tras ser herido por la policía; la fiscalía investiga si actuó motivado por una ideología extremista, pero descarta que existan pruebas concluyentes sobre sus vínculos políticos",
+          "titulo": "“Una vista majestuosa”: la emoción de Reid Wiseman al observar la Tierra desde Artemis II",
+          "link": "https://www.lanacion.com.ar/el-mundo/una-vista-majestuosa-la-emocion-de-reid-wiseman-al-observar-la-tierra-desde-artemis-ii-nid09112026/",
+          "resumen": "Se trató de un mensaje mientras realizaban la misión, antes de que la tripulación pierda la conexión con el planeta durante 40 minutos",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Nicolás Maduro en prisión: estudia religión, se interesa por el judaísmo y bajó mucho de peso",
-          "link": "https://www.clarin.com/mundo/nicolas-maduro-prision-estudia-religion-interesa-judaismo-peso_0_wOYahrYmRQ.html",
-          "resumen": "El depuesto presidente venezolano está detenido en el Centro de Detención Metropolitano de Brooklyn desde enero. Mantuvo reuniones con capellanes y lee la Biblia y el Corán.",
+          "titulo": "Impactante choque múltiple en Bulgaria: ya hay 11 muertos y 86 vehículos involucrados",
+          "link": "https://www.clarin.com/mundo/tragico-choque-multiple-bulgaria-11-muertos-86-vehiculos-involucrados_0_IPKtLMCcYm.html",
+          "resumen": "El dramático hecho se produjo sobre la autopista Trakia, cerca de la ciudad de Yambol, en el sudeste del país. La principal hipótesis de las autoridades es que los accidentes en cadena ocurrieron por una niebla espesa y repentina.",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Los Pumas, entre las lesiones y los regresos: Mallía es baja, Bosch vuelve después de cinco años y esperan por Montoya",
-          "link": "https://www.clarin.com/deportes/pumas-lesiones-regresos-mallia-baja-bosch-vuelve-despues-anos-esperan-montoya_0_QqMx4fEArZ.html",
-          "resumen": "El esguince de rodilla del jugador de Toulouse obligó a convocar a Tobías Wade. El capitán sigue bajo el protocolo de conmoción cerebral y es duda para enfrentar a Italia. La emergencia en el puesto de hooker abrió la puerta al regreso de…",
+          "titulo": "Un jugador del Atlético de Madrid reveló cómo impactó en el vestuario la novela de Julián Álvarez y el Barcelona: \"No nos sentó muy bien\"",
+          "link": "https://www.clarin.com/deportes/jugador-atletico-madrid-revelo-impacto-vestuario-novela-julian-alvarez-barcelona-sento-bien_0_l7OZJPwtBI.html",
+          "resumen": "Álex Baena contó que sus compañeros se sintieron incómodos por sus declaraciones y que la Araña debió pedirles disculpas. \"Lo que molestó fueron las formas\", dijo.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Lamine Yamal compró la mansión de 3800 metros cuadrados de Shakira y Piqué por 11 millones de euros: tiene cancha de fútbol cinco",
-          "link": "https://www.lanacion.com.ar/deportes/lamine-yamal-compro-la-mansion-de-3800-metros-cuadrados-de-shakira-y-pique-por-11-millones-de-euros-nid09112026/",
-          "resumen": "El futbolista del FC Barcelona consolidó su vida personal en la exclusiva residencia de Ciutat Diagonal; el jugador ejecuta obras constantes para adaptar los espacios de lujo a sus necesidades",
+          "titulo": "Juan Cruz Montero, candidato a presidente de Vélez: “Si no cambiamos el modelo económico, no vamos a tener un club en el futuro cercano”",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/juan-cruz-montero-candidato-a-presidente-de-velez-si-no-cambiamos-el-modelo-economico-no-vamos-a-nid10112026/",
+          "resumen": "El postulante por ADN Azul y Blanco apunta duro contra el oficialismo y propone recuperar económicamente a Vélez para que vuelvan los éxitos a nivel internacional",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Etcheverry sufrió para avanzar en Estocolmo y habrá duelo argentino en octavos",
-          "link": "https://www.ole.com.ar/tenis/etcheverry-avanzo-octavos-atp-250-estocolmo-duelo-argentino_0_upe3fEROvl.html",
-          "resumen": "El platense derrotó en tres sets al local Max Dahlin y se medirá con un compatriota por un lugar en los cuartos de final del ATP 250 sueco.",
+          "titulo": "El detalle especial de Dibu Martínez en el primer entrenamiento de la Selección Argentina con grupo completo",
+          "link": "https://www.ole.com.ar/seleccion/detalle-especial-dibu-matinez-mascara-proteccion-fractura-mandibula-entrenamiento-seleccion-argentina-video_0_fgl1YFp8nC.html",
+          "resumen": "El arquero se sumó a la Selección para los amistosos contra Uruguay y Costa Rica. En rehabilitación de una fractura de mandíbula, ¿estará para atajar?",
           "fuente": "Olé"
         },
         {
-          "titulo": "Pau Cubarsí, el campeón del mundo de 19 años que ganó el Golden Boy 2026 y se metió en la historia junto a Messi y Agüero",
-          "link": "https://www.clarin.com/deportes/pau-cubarsi-campeon-mundo-19-anos-gano-golden-boy-2026-metio-historia-junto-messi-aguero_0_8z8yZmKiOW.html",
-          "resumen": "El defensor del Barcelona fue elegido como el mejor futbolista Sub 21 de Europa. Formado en La Masía, se consolidó como una de las grandes figuras del fútbol mundial. Mastantuono y Prestianni habían estado entre los 100 candidatos al…",
+          "titulo": "Cierre del Mundial 2026: la Fórmula 1 descartó el \"Plan B\" en Imola y ratificó sus fechas en Medio Oriente",
+          "link": "https://www.clarin.com/deportes/cierre-mundial-2026-formula-1-descarto-plan-b-imola-ratifico-fechas-medio-oriente_0_emO3W40ANg.html",
+          "resumen": "El presidente de la FIA, Mohammed ben Sulayem, ratificó que la categoría mantendrá su programa original. La decisión deja de lado la opción de correr en Imola, un circuito trazado como alternativa ante las dudas generadas por la situación…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Próximo partido de los Pumas: cuándo juegan vs. Italia, por el Nations Championship 2026",
-          "link": "https://www.lanacion.com.ar/deportes/rugby/proximo-partido-de-los-pumas-cuando-juegan-vs-italia-por-el-nations-championship-2026-nid09112026/",
-          "resumen": "La selección argentina se presentará por quinta vez en el campeonato el próximo fin de semana en Génova con el objetivo de dejar atrás la derrota ante Irlanda",
+          "titulo": "Néstor Lorenzo, entrenador de Colombia, justificó la no convocatoria de Álvaro Montero, arquero de Boca, para la próxima doble fecha FIFA",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/nestor-lorenzo-entrenador-de-colombia-justifico-la-no-convocatoria-de-alvaro-montero-arquero-de-boca-nid10112026/",
+          "resumen": "“Estaba programado así”, dijo el DT argentino, que fue cuestionado por su colega de Atlético Nacional, que debió ceder a su arquero en medio de instancias definitorias en ese país",
           "fuente": "La Nación"
         }
       ]

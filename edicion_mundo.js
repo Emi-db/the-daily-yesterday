@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "9 de noviembre de 2026",
-    "generada": "20:14",
+    "fecha": "10 de noviembre de 2026",
+    "generada": "17:20",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Las 4 investigaciones que los demócratas pueden abrir contra el gobierno de Trump tras tomar control del Congreso de EE.UU.",
-            "link": "https://www.bbc.com/mundo/articles/ck8dz3494l5yo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Los demócratas prometieron una oleada de investigaciones contra la administración Trump si recuperaban el control de la Cámara de Representantes, la cual ocurrió.",
+            "titulo": "Por qué México recauda tan pocos impuestos (y cómo financia su creciente Estado de bienestar)",
+            "link": "https://www.bbc.com/mundo/articles/cm4g109r03npo?at_medium=RSS&at_campaign=rss",
+            "resumen": "México es de los países que menos recauda impuestos en América Latina, pero el gasto público es un motor de su consumo interno y arma clave contra la pobreza. Análisis de las “anomalías fiscales” mexicanas.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Nvidia abre una investigación a su consejero delegado sobre su relación con una presunta espía china",
-            "link": "https://elpais.com/us/2026-11-08/nvidia-abre-una-investigacion-a-su-ceo-sobre-posible-espionaje.html",
-            "resumen": "Jensen Huang ha reconocido haber sido infiel a su mujer en un comunicado a los empleados de la compañía tecnológica",
+            "titulo": "Pete Hegseth: “El juicio político es una farsa y va a fracasar”",
+            "link": "https://elpais.com/us/2026-11-10/hegseth-el-juicio-politico-es-una-farsa-y-todos-lo-saben.html",
+            "resumen": "El secretario de Defensa ha ofrecido su primera rueda de prensa en seis meses para defender su gestión tras la apertura de un juicio político en el Congreso de EE UU contra él",
             "fuente": "El País"
           },
           {
-            "titulo": "Directo París y el anuncio del adelanto del aumento del salario mínimo en Francia",
-            "link": "https://www.france24.com/es/video/20261109-directo-par%C3%ADs-y-el-anuncio-del-adelanto-del-aumento-del-salario-m%C3%ADnimo-en-francia",
-            "resumen": "En medio de la temporada de protestas, el Gobierno francés anunció un nuevo aumento del salario mínimo con el objetivo de calmar las movilizaciones sociales. El primer ministro, Sébastien Lecornu, anunció el adelanto del alza, pero los…",
+            "titulo": "Trump habla con CEO de Nvidia en medio de investigación de posible espionaje de su amante",
+            "link": "https://www.france24.com/es/video/20261110-trump-habla-con-ceo-de-nvidia-en-medio-de-investigaci%C3%B3n-de-posible-espionaje-de-su-amante",
+            "resumen": "Tras hacerse conocida la relación extramatrimonial del presidente de Nvidia, Jensen Huang, con Alice Huang, una presunta espía china, el presidente de Estados Unidos aseguró que el FBI se está encargando de la investigación y que contactó…",
             "fuente": "France 24"
           },
           {
-            "titulo": "\"El progreso de una nación se mide por la acogida que da a los discapacitados\": por qué es tan simbólica la visita de León XIV al Pequeño Cottolengo Don Orione",
-            "link": "https://www.bbc.com/mundo/articles/ck240e0n9z8yo?at_medium=RSS&at_campaign=rss",
-            "resumen": "La histórica institución asistencial figura entre las entidades que se han visto afectadas por los recortes aplicados por el gobierno del libertario Javier Milei en los últimos años.",
+            "titulo": "Qué presencia tienen los lefebvrianos en Argentina, el primer país de América Latina en el que se estableció el grupo que desafía a León XIV",
+            "link": "https://www.bbc.com/mundo/articles/cwp8gg9e0nn7o?at_medium=RSS&at_campaign=rss",
+            "resumen": "La organización tradicionalista desembarcó en el país durante la dictadura militar y actualmente está presente en 11 de las 24 provincias.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Un congresista republicano da el primer paso para iniciar el ‘impeachment’ del secretario de Defensa, Pete Hegseth",
-            "link": "https://elpais.com/us/2026-11-09/un-congresista-presenta-los-articulos-de-destitucion-contra-el-secretario-de-defensa-pete-hegseth.html",
-            "resumen": "Este proceso de ‘impeachment’ es el primero contra un representante de la Administración Trump y llega después de la derrota republicana en las elecciones",
+            "titulo": "Pete Hegseth, 22 meses de polémica en el Pentágono",
+            "link": "https://elpais.com/us/2026-11-10/pete-hegseth-22-meses-de-polemica-en-el-pentagono.html",
+            "resumen": "El mandato del expresentador de televisión al frente del Departamento de Defensa ha estado marcado por los ceses entre los altos mandos, los ataques a supuestas narcolanchas y la guerra contra Irán",
             "fuente": "El País"
           }
         ]
@@ -43,9 +43,9 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Los sindicatos se preparan para un seguimiento “desigual” de la huelga por territorios, sectores y edades",
-            "link": "https://elpais.com/economia/2026-11-09/los-sindicatos-preven-un-seguimiento-desigual-por-territorios-sectores-y-edades-en-la-huelga-general.html",
-            "resumen": "Las centrales anticipan manifestaciones masivas y buscan detener la actividad, pero prevén un respaldo “asimétrico” en función del impacto de la crisis de la vivienda y del conflicto ya en marcha",
+            "titulo": "Los salarios de convenio crecen un 3,1%, casi dos puntos menos que la inflación",
+            "link": "https://elpais.com/economia/2026-11-10/los-salarios-de-convenio-crecen-un-31-casi-dos-puntos-menos-que-la-inflacion.html",
+            "resumen": "La pérdida de poder de compra supera en lo que va de año todo lo que se recuperó entre 2023 y 2025",
             "fuente": "El País"
           },
           {
@@ -55,9 +55,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "Estos son los servicios mínimos de transporte y otras áreas para la huelga general del 11 de noviembre",
-            "link": "https://elpais.com/economia/2026-11-09/estos-son-los-servicios-minimos-de-transporte-y-otras-areas-para-la-huelga-general-del-11-de-noviembre.html",
-            "resumen": "En Cercanías pasarán el 75% de los trenes en hora punta y se asegura ente el 56% y el 85% de los vuelos a las islas. Para sanidad y educación, depende de la autonomía",
+            "titulo": "¿Tengo que avisar a mi jefe? ¿Y si trabajo de noche? Dudas sobre los derechos en la huelga general del 11-N",
+            "link": "https://elpais.com/economia/2026-11-10/tengo-que-avisar-a-mi-jefe-y-si-trabajo-de-noche-dudas-sobre-los-derechos-en-la-huelga-general-del-11-n.html",
+            "resumen": "Los trabajadores pueden participar en piquetes informativos siempre que se limiten a “persuadir pacíficamente”, indican los sindicatos",
             "fuente": "El País"
           },
           {
@@ -67,9 +67,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "El tropiezo de la IA que comenzó en China se extiende a Estados Unidos",
-            "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-09/la-burbuja-bursatil-de-la-ia-pincho-primero-en-china-el-star-50-pierde-casi-la-mitad-de-su-valor.html",
-            "resumen": "El índice tecnológico del país asiático ha perdido casi 394.000 millones de euros desde finales de junio y las tecnológicas acumulan cuatro meses de caídas",
+            "titulo": "Anacláudia Rossbach (ONU-Hábitat): “Las políticas de vivienda que teníamos no están funcionando”",
+            "link": "https://elpais.com/economia/vivienda/2026-11-10/anaclaudia-rossbach-onu-habitat-las-politicas-de-vivienda-que-teniamos-no-estan-funcionando.html",
+            "resumen": "La directora ejecutiva del Programa de las Naciones Unidas para los Asentamientos Humanos cree que estamos en un momento de transición y pide un acuerdo social",
             "fuente": "El País"
           }
         ]
@@ -77,6 +77,18 @@ const EDICION_MUNDO = {
       {
         "nombre": "Ciencia y Tecnología",
         "notas": [
+          {
+            "titulo": "Chimpancés, monos y cucarachas: los animales también votan y sus elecciones pueden ser manipuladas",
+            "link": "https://elpais.com/ciencia/2026-11-10/chimpances-monos-y-cucarachas-los-animales-tambien-votan-y-sus-elecciones-pueden-ser-manipuladas.html",
+            "resumen": "Las decisiones colectivas no son exclusivas de los humanos. Estos son los distintos mecanismos con los que algunas especies comunican sus preferencias",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Así logró China engañar al empresario más poderoso de la IA con una operación de seducción",
+            "link": "https://elpais.com/tecnologia/2026-11-10/asi-logro-china-enganar-al-empresario-mas-poderoso-de-la-ia-con-una-operacion-de-seduccion.html",
+            "resumen": "Jensen Huang, fundador de Nvidia, ha admitido que le fue infiel a su esposa con una mujer que, según EE UU, es una espía",
+            "fuente": "El País"
+          },
           {
             "titulo": "Karl Deisseroth, Nobel de Medicina: “Los modelos avanzados de inteligencia artificial podrían leer la actividad cerebral de las personas”",
             "link": "https://elpais.com/ciencia/2026-11-07/karl-deisseroth-nobel-de-medicina-los-modelos-avanzados-de-inteligencia-artificial-podrian-leer-la-actividad-cerebral-de-las-personas.html",
@@ -94,18 +106,6 @@ const EDICION_MUNDO = {
             "link": "https://elpais.com/ciencia/2026-11-09/nanomaquinas-pegamentos-contra-la-psoriasis-y-ecuaciones-para-entender-el-cerebro-tres-ideas-ganadoras-de-cientificos-espanoles.html",
             "resumen": "Cristina Mayor-Ruiz, Jesús Mosquera y David Poyato son tres de los 59 becarios de la Fundación BBVA 2026. Estos son sus proyectos",
             "fuente": "El País"
-          },
-          {
-            "titulo": "El Gobierno se plantea paralizar los servicios de TikTok en España por permitir abuso sexual infantil",
-            "link": "https://elpais.com/tecnologia/2026-11-09/el-gobierno-se-plantea-paralizar-los-servicios-de-tiktok-en-espana-por-permitir-abuso-sexual-infantil.html",
-            "resumen": "La ministra de Juventud e Infancia, Sira Rego, pide a la Fiscalía la apertura de una investigación contra la red social por dejar que pederastas usen abiertamente su plataforma",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "La generación Z descubre las cartas con clubes de ciencia: “Puedes estar a tu bola y huir del ‘scroll infinito”",
-            "link": "https://elpais.com/ciencia/2026-11-06/la-generacion-z-descubre-las-cartas-con-clubes-de-ciencia-puedes-estar-a-tu-bola-y-huir-del-scroll-infinito.html",
-            "resumen": "Muchos jóvenes encuentran en grupos epistolares creados en torno a los temas que les gustan el primer motivo de sus vidas para estar pendientes del buzón. Esperar la misiva les aporta sosiego en un mundo digitalizado",
-            "fuente": "El País"
           }
         ]
       },
@@ -113,33 +113,33 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "¡Locura en Valencia con la llegada del Madrid!",
-            "link": "https://www.marca.com/futbol/real-madrid/2026/11/07/locura-valencia-llegada-madr-video.html",
-            "resumen": "",
+            "titulo": "El Langui cierra una temporada inolvidable con una plata en Sao Paulo",
+            "link": "https://www.marca.com/paralimpicos/2026/11/10/langui-cierra-temporada-inolvidable-primer-podio-copa-mundo.html",
+            "resumen": "El rapero y actor entra en su primera final en una Copa del Mundo. Aún tiene opciones de ganar otra por equipos",
             "fuente": "Marca"
           },
           {
-            "titulo": "Oficial: Cubarsí, Golden Boy 2026",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261109/1004249074/oficial-cubarsi-golden-boy-2026.html",
-            "resumen": "Pau Cubarsí (19 años), central del FC Barcelona , ha sido elegido Golden Boy 2026 , premio que reconoce al mejor jugador de Europa Sub-21 y que concede el diario italiano Tuttosport. Cubarsí se ha impuesto a un gran elenco de estrellas…",
+            "titulo": "Joan Garcia: \"Nuestro estilo conlleva un riesgo grande, pero se ha demostrado que vale la pena\"",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249465/joan-garcia-nuestro-estilo-conlleva-riesgo-grande-demostrado-vale-pena.html",
+            "resumen": "Joan Garcia (25 años) regresó a la concentración de la selección española después de ausentarse en la última ventana. El portero del Barça, uno de los grandes protagonistas de la última victoria del equipo azulgrana en el Metropolitano…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Simeone y el simpático cruce de palabras con un periodista",
-            "link": "https://www.marca.com/futbol/atletico/2026/11/07/simeone-simpatico-cruce-palabras-periodista-video.html",
-            "resumen": "",
+            "titulo": "El megacontrato que ofrece Al Nassr a Joao Félix para evitar su vuelta a Europa",
+            "link": "https://www.marca.com/futbol/liga-arabia-saudi/2026/11/10/megacontrato-ofrece-nassr-joao-felix-evitar-vuelta-europa.html",
+            "resumen": "El equipo saudí quiere blindar al portugués mejorándole el salario y sus condiciones",
             "fuente": "Marca"
           },
           {
-            "titulo": "Joan Laporta, elegido mejor presidente",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261109/1004249123/joan-laporta-elegido-mejor-presidente.html",
-            "resumen": "Joan Laporta ha sido elegido el mejor presidente de la pasada temporada en la ceremonia del Golden Boy 2026 , premio que reconoce al mejor jugador de Europa Sub-21 y que concede el diario italiano Tuttosport. El anuncio ha sido anterior a…",
+            "titulo": "Gerard Martín: \"Sé que cuando no sea una época buena se va a poner en duda la posición del central\"",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249533/gerard-martin.html",
+            "resumen": "Ganar ante el Atlético de Madrid el pasado domingo fue fundamental para que el FC Barcelona recuperara sensaciones tras dos duras derrotas ante rivales importantes, como fueron el PSG y el Real Madrid . Además de mantener el liderato, y…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "La curiosa paradoja que nos deja el regreso de la NFL",
-            "link": "https://www.marca.com/nfl/2026/11/07/curiosa-paradoja-deja-regreso-nfl.html",
-            "resumen": "Este año, el partido está haciendo mucho menos ruido y, en cambio, la parte deportiva promete mucho más",
+            "titulo": "De Panathinaikos a Hapoel: ¿Por qué se disparan los presupuestos de la Euroliga?",
+            "link": "https://www.marca.com/sport-business/2playbook/2026/11/10/panathinaikos-hapoel-disparan-presupuestos-euroliga.html",
+            "resumen": "Los 20 clubes de la Euroliga destinan entre 10 millones y 50 millones de euros en salarios",
             "fuente": "Marca"
           }
         ]
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "November 9, 2026",
-    "generada": "20:14",
+    "fecha": "November 10, 2026",
+    "generada": "17:20",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "France accuses Iran of supermarket fridge hacking",
-            "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
+            "titulo": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+            "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+            "link": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
+            "resumen": "Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red Crescent Lewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sending humanitarian aid to the…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "U.S. Received $12 Billion From Venezuela’s Oil, Report Shows",
+            "link": "https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html",
+            "resumen": "The workings of a U.S.-controlled bank account shed light on how Washington manages Venezuelan revenue after capturing the country’s president.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "First day of Ukraine peace talks 'very productive', US says",
+            "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
             "fuente": "BBC"
           },
           {
             "titulo": "Collision of two trains in Egypt kills at least seven",
             "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
             "resumen": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains collided on Sunday south of the Egyptian capital, Cairo,…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "Shipwreck Off Senegal Kills Dozens as Canaries Declare Migrant Emergency",
-            "link": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
-            "resumen": "Migrant arrivals to Europe are down overall but still claiming scores of victims, overwhelming local officials and dominating political debate.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-            "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "How African philosophies inspired a new approach to staging film festivals in Manchester",
-            "link": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
-            "resumen": "See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creatives African philosophies including exploring how lessons from the past can shape the present…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Nvidia’s value tumbles by $330bn after ‘honeytrap’ investigation launched, as China denies spying claims – business live",
-            "link": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
-            "resumen": "Shares in world’s most valuable company hit seven-month low after CEO Huang admits to affair, after allegations of relationship with Chinese spy Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "Boeing Will Cut 5% of Commercial Plane Employees",
-            "link": "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
-            "resumen": "The company said it needed fewer workers because production was increasing more slowly than previously expected.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "Civil servant who secretly held five jobs found guilty of fraud",
-            "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
-            "resumen": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+            "titulo": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+            "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Economic relief is on the way, Democrats say. But what, how and when?",
-            "link": "https://www.theguardian.com/us-news/2026/nov/09/democrats-midterms-economy-healthcare",
-            "resumen": "Winning candidates promised to cut costs, rein in corporations, curb billionaire power and improve the economy Don’t worry, cash-strapped Americans, “relief is on the way”, the senator Chuck Schumer promised last week in a press…",
+            "titulo": "US inflation rose 0.4% in October as price increases cooled and gas costs dipped",
+            "link": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report",
+            "resumen": "New data comes after Republicans’ midterms losses – which were largely seen as a rebuke of the party over high prices US inflation rose 0.4% from September to October, slightly above expectations but still a cooldown in price increases as…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Could the Voter Backlash Against A.I. Actually Help the Economy?",
-            "link": "https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html",
-            "resumen": "Voter backlash could threaten the data center boom. Some economists think that could be a good thing.",
+            "titulo": "Here’s the latest.",
+            "link": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october/heres-the-latest",
+            "resumen": "",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+            "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Failure of California Billionaire Tax Strikes Blow to Progressive Agenda",
+            "link": "https://www.nytimes.com/2026/11/10/business/billionaire-tax-progressive-agenda.html",
+            "resumen": "A wealth tax on billionaires seemed like a political layup. The outcome of a California ballot initiative shows otherwise.",
             "fuente": "N.Y. Times"
           }
         ]
@@ -224,34 +224,34 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Birds return to waterfowl park after oil vandalism",
-            "link": "https://www.bbc.co.uk/news/articles/c6gqwq1x85e0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The vandalism of a nearby home heating oil tank resulted in the death of 13 birds from the park.",
-            "fuente": "BBC"
-          },
-          {
             "titulo": "Medical breakthrough offers hope to people with same stiff person syndrome as Céline Dion",
             "link": "https://www.theguardian.com/science/2026/nov/09/medical-breakthrough-offers-hope-to-people-with-same-stiff-person-syndrome-as-celine-dion",
-            "resumen": "Some patients with autoimmune condition, taking part in trial, have been able to return to work and resume hobbies Doctors have made a potentially significant breakthrough in the hunt for a treatment for stiff person syndrome, the…",
+            "resumen": "Some patients with autoimmune condition in the trial have been able to return to work and resume hobbies Doctors have made a potentially significant breakthrough in the hunt for a treatment for stiff person syndrome, the autoimmune…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "How Did Greek Fire Work? And 6 Other Lost Inventions.",
-            "link": "https://www.nytimes.com/2026/11/09/science/lost-inventions-to-time-greek-fire-antikythera.html",
-            "resumen": "Even once-widespread innovations have been forgotten, leaving scholars puzzling over the details.",
+            "titulo": "Could Alien Life Thrive in Sulfuric Acid Instead of Water?",
+            "link": "https://www.nytimes.com/2026/11/10/science/sulfuric-acid-elixir-of-life.html",
+            "resumen": "Best known for dissolving bodies in bathtubs, sulfuric acid has the potential to be the elixir of life on other worlds.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Scientists predict 2026 hottest year on record as climate talks begin",
-            "link": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Scientists are predictng this could be the hottest year on record as the COP31 climate summit opens.",
+            "titulo": "The swan sanctuary wetland fighting climate change",
+            "link": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The global campaign to restore the \"soggy secret weapon\" that can combat against climate change.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Ukraine’s new frontier: how space has become critical to balance of the war",
-            "link": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/ukraine-space-critical-war-starlink",
-            "resumen": "In a war driven by drones and battlefield sensors, access to space is essential. After Starlink speed restrictions and Russian Oreshnik missile strikes, Kyiv is racing to develop its own space capabilities For people in the Russian…",
+            "titulo": "Winter depression is real. Here’s what can help - podcast",
+            "link": "https://www.theguardian.com/science/audio/2026/nov/10/why-we-get-sad-and-what-helps-podcast",
+            "resumen": "As the nights draw in, many of us can experience low mood. But for a small proportion of people a more intense depression develops through the winter months. It’s a phenomenon that since the 1980s has been labelled seasonal affective…",
             "fuente": "The Guardian"
+          },
+          {
+            "titulo": "El Niño Is Hitting California Hard",
+            "link": "https://www.nytimes.com/2026/11/10/climate/el-nino-california-flooding-fires-kelvin-wave.html",
+            "resumen": "Rising sea levels and violent weather are testing residents in some of the most picturesque cities along the Pacific Coast.",
+            "fuente": "N.Y. Times"
           }
         ]
       },
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Kane and Bellingham air strong views in England World Cup review",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqr7y7813l04o?at_medium=RSS&at_campaign=rss",
-            "resumen": "England players are understood to have aired strong views about their World Cup semi-final defeat by Argentina in a team meeting.",
+            "titulo": "Carrick's Man Utd future to be decided at Wednesday meeting",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
+            "resumen": "Manchester United head coach Michael Carrick's future will be discussed at a meeting on Wednesday, but executives Omar Berrada and Jason Wilcox retain the support of minority owner Sir Jim Ratcliffe.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Manchester United weighing up Michael Carrick sacking as Wilcox leads review",
-            "link": "https://www.theguardian.com/football/2026/nov/09/manchester-united-michael-carrick-jason-wilcox-review-sacking",
-            "resumen": "Carrick given time after Como and Bournemouth defeats Recommendation will be made to Sir Jim Ratcliffe Manchester United are deciding whether Michael Carrick should be sacked, with Jason Wilcox, the director of football, leading the…",
+            "titulo": "Mauricio Pochettino interested in leaving USMNT job for Manchester United",
+            "link": "https://www.theguardian.com/football/2026/nov/10/mauricio-pochettino-interested-manchester-united-usmnt-release-clause",
+            "resumen": "Coach’s contract has release clause of about $10m United expected to sack Michael Carrick after awful start US men’s national team head coach Mauricio Pochettino is interested in a move to Manchester United, multiple sources told the…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Man Utd yet to make decision on Carrick's future",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cw4g1g7z2mdgo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Manchester United's board are yet to make a final decision on Michael Carrick's future, despite the club's worst start to a campaign in 40 years.",
+            "titulo": "Pochettino, Howe, Emery... or Carrick? Man Utd's managerial options",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c5rmymrvm004o?at_medium=RSS&at_campaign=rss",
+            "resumen": "As doubts grow over Manchester United boss Michael Carrick's future, what are the club's managerial options?",
             "fuente": "BBC"
           },
           {
-            "titulo": "Dianna Russini returns to sports media after Vrabel photo scandal with NFL betting show",
-            "link": "https://www.theguardian.com/sport/2026/nov/09/dianna-russini-return-betus-show",
-            "resumen": "Show will stream on platforms of BetUS sportsbook Ex-Athletic NFL insider had resigned in April Patriots coach, Russini were pictured at resort Dianna Russini will return to sports media with a weekly one-hour show focused on the NFL…",
+            "titulo": "NFL trade deadline 2026: Jonathan Taylor status, Vikings eye QB and more – live updates",
+            "link": "https://www.theguardian.com/sport/live/2026/nov/10/nfl-trade-deadline-2026-live-updates-deals-rumors-news",
+            "resumen": "All the latest news and deals before the today’s deadline Jaguars add Davis to help defense; Simmons boosts Bears Follow the buildup to the 4pm ET cutoff and fallout Email Ella with your thoughts on the deadline moves In NFL-adjacent…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "People don't know full story behind England exile - White",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6rmym3p419no?at_medium=RSS&at_campaign=rss",
-            "resumen": "Arsenal defender Ben White says people don't know the \"full story\" behind his decision to previously make himself unavailable for England selection - but says he would make the same decision again.",
+            "titulo": "McTominay reveals heart treatment at World Cup",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Scott McTominay reveals he received treatment on his heart two days before Scotland's World Cup win over Haiti in June.",
             "fuente": "BBC"
           }
         ]
