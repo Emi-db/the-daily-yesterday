@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "10 de noviembre de 2026",
-  "generada": "17:20",
+  "fecha": "11 de noviembre de 2026",
+  "generada": "17:31",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "El Comité de la ONU al que acudió Cristina Kirchner para ser candidata no trató su pedido y lo pasa para el año que viene",
-          "link": "https://www.clarin.com/politica/comite-onu-acudio-cristina-kirchner-candidata-trato-pedido-pasa-ano-viene_0_7UqBlBTeAS.html",
-          "resumen": "El organismo cerró las sesiones ordinarias a principios de noviembre sin evaluar la solicitud de la ex presidenta y se le complica más su estrategia para ser candidata.",
+          "titulo": "La expareja de Fernando Cerimedo se fue a México tras recibir asilo político del Gobierno de Sheinbaum",
+          "link": "https://www.clarin.com/politica/expareja-fernando-cerimedo-mexico-recibir-asilo-politico-gobierno-sheinbaum_0_mj2wFQ9PRY.html",
+          "resumen": "El exasesor de Javier Milei está detenido acusado de intento de femicidio sobre Nadia Beller.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Allanan propiedades de Lázaro Báez en una causa por narcotráfico y lavado de dinero",
-          "link": "https://www.lanacion.com.ar/politica/allanan-propiedades-de-lazaro-baez-en-una-causa-por-narcotrafico-y-lavado-de-dinero-nid10112026/",
-          "resumen": "Lo ordenó el juez federal de Río Gallegos en una causa contra el empresario, su pareja y otras personas; también allanaron la celda donde está detenido",
+          "titulo": "Las lágrimas de Javier Milei en el cierre de la gira histórica del papa León XIV en la Argentina",
+          "link": "https://www.lanacion.com.ar/politica/la-emocion-de-javier-milei-en-el-cierre-de-la-gira-historica-del-papa-leon-xiv-en-la-argentina-nid11112026/",
+          "resumen": "",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Murió Héctor Aguer, el arzobispo emérito de La Plata que fue una de las voces conservadoras de la Iglesia argentina",
-          "link": "https://www.infobae.com/politica/2026/11/10/murio-hector-aguer-el-arzobispo-emerito-de-la-plata-que-fue-una-de-las-voces-conservadoras-de-la-iglesia-argentina/",
-          "resumen": "Tenía 83 años y falleció hoy en Buenos Aires. Condujo el arzobispado platense durante 18 años, desarrolló una extensa trayectoria académica y religiosa, y protagonizó fuertes debates doctrinarios. Estuvo enfrentado con el papa Francisco",
+          "titulo": "El final de la visita de León XIV a la Argentina: una tregua necesaria y el desafío de evitar una interpretación facciosa de sus mensajes",
+          "link": "https://www.infobae.com/politica/2026/11/11/el-final-de-la-visita-de-leon-xiv-a-la-argentina-una-tregua-necesaria-y-el-desafio-de-evitar-una-interpretacion-facciosa-de-sus-mensajes/",
+          "resumen": "Durante cuatro días, millones protagonizaron una masiva demostración de fe, emoción y convivencia. Los discursos del Papa abrieron una disputa entre el Gobierno y el peronismo, pero dejaron una reflexión profunda sobre la pobreza, el…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "León XIV y sus raíces negras: la historia familiar del Papa que conduce a la esclavitud y a la segregación racial en Estados Unidos",
-          "link": "https://www.clarin.com/sociedad/leon-xiv-raices-negras-historia-familiar-papa-conduce-esclavitud-segregacion-racial-estados-unidos_0_mux3WhQi29.html",
-          "resumen": "En Nueva Orleans, sus abuelos maternos fueron registrados como negros; en Chicago, como blancos. La investigación reconstruyó una genealogía que atraviesa el Caribe, Europa y Estados Unidos.",
+          "titulo": "La reacción de Bullrich luego que Irán declarara terroristas a la Armada y la Fuerza Aérea argentinas: \"Marca de qué lado estamos\"",
+          "link": "https://www.clarin.com/politica/reaccion-bullrich-luego-iran-declarara-terroristas-armada-fuerza-aerea-argentinas-marca-lado_0_6qhHfzD89m.html",
+          "resumen": "La senadora, exministra de Seguridad, aseguró que Irán es \"un país que le niega la libertad y los derechos humanos a su propio pueblo\" y que \"cometió dos atentados en nuestro país\". El régimen persa utilizó el \"principio de reciprocidad\"…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: el Gobierno desmiente a Villarruel por la invitación a la misa del Papa en Palermo",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-desmiente-a-villarruel-por-la-invitacion-a-la-misa-nid10112026/",
-          "resumen": "La vicepresidenta dijo que no le mandaron el QR para ingresar a la celebración en el Monumento de los españoles; la Casa Rosada exhibió un correo electrónico con la convocatoria",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: “Así somos imparables”, dijo Quirno sobre la visita del Papa",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-asi-somos-imparables-dijo-quirno-sobre-la-visita-del-papa-nid11112026/",
+          "resumen": "El canciller le agradeció al Pontífice por su viaje a la Argentina y a los jóvenes del país; este miércoles, el Santo Padre continúa con su gira por Perú",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Los bonos argentinos mejoran en Wall Street y el riesgo país cae por segundo día seguido",
-          "link": "https://www.clarin.com/economia/bonos-argentinos-mejoran-wall-street-riesgo-pais-cae-segundo-dia-seguido_0_n2ny6jxGdb.html",
-          "resumen": "El indicador de JP Morgan tocó un techo en 940 puntos la semana pasada y hoy retrocedió por debajo de las 860 unidades. No hay cotización del dólar por el feriado bancario.",
+          "titulo": "Inflación: cuánto fue el IPC de octubre y qué suba de precios se espera hasta fin de año",
+          "link": "https://www.clarin.com/economia/inflacion-ipc-octubre-suba-precios-espera-fin-ano_0_kBMdcAUElS.html",
+          "resumen": "Este jueves se conocerá el IPC de octubre. En septiembre fue de 1,9%. La inflación promedio del último año quedó estable apenas por abajo de 2%. Cómo viene noviembre: ¿ayudó el Cybermonday a bajar algunos precios?",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Anthropic morigera sus expectativas y espera valer solo US$1 billón cuando cotice en la Bolsa",
-          "link": "https://www.lanacion.com.ar/tecnologia/anthropic-morigera-sus-expectativas-y-espera-valer-solo-us1-billon-cuando-cotice-en-la-bolsa-nid10112026/",
-          "resumen": "Los formularios previos de la compañía incluían un cálculo de valuación de 1,5 billones de dólares con su oferta pública de acciones, pero este martes corrigió sus estimaciones",
+          "titulo": "Una plataforma global de e-commerce llega a la Argentina para integrar ventas, stock y logística",
+          "link": "https://www.lanacion.com.ar/economia/negocios/una-plataforma-global-de-e-commerce-llega-a-la-argentina-para-integrar-ventas-stock-y-logistica-nid11112026/",
+          "resumen": "Base.com, una firma polaca que opera en más de 20 países y es utilizada por más de 30.000 empresas, abrió operación local con un equipo propio de implementación y soporte; conecta marketplaces, tiendas online, inventarios y operadores…",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La inflación en EEUU fue mayor a la esperada en octubre y presiona a las tasas de la Fed",
-          "link": "https://www.ambito.com/economia/la-inflacion-eeuu-subio-mas-lo-previsto-octubre-y-presiona-las-tasas-la-fed-n6343564",
-          "resumen": "El nuevo dato del IPC robustece las expectativas de que el banco central norteamericano volverá a subir las tasas en diciembre. El mercado prevé un alza de 25 puntos básicos el mes que viene.",
+          "titulo": "La visita del papa León XIV oxigenó al turismo: movilizó una multitud y el impacto económico superó los u$s88 millones en CABA",
+          "link": "https://www.ambito.com/economia/la-visita-del-papa-leon-xiv-oxigeno-al-turismo-movilizo-una-multitud-y-el-impacto-economico-supero-los-us88-millones-caba-n6344016",
+          "resumen": "La ocupación hotelera de la Ciudad de Buenos Aires estuvo al 75%, mientras que Luján se estima que llegó al 90% y Córdoba al 60%, aunque en la capital de la provincia muchos establecimientos estuvieron al 100%, especialmente los de alta…",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Dos gigantes del agro se unen para desarrollar semillas no tradicionales destinadas a la elaboración de combustibles renovables",
-          "link": "https://www.clarin.com/rural/gigantes-agro-unen-desarrollar-semillas-tradicionales-destinadas-elaboracion-combustibles-renovables_0_xlzfQLRcwu.html",
-          "resumen": "La alianza apunta a impulsar la generación y la comercialización de materias primas con bajas emisiones de carbono. Se abocará a la obtención de oleaginosas que se utilizan en la fabricación de biocombustibles.",
+          "titulo": "Salen los brasileños y entran los mexicanos: se vendió una de las siderúrgicas más antiguas del país",
+          "link": "https://www.clarin.com/economia/salen-brasilenos-entran-mexicanos-vendio-siderurgicas-antiguas-pais_0_PVeDyTlv5i.html",
+          "resumen": "Se trata de Acerbrag, que estaba en manos del grupo Votorantim, que ya salió de ese negocio en otros países. La nueva dueña es la mexicana Simec, que se está expandiendo en el mundo.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El riesgo país vuelve a caer y queda por debajo de los 860 puntos",
-          "link": "https://www.lanacion.com.ar/economia/el-riesgo-pais-vuelve-a-bajar-y-queda-por-debajo-de-los-860-puntos-nid10112026/",
-          "resumen": "En una jornada sin operaciones en la Bolsa porteña por el feriado, las acciones argentinas retroceden en Wall Street tras el rebote que registraron este lunes",
+          "titulo": "Por qué el petróleo se desplomó, pero no impacta en el precio de la nafta",
+          "link": "https://www.lanacion.com.ar/economia/el-petroleo-se-desplomo-pero-la-nafta-no-la-cuenta-pendiente-que-refleja-el-surtidor-local-nid11112026/",
+          "resumen": "El Brent tuvo su mayor baja semanal desde la pandemia tras la victoria demócrata en Estados Unidos, pero las empresas arrastran un atraso de hasta 27% en el gasoil y buscan recuperar lo que perdieron",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Durante la madrugada y sin dar detalles: ¿Por qué Estados Unidos evacuó aviones militares del Reino Unido por segunda vez?",
-          "link": "https://www.clarin.com/mundo/madrugada-dar-detalles-estados-unidos-evacuo-aviones-militares-reino-unido-segunda-vez_0_GZQKNm3cD9.html",
-          "resumen": "Retiró aviones cisternas de la base de Mildenhall. Ya había hecho lo mismo, semanas atrás, de la base de Fairford, ambas en Inglaterra. Medios locales afirman que se debe a una \"amenaza iraní\". Pero el Pentágono guarda silencio.",
+          "titulo": "El secuestro de Leonardo Bertulazzi: el recuerdo de las Brigadas Rojas y un secuestro que mantuvo en vilo a Italia",
+          "link": "https://www.clarin.com/mundo/secuestro-leonardo-bertulazzi-recuerdo-brigadas-rojas-secuestro-mantuvo-vilo-italia_0_iZk2D4h8ES.html",
+          "resumen": "La huida del terrorista italiano, de 74 años, detenido en Buenos Aires, reavivó el recuerdo de un caso que causó conmoción y de un grupo que sembró el terror durante años. El ex primer ministro Aldo Moro, una de las presas más importantes…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Qué se sabe de la crisis en Paraguay hoy: “La posibilidad de que los ahorristas reclamen el dinero de todo el sistema y genere un crack financiero parecen haber quedado atrás”",
-          "link": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-de-la-crisis-en-paraguay-hoy-la-posibilidad-de-que-los-ahorristas-reclamen-el-dinero-de-nid10112026/",
-          "resumen": "A una semana de la caída de Ueno Bank, la respuesta del Banco Central contuvo el temor a un contagio entre entidades; el nuevo presidente, Pedro Alliana, enfrenta el desafío de sostener el respaldo político y resolver el impacto sobre los…",
+          "titulo": "El Papa ya está en Sudamérica: la intimidad del viaje de León XIV",
+          "link": "https://www.lanacion.com.ar/el-mundo/el-papa-ya-esta-en-vuelo-la-intimidad-del-vuelo-del-papa-a-sudamerica-nid06112026/",
+          "resumen": "",
           "fuente": "La Nación"
         },
         {
-          "titulo": "\"Es un espectáculo político\": Pete Hegseth, el ministro de Guerra de Trump, se defiende del juicio político",
-          "link": "https://www.clarin.com/mundo/espectaculo-politico-pete-hegseth-ministro-guerra-trump-defiende-juicio-politico_0_Nc9tk8HDNc.html",
-          "resumen": "Durante su primera conferencia de prensa en seis meses, el titular del Pentágono afirmó que responderá ante la acusación impulsada por un legislador republicano. La definición sobre el juzgamiento de Hegseth podría votarse a mediados de…",
+          "titulo": "Keiko Fujimori se irá de viaje mientras León XIV todavía estará en Perú: “Como presidenta, tengo obligaciones que cumplir”",
+          "link": "https://www.clarin.com/mundo/keiko-fujimori-ira-viaje-china-leon-xiv-todavia-peru-presidenta-obligaciones-cumplir_0_xLqKIG1AMJ.html",
+          "resumen": "",
           "fuente": "Clarín"
         },
         {
-          "titulo": "“Una vista majestuosa”: la emoción de Reid Wiseman al observar la Tierra desde Artemis II",
-          "link": "https://www.lanacion.com.ar/el-mundo/una-vista-majestuosa-la-emocion-de-reid-wiseman-al-observar-la-tierra-desde-artemis-ii-nid09112026/",
-          "resumen": "Se trató de un mensaje mientras realizaban la misión, antes de que la tripulación pierda la conexión con el planeta durante 40 minutos",
+          "titulo": "Caos en España: una huelga general por la crisis de la vivienda sacude al gobierno de Sánchez en plena campaña",
+          "link": "https://www.lanacion.com.ar/el-mundo/caos-en-espana-una-huelga-general-por-la-crisis-de-la-vivienda-sacude-al-gobierno-de-sanchez-en-nid11112026/",
+          "resumen": "La primera medida de fuerza de esta magnitud desde 2012 provocó cortes de rutas, interrupciones en el transporte y enfrentamientos con la policía, a menos de tres semanas de las elecciones anticipadas",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Impactante choque múltiple en Bulgaria: ya hay 11 muertos y 86 vehículos involucrados",
-          "link": "https://www.clarin.com/mundo/tragico-choque-multiple-bulgaria-11-muertos-86-vehiculos-involucrados_0_IPKtLMCcYm.html",
-          "resumen": "El dramático hecho se produjo sobre la autopista Trakia, cerca de la ciudad de Yambol, en el sudeste del país. La principal hipótesis de las autoridades es que los accidentes en cadena ocurrieron por una niebla espesa y repentina.",
+          "titulo": "Un campeón de judo de origen caribeño se lanza a la pelea por la presidencia de Francia: ¿Quién es Teddy Riner?",
+          "link": "https://www.clarin.com/mundo/campeon-judo-origen-caribeno-lanza-pelea-presidencia-francia-teddy-riner_0_kifR5Pu8JE.html",
+          "resumen": "Tiene 37 años y cinco medallas de oro olímpicas. Afirma que quiere llegar al poder para unir al país tras semanas de enfrentamientos, violencia y extrema polarización. Las encuestas para las elecciones de 2027 coinciden en una ventaja…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Un jugador del Atlético de Madrid reveló cómo impactó en el vestuario la novela de Julián Álvarez y el Barcelona: \"No nos sentó muy bien\"",
-          "link": "https://www.clarin.com/deportes/jugador-atletico-madrid-revelo-impacto-vestuario-novela-julian-alvarez-barcelona-sento-bien_0_l7OZJPwtBI.html",
-          "resumen": "Álex Baena contó que sus compañeros se sintieron incómodos por sus declaraciones y que la Araña debió pedirles disculpas. \"Lo que molestó fueron las formas\", dijo.",
+          "titulo": "Reapareció Carlos Ischia y fue muy duro con Boca: \"Me molestó que no lo descalificaran de la Copa Argentina\"",
+          "link": "https://www.clarin.com/deportes/reaparecio-carlos-ischia-duro-boca-molesto-descalificaran-copa-argentina_0_ULxYVtf2tl.html",
+          "resumen": "El ex entrenador del club habló sobre el cruce de octavos de final de la Copa Argentina frente a Vélez. En aquel encuentro, Boca inscribió a un jugador extranjero más de los permitidos por el reglamento.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Juan Cruz Montero, candidato a presidente de Vélez: “Si no cambiamos el modelo económico, no vamos a tener un club en el futuro cercano”",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/juan-cruz-montero-candidato-a-presidente-de-velez-si-no-cambiamos-el-modelo-economico-no-vamos-a-nid10112026/",
-          "resumen": "El postulante por ADN Azul y Blanco apunta duro contra el oficialismo y propone recuperar económicamente a Vélez para que vuelvan los éxitos a nivel internacional",
+          "titulo": "Rafael Nadal propuso cambios para el tenis: menos superficie dura y un ranking distinto",
+          "link": "https://www.lanacion.com.ar/deportes/tenis/rafael-nadal-propuso-cambios-para-el-tenis-menos-superficie-dura-y-un-ranking-distinto-nid11112026/",
+          "resumen": "El ganador de 22 Grand Slams, retirado en 2024, habló sobre el desgaste físico y emocional que sufren los jugadores",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El detalle especial de Dibu Martínez en el primer entrenamiento de la Selección Argentina con grupo completo",
-          "link": "https://www.ole.com.ar/seleccion/detalle-especial-dibu-matinez-mascara-proteccion-fractura-mandibula-entrenamiento-seleccion-argentina-video_0_fgl1YFp8nC.html",
-          "resumen": "El arquero se sumó a la Selección para los amistosos contra Uruguay y Costa Rica. En rehabilitación de una fractura de mandíbula, ¿estará para atajar?",
+          "titulo": "El nuevo reclamo económico contra Independiente",
+          "link": "https://www.ole.com.ar/independiente/independiente-defensorsporting-matiasabaldo-fifa-kevinlomonaco_0_gkpT9F5R4i.html",
+          "resumen": "A pocos días de la inhibición por el pase de Kevin Lomónaco, Defensor Sporting demandó al Rojo por una deuda por la compra de la ficha de Matías Abaldo. Los detalles.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Cierre del Mundial 2026: la Fórmula 1 descartó el \"Plan B\" en Imola y ratificó sus fechas en Medio Oriente",
-          "link": "https://www.clarin.com/deportes/cierre-mundial-2026-formula-1-descarto-plan-b-imola-ratifico-fechas-medio-oriente_0_emO3W40ANg.html",
-          "resumen": "El presidente de la FIA, Mohammed ben Sulayem, ratificó que la categoría mantendrá su programa original. La decisión deja de lado la opción de correr en Imola, un circuito trazado como alternativa ante las dudas generadas por la situación…",
+          "titulo": "El reencuentro de Montiel y Almada con Chiqui Tapia tras la tensión que generó el arbitraje del Superclásico: cómo fue cada saludo",
+          "link": "https://www.clarin.com/deportes/gonzalomontiel-thiagoalmada-claudiotapia-seleccionargentina-river-afa_0_fcOKOMGVoM.html",
+          "resumen": "Tanto el lateral como el volante de River fueron recibidos por el presidente de la AFA en el predio de Ezeiza.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Néstor Lorenzo, entrenador de Colombia, justificó la no convocatoria de Álvaro Montero, arquero de Boca, para la próxima doble fecha FIFA",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/nestor-lorenzo-entrenador-de-colombia-justifico-la-no-convocatoria-de-alvaro-montero-arquero-de-boca-nid10112026/",
-          "resumen": "“Estaba programado así”, dijo el DT argentino, que fue cuestionado por su colega de Atlético Nacional, que debió ceder a su arquero en medio de instancias definitorias en ese país",
+          "titulo": "Murió Carlos Babington, la zurda mágica del Huracán del 73 y de la selección argentina en el Mundial 74",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/huracan/murio-carlos-babington-la-zurda-magica-del-huracan-del-73-y-de-la-seleccion-del-mundial-74-nid11112026/",
+          "resumen": "Tuvo una destacada trayectoria como futbolista y entrenador, y llegó a ser presidente del Globo; tenía 77 años",
           "fuente": "La Nación"
         }
       ]

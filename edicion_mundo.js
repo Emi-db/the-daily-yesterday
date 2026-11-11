@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "10 de noviembre de 2026",
-    "generada": "17:20",
+    "fecha": "11 de noviembre de 2026",
+    "generada": "17:31",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Por qué México recauda tan pocos impuestos (y cómo financia su creciente Estado de bienestar)",
-            "link": "https://www.bbc.com/mundo/articles/cm4g109r03npo?at_medium=RSS&at_campaign=rss",
-            "resumen": "México es de los países que menos recauda impuestos en América Latina, pero el gasto público es un motor de su consumo interno y arma clave contra la pobreza. Análisis de las “anomalías fiscales” mexicanas.",
+            "titulo": "Quién es Wilson \"Lanmò San Jou\" Joseph, el poderoso líder pandillero cuya casa en Haití Bukele dice haber destruido",
+            "link": "https://www.bbc.com/mundo/articles/cmzx96kk0ly7o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Dirigente de 400 Mawozo, ha sido acusado formalmente por las autoridades estadounidenses de secuestro. Además, el FBI ofrece una recompensa de hasta US$1 millón por información que conduzca a su captura.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Pete Hegseth: “El juicio político es una farsa y va a fracasar”",
-            "link": "https://elpais.com/us/2026-11-10/hegseth-el-juicio-politico-es-una-farsa-y-todos-lo-saben.html",
-            "resumen": "El secretario de Defensa ha ofrecido su primera rueda de prensa en seis meses para defender su gestión tras la apertura de un juicio político en el Congreso de EE UU contra él",
+            "titulo": "Las negociaciones de Abu Dabi sobre Ucrania concluyen con un canje de prisioneros y sin progresos para la paz",
+            "link": "https://elpais.com/internacional/2026-11-11/las-negociaciones-de-abu-dabi-sobre-ucrania-concluyen-con-un-canje-de-prisioneros-y-sin-progresos-para-la-paz.html",
+            "resumen": "El Kremlin presiona para ligar la invasión a una revisión de la seguridad de toda Europa en las conversaciones entre Moscú, Kiev y Washington",
             "fuente": "El País"
           },
           {
-            "titulo": "Trump habla con CEO de Nvidia en medio de investigación de posible espionaje de su amante",
-            "link": "https://www.france24.com/es/video/20261110-trump-habla-con-ceo-de-nvidia-en-medio-de-investigaci%C3%B3n-de-posible-espionaje-de-su-amante",
-            "resumen": "Tras hacerse conocida la relación extramatrimonial del presidente de Nvidia, Jensen Huang, con Alice Huang, una presunta espía china, el presidente de Estados Unidos aseguró que el FBI se está encargando de la investigación y que contactó…",
+            "titulo": "\"Por la economía, para reducir el coste de vida\", el slogan a favor de la acción climática en la COP31",
+            "link": "https://www.france24.com/es/medio-ambiente/20261111-por-la-econom%C3%ADa-para-reducir-el-coste-de-vida-el-slogan-a-favor-de-la-acci%C3%B3n-clim%C3%A1tica-en-la-cop31",
+            "resumen": "El mensaje, que se repite en la conferencia anual de la ONU, refleja el esfuerzo por captar la atención de Estados y Gobiernos que enfrentan conflictos y crisis que han puesto al cambio climático en un segundo plano en las prioridades.…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Qué presencia tienen los lefebvrianos en Argentina, el primer país de América Latina en el que se estableció el grupo que desafía a León XIV",
-            "link": "https://www.bbc.com/mundo/articles/cwp8gg9e0nn7o?at_medium=RSS&at_campaign=rss",
-            "resumen": "La organización tradicionalista desembarcó en el país durante la dictadura militar y actualmente está presente en 11 de las 24 provincias.",
+            "titulo": "3 claves de la primera huelga general en España en 14 años (y la paradoja de que el gobierno la defienda y la oposición la critique)",
+            "link": "https://www.bbc.com/mundo/articles/cmlyly7jwq24o?at_medium=RSS&at_campaign=rss",
+            "resumen": "A menos de 20 días para las elecciones generales, los españoles están convocados a un parón masivo este miércoles para protestar por la crisis de la vivienda y el costo de la vida.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Pete Hegseth, 22 meses de polémica en el Pentágono",
-            "link": "https://elpais.com/us/2026-11-10/pete-hegseth-22-meses-de-polemica-en-el-pentagono.html",
-            "resumen": "El mandato del expresentador de televisión al frente del Departamento de Defensa ha estado marcado por los ceses entre los altos mandos, los ataques a supuestas narcolanchas y la guerra contra Irán",
+            "titulo": "Ucrania busca bajo los drones rusos a los desaparecidos en los escombros de la escuela de Komishuvaja",
+            "link": "https://elpais.com/internacional/2026-11-11/ucrania-busca-bajo-los-drones-rusos-a-los-desaparecidos-en-los-escombros-de-la-escuela-de-komishuvaja.html",
+            "resumen": "Una semana después del brutal ataque, uno de los más mortíferos de la guerra, los cuerpos recuperados son ya 55, y los equipos de rescate tratan de localizar otra veintena",
             "fuente": "El País"
           }
         ]
@@ -43,21 +43,15 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Los salarios de convenio crecen un 3,1%, casi dos puntos menos que la inflación",
-            "link": "https://elpais.com/economia/2026-11-10/los-salarios-de-convenio-crecen-un-31-casi-dos-puntos-menos-que-la-inflacion.html",
-            "resumen": "La pérdida de poder de compra supera en lo que va de año todo lo que se recuperó entre 2023 y 2025",
-            "fuente": "El País"
-          },
-          {
             "titulo": "La inversión hotelera enfila un año récord gracias al capital español",
             "link": "https://www.expansion.com/empresas/transporte/2026/11/05/inversion-hotelera-enfila-ano-record-gracias-capital-espanol.html",
             "resumen": "Cadenas y ‘family offices’ como RIU, los Matutes o los García-Baquero impulsan la inversión hotelera, que roza ya los 4.000 millones. La cifra podría rondar los 5.000 millones a cierre de año. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "¿Tengo que avisar a mi jefe? ¿Y si trabajo de noche? Dudas sobre los derechos en la huelga general del 11-N",
-            "link": "https://elpais.com/economia/2026-11-10/tengo-que-avisar-a-mi-jefe-y-si-trabajo-de-noche-dudas-sobre-los-derechos-en-la-huelga-general-del-11-n.html",
-            "resumen": "Los trabajadores pueden participar en piquetes informativos siempre que se limiten a “persuadir pacíficamente”, indican los sindicatos",
+            "titulo": "Vivo eleva su beneficio hasta los 1.200 millones de euros hasta septiembre",
+            "link": "https://elpais.com/economia/2026-11-10/vivo-eleva-su-beneficio-hasta-los-1200-millones-de-euros-hasta-septiembre.html",
+            "resumen": "La filial brasileña de Telefónica eleva sus ingresos un 6,9% impulsada por el negocio móvil pospago y la fibra",
             "fuente": "El País"
           },
           {
@@ -67,10 +61,16 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "Anacláudia Rossbach (ONU-Hábitat): “Las políticas de vivienda que teníamos no están funcionando”",
-            "link": "https://elpais.com/economia/vivienda/2026-11-10/anaclaudia-rossbach-onu-habitat-las-politicas-de-vivienda-que-teniamos-no-estan-funcionando.html",
-            "resumen": "La directora ejecutiva del Programa de las Naciones Unidas para los Asentamientos Humanos cree que estamos en un momento de transición y pide un acuerdo social",
+            "titulo": "Hacienda obliga a tributar las prejubilaciones voluntarias si no se enmarcan en un despido colectivo",
+            "link": "https://elpais.com/economia/2026-11-11/hacienda-obliga-a-tributar-las-prejubilaciones-voluntarias-si-no-se-enmarcan-en-un-despido-colectivo.html",
+            "resumen": "El TEAC aclara que las indemnizaciones por bajas incentivadas o salidas optativas solo están exentas de pagar IRPF si se enmarcan en un proceso de ERE",
             "fuente": "El País"
+          },
+          {
+            "titulo": "Acesur y Dcoop ganan la puja por Deoleo, el dueño de Carbonell",
+            "link": "https://www.expansion.com/empresas/2026/11/05/acesur-dcoop-ganan-puja-deoleo-dueno-carbonell.html",
+            "resumen": "CVC y Alchemy, los principales accionistas de la empresa aceitera se decantan por la oferta 100% española frente a la propuesta de la italiana Coricelli y la española Migasa. La operación valora la compañía en el entorno de los 500…",
+            "fuente": "Expansión"
           }
         ]
       },
@@ -84,9 +84,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Así logró China engañar al empresario más poderoso de la IA con una operación de seducción",
-            "link": "https://elpais.com/tecnologia/2026-11-10/asi-logro-china-enganar-al-empresario-mas-poderoso-de-la-ia-con-una-operacion-de-seduccion.html",
-            "resumen": "Jensen Huang, fundador de Nvidia, ha admitido que le fue infiel a su esposa con una mujer que, según EE UU, es una espía",
+            "titulo": "José Luis Pontón, ingeniero informático: “Una IA que entiende el movimiento humano puede aprender a imitar a una persona y suplantarla”",
+            "link": "https://elpais.com/tecnologia/2026-11-11/jose-luis-ponton-ingeniero-informatico-una-ia-que-entiende-el-movimiento-humano-puede-aprender-a-imitar-a-una-persona-y-suplantarla.html",
+            "resumen": "El investigador, premiado por la SCIE y la Fundación BBVA por sus avances en realidad virtual, desarrolla algoritmos capaces de reconstruir el lenguaje corporal con pocos sensores",
             "fuente": "El País"
           },
           {
@@ -96,9 +96,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "El ‘hacker’ fantasma de Kim Jong-un: Park Jin-hyok y las conexiones exteriores del cibercrimen norcoreano",
-            "link": "https://elpais.com/tecnologia/2026-11-09/el-hacker-fantasma-de-kim-jong-un-park-jin-hyok-y-las-conexiones-exteriores-del-cibercrimen-norcoreano.html",
-            "resumen": "El robo a Binance devuelve la atención sobre las redes informáticas de Pyongyang y uno de sus presuntos integrantes, aunque su participación en este ataque no ha sido señalada",
+            "titulo": "Así logró China engañar al empresario más poderoso de la IA con una operación de seducción",
+            "link": "https://elpais.com/tecnologia/2026-11-10/asi-logro-china-enganar-al-empresario-mas-poderoso-de-la-ia-con-una-operacion-de-seduccion.html",
+            "resumen": "Jensen Huang, fundador de Nvidia, ha admitido que le fue infiel a su esposa con una mujer que, según EE UU, es una espía",
             "fuente": "El País"
           },
           {
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Joan Garcia: \"Nuestro estilo conlleva un riesgo grande, pero se ha demostrado que vale la pena\"",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249465/joan-garcia-nuestro-estilo-conlleva-riesgo-grande-demostrado-vale-pena.html",
-            "resumen": "Joan Garcia (25 años) regresó a la concentración de la selección española después de ausentarse en la última ventana. El portero del Barça, uno de los grandes protagonistas de la última victoria del equipo azulgrana en el Metropolitano…",
+            "titulo": "Rueda de prensa de Luis de la Fuente y Mikel Merino, en directo",
+            "link": "https://www.mundodeportivo.com/seleccion-espanola/20261111/1004249926/rueda-prensa-luis-fuente-mikel-merino-directo-previa-ultima-hora-seleccion-espanola.html",
+            "resumen": "",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Gerard Martín: \"Sé que cuando no sea una época buena se va a poner en duda la posición del central\"",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249533/gerard-martin.html",
-            "resumen": "Ganar ante el Atlético de Madrid el pasado domingo fue fundamental para que el FC Barcelona recuperara sensaciones tras dos duras derrotas ante rivales importantes, como fueron el PSG y el Real Madrid . Además de mantener el liderato, y…",
+            "titulo": "Ter Stegen habla de su relación con Flick y su futuro en el Barça",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261111/1004249904/ter-stegen-habla-relacion-flick-futuro-barca.html",
+            "resumen": "Marc ter Stegen , guardameta del FC Barcelona cedido en el Ajax y con contrato con el equiop azulgrana hasta 2028, habló de su futuro en el Spotify Camp Nou y de su relación con Hansi Flick .",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,16 +147,16 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "November 10, 2026",
-    "generada": "17:20",
+    "fecha": "November 11, 2026",
+    "generada": "17:31",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-            "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+            "titulo": "Spain sees widespread disruption in first general strike for 14 years",
+            "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
             "fuente": "BBC"
           },
           {
@@ -166,15 +166,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "U.S. Received $12 Billion From Venezuela’s Oil, Report Shows",
-            "link": "https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html",
-            "resumen": "The workings of a U.S.-controlled bank account shed light on how Washington manages Venezuelan revenue after capturing the country’s president.",
+            "titulo": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
+            "link": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
+            "resumen": "Washington wants to intensify its economic pressure campaign on Iran by closing its land borders. Neighboring states, fearing economic fallout, are pushing back.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "First day of Ukraine peace talks 'very productive', US says",
-            "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+            "titulo": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+            "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
             "fuente": "BBC"
           },
           {
@@ -189,34 +189,34 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
-            "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+            "titulo": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+            "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+            "resumen": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
             "fuente": "BBC"
           },
           {
-            "titulo": "US inflation rose 0.4% in October as price increases cooled and gas costs dipped",
-            "link": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report",
-            "resumen": "New data comes after Republicans’ midterms losses – which were largely seen as a rebuke of the party over high prices US inflation rose 0.4% from September to October, slightly above expectations but still a cooldown in price increases as…",
+            "titulo": "Democrats’ US election sweep brings the price of their promised social contract into focus",
+            "link": "https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs",
+            "resumen": "‘The post-election wish list is about to run into harsh fiscal reality: there is no money’ Is this an opportunity for a new America? As the Reagan revolution four decades ago launched US society down the path to low taxes and meager…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Here’s the latest.",
-            "link": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october/heres-the-latest",
-            "resumen": "",
+            "titulo": "Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair",
+            "link": "https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html",
+            "resumen": "Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick last week about why the administration had not put restrictions on advanced chip sales to Megaspeed.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
-            "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+            "titulo": "Christmas toy rush being driven by squishies and building sets",
+            "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+            "resumen": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Failure of California Billionaire Tax Strikes Blow to Progressive Agenda",
-            "link": "https://www.nytimes.com/2026/11/10/business/billionaire-tax-progressive-agenda.html",
-            "resumen": "A wealth tax on billionaires seemed like a political layup. The outcome of a California ballot initiative shows otherwise.",
-            "fuente": "N.Y. Times"
+            "titulo": "Nvidia hires major US law firm to investigate spying claims; UK chancellor ‘dismayed’ by budget leak – as it happened",
+            "link": "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates",
+            "resumen": "Rolling coverage of the latest economic and financial news After two days of losses, Nvidia’s stock is expected to recover some lost ground today. Nvidia’s shares are up almost 5% in premarket trading, ahead of the Wall Street open in…",
+            "fuente": "The Guardian"
           }
         ]
       },
@@ -224,34 +224,34 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Medical breakthrough offers hope to people with same stiff person syndrome as Céline Dion",
-            "link": "https://www.theguardian.com/science/2026/nov/09/medical-breakthrough-offers-hope-to-people-with-same-stiff-person-syndrome-as-celine-dion",
-            "resumen": "Some patients with autoimmune condition in the trial have been able to return to work and resume hobbies Doctors have made a potentially significant breakthrough in the hunt for a treatment for stiff person syndrome, the autoimmune…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "Could Alien Life Thrive in Sulfuric Acid Instead of Water?",
-            "link": "https://www.nytimes.com/2026/11/10/science/sulfuric-acid-elixir-of-life.html",
-            "resumen": "Best known for dissolving bodies in bathtubs, sulfuric acid has the potential to be the elixir of life on other worlds.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "The swan sanctuary wetland fighting climate change",
-            "link": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The global campaign to restore the \"soggy secret weapon\" that can combat against climate change.",
+            "titulo": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+            "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Winter depression is real. Here’s what can help - podcast",
-            "link": "https://www.theguardian.com/science/audio/2026/nov/10/why-we-get-sad-and-what-helps-podcast",
-            "resumen": "As the nights draw in, many of us can experience low mood. But for a small proportion of people a more intense depression develops through the winter months. It’s a phenomenon that since the 1980s has been labelled seasonal affective…",
+            "titulo": "Molecular signal in blood helps detect early risk for ovarian cancer, study finds",
+            "link": "https://www.theguardian.com/society/2026/nov/11/ovarian-cancer-study-early-detection-blood",
+            "resumen": "Researchers discover a potential diagnostic breakthrough for a disease often ⁠discovered after it has already spread A molecular signal in the blood helps identify microscopic changes that precede development of ovarian cancer,…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "El Niño Is Hitting California Hard",
-            "link": "https://www.nytimes.com/2026/11/10/climate/el-nino-california-flooding-fires-kelvin-wave.html",
-            "resumen": "Rising sea levels and violent weather are testing residents in some of the most picturesque cities along the Pacific Coast.",
+            "titulo": "25 Years After the Anthrax Attacks, America Remains Vulnerable",
+            "link": "https://www.nytimes.com/2026/11/11/science/25-years-since-anthrax-attacks-vulnerability.html",
+            "resumen": "Letters filled with anthrax spores exposed flaws in the United States’ biosecurity systems. Experts say many of those issues still exist.",
             "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
+            "link": "https://www.bbc.co.uk/news/articles/cwm242plggldo?at_medium=RSS&at_campaign=rss",
+            "resumen": "A ten-year strategy to raise £500m from the Duchy of Cornwall will see farms sold off across England.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "What happens to your brain when the days get darker? - video",
+            "link": "https://www.theguardian.com/science/video/2026/nov/10/what-happens-to-your-brain-when-the-days-get-darker-video",
+            "resumen": "As the nights draw in, many of us can experience low mood. But for a small proportion of people a more intense depression develops through the winter months. It’s a phenomenon that since the 1980s has been labelled seasonal affective…",
+            "fuente": "The Guardian"
           }
         ]
       },
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Carrick's Man Utd future to be decided at Wednesday meeting",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
-            "resumen": "Manchester United head coach Michael Carrick's future will be discussed at a meeting on Wednesday, but executives Omar Berrada and Jason Wilcox retain the support of minority owner Sir Jim Ratcliffe.",
+            "titulo": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Mauricio Pochettino looks set to turn a decade-long courtship with Man Utd into a full-blown relationship, says chief football writer Phil McNulty.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Mauricio Pochettino interested in leaving USMNT job for Manchester United",
-            "link": "https://www.theguardian.com/football/2026/nov/10/mauricio-pochettino-interested-manchester-united-usmnt-release-clause",
-            "resumen": "Coach’s contract has release clause of about $10m United expected to sack Michael Carrick after awful start US men’s national team head coach Mauricio Pochettino is interested in a move to Manchester United, multiple sources told the…",
+            "titulo": "NFL trade deadline winners and losers: Vikings go full dadcore with Kirk Cousins in Super Bowl quest",
+            "link": "https://www.theguardian.com/sport/2026/nov/11/nfl-trade-deadline-winners-and-losers-vikings-bears-jaguars",
+            "resumen": "Teams with championship aspirations tooled up at the deadline. Most, but not all of them, have improved their chances After what happened Monday night, the Minnesota Vikings had to do this. In a dispiriting loss to the Buffalo Bills, the…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Pochettino, Howe, Emery... or Carrick? Man Utd's managerial options",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c5rmymrvm004o?at_medium=RSS&at_campaign=rss",
-            "resumen": "As doubts grow over Manchester United boss Michael Carrick's future, what are the club's managerial options?",
+            "titulo": "Pochettino ready to accept Man Utd offer to replace Carrick",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
             "fuente": "BBC"
           },
           {
-            "titulo": "NFL trade deadline 2026: Jonathan Taylor status, Vikings eye QB and more – live updates",
-            "link": "https://www.theguardian.com/sport/live/2026/nov/10/nfl-trade-deadline-2026-live-updates-deals-rumors-news",
-            "resumen": "All the latest news and deals before the today’s deadline Jaguars add Davis to help defense; Simmons boosts Bears Follow the buildup to the 4pm ET cutoff and fallout Email Ella with your thoughts on the deadline moves In NFL-adjacent…",
+            "titulo": "Pochettino’s Manchester United interest is as natural as it is disruptive to the US",
+            "link": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-usmnt",
+            "resumen": "The former Tottenham manager is always going to be a subject of interest, but United’s job carries a rare power As Mauricio Pochettino left the podium to close his final press conference of the last international window, he offered an…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "McTominay reveals heart treatment at World Cup",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Scott McTominay reveals he received treatment on his heart two days before Scotland's World Cup win over Haiti in June.",
+            "titulo": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o?at_medium=RSS&at_campaign=rss",
+            "resumen": "From 21-year-old who scored 79 seconds into his debut to being on the brink of breaking his nation's appearance record, BBC Sport looks at Harry Kane's England career.",
             "fuente": "BBC"
           }
         ]
