@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "11 de noviembre de 2026",
-    "generada": "17:31",
+    "fecha": "12 de noviembre de 2026",
+    "generada": "17:46",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Quién es Wilson \"Lanmò San Jou\" Joseph, el poderoso líder pandillero cuya casa en Haití Bukele dice haber destruido",
-            "link": "https://www.bbc.com/mundo/articles/cmzx96kk0ly7o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Dirigente de 400 Mawozo, ha sido acusado formalmente por las autoridades estadounidenses de secuestro. Además, el FBI ofrece una recompensa de hasta US$1 millón por información que conduzca a su captura.",
+            "titulo": "4 claves del escándalo de los supuestos \"sexocontratos\" por el que se investiga al expresidente de Colombia Gustavo Petro",
+            "link": "https://www.bbc.com/mundo/articles/cr3wg62qwjz9o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Una mujer acusa al expresidente de haberle conseguido contratos con el estado a cambio de favores sexuales.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Las negociaciones de Abu Dabi sobre Ucrania concluyen con un canje de prisioneros y sin progresos para la paz",
-            "link": "https://elpais.com/internacional/2026-11-11/las-negociaciones-de-abu-dabi-sobre-ucrania-concluyen-con-un-canje-de-prisioneros-y-sin-progresos-para-la-paz.html",
-            "resumen": "El Kremlin presiona para ligar la invasión a una revisión de la seguridad de toda Europa en las conversaciones entre Moscú, Kiev y Washington",
+            "titulo": "Jensen Huang renuncia como consejero delegado de Nvidia forzado por el escándalo sobre sus infidelidades y el caso de espionaje",
+            "link": "https://elpais.com/us/2026-11-12/jensen-huang-dimite-como-consejero-delegado-de-nvidia-tras-destaparse-el-escandalo-sobre-sus-infidelidades-y-el-caso-de-espionaje.html",
+            "resumen": "La relación extramarital con una presunta espía china y con una subordinada de su empresa precipitó su salida",
             "fuente": "El País"
           },
           {
-            "titulo": "\"Por la economía, para reducir el coste de vida\", el slogan a favor de la acción climática en la COP31",
-            "link": "https://www.france24.com/es/medio-ambiente/20261111-por-la-econom%C3%ADa-para-reducir-el-coste-de-vida-el-slogan-a-favor-de-la-acci%C3%B3n-clim%C3%A1tica-en-la-cop31",
-            "resumen": "El mensaje, que se repite en la conferencia anual de la ONU, refleja el esfuerzo por captar la atención de Estados y Gobiernos que enfrentan conflictos y crisis que han puesto al cambio climático en un segundo plano en las prioridades.…",
+            "titulo": "Informe desde Lima: Perú celebra al papa León XIV entre muestras de fe y emoción",
+            "link": "https://www.france24.com/es/video/20261112-informe-desde-lima-per%C3%BA-celebra-al-papa-le%C3%B3n-xiv-entre-muestras-de-fe-y-emoci%C3%B3n",
+            "resumen": "El regreso del papa León XIV a Perú ha estado marcado por escenas de emoción y un fuerte vínculo con el país donde desarrolló gran parte de su labor pastoral. Durante su llegada a Lima, el pontífice, nacido como Robert Francis Prevost,…",
             "fuente": "France 24"
           },
           {
-            "titulo": "3 claves de la primera huelga general en España en 14 años (y la paradoja de que el gobierno la defienda y la oposición la critique)",
-            "link": "https://www.bbc.com/mundo/articles/cmlyly7jwq24o?at_medium=RSS&at_campaign=rss",
-            "resumen": "A menos de 20 días para las elecciones generales, los españoles están convocados a un parón masivo este miércoles para protestar por la crisis de la vivienda y el costo de la vida.",
+            "titulo": "\"El papa León XIV es mi padrino de bautizo\": la insólita historia de Mildred Camacho, la joven peruana que es ahijada del Sumo Pontífice",
+            "link": "https://www.bbc.com/mundo/articles/cqly3jpmvvl9o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Hace 30 años, el joven sacerdote Robert Prevost Martínez aceptó ser el padrino de bautismo de una niña en Chulucanas, en la región de Piura. Ahora ella espera con ansiedad su visita a Perú como el papa León XIV.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Ucrania busca bajo los drones rusos a los desaparecidos en los escombros de la escuela de Komishuvaja",
-            "link": "https://elpais.com/internacional/2026-11-11/ucrania-busca-bajo-los-drones-rusos-a-los-desaparecidos-en-los-escombros-de-la-escuela-de-komishuvaja.html",
-            "resumen": "Una semana después del brutal ataque, uno de los más mortíferos de la guerra, los cuerpos recuperados son ya 55, y los equipos de rescate tratan de localizar otra veintena",
+            "titulo": "El ascenso de los hijos de Huang en Nvidia aviva las dudas por la gobernanza: de chef y barman a ejecutivos de la mayor compañía del mundo",
+            "link": "https://elpais.com/us/2026-11-12/el-ascenso-de-los-hijos-de-huang-en-nvidia-aviva-las-dudas-por-la-gobernanza-de-chef-y-barman-a-ejecutivos-de-la-mayor-compania-del-mundo.html",
+            "resumen": "El yerno, Nico Caprez, exmonitor de esquí en Suiza, ahora dirige una de las áreas más importantes del negocio",
             "fuente": "El País"
           }
         ]
@@ -49,9 +49,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "Vivo eleva su beneficio hasta los 1.200 millones de euros hasta septiembre",
-            "link": "https://elpais.com/economia/2026-11-10/vivo-eleva-su-beneficio-hasta-los-1200-millones-de-euros-hasta-septiembre.html",
-            "resumen": "La filial brasileña de Telefónica eleva sus ingresos un 6,9% impulsada por el negocio móvil pospago y la fibra",
+            "titulo": "El día después del 11-N: los sindicatos hablan de un “éxito” que superó las expectativas y la patronal ve “un fracaso”",
+            "link": "https://elpais.com/economia/2026-11-12/el-dia-despues-del-11-n-los-sindicatos-hablan-de-un-exito-que-supero-las-expectativas-y-la-patronal-ve-un-fracaso.html",
+            "resumen": "Las centrales registraron un seguimiento amplio en varias comunidades, como Cataluña (84%) o Navarra (85%), y menor en Extremadura (49%) o Baleares (48%). CEOE rebaja el global a un 5%",
             "fuente": "El País"
           },
           {
@@ -61,9 +61,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "Hacienda obliga a tributar las prejubilaciones voluntarias si no se enmarcan en un despido colectivo",
-            "link": "https://elpais.com/economia/2026-11-11/hacienda-obliga-a-tributar-las-prejubilaciones-voluntarias-si-no-se-enmarcan-en-un-despido-colectivo.html",
-            "resumen": "El TEAC aclara que las indemnizaciones por bajas incentivadas o salidas optativas solo están exentas de pagar IRPF si se enmarcan en un proceso de ERE",
+            "titulo": "Transportes vuelve a negociar con los sindicatos para evitar más huelgas ferroviarias tras el siniestro de Urda",
+            "link": "https://elpais.com/economia/2026-11-12/transportes-vuelve-a-negociar-con-los-sindicatos-para-evitar-mas-huelgas-ferroviarias-tras-el-siniestro-de-urda.html",
+            "resumen": "El secretario de Estado, el presidente de Renfe y directivos de Adif se sientan con representantes de Semaf, UGT y CC OO, que mantienen paros para los días 17 y 23",
             "fuente": "El País"
           },
           {
@@ -78,33 +78,33 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "Chimpancés, monos y cucarachas: los animales también votan y sus elecciones pueden ser manipuladas",
-            "link": "https://elpais.com/ciencia/2026-11-10/chimpances-monos-y-cucarachas-los-animales-tambien-votan-y-sus-elecciones-pueden-ser-manipuladas.html",
-            "resumen": "Las decisiones colectivas no son exclusivas de los humanos. Estos son los distintos mecanismos con los que algunas especies comunican sus preferencias",
+            "titulo": "Creado el mayor mapa del área cerebral clave en párkinson, alzhéimer, esquizofrenia y autismo",
+            "link": "https://elpais.com/ciencia/2026-11-12/creado-el-mayor-mapa-del-area-cerebral-clave-en-parkinson-alzheimer-esquizofrenia-y-autismo.html",
+            "resumen": "Un consorcio internacional presenta el atlas celular más detallado de los ganglios basales, donde hay claves ocultas de las principales dolencias cerebrales",
             "fuente": "El País"
           },
           {
-            "titulo": "José Luis Pontón, ingeniero informático: “Una IA que entiende el movimiento humano puede aprender a imitar a una persona y suplantarla”",
-            "link": "https://elpais.com/tecnologia/2026-11-11/jose-luis-ponton-ingeniero-informatico-una-ia-que-entiende-el-movimiento-humano-puede-aprender-a-imitar-a-una-persona-y-suplantarla.html",
-            "resumen": "El investigador, premiado por la SCIE y la Fundación BBVA por sus avances en realidad virtual, desarrolla algoritmos capaces de reconstruir el lenguaje corporal con pocos sensores",
+            "titulo": "Maryanne Wolf, neurocientífica: “Por culpa de la pantalla, hemos aprendido otra forma de leer que cortocircuita el cerebro”",
+            "link": "https://elpais.com/salud-y-bienestar/2026-11-12/maryanne-wolf-neurocientifica-por-culpa-de-la-pantalla-hemos-aprendido-otra-forma-de-leer-que-cortocircuita-el-cerebro.html",
+            "resumen": "La experta cree que estamos ante un cambio de paradigma similar al paso de una cultura oral a una escrita de la Grecia clásica: “Sócrates decía que la lectura sustituiría a la memoria. Es verdad que la desplaza, pero no la reemplaza del…",
             "fuente": "El País"
           },
           {
-            "titulo": "Karl Deisseroth, Nobel de Medicina: “Los modelos avanzados de inteligencia artificial podrían leer la actividad cerebral de las personas”",
-            "link": "https://elpais.com/ciencia/2026-11-07/karl-deisseroth-nobel-de-medicina-los-modelos-avanzados-de-inteligencia-artificial-podrian-leer-la-actividad-cerebral-de-las-personas.html",
-            "resumen": "El inventor de la optogenética para controlar el cerebro con luz explica cómo esta técnica acerca mejores tratamientos contra las enfermedades mentales",
+            "titulo": "¿Cuánto se estresan las plantas? Un nuevo microsensor permite medirlo sin alterarlas más",
+            "link": "https://elpais.com/clima-y-medio-ambiente/2026-11-12/cuanto-se-estresan-las-plantas-un-nuevo-microsensor-permite-medirlo-sin-alterarlas-mas.html",
+            "resumen": "El prototipo abre una vía de futuro para ayudar a los agricultores frente a los efectos del cambio climático en las cosechas",
             "fuente": "El País"
           },
           {
-            "titulo": "Así logró China engañar al empresario más poderoso de la IA con una operación de seducción",
-            "link": "https://elpais.com/tecnologia/2026-11-10/asi-logro-china-enganar-al-empresario-mas-poderoso-de-la-ia-con-una-operacion-de-seduccion.html",
-            "resumen": "Jensen Huang, fundador de Nvidia, ha admitido que le fue infiel a su esposa con una mujer que, según EE UU, es una espía",
+            "titulo": "La Fiscalía ordena investigar la difusión de contenido sexual de menores en TikTok",
+            "link": "https://elpais.com/espana/2026-11-11/la-fiscalia-ordena-investigar-la-difusion-de-contenido-sexual-de-menores-en-tiktok.html",
+            "resumen": "La fiscal general Peramato ha designado a la fiscal de Criminalidad Informática para indagar los delitos relacionados con posibles delitos relacionados con el abuso sexual infantil en la plataforma",
             "fuente": "El País"
           },
           {
-            "titulo": "Nanomáquinas, pegamentos contra la psoriasis y ecuaciones para entender el cerebro: tres ideas ganadoras de científicos españoles",
-            "link": "https://elpais.com/ciencia/2026-11-09/nanomaquinas-pegamentos-contra-la-psoriasis-y-ecuaciones-para-entender-el-cerebro-tres-ideas-ganadoras-de-cientificos-espanoles.html",
-            "resumen": "Cristina Mayor-Ruiz, Jesús Mosquera y David Poyato son tres de los 59 becarios de la Fundación BBVA 2026. Estos son sus proyectos",
+            "titulo": "El telescopio espacial ‘Euclid’ detecta 900 millones de galaxias y comienza el mapa tridimensional del universo",
+            "link": "https://elpais.com/ciencia/2026-11-12/el-telescopio-espacial-euclid-detecta-900-millones-de-galaxias-y-comienza-el-mapa-tridimensional-del-universo.html",
+            "resumen": "La misión europea intenta iluminar uno de los grandes enigmas de la humanidad: ¿de qué está hecho el cosmos?",
             "fuente": "El País"
           }
         ]
@@ -119,8 +119,8 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Rueda de prensa de Luis de la Fuente y Mikel Merino, en directo",
-            "link": "https://www.mundodeportivo.com/seleccion-espanola/20261111/1004249926/rueda-prensa-luis-fuente-mikel-merino-directo-previa-ultima-hora-seleccion-espanola.html",
+            "titulo": "Barça - Arsenal, en directo",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004249546/barca-arsenal-directo-champions-league-futbol-femenino.html",
             "resumen": "",
             "fuente": "Mundo Deportivo"
           },
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Ter Stegen habla de su relación con Flick y su futuro en el Barça",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261111/1004249904/ter-stegen-habla-relacion-flick-futuro-barca.html",
-            "resumen": "Marc ter Stegen , guardameta del FC Barcelona cedido en el Ajax y con contrato con el equiop azulgrana hasta 2028, habló de su futuro en el Spotify Camp Nou y de su relación con Hansi Flick .",
+            "titulo": "Raphinha casi lidera la Bota de Oro: así va la clasificación",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004250020/raphinha-lidera-bota-oro-asi-clasificacion.html",
+            "resumen": "Si no fuera porque la Liga letona se disputa en calendario de año natural, Raphinha ya estaría liderando el ránking de la Bota de Oro 2026-27. Con 15 goles en el Campeonato español, el brasileño encabeza el ‘Trofeo Pichichi’ y suma 30…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "November 11, 2026",
-    "generada": "17:31",
+    "fecha": "November 12, 2026",
+    "generada": "17:46",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Spain sees widespread disruption in first general strike for 14 years",
-            "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+            "titulo": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+            "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
+            "link": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
+            "resumen": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’ The Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+            "link": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
+            "resumen": "The Kremlin, taking a hard line, is pushing to widen negotiations to overhaul European security structures.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+            "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
             "fuente": "BBC"
           },
           {
             "titulo": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
             "link": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
             "resumen": "Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red Crescent Lewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sending humanitarian aid to the…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
-            "link": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
-            "resumen": "Washington wants to intensify its economic pressure campaign on Iran by closing its land borders. Neighboring states, fearing economic fallout, are pushing back.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-            "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Collision of two trains in Egypt kills at least seven",
-            "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
-            "resumen": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains collided on Sunday south of the Egyptian capital, Cairo,…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,34 +189,34 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-            "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-            "resumen": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+            "titulo": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+            "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Democrats’ US election sweep brings the price of their promised social contract into focus",
-            "link": "https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs",
-            "resumen": "‘The post-election wish list is about to run into harsh fiscal reality: there is no money’ Is this an opportunity for a new America? As the Reagan revolution four decades ago launched US society down the path to low taxes and meager…",
+            "titulo": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
+            "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+            "resumen": "Nvidia shares plunge 10% in pre-market trading after board ousts longtime boss Huang over two affairs, including with a suspected Chinese spy, in big blow to AI boom Too big – and too well-connected – to sack? Huang does not enjoy the…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair",
-            "link": "https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html",
-            "resumen": "Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick last week about why the administration had not put restrictions on advanced chip sales to Megaspeed.",
+            "titulo": "Mortgage Rates Remain High as Affordability Challenges Persist",
+            "link": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
+            "resumen": "The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Christmas toy rush being driven by squishies and building sets",
-            "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
-            "resumen": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
-            "fuente": "BBC"
+            "titulo": "College students rally in support of Starbucks baristas urging boycott over contract impasse",
+            "link": "https://www.theguardian.com/us-news/2026/nov/12/starbucks-workers-campus-rally-contract-talks",
+            "resumen": "Rallies take place on more than US 40 campuses as workers seeking better pay and conditions decry stalled talks Starbucks baristas, students, elected officials and allies are holding rallies at over 40 college campuses across the US on…",
+            "fuente": "The Guardian"
           },
           {
-            "titulo": "Nvidia hires major US law firm to investigate spying claims; UK chancellor ‘dismayed’ by budget leak – as it happened",
-            "link": "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates",
-            "resumen": "Rolling coverage of the latest economic and financial news After two days of losses, Nvidia’s stock is expected to recover some lost ground today. Nvidia’s shares are up almost 5% in premarket trading, ahead of the Wall Street open in…",
-            "fuente": "The Guardian"
+            "titulo": "Jensen Huang’s Resignation From Nvidia Could Complicate Billions in Philanthropic Giving",
+            "link": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-philanthropy-nvidia.html",
+            "resumen": "Mr. Huang, the company’s co-founder, and his wife oversee a charitable foundation with about $9 billion in assets.",
+            "fuente": "N.Y. Times"
           }
         ]
       },
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-            "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
+            "titulo": "Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
+            "link": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss",
+            "resumen": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Molecular signal in blood helps detect early risk for ovarian cancer, study finds",
-            "link": "https://www.theguardian.com/society/2026/nov/11/ovarian-cancer-study-early-detection-blood",
-            "resumen": "Researchers discover a potential diagnostic breakthrough for a disease often ⁠discovered after it has already spread A molecular signal in the blood helps identify microscopic changes that precede development of ovarian cancer,…",
+            "titulo": "European survey reveals 900m galaxies – and possibly secrets of ‘dark universe’",
+            "link": "https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe",
+            "resumen": "Unprecedented view of cosmos provided by Euclid mission throws up many more cases of gravitational lensing A mission to create the largest ever 3D map of the universe has revealed more than 900m galaxies in its first major data release…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "25 Years After the Anthrax Attacks, America Remains Vulnerable",
-            "link": "https://www.nytimes.com/2026/11/11/science/25-years-since-anthrax-attacks-vulnerability.html",
-            "resumen": "Letters filled with anthrax spores exposed flaws in the United States’ biosecurity systems. Experts say many of those issues still exist.",
+            "titulo": "These Killer Female Apes Challenge the ‘Man the Hunter’ Origin Story",
+            "link": "https://www.nytimes.com/2026/11/12/science/these-killer-female-apes-challenge-the-man-the-hunter-origin-story.html",
+            "resumen": "Bonobos are as closely related to humans as chimps. New evidence that female bonobos are the primary hunters could radically alter our understanding of early human societies.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
-            "link": "https://www.bbc.co.uk/news/articles/cwm242plggldo?at_medium=RSS&at_campaign=rss",
-            "resumen": "A ten-year strategy to raise £500m from the Duchy of Cornwall will see farms sold off across England.",
+            "titulo": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
+            "link": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss",
+            "resumen": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, one expert says.",
             "fuente": "BBC"
           },
           {
-            "titulo": "What happens to your brain when the days get darker? - video",
-            "link": "https://www.theguardian.com/science/video/2026/nov/10/what-happens-to-your-brain-when-the-days-get-darker-video",
-            "resumen": "As the nights draw in, many of us can experience low mood. But for a small proportion of people a more intense depression develops through the winter months. It’s a phenomenon that since the 1980s has been labelled seasonal affective…",
+            "titulo": "BMI alternative for identifying obesity ‘could prevent misdiagnosis in millions’",
+            "link": "https://www.theguardian.com/society/2026/nov/11/bmi-alternative-obesity-diagnosis-body-mass-index",
+            "resumen": "Combining body mass index with other measurements and tests would lead to better care and outcomes, experts say An alternative to BMI for diagnosing obesity could prevent misdiagnosis in millions of people worldwide, according to doctors…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Mauricio Pochettino looks set to turn a decade-long courtship with Man Utd into a full-blown relationship, says chief football writer Phil McNulty.",
+            "titulo": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
+            "resumen": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
             "fuente": "BBC"
           },
           {
-            "titulo": "NFL trade deadline winners and losers: Vikings go full dadcore with Kirk Cousins in Super Bowl quest",
-            "link": "https://www.theguardian.com/sport/2026/nov/11/nfl-trade-deadline-winners-and-losers-vikings-bears-jaguars",
-            "resumen": "Teams with championship aspirations tooled up at the deadline. Most, but not all of them, have improved their chances After what happened Monday night, the Minnesota Vikings had to do this. In a dispiriting loss to the Buffalo Bills, the…",
+            "titulo": "NFL midseason awards: Allen’s brilliance, a Seahawks shocker and a new Super Bowl pick",
+            "link": "https://www.theguardian.com/sport/2026/nov/12/nfl-midseason-awards-josh-allen-jahmyr-gibbs-seahawks-bears",
+            "resumen": "With the season reaching its halfway point, it’s time to see which teams and players are excelling Josh Allen, QB, Buffalo Bills. Joe Burrow is excelling for the Bengals and is rightly a frontrunner for MVP. He’s stylish, precise and…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Pochettino ready to accept Man Utd offer to replace Carrick",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
+            "titulo": "Palace sack Sage after 16 games with Frank in advanced talks",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss",
+            "resumen": "Crystal Palace have sacked manager Pierre Sage after 16 games in charge and the club bottom of the table.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Pochettino’s Manchester United interest is as natural as it is disruptive to the US",
-            "link": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-usmnt",
-            "resumen": "The former Tottenham manager is always going to be a subject of interest, but United’s job carries a rare power As Mauricio Pochettino left the podium to close his final press conference of the last international window, he offered an…",
+            "titulo": "Pochettino expected to lead US in Nations League games before Manchester United move",
+            "link": "https://www.theguardian.com/football/2026/nov/12/mauricio-pochettino-manchester-united-usmnt-nations-league",
+            "resumen": "USMNT coach agreed framework of a deal with United United have made contact with US federation Balogun: ‘I’d like to keep things the way they are’ Live news and reaction for Pochettino’s move to Man Utd Mauricio Pochettino will lead the…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o?at_medium=RSS&at_campaign=rss",
-            "resumen": "From 21-year-old who scored 79 seconds into his debut to being on the brink of breaking his nation's appearance record, BBC Sport looks at Harry Kane's England career.",
+            "titulo": "The chaos that took Carrick from two-year deal to sacked within 15 games",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong?",
             "fuente": "BBC"
           }
         ]

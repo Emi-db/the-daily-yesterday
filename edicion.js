@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "11 de noviembre de 2026",
-  "generada": "17:31",
+  "fecha": "12 de noviembre de 2026",
+  "generada": "17:46",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "La expareja de Fernando Cerimedo se fue a México tras recibir asilo político del Gobierno de Sheinbaum",
-          "link": "https://www.clarin.com/politica/expareja-fernando-cerimedo-mexico-recibir-asilo-politico-gobierno-sheinbaum_0_mj2wFQ9PRY.html",
-          "resumen": "El exasesor de Javier Milei está detenido acusado de intento de femicidio sobre Nadia Beller.",
+          "titulo": "Cuadernos y contratos de alquiler hallados en la celda de Lázaro Báez revelan cómo seguía moviendo millones pese a los embargos y decomisos",
+          "link": "https://www.clarin.com/politica/cuadernos-contratos-alquiler-hallados-celda-lazaro-baez-revelan-seguia-moviendo-millones-pese-embargos-decomisos_0_KGyMkAIGG9.html",
+          "resumen": "En base a 25 documentos secuestrados, el fiscal federal de Río Gallegos, Julio Zárate, denunció al empresario K preso de liderar una asociación ilícita que usufructuaba sus bienes pese a estar bajo el control de la Justicia por sus…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Las lágrimas de Javier Milei en el cierre de la gira histórica del papa León XIV en la Argentina",
-          "link": "https://www.lanacion.com.ar/politica/la-emocion-de-javier-milei-en-el-cierre-de-la-gira-historica-del-papa-leon-xiv-en-la-argentina-nid11112026/",
-          "resumen": "",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: “Argentina, faro de luz de Occidente”, dijo el Presidente tras la visita de León XIV",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-argentina-faro-de-luz-de-occidente-dijo-el-presidente-tras-la-nid12112026/",
+          "resumen": "El minuto a minuto de las decisiones del jefe de Estado, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El final de la visita de León XIV a la Argentina: una tregua necesaria y el desafío de evitar una interpretación facciosa de sus mensajes",
-          "link": "https://www.infobae.com/politica/2026/11/11/el-final-de-la-visita-de-leon-xiv-a-la-argentina-una-tregua-necesaria-y-el-desafio-de-evitar-una-interpretacion-facciosa-de-sus-mensajes/",
-          "resumen": "Durante cuatro días, millones protagonizaron una masiva demostración de fe, emoción y convivencia. Los discursos del Papa abrieron una disputa entre el Gobierno y el peronismo, pero dejaron una reflexión profunda sobre la pobreza, el…",
+          "titulo": "La salud privada, en alerta por sus deudas: “Si das de baja la emergencia sanitaria, ARCA ejecuta a más de cinco mil clínicas”",
+          "link": "https://www.infobae.com/politica/2026/11/12/la-salud-privada-en-alerta-por-sus-deudas-si-das-de-baja-la-emergencia-sanitaria-arca-ejecuta-a-mas-de-cinco-mil-clinicas/",
+          "resumen": "El director del Sanatorio Mater Dei, Enrique Camerlinckx, advirtió sobre el impacto de las deudas acumuladas y el desfasaje entre los costos y los ingresos de los prestadores privados",
           "fuente": "Infobae"
         },
         {
-          "titulo": "La reacción de Bullrich luego que Irán declarara terroristas a la Armada y la Fuerza Aérea argentinas: \"Marca de qué lado estamos\"",
-          "link": "https://www.clarin.com/politica/reaccion-bullrich-luego-iran-declarara-terroristas-armada-fuerza-aerea-argentinas-marca-lado_0_6qhHfzD89m.html",
-          "resumen": "La senadora, exministra de Seguridad, aseguró que Irán es \"un país que le niega la libertad y los derechos humanos a su propio pueblo\" y que \"cometió dos atentados en nuestro país\". El régimen persa utilizó el \"principio de reciprocidad\"…",
+          "titulo": "Suspensión de las PASO: pese a los roces con Milei, Bullirch convoca a una comisión y el Gobierno dice que tiene los votos",
+          "link": "https://www.clarin.com/politica/reforma-electoral-bullrich-alinea-gobierno-dice-votos_0_l93OZVGQwV.html",
+          "resumen": "La jefa del bloque oficialista indicó que se convoque a una comisión del Senado el martes 17. Fue tras un pedido del jefe de Gabinete, Diego Santilli.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: “Así somos imparables”, dijo Quirno sobre la visita del Papa",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-asi-somos-imparables-dijo-quirno-sobre-la-visita-del-papa-nid11112026/",
-          "resumen": "El canciller le agradeció al Pontífice por su viaje a la Argentina y a los jóvenes del país; este miércoles, el Santo Padre continúa con su gira por Perú",
+          "titulo": "Estatuto del Periodista: se acerca el plazo para su derogación y las iniciativas para revertirlo permanecen sin avances en el Congreso",
+          "link": "https://www.lanacion.com.ar/politica/estatuto-del-periodista-se-acerca-el-plazo-para-su-derogacion-y-las-iniciativas-para-revertirlo-nid12112026/",
+          "resumen": "La denominada ley de Modernización Laboral dispuso la eliminación del régimen especial para los trabajadores de prensa; el oficialismo defiende su actualización y los gremios reclaman mantener las protecciones específicas de la actividad",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Inflación: cuánto fue el IPC de octubre y qué suba de precios se espera hasta fin de año",
-          "link": "https://www.clarin.com/economia/inflacion-ipc-octubre-suba-precios-espera-fin-ano_0_kBMdcAUElS.html",
-          "resumen": "Este jueves se conocerá el IPC de octubre. En septiembre fue de 1,9%. La inflación promedio del último año quedó estable apenas por abajo de 2%. Cómo viene noviembre: ¿ayudó el Cybermonday a bajar algunos precios?",
+          "titulo": "Fuerte suba de los bonos argentinos: el riesgo país cae a 841 puntos y las acciones ganan hasta 4%",
+          "link": "https://www.clarin.com/economia/fuerte-suba-bonos-argentinos-riesgo-pais-cae-841-puntos-acciones-ganan-4_0_Pr1XMjCBPK.html",
+          "resumen": "El Merval corta una racha negativa de cuatro días. El dólar permanece en $ 1.570 en el Banco Nación.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Una plataforma global de e-commerce llega a la Argentina para integrar ventas, stock y logística",
-          "link": "https://www.lanacion.com.ar/economia/negocios/una-plataforma-global-de-e-commerce-llega-a-la-argentina-para-integrar-ventas-stock-y-logistica-nid11112026/",
-          "resumen": "Base.com, una firma polaca que opera en más de 20 países y es utilizada por más de 30.000 empresas, abrió operación local con un equipo propio de implementación y soporte; conecta marketplaces, tiendas online, inventarios y operadores…",
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotizan el oficial y el paralelo este jueves 12 de noviembre, minuto a minuto",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotizan-el-oficial-y-el-paralelo-este-jueves-12-de-noviembre-nid12112026/",
+          "resumen": "La divisa oficial opera a $1570 para la venta en el Banco Nación; el dólar blue cotiza a $1570 para esa operación; qué pasa con el MEP y el CCL",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La visita del papa León XIV oxigenó al turismo: movilizó una multitud y el impacto económico superó los u$s88 millones en CABA",
-          "link": "https://www.ambito.com/economia/la-visita-del-papa-leon-xiv-oxigeno-al-turismo-movilizo-una-multitud-y-el-impacto-economico-supero-los-us88-millones-caba-n6344016",
-          "resumen": "La ocupación hotelera de la Ciudad de Buenos Aires estuvo al 75%, mientras que Luján se estima que llegó al 90% y Córdoba al 60%, aunque en la capital de la provincia muchos establecimientos estuvieron al 100%, especialmente los de alta…",
+          "titulo": "La economía de Reino Unido creció 0,7% en el tercer trimestre por el impulso de la inteligencia artificial",
+          "link": "https://www.ambito.com/economia/la-reino-unido-crecio-07-el-tercer-trimestre-el-impulso-la-inteligencia-artificial-n6344515",
+          "resumen": "La fortaleza del sector de servicios, especialmente la programación informática ligada a la IA, impulsó el desarrollo. Los detalles, en la nota.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Salen los brasileños y entran los mexicanos: se vendió una de las siderúrgicas más antiguas del país",
-          "link": "https://www.clarin.com/economia/salen-brasilenos-entran-mexicanos-vendio-siderurgicas-antiguas-pais_0_PVeDyTlv5i.html",
-          "resumen": "Se trata de Acerbrag, que estaba en manos del grupo Votorantim, que ya salió de ese negocio en otros países. La nueva dueña es la mexicana Simec, que se está expandiendo en el mundo.",
+          "titulo": "El FMI habló sobre la suba del riesgo país: dijo que hay factores externos y locales pero que el Gobierno debe mantener el rumbo",
+          "link": "https://www.clarin.com/economia/fmi-hablo-suba-riesgo-pais-dijo-factores-externos-locales-gobierno-debe-mantener-rumbo_0_ckoP1ir70X.html",
+          "resumen": "La vocera del Fondo Monetario, Julie Kozack, aseguró que hubo un cambio de humor en los mercados que afectó a la Argentina. El desembolso de US$ 900 millones llegaría a principios de diciembre.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Por qué el petróleo se desplomó, pero no impacta en el precio de la nafta",
-          "link": "https://www.lanacion.com.ar/economia/el-petroleo-se-desplomo-pero-la-nafta-no-la-cuenta-pendiente-que-refleja-el-surtidor-local-nid11112026/",
-          "resumen": "El Brent tuvo su mayor baja semanal desde la pandemia tras la victoria demócrata en Estados Unidos, pero las empresas arrastran un atraso de hasta 27% en el gasoil y buscan recuperar lo que perdieron",
+          "titulo": "Inflación de octubre, EN VIVO: cuál es el IPC acumulado y qué proyectan las consultoras para este año",
+          "link": "https://www.lanacion.com.ar/economia/inflacion-de-octubre-en-vivo-cual-es-el-ipc-acumulado-y-que-proyectan-las-consultoras-para-este-ano-nid12112026/",
+          "resumen": "Las estimaciones privadas ubican el índice entre el 1,8% y el 2,1%; el análisis de las principales consultoras y las definiciones del Gobierno",
           "fuente": "La Nación"
         }
       ]
@@ -77,9 +77,21 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "El secuestro de Leonardo Bertulazzi: el recuerdo de las Brigadas Rojas y un secuestro que mantuvo en vilo a Italia",
-          "link": "https://www.clarin.com/mundo/secuestro-leonardo-bertulazzi-recuerdo-brigadas-rojas-secuestro-mantuvo-vilo-italia_0_iZk2D4h8ES.html",
-          "resumen": "La huida del terrorista italiano, de 74 años, detenido en Buenos Aires, reavivó el recuerdo de un caso que causó conmoción y de un grupo que sembró el terror durante años. El ex primer ministro Aldo Moro, una de las presas más importantes…",
+          "titulo": "Quién es Colette Kress, la nueva CEO interina de Nvidia tras la salida de Jensen Huang",
+          "link": "https://www.clarin.com/mundo/colette-kress-nueva-ceo-interina-nvidia-salida-jensen-huang_0_m6p9TAKeDw.html",
+          "resumen": "Tiene 59 años y lleva 13 en la empresa. Fue elegida para cubrir el puesto hasta que se designe al ocupante definitivo del cargo. De perfil bajo, es respetada en el mundo financiero y genera confianza en los socios de la compañía.",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Golpe comando en una joyería de París: entraron de negro con fusiles de asalto y huyeron en motos con el botín",
+          "link": "https://www.lanacion.com.ar/el-mundo/golpe-comando-en-una-joyeria-de-paris-entraron-de-negro-con-fusiles-de-asalto-y-huyeron-en-motos-con-nid12112026/",
+          "resumen": "Cuatro delincuentes irrumpieron con fusiles de asalto en una tienda de De Beers, cerca de la plaza Vendôme; el golpe duró apenas unos minutos y quedó registrado en video",
+          "fuente": "La Nación"
+        },
+        {
+          "titulo": "Golpe de película a una joyería de París: con armas largas y pasamontañas robaron un botín de un millón de dólares",
+          "link": "https://www.clarin.com/mundo/golpe-pelicula-joyeria-paris-armas-largas-pasamontanas-robaron-botin-millon-dolares_0_L9sxcEpVj8.html",
+          "resumen": "Cuatro asaltantes ingresaron a la joyería ubicada en el distrito 2 de París durante la mañana del jueves. No realizaron disparos ni se registraron heridos y se fugaron en moto.",
           "fuente": "Clarín"
         },
         {
@@ -89,21 +101,9 @@ const EDICION = {
           "fuente": "La Nación"
         },
         {
-          "titulo": "Keiko Fujimori se irá de viaje mientras León XIV todavía estará en Perú: “Como presidenta, tengo obligaciones que cumplir”",
-          "link": "https://www.clarin.com/mundo/keiko-fujimori-ira-viaje-china-leon-xiv-todavia-peru-presidenta-obligaciones-cumplir_0_xLqKIG1AMJ.html",
-          "resumen": "",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "Caos en España: una huelga general por la crisis de la vivienda sacude al gobierno de Sánchez en plena campaña",
-          "link": "https://www.lanacion.com.ar/el-mundo/caos-en-espana-una-huelga-general-por-la-crisis-de-la-vivienda-sacude-al-gobierno-de-sanchez-en-nid11112026/",
-          "resumen": "La primera medida de fuerza de esta magnitud desde 2012 provocó cortes de rutas, interrupciones en el transporte y enfrentamientos con la policía, a menos de tres semanas de las elecciones anticipadas",
-          "fuente": "La Nación"
-        },
-        {
-          "titulo": "Un campeón de judo de origen caribeño se lanza a la pelea por la presidencia de Francia: ¿Quién es Teddy Riner?",
-          "link": "https://www.clarin.com/mundo/campeon-judo-origen-caribeno-lanza-pelea-presidencia-francia-teddy-riner_0_kifR5Pu8JE.html",
-          "resumen": "Tiene 37 años y cinco medallas de oro olímpicas. Afirma que quiere llegar al poder para unir al país tras semanas de enfrentamientos, violencia y extrema polarización. Las encuestas para las elecciones de 2027 coinciden en una ventaja…",
+          "titulo": "Un influyente diario italiano señaló que el Papa no habló de los desaparecidos en la Argentina",
+          "link": "https://www.clarin.com/mundo/influyente-diario-italiano-senalo-papa-hablo-desaparecidos-argentina_0_wgZsPfhx39.html",
+          "resumen": "La enviada de Il Messaggero escribió que el pontífice no condenó explícitamente los crímenes de la dictadura militar. Lo comparó con Francisco, que siempre reclamó la búsqueda de la verdad y apoyó la lucha de Madres y Abuelas de Plaza de…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Reapareció Carlos Ischia y fue muy duro con Boca: \"Me molestó que no lo descalificaran de la Copa Argentina\"",
-          "link": "https://www.clarin.com/deportes/reaparecio-carlos-ischia-duro-boca-molesto-descalificaran-copa-argentina_0_ULxYVtf2tl.html",
-          "resumen": "El ex entrenador del club habló sobre el cruce de octavos de final de la Copa Argentina frente a Vélez. En aquel encuentro, Boca inscribió a un jugador extranjero más de los permitidos por el reglamento.",
+          "titulo": "La bronca de Luis de la Fuente contra los rumores sobre la ausencia de Lamine Yamal en España: \"Me molesta el invento\"",
+          "link": "https://www.clarin.com/deportes/bronca-luis-fuente-rumores-ausencia-lamine-yamal-espana-molesta-invento_0_jZPYoZWmjC.html",
+          "resumen": "El técnico campeón del mundo defendió al joven delantero del Barcelona. Yamal no estará presente en el partido de este jueves ante República Checa, por la Liga de Naciones, debido a una molestia física. Se espera que vuelva para el duelo…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Rafael Nadal propuso cambios para el tenis: menos superficie dura y un ranking distinto",
-          "link": "https://www.lanacion.com.ar/deportes/tenis/rafael-nadal-propuso-cambios-para-el-tenis-menos-superficie-dura-y-un-ranking-distinto-nid11112026/",
-          "resumen": "El ganador de 22 Grand Slams, retirado en 2024, habló sobre el desgaste físico y emocional que sufren los jugadores",
+          "titulo": "Lionel Scaloni, en vivo",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/lionel-scaloni-en-vivo-nid12112026/",
+          "resumen": "El DT responde preguntas a la prensa el día previo al duelo entre Argentina y Uruguay en la Bombonera",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El nuevo reclamo económico contra Independiente",
-          "link": "https://www.ole.com.ar/independiente/independiente-defensorsporting-matiasabaldo-fifa-kevinlomonaco_0_gkpT9F5R4i.html",
-          "resumen": "A pocos días de la inhibición por el pase de Kevin Lomónaco, Defensor Sporting demandó al Rojo por una deuda por la compra de la ficha de Matías Abaldo. Los detalles.",
+          "titulo": "Habla Lionel Scaloni: continuidad en la Selección, la 10, capitanía y toda la previa de Uruguay",
+          "link": "https://www.ole.com.ar/seleccion/lionel-scaloni-conferencia-prensa-argentina-vs-uruguay-continuidad-camiseta-10-capitania_0_C1Kg6jyHsH.html",
+          "resumen": "El DT de Argentina brinda una conferencia de prensa con un temario bien amplio: del amistoso de este viernes a su renovación hasta 2030.",
           "fuente": "Olé"
         },
         {
-          "titulo": "El reencuentro de Montiel y Almada con Chiqui Tapia tras la tensión que generó el arbitraje del Superclásico: cómo fue cada saludo",
-          "link": "https://www.clarin.com/deportes/gonzalomontiel-thiagoalmada-claudiotapia-seleccionargentina-river-afa_0_fcOKOMGVoM.html",
-          "resumen": "Tanto el lateral como el volante de River fueron recibidos por el presidente de la AFA en el predio de Ezeiza.",
+          "titulo": "El drama del arquero involucrado en la muerte de un futbolista en España: su entrenador reveló cómo está y reveló si piensa en el retiro",
+          "link": "https://www.clarin.com/deportes/drama-arquero-involucrado-muerte-futbolista-espana-entrenador-revelo-revelo-piensa-retiro_0_OT92HwTcKZ.html",
+          "resumen": "Jesús Owono atraviesa un momento devastador después del choque que terminó con la vida de Jesús de Miguel, delantero del Tenerife. El técnico del Andorra rompió el silencio, desmintió algunas versiones y reconoció que todavía no se sabe…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Murió Carlos Babington, la zurda mágica del Huracán del 73 y de la selección argentina en el Mundial 74",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/huracan/murio-carlos-babington-la-zurda-magica-del-huracan-del-73-y-de-la-seleccion-del-mundial-74-nid11112026/",
-          "resumen": "Tuvo una destacada trayectoria como futbolista y entrenador, y llegó a ser presidente del Globo; tenía 77 años",
+          "titulo": "Italia vs. Francia, por la Nations League 2026-2027: horario y dónde ver el partido",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/italia-vs-francia-por-la-nations-league-2026-2027-horario-y-donde-ver-el-partido-nid12112026/",
+          "resumen": "El encuentro entre italianos y franceses se disputa este jueves en el estadio Giuseppe Meazza, con arbitraje del rumano Istvan Kovacs; el visitante tiene varias bajas de peso",
           "fuente": "La Nación"
         }
       ]
