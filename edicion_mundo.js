@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "12 de noviembre de 2026",
-    "generada": "17:46",
+    "fecha": "13 de noviembre de 2026",
+    "generada": "17:24",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "4 claves del escándalo de los supuestos \"sexocontratos\" por el que se investiga al expresidente de Colombia Gustavo Petro",
-            "link": "https://www.bbc.com/mundo/articles/cr3wg62qwjz9o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Una mujer acusa al expresidente de haberle conseguido contratos con el estado a cambio de favores sexuales.",
+            "titulo": "\"Seguí a 5 familias durante 14 años para retratar cómo se vive la pobreza extrema en Colombia y por qué solo algunos logramos salir de ella\"",
+            "link": "https://www.bbc.com/mundo/articles/cwe8rpg5mr9po?at_medium=RSS&at_campaign=rss",
+            "resumen": "El documental \"El juego de la vida\" ha sido el más visto en salas de cine colombianas en los últimos cinco años. BBC Mundo habló con su autor.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Jensen Huang renuncia como consejero delegado de Nvidia forzado por el escándalo sobre sus infidelidades y el caso de espionaje",
-            "link": "https://elpais.com/us/2026-11-12/jensen-huang-dimite-como-consejero-delegado-de-nvidia-tras-destaparse-el-escandalo-sobre-sus-infidelidades-y-el-caso-de-espionaje.html",
-            "resumen": "La relación extramarital con una presunta espía china y con una subordinada de su empresa precipitó su salida",
+            "titulo": "Más de 450.000 combatientes del bando ruso han muerto desde el inicio de la guerra, según la base de datos oficial",
+            "link": "https://elpais.com/internacional/2026-11-13/mas-de-450000-combatientes-del-bando-ruso-han-muerto-desde-el-inicio-de-la-guerra-segun-la-base-de-datos-oficial.html",
+            "resumen": "Dos grupos de ‘hackers’ publican por primera vez las cifras de la agencia gubernamental de estadísticas. Entre los fallecidos hay un español y decenas de latinoamericanos",
             "fuente": "El País"
           },
           {
-            "titulo": "Informe desde Lima: Perú celebra al papa León XIV entre muestras de fe y emoción",
-            "link": "https://www.france24.com/es/video/20261112-informe-desde-lima-per%C3%BA-celebra-al-papa-le%C3%B3n-xiv-entre-muestras-de-fe-y-emoci%C3%B3n",
-            "resumen": "El regreso del papa León XIV a Perú ha estado marcado por escenas de emoción y un fuerte vínculo con el país donde desarrolló gran parte de su labor pastoral. Durante su llegada a Lima, el pontífice, nacido como Robert Francis Prevost,…",
+            "titulo": "UE advierte sobre las \"trampas\" de Rusia ante las negociaciones de paz en Ucrania",
+            "link": "https://www.france24.com/es/video/20261113-ue-advierte-sobre-las-trampas-de-rusia-ante-las-negociaciones-de-paz-en-ucrania",
+            "resumen": "La jefa de la diplomacia europea, Kaja Kallas, alertó sobre posibles \"trampas\" de Moscú en las conversaciones para poner fin a la guerra en Ucrania. Mientras Bruselas y Kiev prevén la participación de la Unión Europea en la próxima ronda…",
             "fuente": "France 24"
           },
           {
-            "titulo": "\"El papa León XIV es mi padrino de bautizo\": la insólita historia de Mildred Camacho, la joven peruana que es ahijada del Sumo Pontífice",
-            "link": "https://www.bbc.com/mundo/articles/cqly3jpmvvl9o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Hace 30 años, el joven sacerdote Robert Prevost Martínez aceptó ser el padrino de bautismo de una niña en Chulucanas, en la región de Piura. Ahora ella espera con ansiedad su visita a Perú como el papa León XIV.",
+            "titulo": "\"¡Qué alegría volver a Chiclayo!\": León XIV celebra una masiva misa en la ciudad de Perú que lanzó su carrera hacia el papado",
+            "link": "https://www.bbc.co.uk/mundo/live/c62e8kkl9rlrt?at_medium=RSS&at_campaign=rss",
+            "resumen": "Tras recorrer Argentina y Uruguay, el Papa visita Perú y vuelve a Chiclayo, el lugar donde ejerció como obispo entre 2015 y 2023. Ante 900.000 personas celebra una misa en la explanada de las Pampas de Pimentel y allí está BBC Mundo.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "El ascenso de los hijos de Huang en Nvidia aviva las dudas por la gobernanza: de chef y barman a ejecutivos de la mayor compañía del mundo",
-            "link": "https://elpais.com/us/2026-11-12/el-ascenso-de-los-hijos-de-huang-en-nvidia-aviva-las-dudas-por-la-gobernanza-de-chef-y-barman-a-ejecutivos-de-la-mayor-compania-del-mundo.html",
-            "resumen": "El yerno, Nico Caprez, exmonitor de esquí en Suiza, ahora dirige una de las áreas más importantes del negocio",
+            "titulo": "El enviado de Trump asegura que Putin acepta que Europa se sume a las negociaciones de paz sobre Ucrania",
+            "link": "https://elpais.com/internacional/2026-11-13/el-enviado-de-trump-asegura-que-putin-acepta-que-europa-se-sume-a-las-negociaciones-de-paz-sobre-ucrania.html",
+            "resumen": "Los líderes de la UE debaten cómo estar representados en unas hipotéticas conversaciones, mientras Moscú pone condiciones",
             "fuente": "El País"
           }
         ]
@@ -43,15 +43,21 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
+            "titulo": "Alemania y Francia ultiman un pacto sobre el BCE con Hernández de Cos como favorito para la presidencia",
+            "link": "https://elpais.com/economia/2026-11-13/alemania-y-francia-ultiman-un-pacto-sobre-el-bce-con-hernandez-de-cos-como-favorito-para-la-presidencia.html",
+            "resumen": "Merz: “Necesitamos aún unos días. Queremos presentar la propuesta alemana la semana que viene”",
+            "fuente": "El País"
+          },
+          {
             "titulo": "La inversión hotelera enfila un año récord gracias al capital español",
             "link": "https://www.expansion.com/empresas/transporte/2026/11/05/inversion-hotelera-enfila-ano-record-gracias-capital-espanol.html",
             "resumen": "Cadenas y ‘family offices’ como RIU, los Matutes o los García-Baquero impulsan la inversión hotelera, que roza ya los 4.000 millones. La cifra podría rondar los 5.000 millones a cierre de año. Leer",
             "fuente": "Expansión"
           },
           {
-            "titulo": "El día después del 11-N: los sindicatos hablan de un “éxito” que superó las expectativas y la patronal ve “un fracaso”",
-            "link": "https://elpais.com/economia/2026-11-12/el-dia-despues-del-11-n-los-sindicatos-hablan-de-un-exito-que-supero-las-expectativas-y-la-patronal-ve-un-fracaso.html",
-            "resumen": "Las centrales registraron un seguimiento amplio en varias comunidades, como Cataluña (84%) o Navarra (85%), y menor en Extremadura (49%) o Baleares (48%). CEOE rebaja el global a un 5%",
+            "titulo": "Los que no hicieron huelga el 11-N pero llenaron las calles: “No podía perder un día de sueldo”",
+            "link": "https://elpais.com/economia/2026-11-13/los-que-no-hicieron-huelga-el-11-n-pero-llenaron-las-calles-no-podia-perder-un-dia-de-sueldo.html",
+            "resumen": "Varios manifestantes, muy enfadados por la crisis de acceso a la vivienda, explican que no secundaron el paro laboral por el castigo económico, pese a que querrían haber participado",
             "fuente": "El País"
           },
           {
@@ -61,16 +67,10 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "Transportes vuelve a negociar con los sindicatos para evitar más huelgas ferroviarias tras el siniestro de Urda",
-            "link": "https://elpais.com/economia/2026-11-12/transportes-vuelve-a-negociar-con-los-sindicatos-para-evitar-mas-huelgas-ferroviarias-tras-el-siniestro-de-urda.html",
-            "resumen": "El secretario de Estado, el presidente de Renfe y directivos de Adif se sientan con representantes de Semaf, UGT y CC OO, que mantienen paros para los días 17 y 23",
+            "titulo": "Los salarios de la banca multiplican hasta por cuatro los del sector servicios, la hostelería y el comercio",
+            "link": "https://elpais.com/economia/2026-11-13/los-salarios-de-la-banca-multiplican-hasta-por-cuatro-los-del-sector-servicios-la-hosteleria-y-el-comercio.html",
+            "resumen": "La remuneración media del sector financiero alcanza los 53.251 euros anuales, frente a los 14.867 de los servicios personales y de ocio, según la estadística tributaria",
             "fuente": "El País"
-          },
-          {
-            "titulo": "Acesur y Dcoop ganan la puja por Deoleo, el dueño de Carbonell",
-            "link": "https://www.expansion.com/empresas/2026/11/05/acesur-dcoop-ganan-puja-deoleo-dueno-carbonell.html",
-            "resumen": "CVC y Alchemy, los principales accionistas de la empresa aceitera se decantan por la oferta 100% española frente a la propuesta de la italiana Coricelli y la española Migasa. La operación valora la compañía en el entorno de los 500…",
-            "fuente": "Expansión"
           }
         ]
       },
@@ -78,33 +78,33 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
+            "titulo": "Sesenta huesos y un millón de años: hallado en Murcia el esqueleto más antiguo de un lince ibérico",
+            "link": "https://elpais.com/ciencia/2026-11-13/hallado-en-murcia-el-esqueleto-mas-antiguo-de-un-lince-iberico.html",
+            "resumen": "El ejemplar murió atrapado en una gruta kárstica y ha sido encontrado en una vieja cantera abandonada",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "La Fiscalía denuncia a TikTok por la difusión de vídeos de abuso sexual infantil y pide su retirada urgente",
+            "link": "https://elpais.com/sociedad/2026-11-13/la-fiscalia-denuncia-a-tiktok-en-el-juzgado-por-los-videos-de-abuso-sexual-infantil.html",
+            "resumen": "La fiscal solicita al juzgado la retirada de los miles de vídeos pedófilos que se difunden en la plataforma. El Gobierno ha pedido el cese de la actividad de la red social después de que una investigación de ‘Maldita.es’ denunciara estos…",
+            "fuente": "El País"
+          },
+          {
             "titulo": "Creado el mayor mapa del área cerebral clave en párkinson, alzhéimer, esquizofrenia y autismo",
             "link": "https://elpais.com/ciencia/2026-11-12/creado-el-mayor-mapa-del-area-cerebral-clave-en-parkinson-alzheimer-esquizofrenia-y-autismo.html",
             "resumen": "Un consorcio internacional presenta el atlas celular más detallado de los ganglios basales, donde hay claves ocultas de las principales dolencias cerebrales",
             "fuente": "El País"
           },
           {
-            "titulo": "Maryanne Wolf, neurocientífica: “Por culpa de la pantalla, hemos aprendido otra forma de leer que cortocircuita el cerebro”",
-            "link": "https://elpais.com/salud-y-bienestar/2026-11-12/maryanne-wolf-neurocientifica-por-culpa-de-la-pantalla-hemos-aprendido-otra-forma-de-leer-que-cortocircuita-el-cerebro.html",
-            "resumen": "La experta cree que estamos ante un cambio de paradigma similar al paso de una cultura oral a una escrita de la Grecia clásica: “Sócrates decía que la lectura sustituiría a la memoria. Es verdad que la desplaza, pero no la reemplaza del…",
+            "titulo": "TikTok pierde publicidad en España por los contenidos de abuso sexual infantil: El Corte Inglés y el Santander retiran sus anuncios",
+            "link": "https://elpais.com/tecnologia/2026-11-13/tiktok-ya-pierde-publicidad-en-espana-por-los-contenidos-de-abuso-sexual-infantil-santander-y-moeve-retiran-sus-anuncios.html",
+            "resumen": "Las dos grandes compañías, junto con Moeve y Eroski, esperan que la red social les de garantías de que podrá eliminar el material pedófilo que se difunde en la plataforma",
             "fuente": "El País"
           },
           {
             "titulo": "¿Cuánto se estresan las plantas? Un nuevo microsensor permite medirlo sin alterarlas más",
             "link": "https://elpais.com/clima-y-medio-ambiente/2026-11-12/cuanto-se-estresan-las-plantas-un-nuevo-microsensor-permite-medirlo-sin-alterarlas-mas.html",
             "resumen": "El prototipo abre una vía de futuro para ayudar a los agricultores frente a los efectos del cambio climático en las cosechas",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "La Fiscalía ordena investigar la difusión de contenido sexual de menores en TikTok",
-            "link": "https://elpais.com/espana/2026-11-11/la-fiscalia-ordena-investigar-la-difusion-de-contenido-sexual-de-menores-en-tiktok.html",
-            "resumen": "La fiscal general Peramato ha designado a la fiscal de Criminalidad Informática para indagar los delitos relacionados con posibles delitos relacionados con el abuso sexual infantil en la plataforma",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "El telescopio espacial ‘Euclid’ detecta 900 millones de galaxias y comienza el mapa tridimensional del universo",
-            "link": "https://elpais.com/ciencia/2026-11-12/el-telescopio-espacial-euclid-detecta-900-millones-de-galaxias-y-comienza-el-mapa-tridimensional-del-universo.html",
-            "resumen": "La misión europea intenta iluminar uno de los grandes enigmas de la humanidad: ¿de qué está hecho el cosmos?",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Barça - Arsenal, en directo",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004249546/barca-arsenal-directo-champions-league-futbol-femenino.html",
-            "resumen": "",
+            "titulo": "Lamine ya está con la selección",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250500/lamine-incorpora-hoy-seleccion.html",
+            "resumen": "Lamine Yamal (19) se ha incorporado este mediodía a la concentración de la selección española para preparar el partido de la Nations League del próximo domingo (20.45 h./La 1) contra Inglaterra en el Metropolitano de Madrid. También lo…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Raphinha casi lidera la Bota de Oro: así va la clasificación",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004250020/raphinha-lidera-bota-oro-asi-clasificacion.html",
-            "resumen": "Si no fuera porque la Liga letona se disputa en calendario de año natural, Raphinha ya estaría liderando el ránking de la Bota de Oro 2026-27. Con 15 goles en el Campeonato español, el brasileño encabeza el ‘Trofeo Pichichi’ y suma 30…",
+            "titulo": "Ancelotti responde a Real Madrid y Barça",
+            "link": "https://www.mundodeportivo.com/futbol/internacional/20261113/1004250595/ancelotti-responde-real-madrid-barca.html",
+            "resumen": "Carlo Ancelotti , técnico de la selección brasileña de fútbol, aseguró este viernes que \"los clubes pueden estar tranquilos\" porque su \"prioridad es la salud\" de los jugadores. El italiano respondió de esta forma a los temores expresados…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,16 +147,16 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "November 12, 2026",
-    "generada": "17:46",
+    "fecha": "November 13, 2026",
+    "generada": "17:24",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-            "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+            "titulo": "Why is Microsoft's outage lasting so long and will emails be lost?",
+            "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
             "fuente": "BBC"
           },
           {
@@ -166,15 +166,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
-            "link": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
-            "resumen": "The Kremlin, taking a hard line, is pushing to widen negotiations to overhaul European security structures.",
+            "titulo": "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
+            "link": "https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html",
+            "resumen": "The new epicenter of Congo’s fast-spreading outbreak is a region scarred by rebel violence. Responders are struggling to help it.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-            "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+            "titulo": "Watch: How a server outage took down Microsoft Teams and Outlook",
+            "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+            "resumen": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
             "fuente": "BBC"
           },
           {
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-            "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
-            "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-            "resumen": "Nvidia shares plunge 10% in pre-market trading after board ousts longtime boss Huang over two affairs, including with a suspected Chinese spy, in big blow to AI boom Too big – and too well-connected – to sack? Huang does not enjoy the…",
+            "titulo": "Microsoft outage live: disruption continues to affect millions as company says service is improving",
+            "link": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
+            "resumen": "Microsoft reports it is ‘continuing to see improvements in service availability’, after millions of customers around the world suffered disruption Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Mortgage Rates Remain High as Affordability Challenges Persist",
-            "link": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
-            "resumen": "The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve.",
+            "titulo": "With Huang Out, Asian Americans Lose a Star, and Fear What Comes Next",
+            "link": "https://www.nytimes.com/2026/11/13/us/jensen-huang-nvidia-asian-americans.html",
+            "resumen": "Many East Asians said that he had swagger and seemed like a superhero. Now there are worries that the spy scandal turns into hyper scrutiny against them.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "College students rally in support of Starbucks baristas urging boycott over contract impasse",
-            "link": "https://www.theguardian.com/us-news/2026/nov/12/starbucks-workers-campus-rally-contract-talks",
-            "resumen": "Rallies take place on more than US 40 campuses as workers seeking better pay and conditions decry stalled talks Starbucks baristas, students, elected officials and allies are holding rallies at over 40 college campuses across the US on…",
+            "titulo": "How a sex scandal at Nvidia is putting pressure on the White House",
+            "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "A timeline of the affair scandal that sank Nvidia’s Jensen Huang",
+            "link": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline",
+            "resumen": "CEO behind the meteoric rise of Nvidia stepped down after it was revealed he had an affair with an alleged Chinese spy Jensen Huang has stepped down as CEO of Nvidia , the company at the center of the AI boom, after leading it for more…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Jensen Huang’s Resignation From Nvidia Could Complicate Billions in Philanthropic Giving",
-            "link": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-philanthropy-nvidia.html",
-            "resumen": "Mr. Huang, the company’s co-founder, and his wife oversee a charitable foundation with about $9 billion in assets.",
+            "titulo": "Jensen Huang Lost His Job. Wall Street Lost Its Biggest Prize.",
+            "link": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
+            "resumen": "The ousted Nvidia chief executive was the consummate dealmaker leading the trillion-dollar A.I. build out.",
             "fuente": "N.Y. Times"
           }
         ]
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
-            "link": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss",
-            "resumen": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey.",
+            "titulo": "Summer heatwave put bin crews lives at risk, says council worker",
+            "link": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Crews faced a \"perfect storm\" of challenges during the UK's record-breaking weather, it's claimed.",
             "fuente": "BBC"
           },
           {
-            "titulo": "European survey reveals 900m galaxies – and possibly secrets of ‘dark universe’",
-            "link": "https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe",
-            "resumen": "Unprecedented view of cosmos provided by Euclid mission throws up many more cases of gravitational lensing A mission to create the largest ever 3D map of the universe has revealed more than 900m galaxies in its first major data release…",
+            "titulo": "What science can tell us about the art of conversation - video",
+            "link": "https://www.theguardian.com/science/video/2026/nov/13/what-science-can-tell-us-about-the-art-of-conversation-video",
+            "resumen": "Scientists at Dartmouth College in New Hampshire say they have discovered a telltale sign of an enjoyable conversation. Apparently the secret of a mutually satisfying chat is a healthy dose of pink noise. Guardian science editor Ian…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "These Killer Female Apes Challenge the ‘Man the Hunter’ Origin Story",
-            "link": "https://www.nytimes.com/2026/11/12/science/these-killer-female-apes-challenge-the-man-the-hunter-origin-story.html",
-            "resumen": "Bonobos are as closely related to humans as chimps. New evidence that female bonobos are the primary hunters could radically alter our understanding of early human societies.",
+            "titulo": "SpaceX Aims for Starship Launch on Friday. Here’s What to Know.",
+            "link": "https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html",
+            "resumen": "The audacious maneuver planned for Friday is a key step toward the company’s goal of making rockets fully reusable.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
-            "link": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss",
-            "resumen": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, one expert says.",
+            "titulo": "How many sewage spills have happened in your part of Scotland?",
+            "link": "https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss",
+            "resumen": "More than 76,000 sewage spills were recorded at overflow sites previously unmonitored by Scottish Water, BBC Scotland News analysis has found.",
             "fuente": "BBC"
           },
           {
-            "titulo": "BMI alternative for identifying obesity ‘could prevent misdiagnosis in millions’",
-            "link": "https://www.theguardian.com/society/2026/nov/11/bmi-alternative-obesity-diagnosis-body-mass-index",
-            "resumen": "Combining body mass index with other measurements and tests would lead to better care and outcomes, experts say An alternative to BMI for diagnosing obesity could prevent misdiagnosis in millions of people worldwide, according to doctors…",
+            "titulo": "The sinister power of Friday 13th: how this maligned date affects our lives",
+            "link": "https://www.theguardian.com/science/2026/nov/13/the-sinister-power-of-friday-13th-how-this-maligned-date-affects-our-lives",
+            "resumen": "Property sales that complete on this day have a lower median price. Air fares are cheaper. Weddings are non-existent. And motor collisions increase. How did it become so mired in superstition? “I have only worked one Friday 13th wedding…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
-            "resumen": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
+            "titulo": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
+            "resumen": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job.",
             "fuente": "BBC"
           },
           {
-            "titulo": "NFL midseason awards: Allen’s brilliance, a Seahawks shocker and a new Super Bowl pick",
-            "link": "https://www.theguardian.com/sport/2026/nov/12/nfl-midseason-awards-josh-allen-jahmyr-gibbs-seahawks-bears",
-            "resumen": "With the season reaching its halfway point, it’s time to see which teams and players are excelling Josh Allen, QB, Buffalo Bills. Joe Burrow is excelling for the Bengals and is rightly a frontrunner for MVP. He’s stylish, precise and…",
+            "titulo": "Tearful Pochettino says United job was ‘difficult to turn down’ in USMNT farewell",
+            "link": "https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-usmnt-manchester-united",
+            "resumen": "Coach was ‘transparent’ in dealings with club, federation Pochettino had signed deal to stay with US through 2030 There were always going to be tears at Mauricio Pochettino’s news conference at US Soccer’s national training center on…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Palace sack Sage after 16 games with Frank in advanced talks",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss",
-            "resumen": "Crystal Palace have sacked manager Pierre Sage after 16 games in charge and the club bottom of the table.",
+            "titulo": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
+            "resumen": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Pochettino expected to lead US in Nations League games before Manchester United move",
-            "link": "https://www.theguardian.com/football/2026/nov/12/mauricio-pochettino-manchester-united-usmnt-nations-league",
-            "resumen": "USMNT coach agreed framework of a deal with United United have made contact with US federation Balogun: ‘I’d like to keep things the way they are’ Live news and reaction for Pochettino’s move to Man Utd Mauricio Pochettino will lead the…",
+            "titulo": "NFL quarterbacks are under more pressure than ever from rushers. Why?",
+            "link": "https://www.theguardian.com/sport/2026/nov/13/nfl-quarterbacks-are-under-more-pressure-than-ever-from-rushers-why",
+            "resumen": "Despite all the advantages offenses have secured over the years, defenses are better at pressuring the QB than any other time in recent history The Baltimore Ravens are preparing to start their fourth quarterback this year, Jacoby…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "The chaos that took Carrick from two-year deal to sacked within 15 games",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong?",
+            "titulo": "Surfing speedster Beardman gives a glimpse of Ashes future",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Mahli Beardman gives England a glimpse into a possible Ashes future as he decimates their batting in Perth.",
             "fuente": "BBC"
           }
         ]
