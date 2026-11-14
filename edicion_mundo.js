@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "13 de noviembre de 2026",
-    "generada": "17:24",
+    "fecha": "14 de noviembre de 2026",
+    "generada": "16:11",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "\"Seguí a 5 familias durante 14 años para retratar cómo se vive la pobreza extrema en Colombia y por qué solo algunos logramos salir de ella\"",
-            "link": "https://www.bbc.com/mundo/articles/cwe8rpg5mr9po?at_medium=RSS&at_campaign=rss",
-            "resumen": "El documental \"El juego de la vida\" ha sido el más visto en salas de cine colombianas en los últimos cinco años. BBC Mundo habló con su autor.",
+            "titulo": "Qué se sabe sobre la suspensión de vuelos en EE.UU. más grande desde el 11S",
+            "link": "https://www.bbc.com/mundo/articles/c5n4e274kdlro?at_medium=RSS&at_campaign=rss",
+            "resumen": "Funcionarios estadounidenses señalan que la interrupción fue causada por la sobrecarga de equipos antiguos, y no por un ciberataque.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Más de 450.000 combatientes del bando ruso han muerto desde el inicio de la guerra, según la base de datos oficial",
-            "link": "https://elpais.com/internacional/2026-11-13/mas-de-450000-combatientes-del-bando-ruso-han-muerto-desde-el-inicio-de-la-guerra-segun-la-base-de-datos-oficial.html",
-            "resumen": "Dos grupos de ‘hackers’ publican por primera vez las cifras de la agencia gubernamental de estadísticas. Entre los fallecidos hay un español y decenas de latinoamericanos",
+            "titulo": "Estados Unidos reanuda el tráfico aéreo después de un parón de más de cuatro horas y 6.000 vuelos cancelados",
+            "link": "https://elpais.com/us/2026-11-14/estados-unidos-reanuda-el-trafico-aereo-despues-de-un-paron-de-mas-de-cuatro-horas-y-6000-vuelos-cancelados.html",
+            "resumen": "Problemas en el sistema informático que gestiona las comunicaciones provocaron la suspensión. Hay cientos de miles de personas afectadas por las cancelaciones y retrasos de sus viajes",
             "fuente": "El País"
           },
           {
-            "titulo": "UE advierte sobre las \"trampas\" de Rusia ante las negociaciones de paz en Ucrania",
-            "link": "https://www.france24.com/es/video/20261113-ue-advierte-sobre-las-trampas-de-rusia-ante-las-negociaciones-de-paz-en-ucrania",
-            "resumen": "La jefa de la diplomacia europea, Kaja Kallas, alertó sobre posibles \"trampas\" de Moscú en las conversaciones para poner fin a la guerra en Ucrania. Mientras Bruselas y Kiev prevén la participación de la Unión Europea en la próxima ronda…",
+            "titulo": "Zelenski denuncia presiones de EE. UU. para ceder el Donbass a cambio de entrar en la OTAN",
+            "link": "https://www.france24.com/es/europa/20261114-zelenski-denuncia-presiones-de-ee-uu-para-ceder-el-donbass-a-cambio-de-entrar-en-la-otan",
+            "resumen": "El presidente ucraniano, Volodímir Zelenski, aseguró que los negociadores estadounidenses propusieron explorar una retirada de las fuerzas de Kiev del Donbass a cambio de la adhesión del país a la OTAN, una posibilidad que calificó de…",
             "fuente": "France 24"
           },
           {
-            "titulo": "\"¡Qué alegría volver a Chiclayo!\": León XIV celebra una masiva misa en la ciudad de Perú que lanzó su carrera hacia el papado",
-            "link": "https://www.bbc.co.uk/mundo/live/c62e8kkl9rlrt?at_medium=RSS&at_campaign=rss",
-            "resumen": "Tras recorrer Argentina y Uruguay, el Papa visita Perú y vuelve a Chiclayo, el lugar donde ejerció como obispo entre 2015 y 2023. Ante 900.000 personas celebra una misa en la explanada de las Pampas de Pimentel y allí está BBC Mundo.",
+            "titulo": "Autorizan de nuevo el despegue de aviones en EE.UU. tras la falla que obligó a suspender durante horas miles de vuelos en todo el país",
+            "link": "https://www.bbc.com/mundo/articles/crgqx8jpw3jvo?at_medium=RSS&at_campaign=rss",
+            "resumen": "La FAA había ordenado este viernes suspender todos los despegues de vuelos en Estados Unidos, alegando \"circunstancias extraordinarias\" y motivos de seguridad.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "El enviado de Trump asegura que Putin acepta que Europa se sume a las negociaciones de paz sobre Ucrania",
-            "link": "https://elpais.com/internacional/2026-11-13/el-enviado-de-trump-asegura-que-putin-acepta-que-europa-se-sume-a-las-negociaciones-de-paz-sobre-ucrania.html",
-            "resumen": "Los líderes de la UE debaten cómo estar representados en unas hipotéticas conversaciones, mientras Moscú pone condiciones",
+            "titulo": "Caos en los aeropuertos de EE UU por la suspensión de vuelos: “Nadie va a ir a ninguna parte”",
+            "link": "https://elpais.com/us/2026-11-14/caos-en-los-aeropuertos-de-ee-uu-por-la-suspension-de-vuelos-nadie-va-a-ir-a-ninguna-parte.html",
+            "resumen": "Miles de pasajeros en todo el país se quedaron varados en espera de información oficial sobre la reprogramación de sus vuelos",
             "fuente": "El País"
           }
         ]
@@ -43,9 +43,9 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Alemania y Francia ultiman un pacto sobre el BCE con Hernández de Cos como favorito para la presidencia",
-            "link": "https://elpais.com/economia/2026-11-13/alemania-y-francia-ultiman-un-pacto-sobre-el-bce-con-hernandez-de-cos-como-favorito-para-la-presidencia.html",
-            "resumen": "Merz: “Necesitamos aún unos días. Queremos presentar la propuesta alemana la semana que viene”",
+            "titulo": "La pobreza se enquista pese al crecimiento económico: “No puedo ni sentarme con mis amigos a tomar una Coca-Cola”",
+            "link": "https://elpais.com/economia/2026-11-14/la-pobreza-se-enquista-pese-al-crecimiento-economico-no-puedo-ni-sentarme-con-mis-amigos-a-tomar-una-coca-cola.html",
+            "resumen": "España ocupa ya el quinto puesto entre los países de la UE con mayor privación material y social severa, solo por detrás de Rumania, Bulgaria, Grecia y Hungría",
             "fuente": "El País"
           },
           {
@@ -55,9 +55,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "Los que no hicieron huelga el 11-N pero llenaron las calles: “No podía perder un día de sueldo”",
-            "link": "https://elpais.com/economia/2026-11-13/los-que-no-hicieron-huelga-el-11-n-pero-llenaron-las-calles-no-podia-perder-un-dia-de-sueldo.html",
-            "resumen": "Varios manifestantes, muy enfadados por la crisis de acceso a la vivienda, explican que no secundaron el paro laboral por el castigo económico, pese a que querrían haber participado",
+            "titulo": "La UE apura las últimas horas del pacto pesquero con Mauritania sin acuerdo para renovarlo",
+            "link": "https://elpais.com/economia/2026-11-14/la-ue-apura-las-ultimas-horas-del-pacto-pesquero-con-mauritania-sin-acuerdo-para-renovarlo.html",
+            "resumen": "Una treintena de barcos españoles comienzan a abandonar el caladero del país africano en vísperas del fin del convenio que vence la medianoche de este sábado",
             "fuente": "El País"
           },
           {
@@ -67,9 +67,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "Los salarios de la banca multiplican hasta por cuatro los del sector servicios, la hostelería y el comercio",
-            "link": "https://elpais.com/economia/2026-11-13/los-salarios-de-la-banca-multiplican-hasta-por-cuatro-los-del-sector-servicios-la-hosteleria-y-el-comercio.html",
-            "resumen": "La remuneración media del sector financiero alcanza los 53.251 euros anuales, frente a los 14.867 de los servicios personales y de ocio, según la estadística tributaria",
+            "titulo": "El Capitolio exige respuestas a Huang y a la Administración Trump por el escándalo del espionaje chino vinculado a Nvidia",
+            "link": "https://elpais.com/economia/2026-11-13/el-congreso-inicia-el-escrutinio-por-el-caso-del-espionaje-en-nvidia-y-el-escandalo-de-las-infidelidades-de-jensen-huang.html",
+            "resumen": "La indulgencia de Howard Lutnick, secretario de Comercio, con Megaspeed, la empresa que dirigía la supuesta espía, dispara la tensión en la Casa Blanca",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Lamine ya está con la selección",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250500/lamine-incorpora-hoy-seleccion.html",
-            "resumen": "Lamine Yamal (19) se ha incorporado este mediodía a la concentración de la selección española para preparar el partido de la Nations League del próximo domingo (20.45 h./La 1) contra Inglaterra en el Metropolitano de Madrid. También lo…",
+            "titulo": "3-2: Raphinha, expulsado en la derrota de Brasil contra Japón",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004250923/raphinha-expulsado-amistoso-japon.html",
+            "resumen": "Carlo Ancelotti alineó de titular y durante 71 minutos a Raphinha , en el primero de los amistosos de Brasil en Singapur ante Japón . El brasileño del Barça fue el capitán y tuvo alguna ocasión para marcar, aunque la ‘canarinha’ acabó…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Ancelotti responde a Real Madrid y Barça",
-            "link": "https://www.mundodeportivo.com/futbol/internacional/20261113/1004250595/ancelotti-responde-real-madrid-barca.html",
-            "resumen": "Carlo Ancelotti , técnico de la selección brasileña de fútbol, aseguró este viernes que \"los clubes pueden estar tranquilos\" porque su \"prioridad es la salud\" de los jugadores. El italiano respondió de esta forma a los temores expresados…",
+            "titulo": "Raphinha: \"Pido disculpas por mi expulsión pero este arbitraje no es aceptable\"",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004250933/raphinha-pido-disculpas-mi-expulsion-arbitraje-no-acepatble.html",
+            "resumen": "Raphinha Dias no está viviendo días amables con la selección de Brasil en esta ventana FIFA. A la polémica suscitada por las acusaciones de falta de compromiso con la 'verdemarela', que casi provocaron una comparecencia pública al borde…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,16 +147,16 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "November 13, 2026",
-    "generada": "17:24",
+    "fecha": "November 14, 2026",
+    "generada": "16:11",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Why is Microsoft's outage lasting so long and will emails be lost?",
-            "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+            "titulo": "What we know about the ground stop and what to do if you're affected",
+            "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+            "resumen": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
             "fuente": "BBC"
           },
           {
@@ -166,15 +166,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
-            "link": "https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html",
-            "resumen": "The new epicenter of Congo’s fast-spreading outbreak is a region scarred by rebel violence. Responders are struggling to help it.",
+            "titulo": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
+            "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
+            "resumen": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those planned this weekend in France.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Watch: How a server outage took down Microsoft Teams and Outlook",
-            "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-            "resumen": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+            "titulo": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+            "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
             "fuente": "BBC"
           },
           {
@@ -189,34 +189,34 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Microsoft outage live: disruption continues to affect millions as company says service is improving",
-            "link": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
-            "resumen": "Microsoft reports it is ‘continuing to see improvements in service availability’, after millions of customers around the world suffered disruption Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "With Huang Out, Asian Americans Lose a Star, and Fear What Comes Next",
-            "link": "https://www.nytimes.com/2026/11/13/us/jensen-huang-nvidia-asian-americans.html",
-            "resumen": "Many East Asians said that he had swagger and seemed like a superhero. Now there are worries that the spy scandal turns into hyper scrutiny against them.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "How a sex scandal at Nvidia is putting pressure on the White House",
-            "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+            "titulo": "Microsoft says services fully restored after day-long global outage",
+            "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
             "fuente": "BBC"
           },
           {
-            "titulo": "A timeline of the affair scandal that sank Nvidia’s Jensen Huang",
-            "link": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline",
-            "resumen": "CEO behind the meteoric rise of Nvidia stepped down after it was revealed he had an affair with an alleged Chinese spy Jensen Huang has stepped down as CEO of Nvidia , the company at the center of the AI boom, after leading it for more…",
+            "titulo": "‘It’s frustrating’: chaos at US airports as stoppage grinds travel plans to a halt",
+            "link": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
+            "resumen": "Travelers and crew feeling ‘pissed’ or ‘lucky’ depending on level of upset amid nationwide ground stop The decision to ground all flights on Friday by the US Federal Aviation Administration (FAA) threw airports and travel plans into chaos…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Jensen Huang Lost His Job. Wall Street Lost Its Biggest Prize.",
-            "link": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
-            "resumen": "The ousted Nvidia chief executive was the consummate dealmaker leading the trillion-dollar A.I. build out.",
+            "titulo": "Geopolitics Looms Over Eurovision, but Not Its Asian Edition",
+            "link": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html",
+            "resumen": "So far, the contest’s organizers have kept politics offstage. The European edition shows how difficult that can be.",
             "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Why is Microsoft's outage lasting so long and will emails be lost?",
+            "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Microsoft outage shakes up companies, schools and local governments across US",
+            "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
+            "resumen": "Local officials warn some services remain unavailable even as Outlook starts to resume normal operations after outage Microsoft outage – live updates The Microsoft Outlook outage has shaken up companies and local governments across the US…",
+            "fuente": "The Guardian"
           }
         ]
       },
@@ -224,34 +224,34 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Summer heatwave put bin crews lives at risk, says council worker",
-            "link": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Crews faced a \"perfect storm\" of challenges during the UK's record-breaking weather, it's claimed.",
+            "titulo": "Second catch attempt for SpaceX Starship rocket",
+            "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
             "fuente": "BBC"
           },
           {
-            "titulo": "What science can tell us about the art of conversation - video",
-            "link": "https://www.theguardian.com/science/video/2026/nov/13/what-science-can-tell-us-about-the-art-of-conversation-video",
-            "resumen": "Scientists at Dartmouth College in New Hampshire say they have discovered a telltale sign of an enjoyable conversation. Apparently the secret of a mutually satisfying chat is a healthy dose of pink noise. Guardian science editor Ian…",
+            "titulo": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
+            "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+            "resumen": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems The Austrian logician Kurt Gödel was one of the most original thinkers of the 20th…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "SpaceX Aims for Starship Launch on Friday. Here’s What to Know.",
-            "link": "https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html",
-            "resumen": "The audacious maneuver planned for Friday is a key step toward the company’s goal of making rockets fully reusable.",
+            "titulo": "How to spot November's planetary parade in the pre-dawn sky",
+            "link": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "SpaceX Starship megarocket blasts off before expected return for reuse",
+            "link": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
+            "resumen": "Flight 15 expected to orbit Earth about 14 times over 22 hours, before company catches it at Starbase, Texas SpaceX’s Starship megarocket blasted off from Texas on Friday afternoon as the aerospace company sought to make history with a…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "These Male Dolphins Do Something Rare: Day Care",
+            "link": "https://www.nytimes.com/2026/11/13/science/babysitting-daycare-franciscana-dolphins-toninha-laplata.html",
+            "resumen": "Male Franciscana dolphins are exceptional babysitters. Scientists are trying to figure out if they are thoughtful fathers or just hope to be.",
             "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "How many sewage spills have happened in your part of Scotland?",
-            "link": "https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss",
-            "resumen": "More than 76,000 sewage spills were recorded at overflow sites previously unmonitored by Scottish Water, BBC Scotland News analysis has found.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "The sinister power of Friday 13th: how this maligned date affects our lives",
-            "link": "https://www.theguardian.com/science/2026/nov/13/the-sinister-power-of-friday-13th-how-this-maligned-date-affects-our-lives",
-            "resumen": "Property sales that complete on this day have a lower median price. Air fares are cheaper. Weddings are non-existent. And motor collisions increase. How did it become so mired in superstition? “I have only worked one Friday 13th wedding…",
-            "fuente": "The Guardian"
           }
         ]
       },
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
-            "resumen": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job.",
+            "titulo": "Tuchel to remind England of anti-racism protocols before Spain game",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Manager Thomas Tuchel will remind England's players of Uefa's anti-racism protocols before Sunday's Nations League fixture against Spain in Madrid.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Tearful Pochettino says United job was ‘difficult to turn down’ in USMNT farewell",
-            "link": "https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-usmnt-manchester-united",
-            "resumen": "Coach was ‘transparent’ in dealings with club, federation Pochettino had signed deal to stay with US through 2030 There were always going to be tears at Mauricio Pochettino’s news conference at US Soccer’s national training center on…",
+            "titulo": "Mauricio Pochettino asked the US to believe in his project. Did he believe in it himself?",
+            "link": "https://www.theguardian.com/football/2026/nov/14/mauricio-pochettino-usmnt-legacy-belief",
+            "resumen": "The coach’s tenure with the USMNT brought a whiplash of highs and lows. He met some goals but also left many with the impression he never truly bought in It did not take US men’s national team coach Mauricio Pochettino very long to take…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
-            "resumen": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't.",
+            "titulo": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss",
+            "resumen": "What can Manchester United fans expect from their new manager Mauricio Pochettino? BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs.",
             "fuente": "BBC"
           },
           {
-            "titulo": "NFL quarterbacks are under more pressure than ever from rushers. Why?",
-            "link": "https://www.theguardian.com/sport/2026/nov/13/nfl-quarterbacks-are-under-more-pressure-than-ever-from-rushers-why",
-            "resumen": "Despite all the advantages offenses have secured over the years, defenses are better at pressuring the QB than any other time in recent history The Baltimore Ravens are preparing to start their fourth quarterback this year, Jacoby…",
+            "titulo": "FAA ground stop sends NBA, NHL and college teams scrambling ahead of weekend",
+            "link": "https://www.theguardian.com/sport/2026/nov/14/faa-ground-stop-nba-nhl-college-football-travel-disruption",
+            "resumen": "Nationwide flight shutdown disrupts team travel in US Mississippi v Oklahoma football game moved to Sunday Cavaliers face tight turnaround after Miami travel delay The Federal Aviation Administration’s decision to ground all flights…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Surfing speedster Beardman gives a glimpse of Ashes future",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Mahli Beardman gives England a glimpse into a possible Ashes future as he decimates their batting in Perth.",
+            "titulo": "Warner accuses Cricket Australia of 'cover-up'",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Former vice-captain David Warner accuses Cricket Australia of a \"cover-up\", claiming Australia's bowlers were not interviewed in ball-tampering investigation.",
             "fuente": "BBC"
           }
         ]

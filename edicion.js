@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "13 de noviembre de 2026",
-  "generada": "17:24",
+  "fecha": "14 de noviembre de 2026",
+  "generada": "16:11",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Causa Andis: el peritaje de la Gendarmería detectó \"posibles ediciones\" pero no logró determinar si la voz de los audios era la de Spagnuolo",
-          "link": "https://www.clarin.com/politica/causa-andis-peritaje-gendarmeria-detecto-posibles-ediciones-logro-determinar-voz-audios-spagnuolo_0_uaku3rvMDb.html",
-          "resumen": "El informe se entregó este jueves al juez Ariel Lijo. Choca con otro peritaje que hizo el Ministerio Fiscal que corroboró que los audios eran verdaderos.",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente participa de la apertura de una muestra sobre Belgrano en la Casa Rosada",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-participa-apertura-muestra-belgrano-casa-rosada_0_gYDibfnmlZ.html",
+          "resumen": "Es en el marco de La Noche de los Museos que celebra este sábado en la Ciudad. Estará junto a su hermana y secretaria general de la Presidencia, Karina Milei.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: “Lo único que le faltaba al país eran reglas claras”, dijo el Presidente ante empresas",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-lo-unico-que-le-faltaba-al-pais-eran-reglas-claras-dijo-el-nid13112026/",
-          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "titulo": "Nahuel Gallo: “A veces siento que se sacaron la foto y se olvidaron de mí”",
+          "link": "https://www.lanacion.com.ar/politica/nahuel-gallo-a-veces-siento-que-se-sacaron-la-foto-y-se-olvidaron-de-mi-nid14112026/",
+          "resumen": "El gendarme que sobrevivió 448 días en las cárceles chavistas aguarda el reconocimiento del Gobiernos y la administración porteña; corre maratones y milita por “la libertad de los presos políticos”",
           "fuente": "La Nación"
         },
         {
-          "titulo": "“Hay que acelerar”: el Gobierno presiona a los gobernadores para suspender las PASO y define el calendario electoral",
-          "link": "https://www.infobae.com/politica/2026/11/13/hay-que-acelerar-el-gobierno-presiona-a-los-gobernadores-para-suspender-las-paso-y-define-el-calendario-electoral/",
-          "resumen": "El receso legislativo se acerca y el oficialismo intensifica las charlas con los mandatarios provinciales para avanzar en la reforma política y el Presupuesto. El próximo viaje clave de dos operadores en el que estarán cinco gobernadores…",
+          "titulo": "Elisa Carrió volvió a cuestionar al Gobierno y habló de la interna entre Milei y Bullrich: “Ella busca el poder”",
+          "link": "https://www.infobae.com/politica/2026/11/14/elisa-carrio-volvio-a-cuestionar-al-gobierno-y-hablo-de-la-interna-entre-milei-y-bullrich-ella-busca-el-poder/",
+          "resumen": "La líder de la Coalición Cívica elogió aspectos personales de la senadora y recordó su vínculo político. Además, cuestionó la violencia verbal del Presidente",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: más repercusiones por el dato de inflación y últimas noticias este 13 de noviembre",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-repercusiones-dato-inflacion-ultimas-noticias-13-noviembre_0_S1uPKrX1Y7.html",
-          "resumen": "El 2,2% de suba de precios en octubre disparó críticas desde la oposición, y el Presidente salió a cruzarlas. Cómo sigue la agenda del mandatario en lo que resta de la semana.",
+          "titulo": "Una nueva encuesta preguntó por las elecciones 2027 y apareció una grieta exacta: 46% a 46%",
+          "link": "https://www.clarin.com/politica/nueva-encuesta-pregunto-elecciones-2027-aparecio-grieta-exacta-46-46_0_lFp9lV9HTG.html",
+          "resumen": "Es el último estudio nacional de la consultora QSocial. Midió distintos parámetros para las presidenciales y la polarización sigue latente. A qué espacios prefiere la gente y a cuáles no.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La CGT y los movimientos sociales pronostican un aumento de la conflictividad social",
-          "link": "https://www.lanacion.com.ar/politica/la-cgt-y-los-movimientos-sociales-pronostican-un-aumento-de-la-conflictividad-social-nid13112026/",
-          "resumen": "El sindicalista Cristian Jerónimo y el dirigente social Alejandro Gramajo plantearon que aumentarán las protestas callejeras por las “demandas insatisfechas de la gente”",
+          "titulo": "Hugo Moyano denunció en la Justicia un fraude millonario en Camioneros, pero ahora busca cerrar la causa",
+          "link": "https://www.lanacion.com.ar/politica/hugo-moyano-denuncio-en-la-justicia-un-fraude-millonario-en-camioneros-pero-ahora-busca-cerrar-la-nid14112026/",
+          "resumen": "El sindicato no presentó toda la documentación contable para respaldar un supuesto desvío de fondos en la administración de un hotel en Mar del Plata; la pericia contable no detectó un perjuicio económico; presiones en la ARCA",
           "fuente": "La Nación"
         }
       ]
@@ -42,34 +42,34 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "La aerolínea Plus Ultra se achica: tras las suspensiones de vuelos, tambalea la ruta entre Ezeiza y Madrid",
-          "link": "https://www.clarin.com/economia/aerolinea-plus-ultra-achica-suspensiones-vuelos-tambalea-ruta-ezeiza-madrid_0_bN2qB3ImTi.html",
-          "resumen": "La compañía española que llegó en mayo de 2025 al país suspendió la venta de pasajes a Buenos Aires y Lima. Prepara una reestructuración con recorte de flota y destinos, y presentó un recurso de preconcurso. También prevé más de 670…",
+          "titulo": "Euro hoy en Venezuela: precio y cotización de la divisa este sábado 14 de noviembre de 2026",
+          "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-sabado-14-de-noviembre-de-2026_0_bFrreAE9BZ.html",
+          "resumen": "Mirá la cotización del euro en Venezuela, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Outlook sigue caído desde el jueves en todo el mundo, pero Microsoft dice que el servicio se está recuperando",
-          "link": "https://www.lanacion.com.ar/tecnologia/reportan-fallas-en-el-servicio-microsoft-365-a-nivel-mundial-nid12112026/",
-          "resumen": "Durante la tarde del jueves, usuarios de todo el mundo informaron de problemas de acceso a la plataforma online Microsoft 365; un día después, la compañía sigue trabajando en una solución",
+          "titulo": "Retenciones: el fallo de la Corte que reabre una discusión pendiente entre el campo y el Estado",
+          "link": "https://www.lanacion.com.ar/economia/campo/retenciones-el-fallo-de-la-corte-que-reabre-una-discusion-pendiente-entre-el-campo-y-el-estado-nid14112026/",
+          "resumen": "El reciente desenlace del conflicto entre Louis Dreyfus Company (LDC) y la Aduana plantea un interrogante: ¿quién puede fijar las retenciones y bajo qué límites?",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Motosierra: el Gobierno retira el subsidio fijo del 30% a los colectivos a gas y del 50% a los eléctricos",
-          "link": "https://www.ambito.com/economia/motosierra-el-gobierno-retira-el-subsidio-fijo-del-30-los-colectivos-gas-y-del-50-los-electricos-n6344954",
-          "resumen": "El impacto fiscal de la medida es casi nulo, pero se inscribe en una reformulación general de las tarifas de referencia y los costos por kilómetro llevado a cabo por la Secretaría de Transporte para todas las líneas del AMBA que dependen…",
+          "titulo": "El resultado fiscal de octubre definirá si el Gobierno logra cumplir la meta de superávit acordada con el FMI",
+          "link": "https://www.ambito.com/economia/el-resultado-fiscal-octubre-definira-si-el-gobierno-logra-cumplir-la-meta-superavit-acordada-el-fmi-n6345009",
+          "resumen": "Este lunes se conocerá el dato oficial. Privados anticipan un fuerte ajuste del gasto en octubre. Diciembre amenaza la meta fiscal, salvo que llegue una \"ayuda\" del FMI.",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "\"Medalla de plata\": incrementan la estimación de producción trigo y la \"súper campaña\" va tomando forma",
-          "link": "https://www.clarin.com/rural/medalla-plata-incrementan-estimacion-produccion-trigo-super-campana-va-tomando-forma_0_8dcUc6Gcx1.html",
-          "resumen": "La Bolsa de Comercio de Rosario (BCR) incrementó la previsión de cosecha en 500.000 toneladas respecto al mes pasado, por lo que se espera un volumen de 24,3 millones de toneladas.",
-          "fuente": "Clarín"
+          "titulo": "Con el apoyo de Elon Musk, una petición con casi 90.000 firmas exige que Jensen Huang vuelva a ser el CEO de Nvidia",
+          "link": "https://www.lanacion.com.ar/economia/con-el-apoyo-de-elon-musk-una-peticion-con-casi-90000-firmas-exige-que-jensen-huang-vuelva-a-ser-el-nid14112026/",
+          "resumen": "Accionistas y trabajadores reclaman a la junta directiva una “explicación pública oportuna” por la dimisión del fundador de la empresa fabricante de chips",
+          "fuente": "La Nación"
         },
         {
-          "titulo": "HappyRobot, el unicornio con presencia en 5 países que desarrolla agentes de IA, desembarca en la Argentina",
-          "link": "https://www.lanacion.com.ar/tecnologia/happyrobot-el-unicornio-con-presencia-en-5-paises-que-desarrolla-agentes-de-ia-desembarca-en-la-nid13112026/",
-          "resumen": "Luego de alcanzar una valuación de US$1200 millones, la empresa anunció su llegada a nuestro país",
-          "fuente": "La Nación"
+          "titulo": "La demanda de pesos que sigue el BCRA cayó en octubre, pero hubo señales positivas: ¿arranca la remonetización?",
+          "link": "https://www.ambito.com/economia/la-demanda-pesos-que-sigue-el-bcra-cayo-octubre-pero-hubo-senales-positivas-arranca-la-remonetizacion-n6345059",
+          "resumen": "Mientras el circulante y los plazos fijos crecieron, los depósitos a la vista arrojaron una importante contracción. Asimismo, el crédito en pesos tuvo una leve mejora, pero no así en los préstamos para el consumo.",
+          "fuente": "Ámbito"
         }
       ]
     },
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "La oferta de petróleo vuelve a superar al consumo por primera vez desde el inicio de la guerra",
-          "link": "https://www.clarin.com/energia-y-mineria/oferta-petroleo-vuelve-superar-consumo-primera-vez-inicio-guerra_0_uZp39za5yi.html",
-          "resumen": "La AIE atribuye la recuperación al repunte de las exportaciones del Golfo y prevé un excedente mayor en 2027. Sin embargo, el gasoil sigue bajo presión y en Europa cuesta un 77% más que antes del conflicto.",
+          "titulo": "Miles de vuelos cancelados y demorados tras el cierre de aeropuertos de Estados Unidos durante cuatro horas: advierten que podrían tardar días en normalizarse",
+          "link": "https://www.clarin.com/mundo/miles-vuelos-cancelados-demorados-cierre-aeropuertos-estados-unidos-horas-advierten-podrian-tardar-dias-normalizarse_0_27pPsDKEu2.html",
+          "resumen": "Las autoridades apuntaron que es probable que el sistema vuelva a operar con normalidad a tiempo para el pico de desplazamientos por Acción de Gracias, que es el 26 de noviembre. El gobierno de Trump culpó al Congreso por no haber…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Papa León XIV en Perú, EN VIVO: misa en las Pampas de Pimentel y un encuentro en el Santuario de Nuestra Señora de la Paz",
-          "link": "https://www.lanacion.com.ar/el-mundo/papa-leon-xiv-en-peru-en-vivo-misa-en-las-pampas-de-pimentel-y-un-encuentro-en-el-santuario-de-nid13112026/",
-          "resumen": "El Sumo Pontífice continúa su viaje por territorio peruano con actividades en Chiclayo y una cena con sacerdotes diocesanos en el Colegio Santo Toribio de Mogrovejo",
+          "titulo": "Papa León XIV en Perú, EN VIVO: la misa en Santa Cruz de Succhabamba hoy, minuto a minuto",
+          "link": "https://www.lanacion.com.ar/el-mundo/papa-leon-xiv-en-peru-en-vivo-la-misa-en-santa-cruz-de-succhabamba-hoy-minuto-a-minuto-nid14112026/",
+          "resumen": "El Pontífice continúa su visita en territorio peruano; encabezará la coronación de la Virgen Inmaculada en Chiclayo y participará de un encuentro de oración por la clausura del Año Jubilar en el Santuario de Santo Toribio de Mogrovejo",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Cómo el legado de la tortura ha obstaculizado la búsqueda de justicia para las víctimas del 11-S",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/legado-tortura-obstaculizado-busqueda-justicia-victimas-11-s_0_t59XTyVZn4.html",
-          "resumen": "Desde las confesiones obtenidas bajo coacción hasta la creación de un sistema judicial alternativo, años de decisiones del Gobierno de EE.UU. arruinaron las perspectivas de un juicio rápido.",
+          "titulo": "Papa León XIV en Perú, EN VIVO: recorrida, agenda y últimas noticias del Santo Padre en su visita al país andino",
+          "link": "https://www.clarin.com/mundo/papa-leon-xiv-peru-vivo-recorrida-agenda-ultimas-noticias-santo-padre-visita-pais-andino_0_aRT2pyCMEm.html",
+          "resumen": "León XIV durmió en Chiclayo en el mismo lugar que lo hacía como obispo. Este sábado viajará a Santa Cruz de Succhabamba, en la región de Cajamarca, para dar una misa.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El Papa ya está en Sudamérica: la intimidad del viaje de León XIV",
-          "link": "https://www.lanacion.com.ar/el-mundo/el-papa-ya-esta-en-vuelo-la-intimidad-del-vuelo-del-papa-a-sudamerica-nid06112026/",
-          "resumen": "",
+          "titulo": "Así se veía el espacio aéreo de Estados Unidos en medio de la suspensión de todos los vuelos",
+          "link": "https://www.lanacion.com.ar/el-mundo/asi-se-veia-el-espacio-aereo-de-estados-unidos-en-medio-de-la-suspension-de-todos-los-vuelos-nid14112026/",
+          "resumen": "El sitio web de seguimiento de vuelos Flight Radar 24 mostró en un video cómo el país tenía cada vez menos aviones en el aire",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Se acerca un fenómeno de El Niño extremo. ¿Qué debemos hacer?",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/acerca-fenomeno-nino-extremo-debemos-hacer_0_VV2W29edxM.html",
-          "resumen": "Esta pregunta se plantea en todo el mundo en desarrollo, donde el riesgo de hambruna es elevado debido a las condiciones meteorológicas extremas que se prevé que traiga consigo El Niño. Malawi tiene un gran plan, pero dispone de pocos…",
+          "titulo": "Versiones cruzadas del Gobierno de EE.UU. para justificar la suspensión de cuatro horas de los aeropuertos de todo el país",
+          "link": "https://www.clarin.com/mundo/versiones-cruzadas-gobierno-eeuu-justificar-suspension-horas-aeropuertos-pais_0_qErkjY8BWA.html",
+          "resumen": "Markwayne Mullin, secretario de Seguridad Nacional explicó que estaban instalando “nuevo equipo, nueva tecnología” y que “ello estaba abrumando el sistema más antiguo”. Pero, el secretario de Transporte, Sean Duffy, culpó al Congreso por…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Confirmado: River jugará un amistoso contra el Inter Miami de Messi y preparan una \"celebración del fútbol\" en el Monumental",
-          "link": "https://www.clarin.com/deportes/confirmado-river-jugara-amistoso-inter-miami-messi-preparan-celebracion-futbol-monumental_0_5UkxCRcXFj.html",
-          "resumen": "El anuncio se hizo oficial en la mañana del viernes a través de un comunicado: se jugará el 19 de enero. Será el quinto duelo del 10 ante equipos argentinos, dos de ellos oficiales, pero el primero en el país.",
+          "titulo": "Brasil perdió con Japón en un final caliente: Ancelotti y Raphinha vieron la roja por protestarle al árbitro",
+          "link": "https://www.clarin.com/deportes/brasil-perdio-japon-final-caliente-ancelotti-raphinha-vieron-roja-protestarle-arbitro_0_dAC7KCcoDt.html",
+          "resumen": "El conjunto sudamericano cayó 3 a 2 en Singapur frente al seleccionado asiático, pese a dos tantos convertidos por Vinícius Júnior. El encuentro amistoso finalizó con fuertes protestas que derivaron en las expulsiones del entrenador…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Thiago Tirante venció al chileno Alejandro Tabilo en Estocolmo y llegó a su primera final de ATP",
-          "link": "https://www.lanacion.com.ar/deportes/tenis/thiago-tirante-vencio-al-chileno-alejandro-tabilo-en-estocolmo-y-llego-a-su-primera-final-de-atp-nid13112026/",
-          "resumen": "El platense se impuso en sets corridos y jugará contra el ganador del partido entre el estadounidense Taylor Fritz y el italiano Lorenzo Musetti",
+          "titulo": "Los Pumas vencieron a Italia, pero volvieron a ser un equipo ordinario",
+          "link": "https://www.lanacion.com.ar/deportes/rugby/los-pumas-vencieron-a-italia-pero-volvieron-a-ser-un-equipo-ordinario-nid14112026/",
+          "resumen": "Más por errores del rival que por mérito propio, se impusieron por 19-14 en Génova, en un encuentro deslucido; la selección, que vistió una camiseta especial, visitará el próximo sábado a Francia",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El héroe de Madrid que vuelve al Monumental para jugar más que un amistoso ante River",
-          "link": "https://www.ole.com.ar/river-plate/river-plate-ignacio-fernandez-monumental-amistoso_0_QogJPW3uqi.html",
-          "resumen": "A prácticamente un año de su adiós en Núñez, el reencuentro será especial mientras disfruta de un gran presente en Gimnasia.",
+          "titulo": "Inesperado cruce: la esposa de Cesc Fabregas frenó en seco a Amalia Granata por burlarse de los \"nuevos religiosos\"",
+          "link": "https://www.ole.com.ar/fuera-de-juego/cesc-fabregas-papa-leon-daniella-semaan-amalia-granata_0_vZ7fOpM14H.html",
+          "resumen": "Daniella Semaan respondió una publicación que hizo un medio de espectáculos que citaba declaraciones que hizo la diputada tras la visita del Papa León XIV a la Argentina. ¿Qué le contestó?",
           "fuente": "Olé"
         },
         {
-          "titulo": "Magnus Norman y Juan Carlos Ferrero: el detrás de escena de las dos apuestas que prometen cambiar el mapa del tenis en 2027",
-          "link": "https://www.clarin.com/deportes/magnus-norman-juan-carlos-ferrero-detras-escena-apuestas-prometen-cambiar-mapa-tenis-2027_0_BOQkKiUBie.html",
-          "resumen": "Jannik Sinner eligió al entrenador que llevó a Stan Wawrinka a conquistar tres Grand Slams. Ben Shelton sumó al español que convirtió a Carlos Alcaraz en número uno del mundo. Dos movimientos de alto impacto en el circuito ATP para…",
+          "titulo": "Banfield vs Boca, por la semifinal de la Copa Argentina EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
+          "link": "https://www.clarin.com/deportes/banfield-vs-boca-semifinal-copa-argentina-vivo-hora-juegan-formaciones-ver-partido_0_y1h09BEaFR.html",
+          "resumen": "Juegan en el Malvinas Argentina de Mendoza desde las 19. El ganador accederá a la final, donde ya espera Platense. Por TyC Sports.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Vélez elige al presidente con cuatro proyectos para conducir un club con claras raíces",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/velez-elige-al-presidente-con-cuatro-proyectos-para-conducir-un-club-con-claras-raices-nid13112026/",
-          "resumen": "Este domingo, de 8 a 18, en el Polidertivo, el club de Liniers elegirá al sucesor de Fabián Berlanga; las propuestas de cada uno de los candidatos",
+          "titulo": "Thiago Tirante cayó ante Taylor Fritz y no pudo lograr el título en Estocolmo",
+          "link": "https://www.lanacion.com.ar/deportes/tenis/thiago-tirante-cayo-ante-taylor-fritz-y-no-pudo-lograr-el-titulo-en-estocolmo-nid14112026/",
+          "resumen": "El tenista platense jugó una gran final, pero el estadounidense, 10° del mundo, hizo pesar su mayor jeraquía y lo venció en el tie-break del tercer set en el ATP 250 de la capital sueca",
           "fuente": "La Nación"
         }
       ]
