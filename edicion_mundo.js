@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "14 de noviembre de 2026",
-    "generada": "16:11",
+    "fecha": "15 de noviembre de 2026",
+    "generada": "16:40",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Qué se sabe sobre la suspensión de vuelos en EE.UU. más grande desde el 11S",
-            "link": "https://www.bbc.com/mundo/articles/c5n4e274kdlro?at_medium=RSS&at_campaign=rss",
-            "resumen": "Funcionarios estadounidenses señalan que la interrupción fue causada por la sobrecarga de equipos antiguos, y no por un ciberataque.",
+            "titulo": "\"Quizás veamos el 25 de octubre de este año como el comienzo del fin de la recesión democrática mundial\"",
+            "link": "https://www.bbc.com/mundo/articles/cmy493l9xx1zo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Larry Diamond, un reconocido experto internacional, dice en una entrevista que varios hechos recientes podrían indicar un cambio de patrón a favor de la democracia en el mundo.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Estados Unidos reanuda el tráfico aéreo después de un parón de más de cuatro horas y 6.000 vuelos cancelados",
-            "link": "https://elpais.com/us/2026-11-14/estados-unidos-reanuda-el-trafico-aereo-despues-de-un-paron-de-mas-de-cuatro-horas-y-6000-vuelos-cancelados.html",
-            "resumen": "Problemas en el sistema informático que gestiona las comunicaciones provocaron la suspensión. Hay cientos de miles de personas afectadas por las cancelaciones y retrasos de sus viajes",
+            "titulo": "Estonia se prepara para cerrar en diciembre su frontera con Rusia tras un presunto intento de sabotaje",
+            "link": "https://elpais.com/internacional/2026-11-15/estonia-se-prepara-para-cerrar-en-diciembre-su-frontera-con-rusia-tras-un-presunto-intento-de-sabotaje.html",
+            "resumen": "La Fiscalía del país báltico anuncia la detención de ocho personas en relación con una supuesta acción contra una fábrica de material militar",
             "fuente": "El País"
           },
           {
-            "titulo": "Zelenski denuncia presiones de EE. UU. para ceder el Donbass a cambio de entrar en la OTAN",
-            "link": "https://www.france24.com/es/europa/20261114-zelenski-denuncia-presiones-de-ee-uu-para-ceder-el-donbass-a-cambio-de-entrar-en-la-otan",
-            "resumen": "El presidente ucraniano, Volodímir Zelenski, aseguró que los negociadores estadounidenses propusieron explorar una retirada de las fuerzas de Kiev del Donbass a cambio de la adhesión del país a la OTAN, una posibilidad que calificó de…",
+            "titulo": "En vivo: el papa es recibido en Cusco para encuentro con miles de fieles en su penúltimo día de gira por Perú",
+            "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261115-en-directo-el-papa-visita-cusco-y-la-amazon%C3%ADa-este-domingo-en-su-pen%C3%BAltimo-d%C3%ADa-en-per%C3%BA",
+            "resumen": "",
             "fuente": "France 24"
           },
           {
-            "titulo": "Autorizan de nuevo el despegue de aviones en EE.UU. tras la falla que obligó a suspender durante horas miles de vuelos en todo el país",
-            "link": "https://www.bbc.com/mundo/articles/crgqx8jpw3jvo?at_medium=RSS&at_campaign=rss",
-            "resumen": "La FAA había ordenado este viernes suspender todos los despegues de vuelos en Estados Unidos, alegando \"circunstancias extraordinarias\" y motivos de seguridad.",
+            "titulo": "La conmoción en Panamá tras el ataque con explosivos contra la casa de un periodista",
+            "link": "https://www.bbc.com/mundo/articles/cj62pl46r351o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Rolando Rodríguez, el periodista cuya casa fue atacada, estaba investigando un presunto caso de corrupción en el país.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Caos en los aeropuertos de EE UU por la suspensión de vuelos: “Nadie va a ir a ninguna parte”",
-            "link": "https://elpais.com/us/2026-11-14/caos-en-los-aeropuertos-de-ee-uu-por-la-suspension-de-vuelos-nadie-va-a-ir-a-ninguna-parte.html",
-            "resumen": "Miles de pasajeros en todo el país se quedaron varados en espera de información oficial sobre la reprogramación de sus vuelos",
+            "titulo": "El bloqueo aéreo destapa la pesadilla de volar desde los aeropuertos de Estados Unidos",
+            "link": "https://elpais.com/us/2026-11-15/el-bloqueo-aereo-destapa-el-infierno-de-volar-desde-los-aeropuertos-de-estados-unidos.html",
+            "resumen": "Cancelaciones, atrasos frecuentes, accidentes e interminables colas de seguridad evidencian un sistema colapsado",
             "fuente": "El País"
           }
         ]
@@ -43,9 +43,9 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "La pobreza se enquista pese al crecimiento económico: “No puedo ni sentarme con mis amigos a tomar una Coca-Cola”",
-            "link": "https://elpais.com/economia/2026-11-14/la-pobreza-se-enquista-pese-al-crecimiento-economico-no-puedo-ni-sentarme-con-mis-amigos-a-tomar-una-coca-cola.html",
-            "resumen": "España ocupa ya el quinto puesto entre los países de la UE con mayor privación material y social severa, solo por detrás de Rumania, Bulgaria, Grecia y Hungría",
+            "titulo": "“Os deseo sufrimiento”: gloria y caída de Jensen Huang, rey de Nvidia, verso salvaje de la IA",
+            "link": "https://elpais.com/economia/2026-11-15/os-deseo-sufrimiento-gloria-y-caida-de-jensen-huang-rey-de-nvidia-verso-salvaje-de-la-ia.html",
+            "resumen": "La caída del gurú, en un caso de supuesto espionaje y adulterio, expone los riesgos de la concentración de poder en Estados Unidos",
             "fuente": "El País"
           },
           {
@@ -55,9 +55,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "La UE apura las últimas horas del pacto pesquero con Mauritania sin acuerdo para renovarlo",
-            "link": "https://elpais.com/economia/2026-11-14/la-ue-apura-las-ultimas-horas-del-pacto-pesquero-con-mauritania-sin-acuerdo-para-renovarlo.html",
-            "resumen": "Una treintena de barcos españoles comienzan a abandonar el caladero del país africano en vísperas del fin del convenio que vence la medianoche de este sábado",
+            "titulo": "Política y finanzas juegan a favor de Hernández de Cos para la presidencia del BCE",
+            "link": "https://elpais.com/economia/2026-11-15/politica-y-finanzas-juegan-a-favor-de-hernandez-de-cos-para-la-presidencia-del-bce.html",
+            "resumen": "El español gana puntos en el tramo final de carrera gracias a un contexto financiero inestable y a un complejo juego de equilibrios entre las capitales",
             "fuente": "El País"
           },
           {
@@ -67,9 +67,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "El Capitolio exige respuestas a Huang y a la Administración Trump por el escándalo del espionaje chino vinculado a Nvidia",
-            "link": "https://elpais.com/economia/2026-11-13/el-congreso-inicia-el-escrutinio-por-el-caso-del-espionaje-en-nvidia-y-el-escandalo-de-las-infidelidades-de-jensen-huang.html",
-            "resumen": "La indulgencia de Howard Lutnick, secretario de Comercio, con Megaspeed, la empresa que dirigía la supuesta espía, dispara la tensión en la Casa Blanca",
+            "titulo": "El drama de las víctimas de fraude que no pueden recuperar su dinero: “El banco me dijo que era culpa mía”",
+            "link": "https://elpais.com/economia/2026-11-15/el-drama-de-las-victimas-de-fraude-que-no-pueden-recuperar-su-dinero-el-banco-me-dijo-que-era-culpa-mia.html",
+            "resumen": "Las estafas bancarias dejan pérdidas millonarias y clientes que lamentan sentirse desprotegidos por sus entidades",
             "fuente": "El País"
           }
         ]
@@ -77,6 +77,18 @@ const EDICION_MUNDO = {
       {
         "nombre": "Ciencia y Tecnología",
         "notas": [
+          {
+            "titulo": "La odisea de la ‘Voyager 1’: un chat con el cosmos a un día luz de la Tierra",
+            "link": "https://elpais.com/ciencia/2026-11-15/la-odisea-de-la-voyager-1-un-chat-con-el-cosmos-a-un-dia-luz-de-la-tierra.html",
+            "resumen": "La nave humana más lejana alcanzará el miércoles 18 una distancia a la que sus mensajes tardarán 24 horas en llegarnos. Tras 49 años de misión, sigue enviando datos del espacio interestelar",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "TikTok tiene que cambiar: ante el abuso, no vale el silencio",
+            "link": "https://elpais.com/tecnologia/2026-11-15/tiktok-tiene-que-cambiar-ante-el-abuso-no-vale-el-silencio.html",
+            "resumen": "Lo que nos preocupa a todos es que nuestra infancia esté expuesta, por la inacción de la compañía, a miles de pederastas de todo el mundo",
+            "fuente": "El País"
+          },
           {
             "titulo": "Sesenta huesos y un millón de años: hallado en Murcia el esqueleto más antiguo de un lince ibérico",
             "link": "https://elpais.com/ciencia/2026-11-13/hallado-en-murcia-el-esqueleto-mas-antiguo-de-un-lince-iberico.html",
@@ -94,18 +106,6 @@ const EDICION_MUNDO = {
             "link": "https://elpais.com/ciencia/2026-11-12/creado-el-mayor-mapa-del-area-cerebral-clave-en-parkinson-alzheimer-esquizofrenia-y-autismo.html",
             "resumen": "Un consorcio internacional presenta el atlas celular más detallado de los ganglios basales, donde hay claves ocultas de las principales dolencias cerebrales",
             "fuente": "El País"
-          },
-          {
-            "titulo": "TikTok pierde publicidad en España por los contenidos de abuso sexual infantil: El Corte Inglés y el Santander retiran sus anuncios",
-            "link": "https://elpais.com/tecnologia/2026-11-13/tiktok-ya-pierde-publicidad-en-espana-por-los-contenidos-de-abuso-sexual-infantil-santander-y-moeve-retiran-sus-anuncios.html",
-            "resumen": "Las dos grandes compañías, junto con Moeve y Eroski, esperan que la red social les de garantías de que podrá eliminar el material pedófilo que se difunde en la plataforma",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "¿Cuánto se estresan las plantas? Un nuevo microsensor permite medirlo sin alterarlas más",
-            "link": "https://elpais.com/clima-y-medio-ambiente/2026-11-12/cuanto-se-estresan-las-plantas-un-nuevo-microsensor-permite-medirlo-sin-alterarlas-mas.html",
-            "resumen": "El prototipo abre una vía de futuro para ayudar a los agricultores frente a los efectos del cambio climático en las cosechas",
-            "fuente": "El País"
           }
         ]
       },
@@ -113,33 +113,33 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "El Langui cierra una temporada inolvidable con una plata en Sao Paulo",
-            "link": "https://www.marca.com/paralimpicos/2026/11/10/langui-cierra-temporada-inolvidable-primer-podio-copa-mundo.html",
-            "resumen": "El rapero y actor entra en su primera final en una Copa del Mundo. Aún tiene opciones de ganar otra por equipos",
+            "titulo": "Detenido un exentrenador nipón por presunto abuso sexual a nadadoras menores de 10 años",
+            "link": "https://www.marca.com/natacion/2026/11/11/detenido-exentrenador-nipon-presunto-abuso-sexual-nadadoras-menores-10-anos.html",
+            "resumen": "Las denuncias le acusan de tocamientos inapropiados durante las clases de natación en una escuela de la ciudad de&nbsp;Makinohara",
             "fuente": "Marca"
           },
           {
-            "titulo": "3-2: Raphinha, expulsado en la derrota de Brasil contra Japón",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004250923/raphinha-expulsado-amistoso-japon.html",
-            "resumen": "Carlo Ancelotti alineó de titular y durante 71 minutos a Raphinha , en el primero de los amistosos de Brasil en Singapur ante Japón . El brasileño del Barça fue el capitán y tuvo alguna ocasión para marcar, aunque la ‘canarinha’ acabó…",
+            "titulo": "Barça - Obradoiro, en directo",
+            "link": "https://www.mundodeportivo.com/baloncesto/acb/20261115/1004250829/barca-obradoiro-directo-liga-endesa-baloncesto.html",
+            "resumen": "",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "El megacontrato que ofrece Al Nassr a Joao Félix para evitar su vuelta a Europa",
-            "link": "https://www.marca.com/futbol/liga-arabia-saudi/2026/11/10/megacontrato-ofrece-nassr-joao-felix-evitar-vuelta-europa.html",
-            "resumen": "El equipo saudí quiere blindar al portugués mejorándole el salario y sus condiciones",
+            "titulo": "El 'nuevo Diomande': \"Nuestra forma de jugar se parece bastante\"",
+            "link": "https://www.marca.com/futbol/bundesliga/2026/11/11/nusa-viste-diomande-nuestra-forma-jugar-parece.html",
+            "resumen": "El extremo lidera al RB Leipzig tras la salida del madridista con seis goles y ocho asistencias",
             "fuente": "Marca"
           },
           {
-            "titulo": "Raphinha: \"Pido disculpas por mi expulsión pero este arbitraje no es aceptable\"",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004250933/raphinha-pido-disculpas-mi-expulsion-arbitraje-no-acepatble.html",
-            "resumen": "Raphinha Dias no está viviendo días amables con la selección de Brasil en esta ventana FIFA. A la polémica suscitada por las acusaciones de falta de compromiso con la 'verdemarela', que casi provocaron una comparecencia pública al borde…",
+            "titulo": "Varapalo para el Barça en forma de lesión",
+            "link": "https://www.mundodeportivo.com/baloncesto/acb/20261115/1004251278/varapalo-barca-forma-lesion.html",
+            "resumen": "Malas noticias para Aleksander Sekulic . El técnico azulgrana no podrá contar con Umoja Gibson durante las próximas tres semanas. El base estadounidense sufre una lesión fibrilar en la musculatura de la pared abdominal izquierda,…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "De Panathinaikos a Hapoel: ¿Por qué se disparan los presupuestos de la Euroliga?",
-            "link": "https://www.marca.com/sport-business/2playbook/2026/11/10/panathinaikos-hapoel-disparan-presupuestos-euroliga.html",
-            "resumen": "Los 20 clubes de la Euroliga destinan entre 10 millones y 50 millones de euros en salarios",
+            "titulo": "España quiere aprovecharse del ciclón Fermín",
+            "link": "https://www.marca.com/futbol/seleccion/2026/11/11/espana-quiere-aprovecharse-ciclon-fermin.html",
+            "resumen": "Bigoleador en el Metropolitano, ocho dianas en lo que va de temporada y a la caza de estrenarse con España",
             "fuente": "Marca"
           }
         ]
@@ -147,16 +147,16 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "November 14, 2026",
-    "generada": "16:11",
+    "fecha": "November 15, 2026",
+    "generada": "16:40",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "What we know about the ground stop and what to do if you're affected",
-            "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-            "resumen": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+            "titulo": "Iran targets US military base in Bahrain with drone attack",
+            "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+            "resumen": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
             "fuente": "BBC"
           },
           {
@@ -166,15 +166,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
-            "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
-            "resumen": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those planned this weekend in France.",
+            "titulo": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
+            "link": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
+            "resumen": "Israeli officials were convinced that Tehran was to blame for the airman’s disappearance. Alternative theories got little attention, until now.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-            "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+            "titulo": "Three men sentenced to death in Jordan over fatal church mass shooting",
+            "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
             "fuente": "BBC"
           },
           {
@@ -189,9 +189,9 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Microsoft says services fully restored after day-long global outage",
-            "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+            "titulo": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+            "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
             "fuente": "BBC"
           },
           {
@@ -201,15 +201,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Geopolitics Looms Over Eurovision, but Not Its Asian Edition",
-            "link": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html",
-            "resumen": "So far, the contest’s organizers have kept politics offstage. The European edition shows how difficult that can be.",
+            "titulo": "Microsoft Outlook Outage and FAA Groundstop Show Dependence on Fragile Technology",
+            "link": "https://www.nytimes.com/2026/11/15/business/technology-dependence-microsoft-airlines.html",
+            "resumen": "Incidents involving Microsoft’s Outlook and the Federal Aviation Administration this past week demonstrated our dependence on fragile technology.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Why is Microsoft's outage lasting so long and will emails be lost?",
-            "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+            "titulo": "Minister backs legal right to job support for young people",
+            "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The work and pensions secretary said the level of support currently on offer was too vague.",
             "fuente": "BBC"
           },
           {
@@ -224,9 +224,27 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Second catch attempt for SpaceX Starship rocket",
+            "titulo": "How to spot November's planetary parade in the pre-dawn sky",
+            "link": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
+            "link": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
+            "resumen": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusable SpaceX’s megarocket Starship returned to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "SpaceX Makes History With Successful Rocket Catch in Texas",
+            "link": "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html",
+            "resumen": "The Starship spacecraft returned from orbit to the same spot where it lifted off, marking a key milestone in SpaceX’s vision of building fully reusable rockets.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "SpaceX successfully catches top of huge Starship rocket for first time",
             "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+            "resumen": "The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\".",
             "fuente": "BBC"
           },
           {
@@ -234,24 +252,6 @@ const EDICION_MUNDO = {
             "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
             "resumen": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems The Austrian logician Kurt Gödel was one of the most original thinkers of the 20th…",
             "fuente": "The Guardian"
-          },
-          {
-            "titulo": "How to spot November's planetary parade in the pre-dawn sky",
-            "link": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "SpaceX Starship megarocket blasts off before expected return for reuse",
-            "link": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
-            "resumen": "Flight 15 expected to orbit Earth about 14 times over 22 hours, before company catches it at Starbase, Texas SpaceX’s Starship megarocket blasted off from Texas on Friday afternoon as the aerospace company sought to make history with a…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "These Male Dolphins Do Something Rare: Day Care",
-            "link": "https://www.nytimes.com/2026/11/13/science/babysitting-daycare-franciscana-dolphins-toninha-laplata.html",
-            "resumen": "Male Franciscana dolphins are exceptional babysitters. Scientists are trying to figure out if they are thoughtful fathers or just hope to be.",
-            "fuente": "N.Y. Times"
           }
         ]
       },
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Tuchel to remind England of anti-racism protocols before Spain game",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Manager Thomas Tuchel will remind England's players of Uefa's anti-racism protocols before Sunday's Nations League fixture against Spain in Madrid.",
+            "titulo": "Tearful McIlroy dedicates record-equalling win to ill dad",
+            "link": "https://www.bbc.co.uk/sport/golf/articles/c6kg7rwmz1g8o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Rory McIlroy wipes away tears as he dedicates his record-equalling eighth Race to Dubai title to his ill father, Gerry.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Mauricio Pochettino asked the US to believe in his project. Did he believe in it himself?",
-            "link": "https://www.theguardian.com/football/2026/nov/14/mauricio-pochettino-usmnt-legacy-belief",
-            "resumen": "The coach’s tenure with the USMNT brought a whiplash of highs and lows. He met some goals but also left many with the impression he never truly bought in It did not take US men’s national team coach Mauricio Pochettino very long to take…",
+            "titulo": "NFL week 10: Patriots v Lions, and more – live",
+            "link": "https://www.theguardian.com/sport/live/2026/nov/15/nfl-week-10-lions-v-patriots-and-more-live",
+            "resumen": "Updates from Sunday’s matches in US and Europe Get in touch: email Graham and follow us on BlueSky Patriots 3-21 Lions 11:51, 3rd quarter DeVito goes deep to the right sideline to Kyle Williams but the ball is a little overthrown and the…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss",
-            "resumen": "What can Manchester United fans expect from their new manager Mauricio Pochettino? BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs.",
+            "titulo": "Banton pushes case and bowlers sparkle for inconsistent England",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c8n50wgr6vd4o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Tom Banton scores a century and Sonny Baker and Gus Atkinson impress with the ball as England's wildly inconsistent one-day team hammer Australia.",
             "fuente": "BBC"
           },
           {
-            "titulo": "FAA ground stop sends NBA, NHL and college teams scrambling ahead of weekend",
-            "link": "https://www.theguardian.com/sport/2026/nov/14/faa-ground-stop-nba-nhl-college-football-travel-disruption",
-            "resumen": "Nationwide flight shutdown disrupts team travel in US Mississippi v Oklahoma football game moved to Sunday Cavaliers face tight turnaround after Miami travel delay The Federal Aviation Administration’s decision to ground all flights…",
+            "titulo": "The UFC is hard to like. Kayla Harrison shows why it’s harder to dismiss | Bryan Armen Graham",
+            "link": "https://www.theguardian.com/sport/2026/nov/15/kayla-harrison-ufc-womens-mma-dana-white-trump",
+            "resumen": "Dana White’s company squeezes fighters, bullies journalists and toadies up to Trump. But it has also given neglected Olympians a path to money and fame that didn’t exist before it If you don’t like what is being said, change the…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Warner accuses Cricket Australia of 'cover-up'",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Former vice-captain David Warner accuses Cricket Australia of a \"cover-up\", claiming Australia's bowlers were not interviewed in ball-tampering investigation.",
+            "titulo": "Branthwaite, Garner and King omitted for Spain game",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cq4gn7014x76o?at_medium=RSS&at_campaign=rss",
+            "resumen": "England manager Thomas Tuchel omits Josh King, James Garner and Jarrad Branthwaite from his squad to face Spain on Sunday night.",
             "fuente": "BBC"
           }
         ]
