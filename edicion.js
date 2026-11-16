@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "15 de noviembre de 2026",
-  "generada": "16:40",
+  "fecha": "16 de noviembre de 2026",
+  "generada": "19:54",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "El jefe de Episcopado habló del llanto de Milei ante el Papa y le pidió hacer foco en la situación social: “El bien de todos es de todos, no estamos haciendo campaña”",
-          "link": "https://www.clarin.com/politica/jefe-episcopado-hablo-llanto-milei-papa-pidio-hacer-foco-situacion-social-bien-haciendo-campana_0_Uh9K8XUp2g.html",
-          "resumen": "Marcelo Colombo descartó que las lágrimas del Presidente al despedir a León XIV \"hayan sido ficticias\". También expresó su deseo de que esto mejore el diálogo entre la Iglesia y el Gobierno, y pidió \"renovación de dirigencia\" en algunas…",
+          "titulo": "La ministra Alejandra Monteoliva será sometida a una cirugía",
+          "link": "https://www.clarin.com/politica/ministra-alejandra-monteoliva-sometida-cirugia_0_Bw704lJK54.html",
+          "resumen": "La titular de la cartera de Seguridad será operada de la columna, tras postergar la intervención por la visita del papa León XIV.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Dónde voto: publicaron el padrón provisorio para las elecciones de Argentina 2027",
-          "link": "https://www.lanacion.com.ar/politica/donde-voto-publicaron-el-padron-provisorio-para-las-elecciones-de-argentina-2027-nid02112026/",
-          "resumen": "El año que viene los argentinos elegirán a su próximo presidente, y es importante para los que van a votar conocer previamente el lugar en el que ejercerán el sufragio para agilizar el trámite electoral",
+          "titulo": "Javier Milei y sus medidas, en vivo: Luis Caputo: “Entramos a 2027 más fortalecidos que nunca, más calmo de lo que muchos predicen”",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-kicillof-acuso-al-presidente-de-adulterar-la-historia-nid16112026/",
+          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionario",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El PRO cuestionó la suspensión de las PASO y puso en duda el dictamen si el Gobierno modifica el proyecto a último momento",
-          "link": "https://www.infobae.com/politica/2026/11/15/el-pro-cuestiono-la-suspension-de-las-paso-y-puso-en-duda-el-dictamen-si-el-gobierno-modifica-el-proyecto-a-ultimo-momento/",
-          "resumen": "El jefe del bloque PRO sostuvo que ningún senador firmará modificaciones presentadas el mismo día de la reunión de comisión y anticipó que aguardarán la versión definitiva antes de fijar la posición del partido",
+          "titulo": "LLA busca 4 firmas en el Senado para avanzar en la suspensión de las PASO y aprobar el sistema de colectoras",
+          "link": "https://www.infobae.com/politica/2026/11/16/lla-busca-4-firmas-en-el-senado-para-avanzar-en-la-suspension-de-las-paso-y-aprobar-el-sistema-de-colectoras/",
+          "resumen": "La bancada libertaria cuenta con seis de los 19 integrantes de la comisión en donde se encuentra el proyecto y busca respaldos radicales y provinciales. La interna entre Bullrich y la Casa Rosada y el aviso de la justicia electoral",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Javier Milei, EN VIVO: en modo campaña, el Presidente prometió devolver US$ 500 mil millones en impuestos si es reelegido",
-          "link": "https://www.clarin.com/politica/javier-milei-vivo-modo-campana-presidente-prometio-devolverles-argentinos-us-500-mil-millones-impuestos-2031_0_nP2xs5jguN.html",
-          "resumen": "El mandatario reiteró su voluntad de ser reelecto el año que viene y prometió en un potencial segundo mandato hacer comercio con el \"90% del planeta\". El jefe del Episcopado le pidió al Gobierno hacer foco en la situación social.",
+          "titulo": "Los dos pronósticos de Luis Caputo para 2027: un año \"mucho más calmo\" para la economía y Milei reelecto en primera vuelta",
+          "link": "https://www.clarin.com/economia/pronosticos-luis-caputo-2027-ano-calmo-economia-milei-reelecto-primera-vuelta_0_cQyvvNVrF6.html",
+          "resumen": "El ministro de Economía refutó las proyecciones de volatilidad para el año que viene y reiteró su convicción de que el kirchnerismo no volverá al poder.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Natalio Botana: “León XIV señaló el camino que la democracia debería tener en la Argentina”",
-          "link": "https://www.lanacion.com.ar/politica/natalio-botana-leon-xiv-senalo-el-camino-que-la-democracia-deberia-tener-en-la-argentina-nid15112026/",
-          "resumen": "El politólogo e historiador elogió la recuperación que el Papa hizo de la doctrina social de la Iglesia y analiza cómo interpela su visita al país a todo el sistema político",
+          "titulo": "Renunció el convencional de Bariloche que reivindicó la dictadura de Videla",
+          "link": "https://www.lanacion.com.ar/politica/renuncio-el-convencional-de-bariloche-que-reivindico-la-dictadura-de-videla-nid16112026/",
+          "resumen": "Adrián Marcelo Grau duró apenas cuatro días en el organismo que deberá reformar la Carta Orgánica Municipal; argumentó que se va por “la brutal exposición pública”",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Tras invertir US$ 20 millones, una empresa familiar inauguró una planta de procesamiento de madera en Corrientes para exportar a Estados Unidos y la Unión Europea",
-          "link": "https://www.clarin.com/rural/invertir-us-20-millones-empresa-familiar-inauguro-planta-procesamiento-madera-corrientes-exportar-estados-unidos-union-europea_0_R3aGyT6y3A.html",
-          "resumen": "En Santo Tomé, la firma Zozzoli procesará hasta 500 toneladas diarias de madera y destinará el 100% de su producción a mercados internacionales. El proyecto prevé generar 200 empleos directos y más de 500 indirectos cuando alcance su…",
+          "titulo": "Crecida del Paraná: por el Niño, el río alcanzó su nivel más alto en casi 30 años para esta época en Rosario",
+          "link": "https://www.clarin.com/rural/crecida-parana-nino-rio-alcanzo-nivel-alto-30-anos-epoca-rosario_0_iKKYHBKVhE.html",
+          "resumen": "El cuerpo de agua se ubicó en 4,47 metros, el valor más elevado para el undécimo mes del año desde noviembre de 1997. Se prevé que siga creciendo, pero a un ritmo menor.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Todo empezó con un inmigrante en 1898 y hoy, después de más de 100 años, mantiene su vigencia: “Mi abuela hacía dulce de leche en estas cocinas”",
-          "link": "https://www.lanacion.com.ar/economia/campo/todo-empezo-con-un-inmigrante-en-1898-y-hoy-despues-de-mas-de-100-anos-mantiene-su-vigencia-mi-nid15112026/",
-          "resumen": "Nacida en Tres Arroyos, Istilart conserva un oficio casi artesanal y produce unas 500 cocinas al año; sus modelos de fundición todavía funcionan en hogares alejados de la red de gas y mantiene vivo el fuego de la cocina a leña",
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotizan el oficial y el paralelo este lunes 16 de noviembre, minuto a minuto",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotizan-el-oficial-y-el-paralelo-este-lunes-16-de-noviembre-nid16112026/",
+          "resumen": "La divisa oficial operó a $1575 para la venta en el Banco Nación; el dólar blue cotizó a $1580 para esa operación; qué pasó con el MEP y el CCL",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Miguel Kiguel advirtió que el Gobierno subestimó la inflación y pidió priorizar la actividad económica y el empleo",
-          "link": "https://www.ambito.com/economia/miguel-kiguel-advirtio-que-el-gobierno-subestimo-la-inflacion-y-pidio-priorizar-la-actividad-economica-y-el-empleo-n6345408",
-          "resumen": "El economista y director de EconViews sostuvo que la inflación presenta una fuerte inercia que dificulta su desaceleración. Además, planteó dudas sobre las prioridades económicas del Gobierno de Javier Milei y advirtió que la recuperación…",
+          "titulo": "Carne vacuna: Argentina se encamina a cerrar 2026 con el consumo más bajo de su historia",
+          "link": "https://www.ambito.com/economia/carne-vacuna-argentina-se-encamina-cerrar-2026-el-consumo-mas-su-historia-n6345720",
+          "resumen": "Las malas condiciones climáticas de los últimos años, sumadas al creciente interés de los ganaderos por aumentar sus exportaciones, redujeron la cantidad de ganado disponible para la faena, lo que encareció el precio de la carne y limitó…",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Euro hoy en Venezuela: precio y cotización de la divisa este domingo 15 de noviembre de 2026",
-          "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-domingo-15-de-noviembre-de-2026_0_TT1yz6tK0l.html",
-          "resumen": "Mirá la cotización del euro en Venezuela, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
+          "titulo": "El Gobierno abrió un plan de retiros voluntarios en el Instituto Nacional de Vitivinicultura",
+          "link": "https://www.clarin.com/rural/gobierno-abrio-plan-retiros-voluntarios-instituto-nacional-vitivinicultura_0_RoM7hWqpFC.html",
+          "resumen": "Lo hizo a través de la resolución 9/2026 del organismo, publicada hoy en el Boletín Oficial. Actualmente, la dependencia cuenta con 385 empleados.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Calendario Anses: cuándo cobro la jubilación de noviembre si mi DNI termina en 4",
-          "link": "https://www.lanacion.com.ar/economia/calendario-anses-cuando-cobro-la-jubilacion-de-noviembre-si-mi-dni-termina-en-4-nid15112026/",
-          "resumen": "Los jubilados que tengan DNI terminado en 4 tienen una fecha exacta de pago, según cobren el haber mínimo, superior o una pensión",
+          "titulo": "Invirtió US$20 millones: una empresa familiar inauguró una planta para procesar 500 toneladas diarias de madera y exportar",
+          "link": "https://www.lanacion.com.ar/economia/campo/invirtio-us20-millones-una-empresa-familiar-inauguro-una-planta-para-procesar-500-toneladas-diarias-nid16112026/",
+          "resumen": "Se trata de un emprendimiento de Zozzoli SA en Santo Tomé, Corrientes; empezó con 70 empleados",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Los talibanes prohíben hablar de críquet en radios de Afganistán, donde es uno de los deportes más populares",
-          "link": "https://www.clarin.com/mundo/talibanes-prohiben-hablar-criquet-radios-afganistan-deportes-populares_0_RdcsA8yONP.html",
-          "resumen": "El veto abarca a los noticieros y programas de la provincia de Kandahar, en el sur afgano, bastión del líder supremo talibán. Tienen prohibido transmitir partidos y ni siquiera pueden hacer comentarios del juego.",
+          "titulo": "Giro en la política migratoria de Europa: cinco países acuerdan deportar migrantes a Ruanda y alojarlos en un \"campo de concentración\"",
+          "link": "https://www.clarin.com/mundo/giro-politica-migratoria-europa-paises-acuerdan-deportar-migrantes-ruanda-alojarlos-campo-concentracion_0_cbz5rEpliu.html",
+          "resumen": "Alemania, Austria, Dinamarca, Grecia y Países Bajos acordaron con Ruanda la creación de un espacio de prueba para alojar a personas con orden de expulsión. Las instalaciones comenzarán a funcionar en 2027 y contarán con un cupo inicial de…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Papa León XIV en Perú, EN VIVO: el viaje a Cusco y Pucallpa hoy, minuto a minuto",
-          "link": "https://www.lanacion.com.ar/el-mundo/papa-leon-xiv-en-peru-en-vivo-el-viaje-a-cusco-y-pucallpa-hoy-minuto-a-minuto-nid15112026/",
-          "resumen": "El Pontífice continúa su visita en territorio peruano; en su anteúltimo día, tuvo encuentros con fieles y misioneros; también habrá una oración en la plaza de la Basílica Catedral de la Asunción de la Bienaventurada Virgen María",
+          "titulo": "Papa León XIV en Perú, EN VIVO: el Santo Padre cerró su histórica gira por Latinoamérica",
+          "link": "https://www.lanacion.com.ar/el-mundo/papa-leon-xiv-en-peru-en-vivo-las-ultimas-actividades-antes-del-fin-del-viaje-minuto-a-minuto-nid16112026/",
+          "resumen": "El Pontífice concluyó su viaje de 12 días por Sudamérica; tras presidir una multitudinaria misa en la Base Aérea Las Palmas, en Perú, León XIV emprendió el regreso a Roma",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Ya se perdieron casi 20 mil vuelos por el bloqueo aéreo en Estados Unidos: afirma que el tráfico se normalizará esta noche",
-          "link": "https://www.clarin.com/mundo/perdieron-20-mil-vuelos-bloqueo-aereo-estados-unidos-afirma-trafico-normalizara-noche_0_1gcAlPxDcS.html",
-          "resumen": "El director de la FAA anticipó que la operatoria volvería hoy a sus horarios habituales tras la falla técnica que provocó un caos este fin de semana. Esta mañana se cancelaron más de mil vuelos y se suman a los 18.600 perdidos entre…",
+          "titulo": "Venezuela proyecta recuperar su producción petrolera, pero las inversiones enfrentan riesgos políticos",
+          "link": "https://www.clarin.com/energia-y-mineria/venezuela-proyecta-recuperar-produccion-petrolera-inversiones-enfrentan-riesgos-politicos_0_iMEcv70NF6.html",
+          "resumen": "La industria petrolera de Venezuela comenzó a recuperarse tras la intervención de Estados Unidos. El crecimiento de la producción durante los próximos años dependerá de nuevas inversiones y de la estabilidad política del país.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Casi 1500 migrantes fueron rescatados en la costa de las islas Canarias en un solo día",
-          "link": "https://www.lanacion.com.ar/el-mundo/casi-1500-migrantes-fueron-rescatados-en-la-costa-de-las-islas-canarias-en-un-solo-dia-nid15112026/",
-          "resumen": "El número representa un nuevo record para la ruta marítima, una de las más peligrosas y mortíferas del mundo; entre las personas asistidas había mujeres y niños",
+          "titulo": "Lula viaja a Madrid para respaldar a Sánchez y reforzar el frente progresista ante el avance de la ultraderecha",
+          "link": "https://www.lanacion.com.ar/el-mundo/lula-viaja-a-madrid-para-respaldar-a-sanchez-y-reforzar-el-frente-progresista-ante-el-avance-de-la-nid16112026/",
+          "resumen": "El presidente brasileño se reunió con el líder socialista en la recta final de la campaña para las elecciones del 29 de noviembre",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Papa León XIV en Perú, EN VIVO: recorrida, agenda y últimas noticias del Santo Padre en su visita al país andino",
-          "link": "https://www.clarin.com/mundo/papa-leon-xiv-peru-vivo-recorrida-agenda-ultimas-noticias-santo-padre-visita-pais-andino_0_RAyOugDqwC.html",
-          "resumen": "El Sumo Pontífice inicia el penúltimo día de su gira sudamericana con una agenda cargada de actividades que lo llevará a viajar desde Chiclayo primero a Cusco. Luego vuelve a Lima donde mañana dará una misa multiudinaria.",
+          "titulo": "Príncipes en guerra (fría): la batalla por los flashes entre William y Harry",
+          "link": "https://www.clarin.com/mundo/principes-guerra-fria-batalla-flashes-william-harry_0_XdVoSWX42h.html",
+          "resumen": "La falta de coordinación entre los equipos de prensa de ambos príncipes derivó en un choque de cobertura mediática por el protagonismo en las tapas de los diarios. El distanciamiento derivado de la publicación del libro autobiográfico de…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Tenerife volvió a jugar tras la muerte de Jesús De Miguel y sus compañeros hicieron un emotivo homenaje: “Siempre en nuestro recuerdo”",
-          "link": "https://www.clarin.com/deportes/tenerife-volvio-jugar-muerte-jesus-miguel-companeros-hicieron-emotivo-homenaje-siempre-recuerdo_0_5VfMH306rz.html",
-          "resumen": "El capitán del club del delantero fallecido dejó un arreglo floral en el lugar exacto donde se produjo el golpe mortal, hace dos semanas. Mirá el video.",
+          "titulo": "\"Quedate en el suelo\": la frase en el informe del árbitro que sentenciaría el escándalo entre Madryn y Maipú por la Primera Nacional",
+          "link": "https://www.clarin.com/deportes/quedate-suelo-frase-informe-arbitro-sentenciaria-escandalo-madryn-maipu-primera-nacional_0_Rh62kTYAHJ.html",
+          "resumen": "Fue consignada por el árbitro Bryan Ferreyra, quien después de 50 minutos de espera resolvió suspender el encuentro por la primera ronda del Reducido de Segunda División. El Tribunal de Disciplina de AFA ya tiene un antecedente similar en…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El conmovedor homenaje a Jesús de Miguel en el estadio de Tenerife, en el partido ante Ceuta",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/el-conmovedor-homenaje-a-jesus-de-miguel-en-el-estadio-de-tenerife-en-el-partido-ante-ceuta-nid15112026/",
-          "resumen": "Flores, banderas y remeras recordaron al delantero, que murió un día después del impacto con el arquero Owono",
+          "titulo": "Lionel Scaloni, DT de la selección: “Cuando las papas quemen, la gente va a estar”",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/lionel-scaloni-dt-de-la-seleccion-cuando-las-papas-quemen-la-gente-va-a-estar-nid16112026/",
+          "resumen": "El entrenador de la Argentina habló en la previa del partido ante Costa Rica de este martes, en Córdoba, sobre varios temas",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Gonzalo Belloso: de bajarse de las elecciones de Central a la imprevista reelección",
-          "link": "https://www.ole.com.ar/rosario-central/gonzalobelloso-rosariocentral-razacanalla-carolinacristinziano-reeleccion_0_9FJ6A2YAF7.html",
-          "resumen": "La lista de Raza Canalla estará nuevamente encabezada por el actual presidente del conjunto rosarino. Al ser la única alternativa presentada antes del cierre, el Pejerrey sumará un nuevo mandato al frente del club.",
+          "titulo": "A Colapinto le encanta Las Vegas: qué dijo y cuál será la clave en la próxima fecha de la F1",
+          "link": "https://www.ole.com.ar/autos/franco-colapinto-vegas-dijo-clave-proxima-fecha-f1-formula1_0_kJ44CWH0Oc.html",
+          "resumen": "Franco empezó a palpitar la jornada siguiente de la Fórmula 1, que será en el callejero estadounidense y a un horario a trasmano para Argentina.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Sabalenka se disculpó en redes por su arrebato de ira contra Ucrania al perder ante Svitolina en las WTA Finals: \"Estaba frustrada\"",
-          "link": "https://www.clarin.com/deportes/sabalenka-disculpo-redes-arrebato-ira-ucrania-perder-svitolina-wta-finals-frustrada_0_W6pG4gqsoQ.html",
-          "resumen": "La bielorrusa se excusó por un estallido en las WTA Finals en Indian Wells (Estados Unidos). Un video ampliamente difundido en redes sociales parecía mostrar a la ex número uno mundial profiriendo insultos durante el partido del viernes,…",
+          "titulo": "La UEFA desafía a Gianni Infantino: eligió al francés Philippe Diallo como candidato para presidir la FIFA",
+          "link": "https://www.clarin.com/deportes/uefa-desafia-gianni-infantino-eligio-frances-philippe-diallo-candidato-presidir-fifa_0_yyMswep76y.html",
+          "resumen": "El presidente de la Federación Francesa de Fútbol recibió el respaldo unánime del organismo europeo para competir en las elecciones del 18 de marzo de 2027, en Rabat. La decisión profundiza las diferencias entre la UEFA y la conducción de…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Por dónde pasan Ferro vs. Gimnasia y Tiro y qué canal lo transmite en vivo",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-ferro-vs-gimnasia-y-tiro-y-que-canal-lo-transmite-en-vivo-nid15112026/",
-          "resumen": "El partido de octavos de final del Reducido se disputa este domingo a las 20.30 con arbitraje de Maximiliano Manduca",
+          "titulo": "UEFA Nations League, en vivo: el minuto a minuto de los partidos del grupo 2",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/uefa-nations-league-en-vivo-nid16112026/",
+          "resumen": "Se cierra una de las zonas de la liga A de la competencia europea y los germanos pueden quedar eliminados de la lucha por el título",
           "fuente": "La Nación"
         }
       ]
