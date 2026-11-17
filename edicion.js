@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "16 de noviembre de 2026",
-  "generada": "19:54",
+  "fecha": "17 de noviembre de 2026",
+  "generada": "18:50",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "La ministra Alejandra Monteoliva será sometida a una cirugía",
-          "link": "https://www.clarin.com/politica/ministra-alejandra-monteoliva-sometida-cirugia_0_Bw704lJK54.html",
-          "resumen": "La titular de la cartera de Seguridad será operada de la columna, tras postergar la intervención por la visita del papa León XIV.",
+          "titulo": "La Justicia Electoral mira de cerca al Congreso por las PASO: qué puede cambiar de la elección 2027",
+          "link": "https://www.clarin.com/politica/justicia-electoral-mira-cerca-congreso-paso-puede-cambiar-eleccion-2027_0_OIP3AXiZUX.html",
+          "resumen": "El Senado comienza debatir la reforma y desde los tribunales tienen especial atención. Lo que se decida marcará la organización de la elección. Por qué los avales de los candidatos y la lista colectora es más importante que la suspensión…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: Luis Caputo: “Entramos a 2027 más fortalecidos que nunca, más calmo de lo que muchos predicen”",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-kicillof-acuso-al-presidente-de-adulterar-la-historia-nid16112026/",
-          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionario",
+          "titulo": "Senado: se reúne una comisión clave para tratar la reforma electoral, pero el Gobierno no tiene aún los votos",
+          "link": "https://www.lanacion.com.ar/politica/senado-se-reune-una-comision-clave-para-tratar-la-reforma-electoral-pero-el-gobierno-no-tiene-aun-nid17112026/",
+          "resumen": "El oficialismo admitió dificultades para conseguir el dictamen y se determinará un cuarto intermedio hasta mañana; necesita conseguir diez firmas, pero hasta ahora tendría ocho",
           "fuente": "La Nación"
         },
         {
-          "titulo": "LLA busca 4 firmas en el Senado para avanzar en la suspensión de las PASO y aprobar el sistema de colectoras",
-          "link": "https://www.infobae.com/politica/2026/11/16/lla-busca-4-firmas-en-el-senado-para-avanzar-en-la-suspension-de-las-paso-y-aprobar-el-sistema-de-colectoras/",
-          "resumen": "La bancada libertaria cuenta con seis de los 19 integrantes de la comisión en donde se encuentra el proyecto y busca respaldos radicales y provinciales. La interna entre Bullrich y la Casa Rosada y el aviso de la justicia electoral",
+          "titulo": "Reforma política: el oficialismo pidió un cuarto intermedio por falta de firmas y buscaría dictaminar mañana",
+          "link": "https://www.infobae.com/politica/2026/11/17/reforma-politica-el-oficialismo-pidio-un-cuarto-intermedio-por-falta-de-firmas-y-buscaria-dictaminar-manana/",
+          "resumen": "Como se preveía, el Gobierno no logró cerrar a los dialoguistas de la comisión de Asuntos Constitucionales del Senado. Sin embargo, algunos aliados reconocieron a Infobae que se precipitaría un acuerdo las próximas horas",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Los dos pronósticos de Luis Caputo para 2027: un año \"mucho más calmo\" para la economía y Milei reelecto en primera vuelta",
-          "link": "https://www.clarin.com/economia/pronosticos-luis-caputo-2027-ano-calmo-economia-milei-reelecto-primera-vuelta_0_cQyvvNVrF6.html",
-          "resumen": "El ministro de Economía refutó las proyecciones de volatilidad para el año que viene y reiteró su convicción de que el kirchnerismo no volverá al poder.",
+          "titulo": "Decomiso en el caso Vialidad: la Corte y una decisión clave: ¿Se pueden ejecutar los bienes de los hijos de Cristina Kirchner?",
+          "link": "https://www.clarin.com/politica/decomiso-caso-vialidad-corte-decision-clave-pueden-ejecutar-bienes-hijos-cristina-kirchner_0_DZpm8qpqcc.html",
+          "resumen": "El TOF y la Cámara de Casación consideraron que la expresidenta intentó desapoderarse transfiriendo sus propiedades a Máximo y Florencia, pero que ellas fueron compradas con la plata de la corrupción en la obra pública. Debe definir el…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Renunció el convencional de Bariloche que reivindicó la dictadura de Videla",
-          "link": "https://www.lanacion.com.ar/politica/renuncio-el-convencional-de-bariloche-que-reivindico-la-dictadura-de-videla-nid16112026/",
-          "resumen": "Adrián Marcelo Grau duró apenas cuatro días en el organismo que deberá reformar la Carta Orgánica Municipal; argumentó que se va por “la brutal exposición pública”",
+          "titulo": "Javier Milei y sus medidas, en vivo: “Hay que dejar atrás ‘orcolandia”, manifestó el Presidente ante empresarios",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-hablo-en-una-cena-con-empresarios-y-pidio-sepultar-nid17112026/",
+          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Crecida del Paraná: por el Niño, el río alcanzó su nivel más alto en casi 30 años para esta época en Rosario",
-          "link": "https://www.clarin.com/rural/crecida-parana-nino-rio-alcanzo-nivel-alto-30-anos-epoca-rosario_0_iKKYHBKVhE.html",
-          "resumen": "El cuerpo de agua se ubicó en 4,47 metros, el valor más elevado para el undécimo mes del año desde noviembre de 1997. Se prevé que siga creciendo, pero a un ritmo menor.",
+          "titulo": "Arriazu: “Tener recursos no garantiza el desarrollo”",
+          "link": "https://www.clarin.com/economia/arriazu-tener-recursos-garantiza-desarrollo_0_QGtl5RXNvZ.html",
+          "resumen": "El economista habló durante el lanzamiento de Energía y Minería de Clarín que en formato digital y papel informa y analiza el sector que es uno de los principales motores de la actividad. Arriazu detalló que hacen falta inversión,…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotizan el oficial y el paralelo este lunes 16 de noviembre, minuto a minuto",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotizan-el-oficial-y-el-paralelo-este-lunes-16-de-noviembre-nid16112026/",
-          "resumen": "La divisa oficial operó a $1575 para la venta en el Banco Nación; el dólar blue cotizó a $1580 para esa operación; qué pasó con el MEP y el CCL",
+          "titulo": "Los pagos con stablecoins superaron las 1000 millones de operaciones y crecieron un 71%",
+          "link": "https://www.lanacion.com.ar/economia/IA/los-pagos-con-stablecoins-superaron-las-1000-millones-de-operaciones-y-crecieron-un-71-nid17112026/",
+          "resumen": "El uso de criptomonedas que mantienen paridad uno a uno con otros activos está creciendo cada vez más, según un informe de octubre de Nexo",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Carne vacuna: Argentina se encamina a cerrar 2026 con el consumo más bajo de su historia",
-          "link": "https://www.ambito.com/economia/carne-vacuna-argentina-se-encamina-cerrar-2026-el-consumo-mas-su-historia-n6345720",
-          "resumen": "Las malas condiciones climáticas de los últimos años, sumadas al creciente interés de los ganaderos por aumentar sus exportaciones, redujeron la cantidad de ganado disponible para la faena, lo que encareció el precio de la carne y limitó…",
+          "titulo": "Por qué Nvidia y Anthropic son clave para el comportamiento de las tasas de la Fed y la economía de EEUU",
+          "link": "https://www.ambito.com/economia/por-que-nvidia-y-anthropic-son-clave-el-comportamiento-las-tasas-la-fed-y-la-eeuu-n6346117",
+          "resumen": "Las grandes empresas tecnológicas vinculadas al desarrollo de la IA tienen un peso cada vez más fuerte sobre la economía estadounidense y pueden afectar el desempeño de la política monetaria de la Fed y el comportamiento de los bonos del…",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "El Gobierno abrió un plan de retiros voluntarios en el Instituto Nacional de Vitivinicultura",
-          "link": "https://www.clarin.com/rural/gobierno-abrio-plan-retiros-voluntarios-instituto-nacional-vitivinicultura_0_RoM7hWqpFC.html",
-          "resumen": "Lo hizo a través de la resolución 9/2026 del organismo, publicada hoy en el Boletín Oficial. Actualmente, la dependencia cuenta con 385 empleados.",
+          "titulo": "El gobernador de San Juan apoyó la suspensión de las PASO: \"Es un reclamo de la gente\"",
+          "link": "https://www.clarin.com/energia-y-mineria/gobernador-san-juan-apoyo-suspension-paso-reclamo-gente_0_KCgq0iLmxq.html",
+          "resumen": "Dijo que si bien habían sido creadas \"por unanimidad\" por todos los bloques del Congreso, ahora \"es otro momento\". Fue durante la presentación de Energía y Minería, de Clarín.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Invirtió US$20 millones: una empresa familiar inauguró una planta para procesar 500 toneladas diarias de madera y exportar",
-          "link": "https://www.lanacion.com.ar/economia/campo/invirtio-us20-millones-una-empresa-familiar-inauguro-una-planta-para-procesar-500-toneladas-diarias-nid16112026/",
-          "resumen": "Se trata de un emprendimiento de Zozzoli SA en Santo Tomé, Corrientes; empezó con 70 empleados",
+          "titulo": "Dujovne defendió el rumbo de Milei, pero criticó que se perdió una oportunidad para sumar dólares",
+          "link": "https://www.lanacion.com.ar/economia/dujovne-defendio-el-rumbo-economico-de-milei-y-alerto-por-un-plan-platita-nid17112026/",
+          "resumen": "Compartió una presentación en Córdoba con su excompañero de gabinete de Macri, Guillermo Dietrich",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Giro en la política migratoria de Europa: cinco países acuerdan deportar migrantes a Ruanda y alojarlos en un \"campo de concentración\"",
-          "link": "https://www.clarin.com/mundo/giro-politica-migratoria-europa-paises-acuerdan-deportar-migrantes-ruanda-alojarlos-campo-concentracion_0_cbz5rEpliu.html",
-          "resumen": "Alemania, Austria, Dinamarca, Grecia y Países Bajos acordaron con Ruanda la creación de un espacio de prueba para alojar a personas con orden de expulsión. Las instalaciones comenzarán a funcionar en 2027 y contarán con un cupo inicial de…",
+          "titulo": "Reportan la caída de una red de comunicación clasificada de la Agencia Nacional de Seguridad de EE.UU.",
+          "link": "https://www.clarin.com/mundo/reportan-caida-red-comunicacion-clasificada-agencia-nacional-seguridad-eeuu_0_NtYBVIM7Gu.html",
+          "resumen": "Hasta el momento, no hay indicios de un ciberataque, según fuentes consultadas por la cadena CNN.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Papa León XIV en Perú, EN VIVO: el Santo Padre cerró su histórica gira por Latinoamérica",
-          "link": "https://www.lanacion.com.ar/el-mundo/papa-leon-xiv-en-peru-en-vivo-las-ultimas-actividades-antes-del-fin-del-viaje-minuto-a-minuto-nid16112026/",
-          "resumen": "El Pontífice concluyó su viaje de 12 días por Sudamérica; tras presidir una multitudinaria misa en la Base Aérea Las Palmas, en Perú, León XIV emprendió el regreso a Roma",
+          "titulo": "Qué es el apagón mundial del 17 de noviembre: la teoría conspirativa que disparó el “blackout 17 november”",
+          "link": "https://www.lanacion.com.ar/el-mundo/que-es-el-apagon-mundial-del-17-de-noviembre-la-teoria-conspirativa-que-disparo-el-blackout-17-nid17112026/",
+          "resumen": "Publicaciones virales anuncian una interrupción de la electricidad y las comunicaciones durante 72 horas; la versión mezcla un simulacro estadounidense, recomendaciones europeas y referencias a Los Simpson, sin evidencia que la respalde",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Venezuela proyecta recuperar su producción petrolera, pero las inversiones enfrentan riesgos políticos",
-          "link": "https://www.clarin.com/energia-y-mineria/venezuela-proyecta-recuperar-produccion-petrolera-inversiones-enfrentan-riesgos-politicos_0_iMEcv70NF6.html",
-          "resumen": "La industria petrolera de Venezuela comenzó a recuperarse tras la intervención de Estados Unidos. El crecimiento de la producción durante los próximos años dependerá de nuevas inversiones y de la estabilidad política del país.",
+          "titulo": "Al menos cinco heridos por fuertes turbulencias en un vuelo de Puerto Rico a Florida",
+          "link": "https://www.clarin.com/mundo/heridos-fuertes-turbulencias-vuelo-puerto-rico-florida_0_x7tLLTRqM6.html",
+          "resumen": "Este martes por mañana se reportó que pasajeros y tripulación habían resultado heridos en un vuelo que se dirigía al aeropuerto de Fort Lauderdale-Hollywood.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Lula viaja a Madrid para respaldar a Sánchez y reforzar el frente progresista ante el avance de la ultraderecha",
-          "link": "https://www.lanacion.com.ar/el-mundo/lula-viaja-a-madrid-para-respaldar-a-sanchez-y-reforzar-el-frente-progresista-ante-el-avance-de-la-nid16112026/",
-          "resumen": "El presidente brasileño se reunió con el líder socialista en la recta final de la campaña para las elecciones del 29 de noviembre",
+          "titulo": "El escándalo que golpea al Deutsche Bank: pagos a Epstein, negocios con oligarcas rusos y el reclamo del gobierno alemán",
+          "link": "https://www.lanacion.com.ar/el-mundo/el-escandalo-que-golpea-al-deutsche-bank-pagos-a-epstein-negocios-con-oligarcas-rusos-y-el-reclamo-nid17112026/",
+          "resumen": "Una investigación basada en 15 millones de documentos internos describe cómo el banco alemán habría privilegiado sus intereses comerciales frente a alertas sobre los peligros de tratar con clientes de alto riesgo",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Príncipes en guerra (fría): la batalla por los flashes entre William y Harry",
-          "link": "https://www.clarin.com/mundo/principes-guerra-fria-batalla-flashes-william-harry_0_XdVoSWX42h.html",
-          "resumen": "La falta de coordinación entre los equipos de prensa de ambos príncipes derivó en un choque de cobertura mediática por el protagonismo en las tapas de los diarios. El distanciamiento derivado de la publicación del libro autobiográfico de…",
+          "titulo": "El caso Jeffrey Epstein da un giro: afirman que hay \"cero probabilidades\" de suicidio y que murió estrangulado",
+          "link": "https://www.clarin.com/mundo/caso-jeffrey-epstein-da-giro-afirman-cero-probabilidades-suicidio-murio-estrangulado_0_ojzQdj0lo4.html",
+          "resumen": "El patólogo forense Michael Freeman analizó los registros completos del peritaje y aseguró a The Times, de Londres, que el financista fue víctima de una agresión y un posterior estrangulamiento. El hermano del acusado anticipó que exigirá…",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "\"Quedate en el suelo\": la frase en el informe del árbitro que sentenciaría el escándalo entre Madryn y Maipú por la Primera Nacional",
-          "link": "https://www.clarin.com/deportes/quedate-suelo-frase-informe-arbitro-sentenciaria-escandalo-madryn-maipu-primera-nacional_0_Rh62kTYAHJ.html",
-          "resumen": "Fue consignada por el árbitro Bryan Ferreyra, quien después de 50 minutos de espera resolvió suspender el encuentro por la primera ronda del Reducido de Segunda División. El Tribunal de Disciplina de AFA ya tiene un antecedente similar en…",
+          "titulo": "Poca venta de entradas, pero mucho amor: la Selección llegó a Córdoba, desató una fiesta en los hinchas y respondió con un gran gesto",
+          "link": "https://www.clarin.com/deportes/poca-venta-entradas-amor-seleccion-llego-cordoba-desato-fiesta-hinchas-respondio-gran-gesto_0_9d2H4Scrht.html",
+          "resumen": "La Scaloneta arribó al hotel en horas del mediodía y una multitud esperaba por ver al equipo argentino. Dibu Martínez, que será capitán ante Costa Rica, se acercó para sacarse selfies y firmar autógrafos. Julián Alvarez, Enzo Fernández y…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Lionel Scaloni, DT de la selección: “Cuando las papas quemen, la gente va a estar”",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/lionel-scaloni-dt-de-la-seleccion-cuando-las-papas-quemen-la-gente-va-a-estar-nid16112026/",
-          "resumen": "El entrenador de la Argentina habló en la previa del partido ante Costa Rica de este martes, en Córdoba, sobre varios temas",
+          "titulo": "El incendiario discurso de un doblista N° 1 contra el presidente y el director ejecutivo de la ATP",
+          "link": "https://www.lanacion.com.ar/deportes/tenis/el-incendiario-discurso-de-un-doblista-n-1-contra-el-presidente-y-el-director-ejecutivo-de-la-atp-nid17112026/",
+          "resumen": "En medio del conflicto entre los jugadores y la entidad que rige el tenis masculino, el británico Patten criticó a las autoridades por la ausencia en la premiación en Turín",
           "fuente": "La Nación"
         },
         {
-          "titulo": "A Colapinto le encanta Las Vegas: qué dijo y cuál será la clave en la próxima fecha de la F1",
-          "link": "https://www.ole.com.ar/autos/franco-colapinto-vegas-dijo-clave-proxima-fecha-f1-formula1_0_kJ44CWH0Oc.html",
-          "resumen": "Franco empezó a palpitar la jornada siguiente de la Fórmula 1, que será en el callejero estadounidense y a un horario a trasmano para Argentina.",
+          "titulo": "El emotivo video de un padre hincha de Boca que sorprendió a su hijo con el viaje a la final",
+          "link": "https://www.ole.com.ar/boca-juniors/boca-partido-copa-sudamericana-sorpresa-inesperada-padre-hijo-viaje_0_OgIoWnhtkd.html",
+          "resumen": "Una situación muy especial se vivió en el aeropuerto de Ezeiza, con la final de la Copa Sudamericana en el medio. Mirá...",
           "fuente": "Olé"
         },
         {
-          "titulo": "La UEFA desafía a Gianni Infantino: eligió al francés Philippe Diallo como candidato para presidir la FIFA",
-          "link": "https://www.clarin.com/deportes/uefa-desafia-gianni-infantino-eligio-frances-philippe-diallo-candidato-presidir-fifa_0_yyMswep76y.html",
-          "resumen": "El presidente de la Federación Francesa de Fútbol recibió el respaldo unánime del organismo europeo para competir en las elecciones del 18 de marzo de 2027, en Rabat. La decisión profundiza las diferencias entre la UEFA y la conducción de…",
+          "titulo": "Franco Colapinto en el GP de Las Vegas: cómo ver, horarios de las prácticas, clasificación y carrera",
+          "link": "https://www.clarin.com/deportes/franco-colapinto-gp-vegas-ver-horarios-practicas-clasificacion-carrera_0_OjJ0EXeGBV.html",
+          "resumen": "El piloto argentino regresa a la Ciudad del Pecado con su Alpine. Habrá que trasnochar para seguirlo, y la acción comienza el jueves. El año pasado ganó Max Verstappen, que busca volver al triunfo.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "UEFA Nations League, en vivo: el minuto a minuto de los partidos del grupo 2",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/uefa-nations-league-en-vivo-nid16112026/",
-          "resumen": "Se cierra una de las zonas de la liga A de la competencia europea y los germanos pueden quedar eliminados de la lucha por el título",
+          "titulo": "Tiger Woods regresará al golf: participará de una prestigiosa competición que se disputa en Bahamas",
+          "link": "https://www.lanacion.com.ar/deportes/golf/tiger-woods-regresara-al-golf-participara-de-una-prestigiosa-competicion-que-se-disputa-en-bahamas-nid17112026/",
+          "resumen": "El golfista de 50 años anunció que disputará el Hero World Challenge y volverá a las canchas tras el Masters de Augusta de 2024",
           "fuente": "La Nación"
         }
       ]

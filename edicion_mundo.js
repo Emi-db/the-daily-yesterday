@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "16 de noviembre de 2026",
-    "generada": "19:54",
+    "fecha": "17 de noviembre de 2026",
+    "generada": "18:50",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Qué tan poderosas son las pandillas a las que se enfrenta Bukele en Haití",
-            "link": "https://www.bbc.com/mundo/watch/cxj05r723gpjo?at_medium=RSS&at_campaign=rss",
-            "resumen": "El presidente de El Salvador ha enviado al menos 2.000 militares de fuerzas especiales al país caribeño.",
+            "titulo": "\"Vi decenas de cadáveres para reconocer a mi hermano de 14 años tras los terremotos de Venezuela y aún no sé si está enterrado o desaparecido\"",
+            "link": "https://www.bbc.com/mundo/articles/cwm25nnnp5yxo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Lorena Laya encontró un cuerpo bajo los escombros que se parecía a su hermano Diego tras los sismos de La Guaira. Cuando lo examinaron las autoridades, reportaron resultados contradictorios sobre la identidad del cadáver.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Cinco países europeos crearán en Ruanda el primer centro de deportación fuera de la UE",
-            "link": "https://elpais.com/internacional/2026-11-16/cinco-paises-europeos-crearan-en-ruanda-el-primer-centro-de-deportacion-fuera-de-la-ue.html",
-            "resumen": "Bruselas da el visto bueno a este acuerdo negociado por Dinamarca, Alemania, Países Bajos, Grecia y Austria para acelerar la expulsión de migrantes a partir de 2027",
+            "titulo": "Ucrania destruye parte del puente de Crimea, símbolo de la anexión rusa impuesta por Putin",
+            "link": "https://elpais.com/internacional/2026-11-17/ucrania-destruye-e-inutiliza-parte-del-puente-de-crimea.html",
+            "resumen": "Un ataque con misiles provoca el desprendimiento de un tramo de la estructura que une Rusia con el territorio tomado ilegalmente en 2014",
             "fuente": "El País"
           },
           {
-            "titulo": "Gaza, sin tregua de Israel: nuevos ataques, restricciones a la ayuda y proliferación de enfermedades",
-            "link": "https://www.france24.com/es/medio-oriente/20261116-gaza-sin-tregua-de-israel-nuevos-ataques-restricciones-a-la-ayuda-y-proliferaci%C3%B3n-de-enfermedades",
-            "resumen": "El Ministerio de Salud del enclave palestino reportó este lunes tres nuevas muertes por ataques israelíes, elevando a casi 1.650 el número de gazatíes asesinados desde que entró en vigor la aparente tregua en octubre de 2025. En paralelo,…",
+            "titulo": "Irán vuelve a atacar posiciones estadounidenses en Bahrein y reporta explosiones en la isla de Qeshm",
+            "link": "https://www.france24.com/es/medio-oriente/20261117-ir%C3%A1n-vuelve-a-atacar-posiciones-estadounidenses-en-bahrein-y-reporta-explosiones-en-la-isla-de-qeshm",
+            "resumen": "Este martes 17 de noviembre, Irán lanzó drones contra una instalación de radar estadounidense en Bahrein, siendo el tercer ataque a objetivos militares de Estados Unidos en ese país del Golfo en los últimos días. En paralelo, Teherán…",
             "fuente": "France 24"
           },
           {
-            "titulo": "\"Les molesta compartir el aire que respiran conmigo\": cómo el auge de la ultraderecha en Alemania está afectando a los migrantes latinoamericanos",
-            "link": "https://www.bbc.com/mundo/articles/c95yn80g6l72o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Varios migrantes latinoamericanos en Alemania le contaron a BBC Mundo cómo la discriminación y el temor al avance de la ultraderecha en el país están afectando sus vidas.",
+            "titulo": "\"El gobierno de Ortega me prohibió entrar en Nicaragua, por lo que regresé clandestinamente a mi propio país\"",
+            "link": "https://www.bbc.com/mundo/articles/cx21p732nv5o?at_medium=RSS&at_campaign=rss",
+            "resumen": "La ONU ha documentado al menos 318 casos de nicaragüenses a los que se les denegó la entrada a su país entre junio de 2018 y agosto de 2025.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Xi Jinping acoge la cumbre de Asia-Pacífico en la cima de su poder en China y con creciente peso global",
-            "link": "https://elpais.com/internacional/2026-11-16/xi-jinping-acoge-la-cumbre-de-asia-pacifico-en-la-cima-de-su-poder-en-china-y-con-creciente-peso-global.html",
-            "resumen": "El presidente chino se perfila para un cuarto mandato y llega a la cumbre de la APEC en Shenzhen con una mayor red de apoyos en Asia, África y América Latina",
+            "titulo": "El ataque ruso a un centro de reparto de ayuda en Zaporiyia es ya la segunda mayor masacre de la guerra de Ucrania",
+            "link": "https://elpais.com/internacional/2026-11-17/el-ataque-ruso-a-un-centro-de-reparto-de-ayuda-en-zaporiyia-es-ya-la-segunda-mayor-masacre-de-la-guerra-de-ucrania.html",
+            "resumen": "Kiev eleva a 72 los muertos en el bombardeo de hace dos semanas sobre la escuela subterránea de Komishuvaja",
             "fuente": "El País"
           }
         ]
@@ -43,9 +43,9 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "El Gobierno aprobará este martes la subida del salario mínimo de 2027 a 1.286 euros",
-            "link": "https://elpais.com/economia/2026-11-16/el-gobierno-aprobara-este-martes-la-subida-del-salario-minimo-de-2027-a-1286-euros.html",
-            "resumen": "Yolanda Díaz entra en campaña y acusa al PSOE de “boicotear” el refuerzo del registro horario",
+            "titulo": "Cercanías de Madrid y Rodalies recuperan algo de pulso tras tener las líneas paralizadas y 700.000 afectados por la huelga del ferrocarril",
+            "link": "https://elpais.com/economia/2026-11-17/mas-de-15-millones-de-viajeros-en-tren-vuelven-a-estar-pendientes-de-24-horas-de-paro-sindical.html",
+            "resumen": "Pasadas las 18.00 se han suprimido un 44% de los servicios mínimos en Madrid y el 41% en Cataluña por la protesta sindical en favor de nuevas medidas de seguridad para el tren. El paro tiene impacto en la alta velocidad, donde se han…",
             "fuente": "El País"
           },
           {
@@ -55,9 +55,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "Yolanda Díaz retira su candidatura a la dirección general de la OIT",
-            "link": "https://elpais.com/economia/2026-11-16/yolanda-diaz-retira-su-candidatura-a-la-direccion-general-de-la-oit.html",
-            "resumen": "El actual director, Houngbo, supera en apoyos la vicepresidenta, por lo que esta da un paso atrás ante la votación prevista para este lunes en el organismo de la ONU",
+            "titulo": "El Gobierno aprueba subir el salario mínimo un 5,3% y el sueldo de los funcionarios un 4,5%",
+            "link": "https://elpais.com/economia/2026-11-17/el-gobierno-aprueba-subir-el-salario-minimo-un-53-y-el-sueldo-de-los-funcionarios-un-45.html",
+            "resumen": "El Consejo de Ministros respalda la exención en el IRPF para el suelo retributivo y un paquete de medidas laborales que persigue más trasparencia salarial en las empresas",
             "fuente": "El País"
           },
           {
@@ -67,9 +67,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "Bruselas se reserva la aprobación del último pago del plan de recuperación hasta el día después de las elecciones",
-            "link": "https://elpais.com/economia/2026-11-16/bruselas-se-reserva-la-aprobacion-del-ultimo-pago-del-plan-de-recuperacion-hasta-el-dia-despues-de-las-elecciones.html",
-            "resumen": "La Comisión Europea anunciará el 30 de noviembre el resultado de la evaluación más cuantiosa y que ya no tendrá rectificación por parte del Ejecutivo",
+            "titulo": "Bruselas mejora las previsiones económicas de la zona euro y España pese a la guerra y la inflación",
+            "link": "https://elpais.com/economia/2026-11-17/bruselas-mejora-las-previsiones-economicas-de-la-zona-euro-y-espana-pese-a-la-guerra-y-la-inflacion.html",
+            "resumen": "La Comisión Europea estima que el PIB español crecerá un 2,6% este año, dos décimas más de lo que dijo en primavera, mientras eleva la media anual del IPC al 3,9%",
             "fuente": "El País"
           }
         ]
@@ -78,9 +78,9 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "Leche y vino para despedir a los muertos hace más de 2.000 años: el misterio de una necrópolis de Menorca",
-            "link": "https://elpais.com/ciencia/2026-11-16/leche-y-vino-para-despedir-a-los-muertos-hace-mas-de-2000-anos-el-misterio-de-una-necropolis-de-menorca.html",
-            "resumen": "El estudio de una treintena de vasos y otros recipientes cerámicos bajo más de dos metros de sedimentos en una cueva balear revela trazas de lácteos y frutas",
+            "titulo": "Retirados por irregularidades seis estudios de Daniel Balsalobre, el científico emergente ‘número 1’ en España",
+            "link": "https://elpais.com/ciencia/2026-11-17/retirados-por-irregularidades-seis-estudios-de-daniel-balsalobre-el-cientifico-emergente-numero-1-en-espana.html",
+            "resumen": "El investigador, uno de los más citados del mundo, defiende su honestidad y atribuye las críticas a “la envidia española”",
             "fuente": "El País"
           },
           {
@@ -90,9 +90,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "La nueva frontera de la ‘Voyager 1’: ¿qué es un día luz?",
-            "link": "https://elpais.com/ciencia/2026-11-15/la-voyager-1-cruza-una-nueva-frontera-siga-la-trayectoria-de-un-rayo-de-luz-de-la-tierra-hasta-la-sonda.html",
-            "resumen": "Siga la trayectoria de un rayo que recorre esa distancia, equivalente a 25.902 millones de kilómetros. Compruebe dónde estaba la nave en cualquier fecha, desde que inició su viaje espacial en 1977",
+            "titulo": "Una variante genética heredada de los neandertales reduce el volumen del cerebro y el riesgo de esquizofrenia en humanos actuales",
+            "link": "https://elpais.com/ciencia/2026-11-16/una-variante-genetica-heredada-de-los-neandertales-reduce-el-volumen-del-cerebro-y-el-riesgo-de-esquizofrenia-en-humanos-actuales.html",
+            "resumen": "Un estudio dirigido por el Nobel de Medicina Svante Pääbo detecta una variante de ADN que tiene un efecto inverso a lo esperable",
             "fuente": "El País"
           },
           {
@@ -102,9 +102,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "La odisea de la ‘Voyager 1’: un chat con el cosmos a un día luz de la Tierra",
-            "link": "https://elpais.com/ciencia/2026-11-15/la-odisea-de-la-voyager-1-un-chat-con-el-cosmos-a-un-dia-luz-de-la-tierra.html",
-            "resumen": "La nave humana más lejana alcanzará el miércoles 18 una distancia a la que sus mensajes tardarán 24 horas en llegarnos. Tras 49 años de misión, sigue enviando datos del espacio interestelar",
+            "titulo": "Leche y vino para despedir a los muertos hace más de 2.000 años: el misterio de una necrópolis de Menorca",
+            "link": "https://elpais.com/ciencia/2026-11-16/leche-y-vino-para-despedir-a-los-muertos-hace-mas-de-2000-anos-el-misterio-de-una-necropolis-de-menorca.html",
+            "resumen": "El estudio de una treintena de vasos y otros recipientes cerámicos bajo más de dos metros de sedimentos en una cueva balear revela trazas de lácteos y frutas",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Las alternativas de Flick para sustituir a Cubarsí si no llega ante el Villarreal",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261116/1004251804/alternativas-flick-sustituir-cubarsi-no-llega-villarreal.html",
-            "resumen": "Pau Cubarsí (19 años) podría perderse el partido del próximo domingo ante el Villarreal en el Spotify Camp Nou (14 horas) después de pedir el cambio al descanso del duelo con España ante Inglaterra de este pasado domingo en el…",
+            "titulo": "Mendes aterriza en Barcelona, con Balde y el mercado en el horizonte",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261117/1004252118/mendes-aterriza-barcelona-balde-mercado-horizonte.html",
+            "resumen": "Jorge Mendes aterrizó en Barcelona sobre la una de la tarde de este martes 17 de noviembre. A unas seis semanas de que se reabra el mercado invernal de transferencias, el agente portugués llegó a la capital catalana, donde comió en un…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Olmo ya se entrena con el grupo y apunta al Villarreal",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261116/1004251598/olmo-entrena-grupo-apunta-villarreal.html",
-            "resumen": "Tal y como informó Mundo Deportivo la pasada semana , la reaparición de Dani Olmo apunta al próximo domingo (14.00 h./DAZN) contra el Villarreal en el Spotify Camp Nou . El mediapunta de Terrassa empezó a entrenarse con el grupo este…",
+            "titulo": "Jódar hace saltar todas las alarmas en las ATP Finals: \"Pídete un paracetamol\", antes del KO",
+            "link": "https://www.mundodeportivo.com/tenis/20261117/1004252202/jodar-saltar-todas-alarmas-atp-finals-pidete-paracetamol-ko.html",
+            "resumen": "Rafa Jódar , 20 años y nº 10 mundial, pasó un mal rato en la pista central del Inalpi Arena de Turín. Bordeó el KO físico, tuvo que acudir en su ayuda el médico, antesala del otro KO, el deportivo. Mareado por momentos, sin fuerza, se…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,16 +147,16 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "November 16, 2026",
-    "generada": "19:54",
+    "fecha": "November 17, 2026",
+    "generada": "18:50",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Five EU countries announce migrant deportation centre in Rwanda",
-            "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-            "resumen": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+            "titulo": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+            "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
             "fuente": "BBC"
           },
           {
@@ -166,22 +166,22 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
-            "link": "https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html",
-            "resumen": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.",
+            "titulo": "Trump’s Whirlwind Asia Trip Begins in the Philippines",
+            "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
+            "resumen": "President Trump’s 48-hour trip started with a meeting with Southeast Asian leaders in Manila. He will later meet Xi Jinping of China and Vladimir Putin of Russia in Shenzhen, a Chinese economic hub.",
             "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "Yemeni forces retreat to defend port city from Houthis",
-            "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
-            "fuente": "BBC"
           },
           {
             "titulo": "US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities",
             "link": "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities",
             "resumen": "Suspect named as Greene Da’monte Khiree Drug smuggling carries life sentence in Nigeria An American basketball player has been arrested in Nigeria for allegedly attempting to smuggle 33.95kg (75lb) of marijuana into the country. Nigeria’s…",
             "fuente": "The Guardian"
+          },
+          {
+            "titulo": "Ecuadorean Fishermen Who Survived U.S. Boat Strike Sue Trump Administration",
+            "link": "https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html",
+            "resumen": "The first lawsuit by strike survivors targets a secretive U.S. military campaign that has killed more than 240 people.",
+            "fuente": "N.Y. Times"
           }
         ]
       },
@@ -189,34 +189,34 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-            "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-            "resumen": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+            "titulo": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+            "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Americans relying on heating oil brace for harsh winter: ‘We’re often cold in our own home’",
-            "link": "https://www.theguardian.com/business/2026/nov/16/heating-oil-price-increase-winter",
-            "resumen": "Surge in prices is forcing many to cut back on spending, with a projected 21% increase in costs of those households Millions of homeowners in the US will pay hundreds of dollars more this winter to heat their homes as rising energy prices…",
+            "titulo": "Deutsche Bank dismissed warnings about dealings with risky clients, reports claim",
+            "link": "https://www.theguardian.com/business/2026/nov/17/deutsche-bank-dimissed-warnings-risky-clients-reports-claim",
+            "resumen": "International investigation using trove of leaked internal data allegedly shows German bank overlooked compliance concerns to safeguard profits Deutsche Bank reportedly dismissed warnings about its dealings with risky clients, including…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
-            "link": "https://www.nytimes.com/2026/11/16/business/economy/warsh-ai-economy.html",
-            "resumen": "Kevin M. Warsh, chairman of the Federal Reserve, has assigned a task force to explore how productivity gains tied to new technologies could impact the labor market.",
+            "titulo": "I.R.S. Opens Criminal Probes as Part of Trump’s Pursuit of Left-Wing Groups",
+            "link": "https://www.nytimes.com/2026/11/17/us/politics/irs-criminal-investigations.html",
+            "resumen": "An internal I.R.S. memo viewed by The New York Times reveals how the agency is carrying out President Trump’s orders to investigate “domestic terrorism.”",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-            "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-            "resumen": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
+            "titulo": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+            "link": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+            "resumen": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Several companies are using Trump tariff refunds for corporate bonuses",
-            "link": "https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses",
-            "resumen": "Some firms are directing refunds to corporate leadership instead of reimbursing consumers, ProPublica finds Several companies that received refunds for paying Donald Trump ’s tariffs have put those funds towards corporate bonuses instead…",
-            "fuente": "The Guardian"
+            "titulo": "FEMA Will Test Its Emergency Alert System Today",
+            "link": "https://www.nytimes.com/2026/11/17/business/media/nationwide-emergency-alert-test-fema.html",
+            "resumen": "A test mandated every three years is scheduled for 2:20 p.m. Eastern time and will be broadcast on television and radio. Regularly scheduled programming will resume after about a minute.",
+            "fuente": "N.Y. Times"
           }
         ]
       },
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Yellow weather warnings issued for snow as temperatures plummet",
-            "link": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss",
-            "resumen": "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times.",
+            "titulo": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+            "link": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Starwatch: Fleeting brilliance of Leonid meteor shower to hit peak",
-            "link": "https://www.theguardian.com/science/2026/nov/16/starwatch-fleeting-brilliance-of-leonid-meteor-shower-to-hit-peak",
-            "resumen": "Annual display appears to radiate from constellation of Leo in eastern sky as Earth passes through comet debris stream The annual Leonid meteor shower reaches its peak this week, offering a chance to count meteors. The shower is expected…",
+            "titulo": "‘Orwellian’: HIV scientist’s ordeal lays bare Trump officials’ interference in grant-making",
+            "link": "https://www.theguardian.com/us-news/2026/nov/16/hiv-scientist-nih-grant-making-process",
+            "resumen": "Researchers forced to scrap original studies as NIH rethinks grants not in ‘alignment’ with administration’s priorities Dr Jade Pagkas-Bather received her first grant from the National Institutes of Health (NIH) in June 2025 – a milestone…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "John H. Powers III to Lead NIAID Amid Turmoil",
-            "link": "https://www.nytimes.com/2026/11/16/science/niaid-chief-john-powers.html",
-            "resumen": "Dr. John H. Powers III was appointed director of the National Institute of Allergy and Infectious Diseases, a powerful post held for decades by Dr. Anthony Fauci.",
+            "titulo": "Fearing Chinese Rivals, U.S. Biotech Adopts a New Norm: Share Nothing",
+            "link": "https://www.nytimes.com/2026/11/17/science/fearing-chinese-rivals-us-biotech-adopts-a-new-norm-share-nothing.html",
+            "resumen": "Concerns that well-funded Chinese companies will swoop in to grab new ideas for their own drug development are shaping an industry unaccustomed to such secrecy.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Gas starts flowing from Jackdaw after government green light",
-            "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
-            "resumen": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
+            "titulo": "More than £160m needed to clean up one of Europe's largest illegal dumps",
+            "link": "https://www.bbc.co.uk/news/articles/cr5y18lg31nxo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Environment Minister Andrew Muir has described what happened at Mobuoy, near Derry, as an \"absolute scandal\" which could take a generation to fix.",
             "fuente": "BBC"
           },
           {
-            "titulo": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
-            "link": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
-            "resumen": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusable SpaceX’s megarocket Starship returned to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the…",
+            "titulo": "Nasa’s Voyager 1 probe in sight of an incredible milestone – podcast",
+            "link": "https://www.theguardian.com/science/audio/2026/nov/17/nasa-voyager-1-probe-incredible-milestone-podcast",
+            "resumen": "Nasa sent the Voyager 1 and 2 probes into space almost 50 years ago to explore the outer reaches of our solar system. Now Voyager 1, the farthest human-made object from Earth, is about to reach a distance of one light-day away from our…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "How Frank can restore reputation and save Crystal Palace",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmge3y2qjlyro?at_medium=RSS&at_campaign=rss",
-            "resumen": "Will Thomas Frank - now confirmed as the new manager of Crystal Palace - rebuild his reputation at Selhurst Park after a bruising time at Tottenham?",
+            "titulo": "Rooney says he considered taking his own life at Man Utd",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
             "fuente": "BBC"
           },
           {
-            "titulo": "Brock Purdy was once dismissed as a system guy. Now he is THE guy",
-            "link": "https://www.theguardian.com/sport/2026/nov/16/brock-purdy-san-francisco-49ers-nfl",
-            "resumen": "The San Francisco 49ers quarterback was long seen as the beneficiary of the tools at his disposal. This season, he’s setting fire to that narrative The Dallas Cowboys entered this week having given up the second-most points in the NFC,…",
+            "titulo": "Tiger Woods to make golf return after two years at Hero World Challenge",
+            "link": "https://www.theguardian.com/sport/2026/nov/17/tiger-woods-return-hero-world-challenge-golf",
+            "resumen": "Former world No 1 last competed at the Open in 2024 Woods was arrested on DUI charge earlier this year Tiger Woods will make ⁠his long-awaited return to competitive golf at the Hero World Challenge next month at the unofficial event he…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Robertson eclipses Dalglish to become Scotland's most capped man",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cjp3v5r9enp1o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Andy Robertson has taken over from Kenny Dalglish as Scotland's most-capped player, making his 103rd appearance in Monday's Nations League game against Switzerland.",
+            "titulo": "South Africa head coach Erasmus banned for six matches",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cj752w5q7z90o?at_medium=RSS&at_campaign=rss",
+            "resumen": "South Africa head coach Rassie Erasmus has been banned for six matches by World Rugby over comments he made about match officials.",
             "fuente": "BBC"
           },
           {
-            "titulo": "United States v Canada: women’s ice hockey world championship 2026 final – live",
-            "link": "https://www.theguardian.com/sport/live/2026/nov/16/usa-canada-womens-ice-hockey-world-championship-final-live",
-            "resumen": "USA face Canada for women’s ice hockey world title Rivals have combined to win all 24 previous editions Reach out to Bryan on Bluesky or by email USA 0-0 Canada, 16.16, 1st period Canada have their first good look at goal as Jessie…",
+            "titulo": "Hamilton says Ravens ‘disgracing’ their standards after loss to lowly Chargers",
+            "link": "https://www.theguardian.com/sport/2026/nov/16/los-angeles-chargers-beat-reeling-baltimore-ravens-to-get-first-win-of-season",
+            "resumen": "Los Angeles Chargers 23-20 Baltimore Ravens Chargers had lost 11 games in a row back to last season Baltimore have now lost five games in a row Justin Herbert and Omarion Hampton ran for first-half touchdowns, and the Los Angeles Chargers…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Has Trafford replaced Pickford as England No 1?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmvg2r752ykzo?at_medium=RSS&at_campaign=rss",
-            "resumen": "James Trafford was given a chance to stake his claim as England's new number one - and away to the world champions, he absolutely took it.",
+            "titulo": "FA wants to host Nations League finals in England",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c5742x4xldmpo?at_medium=RSS&at_campaign=rss",
+            "resumen": "England could host the Nations League finals this season after Football Association officials register their interest.",
             "fuente": "BBC"
           }
         ]
