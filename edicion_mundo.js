@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "18 de noviembre de 2026",
-    "generada": "18:29",
+    "fecha": "19 de noviembre de 2026",
+    "generada": "18:43",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Por qué la histórica cumbre entre Trump, Putin y Xi preocupa a Europa (y qué puede significar para el resto del mundo)",
-            "link": "https://www.bbc.com/mundo/articles/cmwy98z3727vo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Los preparativos para la primera reunión trilateral de los líderes de China, Rusia y Estados Unidos han generado alarma en Europa, donde algunos ven paralelismos con la división del mundo en esferas de influencia tras la Segunda Guerra…",
+            "titulo": "\"Se están quedando encerradas en sus casas sin un futuro\": el drama de las personas con discapacidad afectadas por las políticas de Milei en Argentina",
+            "link": "https://www.bbc.com/mundo/articles/c617k978p47ro?at_medium=RSS&at_campaign=rss",
+            "resumen": "Familiares de personas con discapacidad han denunciado que la red de cuidados —que incluye terapeutas, hogares y transportistas— ha colapsado. Ahora una ley intenta cambiarlo.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Xi y Putin reafirman su alianza estratégica antes de su reunión a tres bandas con Trump",
-            "link": "https://elpais.com/internacional/2026-11-18/xi-jinping-y-putin-reivindican-su-firme-relacion-poco-antes-de-la-llegada-de-trump-a-la-cumbre-de-la-apec-en-china.html",
-            "resumen": "El líder chino inaugura el foro de cooperación Asia-Pacífico en Shenzhen con una defensa del libre comercio y una advertencia contra el “unilateralismo y el proteccionismo”. Su homólogo ruso critica el “declive humillante” de Europa",
+            "titulo": "El máximo tribunal de la ONU concluye que Myanmar cometió genocidio contra los rohinyás",
+            "link": "https://elpais.com/internacional/2026-11-19/el-tribunal-internacional-de-justicia-concluye-que-el-ejercito-de-myanmar-mato-a-miles-de-rohinyas-y-cometio-actos-de-violencia-extrema-contra-ellos.html",
+            "resumen": "Esta es la primera vez en su historia que el Tribunal Internacional de Justicia considera a un Estado responsable de ese gravísimo delito. La decisión puede repercutir en el caso iniciado por Sudáfrica contra Israel",
             "fuente": "El País"
           },
           {
-            "titulo": "¿Por qué el primer avistaje en 30 años de indígenas awá en Brasil aviva los temores por la Amazonía?",
-            "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261118-por-qu%C3%A9-el-primer-avistaje-en-30-a%C3%B1os-de-ind%C3%ADgenas-aw%C3%A1-en-brasil-aviva-los-temores-por-la-amazon%C3%ADa",
-            "resumen": "Una veintena de indígenas de la etnia awá-guajá, que viven en aislamiento voluntario en la Amazonía brasileña, se aproximaron a una comunidad vecina del pueblo guajajara para pedir alimentos, algunos en delgadez extrema. La situación…",
+            "titulo": "Directo Latam y el supuesto rechazo de De la Espriella a la cooperación militar con Estados Unidos",
+            "link": "https://www.france24.com/es/video/20261119-directo-latam-y-el-supuesto-rechazo-de-de-la-espriella-a-la-cooperaci%C3%B3n-militar-con-estados-unidos",
+            "resumen": "Tras la visita del secretario de Defensa de Estados Unidos a Colombia, se desató una polémica por una publicación de 'The New York Times' en la que se alude a un supuesto rechazo del presidente de Colombia, Abelardo de la Espriella, a un…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Investigué el asesinato de mi padre y desafío la versión oficial de un episodio clave de la historia de Perú",
-            "link": "https://www.bbc.com/mundo/articles/cmwyz0wj4xjeo?at_medium=RSS&at_campaign=rss",
-            "resumen": "La matanza de varios periodistas en Uchuraccay es uno de los episodios más recordados de un pasado doloroso y de nuevo en discusión.",
+            "titulo": "China, Rusia y EE.UU. \"deben dar ejemplo\" y \"mantener la paz\": lo que Trump, Putin y Xi dijeron en su histórica cumbre",
+            "link": "https://www.bbc.com/mundo/articles/cw1md5mzjj4vo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Donald Trump, Xi Jinping y Vladimir Putin celebraron en Shenzhen la primera reunión trilateral entre EE.UU., China y Rusia.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Rusia pasa a una nueva fase en su ofensiva en Europa: sabotajes a los fabricantes de armas",
-            "link": "https://elpais.com/internacional/2026-11-18/rusia-pasa-a-una-nueva-fase-en-su-ofensiva-en-europa-sabotajes-a-los-fabricantes-de-armas.html",
-            "resumen": "El número de ataques de baja intensidad contra productores de armamento con ventas en Ucrania, como el del sábado en Estonia, se ha multiplicado desde el verano. El Kremlin utiliza a agentes ocasionales o inmigrantes simpatizantes",
+            "titulo": "Xi, Trump y Putin, tras la cumbre de Shenzhen: “Una guerra nuclear no se puede ganar y nunca debe librarse”",
+            "link": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
+            "resumen": "Los líderes de las tres mayores potencias se comprometen a reformar la ONU y a garantizar los flujos energéticos. El republicano se refiere al mandatario ruso como “amigo”",
             "fuente": "El País"
           }
         ]
@@ -43,9 +43,9 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "El Gobierno entierra el registro horario pese a las promesas de aprobarlo antes de las elecciones",
-            "link": "https://elpais.com/economia/2026-11-18/el-gobierno-entierra-el-registro-horario-pese-a-las-promesas-de-aprobarlo-antes-de-las-elecciones.html",
-            "resumen": "La Moncloa admite que no está previsto y Yolanda Díaz critica con dureza al PSOE por incluir esta política en su programa en lugar de aprobarla en el Consejo de Ministros",
+            "titulo": "Menos consumo, trabas laborales y más desigualdad: la crisis de la vivienda amenaza con enfriar el auge económico español",
+            "link": "https://elpais.com/economia/2026-11-19/menos-consumo-trabas-laborales-y-mas-desigualdad-la-crisis-de-la-vivienda-amenaza-con-enfriar-el-auge-economico-espanol.html",
+            "resumen": "Analistas e informes alertan de que el desequilibrio del mercado inmobiliario es insostenible a largo plazo, como acaba de advertir la Comisión Europea",
             "fuente": "El País"
           },
           {
@@ -55,9 +55,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "Los sindicatos UGT, CC OO y el ferroviario SCF firman la paz con Transportes en favor de reforzar la seguridad en las vías",
-            "link": "https://elpais.com/economia/2026-11-18/los-sindicatos-ugt-cc-oo-y-el-ferroviario-scf-firman-la-paz-con-transportes-en-favor-de-reforzar-la-seguridad-en-las-vias.html",
-            "resumen": "Semaf, que ha convocado huelga de maquinistas el lunes, no se suma al acuerdo. Adif se compromete poner más personal propio en el mantenimiento y revisar el gasto",
+            "titulo": "La luz de los gurús económicos se apaga en la política",
+            "link": "https://elpais.com/economia/2026-11-19/la-luz-de-los-gurus-economicos-se-apaga-en-la-politica.html",
+            "resumen": "Los programas electorales se cocinan cada vez más en el seno interno de los partidos, con los impuestos como principal campo de batalla",
             "fuente": "El País"
           },
           {
@@ -67,9 +67,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "Pensiones: la derecha evita hablar de sus dudas sobre el sistema y la izquierda promete reforzarlo pese a la tensión de las cuentas",
-            "link": "https://elpais.com/economia/2026-11-18/pensiones-la-derecha-evita-hablar-de-sus-dudas-sobre-el-sistema-y-la-izquierda-promete-reforzarlo-pese-a-la-tension-de-las-cuentas.html",
-            "resumen": "Los programas de PP, PSOE y Frente Amplio garantizan la revalorización de las prestaciones con la evolución de los precios. El de Vox no la menciona",
+            "titulo": "Agnès Bénassy-Quéré: “El temor a una fuga de depósitos por el euro digital está fuera de lugar”",
+            "link": "https://elpais.com/economia/2026-11-19/agnes-benassy-quere-el-temor-a-una-fuga-de-depositos-por-el-euro-digital-esta-fuera-de-lugar.html",
+            "resumen": "La subgobernadora del Banco de Francia aboga por la adaptación de los bancos centrales a la tecnología descentralizada y el carácter estratégico de un euro con peso en el mundo",
             "fuente": "El País"
           }
         ]
@@ -78,33 +78,33 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "La humanidad cruza una nueva frontera: la ‘Voyager 1’ ya está a un día luz de la Tierra",
-            "link": "https://elpais.com/ciencia/2026-11-18/la-voyager-1-ya-esta-a-un-dia-luz-asi-se-mantiene-vivo-el-contacto-interestelar-de-la-humanidad.html",
-            "resumen": "La sonda de la NASA supera este mediodía un hito nunca logrado por una nave humana. El desfase de más de 24 horas en las comunicaciones complica mantener el seguimiento tras 49 años de misión",
+            "titulo": "Más allá de un día luz: España capta el primer saludo de la ‘Voyager 1’ desde el otro lado de la frontera interestelar",
+            "link": "https://elpais.com/ciencia/2026-11-19/mas-alla-de-un-dia-luz-espana-capta-el-primer-saludo-de-la-voyager-1-desde-el-otro-lado-de-la-frontera-interestelar.html",
+            "resumen": "La antena de 70 metros de Robledo de Chavela (Madrid) ha recibido este jueves una señal que la sonda de la NASA emitió 24 horas antes, a más de 25.902 millones de kilómetros de distancia",
             "fuente": "El País"
           },
           {
-            "titulo": "TikTok moviliza y Facebook polariza hacia la extrema derecha: así describen las redes nuestro voto",
-            "link": "https://elpais.com/tecnologia/2026-11-18/tiktok-moviliza-y-facebook-polariza-hacia-la-extrema-derecha-asi-describen-las-redes-nuestro-voto.html",
-            "resumen": "Una nueva investigación con datos inéditos de una operadora francesa confirma que las plataformas inciden en el voto y permite observar cómo algunas plataformas etiquetan políticamente a sus usuarios",
+            "titulo": "Facebook, la herramienta clave del genocidio contra los rohinyás: “Una cuenta militar los deshumanizaba”",
+            "link": "https://elpais.com/tecnologia/2026-11-19/facebook-la-herramienta-clave-del-genocidio-contra-los-rohinyas-una-cuenta-militar-los-deshumanizaba.html",
+            "resumen": "La sentencia del Tribunal Internacional de Justicia de la ONU identifica a la red social como un mecanismo usado por el ejército para difundir mensajes de odio que propiciaron la limpieza étnica",
             "fuente": "El País"
           },
           {
-            "titulo": "De Rubens al siglo XX: trescientos años de pintura revelan cómo el retrato de la silueta femenina fue perdiendo sus curvas",
-            "link": "https://elpais.com/salud-y-bienestar/2026-11-18/de-rubens-al-siglo-xx-tres-siglos-de-pintura-revelan-como-el-retrato-de-la-silueta-femenina-fue-perdiendo-sus-curvas.html",
-            "resumen": "Los retratos de 600 mujeres de las élites muestran cómo la representación del cuerpo de la mujer europea ha ido menguando y alejando visualmente de su función reproductora",
+            "titulo": "Lombrices, hongos y orina para cultivar patatas en la mala tierra de la Luna",
+            "link": "https://elpais.com/ciencia/2026-11-19/lombrices-hongos-y-orina-para-cultivar-patatas-en-la-mala-tierra-de-la-luna.html",
+            "resumen": "Distintos experimentos están sembrando vegetales en sustratos similares a los del satélite de cara a su colonización",
             "fuente": "El País"
           },
           {
-            "titulo": "Los grandes centros de datos de EE UU ya consumen tanta energía como todo Chile",
-            "link": "https://elpais.com/tecnologia/2026-11-16/los-grandes-centros-de-datos-de-ee-uu-ya-consumen-tanta-energia-como-todo-chile.html",
-            "resumen": "Un estudio publicado en Nature estima que estas infraestructuras acaparan el 1,8% de la electricidad del país y que las emisiones de carbono se han triplicado desde 2018",
+            "titulo": "Las dos oleadas de nerviosismo global por el lanzamiento de GTA VI: así se sufrieron las caídas más importantes de la PlayStation Network",
+            "link": "https://elpais.com/tecnologia/2026-11-19/las-dos-oleadas-de-nerviosismo-global-por-el-lanzamiento-de-gta-vi-asi-se-sufrieron-las-caidas-mas-importantes-de-la-playstation-network.html",
+            "resumen": "El número más alto de problemas se reporta poco antes del estreno en India y el segundo pico coincide aproximadamente con el lanzamiento en EE UU, pero no coincidiendo con las medianoches, hora del estreno",
             "fuente": "El País"
           },
           {
-            "titulo": "Menos antibióticos, pero más superbacterias: la paradoja mortal que golpea especialmente a España",
-            "link": "https://elpais.com/salud-y-bienestar/2026-11-18/menos-antibioticos-pero-mas-superbacterias-la-paradoja-mortal-que-golpea-especialmente-a-espana.html",
-            "resumen": "Un informe europeo avisa de aumentos superiores al 70% en las infecciones con ‘Klebsiella pneumoniae’ y ‘E.coli’",
+            "titulo": "Una huella común para 42 tumores: el mayor atlas del cáncer deja al descubierto a sus células cómplices",
+            "link": "https://elpais.com/ciencia/2026-11-18/una-huella-comun-para-42-tumores-el-mayor-atlas-del-cancer-deja-al-descubierto-a-sus-celulas-complices.html",
+            "resumen": "Un estudio cartografía el entorno en el que crecen los tumores y plantea la posibilidad de crear terapias comunes a muchos de ellos",
             "fuente": "El País"
           }
         ]
@@ -113,33 +113,33 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "Detenido un exentrenador nipón por presunto abuso sexual a nadadoras menores de 10 años",
-            "link": "https://www.marca.com/natacion/2026/11/11/detenido-exentrenador-nipon-presunto-abuso-sexual-nadadoras-menores-10-anos.html",
-            "resumen": "Las denuncias le acusan de tocamientos inapropiados durante las clases de natación en una escuela de la ciudad de&nbsp;Makinohara",
+            "titulo": "Valverde redondea con un buen tanto la 'Manita' de la Uruguay de Forlán",
+            "link": "https://www.marca.com/futbol/cronica/2026/11/18/valverde-redondea-buen-tanto-manita-uruguay-forlan.html",
+            "resumen": "La Celeste venció ante la República Dominicana... y reservando a Fede",
             "fuente": "Marca"
           },
           {
-            "titulo": "Liquidación total con alerta médica de Alcaraz en las ATP Finals de Turín",
-            "link": "https://www.mundodeportivo.com/tenis/20261118/1004252627/liquidacion-total-alerta-medica-alcaraz-atp-finals-turin.html",
-            "resumen": "Las cuentas de la ATP, que rige el circuito profesional masculino, también las Finals de Turín 2026, no son fieles a la actuación de Carlos Alcaraz en sus dos primeros partidos dentro del Grupo Ivan Lendl. Apabulló al estadounidense…",
+            "titulo": "14-18: Segunda fase de la Champions: Kielce - Barça, en directo",
+            "link": "https://www.mundodeportivo.com/balonmano/20261119/1004253050/kielce-barca-directo-ehf-champions-balonmano-segunda-fase.html",
+            "resumen": "",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "El 'nuevo Diomande': \"Nuestra forma de jugar se parece bastante\"",
-            "link": "https://www.marca.com/futbol/bundesliga/2026/11/11/nusa-viste-diomande-nuestra-forma-jugar-parece.html",
-            "resumen": "El extremo lidera al RB Leipzig tras la salida del madridista con seis goles y ocho asistencias",
+            "titulo": "Show de Julián, Nico Paz y Mastantuono, en la paliza de Argentina",
+            "link": "https://www.marca.com/futbol/cronica/2026/11/18/show-julian-nico-paz-sendos-dobletes-paliza-argentina.html",
+            "resumen": "Alexis Mac Allister redondeó el 7-0 en el amistoso ante Costa Rica&nbsp;",
             "fuente": "Marca"
           },
           {
-            "titulo": "Alcaraz ata el podio y el asalto al nº 1 del ranking mundial",
-            "link": "https://www.mundodeportivo.com/tenis/20261118/1004252579/alcaraz-ata-podio-ranking-mundial-ganar-medvedev-atp-finals-asi-queda-clasificacion-atp.html",
-            "resumen": "Carlos Alcaraz ha sumado 2.850 puntos en los seis torneos que ha afrontado después de la lesión de muñeca. Reapareció llegando a cuartos en el US Open (400), ante Ben Shelton, revalidó título en Tokio (500), patinó en Shanghai (50) ante…",
+            "titulo": "Carambola final de Jódar en Turín: Alcaraz evita a Zverev en semifinales",
+            "link": "https://www.mundodeportivo.com/tenis/20261119/1004253018/carambola-final-jodar-turin-alcaraz-evita-zverev-semifinales.html",
+            "resumen": "Rafa Jódar, 20 años y nº 10 mundial, cerró su primera experiencia en las ATP Finals de Turín. Tres partidos disputados, todos sellados con derrota, arañando un único set. El cierre fue amargo, porque como en otras situaciones acarició un…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "España quiere aprovecharse del ciclón Fermín",
-            "link": "https://www.marca.com/futbol/seleccion/2026/11/11/espana-quiere-aprovecharse-ciclon-fermin.html",
-            "resumen": "Bigoleador en el Metropolitano, ocho dianas en lo que va de temporada y a la caza de estrenarse con España",
+            "titulo": "Así vienen las portadas",
+            "link": "https://www.marca.com/futbol/album/2026/11/18/portadas-dia.html",
+            "resumen": "Louzan asegura que la final del Mundial 2030 se jugará en España.&nbsp;Así vienen las portadas de este miércoles 18 de noviembre.",
             "fuente": "Marca"
           }
         ]
@@ -147,41 +147,41 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "November 18, 2026",
-    "generada": "18:29",
+    "fecha": "November 19, 2026",
+    "generada": "18:43",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-            "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+            "titulo": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+            "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
-            "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
-            "resumen": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in Gaza Fears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize…",
+            "titulo": "Race to replant five South African baobabs after export blocked",
+            "link": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
+            "resumen": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permits Environmentalists in South Africa are racing to replant five centuries-old baobabs after the 20-tonne trees were dug up by an…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Voters Are Punishing Autocrats. But Many Still Embrace Them. Why?",
-            "link": "https://www.nytimes.com/2026/11/18/world/europe/autocrats-psychology-support.html",
-            "resumen": "An emerging field of psychology suggests that it’s probably not what you think — and that there might be reason for optimism.",
+            "titulo": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+            "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+            "resumen": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "One in four women globally unable to refuse sex within marriage, says UN",
+            "link": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
+            "resumen": "Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds One in four women around the world have no power of consent if their husband or partner demands sex, according to a UN report.…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
+            "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
+            "resumen": "The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire.",
             "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-            "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "European Commission accused of sugarcoating figures to release funds to Egypt",
-            "link": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
-            "resumen": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loans The European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landmark pact with the…",
-            "fuente": "The Guardian"
           }
         ]
       },
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
-            "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
+            "titulo": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+            "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
             "fuente": "BBC"
           },
           {
-            "titulo": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
-            "link": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
-            "resumen": "US secretary of state’s comments come as vulnerability in programming language Java highlighted There is “zero evidence” that a wave of IT outages – which have grounded flights, cut off work access, limited bank access, affected Apple and…",
+            "titulo": "Anthropic valued at $2tn as shares begin trading at $111.50 each – business live",
+            "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+            "resumen": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic to begin public trading at $1.5tn valuation after largest ever IPO Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.",
-            "link": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
-            "resumen": "Google’s refusal to unbundle A.I. features from search for students prompted a backlash. Now schools are looking for alternatives.",
+            "titulo": "Holiday Shoppers Seek Affordability at Walmart, Target and Other Retailers",
+            "link": "https://www.nytimes.com/2026/11/19/business/target-walmart-retail-affordability-holiday.html",
+            "resumen": "Walmart and Target are among the retailers that say shoppers are trying to save money amid broader concerns about the U.S. economy. And sales are up.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
-            "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
+            "titulo": "The seven Anthropic founders who are about to become multi-billionaires",
+            "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
-            "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
-            "resumen": "Company issues first earnings report after ouster of CEO over allegations of affair with suspected Chinese spy Nvidia “does not intend to reinstate Jensen as CEO”, the chairman of the company’s board said Tuesday. Harvey Jones made the…",
+            "titulo": "Labor leaders call on governments to stop awarding Amazon public contracts",
+            "link": "https://www.theguardian.com/global-development/2026/nov/19/labor-unions-amazon-contracts-open-letter",
+            "resumen": "Union leaders from 19 countries urge reassessment of ties to Amazon, citing company’s poor record on worker rights More than 30 labor union leaders from 19 countries are calling on governments to review their public contracts with Amazon…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "The seven Anthropic founders who are about to become multi-billionaires",
-            "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+            "titulo": "Wading bird called Phil tracked in epic migration to Siberia and back",
+            "link": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss",
+            "resumen": "A bird has astonished conservationists by completing a 6,800-mile round trip to Siberia and back.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Nasa’s Voyager 1 just reached a massive milestone in space - video",
-            "link": "https://www.theguardian.com/science/video/2026/nov/18/nasas-voyager-1-just-reached-a-massive-milestone-in-space-video",
-            "resumen": "Nasa sent the Voyager 1 and 2 probes into space almost 50 years ago to explore the outer reaches of our solar system. Now Voyager 1, the farthest human-made object from Earth, is about to reach a distance of one light-day away from our…",
+            "titulo": "IPCC report delay will threaten global effort to tackle climate crisis, says top scientist",
+            "link": "https://www.theguardian.com/science/2026/nov/19/ipcc-report-delay-climate-crisis-scientist",
+            "resumen": "Johan Rockström, one of world’s leading climate experts, says slowing down scientific work puts cooperation at risk Climate science is “foundational” to the Paris agreement and worldwide progress on tackling global heating, and attempts…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "After 49 Years, Voyager 1 Is a Mind-Blowing One Light-Day From Earth",
-            "link": "https://www.nytimes.com/2026/11/18/science/nasa-voyager-1-earth-light-day.html",
-            "resumen": "Launched in 1977, the hardy spacecraft is still sending messages back home from a staggering distance in interstellar space.",
+            "titulo": "A.I. Has Changed How We Talk. Here Are the Words You Need to Know.",
+            "link": "https://www.nytimes.com/2026/11/18/science/ai-artificial-intelligence-terminology-glossary.html",
+            "resumen": "A Glossary of AI Terms You Should Know",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Stormont department failing to protect wild birds, investigation finds",
-            "link": "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The Office for Environmental Protection said Daera had not complied with environmental law requiring it to classify and update Special Protection Areas.",
+            "titulo": "Survivors of Uganda's deadly landslide seek justice at the UN",
+            "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
             "fuente": "BBC"
           },
           {
-            "titulo": "After 49 years, Nasa’s Voyager 1 is one light-day away from us. Can we save this ‘pale blue dot’? |",
-            "link": "https://www.theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot",
-            "resumen": "Since the spacecraft’s 1977 launch, our wonderful and terrible species has done great damage to our planet. Voyager has offered us a clear view of ourselves Imagine traveling nonstop for 49 years, alone in the dark with no destination in…",
+            "titulo": "Could measles and midterms bring down Maha? – podcast",
+            "link": "https://www.theguardian.com/science/audio/2026/nov/19/could-measles-and-midterms-bring-down-maha-podcast",
+            "resumen": "This week the US lost its measles elimination status, an official recognition that the infectious disease is endemic in the country after being eliminated for 26 years. To find out what this means in practical terms for citizens, Ian…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "The sandpaper plot - who was there, who said what?",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cqwy41w3zydgo?at_medium=RSS&at_campaign=rss",
-            "resumen": "As Cameron Bancroft's explosive allegations raise more questions about the sandpaper scandal, BBC Sport looks at who was there and what they have said since.",
+            "titulo": "Culture, defence, Fernandes - Pochettino's priorities at Man Utd",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cxlylzyg38l8o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Culture, defence and Bruno Fernandes - the key issues facing Mauricio Pochettino as he takes over as Manchester United boss.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Mauricio Pochettino’s USMNT time will be remembered fondly, but it wasn’t transformational",
-            "link": "https://www.theguardian.com/football/2026/nov/18/pochettino-usmnt-manchester-united",
-            "resumen": "The incoming Manchester United manager improved the US team’s culture and competitiveness, but could not bring about sea change in two years In a theater high up in a midtown Manhattan skyscraper built from lots of glass, a highlight reel…",
+            "titulo": "From training clips to thirst traps: why athletes are turning to OnlyFans",
+            "link": "https://www.theguardian.com/sport/2026/nov/19/athletes-onlyfans-earnings",
+            "resumen": "A professional sports career does not guarantee wealth. And a growing number of athletes are turning to alternative streams of income “I’m sick and tired of it.” Bart Swings tossed his jacket behind him. It was August 2025, the Winter…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "The tightest survival scrap for years? Why it's not too early to worry",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cj3vgp36z063o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The Premier League resumes on Saturday with Crystal Palace, Sunderland and Man Utd in the relegation zone. But is it too early to be worried?",
+            "titulo": "Cummins' Australia captaincy at a crossroads - Agnew",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c94gnev3kj4vo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Jonathan Agnew says he struggles to see how Pat Cummins can lead Australia into next summer's Ashes series in England following latest developments in the sandpapergate scandal.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports",
-            "link": "https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights",
-            "resumen": "The battle for the US TV rights to the tournament will pit the traditional broadcaster and the ‘whatever-it-takes’ streamer. It could be a tipping point in the industry The awarding of broadcast rights in the United States for this year’s…",
+            "titulo": "Ravens deactivate Marlon Humphrey after cornerback says Baltimore excels at ‘making criminals’",
+            "link": "https://www.theguardian.com/sport/2026/nov/19/marlon-humphrey-criminals-comment-baltimore-ravens",
+            "resumen": "Veteran cornerback out of game at Carolina on Sunday City’s mayor says subsequent apology is not enough Teammate admits Humphrey can be ‘abrasive’ Ravens cornerback Marlon Humphrey has been deactivated for Sunday’s game at Carolina for…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Divide and conquer - now maverick Erasmus plans online watchalong",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmvg28v20xy0o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Rassie Erasmus is a serial offender when it comes to criticising officials, but he retains huge support in South Africa - and has unique plans for following his team's game against Ireland.",
+            "titulo": "Premier League clubs to cover legal costs if Man City sponsors sue",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Premier League clubs vote to provide legal cover to the organisation's five board directors in the event Manchester City's sponsors sue them.",
             "fuente": "BBC"
           }
         ]

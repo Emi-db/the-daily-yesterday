@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "18 de noviembre de 2026",
-  "generada": "18:29",
+  "fecha": "19 de noviembre de 2026",
+  "generada": "18:43",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Revés judicial para la hija de Ricardo Jaime: la Justicia cordobesa rechazó su demanda salarial contra la ANAC",
-          "link": "https://www.clarin.com/politica/reves-judicial-hija-ricardo-jaime-justicia-cordobesa-rechazo-demanda-salarial-anac_0_8MKo7KCgTD.html",
-          "resumen": "La empleada estatal pretendía cobrar más de 6,2 millones de pesos retenidos durante los tres años en los que estuvo apartada de sus funciones. El juez federal Miguel Hugo Vaca Narvaja desestimó el pedido al considerar que no fue absuelta…",
+          "titulo": "“¿Quién le puede decir que no?”: una senadora libertaria se anotó en la carrera para ir de vice de Javier Milei en 2027",
+          "link": "https://www.clarin.com/politica/puede-decir-senadora-libertaria-anoto-carrera-ir-vice-javier-milei-2027_0_oMMd93c7Wk.html",
+          "resumen": "La neuquina Nadia Márquez no descartó la posibilidad de acompañar al Presidente en la boleta el año que viene. También suena su nombre para el Consejo de la Magistratura y como candidata a gobernadora de Neuquén.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: “Voy a ser reelecto: no tengan dudas de que vamos a ganar en primera”, dijo el Presidente",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-cito-a-pablo-picasso-y-dijo-me-voy-a-encargar-de-lo-nid18112026/",
-          "resumen": "El minuto a minuto de las decisiones del jefe de Estado, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "titulo": "Un diputado nacional se va del bloque de La Libertad Avanza y denuncia un pacto con el PJ en su provincia",
+          "link": "https://www.lanacion.com.ar/politica/un-diputado-nacional-se-va-del-bloque-de-la-libertad-avanza-y-denuncia-un-pacto-con-el-pj-en-su-nid19112026/",
+          "resumen": "El tucumano Mariano Campero, de origen radical, conformará un monobloque y apuntó contra los libertarios por los acercamientos con Jaldo; es uno de los que integra el equipo de Patricia Bullrich",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Reforma Política: el oficialismo anunció la eliminación de las colectoras y el debate pasó a un cuarto intermedio en el Senado",
-          "link": "https://www.infobae.com/politica/2026/11/18/congreso-en-vivo-el-debate-sobre-la-suspension-de-las-paso-en-la-comision-de-asuntos-constitucionales/",
-          "resumen": "Se trata de uno de los puntos que había generado cuestionamientos durante el tratamiento en la Comisión de Asuntos Constitucionales. El Gobierno espera suspender las PASO la semana que viene en el recinto",
+          "titulo": "El Senado comenzó a tratar la ley de discapacidad y se espera un extenso debate",
+          "link": "https://www.infobae.com/politica/2026/11/19/senado-en-vivo-las-ultimas-noticias-del-debate-sobre-los-proyectos-de-discapacidad-propiedad-privada-y-patentes/",
+          "resumen": "La cámara alta discutirá a lo largo la jornada la norma que llega con media sanción de Diputados. Hay 28 legisladores inscriptos para expresarse sobre el tema",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Se postergó el peritaje que buscaba saber la cantidad de dólares que había en el vestidor de Insaurralde",
-          "link": "https://www.clarin.com/politica/postergo-peritaje-buscaba-saber-cantidad-dolares-vestidor-insaurralde_0_tM0L67Izai.html",
-          "resumen": "Iba a comenzar el 22 de octubre y seis días antes el juez de la causa lo suspendió a pedido del ex intendente de Lomas de Zamora. Es porque está pendiente un planteo en el que el ex funcionario pide que no se usen como prueba. Se abrió…",
+          "titulo": "Mientras acelera la designación de jueces, Mahiques viajó a EE.UU. y se reunió con un alto funcionario del Departamento de Justicia",
+          "link": "https://www.clarin.com/politica/acelera-designacion-jueces-mahiques-viajo-eeuu-reunio-alto-funcionario-departamento-justicia_0_hQcpqzokkm.html",
+          "resumen": "El ministro de Justicia mantuvo un encuentro en Washington con Andrew Tysen Duva, responsable de la División Criminal. Hablaron sobre la cobertura de vacantes, la implementación del sistema acusatorio y la cooperación en investigaciones…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Un aliado de Baradel selló una alianza electoral con Sobisch, que era gobernador de Neuquén cuando asesinaron al docente Fuentealba",
-          "link": "https://www.lanacion.com.ar/politica/un-aliado-de-baradel-sello-una-alianza-electoral-con-sobisch-que-era-gobernador-de-neuquen-cuando-nid18112026/",
-          "resumen": "Quintriqueo, que ganó las elecciones provinciales de la CTA con la lista del exjefe del Suteba, presentó un acuerdo que propone como candidato al exmandatario; los sindicatos de maestros y judiciales le exigen la dimisión a la central…",
+          "titulo": "El Senado se encamina a sancionar una nueva ley de discapacidad pese a las resistencias del Gobierno",
+          "link": "https://www.lanacion.com.ar/politica/el-senado-se-encamina-a-sancionar-una-nueva-ley-de-discapacidad-pese-a-las-resistencias-del-gobierno-nid19112026/",
+          "resumen": "También se discute una serie de proyectos que incluyen la adhesión al tratado internacional de patentes y la reforma del régimen de propiedad privada; se acordó que la semana que viene abordará la iniciativa sobre ludopatía y la prórroga…",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "¿Vuelve la brecha cambiaria? La diferencia entre el dólar oficial y el financiero está en su máximo en un año",
-          "link": "https://www.clarin.com/economia/vuelve-brecha-cambiaria-diferencia-dolar-oficial-financiero-maximo-ano_0_5FEk4nr6ee.html",
-          "resumen": "Hay 10% de diferencia entre el tipo de cambio mayorista y el contado de liquidación. El CCL es el dólar que se usa en el mercado para comprar divisas y llevarlas a cuentas en el exterior. El riesgo país sube levemente hasta 857 puntos.",
+          "titulo": "Reforma laboral: la Justicia declaró ilegal el pago de una indemnización en cuotas",
+          "link": "https://www.clarin.com/economia/reforma-laboral-justicia-declaro-ilegal-pago-indemnizacion-cuotas_0_f91DtyL4y2.html",
+          "resumen": "Un fallo de Cámara sostuvo que el pago fraccionado es algo excepcional y solo se puede dar en caso de sentencias judiciales, no de un despido sin causa.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Lanzamiento del Grand Theft Auto VI (GTA 6), EN VIVO: primera crítica, a qué hora se puede jugar y todas las novedades",
-          "link": "https://www.lanacion.com.ar/tecnologia/lanzamiento-de-gta-6-en-vivo-primera-critica-a-que-hora-se-puede-jugar-y-todas-las-novedades-de-las-nid18112026/",
-          "resumen": "Todo lo que necesitás saber sobre el juego del año",
+          "titulo": "Costantini cuestionó la falta de inversión estatal en arte y propuso renovar el Bellas Artes con un edificio de US$200 millones",
+          "link": "https://www.lanacion.com.ar/economia/costantini-cuestiono-la-falta-de-inversion-estatal-en-arte-y-propuso-renovar-el-bellas-artes-con-un-nid19112026/",
+          "resumen": "El fundador del Malba criticó la debilidad presupuestaria en cultura frente al mercado regional; contó que la ampliación incorporará a la colección Daros y donaciones privadas que llevarán la colección a 3000 piezas",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La deuda del Tesoro se encamina a alcanzar los u$s500.000 millones por la deuda CER y la capitalización de intereses",
-          "link": "https://www.ambito.com/economia/la-deuda-del-tesoro-se-encamina-alcanzar-los-us500000-millones-la-deuda-cer-y-la-capitalizacion-intereses-n6346610",
-          "resumen": "El director de Polomix señala que en términos netos la deuda del Gobierno creció este año unos u$s34.500 millones a pesar de haber pagado unos u$s10.000 millones. Afirma que el superávit primario no alcanza para evitar el incremento del…",
+          "titulo": "Se venden 50 autos por día en las concesionarias con la nueva línea de créditos del Banco Provincia",
+          "link": "https://www.ambito.com/economia/se-venden-50-autos-dia-las-concesionarias-la-nueva-linea-creditos-del-banco-provincia-n6347171",
+          "resumen": "La línea, que se tramita en la propia concesionaria, ya financió 1.560 vehículos por $20.842 millones desde su lanzamiento, a fines de septiembre. Mar del Plata encabeza las operaciones y la modalidad UVA, con tasa desde 6% anual,…",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Efectos secundarios de la suba del riesgo país: la emisión de deuda de empresas cae a la mitad y se encarece",
-          "link": "https://www.clarin.com/economia/efectos-secundarios-suba-riesgo-pais-emision-deuda-empresas-cae-mitad-encarece_0_ISzPdlEIgb.html",
-          "resumen": "En octubre se colocaron bonos corporativos por US$ 1.078 millones, contra US$ 2.710 millones de septiembre. Qué puede pasar en 2027.",
+          "titulo": "Anthropic se prepara para hacer historia: apuestan a que la acción suba 20% en Bolsa tras la recaudación récord",
+          "link": "https://www.clarin.com/economia/anthropic-prepara-hacer-historia-apuestan-accion-suba-20-venta-record-acciones_0_MQZLGtSrzE.html",
+          "resumen": "La dueña de Claude empieza a cotizar este jueves en el Nasdaq. Ya vale US$ 1,5 billones.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Reseña del Grand Theft Auto VI (GTA 6), una obra maestra del gaming: te contamos todo lo que ofrece",
-          "link": "https://www.lanacion.com.ar/tecnologia/probamos-el-gta-6-una-obra-maestra-del-gaming-nid18112026/",
-          "resumen": "Llevamos semanas con el juego más esperado de todos los tiempos. GTA 6 llega con una historia espectacular, misiones memorables y,sobre todo, un mundo tan interactivo y perfeccionista que borra por momentos la línea entre lo real y la…",
+          "titulo": "El dólar volvió a subir hasta su valor más alto del año y el riesgo país roza los 900 puntos",
+          "link": "https://www.lanacion.com.ar/economia/el-dolar-volvio-a-subir-hasta-su-valor-mas-alto-del-ano-y-el-riesgo-pais-roza-los-900-puntos-nid19112026/",
+          "resumen": "El tipo de cambio minorista anotó su segundo avance consecutivo y operó a $1585; el indicador elaborado por JP Morgan salta casi 50 unidades",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Asiento 33 B y escala en Tijuana: Claudia Sheinbaum vuela a China en clase económica y los chinos enloquecen en las redes",
-          "link": "https://www.clarin.com/mundo/asiento-33-b-escala-tijuana-claudia-sheinbaum-vuela-china-clase-economica-chinos-enloquecen-redes_0_4k9reVKnLD.html",
-          "resumen": "Tomó unvuelo comercial de China Southern Airlines entre Ciudad de México y Shenzhen. Un hashtag sobre su llegada fue visto 10 millones de veces en la plataforma china de redes sociales Weibo.",
+          "titulo": "El Papa León XIV pidió a las organizaciones católicas \"no perder el valor\" para combatir la injusticia",
+          "link": "https://www.clarin.com/mundo/papa-leon-xiv-pidio-organizaciones-catolicas-perder-valor-combatir-injusticia_0_RnutdXUwbV.html",
+          "resumen": "En un encuentro con Cáritas y otras instituciones católicas en el Vaticano, el pontífice recordó sus años en Perú, donde vio de cerca la marginación y la pobreza. Y agradeció el trabajo pastoral de estas organizaciones.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Polémica en plena carrera por la ONU: Grossi defiende el nombramiento de un funcionario ruso sancionado por Ucrania",
-          "link": "https://www.lanacion.com.ar/el-mundo/polemica-en-plena-carrera-por-la-onu-grossi-defiende-el-nombramiento-de-un-funcionario-ruso-nid18112026/",
-          "resumen": "El canciller exigió retirar la polémica designación por sus vínculos con la ocupación de la central nuclear de Zaporiyia, a horas de una nueva votación para elegir al sucesor de Guterres",
+          "titulo": "Tras la cumbre de China, confiscaron los celulares de los periodistas que viajaban con Trump en el Air Force One",
+          "link": "https://www.lanacion.com.ar/el-mundo/tras-la-cumbre-de-china-confiscaron-los-celulares-de-los-periodistas-que-viajaban-con-trump-en-el-nid19112026/",
+          "resumen": "La medida de seguridad fue adoptada cuando el avión despegaba en Shenzhen; decisión alimentó especulaciones sobre un posible cambio de itinerario y una eventual reunión del mandatario con Kim Jong-un",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Los demócratas eligen a su candidato para presidir la Cámara de Representantes y buscan hacer historia",
-          "link": "https://www.clarin.com/mundo/democratas-eligen-candidato-presidir-camara-representantes-buscan-hacer-historia_0_GQxwc2U9mH.html",
-          "resumen": "Hakeem Jeffries se impuso y está en camino de convertirse en el primer legislador negro del país en presidir la Cámara. Neoyorquino, de 56 años, obtuvo 251 votos a favor y 11 en contra de su nominación. Ahora deberá ratificarlo el pleno.",
+          "titulo": "Detrás de la cumbre en China: la visión compartida de Xi y Putin de usurpar el poder de Estados Unidos",
+          "link": "https://www.clarin.com/new-york-times-international-weekly/detras-cumbre-china-vision-compartida-xi-putin-usurpar-poder-estados-unidos_0_fbEVXaX8ji.html",
+          "resumen": "Trump se unió a los líderes chinos y rusos en una cumbre en Shenzhen, a pesar de que ambos autócratas están intentando revertir la victoria de Estados Unidos en la Guerra Fría.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El espectacular video que compartió Bukele para celebrar el ataque contra la casa de un líder pandillero en Haití",
-          "link": "https://www.lanacion.com.ar/el-mundo/el-espectacular-video-que-compartio-bukele-para-celebrar-el-ataque-contra-la-casa-de-un-lider-nid18112026/",
-          "resumen": "El presidente salvadoreño lo publicó en su cuenta de X como parte de la operación militar de sus fuerzas en el país caribeño",
+          "titulo": "Trump le puso más que un 10 a su participación en la cumbre de Shenzhen, pero la mayoría de los analistas lo aplazaron",
+          "link": "https://www.lanacion.com.ar/el-mundo/trump-le-puso-mas-que-un-10-a-su-participacion-en-la-cumbre-de-shenzhen-pero-la-mayoria-de-los-nid19112026/",
+          "resumen": "El mandatario llegó golpeado tras la derrota electoral y salió peor parado que Xi y Putin de la reunión trilateral",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Francia al límite: agotados, los policías antidisturbios también se suman a la protesta social",
-          "link": "https://www.clarin.com/mundo/francia-limite-agotados-policias-antidisturbios-suman-protesta-social_0_h420FiFjXV.html",
-          "resumen": "Sin derecho a huelga, los policías franceses apelan a las bajas médicas para faltar y salir a la calle contra Macron. Este miércoles, marcharon al Ministerio del Interior para exigir aumento de salarios.",
+          "titulo": "La ONU denuncia que la Inteligencia Artificial es gobernada de forma \"medieval\" y advierte que podría paralizar infraestructura crítica",
+          "link": "https://www.clarin.com/mundo/onu-denuncia-inteligencia-artificial-gobernada-manera-medieval-advirtio-riesgo-paralice-infraestructura-critica_0_tX0kQvUVmH.html",
+          "resumen": "El Alto Comisionado de la ONU para los Derechos Humanos, Volker Turk, dijo que pocas empresas tienen el poder concentrado. Pidió tener \"normas comunes para regular u orientar el desarrollo de la IA\".",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Maikel García a los Mariners: Seattle adquiere al All-Star venezolano en un megacanje con los Royals",
-          "link": "https://www.clarin.com/estados-unidos/maikel-garcia-mariners-seattle-adquiere-all-star-venezolano-megacanje-royals_0_0tyH1URaIe.html",
-          "resumen": "Los Seattle Mariners han encontrado a su nuevo tercera base titular. En el primer gran cambio de la temporada baja de la MLB 2026-2027, los Mariners adquirieron al infielder All-Star y ganador del Guante de Oro, Maikel Garcia, proveniente…",
+          "titulo": "La mamá de Messi eligió al jugador que debe llevar la 10 de la Selección: \"Vos sos el sucesor de mi hijo\"",
+          "link": "https://www.clarin.com/deportes/mama-messi-eligio-jugador-debe-llevar-10-seleccion-vos-sos-sucesor-hijo_0_KG5BGL7cMA.html",
+          "resumen": "Fabián Paz, el tío del futbolista, reveló el diálogo entre Celia Cuccittini y el futbolista del Como. La incógnita sobre la designación definitiva del sucesor podría resolverse en la próxima fecha FIFA de marzo.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Boca partió para Barranquilla con todo el plantel y la ilusión de volver a conquistar un título internacional después de 18 años",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/boca-partio-para-barranquilla-con-todo-el-plantel-y-la-ilusion-de-volver-a-conquistar-un-titulo-nid18112026/",
-          "resumen": "Juan Román Riquelme encabeza la delegación que viaja hacia Colombia para enfrentar el sábado a Atlético Mineiro",
+          "titulo": "Jódar perdió con Shelton, quedó eliminado del Masters y abrió el corazón como nunca antes",
+          "link": "https://www.lanacion.com.ar/deportes/tenis/jodar-perdio-con-shelton-quedo-eliminado-del-masters-y-abrio-el-corazon-como-nunca-antes-nid19112026/",
+          "resumen": "El español cayó ante el estadounidense Ben Shelton (4º) por 7-6 (10/8) y 7-5, en el cierre de la primera etapa en Turín",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Un vínculo especial: la figura que une a Nico Paz con Lionel Messi",
-          "link": "https://www.ole.com.ar/seleccion/figura-mundial-une-nico-paz-lionel-messi_0_d8UsVMJ9uS.html",
-          "resumen": "La nueva joya de la Selección, que viene de romperla ante Costa Rica, tiene un punto en común con el ex capitán.",
+          "titulo": "Histórica sanción en Ecuador: le dieron ¡ocho años! por pegarle un piedrazo al árbitro",
+          "link": "https://www.ole.com.ar/futbol-internacional/historica-sancion-ecuador-john-perlaza-anos-suspendido-hizo_0_dChaX8VCGZ.html",
+          "resumen": "El episodio tuvo lugar en el ascenso ecuatoriano el pasado 17 de octubre. El futbolista castigado no podrá disputar ninguna competencia oficial hasta 2034.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Dibu Martínez, sin filtro tras la poca convocatoria de la Selección: \"Necesitamos bajar un poco el precio de las entradas\"",
-          "link": "https://www.clarin.com/deportes/dibu-martinez-filtro-poca-convocatoria-seleccion-necesitamos-bajar-precio-entradas_0_IXYFXSpYyH.html",
-          "resumen": "El arquero volvió a la titularidad contra Costa Rica y mantuvo la valla invicta, igualando un récord. Después de la goleada 7-0 se hizo cargo de la polémica que rodeó los amistosos de esta fecha FIFA. Fiel a su estilo, y con la chapa que…",
+          "titulo": "Mariano Troilo, el jugador número 74 en debutar con Lionel Scaloni, sacó pecho por la venta de entradas: \"La gente del Interior siempre apoya a la Selección\"",
+          "link": "https://www.clarin.com/deportes/mariano-troilo-jugador-numero-74-debutar-lionel-scaloni-saco-pecho-venta-entradas-gente-interior-siempre-apoya-seleccion_0_nY2CMaIvSO.html",
+          "resumen": "El marcador central de 23 años habló con Clarín después de su segunda convocatoria a la mayor. La rompe en el Parma y es cordobés como otros de los futbolistas de la Scaloneta.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "A qué hora es la final de Boca vs. Atlético Mineiro por la Copa Sudamericana 2026",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-es-la-final-de-boca-vs-atletico-mineiro-por-la-copa-sudamericana-2026-nid18112026/",
-          "resumen": "El encuentro se disputará el próximo sábado 21 de noviembre en el estadio Metropolitano Roberto Meléndez de Barranquilla",
+          "titulo": "Argentinos Juniors vs. Independiente, por el Torneo Clausura 2026: día, horario, TV y cómo ver online",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/argentinos-juniors-vs-independiente-por-el-torneo-clausura-2026-dia-horario-tv-y-como-ver-online-nid19112026/",
+          "resumen": "El encuentro de octavos de final está programado para este sábado a las 17 en el estadio Diego Armando Maradona, con arbitraje de Jorge Baliño",
           "fuente": "La Nación"
         }
       ]
