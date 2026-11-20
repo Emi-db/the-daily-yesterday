@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "19 de noviembre de 2026",
-  "generada": "18:43",
+  "fecha": "20 de noviembre de 2026",
+  "generada": "18:04",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "“¿Quién le puede decir que no?”: una senadora libertaria se anotó en la carrera para ir de vice de Javier Milei en 2027",
-          "link": "https://www.clarin.com/politica/puede-decir-senadora-libertaria-anoto-carrera-ir-vice-javier-milei-2027_0_oMMd93c7Wk.html",
-          "resumen": "La neuquina Nadia Márquez no descartó la posibilidad de acompañar al Presidente en la boleta el año que viene. También suena su nombre para el Consejo de la Magistratura y como candidata a gobernadora de Neuquén.",
+          "titulo": "Tensión por Malvinas: el embajador británico admitió que “hay días no tan buenos” en el vínculo con Argentina",
+          "link": "https://www.clarin.com/politica/tension-malvinas-embajador-britanico-admitio-dias-buenos-vinculo-argentina_0_9OFCYY17Fb.html",
+          "resumen": "David Cairns festejó el cumpleaños 78 del hijo de Isabel II con una \"garden party\" más austera en la residencia del barrio de Recoleta. No hubo presencia del Gobierno.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Un diputado nacional se va del bloque de La Libertad Avanza y denuncia un pacto con el PJ en su provincia",
-          "link": "https://www.lanacion.com.ar/politica/un-diputado-nacional-se-va-del-bloque-de-la-libertad-avanza-y-denuncia-un-pacto-con-el-pj-en-su-nid19112026/",
-          "resumen": "El tucumano Mariano Campero, de origen radical, conformará un monobloque y apuntó contra los libertarios por los acercamientos con Jaldo; es uno de los que integra el equipo de Patricia Bullrich",
+          "titulo": "Máximo Kirchner: “Vamos a armar todo el quilombo que haya que armar”",
+          "link": "https://www.lanacion.com.ar/politica/maximo-kirchner-vamos-a-armar-todo-el-quilombo-que-haya-que-armar-nid20112026/",
+          "resumen": "El diputado propuso “auditar” los beneficios a las inversiones otorgados a través del RIGI; críticas a la política económica",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El Senado comenzó a tratar la ley de discapacidad y se espera un extenso debate",
-          "link": "https://www.infobae.com/politica/2026/11/19/senado-en-vivo-las-ultimas-noticias-del-debate-sobre-los-proyectos-de-discapacidad-propiedad-privada-y-patentes/",
-          "resumen": "La cámara alta discutirá a lo largo la jornada la norma que llega con media sanción de Diputados. Hay 28 legisladores inscriptos para expresarse sobre el tema",
+          "titulo": "Chubut adelantó las elecciones a marzo y Torres buscará la reelección",
+          "link": "https://www.infobae.com/politica/2026/11/20/chubut-adelanto-las-elecciones-a-marzo-y-torres-buscara-la-reeleccion/",
+          "resumen": "El gobernador formalizó la convocatoria para el 21 de marzo de 2027. Es la segunda provincia patagónica que confirma su cronograma electoral, después de Neuquén, que irá a las urnas el 14 de febrero. El peronismo todavía no logra ordenar…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Mientras acelera la designación de jueces, Mahiques viajó a EE.UU. y se reunió con un alto funcionario del Departamento de Justicia",
-          "link": "https://www.clarin.com/politica/acelera-designacion-jueces-mahiques-viajo-eeuu-reunio-alto-funcionario-departamento-justicia_0_hQcpqzokkm.html",
-          "resumen": "El ministro de Justicia mantuvo un encuentro en Washington con Andrew Tysen Duva, responsable de la División Criminal. Hablaron sobre la cobertura de vacantes, la implementación del sistema acusatorio y la cooperación en investigaciones…",
+          "titulo": "Mansión de Pilar: piden el juicio político contra dos jueces por mal desempeño",
+          "link": "https://www.clarin.com/politica/mansion-pilar-piden-juicio-politico-jueces-mal-desempeno_0_4puKduwObq.html",
+          "resumen": "Se trata de los magistrados Mariano Borinsky y Diego Barroetaveña, de la Cámara de Casación Penal. La presentación fue realizada por la abogada y exvicepresidenta de la Unidad de Información Financiera (UIF), María Eugenia Talerico.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El Senado se encamina a sancionar una nueva ley de discapacidad pese a las resistencias del Gobierno",
-          "link": "https://www.lanacion.com.ar/politica/el-senado-se-encamina-a-sancionar-una-nueva-ley-de-discapacidad-pese-a-las-resistencias-del-gobierno-nid19112026/",
-          "resumen": "También se discute una serie de proyectos que incluyen la adhesión al tratado internacional de patentes y la reforma del régimen de propiedad privada; se acordó que la semana que viene abordará la iniciativa sobre ludopatía y la prórroga…",
+          "titulo": "Javier Milei y sus medidas, en vivo: “Los responsables van a ser juzgados”, dijo el Presidente sobre el atentado a la AMIA",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-senado-aprobo-la-nueva-ley-de-discapacidad-y-la-adhesion-al-nid20112026/",
+          "resumen": "El minuto a minuto de las decisiones del jefe de Estado, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Reforma laboral: la Justicia declaró ilegal el pago de una indemnización en cuotas",
-          "link": "https://www.clarin.com/economia/reforma-laboral-justicia-declaro-ilegal-pago-indemnizacion-cuotas_0_f91DtyL4y2.html",
-          "resumen": "Un fallo de Cámara sostuvo que el pago fraccionado es algo excepcional y solo se puede dar en caso de sentencias judiciales, no de un despido sin causa.",
+          "titulo": "Antes de la privatización, el Gobierno le aprueba a AySA aumentos de tarifas por encima de la inflación para 2027, pero les pone un tope",
+          "link": "https://www.clarin.com/economia/privatizacion-gobierno-aprueba-aysa-aumentos-tarifas-encima-inflacion-2027-pone-tope_0_rKi2h6ybRh.html",
+          "resumen": "Un 60% de los usuarios tendrán aumentos, pero el Gobierno le puso un techo de 1,5% por sobre el ajuste actual, que sigue a la inflación. Un 40% no tendrá incrementos.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Costantini cuestionó la falta de inversión estatal en arte y propuso renovar el Bellas Artes con un edificio de US$200 millones",
-          "link": "https://www.lanacion.com.ar/economia/costantini-cuestiono-la-falta-de-inversion-estatal-en-arte-y-propuso-renovar-el-bellas-artes-con-un-nid19112026/",
-          "resumen": "El fundador del Malba criticó la debilidad presupuestaria en cultura frente al mercado regional; contó que la ampliación incorporará a la colección Daros y donaciones privadas que llevarán la colección a 3000 piezas",
+          "titulo": "Vuelos: por qué una ciudad argentina registró un crecimiento del 397% en pasajeros internacionales",
+          "link": "https://www.lanacion.com.ar/economia/vuelos-por-que-una-ciudad-argentina-registro-un-crecimiento-del-397-en-pasajeros-internacionales-nid20112026/",
+          "resumen": "El tráfico internacional alcanzó un récord en los primeros 10 meses del año, con un incremento del 10%; los aeropuertos del interior registraron fuertes subas por la incorporación de nuevas conexiones directas con el exterior",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Se venden 50 autos por día en las concesionarias con la nueva línea de créditos del Banco Provincia",
-          "link": "https://www.ambito.com/economia/se-venden-50-autos-dia-las-concesionarias-la-nueva-linea-creditos-del-banco-provincia-n6347171",
-          "resumen": "La línea, que se tramita en la propia concesionaria, ya financió 1.560 vehículos por $20.842 millones desde su lanzamiento, a fines de septiembre. Mar del Plata encabeza las operaciones y la modalidad UVA, con tasa desde 6% anual,…",
+          "titulo": "Javier Milei ahora habla de \"privaciones\": en qué mejoró y en qué empeoró la situación económica de los argentinos",
+          "link": "https://www.ambito.com/economia/javier-milei-ahora-habla-privaciones-que-mejoro-y-que-empeoro-la-situacion-economica-los-argentinos-n6347623",
+          "resumen": "Un relevamiento de la consultora Criteria sobre 19 variables revela que, durante el gobierno de Javier Milei, mejoraron los indicadores de pobreza, indigencia e ingresos, pero se deterioraron los vinculados con las dificultades de las…",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Anthropic se prepara para hacer historia: apuestan a que la acción suba 20% en Bolsa tras la recaudación récord",
-          "link": "https://www.clarin.com/economia/anthropic-prepara-hacer-historia-apuestan-accion-suba-20-venta-record-acciones_0_MQZLGtSrzE.html",
-          "resumen": "La dueña de Claude empieza a cotizar este jueves en el Nasdaq. Ya vale US$ 1,5 billones.",
+          "titulo": "Una petrolera británica se despega de las Malvinas: \"Nuestro foco está en Argentina\"",
+          "link": "https://www.clarin.com/energia-y-mineria/petrolera-britanica-despega-malvinas-foco-argentina_0_UpS79M0FsD.html",
+          "resumen": "Es Harbour Energy, que tiene producción de gas en Vaca Muerta y Tierra del Fuego. La petrolera fue la continuadora societaria de Premier Oil, empresa sancionada por el proyecto Sea Lion, y generó una causa judicial contra funcionarios…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "El dólar volvió a subir hasta su valor más alto del año y el riesgo país roza los 900 puntos",
-          "link": "https://www.lanacion.com.ar/economia/el-dolar-volvio-a-subir-hasta-su-valor-mas-alto-del-ano-y-el-riesgo-pais-roza-los-900-puntos-nid19112026/",
-          "resumen": "El tipo de cambio minorista anotó su segundo avance consecutivo y operó a $1585; el indicador elaborado por JP Morgan salta casi 50 unidades",
+          "titulo": "“Condenadas al fracaso”: Gustavo Grobocopatel reveló detalles desconocidos sobre por qué vendió su empresa hace 10 años",
+          "link": "https://www.lanacion.com.ar/economia/campo/condenadas-al-fracaso-gustavo-grobocopatel-revelo-detalles-desconocidos-de-por-que-vendio-su-empresa-nid19112026/",
+          "resumen": "Contó que la operación por Los Grobo Agropecuaria, que quedó bajo el control de un fondo, fue parte de un plan que llevó más de una década y que buscó evitar conflictos entre las siguientes generaciones",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "El Papa León XIV pidió a las organizaciones católicas \"no perder el valor\" para combatir la injusticia",
-          "link": "https://www.clarin.com/mundo/papa-leon-xiv-pidio-organizaciones-catolicas-perder-valor-combatir-injusticia_0_RnutdXUwbV.html",
-          "resumen": "En un encuentro con Cáritas y otras instituciones católicas en el Vaticano, el pontífice recordó sus años en Perú, donde vio de cerca la marginación y la pobreza. Y agradeció el trabajo pastoral de estas organizaciones.",
+          "titulo": "En secreto, Gran Bretaña blindó decenas de miles de heladeras contra hackers en una operación a nivel nacional",
+          "link": "https://www.clarin.com/mundo/secreto-gran-bretana-blindo-decenas-miles-heladeras-hackers-operacion-nivel-nacional_0_iHVbHZZ1AX.html",
+          "resumen": "Una operación discreta permitió desconectar miles de sistemas de frío en comercios y depósitos británicos tras detectarse una falla crítica de seguridad. Se trataron los refrigeradores y congeladores en supermercados, estaciones de…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Tras la cumbre de China, confiscaron los celulares de los periodistas que viajaban con Trump en el Air Force One",
-          "link": "https://www.lanacion.com.ar/el-mundo/tras-la-cumbre-de-china-confiscaron-los-celulares-de-los-periodistas-que-viajaban-con-trump-en-el-nid19112026/",
-          "resumen": "La medida de seguridad fue adoptada cuando el avión despegaba en Shenzhen; decisión alimentó especulaciones sobre un posible cambio de itinerario y una eventual reunión del mandatario con Kim Jong-un",
+          "titulo": "Miriam, camionera: “Paso hasta 24 días afuera; cuando vuelvo, tengo tres o cuatro días para ver a mis amigos y preparar las siguientes rutas”",
+          "link": "https://www.lanacion.com.ar/el-mundo/miriam-camionera-paso-hasta-24-dias-afuera-cuando-vuelvo-tengo-tres-o-cuatro-dias-para-ver-a-mis-nid18112026/",
+          "resumen": "La conductora relata cómo organiza sus semanas entre el volante y el hogar; la complejidad de equilibrar una carrera exigente con la vida personal",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Detrás de la cumbre en China: la visión compartida de Xi y Putin de usurpar el poder de Estados Unidos",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/detras-cumbre-china-vision-compartida-xi-putin-usurpar-poder-estados-unidos_0_fbEVXaX8ji.html",
-          "resumen": "Trump se unió a los líderes chinos y rusos en una cumbre en Shenzhen, a pesar de que ambos autócratas están intentando revertir la victoria de Estados Unidos en la Guerra Fría.",
+          "titulo": "El próximo apagón podría ser digital, y ellos quieren estar preparados",
+          "link": "https://www.clarin.com/new-york-times-international-weekly/proximo-apagon-podria-digital-quieren-preparados_0_MbCwPI0Grz.html",
+          "resumen": "“DoorDash no es un plan de emergencia.”",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Trump le puso más que un 10 a su participación en la cumbre de Shenzhen, pero la mayoría de los analistas lo aplazaron",
-          "link": "https://www.lanacion.com.ar/el-mundo/trump-le-puso-mas-que-un-10-a-su-participacion-en-la-cumbre-de-shenzhen-pero-la-mayoria-de-los-nid19112026/",
-          "resumen": "El mandatario llegó golpeado tras la derrota electoral y salió peor parado que Xi y Putin de la reunión trilateral",
+          "titulo": "Colombia pone en marcha el proceso para aplicar la eutanasia a los hipopótamos de Pablo Escobar",
+          "link": "https://www.lanacion.com.ar/el-mundo/colombia-pone-en-marcha-el-proceso-para-aplicar-la-eutanasia-a-los-hipopotamos-de-pablo-escobar-nid20112026/",
+          "resumen": "La primera etapa involucrará a 10 ejemplares de los 260 que hay; en paralelo se ejecutarán esterilizaciones, confinamientos y traslados",
           "fuente": "La Nación"
         },
         {
-          "titulo": "La ONU denuncia que la Inteligencia Artificial es gobernada de forma \"medieval\" y advierte que podría paralizar infraestructura crítica",
-          "link": "https://www.clarin.com/mundo/onu-denuncia-inteligencia-artificial-gobernada-manera-medieval-advirtio-riesgo-paralice-infraestructura-critica_0_tX0kQvUVmH.html",
-          "resumen": "El Alto Comisionado de la ONU para los Derechos Humanos, Volker Turk, dijo que pocas empresas tienen el poder concentrado. Pidió tener \"normas comunes para regular u orientar el desarrollo de la IA\".",
+          "titulo": "El fallo sobre el genocidio en Myanmar prepara el terreno para una batalla legal por Israel y Gaza",
+          "link": "https://www.clarin.com/new-york-times-international-weekly/fallo-genocidio-myanmar-prepara-terreno-batalla-legal-israel-gaza_0_lpkVNgGBon.html",
+          "resumen": "El fallo de la Corte Internacional de Justicia aborda cuestiones relevantes para el caso presentado contra Israel en el que se le acusa de genocidio en Gaza. Israel ha rechazado la acusación.",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "La mamá de Messi eligió al jugador que debe llevar la 10 de la Selección: \"Vos sos el sucesor de mi hijo\"",
-          "link": "https://www.clarin.com/deportes/mama-messi-eligio-jugador-debe-llevar-10-seleccion-vos-sos-sucesor-hijo_0_KG5BGL7cMA.html",
-          "resumen": "Fabián Paz, el tío del futbolista, reveló el diálogo entre Celia Cuccittini y el futbolista del Como. La incógnita sobre la designación definitiva del sucesor podría resolverse en la próxima fecha FIFA de marzo.",
+          "titulo": "El sorteo de la Nations League dejó partidazos para los cuartos de final: Francia busca revancha de España tras el Mundial, lo mismo que Haaland ante Inglaterra",
+          "link": "https://www.clarin.com/deportes/sorteo-nations-league-dejo-partidazos-cuartos-final-francia-busca-revancha-espana-mundial-mismo-haaland-inglaterra_0_15Eip1ptKK.html",
+          "resumen": "El cuadro de la fase decisiva quedó repleto de cruces con historia reciente y cuentas pendientes. Dirigida por Zidane, la selección gala enfrentará al campeón del mundo, en una final anticipada. Además, varias potencias buscarán dar otro…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Jódar perdió con Shelton, quedó eliminado del Masters y abrió el corazón como nunca antes",
-          "link": "https://www.lanacion.com.ar/deportes/tenis/jodar-perdio-con-shelton-quedo-eliminado-del-masters-y-abrio-el-corazon-como-nunca-antes-nid19112026/",
-          "resumen": "El español cayó ante el estadounidense Ben Shelton (4º) por 7-6 (10/8) y 7-5, en el cierre de la primera etapa en Turín",
+          "titulo": "Horarios de los octavos de final del Torneo Clausura 2026",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/horarios-de-los-octavos-de-final-del-torneo-clausura-2026-nid20112026/",
+          "resumen": "El campeonato comienza a transitar su etapa final con los choques de eliminación directa; abren la jornada Vélez y Belgrano; la cierran Boca e Independiente Rivadavia",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Histórica sanción en Ecuador: le dieron ¡ocho años! por pegarle un piedrazo al árbitro",
-          "link": "https://www.ole.com.ar/futbol-internacional/historica-sancion-ecuador-john-perlaza-anos-suspendido-hizo_0_dChaX8VCGZ.html",
-          "resumen": "El episodio tuvo lugar en el ascenso ecuatoriano el pasado 17 de octubre. El futbolista castigado no podrá disputar ninguna competencia oficial hasta 2034.",
+          "titulo": "Asado y buen clima pre Libertadores en Estudiantes: el festejo puertas adentro tras la obtención de la Supercopa",
+          "link": "https://www.ole.com.ar/estudiantes/asado-buen-clima-estudiantes-festejo-supercopa-independiente-rivadavia-copa-libertadores_0_tTn9mXmfHU.html",
+          "resumen": "A falta de una semana para la final de la Copa ante Palmeiras, el plantel del Pincha disfrutó de un momento de distensión en City Bell.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Mariano Troilo, el jugador número 74 en debutar con Lionel Scaloni, sacó pecho por la venta de entradas: \"La gente del Interior siempre apoya a la Selección\"",
-          "link": "https://www.clarin.com/deportes/mariano-troilo-jugador-numero-74-debutar-lionel-scaloni-saco-pecho-venta-entradas-gente-interior-siempre-apoya-seleccion_0_nY2CMaIvSO.html",
-          "resumen": "El marcador central de 23 años habló con Clarín después de su segunda convocatoria a la mayor. La rompe en el Parma y es cordobés como otros de los futbolistas de la Scaloneta.",
+          "titulo": "René Higuita palpita la final de la Copa Sudamericana: su devoción por el arquero de Boca, Alvaro Montero, y el factor Barranquilla",
+          "link": "https://www.clarin.com/deportes/rene-higuita-palpita-final-copa-sudamericana-devocion-arquero-boca-alvaro-montero-factor-barranquilla_0_mXbOYeZAnr.html",
+          "resumen": "El Loco, a los 60 años y desde su Colombia natal, también elogia a Sebastián Villa. \"Se metió en el bolsillo a la hinchada y pasó de villano a héroe\", le dijo a Clarín sobre su colega en el arco, de dos metros de altura.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Argentinos Juniors vs. Independiente, por el Torneo Clausura 2026: día, horario, TV y cómo ver online",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/argentinos-juniors-vs-independiente-por-el-torneo-clausura-2026-dia-horario-tv-y-como-ver-online-nid19112026/",
-          "resumen": "El encuentro de octavos de final está programado para este sábado a las 17 en el estadio Diego Armando Maradona, con arbitraje de Jorge Baliño",
+          "titulo": "Los hijos de Manu Ginóbili jugaron al básquet y sorprendieron a todos con su talento: “Nos volvemos a ilusionar”",
+          "link": "https://www.lanacion.com.ar/deportes/los-hijos-de-manu-ginobili-jugaron-al-basquet-y-sorprendieron-a-todos-con-su-talento-nos-volvemos-a-nid20112026/",
+          "resumen": "Los mellizos de 16 años, Dante y Nicola, heredaron de su padre la pasión por el deporte y en un reciente partido que disputaron sobresalieron con sus habilidades",
           "fuente": "La Nación"
         }
       ]

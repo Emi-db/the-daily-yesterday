@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "19 de noviembre de 2026",
-    "generada": "18:43",
+    "fecha": "20 de noviembre de 2026",
+    "generada": "18:04",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "\"Se están quedando encerradas en sus casas sin un futuro\": el drama de las personas con discapacidad afectadas por las políticas de Milei en Argentina",
-            "link": "https://www.bbc.com/mundo/articles/c617k978p47ro?at_medium=RSS&at_campaign=rss",
-            "resumen": "Familiares de personas con discapacidad han denunciado que la red de cuidados —que incluye terapeutas, hogares y transportistas— ha colapsado. Ahora una ley intenta cambiarlo.",
+            "titulo": "Qué pasó con las FARC 10 años después del acuerdo de paz que puso fin a más de 50 años de conflicto con el Estado en Colombia",
+            "link": "https://www.bbc.com/mundo/articles/c8zxl4rd6nq5o?at_medium=RSS&at_campaign=rss",
+            "resumen": "En 2016, más de 13.000 guerrilleros firmaron la paz con el Estado colombiano tras más de 50 años en guerra, dejaron las armas y se reincorporaron a la vida civil. ¿Qué ha ocurrido desde entonces?",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "El máximo tribunal de la ONU concluye que Myanmar cometió genocidio contra los rohinyás",
-            "link": "https://elpais.com/internacional/2026-11-19/el-tribunal-internacional-de-justicia-concluye-que-el-ejercito-de-myanmar-mato-a-miles-de-rohinyas-y-cometio-actos-de-violencia-extrema-contra-ellos.html",
-            "resumen": "Esta es la primera vez en su historia que el Tribunal Internacional de Justicia considera a un Estado responsable de ese gravísimo delito. La decisión puede repercutir en el caso iniciado por Sudáfrica contra Israel",
+            "titulo": "Dos misiles y un dron rusos caen en el este de Polonia en plenas maniobras militares de una decena de países europeos",
+            "link": "https://elpais.com/internacional/2026-11-20/dos-misiles-y-un-dron-rusos-caen-en-el-este-de-polonia-en-plenas-maniobras-militares-de-una-decena-de-paises-europeos.html",
+            "resumen": "El Gobierno de Varsovia califica las incursiones aéreas de “provocación intencionada” de Moscú y pide a la OTAN el refuerzo del flanco oriental. La UE condena la “violación del espacio aéreo” polaco",
             "fuente": "El País"
           },
           {
-            "titulo": "Directo Latam y el supuesto rechazo de De la Espriella a la cooperación militar con Estados Unidos",
-            "link": "https://www.france24.com/es/video/20261119-directo-latam-y-el-supuesto-rechazo-de-de-la-espriella-a-la-cooperaci%C3%B3n-militar-con-estados-unidos",
-            "resumen": "Tras la visita del secretario de Defensa de Estados Unidos a Colombia, se desató una polémica por una publicación de 'The New York Times' en la que se alude a un supuesto rechazo del presidente de Colombia, Abelardo de la Espriella, a un…",
+            "titulo": "“¿Ayudará a los rohingyas la sentencia por genocidio contra Myanmar?”: ‘The Conversation’",
+            "link": "https://www.france24.com/es/programas/revista-de-prensa/20261120-ayudar%C3%A1-a-los-rohingyas-la-sentencia-por-genocidio-contra-myanmar-the-conversation",
+            "resumen": "La Corte Internacional de Justicia (CIJ) dictaminó que Myanmar cometió genocidio contra la comunidad rohingyas durante una brutal campaña militar en 2017. Pese al carácter histórico del fallo, las preguntas giran ahora en torno al impacto…",
             "fuente": "France 24"
           },
           {
-            "titulo": "China, Rusia y EE.UU. \"deben dar ejemplo\" y \"mantener la paz\": lo que Trump, Putin y Xi dijeron en su histórica cumbre",
-            "link": "https://www.bbc.com/mundo/articles/cw1md5mzjj4vo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Donald Trump, Xi Jinping y Vladimir Putin celebraron en Shenzhen la primera reunión trilateral entre EE.UU., China y Rusia.",
+            "titulo": "\"Aquí los drones no vuelan\": la BBC en el interior del gasoducto desde el que Ucrania libra una guerra subterránea contra Rusia",
+            "link": "https://www.bbc.com/mundo/articles/c6wy418my1mlo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Las fuerzas ucranianas combaten contra las tropas rusas en un antiguo túnel soviético en la región de Járkiv en condiciones extremas.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Xi, Trump y Putin, tras la cumbre de Shenzhen: “Una guerra nuclear no se puede ganar y nunca debe librarse”",
-            "link": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
-            "resumen": "Los líderes de las tres mayores potencias se comprometen a reformar la ONU y a garantizar los flujos energéticos. El republicano se refiere al mandatario ruso como “amigo”",
+            "titulo": "Rusia ataca los puentes de Kiev y la infraestructura energética de Ucrania tras la ofensiva en el estrecho de Kerch",
+            "link": "https://elpais.com/internacional/2026-11-20/rusia-ataca-los-puentes-de-kiev-y-la-infraestructura-energetica-de-ucrania-tras-la-ofensiva-en-el-estrecho-de-kerch.html",
+            "resumen": "Los bombardeos matan a una decena de personas, hieren a 28 y causan apagones en diez regiones. Francia pide una reunión del Consejo de Seguridad de la ONU tras los ataques a las embajadas de Austria y Países Bajos",
             "fuente": "El País"
           }
         ]
@@ -43,9 +43,9 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Menos consumo, trabas laborales y más desigualdad: la crisis de la vivienda amenaza con enfriar el auge económico español",
-            "link": "https://elpais.com/economia/2026-11-19/menos-consumo-trabas-laborales-y-mas-desigualdad-la-crisis-de-la-vivienda-amenaza-con-enfriar-el-auge-economico-espanol.html",
-            "resumen": "Analistas e informes alertan de que el desequilibrio del mercado inmobiliario es insostenible a largo plazo, como acaba de advertir la Comisión Europea",
+            "titulo": "Transportes confía en que la línea Madrid-Sevilla en Urda se repare en unas dos semanas",
+            "link": "https://elpais.com/economia/2026-11-20/transportes-confia-en-que-la-linea-madrid-sevilla-en-urda-se-repare-en-unas-dos-semanas.html",
+            "resumen": "El ministerio elude comprometerse aún con una fecha de reapertura, mientras Adif valora los daños del siniestro, y Renfe, Iryo y Ouigo ofrecen billetes para viajar a partir del 13 de diciembre",
             "fuente": "El País"
           },
           {
@@ -55,9 +55,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "La luz de los gurús económicos se apaga en la política",
-            "link": "https://elpais.com/economia/2026-11-19/la-luz-de-los-gurus-economicos-se-apaga-en-la-politica.html",
-            "resumen": "Los programas electorales se cocinan cada vez más en el seno interno de los partidos, con los impuestos como principal campo de batalla",
+            "titulo": "Las rentas más altas acaparan tres cuartas partes de las ventajas fiscales al alquiler de vivienda",
+            "link": "https://elpais.com/economia/2026-11-20/las-rentas-mas-altas-acaparan-tres-cuartas-partes-de-las-ventajas-fiscales-al-alquiler-de-vivienda.html",
+            "resumen": "Los descuentos a los caseros en el IRPF cuestan a Hacienda unos 1.100 millones al año, de los que más de 800 millones van a parar al 10% más rico de la población",
             "fuente": "El País"
           },
           {
@@ -67,9 +67,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "Agnès Bénassy-Quéré: “El temor a una fuga de depósitos por el euro digital está fuera de lugar”",
-            "link": "https://elpais.com/economia/2026-11-19/agnes-benassy-quere-el-temor-a-una-fuga-de-depositos-por-el-euro-digital-esta-fuera-de-lugar.html",
-            "resumen": "La subgobernadora del Banco de Francia aboga por la adaptación de los bancos centrales a la tecnología descentralizada y el carácter estratégico de un euro con peso en el mundo",
+            "titulo": "Mi comunidad de propietarios se niega a asumir el coste de reparación de unas vigas centenarias. ¿Qué puedo hacer?",
+            "link": "https://elpais.com/economia/vivienda/consultorio/2026-11-20/mi-comunidad-de-propietarios-se-niega-a-asumir-el-coste-de-reparacion-de-unas-vigas-centenarias-que-puedo-hacer.html",
+            "resumen": "Los lectores envían sus preguntas al consultorio de vivienda de EL PAÍS en colaboración con Legálitas",
             "fuente": "El País"
           }
         ]
@@ -77,6 +77,18 @@ const EDICION_MUNDO = {
       {
         "nombre": "Ciencia y Tecnología",
         "notas": [
+          {
+            "titulo": "El Gobierno elimina la asfixia burocrática para la ciencia estratégica: los centros podrán pagar más a sus investigadores y comprar más rápido",
+            "link": "https://elpais.com/ciencia/2026-11-20/el-gobierno-elimina-la-asfixia-burocratica-para-la-ciencia-estrategica-los-centros-podran-pagar-mas-a-sus-investigadores-y-comprar-mas-rapido.html",
+            "resumen": "El Consejo de Ministros aprueba la creación de una red de 20 instituciones de interés nacional para la soberanía científica y tecnológica, con mayor autonomía y flexibilidad",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Llamadas para comprar una bici, mangos o un tratamiento para la vagina: qué pasa si la IA distribuye tu número de teléfono",
+            "link": "https://elpais.com/tecnologia/2026-11-20/llamadas-para-comprar-una-bici-mangos-o-un-tratamiento-para-la-vagina-que-pasa-si-la-ia-distribuye-tu-numero-de-telefono.html",
+            "resumen": "Un hombre cuenta cómo recibe llamadas con quejas y dudas de clientes de clínicas estéticas, tiendas de persianas o farmacias online después de que Gemini y ChatGPT ofrecieran su móvil por error",
+            "fuente": "El País"
+          },
           {
             "titulo": "Más allá de un día luz: España capta el primer saludo de la ‘Voyager 1’ desde el otro lado de la frontera interestelar",
             "link": "https://elpais.com/ciencia/2026-11-19/mas-alla-de-un-dia-luz-espana-capta-el-primer-saludo-de-la-voyager-1-desde-el-otro-lado-de-la-frontera-interestelar.html",
@@ -94,18 +106,6 @@ const EDICION_MUNDO = {
             "link": "https://elpais.com/ciencia/2026-11-19/lombrices-hongos-y-orina-para-cultivar-patatas-en-la-mala-tierra-de-la-luna.html",
             "resumen": "Distintos experimentos están sembrando vegetales en sustratos similares a los del satélite de cara a su colonización",
             "fuente": "El País"
-          },
-          {
-            "titulo": "Las dos oleadas de nerviosismo global por el lanzamiento de GTA VI: así se sufrieron las caídas más importantes de la PlayStation Network",
-            "link": "https://elpais.com/tecnologia/2026-11-19/las-dos-oleadas-de-nerviosismo-global-por-el-lanzamiento-de-gta-vi-asi-se-sufrieron-las-caidas-mas-importantes-de-la-playstation-network.html",
-            "resumen": "El número más alto de problemas se reporta poco antes del estreno en India y el segundo pico coincide aproximadamente con el lanzamiento en EE UU, pero no coincidiendo con las medianoches, hora del estreno",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Una huella común para 42 tumores: el mayor atlas del cáncer deja al descubierto a sus células cómplices",
-            "link": "https://elpais.com/ciencia/2026-11-18/una-huella-comun-para-42-tumores-el-mayor-atlas-del-cancer-deja-al-descubierto-a-sus-celulas-complices.html",
-            "resumen": "Un estudio cartografía el entorno en el que crecen los tumores y plantea la posibilidad de crear terapias comunes a muchos de ellos",
-            "fuente": "El País"
           }
         ]
       },
@@ -113,33 +113,33 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "Valverde redondea con un buen tanto la 'Manita' de la Uruguay de Forlán",
-            "link": "https://www.marca.com/futbol/cronica/2026/11/18/valverde-redondea-buen-tanto-manita-uruguay-forlan.html",
-            "resumen": "La Celeste venció ante la República Dominicana... y reservando a Fede",
+            "titulo": "La UEFA multa a Inglaterra por los cánticos anticatólicos de sus aficionados en Madrid",
+            "link": "https://www.marca.com/futbol/nations-league/2026/11/20/uefa-multa-inglaterra-canticos-anticatolicos-aficionados-madrid.html",
+            "resumen": "Los aficionados ingleses han sido acusados de&nbsp;\"comportamiento racista y/o discriminatorio\"",
             "fuente": "Marca"
           },
           {
-            "titulo": "14-18: Segunda fase de la Champions: Kielce - Barça, en directo",
-            "link": "https://www.mundodeportivo.com/balonmano/20261119/1004253050/kielce-barca-directo-ehf-champions-balonmano-segunda-fase.html",
-            "resumen": "",
+            "titulo": "Christensen, probable baja para el Barça-Villarreal",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261120/1004253433/christensen-probable-baja-barca-villarreal.html",
+            "resumen": "Andreas Christensen vuelve a estar en riesgo de caerse de una convocatoria del FC Barcelona . Lo más probable es que el central danés de 30 años no entre en la relación de citados por Hansi Flick para reanudar este domingo (14 horas) la…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Show de Julián, Nico Paz y Mastantuono, en la paliza de Argentina",
-            "link": "https://www.marca.com/futbol/cronica/2026/11/18/show-julian-nico-paz-sendos-dobletes-paliza-argentina.html",
-            "resumen": "Alexis Mac Allister redondeó el 7-0 en el amistoso ante Costa Rica&nbsp;",
+            "titulo": "La primera estrella víctima de la epidemia del GTA 6 que amenaza a los deportistas: la cazada a Mbeumo",
+            "link": "https://www.marca.com/futbol/2026/11/20/primera-estrella-victima-epidemia-gta-6-amenaza-deportistas-cazada-mbeumo.html",
+            "resumen": "Bryan Mbeumo (Manchester United) fue cazado jugando al GTA 6 de madrugada antes de acudir a su primer entrenamiento con Mauricio Pochettino",
             "fuente": "Marca"
           },
           {
-            "titulo": "Carambola final de Jódar en Turín: Alcaraz evita a Zverev en semifinales",
-            "link": "https://www.mundodeportivo.com/tenis/20261119/1004253018/carambola-final-jodar-turin-alcaraz-evita-zverev-semifinales.html",
-            "resumen": "Rafa Jódar, 20 años y nº 10 mundial, cerró su primera experiencia en las ATP Finals de Turín. Tres partidos disputados, todos sellados con derrota, arañando un único set. El cierre fue amargo, porque como en otras situaciones acarició un…",
+            "titulo": "Koundé repite en el entrenamiento y apunta al Villarreal-Barça",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261120/1004253381/kounde-repite-entrenamiento-apunta-villarreal-barca.html",
+            "resumen": "La reanudación de la Liga tras los partidos de selecciones trae, por esta vez, buenas noticias para el Barça de Hansi Flick . Estas dos semanas sin fútbol de clubs ha permitido avanzar en la evolución positiva de Jules Koundé , que por…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Así vienen las portadas",
-            "link": "https://www.marca.com/futbol/album/2026/11/18/portadas-dia.html",
-            "resumen": "Louzan asegura que la final del Mundial 2030 se jugará en España.&nbsp;Así vienen las portadas de este miércoles 18 de noviembre.",
+            "titulo": "El botín de más de un millón y medio de dólares que acumula Zverev en las ATP Finals de Turín",
+            "link": "https://www.marca.com/tenis/copa-masters/2026/11/20/botin-millon-medio-dolares-acumula-zverev-atp-finals-turin.html",
+            "resumen": "El alemán, número 1 a final de curso, se ha plantado invicto a las semifinales del sábado",
             "fuente": "Marca"
           }
         ]
@@ -147,16 +147,34 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "November 19, 2026",
-    "generada": "18:43",
+    "fecha": "November 20, 2026",
+    "generada": "18:04",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-            "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+            "titulo": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+            "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+            "resumen": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "California’s coastal communities on alert as biggest waves in years hit state",
+            "link": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
+            "resumen": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recorded Multiple coastal hazard warnings were issued this week across California as successive areas of low pressure generated powerful swells…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "The War Is Ravaging Ukraine’s Wildlife, Too",
+            "link": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
+            "resumen": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+            "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
             "fuente": "BBC"
           },
           {
@@ -164,24 +182,6 @@ const EDICION_MUNDO = {
             "link": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
             "resumen": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permits Environmentalists in South Africa are racing to replant five centuries-old baobabs after the 20-tonne trees were dug up by an…",
             "fuente": "The Guardian"
-          },
-          {
-            "titulo": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-            "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-            "resumen": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "One in four women globally unable to refuse sex within marriage, says UN",
-            "link": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
-            "resumen": "Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds One in four women around the world have no power of consent if their husband or partner demands sex, according to a UN report.…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
-            "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
-            "resumen": "The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire.",
-            "fuente": "N.Y. Times"
           }
         ]
       },
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-            "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+            "titulo": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+            "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Other tech companies have also taken a hit as share markets broadly slump.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Anthropic valued at $2tn as shares begin trading at $111.50 each – business live",
-            "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-            "resumen": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic to begin public trading at $1.5tn valuation after largest ever IPO Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with…",
+            "titulo": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
+            "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+            "resumen": "Asian markets record worst week since 2020 as investors question huge sums being poured into AI build-out Who are Anthropic’s seven co-founders, now worth $180bn? Anthropic’s shares fell at the start of its second day of trading, as its…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Holiday Shoppers Seek Affordability at Walmart, Target and Other Retailers",
-            "link": "https://www.nytimes.com/2026/11/19/business/target-walmart-retail-affordability-holiday.html",
-            "resumen": "Walmart and Target are among the retailers that say shoppers are trying to save money amid broader concerns about the U.S. economy. And sales are up.",
+            "titulo": "Inside the Fight Between Native American Tribes and Kalshi",
+            "link": "https://www.nytimes.com/2026/11/20/business/tribal-gaming-kalshi.html",
+            "resumen": "For decades, many U.S. tribes have relied on casinos and other gambling revenue for survival. Prediction markets have threatened their sovereignty, they have argued in court.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "The seven Anthropic founders who are about to become multi-billionaires",
-            "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+            "titulo": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+            "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Labor leaders call on governments to stop awarding Amazon public contracts",
-            "link": "https://www.theguardian.com/global-development/2026/nov/19/labor-unions-amazon-contracts-open-letter",
-            "resumen": "Union leaders from 19 countries urge reassessment of ties to Amazon, citing company’s poor record on worker rights More than 30 labor union leaders from 19 countries are calling on governments to review their public contracts with Amazon…",
+            "titulo": "These US fishers see offshore wind as a ‘godsend’. Trump wants to shut it down",
+            "link": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
+            "resumen": "Despite the president’s attacks, Sea Services is training New England fishers in offshore wind construction and providing them with a second income stream On a rainy September morning, the Pamela Ann, a rusty, 86ft (26-metre) scallop…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,15 +224,15 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Wading bird called Phil tracked in epic migration to Siberia and back",
-            "link": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss",
-            "resumen": "A bird has astonished conservationists by completing a 6,800-mile round trip to Siberia and back.",
+            "titulo": "What are heat pumps and how much do they cost?",
+            "link": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills.",
             "fuente": "BBC"
           },
           {
-            "titulo": "IPCC report delay will threaten global effort to tackle climate crisis, says top scientist",
-            "link": "https://www.theguardian.com/science/2026/nov/19/ipcc-report-delay-climate-crisis-scientist",
-            "resumen": "Johan Rockström, one of world’s leading climate experts, says slowing down scientific work puts cooperation at risk Climate science is “foundational” to the Paris agreement and worldwide progress on tackling global heating, and attempts…",
+            "titulo": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
+            "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+            "resumen": "Cancer undetectable for one in 12 patients in daraxonrasib trial, while nearly all participants’ tumours stopped growing A pill that can shrink and potentially eliminate pancreas tumours is being hailed as the biggest breakthrough…",
             "fuente": "The Guardian"
           },
           {
@@ -242,15 +242,15 @@ const EDICION_MUNDO = {
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Survivors of Uganda's deadly landslide seek justice at the UN",
-            "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
+            "titulo": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
+            "link": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+            "resumen": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Could measles and midterms bring down Maha? – podcast",
-            "link": "https://www.theguardian.com/science/audio/2026/nov/19/could-measles-and-midterms-bring-down-maha-podcast",
-            "resumen": "This week the US lost its measles elimination status, an official recognition that the infectious disease is endemic in the country after being eliminated for 26 years. To find out what this means in practical terms for citizens, Ian…",
+            "titulo": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+            "link": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+            "resumen": "BepiColombo double probe will map planet’s surface and study its interior to shed light on its unusually large core After a voyage of more than eight years and 6bn miles, a joint European-Japanese space mission has arrived at Mercury and…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Culture, defence, Fernandes - Pochettino's priorities at Man Utd",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cxlylzyg38l8o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Culture, defence and Bruno Fernandes - the key issues facing Mauricio Pochettino as he takes over as Manchester United boss.",
+            "titulo": "Man Utd fan criticism has gone too far at times - Berrada",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
             "fuente": "BBC"
           },
           {
-            "titulo": "From training clips to thirst traps: why athletes are turning to OnlyFans",
-            "link": "https://www.theguardian.com/sport/2026/nov/19/athletes-onlyfans-earnings",
-            "resumen": "A professional sports career does not guarantee wealth. And a growing number of athletes are turning to alternative streams of income “I’m sick and tired of it.” Bart Swings tossed his jacket behind him. It was August 2025, the Winter…",
+            "titulo": "Pochettino demands say on big United decisions; Arteta takes fantasy football action; Nations League draw – live",
+            "link": "https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates",
+            "resumen": "⚽ All the latest football news going into the weekend ⚽ Fixtures | Tables | Ten things to look out for | Mail Michael A Liverpool fan accused of racially abusing Antoine Semenyo has been found not guilty after the Manchester City forward…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Cummins' Australia captaincy at a crossroads - Agnew",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c94gnev3kj4vo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Jonathan Agnew says he struggles to see how Pat Cummins can lead Australia into next summer's Ashes series in England following latest developments in the sandpapergate scandal.",
+            "titulo": "Stacked England aim to pile on style and add to All Black misery",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqrmgjpp0l48o?at_medium=RSS&at_campaign=rss",
+            "resumen": "England's easy-on-the-eye revival will be stress-tested by a New Zealand side under sudden pressure on Saturday",
             "fuente": "BBC"
           },
           {
-            "titulo": "Ravens deactivate Marlon Humphrey after cornerback says Baltimore excels at ‘making criminals’",
-            "link": "https://www.theguardian.com/sport/2026/nov/19/marlon-humphrey-criminals-comment-baltimore-ravens",
-            "resumen": "Veteran cornerback out of game at Carolina on Sunday City’s mayor says subsequent apology is not enough Teammate admits Humphrey can be ‘abrasive’ Ravens cornerback Marlon Humphrey has been deactivated for Sunday’s game at Carolina for…",
+            "titulo": "Victor Wembanyama has turned his NBA finals humiliation into a revenge tour for the ages",
+            "link": "https://www.theguardian.com/sport/2026/nov/20/victor-wembanyama-spurs-nba-mvp-finals-redemption",
+            "resumen": "After a humiliating NBA finals defeat, the 22-year-old has returned with a vengeance – and the Spurs look like contenders again It wouldn’t be exactly right to say Victor Wembanyama didn’t miss a beat after a disastrous NBA finals in June…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Premier League clubs to cover legal costs if Man City sponsors sue",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Premier League clubs vote to provide legal cover to the organisation's five board directors in the event Manchester City's sponsors sue them.",
+            "titulo": "Filming training by drones should be illegal - Iraola",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqdr1xmekmg5o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Liverpool head coach Andoni Iraola says filming with drones around training grounds should be illegal.",
             "fuente": "BBC"
           }
         ]
