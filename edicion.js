@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "20 de noviembre de 2026",
-  "generada": "18:04",
+  "fecha": "21 de noviembre de 2026",
+  "generada": "16:59",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Tensión por Malvinas: el embajador británico admitió que “hay días no tan buenos” en el vínculo con Argentina",
-          "link": "https://www.clarin.com/politica/tension-malvinas-embajador-britanico-admitio-dias-buenos-vinculo-argentina_0_9OFCYY17Fb.html",
-          "resumen": "David Cairns festejó el cumpleaños 78 del hijo de Isabel II con una \"garden party\" más austera en la residencia del barrio de Recoleta. No hubo presencia del Gobierno.",
+          "titulo": "Una sobrina del gobernador Gildo Insfrán fue designada en la Corte Suprema de Formosa",
+          "link": "https://www.clarin.com/politica/sobrina-gobernador-gildo-insfran-designada-corte-suprema-formosa_0_qhWvTHZbAD.html",
+          "resumen": "Grisel Mabel Insfrán se desempeñaba como secretaria Legal y Técnica de la gobernación desde 2019. El hermano y la hija del gobernador son diputados provinciales. Gildo Insfrán gobierna Formosa desde 1995.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Máximo Kirchner: “Vamos a armar todo el quilombo que haya que armar”",
-          "link": "https://www.lanacion.com.ar/politica/maximo-kirchner-vamos-a-armar-todo-el-quilombo-que-haya-que-armar-nid20112026/",
-          "resumen": "El diputado propuso “auditar” los beneficios a las inversiones otorgados a través del RIGI; críticas a la política económica",
+          "titulo": "La Corte y los DNU: Milei perdió un rasgo que compartía con Cristina Kirchner y entró en un grupo reducido de presidentes",
+          "link": "https://www.lanacion.com.ar/politica/la-corte-y-los-dnu-milei-perdio-un-rasgo-que-compartia-con-cristina-kirchner-y-entro-en-un-grupo-nid21112026/",
+          "resumen": "Un relevamiento del constitucionalista Gustavo Arballo ayuda a poner en contexto la resolución que declaró inconstitucional dos artículos del megadecreto 70/2023; solo 18 de más de 970 decretos firmados desde 1994 fueron invalidados por…",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Chubut adelantó las elecciones a marzo y Torres buscará la reelección",
-          "link": "https://www.infobae.com/politica/2026/11/20/chubut-adelanto-las-elecciones-a-marzo-y-torres-buscara-la-reeleccion/",
-          "resumen": "El gobernador formalizó la convocatoria para el 21 de marzo de 2027. Es la segunda provincia patagónica que confirma su cronograma electoral, después de Neuquén, que irá a las urnas el 14 de febrero. El peronismo todavía no logra ordenar…",
+          "titulo": "“A las apuradas”: una sobrina de Insfrán fue designada en el Superior Tribunal de Formosa y la oposición denuncia irregularidades",
+          "link": "https://www.infobae.com/politica/2026/11/21/a-las-apuradas-una-sobrina-de-insfran-fue-designada-en-el-superior-tribunal-de-formosa-y-la-oposicion-denuncia-irregularidades/",
+          "resumen": "Lo aprobó la Legislatura de la provincia en un tratamiento sobre tablas. Antes participó de la reforma constitucional que modificó las condiciones para una nueva candidatura del mandatario",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Mansión de Pilar: piden el juicio político contra dos jueces por mal desempeño",
-          "link": "https://www.clarin.com/politica/mansion-pilar-piden-juicio-politico-jueces-mal-desempeno_0_4puKduwObq.html",
-          "resumen": "Se trata de los magistrados Mariano Borinsky y Diego Barroetaveña, de la Cámara de Casación Penal. La presentación fue realizada por la abogada y exvicepresidenta de la Unidad de Información Financiera (UIF), María Eugenia Talerico.",
+          "titulo": "La CGT da marcha atrás con el plan de lucha contra Milei que iba a arrancar en diciembre",
+          "link": "https://www.clarin.com/politica/cgt-da-marcha-plan-lucha-milei-iba-arrancar-diciembre_0_4mSEdYV93S.html",
+          "resumen": "La central obrera analizaba hacer paros parciales de alcance nacional en los lugares de trabajo, pero decidió desistir de la medida.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: “Los responsables van a ser juzgados”, dijo el Presidente sobre el atentado a la AMIA",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-senado-aprobo-la-nueva-ley-de-discapacidad-y-la-adhesion-al-nid20112026/",
-          "resumen": "El minuto a minuto de las decisiones del jefe de Estado, las reacciones de la oposición y las declaraciones de los funcionarios",
+          "titulo": "Milei contra la conjura de los tibios",
+          "link": "https://www.lanacion.com.ar/ideas/milei-contra-la-conjura-de-los-tibios-nid20112026/",
+          "resumen": "El Gobierno cambia las reglas electorales para asegurar la polarización con el peronismo; la furia del presidente estoico contra los herejes propios y una oposición a la que le cuesta asustar",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Antes de la privatización, el Gobierno le aprueba a AySA aumentos de tarifas por encima de la inflación para 2027, pero les pone un tope",
-          "link": "https://www.clarin.com/economia/privatizacion-gobierno-aprueba-aysa-aumentos-tarifas-encima-inflacion-2027-pone-tope_0_rKi2h6ybRh.html",
-          "resumen": "Un 60% de los usuarios tendrán aumentos, pero el Gobierno le puso un techo de 1,5% por sobre el ajuste actual, que sigue a la inflación. Un 40% no tendrá incrementos.",
+          "titulo": "Venta de campos: grandes jugadores y muchos millones para un mercado que estaba dormido",
+          "link": "https://www.clarin.com/economia/venta-campos-grandes-jugadores-millones-mercado-dormido_0_qksSeXYsMs.html",
+          "resumen": "La tierra es considerada un bien estratégico y refugio de valor, pese a que su rendimiento es inferior a activos financieros. Muchos extranjeros se fueron pero sus estancias quedaron en manos de locales. Los casos de la criptomoneda…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Vuelos: por qué una ciudad argentina registró un crecimiento del 397% en pasajeros internacionales",
-          "link": "https://www.lanacion.com.ar/economia/vuelos-por-que-una-ciudad-argentina-registro-un-crecimiento-del-397-en-pasajeros-internacionales-nid20112026/",
-          "resumen": "El tráfico internacional alcanzó un récord en los primeros 10 meses del año, con un incremento del 10%; los aeropuertos del interior registraron fuertes subas por la incorporación de nuevas conexiones directas con el exterior",
+          "titulo": "El Niño y La Niña: un estudio argentino descubrió patrones de recurrencia y planteó una hipótesis hasta 2030",
+          "link": "https://www.lanacion.com.ar/economia/campo/el-nino-y-la-nina-un-estudio-argentino-descubrio-patrones-de-recurrencia-y-planteo-una-hipotesis-nid21112026/",
+          "resumen": "Tras analizar 78 años de registros, el investigador Guillermo A. Chinni encontró coincidencias entre la variabilidad de estos fenómenos y la posición de la Tierra respecto del Sol; el trabajo explora una posible predominancia de El Niño…",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Javier Milei ahora habla de \"privaciones\": en qué mejoró y en qué empeoró la situación económica de los argentinos",
-          "link": "https://www.ambito.com/economia/javier-milei-ahora-habla-privaciones-que-mejoro-y-que-empeoro-la-situacion-economica-los-argentinos-n6347623",
-          "resumen": "Un relevamiento de la consultora Criteria sobre 19 variables revela que, durante el gobierno de Javier Milei, mejoraron los indicadores de pobreza, indigencia e ingresos, pero se deterioraron los vinculados con las dificultades de las…",
+          "titulo": "Ciberseguridad en la era de la IA: cómo se adaptan las empresas y dónde están las oportunidades de inversión",
+          "link": "https://www.ambito.com/economia/ciberseguridad-la-era-la-ia-como-se-adaptan-las-empresas-y-donde-estan-las-oportunidades-inversion-n6347298",
+          "resumen": "La sofisticación de los ciberataques y el avance de la IA obligan a gobiernos y empresas a reforzar su seguridad digital. Especialistas analizan los principales desafíos, los segmentos con mayor potencial de crecimiento y las…",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Una petrolera británica se despega de las Malvinas: \"Nuestro foco está en Argentina\"",
-          "link": "https://www.clarin.com/energia-y-mineria/petrolera-britanica-despega-malvinas-foco-argentina_0_UpS79M0FsD.html",
-          "resumen": "Es Harbour Energy, que tiene producción de gas en Vaca Muerta y Tierra del Fuego. La petrolera fue la continuadora societaria de Premier Oil, empresa sancionada por el proyecto Sea Lion, y generó una causa judicial contra funcionarios…",
+          "titulo": "Consejo para el ministro Caputo: “menos Wall Street y más Conurbano”",
+          "link": "https://www.clarin.com/economia/consejo-ministro-caputo-wall-street-conurbano_0_7nK5i7f6uQ.html",
+          "resumen": "“Están siendo demasiado ortodoxos”, advirtió el ex funcionario Diego Estevez en una comida del Rotary con banqueros, economistas y varios CEO. El otro mensaje en la entrega del premio a los empresarios del año.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "“Condenadas al fracaso”: Gustavo Grobocopatel reveló detalles desconocidos sobre por qué vendió su empresa hace 10 años",
-          "link": "https://www.lanacion.com.ar/economia/campo/condenadas-al-fracaso-gustavo-grobocopatel-revelo-detalles-desconocidos-de-por-que-vendio-su-empresa-nid19112026/",
-          "resumen": "Contó que la operación por Los Grobo Agropecuaria, que quedó bajo el control de un fondo, fue parte de un plan que llevó más de una década y que buscó evitar conflictos entre las siguientes generaciones",
+          "titulo": "A cuánto abre el dólar el martes 24 de noviembre",
+          "link": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-el-martes-24-de-noviembre-nid21112026/",
+          "resumen": "La cotización de la moneda estadounidense se mantiene igual que el último día hábil; cómo fue el comportamiento de la divisa informal y los dólares financieros",
           "fuente": "La Nación"
         }
       ]
@@ -77,34 +77,34 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "En secreto, Gran Bretaña blindó decenas de miles de heladeras contra hackers en una operación a nivel nacional",
-          "link": "https://www.clarin.com/mundo/secreto-gran-bretana-blindo-decenas-miles-heladeras-hackers-operacion-nivel-nacional_0_iHVbHZZ1AX.html",
-          "resumen": "Una operación discreta permitió desconectar miles de sistemas de frío en comercios y depósitos británicos tras detectarse una falla crítica de seguridad. Se trataron los refrigeradores y congeladores en supermercados, estaciones de…",
+          "titulo": "México detuvo al capo narco \"Chapo Isidro\", uno de los diez criminales más buscados por el FBI",
+          "link": "https://www.clarin.com/mundo/mexico-detuvo-capo-narco-chapo-isidro-criminales-buscados-fbi_0_VHYOw1lBrD.html",
+          "resumen": "Es uno de los cabecillas de la banda de los Beltrán Leyva, y aliado de una de las facciones que disputa el control del Cartel de Sinaloa. El espectacular tiroteo que causó pánico y obligó a suspender un partido de béisbol profesional.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Miriam, camionera: “Paso hasta 24 días afuera; cuando vuelvo, tengo tres o cuatro días para ver a mis amigos y preparar las siguientes rutas”",
-          "link": "https://www.lanacion.com.ar/el-mundo/miriam-camionera-paso-hasta-24-dias-afuera-cuando-vuelvo-tengo-tres-o-cuatro-dias-para-ver-a-mis-nid18112026/",
-          "resumen": "La conductora relata cómo organiza sus semanas entre el volante y el hogar; la complejidad de equilibrar una carrera exigente con la vida personal",
+          "titulo": "La cumbre ambiental COP31 y las diferencias entre Brasil y Argentina",
+          "link": "https://www.clarin.com/rural/cumbre-ambiental-cop31-diferencias-brasil-argentina_0_asZHbwqT4A.html",
+          "resumen": "Lula pudo mostrar lo que ya hizo: desde agosto de 2025, su nafta común lleva un 30% de etanol. En nuestro país, la demora por actualizar la ley la la termina pagando toda la sociedad, que pierde inversiones y posterga la mitigación de…",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Una efímera ilusión: a diez años del histórico acuerdo de paz, Colombia sigue atrapada en una espiral de violencia",
+          "link": "https://www.lanacion.com.ar/el-mundo/una-efimera-ilusion-a-diez-anos-del-historico-acuerdo-de-paz-colombia-sigue-atrapada-en-una-espiral-nid21112026/",
+          "resumen": "El celebrado pacto que derivó en el desarme de miles de combatientes de las FARC y hasta en un premio Nobel no logró los resultados esperados y desde entonces las bandas se diversificaron",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El próximo apagón podría ser digital, y ellos quieren estar preparados",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/proximo-apagon-podria-digital-quieren-preparados_0_MbCwPI0Grz.html",
-          "resumen": "“DoorDash no es un plan de emergencia.”",
+          "titulo": "En su centenario y a diez años de su muerte, la Historia no absolvió a Fidel Castro",
+          "link": "https://www.clarin.com/mundo/centenario-anos-muerte-historia-absolvio-fidel-castro_0_5ymATPbNW2.html",
+          "resumen": "El rumbo revolucionario de la isla dio comienzo con el fallido golpe contra una dictadura. El viraje al marxismo cerró las puertas de un proceso de autonomía. La dramática parábola de Cuba: 1953, 1959 y 2016, los años clave.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Colombia pone en marcha el proceso para aplicar la eutanasia a los hipopótamos de Pablo Escobar",
-          "link": "https://www.lanacion.com.ar/el-mundo/colombia-pone-en-marcha-el-proceso-para-aplicar-la-eutanasia-a-los-hipopotamos-de-pablo-escobar-nid20112026/",
-          "resumen": "La primera etapa involucrará a 10 ejemplares de los 260 que hay; en paralelo se ejecutarán esterilizaciones, confinamientos y traslados",
+          "titulo": "México capturó a uno de los narcos más buscados por el FBI y se desató caos en Sinaloa",
+          "link": "https://www.lanacion.com.ar/el-mundo/mexico-capturo-a-uno-de-los-narcos-mas-buscados-por-el-fbi-y-se-desato-caos-en-sinaloa-nid21112026/",
+          "resumen": "Su detención, junto con las de otros dos cabecillas de su grupo criminal, provocó un violento enfrentamiento entre bandas",
           "fuente": "La Nación"
-        },
-        {
-          "titulo": "El fallo sobre el genocidio en Myanmar prepara el terreno para una batalla legal por Israel y Gaza",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/fallo-genocidio-myanmar-prepara-terreno-batalla-legal-israel-gaza_0_lpkVNgGBon.html",
-          "resumen": "El fallo de la Corte Internacional de Justicia aborda cuestiones relevantes para el caso presentado contra Israel en el que se le acusa de genocidio en Gaza. Israel ha rechazado la acusación.",
-          "fuente": "Clarín"
         }
       ]
     },
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "El sorteo de la Nations League dejó partidazos para los cuartos de final: Francia busca revancha de España tras el Mundial, lo mismo que Haaland ante Inglaterra",
-          "link": "https://www.clarin.com/deportes/sorteo-nations-league-dejo-partidazos-cuartos-final-francia-busca-revancha-espana-mundial-mismo-haaland-inglaterra_0_15Eip1ptKK.html",
-          "resumen": "El cuadro de la fase decisiva quedó repleto de cruces con historia reciente y cuentas pendientes. Dirigida por Zidane, la selección gala enfrentará al campeón del mundo, en una final anticipada. Además, varias potencias buscarán dar otro…",
+          "titulo": "A qué hora juegan Los Pumas vs Francia, EN VIVO: formaciones y cómo ver el partido de la Nations Championship",
+          "link": "https://www.clarin.com/deportes/hora-juegan-pumas-vs-francia-vivo-formaciones-ver-partido-nations-championship_0_CHcGvGVImn.html",
+          "resumen": "El equipo argentino busca un triunfo histórico en París para pelear por el quinto puesto del torneo, mientras que el dueño de casa quiere ser líder.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Horarios de los octavos de final del Torneo Clausura 2026",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/horarios-de-los-octavos-de-final-del-torneo-clausura-2026-nid20112026/",
-          "resumen": "El campeonato comienza a transitar su etapa final con los choques de eliminación directa; abren la jornada Vélez y Belgrano; la cierran Boca e Independiente Rivadavia",
+          "titulo": "Carlos Alcaraz reaccionó, le ganó a Ben Shelton y jugará la definición de las ATP Finals en Turín",
+          "link": "https://www.lanacion.com.ar/deportes/tenis/carlos-alcaraz-reacciono-le-gano-a-ben-shelton-y-jugara-la-definicion-de-las-atp-finals-en-turin-nid21112026/",
+          "resumen": "El español había cedido el primer set, pero dio vuelta el partido y se quedó con la victoria en el tie-break",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Asado y buen clima pre Libertadores en Estudiantes: el festejo puertas adentro tras la obtención de la Supercopa",
-          "link": "https://www.ole.com.ar/estudiantes/asado-buen-clima-estudiantes-festejo-supercopa-independiente-rivadavia-copa-libertadores_0_tTn9mXmfHU.html",
-          "resumen": "A falta de una semana para la final de la Copa ante Palmeiras, el plantel del Pincha disfrutó de un momento de distensión en City Bell.",
+          "titulo": "El gran momento de un ex River en La Liga de España: hizo un gol y dio una asistencia top",
+          "link": "https://www.ole.com.ar/futbol-internacional/ex-river-figura-espana-gol-asistencia-top-video_0_YSPR6cgZzh.html",
+          "resumen": "Un delantero formado en el Millonario es una de las figuras del torneo español. Mirá los videos.",
           "fuente": "Olé"
         },
         {
-          "titulo": "René Higuita palpita la final de la Copa Sudamericana: su devoción por el arquero de Boca, Alvaro Montero, y el factor Barranquilla",
-          "link": "https://www.clarin.com/deportes/rene-higuita-palpita-final-copa-sudamericana-devocion-arquero-boca-alvaro-montero-factor-barranquilla_0_mXbOYeZAnr.html",
-          "resumen": "El Loco, a los 60 años y desde su Colombia natal, también elogia a Sebastián Villa. \"Se metió en el bolsillo a la hinchada y pasó de villano a héroe\", le dijo a Clarín sobre su colega en el arco, de dos metros de altura.",
+          "titulo": "Tropezón del Manchester City: por qué Enzo Maresca mandó a Enzo Fernández al banco en el empate ante Fulham",
+          "link": "https://www.clarin.com/deportes/tropezon-manchester-city-enzo-maresca-mando-enzo-fernandez-banco-empate-fulham_0_Bv4qk0aTC2.html",
+          "resumen": "El director técnico italiano optó por el marroquí Ayyoub Bouaddi desde el arranque y aclaró que la suplencia del volante no obedeció a un problema de equilibrio táctico. Con este resultado en el Etihad Stadium, el conjunto ciudadano…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Los hijos de Manu Ginóbili jugaron al básquet y sorprendieron a todos con su talento: “Nos volvemos a ilusionar”",
-          "link": "https://www.lanacion.com.ar/deportes/los-hijos-de-manu-ginobili-jugaron-al-basquet-y-sorprendieron-a-todos-con-su-talento-nos-volvemos-a-nid20112026/",
-          "resumen": "Los mellizos de 16 años, Dante y Nicola, heredaron de su padre la pasión por el deporte y en un reciente partido que disputaron sobresalieron con sus habilidades",
+          "titulo": "La furia de Russell contra Verstappen por una maniobra peligrosa en la última práctica del Gran Premio de Las Vegas",
+          "link": "https://www.lanacion.com.ar/deportes/automovilismo/la-furia-de-russell-contra-verstappen-por-una-maniobra-peligrosa-en-la-ultima-practica-del-gran-nid21112026/",
+          "resumen": "El británico fue desafiante en sus declaraciones tras una acción en la que se rozaron; compartirán la primera fila de largada",
           "fuente": "La Nación"
         }
       ]

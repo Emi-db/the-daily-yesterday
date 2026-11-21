@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "20 de noviembre de 2026",
-    "generada": "18:04",
+    "fecha": "21 de noviembre de 2026",
+    "generada": "16:59",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Qué pasó con las FARC 10 años después del acuerdo de paz que puso fin a más de 50 años de conflicto con el Estado en Colombia",
-            "link": "https://www.bbc.com/mundo/articles/c8zxl4rd6nq5o?at_medium=RSS&at_campaign=rss",
-            "resumen": "En 2016, más de 13.000 guerrilleros firmaron la paz con el Estado colombiano tras más de 50 años en guerra, dejaron las armas y se reincorporaron a la vida civil. ¿Qué ha ocurrido desde entonces?",
+            "titulo": "\"Hay una parte de mí que va aprendiendo a ser viejo, pero hay otra a la que le cuesta muchísimo\": Jorge Drexler",
+            "link": "https://www.bbc.com/mundo/articles/c6n90g8p3nlwo?at_medium=RSS&at_campaign=rss",
+            "resumen": "El músico uruguayo ganó tres premios Latin Grammy la semana pasada y recibió ahora dos nominaciones al Grammy anglosajón.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Dos misiles y un dron rusos caen en el este de Polonia en plenas maniobras militares de una decena de países europeos",
-            "link": "https://elpais.com/internacional/2026-11-20/dos-misiles-y-un-dron-rusos-caen-en-el-este-de-polonia-en-plenas-maniobras-militares-de-una-decena-de-paises-europeos.html",
-            "resumen": "El Gobierno de Varsovia califica las incursiones aéreas de “provocación intencionada” de Moscú y pide a la OTAN el refuerzo del flanco oriental. La UE condena la “violación del espacio aéreo” polaco",
+            "titulo": "Las infraestructuras se convierten en el gran flanco débil de Occidente",
+            "link": "https://elpais.com/internacional/2026-11-21/las-infraestructuras-se-convierten-en-el-gran-flanco-debil-de-occidente.html",
+            "resumen": "La concatenación de fallos, sabotajes y ciberataques obliga a Europa y a EE UU a reaccionar y aflojar la chequera para actualizar unos sistemas diseñados para el mundo analógico",
             "fuente": "El País"
           },
           {
-            "titulo": "“¿Ayudará a los rohingyas la sentencia por genocidio contra Myanmar?”: ‘The Conversation’",
-            "link": "https://www.france24.com/es/programas/revista-de-prensa/20261120-ayudar%C3%A1-a-los-rohingyas-la-sentencia-por-genocidio-contra-myanmar-the-conversation",
-            "resumen": "La Corte Internacional de Justicia (CIJ) dictaminó que Myanmar cometió genocidio contra la comunidad rohingyas durante una brutal campaña militar en 2017. Pese al carácter histórico del fallo, las preguntas giran ahora en torno al impacto…",
+            "titulo": "Un ataque israelí mata a tres palestinos en un vehículo que transportaba alimentos en Gaza",
+            "link": "https://www.france24.com/es/medio-oriente/20261121-un-ataque-israel%C3%AD-mata-a-tres-palestinos-en-un-veh%C3%ADculo-que-transportaba-alimentos-en-gaza",
+            "resumen": "Tres palestinos murieron este sábado en un ataque israelí contra un vehículo que transportaba alimentos en la ciudad de Gaza, según el ministerio de Salud del territorio y testigos. World Central Kitchen negó que el vehículo estuviera…",
             "fuente": "France 24"
           },
           {
-            "titulo": "\"Aquí los drones no vuelan\": la BBC en el interior del gasoducto desde el que Ucrania libra una guerra subterránea contra Rusia",
-            "link": "https://www.bbc.com/mundo/articles/c6wy418my1mlo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Las fuerzas ucranianas combaten contra las tropas rusas en un antiguo túnel soviético en la región de Járkiv en condiciones extremas.",
+            "titulo": "\"No quise negociar la sangre de mi hija\": la madre de una adolescente muerta a tiros en las protestas en Irán exige justicia desde el exilio",
+            "link": "https://www.bbc.com/mundo/articles/cwx28636mp5zo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Samira publica desde el extranjero los nombres de miembros de las fuerzas de seguridad iraníes que, según ella, son responsables de la muerte de los manifestantes.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Rusia ataca los puentes de Kiev y la infraestructura energética de Ucrania tras la ofensiva en el estrecho de Kerch",
-            "link": "https://elpais.com/internacional/2026-11-20/rusia-ataca-los-puentes-de-kiev-y-la-infraestructura-energetica-de-ucrania-tras-la-ofensiva-en-el-estrecho-de-kerch.html",
-            "resumen": "Los bombardeos matan a una decena de personas, hieren a 28 y causan apagones en diez regiones. Francia pide una reunión del Consejo de Seguridad de la ONU tras los ataques a las embajadas de Austria y Países Bajos",
+            "titulo": "¿Qué pasa si Google y Microsoft caen a la vez? La economía mundial se ha hipotecado con un puñado de servidores",
+            "link": "https://elpais.com/internacional/2026-11-21/que-pasa-si-google-y-microsoft-caen-a-la-vez-la-economia-mundial-se-ha-hipotecado-con-un-punado-de-servidores.html",
+            "resumen": "Solo tres compañías controlan el 70% del mercado de operadores de la nube en Europa. Los expertos alertan de la extrema dependencia de servicios interconectados entre sí y sin suficientes cortafuegos",
             "fuente": "El País"
           }
         ]
@@ -43,9 +43,9 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Transportes confía en que la línea Madrid-Sevilla en Urda se repare en unas dos semanas",
-            "link": "https://elpais.com/economia/2026-11-20/transportes-confia-en-que-la-linea-madrid-sevilla-en-urda-se-repare-en-unas-dos-semanas.html",
-            "resumen": "El ministerio elude comprometerse aún con una fecha de reapertura, mientras Adif valora los daños del siniestro, y Renfe, Iryo y Ouigo ofrecen billetes para viajar a partir del 13 de diciembre",
+            "titulo": "La UE plantea una tasa digital para financiar los próximos presupuestos europeos y reducir los recortes",
+            "link": "https://elpais.com/economia/2026-11-21/la-ue-plantea-una-tasa-digital-para-financiar-los-proximos-presupuestos-europeos-y-reducir-los-recortes.html",
+            "resumen": "Costa propone nuevos impuestos europeos para recaudar 60.000 millones al año y amortiguar los recortes de unas cuentas ya poco ambiciosas",
             "fuente": "El País"
           },
           {
@@ -55,9 +55,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "Las rentas más altas acaparan tres cuartas partes de las ventajas fiscales al alquiler de vivienda",
-            "link": "https://elpais.com/economia/2026-11-20/las-rentas-mas-altas-acaparan-tres-cuartas-partes-de-las-ventajas-fiscales-al-alquiler-de-vivienda.html",
-            "resumen": "Los descuentos a los caseros en el IRPF cuestan a Hacienda unos 1.100 millones al año, de los que más de 800 millones van a parar al 10% más rico de la población",
+            "titulo": "La crisis de la vivienda golpea más fuerte a los inmigrantes: “Soñamos con lo mínimo”",
+            "link": "https://elpais.com/economia/vivienda/2026-11-21/la-crisis-de-la-vivienda-golpea-mas-fuerte-a-los-inmigrantes-sonamos-con-lo-minimo.html",
+            "resumen": "Expertos y organizaciones sociales señalan que, pese al discurso ultra que los sitúa en el ojo del huracán, los extranjeros extracomunitarios sufren mayor exclusión residencial y discriminación",
             "fuente": "El País"
           },
           {
@@ -67,9 +67,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "Mi comunidad de propietarios se niega a asumir el coste de reparación de unas vigas centenarias. ¿Qué puedo hacer?",
-            "link": "https://elpais.com/economia/vivienda/consultorio/2026-11-20/mi-comunidad-de-propietarios-se-niega-a-asumir-el-coste-de-reparacion-de-unas-vigas-centenarias-que-puedo-hacer.html",
-            "resumen": "Los lectores envían sus preguntas al consultorio de vivienda de EL PAÍS en colaboración con Legálitas",
+            "titulo": "Miles de personas marchan en Barcelona por la educación pública en vísperas a una nueva huelga",
+            "link": "https://elpais.com/espana/catalunya/2026-11-21/miles-de-personas-marchan-en-barcelona-por-la-educacion-publica-en-visperas-a-una-nueva-huelga.html",
+            "resumen": "La protesta, convocada por los sindicatos Ustec, CGT y la Intersindical, ha contado con la adhesión del Sindicato de Inquilinas",
             "fuente": "El País"
           }
         ]
@@ -84,9 +84,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Llamadas para comprar una bici, mangos o un tratamiento para la vagina: qué pasa si la IA distribuye tu número de teléfono",
-            "link": "https://elpais.com/tecnologia/2026-11-20/llamadas-para-comprar-una-bici-mangos-o-un-tratamiento-para-la-vagina-que-pasa-si-la-ia-distribuye-tu-numero-de-telefono.html",
-            "resumen": "Un hombre cuenta cómo recibe llamadas con quejas y dudas de clientes de clínicas estéticas, tiendas de persianas o farmacias online después de que Gemini y ChatGPT ofrecieran su móvil por error",
+            "titulo": "Jian Tang, fabricante de robots: “Lo primero que harán será recoger cosas y poner lavadoras”",
+            "link": "https://elpais.com/tecnologia/2026-11-21/jian-tang-fabricante-de-robots-lo-primero-que-haran-sera-recoger-cosas-y-poner-lavadoras.html",
+            "resumen": "El director tecnológico de la empresa china X-Humanoid cree que, en el futuro, los humanoides serán un miembro más de la familia",
             "fuente": "El País"
           },
           {
@@ -96,9 +96,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Facebook, la herramienta clave del genocidio contra los rohinyás: “Una cuenta militar los deshumanizaba”",
-            "link": "https://elpais.com/tecnologia/2026-11-19/facebook-la-herramienta-clave-del-genocidio-contra-los-rohinyas-una-cuenta-militar-los-deshumanizaba.html",
-            "resumen": "La sentencia del Tribunal Internacional de Justicia de la ONU identifica a la red social como un mecanismo usado por el ejército para difundir mensajes de odio que propiciaron la limpieza étnica",
+            "titulo": "Un clic para ser adulto: así llegan los menores a 3.930 videojuegos pornográficos",
+            "link": "https://elpais.com/tecnologia/2026-11-21/un-clic-para-ser-adulto-asi-llegan-los-menores-a-3930-videojuegos-pornograficos.html",
+            "resumen": "La mayor plataforma de juegos para ordenador del mundo solo pide declarar que se es mayor de edad para acceder a miles de títulos explícitos",
             "fuente": "El País"
           },
           {
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Christensen, probable baja para el Barça-Villarreal",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261120/1004253433/christensen-probable-baja-barca-villarreal.html",
-            "resumen": "Andreas Christensen vuelve a estar en riesgo de caerse de una convocatoria del FC Barcelona . Lo más probable es que el central danés de 30 años no entre en la relación de citados por Hansi Flick para reanudar este domingo (14 horas) la…",
+            "titulo": "Márquez se queda a vuelta y media del título por culpa de una caída en el sprint",
+            "link": "https://www.mundodeportivo.com/motor/motogp/20261121/1004253755/marc-marquez-queda-vuelta-media-titulo-motogp-culpa-caida-sprint-portimao.html",
+            "resumen": "Marc Márquez se ha quedado a vuelta y media de cantar el alirón bajo la lluvia en Portimão este sábado . Se habían ido por delante Marco Bezzecchi y Raúl Fernández porque, perdido el título de pilotos, Aprilia sale a por todas a por el…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Koundé repite en el entrenamiento y apunta al Villarreal-Barça",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261120/1004253381/kounde-repite-entrenamiento-apunta-villarreal-barca.html",
-            "resumen": "La reanudación de la Liga tras los partidos de selecciones trae, por esta vez, buenas noticias para el Barça de Hansi Flick . Estas dos semanas sin fútbol de clubs ha permitido avanzar en la evolución positiva de Jules Koundé , que por…",
+            "titulo": "¿Qué debe hacer Marc Márquez para lograr el título en Portimão? Así queda la clasificación de MotoGP tras la Sprint",
+            "link": "https://www.mundodeportivo.com/motor/motogp/20261121/1004253752/debe-marc-marquez-lograr-titulo-portugal-error-sprint-asi-queda-clasificacion-motogp.html",
+            "resumen": "Lo tenía hecho. Solo le faltaba una vuelta y media para poder celebrar ya el 10º título de campeón del mundo de motociclismo. Pero Marc Márquez t endrá que esperar. El de Ducati se fue al suelo cuando empezaron a caer más gotas en…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,16 +147,16 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "November 20, 2026",
-    "generada": "18:04",
+    "fecha": "November 21, 2026",
+    "generada": "16:59",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-            "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-            "resumen": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+            "titulo": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+            "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
             "fuente": "BBC"
           },
           {
@@ -166,15 +166,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "The War Is Ravaging Ukraine’s Wildlife, Too",
-            "link": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
-            "resumen": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire.",
+            "titulo": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+            "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
+            "resumen": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-            "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
+            "titulo": "Tech stock sell-off drags markets down as Anthropic shares slide",
+            "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
             "fuente": "BBC"
           },
           {
@@ -189,34 +189,34 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-            "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Other tech companies have also taken a hit as share markets broadly slump.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
-            "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-            "resumen": "Asian markets record worst week since 2020 as investors question huge sums being poured into AI build-out Who are Anthropic’s seven co-founders, now worth $180bn? Anthropic’s shares fell at the start of its second day of trading, as its…",
+            "titulo": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
+            "link": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
+            "resumen": "‘Poster child of AI bubble’ CoreWeave symbolises increasingly risky business model of datacentre buildout The Egyptians had pyramids. The Roman empire had roads. The early 21st-century tech bros have massive buildings full of expensive…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Inside the Fight Between Native American Tribes and Kalshi",
-            "link": "https://www.nytimes.com/2026/11/20/business/tribal-gaming-kalshi.html",
-            "resumen": "For decades, many U.S. tribes have relied on casinos and other gambling revenue for survival. Prediction markets have threatened their sovereignty, they have argued in court.",
+            "titulo": "Elon Musk on His Politics, a Potential Merger and Ukraine",
+            "link": "https://www.nytimes.com/2026/11/21/business/dealbook/elon-musk-dealbook-summit.html",
+            "resumen": "The chief executive of Tesla and SpaceX spoke with Andrew Ross Sorkin at the DealBook Summit.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-            "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+            "titulo": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+            "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
             "fuente": "BBC"
           },
           {
-            "titulo": "These US fishers see offshore wind as a ‘godsend’. Trump wants to shut it down",
-            "link": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
-            "resumen": "Despite the president’s attacks, Sea Services is training New England fishers in offshore wind construction and providing them with a second income stream On a rainy September morning, the Pamela Ann, a rusty, 86ft (26-metre) scallop…",
+            "titulo": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+            "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+            "resumen": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? As Anthropic’s stock dropped during…",
             "fuente": "The Guardian"
+          },
+          {
+            "titulo": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
+            "link": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html",
+            "resumen": "The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending.",
+            "fuente": "N.Y. Times"
           }
         ]
       },
@@ -224,9 +224,9 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "What are heat pumps and how much do they cost?",
-            "link": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills.",
+            "titulo": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+            "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
             "fuente": "BBC"
           },
           {
@@ -236,15 +236,15 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "A.I. Has Changed How We Talk. Here Are the Words You Need to Know.",
-            "link": "https://www.nytimes.com/2026/11/18/science/ai-artificial-intelligence-terminology-glossary.html",
-            "resumen": "A Glossary of AI Terms You Should Know",
+            "titulo": "A New Era of A.I.-Driven Chaos? That Might Just Be Progress.",
+            "link": "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html",
+            "resumen": "If artificial intelligence is giving rise to outages, cyberattacks and more, it’s consistent with history, in that it shows how new innovations often set off calamitous failure before they make life better.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
-            "link": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
-            "resumen": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
+            "titulo": "Birds killed in blaze at one of the largest foie gras farms in the US",
+            "link": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns.",
             "fuente": "BBC"
           },
           {
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Man Utd fan criticism has gone too far at times - Berrada",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
+            "titulo": "Superb England run up record win over New Zealand",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo?at_medium=RSS&at_campaign=rss",
+            "resumen": "England's revival roars up a gear as they beat New Zealand by a record margin after former captain Lewis Moody leads the hosts' response to the haka.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Pochettino demands say on big United decisions; Arteta takes fantasy football action; Nations League draw – live",
-            "link": "https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates",
-            "resumen": "⚽ All the latest football news going into the weekend ⚽ Fixtures | Tables | Ten things to look out for | Mail Michael A Liverpool fan accused of racially abusing Antoine Semenyo has been found not guilty after the Manchester City forward…",
+            "titulo": "Chelsea v Leeds, Tottenham v Ipswich, and more: football clockwatch – live",
+            "link": "https://www.theguardian.com/football/live/2026/nov/21/chelsea-v-leeds-tottenham-v-ipswich-and-more-football-clockwatch-live",
+            "resumen": "⚽️ Follow updates from the Premier League and beyond ⚽️ Live scores | Table | Follow on TikTok | And mail Emillia Championship fixtures Millwall 0-1 QPR Norwich City 2-1 Cardiff City Southampton 2-0 Derby County West Ham v Preston North…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Stacked England aim to pile on style and add to All Black misery",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqrmgjpp0l48o?at_medium=RSS&at_campaign=rss",
-            "resumen": "England's easy-on-the-eye revival will be stress-tested by a New Zealand side under sudden pressure on Saturday",
+            "titulo": "McConnell shines as 11-try Scotland dismantle Japan",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx2x00w08keo?at_medium=RSS&at_campaign=rss",
+            "resumen": "A Liam McConnell hat-trick inspires Scotland in an 11-try Nations Championship rout of Japan at Murrayfield.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Victor Wembanyama has turned his NBA finals humiliation into a revenge tour for the ages",
-            "link": "https://www.theguardian.com/sport/2026/nov/20/victor-wembanyama-spurs-nba-mvp-finals-redemption",
-            "resumen": "After a humiliating NBA finals defeat, the 22-year-old has returned with a vengeance – and the Spurs look like contenders again It wouldn’t be exactly right to say Victor Wembanyama didn’t miss a beat after a disastrous NBA finals in June…",
+            "titulo": "Cavaliers’ James Harden rolls back years with ‘vintage’ 51-point explosion to pass Kobe Bryant",
+            "link": "https://www.theguardian.com/sport/2026/nov/21/james-harden-51-points-kobe-bryant-cavaliers-pacers-nba",
+            "resumen": "Cavaliers star scores 51 in 128-119 win over Pacers Harden passes Bryant with 26th career 50-point game Only Chamberlain, Jordan have more 50-point games James Harden’s game has evolved over the past couple of seasons, with the Cleveland…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Filming training by drones should be illegal - Iraola",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqdr1xmekmg5o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Liverpool head coach Andoni Iraola says filming with drones around training grounds should be illegal.",
+            "titulo": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Manchester City spent £327m overhauling their midfield in the summer - but how does Enzo Maresca find the right balance?",
             "fuente": "BBC"
           }
         ]
