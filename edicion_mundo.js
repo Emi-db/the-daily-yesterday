@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "21 de noviembre de 2026",
-    "generada": "16:59",
+    "fecha": "22 de noviembre de 2026",
+    "generada": "17:27",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "\"Hay una parte de mí que va aprendiendo a ser viejo, pero hay otra a la que le cuesta muchísimo\": Jorge Drexler",
-            "link": "https://www.bbc.com/mundo/articles/c6n90g8p3nlwo?at_medium=RSS&at_campaign=rss",
-            "resumen": "El músico uruguayo ganó tres premios Latin Grammy la semana pasada y recibió ahora dos nominaciones al Grammy anglosajón.",
+            "titulo": "Pasé más de 10 años llevando por las montañas de Colombia los mensajes secretos que hicieron posible el acuerdo de paz entre el gobierno y las FARC",
+            "link": "https://www.bbc.com/mundo/articles/ckz74v0n4rydo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Henry Acosta Patiño fue durante años el mensajero oculto entre el gobierno de Colombia y las FARC. Su papel en el detrás de escenas de las negociaciones fue clave para el acuerdo de paz firmado hace 10 años.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Las infraestructuras se convierten en el gran flanco débil de Occidente",
-            "link": "https://elpais.com/internacional/2026-11-21/las-infraestructuras-se-convierten-en-el-gran-flanco-debil-de-occidente.html",
-            "resumen": "La concatenación de fallos, sabotajes y ciberataques obliga a Europa y a EE UU a reaccionar y aflojar la chequera para actualizar unos sistemas diseñados para el mundo analógico",
+            "titulo": "La UE abraza la línea dura sobre migración al aceptar los centros de deportación en Ruanda que tachaba de inhumanos",
+            "link": "https://elpais.com/internacional/2026-11-22/la-ue-abraza-la-linea-dura-sobre-migracion-al-aceptar-los-centros-de-deportacion-en-ruanda-que-tachaba-de-inhumanos.html",
+            "resumen": "El acuerdo de cinco países con Kigali marca un cambio de paradigma en Europa, donde avanzan las políticas restrictivas a lomos de la extrema derecha",
             "fuente": "El País"
           },
           {
-            "titulo": "Un ataque israelí mata a tres palestinos en un vehículo que transportaba alimentos en Gaza",
-            "link": "https://www.france24.com/es/medio-oriente/20261121-un-ataque-israel%C3%AD-mata-a-tres-palestinos-en-un-veh%C3%ADculo-que-transportaba-alimentos-en-gaza",
-            "resumen": "Tres palestinos murieron este sábado en un ataque israelí contra un vehículo que transportaba alimentos en la ciudad de Gaza, según el ministerio de Salud del territorio y testigos. World Central Kitchen negó que el vehículo estuviera…",
+            "titulo": "Incendio en fábrica de confitería en Indonesia deja al menos tres muertos y 36 desaparecidos",
+            "link": "https://www.france24.com/es/video/20261122-incendio-en-f%C3%A1brica-de-confiter%C3%ADa-en-indonesia-deja-al-menos-tres-muertos-y-36-desaparecidos",
+            "resumen": "Al menos tres personas murieron y otras 36 permanecen desaparecidas tras un incendio en una fábrica de confitería en la provincia de Banten, cerca de Yakarta, Indonesia. El fuego comenzó el sábado 21 de noviembre y continúa activo en…",
             "fuente": "France 24"
           },
           {
-            "titulo": "\"No quise negociar la sangre de mi hija\": la madre de una adolescente muerta a tiros en las protestas en Irán exige justicia desde el exilio",
-            "link": "https://www.bbc.com/mundo/articles/cwx28636mp5zo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Samira publica desde el extranjero los nombres de miembros de las fuerzas de seguridad iraníes que, según ella, son responsables de la muerte de los manifestantes.",
+            "titulo": "\"Fui coaccionada para tener un hijo\": cómo un multimillonario engañó a la exitosa DJ Liv Nervo para que quedara embarazada",
+            "link": "https://www.bbc.com/mundo/articles/cqm2ly382ylxo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Durante años creyó vivir un amor de película. Hasta que, con seis meses de embarazo, descubrió la verdad. Ahora lucha porque eso sea castigado por la ley cuando le ocurra a otras.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "¿Qué pasa si Google y Microsoft caen a la vez? La economía mundial se ha hipotecado con un puñado de servidores",
-            "link": "https://elpais.com/internacional/2026-11-21/que-pasa-si-google-y-microsoft-caen-a-la-vez-la-economia-mundial-se-ha-hipotecado-con-un-punado-de-servidores.html",
-            "resumen": "Solo tres compañías controlan el 70% del mercado de operadores de la nube en Europa. Los expertos alertan de la extrema dependencia de servicios interconectados entre sí y sin suficientes cortafuegos",
+            "titulo": "Del genocidio a las deportaciones: por qué Europa elige Ruanda para expulsar migrantes",
+            "link": "https://elpais.com/internacional/2026-11-22/del-genocidio-a-las-deportaciones-por-que-europa-elige-ruanda-para-expulsar-migrantes.html",
+            "resumen": "La cooperación judicial para perseguir a los sospechosos de la matanza de tutsis en 1994 ha estrechado los vínculos entre Kigali y varios países europeos, una relación que ayuda a entender el acuerdo",
             "fuente": "El País"
           }
         ]
@@ -43,9 +43,9 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "La UE plantea una tasa digital para financiar los próximos presupuestos europeos y reducir los recortes",
-            "link": "https://elpais.com/economia/2026-11-21/la-ue-plantea-una-tasa-digital-para-financiar-los-proximos-presupuestos-europeos-y-reducir-los-recortes.html",
-            "resumen": "Costa propone nuevos impuestos europeos para recaudar 60.000 millones al año y amortiguar los recortes de unas cuentas ya poco ambiciosas",
+            "titulo": "“Tenemos el mejor candidato”: así lanzó España la carrera por la presidencia del BCE",
+            "link": "https://elpais.com/economia/2026-11-22/tenemos-el-mejor-candidato-asi-lanzo-espana-la-carrera-por-la-presidencia-del-bce.html",
+            "resumen": "El perfil de Hernández de Cos más las circunstancias que condicionan a Francia y Alemania dejan al español a las puertas de dirigir al regulador monetario",
             "fuente": "El País"
           },
           {
@@ -55,9 +55,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "La crisis de la vivienda golpea más fuerte a los inmigrantes: “Soñamos con lo mínimo”",
-            "link": "https://elpais.com/economia/vivienda/2026-11-21/la-crisis-de-la-vivienda-golpea-mas-fuerte-a-los-inmigrantes-sonamos-con-lo-minimo.html",
-            "resumen": "Expertos y organizaciones sociales señalan que, pese al discurso ultra que los sitúa en el ojo del huracán, los extranjeros extracomunitarios sufren mayor exclusión residencial y discriminación",
+            "titulo": "Los fallos en los sistemas antiblanqueo ponen a Revolut y otros neobancos en el punto de mira",
+            "link": "https://elpais.com/economia/2026-11-22/los-fallos-en-los-sistemas-antiblanqueo-ponen-a-revolut-y-otros-neobancos-en-el-punto-de-mira.html",
+            "resumen": "Las sanciones a Revolut, N26, Monzo y Starling en los últimos años reabren el debate sobre la capacidad de las entidades digitales para prevenir y detectar delitos económicos",
             "fuente": "El País"
           },
           {
@@ -67,9 +67,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "Miles de personas marchan en Barcelona por la educación pública en vísperas a una nueva huelga",
-            "link": "https://elpais.com/espana/catalunya/2026-11-21/miles-de-personas-marchan-en-barcelona-por-la-educacion-publica-en-visperas-a-una-nueva-huelga.html",
-            "resumen": "La protesta, convocada por los sindicatos Ustec, CGT y la Intersindical, ha contado con la adhesión del Sindicato de Inquilinas",
+            "titulo": "Los directivos españoles moderan su optimismo a medio plazo, pero mantienen la apuesta por el empleo y la IA",
+            "link": "https://elpais.com/economia/2026-11-22/los-directivos-espanoles-moderan-su-optimismo-a-medio-plazo-pero-mantienen-la-apuesta-por-el-empleo-y-la-ia.html",
+            "resumen": "El 74% de los consejeros delegados confía en que su empresa crezca en los próximos tres años, cuatro puntos menos que en 2025 y diez por debajo de la media global, según un estudio de KPMG",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Márquez se queda a vuelta y media del título por culpa de una caída en el sprint",
-            "link": "https://www.mundodeportivo.com/motor/motogp/20261121/1004253755/marc-marquez-queda-vuelta-media-titulo-motogp-culpa-caida-sprint-portimao.html",
-            "resumen": "Marc Márquez se ha quedado a vuelta y media de cantar el alirón bajo la lluvia en Portimão este sábado . Se habían ido por delante Marco Bezzecchi y Raúl Fernández porque, perdido el título de pilotos, Aprilia sale a por todas a por el…",
+            "titulo": "Marc Márquez, campeón del mundo por décima vez y ya es el más laureado de la historia moderna en MotoGP",
+            "link": "https://www.mundodeportivo.com/motor/motogp/20261122/1004254106/marc-marquez-campeon-mundo-motogp-decima-vez-laureado-historia-motogp.html",
+            "resumen": "Con una carrera conservadora, de las de llegar al final de la carrera sin entrar en batallas innecesarias, Marc Márquez ha conquistado la décima corona mundial de siempre y octava de MotoGP precisamente con un octavo puesto en la carrera…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "¿Qué debe hacer Marc Márquez para lograr el título en Portimão? Así queda la clasificación de MotoGP tras la Sprint",
-            "link": "https://www.mundodeportivo.com/motor/motogp/20261121/1004253752/debe-marc-marquez-lograr-titulo-portugal-error-sprint-asi-queda-clasificacion-motogp.html",
-            "resumen": "Lo tenía hecho. Solo le faltaba una vuelta y media para poder celebrar ya el 10º título de campeón del mundo de motociclismo. Pero Marc Márquez t endrá que esperar. El de Ducati se fue al suelo cuando empezaron a caer más gotas en…",
+            "titulo": "Remontada épica de un Barça de dos caras",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004254088/cronica-barca-villarreal.html",
+            "resumen": "P egada y pasión para una gran remontada de un Barça tormentoso, en un partido que empezó fatal y acabó en epopeya. El regreso de parón FIFA, un horario maldito y la visita del Submarino Amarillo , habitual en tardes y noches…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,16 +147,28 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "November 21, 2026",
-    "generada": "16:59",
+    "fecha": "November 22, 2026",
+    "generada": "17:27",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-            "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+            "titulo": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+            "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
+            "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
+            "resumen": "China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "South Korea education minister resigns over exam cheating scandal",
+            "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+            "resumen": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
             "fuente": "BBC"
           },
           {
@@ -166,22 +178,10 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
-            "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
-            "resumen": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.",
+            "titulo": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
+            "link": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
+            "resumen": "Canada has framed the preservation of its boreal forest as a model for the world, but commercial logging combined with climate change is inflicting severe damage.",
             "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "Tech stock sell-off drags markets down as Anthropic shares slide",
-            "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Race to replant five South African baobabs after export blocked",
-            "link": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
-            "resumen": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permits Environmentalists in South Africa are racing to replant five centuries-old baobabs after the 20-tonne trees were dug up by an…",
-            "fuente": "The Guardian"
           }
         ]
       },
@@ -189,34 +189,34 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
-            "link": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
-            "resumen": "‘Poster child of AI bubble’ CoreWeave symbolises increasingly risky business model of datacentre buildout The Egyptians had pyramids. The Roman empire had roads. The early 21st-century tech bros have massive buildings full of expensive…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "Elon Musk on His Politics, a Potential Merger and Ukraine",
-            "link": "https://www.nytimes.com/2026/11/21/business/dealbook/elon-musk-dealbook-summit.html",
-            "resumen": "The chief executive of Tesla and SpaceX spoke with Andrew Ross Sorkin at the DealBook Summit.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-            "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+            "titulo": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+            "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
-            "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-            "resumen": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? As Anthropic’s stock dropped during…",
+            "titulo": "Hacks, AI and conspiracy theories: why are we having so many outages?",
+            "link": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
+            "resumen": "After chaos at airlines, banks and companies from Microsoft to Apple, people have become convinced the world’s systems are under attack Nicole Reindorf’s American Airlines flight was ready for takeoff in Phoenix when the pilot came on the…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
-            "link": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html",
-            "resumen": "The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending.",
+            "titulo": "Zohran Mamdani on Trump, Wall Street and Wealth Taxes",
+            "link": "https://www.nytimes.com/2026/11/22/business/dealbook/zohran-mamdani-dealbook-summit.html",
+            "resumen": "The mayor of New York City spoke with Andrew Ross Sorkin at the DealBook Summit.",
             "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Employers are being asked to give interview feedback - here's what applicants want",
+            "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+            "resumen": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Conservative media weighs its future as cracks emerge in Trump’s movement",
+            "link": "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
+            "resumen": "Two weeks after Democrats flipped Congress, conservative outlets are having conversations on whether to distance themselves from Trump or double down on Maga As a so-called “blue wave” crashed across the country on the night of 3…",
+            "fuente": "The Guardian"
           }
         ]
       },
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-            "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+            "titulo": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
+            "link": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+            "resumen": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
-            "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-            "resumen": "Cancer undetectable for one in 12 patients in daraxonrasib trial, while nearly all participants’ tumours stopped growing A pill that can shrink and potentially eliminate pancreas tumours is being hailed as the biggest breakthrough…",
+            "titulo": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
+            "link": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
+            "resumen": "Warning about putting ‘genie back in the bottle’ comes as UN conference fails to agree on regulation instrument The International Committee of the Red Cross and rights groups have warned that it will soon be too late to put the “genie…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "A New Era of A.I.-Driven Chaos? That Might Just Be Progress.",
-            "link": "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html",
-            "resumen": "If artificial intelligence is giving rise to outages, cyberattacks and more, it’s consistent with history, in that it shows how new innovations often set off calamitous failure before they make life better.",
+            "titulo": "Looking for the Formula to Stop an Apocalypse",
+            "link": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
+            "resumen": "Mike Winer and his colleagues are trying to build a mathematical safeguard to keep A.I. under human control. They fear they are running out of time.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Birds killed in blaze at one of the largest foie gras farms in the US",
-            "link": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns.",
+            "titulo": "New draft deal aims to avert collapse of talks at COP31 climate summit",
+            "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+            "resumen": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
-            "link": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
-            "resumen": "BepiColombo double probe will map planet’s surface and study its interior to shed light on its unusually large core After a voyage of more than eight years and 6bn miles, a joint European-Japanese space mission has arrived at Mercury and…",
+            "titulo": "International UN talks on controlling use of autonomous weapons collapse",
+            "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+            "resumen": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Superb England run up record win over New Zealand",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo?at_medium=RSS&at_campaign=rss",
-            "resumen": "England's revival roars up a gear as they beat New Zealand by a record margin after former captain Lewis Moody leads the hosts' response to the haka.",
+            "titulo": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Max Verstappen was the star figure in a Las Vegas Grand Prix that was unlike any F1 race anyone younger than about 70 had ever seen.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Chelsea v Leeds, Tottenham v Ipswich, and more: football clockwatch – live",
-            "link": "https://www.theguardian.com/football/live/2026/nov/21/chelsea-v-leeds-tottenham-v-ipswich-and-more-football-clockwatch-live",
-            "resumen": "⚽️ Follow updates from the Premier League and beyond ⚽️ Live scores | Table | Follow on TikTok | And mail Emillia Championship fixtures Millwall 0-1 QPR Norwich City 2-1 Cardiff City Southampton 2-0 Derby County West Ham v Preston North…",
+            "titulo": "Liverpool v Manchester United: Premier League – live",
+            "link": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live",
+            "resumen": "Premier League updates from the 4.30pm GMT kick-off Live scores | Latest table | And follow us over on TikTok “Rob ‘Bob’ Smyth, as I live and breathe,” writes Ian Copestake. “Glad this game is in such .... hands. I will miss it, though. I…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "McConnell shines as 11-try Scotland dismantle Japan",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx2x00w08keo?at_medium=RSS&at_campaign=rss",
-            "resumen": "A Liam McConnell hat-trick inspires Scotland in an 11-try Nations Championship rout of Japan at Murrayfield.",
+            "titulo": "Hamilton-Leclerc collision completely unacceptable, says Ferrari boss",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/c6j9mepj0j1go?at_medium=RSS&at_campaign=rss",
+            "resumen": "Ferrari drivers Lewis Hamilton and Charles Leclerc face yet another tense discussion over their ability to race together cleanly on track after colliding in Las Vegas.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Cavaliers’ James Harden rolls back years with ‘vintage’ 51-point explosion to pass Kobe Bryant",
-            "link": "https://www.theguardian.com/sport/2026/nov/21/james-harden-51-points-kobe-bryant-cavaliers-pacers-nba",
-            "resumen": "Cavaliers star scores 51 in 128-119 win over Pacers Harden passes Bryant with 26th career 50-point game Only Chamberlain, Jordan have more 50-point games James Harden’s game has evolved over the past couple of seasons, with the Cleveland…",
+            "titulo": "NFL’s Jaylen Harrell reportedly assaulted driver before crash that left player seriously injured",
+            "link": "https://www.theguardian.com/sport/2026/nov/22/titans-jaylen-harrell-reportedly-assaulted-driver-before-crash-that-left-player-seriously-injured",
+            "resumen": "Incident occurred in Tampa on Friday morning Crash leaves linebacker with serious injuries Tampa police are investigating whether Tennessee Titans linebacker Jaylen Harrell assaulted a rideshare driver before a crash that left the NFL…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Manchester City spent £327m overhauling their midfield in the summer - but how does Enzo Maresca find the right balance?",
+            "titulo": "England will not get carried away by beating All Blacks",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckr5gdpm1q5no?at_medium=RSS&at_campaign=rss",
+            "resumen": "In his latest BBC Sport column, England World Cup winner Matt Dawson reflects on Steve Borthwick's side's record win over New Zealand and previews the final round of Nations Championship fixtures.",
             "fuente": "BBC"
           }
         ]

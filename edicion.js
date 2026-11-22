@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "21 de noviembre de 2026",
-  "generada": "16:59",
+  "fecha": "22 de noviembre de 2026",
+  "generada": "17:27",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Una sobrina del gobernador Gildo Insfrán fue designada en la Corte Suprema de Formosa",
-          "link": "https://www.clarin.com/politica/sobrina-gobernador-gildo-insfran-designada-corte-suprema-formosa_0_qhWvTHZbAD.html",
-          "resumen": "Grisel Mabel Insfrán se desempeñaba como secretaria Legal y Técnica de la gobernación desde 2019. El hermano y la hija del gobernador son diputados provinciales. Gildo Insfrán gobierna Formosa desde 1995.",
+          "titulo": "“¿De qué nuevas inversiones hablan?”: Juan Manuel Urtubey puso en duda el RIGI y aseguró que beneficia a “los amigos de turno”",
+          "link": "https://www.clarin.com/politica/nuevas-inversiones-hablan-juan-manuel-urtubey-puso-duda-rigi-aseguro-beneficia-amigos-turno_0_sQXWSuNvGJ.html",
+          "resumen": "El dirigente salteño aseguró que los proyectos aprobados en su provincia \"ya estaban cuando yo era gobernador\". También apuntó contra el Gobierno por la suspensión de las PASO.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La Corte y los DNU: Milei perdió un rasgo que compartía con Cristina Kirchner y entró en un grupo reducido de presidentes",
-          "link": "https://www.lanacion.com.ar/politica/la-corte-y-los-dnu-milei-perdio-un-rasgo-que-compartia-con-cristina-kirchner-y-entro-en-un-grupo-nid21112026/",
-          "resumen": "Un relevamiento del constitucionalista Gustavo Arballo ayuda a poner en contexto la resolución que declaró inconstitucional dos artículos del megadecreto 70/2023; solo 18 de más de 970 decretos firmados desde 1994 fueron invalidados por…",
+          "titulo": "Victoria Villarruel embistió contra Quirno y denunció gastos en Cancillería",
+          "link": "https://www.lanacion.com.ar/politica/victoria-villarruel-embistio-contra-quirno-y-denuncio-gastos-en-cancilleria-nid22112026/",
+          "resumen": "La vicepresidenta aseguró que en el Ministerio de Relaciones Exteriores se paga de forma excesiva por el catering; “Fuimos votados para ser austeros”, cuestionó",
           "fuente": "La Nación"
         },
         {
-          "titulo": "“A las apuradas”: una sobrina de Insfrán fue designada en el Superior Tribunal de Formosa y la oposición denuncia irregularidades",
-          "link": "https://www.infobae.com/politica/2026/11/21/a-las-apuradas-una-sobrina-de-insfran-fue-designada-en-el-superior-tribunal-de-formosa-y-la-oposicion-denuncia-irregularidades/",
-          "resumen": "Lo aprobó la Legislatura de la provincia en un tratamiento sobre tablas. Antes participó de la reforma constitucional que modificó las condiciones para una nueva candidatura del mandatario",
+          "titulo": "El Gobierno argentino condenó las amenazas de Irán contra Rafael Grossi, director del OIEA",
+          "link": "https://www.infobae.com/politica/2026/11/22/el-gobierno-argentino-condeno-las-amenazas-de-iran-contra-rafael-grossi-director-del-oiea/",
+          "resumen": "La Cancillería reclamó a Teherán el cese inmediato de las intimidaciones, tras las declaraciones de un asesor de la Guardia Revolucionaria que cuestionó al diplomático por pedir controles nucleares",
           "fuente": "Infobae"
         },
         {
-          "titulo": "La CGT da marcha atrás con el plan de lucha contra Milei que iba a arrancar en diciembre",
-          "link": "https://www.clarin.com/politica/cgt-da-marcha-plan-lucha-milei-iba-arrancar-diciembre_0_4mSEdYV93S.html",
-          "resumen": "La central obrera analizaba hacer paros parciales de alcance nacional en los lugares de trabajo, pero decidió desistir de la medida.",
+          "titulo": "\"Fuimos votados para ser austeros\": Victoria Villarruel cuestionó los gastos de Pablo Quirno en Cancillería, en un nuevo rush de respuestas en redes sociales",
+          "link": "https://www.clarin.com/politica/votados-austeros-victoria-villarruel-cuestiono-pablo-quirno-nuevo-rush-respuestas-redes-sociales_0_ZObKGMRCjl.html",
+          "resumen": "La vicepresidenta criticó la explicación que dio el canciller sobre el cierre de empresas durante la gestión de Milei y le adjudicó el pago de un \"catering pantagruélico\" en su área. También llamó kirchnerista a Daniel Scioli, trató de…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Milei contra la conjura de los tibios",
-          "link": "https://www.lanacion.com.ar/ideas/milei-contra-la-conjura-de-los-tibios-nid20112026/",
-          "resumen": "El Gobierno cambia las reglas electorales para asegurar la polarización con el peronismo; la furia del presidente estoico contra los herejes propios y una oposición a la que le cuesta asustar",
+          "titulo": "Calendario electoral 2027: cuándo se vota gobernador en Salta",
+          "link": "https://www.lanacion.com.ar/politica/calendario-electoral-2027-cuando-se-vota-gobernador-en-salta-nid17112026/",
+          "resumen": "La provincia desdobla la votación de las elecciones nacionales del año próximo; cuándo serán los comicios locales",
           "fuente": "La Nación"
         }
       ]
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Venta de campos: grandes jugadores y muchos millones para un mercado que estaba dormido",
-          "link": "https://www.clarin.com/economia/venta-campos-grandes-jugadores-millones-mercado-dormido_0_qksSeXYsMs.html",
-          "resumen": "La tierra es considerada un bien estratégico y refugio de valor, pese a que su rendimiento es inferior a activos financieros. Muchos extranjeros se fueron pero sus estancias quedaron en manos de locales. Los casos de la criptomoneda…",
+          "titulo": "Ganfeng, el gigante chino del litio: “Argentina podría ser nuestra mayor base productiva del mundo”",
+          "link": "https://www.clarin.com/energia-y-mineria/ganfeng-gigante-chino-litio-argentina-podria-mayor-base-productiva-mundo_0_SmOcvjwaFX.html",
+          "resumen": "La compañía líder china en compuestos de litio proyecta producir solo en Argentina más de 300.000 toneladas anuales hacia 2035. Su ejecutivo en Jujuy, Xingguo Yu, habló de las inversiones, la competencia con los proveedores argentinos y…",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Fuerte interés por SanCor: tres empresas quieren producir en plantas de la icónica láctea en quiebra",
+          "link": "https://www.lanacion.com.ar/economia/campo/fuerte-interes-por-sancor-tres-empresas-quieren-producir-en-plantas-de-la-iconica-lactea-en-quiebra-nid21112026/",
+          "resumen": "Las firmas Milkaut, Punta del Agua y Failar plantearon ante La Justicia la posibilidad de utilizar instalaciones ubicadas en Santa Fe y Córdoba mediante contratos a fasón",
+          "fuente": "La Nación"
+        },
+        {
+          "titulo": "Las tarjetas de crédito dominan las compras en supermercados: representan el 43% de las ventas",
+          "link": "https://www.ambito.com/economia/las-tarjetas-credito-dominan-las-compras-supermercados-representan-el-43-las-ventas-n6348084",
+          "resumen": "Según el INDEC, las operaciones realizadas con tarjetas de crédito superaron los $1,1 billones en agosto. Mientras tanto, las billeteras virtuales y otros medios alternativos registraron el mayor crecimiento interanual.",
+          "fuente": "Ámbito"
+        },
+        {
+          "titulo": "Escasez de mano de obra especializada, un cuello de botella para Vaca Muerta",
+          "link": "https://www.clarin.com/energia-y-mineria/escasez-mano-obra-especializada-cuello-botella-vaca-muerta_0_nfqqsixiHC.html",
+          "resumen": "Según el IAPG, para 2030 el sector requeriría 40.000 trabajadores adicionales a los 36.000 que hoy tiene todo este ecosistema. Una empresa italiana y socia de YPF no descarta contratar operarios extranjeros.",
           "fuente": "Clarín"
         },
         {
           "titulo": "El Niño y La Niña: un estudio argentino descubrió patrones de recurrencia y planteó una hipótesis hasta 2030",
           "link": "https://www.lanacion.com.ar/economia/campo/el-nino-y-la-nina-un-estudio-argentino-descubrio-patrones-de-recurrencia-y-planteo-una-hipotesis-nid21112026/",
           "resumen": "Tras analizar 78 años de registros, el investigador Guillermo A. Chinni encontró coincidencias entre la variabilidad de estos fenómenos y la posición de la Tierra respecto del Sol; el trabajo explora una posible predominancia de El Niño…",
-          "fuente": "La Nación"
-        },
-        {
-          "titulo": "Ciberseguridad en la era de la IA: cómo se adaptan las empresas y dónde están las oportunidades de inversión",
-          "link": "https://www.ambito.com/economia/ciberseguridad-la-era-la-ia-como-se-adaptan-las-empresas-y-donde-estan-las-oportunidades-inversion-n6347298",
-          "resumen": "La sofisticación de los ciberataques y el avance de la IA obligan a gobiernos y empresas a reforzar su seguridad digital. Especialistas analizan los principales desafíos, los segmentos con mayor potencial de crecimiento y las…",
-          "fuente": "Ámbito"
-        },
-        {
-          "titulo": "Consejo para el ministro Caputo: “menos Wall Street y más Conurbano”",
-          "link": "https://www.clarin.com/economia/consejo-ministro-caputo-wall-street-conurbano_0_7nK5i7f6uQ.html",
-          "resumen": "“Están siendo demasiado ortodoxos”, advirtió el ex funcionario Diego Estevez en una comida del Rotary con banqueros, economistas y varios CEO. El otro mensaje en la entrega del premio a los empresarios del año.",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "A cuánto abre el dólar el martes 24 de noviembre",
-          "link": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-el-martes-24-de-noviembre-nid21112026/",
-          "resumen": "La cotización de la moneda estadounidense se mantiene igual que el último día hábil; cómo fue el comportamiento de la divisa informal y los dólares financieros",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "México detuvo al capo narco \"Chapo Isidro\", uno de los diez criminales más buscados por el FBI",
-          "link": "https://www.clarin.com/mundo/mexico-detuvo-capo-narco-chapo-isidro-criminales-buscados-fbi_0_VHYOw1lBrD.html",
-          "resumen": "Es uno de los cabecillas de la banda de los Beltrán Leyva, y aliado de una de las facciones que disputa el control del Cartel de Sinaloa. El espectacular tiroteo que causó pánico y obligó a suspender un partido de béisbol profesional.",
+          "titulo": "La Cumbre del Clima de la ONU no alcanzó un acuerdo, tras una caótica negociación sobre combustibles fósiles",
+          "link": "https://www.clarin.com/mundo/cumbre-clima-borde-fracaso-union-europea-rechaza-acuerdo-menciona-salida-combustibles-fosiles_0_iKvfHaF62A.html",
+          "resumen": "El proyecto de declaración presentado este domingo en Turquía fue rechazado por la Unión Europea y otros países. Afirman que el texto era \"inaceptable\" y denuncian que la cumbre fue \"secuestrada por estados petroleros\". \"Hicimos lo mejor…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La cumbre ambiental COP31 y las diferencias entre Brasil y Argentina",
-          "link": "https://www.clarin.com/rural/cumbre-ambiental-cop31-diferencias-brasil-argentina_0_asZHbwqT4A.html",
-          "resumen": "Lula pudo mostrar lo que ya hizo: desde agosto de 2025, su nafta común lleva un 30% de etanol. En nuestro país, la demora por actualizar la ley la la termina pagando toda la sociedad, que pierde inversiones y posterga la mitigación de…",
+          "titulo": "Escándalo en Corea del Sur: el ministro de Educación renunció, tras comprobar que alumnos utilizaron ayuda de la IA para ingresar a la universidad",
+          "link": "https://www.clarin.com/mundo/escandalo-corea-sur-ministro-educacion-renuncio-comprobar-alumnos-utilizaron-ayuda-ia-ingresar-universidad_0_MiqLb67fJI.html",
+          "resumen": "Luego de detectarse la trampa en 111 casos, Choi Kyo-jin presentó su dimisión este domingo. Las autoridades decidieron bloquear el wifi público alrededor de las sedes del examen, y ofrecen recompensas de hasta 75.000 dólares a quienes…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Una efímera ilusión: a diez años del histórico acuerdo de paz, Colombia sigue atrapada en una espiral de violencia",
-          "link": "https://www.lanacion.com.ar/el-mundo/una-efimera-ilusion-a-diez-anos-del-historico-acuerdo-de-paz-colombia-sigue-atrapada-en-una-espiral-nid21112026/",
-          "resumen": "El celebrado pacto que derivó en el desarme de miles de combatientes de las FARC y hasta en un premio Nobel no logró los resultados esperados y desde entonces las bandas se diversificaron",
+          "titulo": "Agentes del ICE detuvieron violentamente a dos mexicanos en una manga de embarque del aeropuerto de Seattle",
+          "link": "https://www.lanacion.com.ar/el-mundo/agentes-del-ice-detuvieron-violentamente-a-dos-mexicanos-en-una-sala-de-embarque-del-aeropuerto-de-nid22112026/",
+          "resumen": "Un video del incidente mostraba a agentes arrastrando por lo menos a una persona en el Aeropuerto Internacional Seattle-Tacoma mientras una mujer grita que se estaban llevando a su hija y que ella tiene un permiso de trabajo",
           "fuente": "La Nación"
         },
         {
-          "titulo": "En su centenario y a diez años de su muerte, la Historia no absolvió a Fidel Castro",
-          "link": "https://www.clarin.com/mundo/centenario-anos-muerte-historia-absolvio-fidel-castro_0_5ymATPbNW2.html",
-          "resumen": "El rumbo revolucionario de la isla dio comienzo con el fallido golpe contra una dictadura. El viraje al marxismo cerró las puertas de un proceso de autonomía. La dramática parábola de Cuba: 1953, 1959 y 2016, los años clave.",
+          "titulo": "Dudas y temores en los mercados por el apogeo de los colosos de la Inteligencia Artificial",
+          "link": "https://www.clarin.com/mundo/dudas-temores-mercados-apogeo-colosos-inteligencia-artificial_0_cs4yRbbpkl.html",
+          "resumen": "Anthropic rompió récords en su salida a Bolsa, pero se afirma que también agotó la confianza de los inversionistas preocupados por este fenómeno. Temores de los expertos y un futuro en duda.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "México capturó a uno de los narcos más buscados por el FBI y se desató caos en Sinaloa",
-          "link": "https://www.lanacion.com.ar/el-mundo/mexico-capturo-a-uno-de-los-narcos-mas-buscados-por-el-fbi-y-se-desato-caos-en-sinaloa-nid21112026/",
-          "resumen": "Su detención, junto con las de otros dos cabecillas de su grupo criminal, provocó un violento enfrentamiento entre bandas",
+          "titulo": "Cómo se elige presidente en España y cuándo son las elecciones anticipadas",
+          "link": "https://www.lanacion.com.ar/el-mundo/como-se-elige-presidente-en-espana-y-cuando-son-las-elecciones-anticipadas-nid16112026/",
+          "resumen": "Los comicios de fin de mes definen la conformación de las Cámaras de Diputados y Senadores; luego se propone un candidato presidencial",
           "fuente": "La Nación"
         }
       ]
@@ -112,34 +112,34 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "A qué hora juegan Los Pumas vs Francia, EN VIVO: formaciones y cómo ver el partido de la Nations Championship",
-          "link": "https://www.clarin.com/deportes/hora-juegan-pumas-vs-francia-vivo-formaciones-ver-partido-nations-championship_0_CHcGvGVImn.html",
-          "resumen": "El equipo argentino busca un triunfo histórico en París para pelear por el quinto puesto del torneo, mientras que el dueño de casa quiere ser líder.",
+          "titulo": "Argentina vs Mozambique, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido del Mundial Sub 17",
+          "link": "https://www.clarin.com/deportes/argentina-vs-mozambique-vivo-hora-juegan-formaciones-ver-partido-mundial-sub-17_0_QtyPz7Qcqh.html",
+          "resumen": "La Albiceleste debutó con derrota contra Australia, mientras que los africanos golearon a Dinamarca. Seguí el minuto a minuto en Clarín.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Carlos Alcaraz reaccionó, le ganó a Ben Shelton y jugará la definición de las ATP Finals en Turín",
-          "link": "https://www.lanacion.com.ar/deportes/tenis/carlos-alcaraz-reacciono-le-gano-a-ben-shelton-y-jugara-la-definicion-de-las-atp-finals-en-turin-nid21112026/",
-          "resumen": "El español había cedido el primer set, pero dio vuelta el partido y se quedó con la victoria en el tie-break",
+          "titulo": "Por dónde pasan Rosario Central vs. Gimnasia (M) y qué canal lo transmite en vivo",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-rosario-central-vs-gimnasia-m-y-que-canal-lo-transmite-en-vivo-nid22112026/",
+          "resumen": "El cuarto encuentro de los octavos de final se disputa este domingo en el Gigante de Arroyito; Barracas Central espera por el ganador",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El gran momento de un ex River en La Liga de España: hizo un gol y dio una asistencia top",
-          "link": "https://www.ole.com.ar/futbol-internacional/ex-river-figura-espana-gol-asistencia-top-video_0_YSPR6cgZzh.html",
-          "resumen": "Un delantero formado en el Millonario es una de las figuras del torneo español. Mirá los videos.",
+          "titulo": "El United pierde 2-0 ante Liverpool en el primer partido de Pochettino y se mantiene en zona de descenso",
+          "link": "https://www.ole.com.ar/futbol-internacional/inglaterra/manchester-united-liverpool-goles-debut-pochettino_0_1CwMnPxFXv.html",
+          "resumen": "Ya con el entrenador argentino al mando, los Red Devils sufren en Anfield en la fecha 11 de la Premier League y siguen 19° de 20° en la tabla de posiciones.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Tropezón del Manchester City: por qué Enzo Maresca mandó a Enzo Fernández al banco en el empate ante Fulham",
-          "link": "https://www.clarin.com/deportes/tropezon-manchester-city-enzo-maresca-mando-enzo-fernandez-banco-empate-fulham_0_Bv4qk0aTC2.html",
-          "resumen": "El director técnico italiano optó por el marroquí Ayyoub Bouaddi desde el arranque y aclaró que la suplencia del volante no obedeció a un problema de equilibrio táctico. Con este resultado en el Etihad Stadium, el conjunto ciudadano…",
+          "titulo": "Boca y la caravana del campeón: a qué hora llega el plantel a Buenos Aires después de ganar la Copa Sudamericana",
+          "link": "https://www.clarin.com/deportes/boca-caravana-campeon-hora-llega-plantel-buenos-aires-despues-ganar-copa-sudamericana_0_p7iAen7wL8.html",
+          "resumen": "El entrenador Rodolfo Arruabarrena resolvió un cambio logístico a partir de la noche larga de festejos en Barranquilla. Los hinchas esperan darle una ruidosa bienvenida la Argentina.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "La furia de Russell contra Verstappen por una maniobra peligrosa en la última práctica del Gran Premio de Las Vegas",
-          "link": "https://www.lanacion.com.ar/deportes/automovilismo/la-furia-de-russell-contra-verstappen-por-una-maniobra-peligrosa-en-la-ultima-practica-del-gran-nid21112026/",
-          "resumen": "El británico fue desafiante en sus declaraciones tras una acción en la que se rozaron; compartirán la primera fila de largada",
-          "fuente": "La Nación"
+          "titulo": "Se calienta LaLiga: Barcelona venció a Villarreal y recuperó la cima",
+          "link": "https://www.ole.com.ar/futbol-internacional/espana/liga-caliente-barcelona-victoria-vs-villarreal-fecha-13-recupera-punta-campeonato-resultado-video-goles_0_7JMzvQgznZ.html",
+          "resumen": "El Barsa pasó del 0-2 al 3-2 en 10' para volver a cortarse solo en lo más alto del campeonato en España, luego de que el Real Madrid lo alcanzara el sábado...",
+          "fuente": "Olé"
         }
       ]
     }
