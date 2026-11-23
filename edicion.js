@@ -1,39 +1,39 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "22 de noviembre de 2026",
-  "generada": "17:27",
+  "fecha": "23 de noviembre de 2026",
+  "generada": "21:47",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "“¿De qué nuevas inversiones hablan?”: Juan Manuel Urtubey puso en duda el RIGI y aseguró que beneficia a “los amigos de turno”",
-          "link": "https://www.clarin.com/politica/nuevas-inversiones-hablan-juan-manuel-urtubey-puso-duda-rigi-aseguro-beneficia-amigos-turno_0_sQXWSuNvGJ.html",
-          "resumen": "El dirigente salteño aseguró que los proyectos aprobados en su provincia \"ya estaban cuando yo era gobernador\". También apuntó contra el Gobierno por la suspensión de las PASO.",
+          "titulo": "La confianza en el Gobierno de Milei volvió a subir en noviembre, pero sigue lejos de los niveles de 2025",
+          "link": "https://www.clarin.com/politica/confianza-gobierno-milei-volvio-subir-noviembre-sigue-lejos-niveles-2025_0_ymXCjSumWb.html",
+          "resumen": "El índice que elabora la Universidad Di Tella avanzó 4,1% y alcanzó los 2,04 puntos, la segunda mejora consecutiva tras la recuperación de octubre. Sin embargo, acumula una caída interanual del 17,5% y el promedio de la gestión libertaria…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Victoria Villarruel embistió contra Quirno y denunció gastos en Cancillería",
-          "link": "https://www.lanacion.com.ar/politica/victoria-villarruel-embistio-contra-quirno-y-denuncio-gastos-en-cancilleria-nid22112026/",
-          "resumen": "La vicepresidenta aseguró que en el Ministerio de Relaciones Exteriores se paga de forma excesiva por el catering; “Fuimos votados para ser austeros”, cuestionó",
+          "titulo": "Habló el hijo de Mario Santucho y defendió el homenaje a su padre en la UBA",
+          "link": "https://www.lanacion.com.ar/politica/hablo-el-hijo-de-mario-santucho-y-defendio-el-homenaje-a-su-padre-en-la-uba-nid23112026/",
+          "resumen": "Respaldó la iniciativa y atribuyó las críticas al reconocimiento del exguerrillero a una “ofensiva de la ultraderecha”",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El Gobierno argentino condenó las amenazas de Irán contra Rafael Grossi, director del OIEA",
-          "link": "https://www.infobae.com/politica/2026/11/22/el-gobierno-argentino-condeno-las-amenazas-de-iran-contra-rafael-grossi-director-del-oiea/",
-          "resumen": "La Cancillería reclamó a Teherán el cese inmediato de las intimidaciones, tras las declaraciones de un asesor de la Guardia Revolucionaria que cuestionó al diplomático por pedir controles nucleares",
+          "titulo": "Agitado debate en la CGT sobre la nueva modalidad de protesta que estrenarán en diciembre",
+          "link": "https://www.infobae.com/politica/2026/11/23/agitado-debate-en-la-cgt-sobre-la-nueva-modalidad-de-protesta-que-estrenaran-en-diciembre/",
+          "resumen": "En lugar de paros tradicionales, en diciembre habrá una jornada de cese de actividades de 4 horas, con asambleas, pero la dirigencia sindical se divide porque su aplicación se atomizará y tendrá una repercusión imprevisible",
           "fuente": "Infobae"
         },
         {
-          "titulo": "\"Fuimos votados para ser austeros\": Victoria Villarruel cuestionó los gastos de Pablo Quirno en Cancillería, en un nuevo rush de respuestas en redes sociales",
-          "link": "https://www.clarin.com/politica/votados-austeros-victoria-villarruel-cuestiono-pablo-quirno-nuevo-rush-respuestas-redes-sociales_0_ZObKGMRCjl.html",
-          "resumen": "La vicepresidenta criticó la explicación que dio el canciller sobre el cierre de empresas durante la gestión de Milei y le adjudicó el pago de un \"catering pantagruélico\" en su área. También llamó kirchnerista a Daniel Scioli, trató de…",
+          "titulo": "Vuelos complicados: ATE amenaza con nuevos “paros a la japonesa” en los aeropuertos y podría impactar en las Fiestas",
+          "link": "https://www.clarin.com/politica/vuelos-complicados-ate-amenaza-nuevos-paros-japonesa-aeropuertos-podria-impactar-fiestas_0_y9BasKydau.html",
+          "resumen": "Las medidas de fuerza se llevarán a cabo durante todo diciembre, en todos los aeropuertos del país. Podría incluir también retención de tareas y paro total de actividades.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Calendario electoral 2027: cuándo se vota gobernador en Salta",
-          "link": "https://www.lanacion.com.ar/politica/calendario-electoral-2027-cuando-se-vota-gobernador-en-salta-nid17112026/",
-          "resumen": "La provincia desdobla la votación de las elecciones nacionales del año próximo; cuándo serán los comicios locales",
+          "titulo": "Javier Milei y sus medidas, en vivo: arranca una semana decisiva para la suspensión de las PASO y la reforma electoral",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-arranca-una-semana-decisiva-para-la-suspension-de-las-paso-y-la-nid23112026/",
+          "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         }
       ]
@@ -42,34 +42,34 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "Ganfeng, el gigante chino del litio: “Argentina podría ser nuestra mayor base productiva del mundo”",
-          "link": "https://www.clarin.com/energia-y-mineria/ganfeng-gigante-chino-litio-argentina-podria-mayor-base-productiva-mundo_0_SmOcvjwaFX.html",
-          "resumen": "La compañía líder china en compuestos de litio proyecta producir solo en Argentina más de 300.000 toneladas anuales hacia 2035. Su ejecutivo en Jujuy, Xingguo Yu, habló de las inversiones, la competencia con los proveedores argentinos y…",
+          "titulo": "El nuevo Apple Watch escucha tus conversaciones",
+          "link": "https://www.clarin.com/economia/nuevo-apple-watch-escucha-conversaciones_0_YnhHpOqYcV.html",
+          "resumen": "Apple presentó dos nuevas funciones para que permiten recuperar fragmentos de conversaciones La compañía asegura que protege la privacidad de los usuarios, pero el anuncio reabrió el debate sobre las grabaciones sin consentimiento",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Fuerte interés por SanCor: tres empresas quieren producir en plantas de la icónica láctea en quiebra",
-          "link": "https://www.lanacion.com.ar/economia/campo/fuerte-interes-por-sancor-tres-empresas-quieren-producir-en-plantas-de-la-iconica-lactea-en-quiebra-nid21112026/",
-          "resumen": "Las firmas Milkaut, Punta del Agua y Failar plantearon ante La Justicia la posibilidad de utilizar instalaciones ubicadas en Santa Fe y Córdoba mediante contratos a fasón",
+          "titulo": "Cayó el riesgo país: Wall Street rebotó con fuerza y contagió a las acciones argentinas que cotizan en Nueva York",
+          "link": "https://www.lanacion.com.ar/economia/dolar/cae-el-riesgo-pais-wall-street-rebota-con-fuerza-y-contagia-a-las-acciones-argentinas-que-cotizan-en-nid23112026/",
+          "resumen": "La reincorporación de Jensen Huang al frente de Nvidia impulsó a los mercados internacionales e hizo subir a los ADR argentinos hasta 6%",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Las tarjetas de crédito dominan las compras en supermercados: representan el 43% de las ventas",
-          "link": "https://www.ambito.com/economia/las-tarjetas-credito-dominan-las-compras-supermercados-representan-el-43-las-ventas-n6348084",
-          "resumen": "Según el INDEC, las operaciones realizadas con tarjetas de crédito superaron los $1,1 billones en agosto. Mientras tanto, las billeteras virtuales y otros medios alternativos registraron el mayor crecimiento interanual.",
+          "titulo": "Preocupación empresaria por una nueva traba burocrática en la provincia de Buenos Aires: piden que se anule la medida",
+          "link": "https://www.clarin.com/economia/preocupacion-empresaria-nueva-traba-burocratica-provincia-buenos-aires-piden-anule-medida_0_qjv6f5hAJQ.html",
+          "resumen": "Empleadores del distrito deberán informar todos los meses cuánto pagaron en salarios y cómo controlan la jornada de trabajo. Para diferentes cámaras, la medida es contraria a la simplificación de trámites. Piden que se reconsidere su…",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 23 de noviembre, minuto a minuto",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid23112026/",
+          "resumen": "Por el feriado de hoy no hay actividad en el mercado financiero y, tanto para el dólar oficial como para el dólar blue se toman como referencia los valores de cierre del último día hábil de la semana",
+          "fuente": "La Nación"
+        },
+        {
+          "titulo": "El fin de semana largo movilizó $332.557 millones, pero cayó el gasto turístico y hubo menos viajeros",
+          "link": "https://www.ambito.com/economia/el-fin-semana-largo-movilizo-332557-millones-pero-cayo-el-gasto-turistico-y-hubo-menos-viajeros-n6348334",
+          "resumen": "Unos 1,41 millones de turistas recorrieron el país durante el feriado por el Día de la Soberanía Nacional. La cantidad de viajeros bajó 17,4% interanual y el impacto económico retrocedió 30,3% en términos reales, en un contexto de…",
           "fuente": "Ámbito"
-        },
-        {
-          "titulo": "Escasez de mano de obra especializada, un cuello de botella para Vaca Muerta",
-          "link": "https://www.clarin.com/energia-y-mineria/escasez-mano-obra-especializada-cuello-botella-vaca-muerta_0_nfqqsixiHC.html",
-          "resumen": "Según el IAPG, para 2030 el sector requeriría 40.000 trabajadores adicionales a los 36.000 que hoy tiene todo este ecosistema. Una empresa italiana y socia de YPF no descarta contratar operarios extranjeros.",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "El Niño y La Niña: un estudio argentino descubrió patrones de recurrencia y planteó una hipótesis hasta 2030",
-          "link": "https://www.lanacion.com.ar/economia/campo/el-nino-y-la-nina-un-estudio-argentino-descubrio-patrones-de-recurrencia-y-planteo-una-hipotesis-nid21112026/",
-          "resumen": "Tras analizar 78 años de registros, el investigador Guillermo A. Chinni encontró coincidencias entre la variabilidad de estos fenómenos y la posición de la Tierra respecto del Sol; el trabajo explora una posible predominancia de El Niño…",
-          "fuente": "La Nación"
         }
       ]
     },
@@ -77,34 +77,34 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "La Cumbre del Clima de la ONU no alcanzó un acuerdo, tras una caótica negociación sobre combustibles fósiles",
-          "link": "https://www.clarin.com/mundo/cumbre-clima-borde-fracaso-union-europea-rechaza-acuerdo-menciona-salida-combustibles-fosiles_0_iKvfHaF62A.html",
-          "resumen": "El proyecto de declaración presentado este domingo en Turquía fue rechazado por la Unión Europea y otros países. Afirman que el texto era \"inaceptable\" y denuncian que la cumbre fue \"secuestrada por estados petroleros\". \"Hicimos lo mejor…",
+          "titulo": "Presión de Wall Street y apoyo de Donald Trump: la trama secreta detrás de la vuelta del CEO de Nvidia",
+          "link": "https://www.clarin.com/mundo/presion-wall-street-apoyo-donald-trump-trama-secreta-detras-vuelta-ceo-nvidia_0_dq4GT6dOUZ.html",
+          "resumen": "El respaldo del presidente y el temor a una fuerte pérdida bursátil aceleraron la reincorporación de Jensen Huang al frente de la compañía. El especialista Ahmed Banafa explicó a Clarín cómo el poder geopolítico y las demandas de Wall…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Escándalo en Corea del Sur: el ministro de Educación renunció, tras comprobar que alumnos utilizaron ayuda de la IA para ingresar a la universidad",
-          "link": "https://www.clarin.com/mundo/escandalo-corea-sur-ministro-educacion-renuncio-comprobar-alumnos-utilizaron-ayuda-ia-ingresar-universidad_0_MiqLb67fJI.html",
-          "resumen": "Luego de detectarse la trampa en 111 casos, Choi Kyo-jin presentó su dimisión este domingo. Las autoridades decidieron bloquear el wifi público alrededor de las sedes del examen, y ofrecen recompensas de hasta 75.000 dólares a quienes…",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "Agentes del ICE detuvieron violentamente a dos mexicanos en una manga de embarque del aeropuerto de Seattle",
-          "link": "https://www.lanacion.com.ar/el-mundo/agentes-del-ice-detuvieron-violentamente-a-dos-mexicanos-en-una-sala-de-embarque-del-aeropuerto-de-nid22112026/",
-          "resumen": "Un video del incidente mostraba a agentes arrastrando por lo menos a una persona en el Aeropuerto Internacional Seattle-Tacoma mientras una mujer grita que se estaban llevando a su hija y que ella tiene un permiso de trabajo",
+          "titulo": "Las imágenes satelitales de la NASA que muestran cómo El Niño transformó al desierto de Atacama",
+          "link": "https://www.lanacion.com.ar/el-mundo/las-imagenes-satelitales-publicadas-por-la-nasa-que-muestran-el-antes-y-el-despues-de-el-nino-en-el-nid23112026/",
+          "resumen": "La agencia espacial registró una floración histórica en el norte de Chile; el fenómeno climático transformó un paisaje árido en un manto de colores",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Dudas y temores en los mercados por el apogeo de los colosos de la Inteligencia Artificial",
-          "link": "https://www.clarin.com/mundo/dudas-temores-mercados-apogeo-colosos-inteligencia-artificial_0_cs4yRbbpkl.html",
-          "resumen": "Anthropic rompió récords en su salida a Bolsa, pero se afirma que también agotó la confianza de los inversionistas preocupados por este fenómeno. Temores de los expertos y un futuro en duda.",
+          "titulo": "Escándalo en Francia: usan imágenes de los abusos que sufrió Gisèle Pelicot para promocionar un libro que niega su condición de víctima",
+          "link": "https://www.clarin.com/mundo/escandalo-francia-usan-imagenes-abusos-sufrio-gisele-pelicot-promocionar-libro-niega-condicion-victima_0_uOlJCoU1af.html",
+          "resumen": "La psicoanalista Sabine Prokhoris escribió un ensayo que la define como una \"exhibicionista que engañó a los medios y a la Justicia\". \"Hoy vuelvo a encontrarme humillada, expuesta y herida\", dijo Pelicot, quien logró que condenaran a su…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Cómo se elige presidente en España y cuándo son las elecciones anticipadas",
-          "link": "https://www.lanacion.com.ar/el-mundo/como-se-elige-presidente-en-espana-y-cuando-son-las-elecciones-anticipadas-nid16112026/",
-          "resumen": "Los comicios de fin de mes definen la conformación de las Cámaras de Diputados y Senadores; luego se propone un candidato presidencial",
+          "titulo": "Kiev se adjudicó los ataques contra dos barcos rusos en Libia y llevó la guerra naval al Mediterráneo",
+          "link": "https://www.lanacion.com.ar/el-mundo/kiev-se-adjudico-los-ataques-contra-dos-barcos-rusos-en-libia-y-llevo-la-guerra-naval-al-nid23112026/",
+          "resumen": "Zelensky confirmó que siete drones navales hundieron una corbeta rusa y alcanzaron un carguero que, según Kiev, transportaba armas; en paralelo, otro buque ruso fue atacado en el Báltico",
           "fuente": "La Nación"
+        },
+        {
+          "titulo": "El régimen iraní ejecutó la condena de 74 latigazos a la cantante que no usó el velo durante un concierto online",
+          "link": "https://www.clarin.com/mundo/regimen-irani-ejecuto-condena-74-latigazos-cantante-uso-velo-concierto-online_0_BPRoBlliUB.html",
+          "resumen": "Parastoo Ahmadi tiene además prohibido salir del país y ejercer actividades artísticas. Otros cuatro músicos también recibieron castigos similares.",
+          "fuente": "Clarín"
         }
       ]
     },
@@ -112,34 +112,34 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Argentina vs Mozambique, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido del Mundial Sub 17",
-          "link": "https://www.clarin.com/deportes/argentina-vs-mozambique-vivo-hora-juegan-formaciones-ver-partido-mundial-sub-17_0_QtyPz7Qcqh.html",
-          "resumen": "La Albiceleste debutó con derrota contra Australia, mientras que los africanos golearon a Dinamarca. Seguí el minuto a minuto en Clarín.",
+          "titulo": "Gimnasia de La Plata vs Newell's, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido de octavos del Torneo Clausura",
+          "link": "https://www.clarin.com/deportes/gimnasia-plata-vs-newells-vivo-hora-juegan-formaciones-ver-partido-octavos-torneo-clausura_0_avYW3A8o36.html",
+          "resumen": "El Lobo y la Lepra se miden en el Bosque platense. Seguí el minuto a minuto en Clarín.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Por dónde pasan Rosario Central vs. Gimnasia (M) y qué canal lo transmite en vivo",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-rosario-central-vs-gimnasia-m-y-que-canal-lo-transmite-en-vivo-nid22112026/",
-          "resumen": "El cuarto encuentro de los octavos de final se disputa este domingo en el Gigante de Arroyito; Barracas Central espera por el ganador",
+          "titulo": "Final de la Copa Libertadores 2026: cuándo juega Estudiantes vs. Palmeiras",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/final-de-la-copa-libertadores-2026-cuando-juega-estudiantes-vs-palmeiras-nid23112026/",
+          "resumen": "El encuentro está programado para el próximo fin de semana en el estadio Centenario de Montevideo con árbitro a designar",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El United pierde 2-0 ante Liverpool en el primer partido de Pochettino y se mantiene en zona de descenso",
-          "link": "https://www.ole.com.ar/futbol-internacional/inglaterra/manchester-united-liverpool-goles-debut-pochettino_0_1CwMnPxFXv.html",
-          "resumen": "Ya con el entrenador argentino al mando, los Red Devils sufren en Anfield en la fecha 11 de la Premier League y siguen 19° de 20° en la tabla de posiciones.",
+          "titulo": "Con Mastantuono y Pellegrino, la Fiorentina fue goleada y quedó a un punto del descenso",
+          "link": "https://www.ole.com.ar/futbol-internacional/italia/fiorentina-monza-serie-derrota-goleada-mastantuono-zeballos_0_x6arurSh0R.html",
+          "resumen": "El Monza derrotó por 3-0 a la Viola y lo dejó al borde de la zona roja en la Serie A. El Changuito Zeballos integró el banco de suplentes del local.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Boca y la caravana del campeón: a qué hora llega el plantel a Buenos Aires después de ganar la Copa Sudamericana",
-          "link": "https://www.clarin.com/deportes/boca-caravana-campeon-hora-llega-plantel-buenos-aires-despues-ganar-copa-sudamericana_0_p7iAen7wL8.html",
-          "resumen": "El entrenador Rodolfo Arruabarrena resolvió un cambio logístico a partir de la noche larga de festejos en Barranquilla. Los hinchas esperan darle una ruidosa bienvenida la Argentina.",
+          "titulo": "Suspendieron a una tenista juvenil argentina por doping: la sustancia que le encontraron y la sanción aplicada",
+          "link": "https://www.clarin.com/deportes/suspendieron-tenista-juvenil-argentina-doping-sustancia-encontraron-sancion-aplicada_0_bUeHn9zqOe.html",
+          "resumen": "Se trata de Valentina Rossi, de 21 años y que solo ha jugado torneos del circuito World Tennis Tour de la ITF. Además, la ITIA suspendió a un profesional colombiano por haber cometido \"irregularidades relacionadas con el amaño de partidos…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Se calienta LaLiga: Barcelona venció a Villarreal y recuperó la cima",
-          "link": "https://www.ole.com.ar/futbol-internacional/espana/liga-caliente-barcelona-victoria-vs-villarreal-fecha-13-recupera-punta-campeonato-resultado-video-goles_0_7JMzvQgznZ.html",
-          "resumen": "El Barsa pasó del 0-2 al 3-2 en 10' para volver a cortarse solo en lo más alto del campeonato en España, luego de que el Real Madrid lo alcanzara el sábado...",
-          "fuente": "Olé"
+          "titulo": "¿La Copa América 2028 se juega en Estados Unidos? Esto es todo lo que se sabe",
+          "link": "https://www.lanacion.com.ar/deportes/futbol/la-copa-america-2028-se-juega-en-estados-unidos-esto-es-todo-lo-que-se-sabe-nid23112026/",
+          "resumen": "En los últimos trascendió extraoficialmente que el torneo se volverá a jugar en la misma sede que el 2024; participarían equipos de la Concacaf",
+          "fuente": "La Nación"
         }
       ]
     }
