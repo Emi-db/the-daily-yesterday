@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "23 de noviembre de 2026",
-    "generada": "21:47",
+    "fecha": "24 de noviembre de 2026",
+    "generada": "20:24",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "\"El presidente (De la Espriella) está totalmente equivocado si cree que esta paz es falsa\": Santos y Londoño hablan juntos con BBC Mundo a 10 años del acuerdo que puso fin al conflicto en Colombia",
-            "link": "https://www.bbc.com/mundo/watch/cm0evqgj5p4go?at_medium=RSS&at_campaign=rss",
-            "resumen": "Hace 10 años se firmó el histórico acuerdo de paz que desmovilizó a la guerilla más grande y poderosa de América Latina. BBC Mundo reunió al expresidente Juan Manuel Santos y al ex comandante de las FARC Rodrigo Londoño (alias Timochenko)…",
+            "titulo": "\"No creo que el narcotráfico sea invencible, pero en la práctica lo es para quienes hoy gobiernan\": por qué la violencia persiste en Colombia 10 años después del acuerdo de paz",
+            "link": "https://www.bbc.com/mundo/articles/cwzr53jr1xnpo?at_medium=RSS&at_campaign=rss",
+            "resumen": "El acuerdo con las FARC, elogiado en el extranjero, es constantemente atacado dentro de Colombia y no termina de consolidarse, ¿Por qué? ¿Hay algo en la historia del país que explique la continua violencia?",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "México consolida el apoyo en inteligencia de Estados Unidos contra el narco",
-            "link": "https://elpais.com/mexico/2026-11-23/mexico-consolida-el-apoyo-en-inteligencia-de-estados-unidos-contra-el-narco.html",
-            "resumen": "La caída del Chapo Isidro certifica la intensa colaboración de las agencias del Gobierno de Trump y rompe definitivamente con la política de reticencia y rechazo de López Obrador",
+            "titulo": "El hundimiento de la corbeta ‘Merkury’ pone en evidencia las grietas de la defensa naval de Rusia",
+            "link": "https://elpais.com/internacional/2026-11-24/el-hundimiento-de-la-corbeta-merkury-de-orgullo-de-la-flota-rusa-en-2023-a-ejemplo-de-la-vulnerabilidad-en-la-nueva-guerra-naval.html",
+            "resumen": "El navío fue presentado por Vladímir Putin durante el Día de la Armada de hace tres años como ejemplo de la modernización de su flota. Varias embarcaciones de ataque ucranias lo llevaron al fondo del mar en la madrugada del domingo",
             "fuente": "El País"
           },
           {
-            "titulo": "Buques rusos atacados en Libia: Ucrania amplía el alcance de la lucha",
-            "link": "https://www.france24.com/es/europa/20261123-buques-rusos-atacados-en-libia-ucrania-ampl%C3%ADa-el-alcance-de-la-lucha",
-            "resumen": "El presidente Volodímir Zelenski reivindicó el lunes 23 de noviembre la autoría del ataque contra dos buques de guerra rusos frente a las costas de Bengasi, en el este de Libia. Esta operación apuntó a atacar la logística rusa y volver a…",
+            "titulo": "Colombia: esto se sabe de la toma de rehenes en un supermercado de la turística ciudad de Cartagena",
+            "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261124-colombia-esto-se-sabe-de-la-toma-de-rehenes-en-un-supermercado-de-la-tur%C3%ADstica-ciudad-de-cartagena",
+            "resumen": "Veinticinco personas siguen como rehenes en un supermercado de la ciudad colombiana de Cartagena, aseguró este martes 23 de noviembre el presidente Abelardo de La Espriella. Fuerzas militares y policiales están desplegadas en la zona.…",
             "fuente": "France 24"
           },
           {
-            "titulo": "Por qué Jensen Huang es demasiado importante como para que Nvidia pudiera despedirlo",
-            "link": "https://www.bbc.com/mundo/articles/c9143kp61ldjo?at_medium=RSS&at_campaign=rss",
-            "resumen": "El papel de Huang como pieza clave en la transformación de su empresa en un pilar fundamental de la IA resultó crucial para su regreso.",
+            "titulo": "Las lecciones que el regreso de Jensen Huang a Nvidia le enseña a Xi Jinping sobre cómo tratar a Trump",
+            "link": "https://www.bbc.com/mundo/articles/cr930kp5eq12o?at_medium=RSS&at_campaign=rss",
+            "resumen": "El regreso de Huang al frente de Nvidia no garantiza ningún alivio para Pekín, pero si le da pistas sobre cómo tratar a Trump.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "El ICE recurre a delitos menores cometidos hace décadas para deportar a personas con ‘green card’",
-            "link": "https://elpais.com/us/migracion/2026-11-23/el-ice-recurre-a-delitos-menores-cometidos-hace-decadas-para-deportar-a-personas-con-green-card.html",
-            "resumen": "Entre los casos registrados, están el de una mujer que pasó 15 meses detenida por dos pequeños hurtos de hace más de 10 años y el de una señora de 74, arrestada por una falta en los noventa",
+            "titulo": "Las ambulancias palestinas se convierten en “objetivo directo” en Cisjordania",
+            "link": "https://elpais.com/internacional/2026-11-24/las-ambulancias-palestinas-se-convierten-en-objetivo-directo-en-cisjordania.html",
+            "resumen": "Los relatos de sanitarios y un informe de una ONG israelí dan cuenta del “drástico” aumento de ataques y trabas a la atención médica de emergencia por parte de soldados y colonos",
             "fuente": "El País"
           }
         ]
@@ -43,9 +43,9 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "El Gobierno ampliará este martes el permiso de duelo por fallecimiento a 10 días",
-            "link": "https://elpais.com/economia/2026-11-23/el-gobierno-ampliara-este-martes-el-permiso-de-fallecimiento-a-10-dias.html",
-            "resumen": "En los decesos de hermanos, abuelos, cuñados o nietos se extiende a tres días, hasta cinco si implican un desplazamiento",
+            "titulo": "Los ultrarricos españoles a los que quiere gravar la izquierda: 21 milmillonarios entre 623 contribuyentes con más de 100 millones",
+            "link": "https://elpais.com/economia/2026-11-24/los-ultrarricos-espanoles-a-los-que-quiere-gravar-la-izquierda-21-milmillonarios-entre-623-contribuyentes-con-mas-de-100-millones.html",
+            "resumen": "Hacienda ya tiene fichados a los posibles contribuyentes del nuevo impuesto que han anunciado los partidos progresistas, aunque no está claro qué parte de su riqueza se gravará",
             "fuente": "El País"
           },
           {
@@ -55,9 +55,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "El Gobierno aprobará la limitación de los intereses del crédito al consumo en un paquete de medidas que afectan a la banca",
-            "link": "https://elpais.com/economia/2026-11-23/el-gobierno-aprobara-la-limitacion-de-los-intereses-del-credito-al-consumo-en-un-paquete-de-medidas-que-afectan-a-la-banca.html",
-            "resumen": "El Ejecutivo pretende validar en el Consejo de Ministros de este martes la norma que pone coto a los intereses abusivos de crédito además de prorrogar el impuesto a las entidades financieras",
+            "titulo": "El Gobierno ampliará este martes el permiso de duelo por fallecimiento a 10 días",
+            "link": "https://elpais.com/economia/2026-11-23/el-gobierno-ampliara-este-martes-el-permiso-de-fallecimiento-a-10-dias.html",
+            "resumen": "En los decesos de hermanos, abuelos, cuñados o nietos se extiende a tres días, hasta cinco si implican un desplazamiento",
             "fuente": "El País"
           },
           {
@@ -67,9 +67,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "CC OO y UGT llaman a votar a la izquierda: “Lo mejor para España es reeditar el Gobierno de coalición progresista”",
-            "link": "https://elpais.com/economia/2026-11-23/cc-oo-y-ugt-llaman-a-votar-a-la-izquierda-lo-mejor-para-espana-es-reeditar-el-gobierno-de-coalicion-progresista.html",
-            "resumen": "Los sindicatos ven en peligro distintos derechos laborales si PP y Vox logran una mayoría absoluta",
+            "titulo": "Claves del nuevo permiso de duelo por fallecimiento: cuánto crece y a qué familiares beneficia",
+            "link": "https://elpais.com/economia/2026-11-24/claves-del-nuevo-permiso-de-duelo-por-fallecimiento-cuanto-crece-y-a-que-familiares-beneficia.html",
+            "resumen": "La ampliación acerca a España al escenario de otros países europeos, en los que ya se concedían más días por el deceso de familiares",
             "fuente": "El País"
           }
         ]
@@ -78,9 +78,21 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
-            "titulo": "El Gobierno elimina la asfixia burocrática para la ciencia estratégica: los centros podrán pagar más a sus investigadores y comprar más rápido",
-            "link": "https://elpais.com/ciencia/2026-11-20/el-gobierno-elimina-la-asfixia-burocratica-para-la-ciencia-estrategica-los-centros-podran-pagar-mas-a-sus-investigadores-y-comprar-mas-rapido.html",
-            "resumen": "El Consejo de Ministros aprueba la creación de una red de 20 instituciones de interés nacional para la soberanía científica y tecnológica, con mayor autonomía y flexibilidad",
+            "titulo": "China abre las puertas de su “Palacio Celestial” al primer astronauta extranjero: el pakistaní Muhammad Zeeshan Ali",
+            "link": "https://elpais.com/ciencia/2026-11-24/china-abre-las-puertas-de-su-palacio-celestial-al-primer-astronauta-extranjero-el-pakistani-muhammad-zeeshan-ali.html",
+            "resumen": "El piloto viajará el miércoles a la estación Tiangong, donde pasará una semana trabajando con experimentos de universidades de su país",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "¿Qué pasa en una casa inteligente cuando se cae internet?",
+            "link": "https://elpais.com/tecnologia/2026-11-24/que-pasa-en-una-casa-inteligente-cuando-se-cae-internet.html",
+            "resumen": "Una avería en la fibra no tiene por qué dejar fuera de juego toda la domótica, pero sí puede impedir controlar luces, cámaras o electrodomésticos",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Las 250.000 páginas de una IA con la presunta solución a un enigma irresoluble conmocionan al mundo de las matemáticas",
+            "link": "https://elpais.com/ciencia/2026-11-24/las-250000-paginas-de-una-ia-con-la-presunta-solucion-a-un-enigma-irresoluble-conmocionan-al-mundo-de-las-matematicas.html",
+            "resumen": "La incomprensible demostración de la hipótesis de Riemann, sobre el misterioso orden de los números primos, aviva el debate sobre la utilidad de la inteligencia artificial",
             "fuente": "El País"
           },
           {
@@ -90,21 +102,9 @@ const EDICION_MUNDO = {
             "fuente": "El País"
           },
           {
-            "titulo": "Más allá de un día luz: España capta el primer saludo de la ‘Voyager 1’ desde el otro lado de la frontera interestelar",
-            "link": "https://elpais.com/ciencia/2026-11-19/mas-alla-de-un-dia-luz-espana-capta-el-primer-saludo-de-la-voyager-1-desde-el-otro-lado-de-la-frontera-interestelar.html",
-            "resumen": "La antena de 70 metros de Robledo de Chavela (Madrid) ha recibido este jueves una señal que la sonda de la NASA emitió 24 horas antes, a más de 25.902 millones de kilómetros de distancia",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Jian Tang, fabricante de robots: “Lo primero que harán será recoger cosas y poner lavadoras”",
-            "link": "https://elpais.com/tecnologia/2026-11-21/jian-tang-fabricante-de-robots-lo-primero-que-haran-sera-recoger-cosas-y-poner-lavadoras.html",
-            "resumen": "El director tecnológico de la empresa china X-Humanoid cree que, en el futuro, los humanoides serán un miembro más de la familia",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Lombrices, hongos y orina para cultivar patatas en la mala tierra de la Luna",
-            "link": "https://elpais.com/ciencia/2026-11-19/lombrices-hongos-y-orina-para-cultivar-patatas-en-la-mala-tierra-de-la-luna.html",
-            "resumen": "Distintos experimentos están sembrando vegetales en sustratos similares a los del satélite de cara a su colonización",
+            "titulo": "El Gobierno elimina la asfixia burocrática para la ciencia estratégica: los centros podrán pagar más a sus investigadores y comprar más rápido",
+            "link": "https://elpais.com/ciencia/2026-11-20/el-gobierno-elimina-la-asfixia-burocratica-para-la-ciencia-estrategica-los-centros-podran-pagar-mas-a-sus-investigadores-y-comprar-mas-rapido.html",
+            "resumen": "El Consejo de Ministros aprueba la creación de una red de 20 instituciones de interés nacional para la soberanía científica y tecnológica, con mayor autonomía y flexibilidad",
             "fuente": "El País"
           }
         ]
@@ -113,33 +113,33 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "La UEFA multa a Inglaterra por los cánticos anticatólicos de sus aficionados en Madrid",
-            "link": "https://www.marca.com/futbol/nations-league/2026/11/20/uefa-multa-inglaterra-canticos-anticatolicos-aficionados-madrid.html",
-            "resumen": "Los aficionados ingleses han sido acusados de&nbsp;\"comportamiento racista y/o discriminatorio\"",
+            "titulo": "Rufián y Figo reavivan su enfrentamiento en las redes sociales:&nbsp;\"Suelta ya mi brazo, pesetas\"",
+            "link": "https://www.marca.com/tiramillas/politica/2026/11/24/suelta-mi-brazo-pesetas-rufian-figo-reavivan-enfrentamiento-redes-sociales.html",
+            "resumen": "Este intercambio es otro en una serie de reproches que han ocurrido en los últimos días en X",
             "fuente": "Marca"
           },
           {
-            "titulo": "Buenas noticias para Flick con Rodri",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261123/1004254644/buenas-noticias-flick-rodri.html",
-            "resumen": "Hansi Flick va recibiendo una combinación de noticias positivas y negativas sobre el estado físico de varios de sus jugadores. Si la semana pasada conocía que lo mejor era reservar a Andreas Christensen para el partido del Deportivo y que…",
+            "titulo": "Real Madrid - PSV, en directo",
+            "link": "https://www.mundodeportivo.com/futbol/champions-league/20261124/1004253203/real-madrid-psv-directo-champions-league-ext-pau.html",
+            "resumen": "Buenas tardes y bienvenidos a la narración, en directo, del partido de fútbol de la Champions League que enfrenta al Real Madrid contra el PSV correspondiente a Fase Grupos J-5. Desde Mundo Deportivo, te ofrecemos toda la cobertura minuto…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "La primera estrella víctima de la epidemia del GTA 6 que amenaza a los deportistas: la cazada a Mbeumo",
-            "link": "https://www.marca.com/futbol/2026/11/20/primera-estrella-victima-epidemia-gta-6-amenaza-deportistas-cazada-mbeumo.html",
-            "resumen": "Bryan Mbeumo (Manchester United) fue cazado jugando al GTA 6 de madrugada antes de acudir a su primer entrenamiento con Mauricio Pochettino",
+            "titulo": "La presunta llamada entre un árbitro del TAS y el presidente de Senegal antes del fallo",
+            "link": "https://www.marca.com/futbol/copa-africa/2026/11/24/marruecos-senala-presunta-llamada-arbitro-tas-presidente-senegal-fallo.html",
+            "resumen": "Senegal lo desmiente y&nbsp;califica la supuesta conversación de imaginaria",
             "fuente": "Marca"
           },
           {
-            "titulo": "Lamine Yamal, baja ante el Sabah por molestias en el tobillo derecho",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261123/1004254389/lamine-yamal-baja-sabah-molestias-tobillo-derecho.html",
-            "resumen": "Sorpresa a primera hora de este lunes. El FC Barcelona anunció a través de sus redes sociales que Lamine Yamal no viajará a Azerbaiyán con el resto de la expedición por unas molestias en el tobillo derecho. El equipo azulgrana informó que…",
+            "titulo": "Las condiciones meteorológicas que aguardan al Barça en Bakú",
+            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261124/1004254899/condiciones-meteorologicas-aguardan-barca.html",
+            "resumen": "Las condiciones meteorológicas pueden ser otro escollo para el Barcelona, además del largo viaje y las ganas de dar la campanada del modesto Sabah , debutante en Champions. Sin embargo, el fuerte viento que soplará a lo largo del día y…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "El botín de más de un millón y medio de dólares que acumula Zverev en las ATP Finals de Turín",
-            "link": "https://www.marca.com/tenis/copa-masters/2026/11/20/botin-millon-medio-dolares-acumula-zverev-atp-finals-turin.html",
-            "resumen": "El alemán, número 1 a final de curso, se ha plantado invicto a las semifinales del sábado",
+            "titulo": "La 'lucha política' de las influencers: la opinión de Laura Escanes y la reacción de María Pombo y Laura Matamoros",
+            "link": "https://www.marca.com/tiramillas/sociedad/2026/11/24/lucha-politica-influencers-opinion-laura-escanes-reaccion-maria-pombo-laura-matamoros.html",
+            "resumen": "La creadora de contenido Claudia Romero se atrevió a meterse en el meollo de la cuestión tras ver a Escanes... y otras famosas influencers han apoyado el parecer de la primera",
             "fuente": "Marca"
           }
         ]
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "November 23, 2026",
-    "generada": "21:47",
+    "fecha": "November 24, 2026",
+    "generada": "20:24",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-            "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+            "titulo": "US attorney general dodges questions about Nvidia investigation",
+            "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
+            "link": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
+            "resumen": "Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in Africa When the attack on Kidal began before dawn on 25 April this year, the Russian fighters were caught off guard.…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "Iranian Singer Receives 74 Lashes for Performing With No Hijab",
+            "link": "https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html",
+            "resumen": "Parastoo Ahmadi sang without wearing the mandatory veil in a virtual concert in 2024 that spread quickly online and drew the ire of the Islamic republic authorities.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+            "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
             "fuente": "BBC"
           },
           {
             "titulo": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
             "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
-            "resumen": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Europe live – latest updates Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
-            "link": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
-            "resumen": "The Israeli prime minister, Benjamin Netanyahu, calls renewing strikes a matter of national security. Military analysts and opposition leaders say he’s prioritizing his own interests.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "What strike on Russian ship in Libya says about spread of Ukraine war",
-            "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
-            "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-            "resumen": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea…",
+            "resumen": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,34 +189,34 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Faisal Islam: Why Jensen Huang proved too big to fire",
-            "link": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
+            "titulo": "Faisal Islam: Fears over the AI boom haven't gone away",
+            "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+            "resumen": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
             "fuente": "BBC"
           },
           {
-            "titulo": "Nvidia’s value jumped by $950bn as shares close at $165.05 after surprise return of CEO Jensen Huang – as it happened",
-            "link": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
-            "resumen": "New value still half a trillion dollars lower than before affair was revealed; Trump hails Huang as a ‘great patriot and national treasure’ US reactions to Jensen Huang return – US politics live Jensen Huang reinstated as Nvidia CEO…",
+            "titulo": "‘The mistake has been corrected’: end of Jensen Huang’s brief walk in the wilderness",
+            "link": "https://www.theguardian.com/technology/2026/nov/24/mistake-corrected-jensen-huang-resinstated-nvidia-analysis",
+            "resumen": "Tech sector’s campaign to reinstate Nvidia boss began soon after ousting over affair with alleged Chinese spy The tech billionaires could hardly contain their delight. “Jensen!” exclaimed OpenAI’s chief executive, Sam Altman, in a…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Audra Fordin Fixes Cars, and Eases Women’s Fears",
-            "link": "https://www.nytimes.com/2026/11/23/business/small-business/women-cars.html",
-            "resumen": "Audra Fordin recognized an undeniable need to make automobile education more accessible, and did something about it.",
+            "titulo": "Putting Socially Conscious Investments in 401(k) Plans Could Get Harder",
+            "link": "https://www.nytimes.com/2026/11/24/your-money/401k-esg-rules.html",
+            "resumen": "The Labor Department has, once again, proposed a rule that may discourage workplace retirement plans from adding investment options based on environmental and social considerations.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-            "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-            "resumen": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
-            "fuente": "BBC"
+            "titulo": "US school bus drivers decline amid low pay and poor work conditions",
+            "link": "https://www.theguardian.com/education/2026/nov/24/school-bus-driver-decline-budget",
+            "resumen": "Total number of drivers dropped 5% over the last year and fell 15% compared with 2019 levels, new report finds The number of school bus drivers in the US has dropped 5% over the last year as drivers continue to experience low pay, poor…",
+            "fuente": "The Guardian"
           },
           {
-            "titulo": "Wild stock market swings: will I lose money, and is there anything I can do?",
-            "link": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
-            "resumen": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments too Business live – latest updates It has been a volatile time on global stock markets, with rapid rallies and punishing…",
-            "fuente": "The Guardian"
+            "titulo": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
+            "link": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
+            "resumen": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive.",
+            "fuente": "N.Y. Times"
           }
         ]
       },
@@ -224,9 +224,9 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "What failure of COP31 reveals about a divided world",
-            "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
+            "titulo": "Badger cull ruled out by Welsh government after speculation",
+            "link": "https://www.bbc.co.uk/news/articles/cm930yjy97xyo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Plaid Cymru ministers rule out mass badger cull as part of new plans to tackle bovine tuberculosis.",
             "fuente": "BBC"
           },
           {
@@ -236,21 +236,21 @@ const EDICION_MUNDO = {
             "fuente": "The Guardian"
           },
           {
-            "titulo": "When It Comes to Nature vs. Nurture, How Much Do Our Genes Matter?",
-            "link": "https://www.nytimes.com/2026/11/23/science/missing-heritability.html",
-            "resumen": "After centuries, the nature versus nurture debate still rages. Now the fight is over “missing heritability” — whether science can find a way to pinpoint inheritance in the human genome.",
+            "titulo": "This Danish Man Was a Rare Witness to the Agricultural Revolution",
+            "link": "https://www.nytimes.com/2026/11/24/science/rodhals-man-neolithic-farming-witness.html",
+            "resumen": "Excavated in 1956, “Rodhals Man” lived — and ate — at the cusp of one of the biggest shifts in human history, a new study says.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Five takeaways from the failed climate talks COP31",
-            "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
+            "titulo": "Record 5,200 heat-linked deaths estimated in England this year",
+            "link": "https://www.bbc.co.uk/news/articles/cq2e83egrez3o?at_medium=RSS&at_campaign=rss",
+            "resumen": "The UK Health Security Agency says this year's number of deaths is twice that of the previous record year.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Is it true that … we only use 10% of our brains?",
-            "link": "https://www.theguardian.com/lifeandstyle/2026/nov/23/is-it-true-we-only-use-10-per-cent-brain",
-            "resumen": "The idea that we access a fraction of our cognitive potential goes back decades, but does medical science agree? This idea really bugs Dr Mary Spiller , senior lecturer in the University of East London’s Department of Psychology and Human…",
+            "titulo": "Cop31 failed. What happens now? – podcast",
+            "link": "https://www.theguardian.com/science/audio/2026/nov/23/cop31-failed-what-happens-now-podcast",
+            "resumen": "The longest ever Cop climate talks have ended in failure after countries were unable to agree a deal. The key sticking point was the omission of any mention of fossil fuels in the final draft. To find out how it all went so wrong and what…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "'No-one's coming to save us' - but how can Man Utd save themselves?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ck9d7qxxl7w8o?at_medium=RSS&at_campaign=rss",
-            "resumen": "How does Mauricio Pochettino halt Manchester United's desperate slide towards the foot of the Premier League",
+            "titulo": "Yoro red card overturned, but refs' chief Webb backs decision",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Manchester United defender Leny Yoro is clear to face Brentford on Saturday as his red card at Anfield is overturned.",
             "fuente": "BBC"
           },
           {
-            "titulo": "‘Celebrate, inspire, unite’: UK confirmed as host of 2035 Women’s World Cup",
-            "link": "https://www.theguardian.com/football/2026/nov/23/uk-confirmed-hosts-2035-womens-world-cup-fifa",
-            "resumen": "Country’s first World Cup since men’s 1966 edition in England Bid lists 22 stadiums as potential venues The UK has been confirmed as hosts of the 2035 Women’s World Cup, the first global competition to be staged in the country since…",
+            "titulo": "Arsenal v Borussia Dortmund: Champions League – live",
+            "link": "https://www.theguardian.com/football/live/2026/nov/24/arsenal-v-borussia-dortmund-champions-league-live",
+            "resumen": "⚽️ Minute-by-minute updates from the 8pm GMT kick-off ⚽️ Nwaneri risks becoming forgotten teenager at Dortmund ⚽ Live scores | League phase standings | Email Scott 2 min: Tzolis goes racing down the left. A low cross intended for Gyökeres…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "De Bruyne's feelings for Man City will 'never change'",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cxq6e9vlp39jo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Kevin de Bruyne says he has \"love\" for Manchester City's owners and his feelings for the club will \"never change\" despite being found guilty of breaching the Premier League's financial rules.",
+            "titulo": "Senegal reinstated as Afcon 2025 winners - 10 months after tournament",
+            "link": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
             "fuente": "BBC"
           },
           {
-            "titulo": "The Ravens have long been a model of stability. Now they’re going off the rails",
-            "link": "https://www.theguardian.com/sport/2026/nov/23/baltimore-ravens-nfl-football",
-            "resumen": "Baltimore have been one of the most successful teams in the league this century. But recent events have dinged their reputation The Baltimore Ravens have lost in all sorts of fashion in recent weeks. There were the blowout losses to…",
+            "titulo": "The line between sports hero and gambling shill is fast disappearing",
+            "link": "https://www.theguardian.com/sport/2026/nov/24/prediction-markets-sports-gambling",
+            "resumen": "For big stars, endorsing companies like Kalshi and Polymarket is just another day in the beautiful business of being – and staying – rich When Giannis Antetokounmpo announced he was taking an investment stake in prediction market Kalshi…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "England, Northern Ireland, Scotland & Wales to host 2035 Women's World Cup",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The United Kingdom will host a football World Cup for the first time since 1966.",
+            "titulo": "Sooryavanshi, 15, breaks sixes record by scoring 204 off 53 balls",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c6y9709xx4qwo?at_medium=RSS&at_campaign=rss",
+            "resumen": "India's 15-year-old sensation Vaibhav Sooryavanshi blazes 204 from 53 balls for India A, almost halving the record for the fastest double-century in List A cricket.",
             "fuente": "BBC"
           }
         ]
