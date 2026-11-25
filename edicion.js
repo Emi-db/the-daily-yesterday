@@ -1,38 +1,38 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION = {
-  "fecha": "24 de noviembre de 2026",
-  "generada": "20:24",
+  "fecha": "25 de noviembre de 2026",
+  "generada": "19:38",
   "secciones": [
     {
       "nombre": "El País",
       "notas": [
         {
-          "titulo": "Fraude a la UOM: la militante de La Cámpora afirmó al juez que compró el departamento de abajo de Cristina Kirchner con \"recursos propios y de mi familia\"",
-          "link": "https://www.clarin.com/politica/fraude-uom-militante-campora-afirmo-juez-compro-departamento-abajo-cristina-kirchner-recursos-propios-familia_0_v1v3zMPKCF.html",
-          "resumen": "En su declaración indagatoria, María Soledad Calle negó que su doble condición de miembro de la conducción del gremio y de la empresa privada que administraba sus fondos fuera un conflicto de intereses. Se negó a responder preguntas y…",
+          "titulo": "Vacunatorio VIP: ahora el periodista Horacio Verbitsky afirmó que se vacunó sin ser personal esencial porque \"me convencieron\"",
+          "link": "https://www.clarin.com/politica/vacunatorio-vip-periodista-horacio-verbitsky-afirmo-vacuno-personal-esencial-convencieron_0_KMuK3j3yws.html",
+          "resumen": "En su declaración indagatoria ante la jueza María Eugenia Capuchetti, aseguró que no sabía que darse la vacuna en forma anticipada era ilegal, porque en tal caso “no lo hubiese hecho”.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Revuelo en Bariloche por el inusual aterrizaje en helicóptero del magnate Joe Lewis",
-          "link": "https://www.lanacion.com.ar/politica/revuelo-en-bariloche-por-el-inusual-aterrizaje-en-helicoptero-del-magnate-joe-lewis-nid24112026/",
-          "resumen": "Voló desde Lago Escondido a la ciudad para hacer trámites migratorios; utilizó un helipuerto céntrico, destinado a aeronaves de emergencia; en su entorno afirmaron contar con autorización",
+          "titulo": "Diego Santilli ensaya en el Senado una defensa del rumbo económico: “No hubo un estallido, hubo crecimiento”",
+          "link": "https://www.lanacion.com.ar/politica/diego-santilli-ensaya-en-el-senado-una-defensa-del-rumbo-economico-no-hubo-un-estallido-hubo-nid25112026/",
+          "resumen": "El jefe de Gabinete comenzó su informe de gestión con elogios a la administración de Milei y cuestionamientos a gobiernos anteriores; “éramos el hazmerreir del mundo”, enfatizó",
           "fuente": "La Nación"
         },
         {
-          "titulo": "El Gobierno negó una recesión y sostiene que la actividad volverá a crecer: “No estamos en una crisis”",
-          "link": "https://www.infobae.com/politica/2026/11/24/el-gobierno-nego-una-recesion-y-sostiene-que-la-actividad-volvera-a-crecer-no-estamos-en-una-crisis/",
-          "resumen": "Adrián Ravier, vocero presidencial, afirmó que los datos disponibles no alcanzan para confirmar una contracción del Producto Interno Bruto durante dos trimestres consecutivos, defendió el programa económico y ratificó que no habrá cambios…",
+          "titulo": "Diego Santilli presenta ante el Senado su primer informe como jefe de Gabinete: “El próximo año se decide si avanzamos o volvemos para atrás”",
+          "link": "https://www.infobae.com/politica/2026/11/25/diego-santilli-presentara-ante-el-senado-su-primer-informe-como-jefe-de-gabinete/",
+          "resumen": "El funcionario defenderá la gestión del gobierno de Javier Milei en la Cámara alta, donde los legisladores le enviaron 1350 preguntas. La mayor parte de las consultas se enfocaron en la inflación, la situación de la ex Agencia Nacional de…",
           "fuente": "Infobae"
         },
         {
-          "titulo": "Tras el escándalo, el Consejo directivo de la Facultad de Sociales se reúne de urgencia y darían de baja el homenaje a Santucho",
-          "link": "https://www.clarin.com/politica/escandalo-consejo-directivo-facultad-sociales-reune-urgencia-darian-baja-homenaje-santucho_0_42kEdhCFOW.html",
-          "resumen": "La reunión será a las 19 horas y será presidida por la decana Ana Arias que había defendido el homenaje.",
+          "titulo": "Financiamiento universitario: la fiscalía pidió que se ratifique la inconstitucionalidad del decreto de Milei que frenó la ley",
+          "link": "https://www.clarin.com/politica/financiamiento-universitario-fiscalia-pidio-ratifique-inconstitucionalidad-decreto-milei-freno-ley_0_4Hu7vw9l5e.html",
+          "resumen": "Consideró que el gobierno nacional \"desconoce y priva de efectos a una ley del Congreso de la Nación\".",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Javier Milei y sus medidas, en vivo: crece la polémica por el homenaje a Santucho en la UBA y se define la sesión por las PASO",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-continua-el-escandalo-por-el-homenaje-a-santucho-y-se-define-la-nid24112026/",
+          "titulo": "Javier Milei y sus medidas, en vivo: la economía en recesión técnica y las reuniones por la ley de ludopatía",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-economia-crecio-11-en-septiembre-y-avanzan-las-charlas-por-la-nid25112026/",
           "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
           "fuente": "La Nación"
         }
@@ -42,33 +42,33 @@ const EDICION = {
       "nombre": "Economía",
       "notas": [
         {
-          "titulo": "¿Qué pasa en el campo?: pese a la cosecha record predomina la cautela a la hora de invertir",
-          "link": "https://www.clarin.com/economia/pasa-campo-pese-cosecha-record-predomina-cautela-hora-invertir_0_yGXvpHKSxs.html",
-          "resumen": "Un relevamiento mostró menos necesidad de financiamiento (52%) y menos postergaciones (35,3%), pero el saldo de intención de inversión pasó a negativo por primera vez en la administración Milei. Cayó 14,4 puntos.",
+          "titulo": "La venta de inmuebles con créditos hipotecarios cayó casi 20% y pegó de lleno en la cantidad total de operaciones",
+          "link": "https://www.clarin.com/economia/venta-inmuebles-creditos-hipotecarios-cayo-20-pego-lleno-cantidad-total-operaciones_0_gmLiH5GWlG.html",
+          "resumen": "El último informe del Colegio de Escribanos porteño muestra un retroceso de 3,4% en el nivel de transacciones en el último año. También se sintió el impacto en la evolución de los primeros 10 meses de 2026.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotizan el oficial y el paralelo este martes 24 de noviembre, minuto a minuto",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotizan-el-oficial-y-el-paralelo-este-martes-24-de-noviembre-nid24112026/",
-          "resumen": "La divisa oficial opera a $1615 para la venta en el Banco Nación; el dólar blue cotiza a $1690 para esa operación; qué pasó con el MEP y el CCL",
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotizan el oficial y el paralelo este miércoles 25 de noviembre, minuto a minuto",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotizan-el-oficial-y-el-paralelo-este-miercoles-25-de-nid25112026/",
+          "resumen": "La divisa oficial opera a $1630 para la venta en el Banco Nación; el dólar blue cotiza a $1730 para esa operación; qué pasó con el MEP y el CCL",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Plazo fijo en dólares: ¿cuánto se gana al invertir u$s750?",
-          "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-se-gana-al-invertir-us750-n6348631",
-          "resumen": "Los bancos no pagan lo mismo por dejar los dólares en un plazo fijo, por lo que elegir bien puede cambiar la ganancia.",
+          "titulo": "Consumo: las ventas en supermercados cayeron en septiembre por cuarto mes seguido y acumulan una baja del 2,9% en 2026",
+          "link": "https://www.ambito.com/economia/consumo-las-ventas-supermercados-cayeron-septiembre-cuarto-mes-seguido-y-acumulan-una-baja-del-29-2026-n6349311",
+          "resumen": "Las ventas en supermercados retrocedieron un 0,9% mensual y un 3% interanual en septiembre, según el INDEC. La pérdida del poder adquisitivo, la debilidad del mercado interno y las dificultades para sostener la rentabilidad condicionan…",
           "fuente": "Ámbito"
         },
         {
-          "titulo": "Dos exfundadores de Mercado Libre recaudan US$ 650 millones para invertir en firmas de IA en América latina",
-          "link": "https://www.clarin.com/economia/exfundadores-mercado-libre-recaudan-us-650-millones-invertir-firmas-ia-america-latina_0_n9fE1bHVj5.html",
-          "resumen": "Kaszek Ventures, prevé aportar fondos a unas 20 a 30 empresas, principalmente de México y Brasil, pero también miran a Argentina y Colombia.",
+          "titulo": "\"Definitivamente, no\": Luis Caputo negó que la suba del dólar vaya a impactar en la inflación",
+          "link": "https://www.clarin.com/economia/definitivamente-luis-caputo-nego-suba-dolar-vaya-impactar-inflacion_0_q4U801uteg.html",
+          "resumen": "El ministro de Economía vinculó la tendencia alcista de los últimos días a \"una semana de crisis global que impactó en todo el mundo\" También relativizó que la economía argentina haya entrado en recesión, tras dos trimestres consecutivos…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Histórico: llegaron US$4316,6 millones con las exportaciones de carne vacuna, un valor récord",
-          "link": "https://www.lanacion.com.ar/economia/campo/historico-llegaron-us43166-millones-con-las-exportaciones-de-carne-vacuna-un-valor-record-nid24112026/",
-          "resumen": "Por los buenos precios de exportación, entre enero y octubre pasado el monto vendido al exterior subió un 36,4% respecto de igual período de 2025",
+          "titulo": "Comprar sin buscar, elegir sin probar: el impacto de la IA en el consumo y el futuro en el que agentes comprarán por nosotros",
+          "link": "https://www.lanacion.com.ar/economia/negocios/comprar-sin-buscar-elegir-sin-probar-el-impacto-de-la-ia-en-el-consumo-y-el-futuro-en-el-que-agentes-nid25112026/",
+          "resumen": "Un consumidor que consulta qué maquillaje usar para una presentación y recibe recomendaciones personalizadas, un supermercado que identifica las cajas vacías para agilizar las filas y un banco que analiza datos para anticipar las…",
           "fuente": "La Nación"
         }
       ]
@@ -77,33 +77,33 @@ const EDICION = {
       "nombre": "El Mundo",
       "notas": [
         {
-          "titulo": "Golpe comando y toma de rehenes en un supermercado de Cartagena: piden dos millones de dólares y autos blindados",
-          "link": "https://www.clarin.com/mundo/golpe-comando-toma-rehenes-supermercado-cartagena-piden-millones-dolares-autos-blindados_0_pDEOqYZuDJ.html",
-          "resumen": "Un gran operativo policial con francotiradores rodea el supermercado mientras hombres encapuchados retienen bajo amenazas con armas largas a las víctimas. Los asaltantes, que mantienen a 25 personas en su poder, exigen vía libre hacia…",
+          "titulo": "El otro debate que dejó el caso Nvidia: ¿Vuelven los romances (secretos) entre los directivos y sus empleadas?",
+          "link": "https://www.clarin.com/mundo/debate-dejo-caso-nvidia-vuelven-romances-secretos-directivos-empleadas_0_J5bEkIFYCL.html",
+          "resumen": "En el mundo empresarial estadounidense, mentirle a la junta directiva sobre una relación con un subordinado ha puesto fin, invariablemente, a las carreras de poderosos líderes empresariales. Excepto a Jensen Huang.",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Elecciones España 2026, EN VIVO: qué dicen las encuestas en los días previos",
-          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-espana-2026-en-vivo-que-dicen-las-encuestas-en-los-dias-previos-nid24112026/",
+          "titulo": "Rusia acumula casi 500.000 soldados muertos en la guerra y Alemania advierte que “quiere más que Ucrania”",
+          "link": "https://www.lanacion.com.ar/el-mundo/rusia-acumula-casi-500000-soldados-muertos-en-la-guerra-y-alemania-advierte-que-quiere-mas-que-nid25112026/",
+          "resumen": "Una investigación de la BBC en base a una filtración de datos permitió hacer una estimación de las bajas",
+          "fuente": "La Nación"
+        },
+        {
+          "titulo": "Sospechas y alerta en Europa: ¿Rusia está por lanzar un satélite con una bomba atómica?",
+          "link": "https://www.clarin.com/mundo/sospechas-alerta-europa-rusia-lanzar-satelite-bomba-atomica_0_vAUrZPttV6.html",
+          "resumen": "La OTAN considera que antes de fin de este año Moscú podría poner en órbita un satélite diseñado para llevar un arma nuclear. El gobierno de Vladimir Putin rechaza las versiones, pero en la Unión Europea pocos confían en él.",
+          "fuente": "Clarín"
+        },
+        {
+          "titulo": "Elecciones España 2026, EN VIVO: encuestas, final de las campañas y el minuto a minuto hoy",
+          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-espana-2026-en-vivo-encuestas-final-de-las-campanas-y-el-minuto-a-minuto-hoy-nid25112026/",
           "resumen": "El Partido Popular parte como favorito, aunque necesitaría el apoyo de la ultraderecha para alcanzar la mayoría absoluta; el líder conservador se mostró más asertivo en el debate cara a cara con el presidente socialista",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Elecciones en España: un eventual gobierno del PP y Vox podría revisar las ciudadanías por la ley de nietos",
-          "link": "https://www.clarin.com/mundo/elecciones-espana-eventual-gobierno-pp-vox-podria-revisar-ciudadanias-ley-nietos_0_im4oUu33PO.html",
-          "resumen": "El Tribunal Supremo español analiza si la ley por la que miles de descendientes de españoles consiguieron la ciudadanía se aplicó de modo indebido en algunos casos. Un triunfo de la derecha en las elecciones del 29 de noviembre podría…",
-          "fuente": "Clarín"
-        },
-        {
-          "titulo": "Feijóo, líder del PP en España, contra TVE: “Parece una televisión norcoreana y los informativos son una vergüenza”",
-          "link": "https://www.lanacion.com.ar/el-mundo/feijoo-lider-del-pp-en-espana-contra-tve-parece-una-television-norcoreana-y-los-informativos-son-una-nid24112026/",
-          "resumen": "El candidato cuestionó la neutralidad de la corporación pública a días de las elecciones generales; prometió criterios de proporcionalidad si llega al gobierno",
-          "fuente": "La Nación"
-        },
-        {
-          "titulo": "El corpiño rojo de Jensen Huang: Trump bromea en redes por el caso Nvidia, pero en el Congreso asoma una investigación",
-          "link": "https://www.clarin.com/mundo/corpino-rojo-jensen-huang-trump-bromea-redes-caso-nvidia-congreso-asoma-investigacion_0_vhGzL7BPeH.html",
-          "resumen": "La restitución de Jensen Huang en la conducción de la compañía desató fuertes críticas tanto de demócratas como de republicanos en el Congreso. Los parlamentarios cuestionaron la injerencia del mandatario y advirtieron sobre los riesgos…",
+          "titulo": "Cuándo son las elecciones en España 2026: fechas y todo lo que hay que saber para votar",
+          "link": "https://www.clarin.com/mundo/elecciones-espana-2026-fechas-saber-votar_0_n433lf32cu.html",
+          "resumen": "Los ciudadanos eligen diputados y senadores; la presidencia se define después mediante una investidura. Cuándo se vota, quiénes pueden participar y cuáles son las fechas clave del calendario electoral.",
           "fuente": "Clarín"
         }
       ]
@@ -112,33 +112,33 @@ const EDICION = {
       "nombre": "Deportes",
       "notas": [
         {
-          "titulo": "Fábregas contó cómo protege a Nico Paz de las comparaciones con Messi: \"Es muy humilde y tiene un DT detrás que no va a dejar que se venga arriba\"",
-          "link": "https://www.clarin.com/deportes/fabregas-conto-protege-nico-paz-comparaciones-messi-humilde-dt-detras-va-dejar-venga-arriba_0_RBGonsRdoe.html",
-          "resumen": "El entrenador del Como marcó la cancha ante los incesantes rumores sobre una posible salida y se rindió ante su dirigido: \"Nico es un chico 10, con una personalidad increíble. Me encanta su carácter, su manera de ver las cosas y es un…",
+          "titulo": "F1 GP de Catar: horarios del entrenamiento y clasificación, cómo y dónde ver la Fórmula 1",
+          "link": "https://www.clarin.com/deportes/f1-gp-catar-horarios-entrenamiento-clasificacion-ver-formula-1_0_31TaReegK3.html",
+          "resumen": "Kimi Antonelli llega como campeón mundial y Mercedes con el título de constructores asegurado, mientras Verstappen, Russell y Hamilton mantienen abierta la pelea por el subcampeonato. Franco Colapinto buscará sumar puntos con Alpine en la…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Champions League, EN VIVO: el minuto a minuto de los partidos",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/champions-league-en-vivo-nid24112026/",
-          "resumen": "Con siete partidos en simultáneo desde el segundo turno, arranca la quinta fecha de la máxima competición europea",
+          "titulo": "La nueva apuesta del Peque Schwartzman lejos del tenis: un emprendimiento con un significado especial",
+          "link": "https://www.lanacion.com.ar/deportes/la-nueva-apuesta-del-peque-schwartzman-lejos-del-tenis-un-emprendimiento-con-un-significado-especial-nid25112026/",
+          "resumen": "A través de sus redes sociales, el exdeportista compartió los primeros detalles del local que está a punto de inaugurar junto a sus hermanos",
           "fuente": "La Nación"
         },
         {
-          "titulo": "Alivio para el United: la FA le anuló la roja a Leny Yoro y podrá jugar el próximo partido",
-          "link": "https://www.ole.com.ar/futbol-internacional/inglaterra/fa-anulo-roja-leny-yoro-manchester-united-mauricio-pochettino_0_77ilMjDwZw.html",
-          "resumen": "El defensor francés fue expulsado ante Liverpool por una falta sobre Alexander Isak, pero los Diablos Rojos consiguieron que se revirtiera la sanción.",
+          "titulo": "Messi es la clave: el Kily González valoró la importancia de Leo para dar vuelta la serie ante Columbus Crew",
+          "link": "https://www.ole.com.ar/futbol-internacional/messi-inter-miami-clave-dar-vuelta-serie-mls-columbus-crew-kily-gonzalez_0_Kv34c5xCTf.html",
+          "resumen": "A pesar del 0-3 en la ida por los playoffs de la MLS, el DT del Inter Miami se ilusiona con que su equipo pueda dar vuelta la serie y valoró el hecho de contar con el Diez.",
           "fuente": "Olé"
         },
         {
-          "titulo": "Instituto vs. River, por los cuartos del Clausura: se confirmó que se jugará en Alta Córdoba y sin hinchas visitantes",
-          "link": "https://www.clarin.com/deportes/instituto-vs-river-cuartos-clausura-confirmo-jugara-alta-cordoba-hinchas-visitantes_0_23iGbP1LTa.html",
-          "resumen": "La dirigencia y el cuerpo técnico encabezado por Diego Flores priorizaron la ventaja deportiva por sobre la recaudación que hubiese generado una mudanza al estadio Kempes. De este modo, el conjunto cordobés recibirá al elenco de Núñez…",
+          "titulo": "Belasteguin habló del consejo sexual que le dio a Colapinto y reveló la intimidad de su vínculo: \"En casa es como un cuarto hijo\"",
+          "link": "https://www.clarin.com/deportes/belasteguin-hablo-consejo-sexual-dio-colapinto-revelo-intimidad-vinculo-casa-cuarto-hijo_0_gembYR9811.html",
+          "resumen": "El ex número 1 del pádel trabaja con el piloto de Fórmula 1, y hasta lo llevó a vivir con su familia. Una relación que trasciende lo deportivo: la anécdota del día que \"no se hizo la cama\". Y el lado B de la declaración que hizo Franco al…",
           "fuente": "Clarín"
         },
         {
-          "titulo": "Se conocieron las votaciones de Lionel Messi para el Balón de Oro a lo largo de su historia",
-          "link": "https://www.lanacion.com.ar/deportes/futbol/se-conocieron-las-votaciones-de-lionel-messi-para-el-balon-de-oro-a-lo-largo-de-su-historia-nid24112026/",
-          "resumen": "El rosarino participó en 11 oportunidades y entre sus elecciones aparecieron cuatro excompañeros de la selección argentina",
+          "titulo": "Un tenista argentino compartió las amenazas de muerte que recibió por parte de apostadores: “Vas a pagar con sangre”",
+          "link": "https://www.lanacion.com.ar/deportes/tenis/un-tenista-argentino-compartio-las-amenazas-de-muerte-que-recibio-por-parte-de-apostadores-vas-a-nid25112026/",
+          "resumen": "Juan Manuel La Serna recibió mensajes de un usuario que su rival llegara al tie break para no perder su dinero durante el Challenger de Florianópolis, en Brasil",
           "fuente": "La Nación"
         }
       ]
