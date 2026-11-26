@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "25 de noviembre de 2026",
-    "generada": "19:38",
+    "fecha": "26 de noviembre de 2026",
+    "generada": "19:19",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Cómo China mantiene su enorme influencia en América Latina en pleno pulso geopolítico con EE.UU.",
-            "link": "https://www.bbc.com/mundo/articles/c32l5enge15go?at_medium=RSS&at_campaign=rss",
-            "resumen": "De distintas formas —y a veces con bajo perfil—, Pekín logra sostener una presencia trascendental en la región aunque Washington busca limitarla.",
+            "titulo": "Efecto BYD: por qué Brasil se ha convertido en un \"laboratorio en América Latina\" para las empresas chinas",
+            "link": "https://www.bbc.com/mundo/articles/ck1ewnv46x70o?at_medium=RSS&at_campaign=rss",
+            "resumen": "La enorme planta que se construye en el noreste de Brasil marca el ascenso de China al liderazgo del mercado automotriz global: Ford ocupó ese mismo predio hasta que cerró sus puertas en 2021.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Kilmar Abrego García, víctima de las deportaciones masivas en EE UU, llega a España: “Trump no decide mi futuro”",
-            "link": "https://elpais.com/internacional/2026-11-25/kilmar-abrego-garcia-victima-de-las-deportaciones-masivas-de-trump-aterriza-en-madrid.html",
-            "resumen": "El salvadoreño terminó por error en la megacárcel de Bukele en 2025 y corría el riesgo de ser enviado por la fuerza a Liberia. Según declararon sus abogados en el aeropuerto de Madrid, no pedirá asilo y viajará a varios países para…",
+            "titulo": "Una nueva investigación en Francia apuntala la veracidad de los mensajes antisemitas del delfín de Marine Le Pen",
+            "link": "https://elpais.com/internacional/2026-11-26/una-nueva-investigacion-en-francia-apuntala-la-veracidad-de-los-mensajes-antisemitas-del-delfin-de-marine-le-pen.html",
+            "resumen": "El diario ‘Le Monde’ publica más pruebas de las soflamas de Jordan Bardella, hoy presidente del Reagrupamiento Nacional, en 2013 en Facebook",
             "fuente": "El País"
           },
           {
-            "titulo": "Ejército de EE. UU. detona más de cuatro toneladas de explosivos de plomo en Iowa",
-            "link": "https://www.france24.com/es/video/20261125-ej%C3%A9rcito-de-ee-uu-detona-m%C3%A1s-de-cuatro-toneladas-de-explosivos-de-plomo-en-iowa",
-            "resumen": "El Ejército estadounidense destruyó este 25 de noviembre más de cuatro toneladas de material explosivo a base de plomo, en desuso desde hace años y almacenado en una fábrica de una localidad de Iowa, en el centro del país. Las autoridades…",
+            "titulo": "EE. UU. suspende los operativos conjuntos en Ecuador por sospechas de asesinatos extrajudiciales",
+            "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261126-ee-uu-pausa-los-operativos-conjuntos-en-ecuador-por-sospechas-de-asesinatos-extrajudiciales",
+            "resumen": "La muerte de Carlos Germán Muñoz Jara, alias 'Charlie', señalado por las autoridades ecuatorianas de pertenecer al grupo delincuencial Los Choneros ha derivado en la paralización de las operaciones conjuntas entre Estados Unidos y…",
             "fuente": "France 24"
           },
           {
-            "titulo": "\"500.000 muertos\": la filtración de datos que revela las abrumadoras cifras de soldados rusos fallecidos en la guerra de Ucrania",
-            "link": "https://www.bbc.com/mundo/articles/cq5y1lpz5pr8o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Las cifras obtenidas por unos hackers muestran cómo la invasión a gran escala de Ucrania ha transformado significativamente los patrones de mortalidad en Rusia.",
+            "titulo": "La España de los (casi) 50 millones: cómo la inmigración ha transformado el país en la última década y se ha convertido en tema clave de las elecciones",
+            "link": "https://www.bbc.com/mundo/articles/ckq5vgpwwq76o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Con casi 50 millones de habitantes y más muertes que nacimientos, España llega a las elecciones del 29 de noviembre en pleno debate sobre cómo gestionar la inmigración.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "EE UU propone nuevos aranceles contra 14 socios comerciales, entre ellos China y la UE",
-            "link": "https://elpais.com/internacional/2026-11-25/ee-uu-anuncia-nuevos-aranceles-contra-14-socios-comerciales.html",
-            "resumen": "Los gravámenes más altos los sufrirá Pekín, mientras que México queda exento",
+            "titulo": "La justicia francesa investiga la filtración de información confidencial para favorecer al partido de Le Pen",
+            "link": "https://elpais.com/internacional/2026-11-26/un-caso-de-revelacion-de-secretos-judiciales-salpica-al-partido-de-le-pen.html",
+            "resumen": "Un delegado del Gobierno dimite por su posible implicación en este escándalo que muestra los crecientes vínculos entre altos cargos y el partido ultraderechista",
             "fuente": "El País"
           }
         ]
@@ -43,9 +43,9 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "El agujero negro fiscal de España que la izquierda quiere taponar: los milmillonarios solo tributan el 0,12% de su patrimonio",
-            "link": "https://elpais.com/economia/2026-11-25/el-agujero-negro-fiscal-de-espana-que-la-izquierda-quiere-taponar-los-multimillonarios-solo-tributan-el-012-de-su-patrimonio.html",
-            "resumen": "La propuesta de Gabriel Zucman, de la que beben PSOE y Frente Amplio, plantea gravar con un 2% los patrimonios superiores a los 100 millones para recaudar más de 5.000 millones al año",
+            "titulo": "Hernández de Cos se convertirá en febrero en el primer español en presidir el BCE",
+            "link": "https://elpais.com/economia/2026-11-26/hernandez-de-cos-se-convertira-en-febrero-en-el-primer-espanol-en-presidir-el-bce.html",
+            "resumen": "El exgobernador del Banco de España relevará a Lagarde al frente de la autoridad monetaria europea tras obtener el apoyo de Francia y Alemania",
             "fuente": "El País"
           },
           {
@@ -55,9 +55,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "El salario medio mensual roza los 2.500 euros brutos, tras avanzar un 4,7% en 2025",
-            "link": "https://elpais.com/economia/2026-11-25/el-salario-medio-mensual-roza-los-2500-euros-brutos-tras-avanzar-un-47-en-2025.html",
-            "resumen": "Las retribuciones crecen por encima de la inflación, que cerró el año en el 2,9%. La brecha salarial entre hombres y mujeres aumenta y alcanza los 500 euros al mes",
+            "titulo": "Perfil | Hernández de Cos, un liberal pragmático experto en forjar consensos",
+            "link": "https://elpais.com/economia/2026-11-26/hernandez-de-cos-un-liberal-pragmatico-experto-en-forjar-consensos.html",
+            "resumen": "El próximo presidente del BCE, después de tres décadas en bancos centrales, asumirá un desafío mayúsculo: una potencial crisis en Francia",
             "fuente": "El País"
           },
           {
@@ -67,9 +67,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "El nuevo permiso de duelo por fallecimiento entra en vigor para muertes ocurridas desde este jueves",
-            "link": "https://elpais.com/economia/2026-11-25/el-nuevo-permiso-de-duelo-por-fallecimiento-entra-en-vigor-para-muertes-ocurridas-desde-este-jueves.html",
-            "resumen": "El decreto ley publicado en el BOE establece que los diez días de permiso se pueden disfrutar de forma no consecutiva si así se acuerda en la negociación colectiva",
+            "titulo": "Cientos de transportistas se manifiestan frente a la Seguridad Social porque aún no ha anticipado su jubilación",
+            "link": "https://elpais.com/economia/2026-11-26/cientos-de-transportistas-se-manifiestan-frente-a-la-seguridad-social-porque-aun-no-ha-anticipado-su-jubilacion.html",
+            "resumen": "A mediados de diciembre se reúne la comisión que analizará si los índices de siniestralidad justifican adelantar el retiro en el transporte de mercancías, una semana antes de una convocatoria de huelga",
             "fuente": "El País"
           }
         ]
@@ -78,33 +78,33 @@ const EDICION_MUNDO = {
         "nombre": "Ciencia y Tecnología",
         "notas": [
           {
+            "titulo": "Los astrónomos se rebelan contra el permiso de Elon Musk para desplegar un millón de centros de datos en el espacio",
+            "link": "https://elpais.com/ciencia/2026-11-26/los-astronomos-se-rebelan-contra-el-permiso-de-elon-musk-para-desplegar-un-millon-de-centros-de-datos-en-el-espacio.html",
+            "resumen": "Las constelaciones de satélites de SpaceX ya dificultan la observación científica del espacio y la vigilancia de asteroides peligrosos",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "WhatsApp ya permite programar mensajes: “Algunos es mejor enviarlos más tarde”",
+            "link": "https://elpais.com/tecnologia/2026-11-26/whatsapp-ya-permite-programar-mensajes-algunos-es-mejor-enviarlos-mas-tarde.html",
+            "resumen": "La nueva función, disponible por ahora solo en Android, permite redactar el texto y fijar la fecha y hora exactas en las que llegará al destinatario, desde 10 minutos hasta 14 días más tarde",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Sylvie Retailleau, exministra de Educación de Francia: “Es muy importante darles la palabra a los jóvenes”",
+            "link": "https://elpais.com/ciencia/2026-11-26/sylvie-retailleau-exministra-de-educacion-en-francia-es-muy-importante-darles-la-palabra-a-los-jovenes.html",
+            "resumen": "La actual presidenta de Universcience, el organismo que agrupa los principales museos científicos de París, defiende el papel de la ciencia y la cultura frente a los desafíos políticos y sociales de Europa",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "El mundo no se pone de acuerdo sobre los robots asesinos: “Pueden acelerar una escalada de la violencia”",
+            "link": "https://elpais.com/tecnologia/2026-11-26/el-mundo-no-se-pone-de-acuerdo-sobre-los-robots-asesinos-pueden-acelerar-una-escalada-de-la-violencia.html",
+            "resumen": "Naciones Unidas ha sido incapaz de impulsar el control o prohibición de las armas autónomas, que ya han matado en algunos escenarios bélicos y cuya proliferación podría cambiar la naturaleza de la guerra",
+            "fuente": "El País"
+          },
+          {
             "titulo": "Aves marinas actúan como ‘espías’ grabando sonidos de barcos pesqueros",
             "link": "https://elpais.com/clima-y-medio-ambiente/2026-11-25/aves-marinas-actuan-como-espias-grabando-sonidos-de-barcos-pesqueros.html",
             "resumen": "Un estudio realizado con alcatraces y pardelas baleares muestra que este sistema detecta buques que pasan desapercibidos con la tecnología de seguimiento habitual",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "¿Qué pasa en una casa inteligente cuando se cae internet?",
-            "link": "https://elpais.com/tecnologia/2026-11-24/que-pasa-en-una-casa-inteligente-cuando-se-cae-internet.html",
-            "resumen": "Una avería en la fibra no tiene por qué dejar fuera de juego toda la domótica, pero sí puede impedir controlar luces, cámaras o electrodomésticos",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Así es el cráter del tamaño de un estadio que formó la primera misión que desvió un asteroide",
-            "link": "https://elpais.com/ciencia/2026-11-25/asi-es-el-crater-del-tamano-de-un-estadio-que-formo-la-primera-mision-que-desvio-un-asteroide.html",
-            "resumen": "La Agencia Espacial Europea difunde las primeras imágenes de Dimorfo tras el impacto de la nave DART tomadas por la sonda espacial ‘Hera’",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Luciano Floridi, filósofo: “La teoría del apocalipsis de la IA es la suma de desinformación, propaganda, intereses y codicia”",
-            "link": "https://elpais.com/tecnologia/2026-11-23/luciano-floridi-filosofo-la-teoria-del-apocalipsis-de-la-ia-es-la-suma-de-desinformacion-propaganda-intereses-y-codicia.html",
-            "resumen": "El experto, uno de los más reconocidos del mundo en tecnologías de la información, defiende el “asombroso” cambio que supone la IA pero reclama que no se la llame “inteligencia”",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "El secreto de la wolbachia, la bacteria que convierte a los insectos macho en hembras",
-            "link": "https://elpais.com/ciencia/2026-11-25/el-secreto-de-la-wolbachia-la-bacteria-que-convierte-a-los-insectos-macho-en-hembras.html",
-            "resumen": "El microbio ayuda a reducir el contagio de enfermedades transmitidas por mosquitos, como el dengue",
             "fuente": "El País"
           }
         ]
@@ -113,33 +113,33 @@ const EDICION_MUNDO = {
         "nombre": "Deportes",
         "notas": [
           {
-            "titulo": "Una cuestión de estado: \"No se soportan\"",
-            "link": "https://www.marca.com/motor/formula1/gp-qatar/2026/11/25/hamilton-leclerc-cuestion.html",
-            "resumen": "La guerra en Ferrari está más que viva, tiene personalidades enfrentadas y puntos de vista completamente diferentes que hace difícil pensar en un entendimiento",
+            "titulo": "La reina Letizia juega a la boccia en la Zarzuela con 'El Langui'",
+            "link": "https://www.marca.com/paralimpicos/2026/11/26/reina-letizia-juega-boccia-zarzuela-langui.html",
+            "resumen": "El cantante, actor y director de cine es miembro de la selección nacional de esta disciplina paralímpica",
             "fuente": "Marca"
           },
           {
-            "titulo": "¡Al larguero Adeyemi!",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255371/sabah-barcelona-directo-champions-league-partido-liga-campeones-hoy-online.html",
-            "resumen": "Aquí te contamos todo lo que suceda en el Sabah - Barcelona, correspondiente a la fase liga de la UEFA Champions League, que se disputa en Bakú.",
+            "titulo": "España - Austria Copa Davis de tenis, en directo",
+            "link": "https://www.mundodeportivo.com/tenis/copa-davis/20261126/1004255577/espana-austria-directo-copa-davis-tenis-partidos-carlos-alcaraz-rafa-jodar-vivo-online.html",
+            "resumen": "",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Experta en hipotecas explica los dos miedos existentes a la hora de comprar una vivienda: “El FOMO y el FOOP”",
-            "link": "https://www.marca.com/tiramillas/economia/2026/11/25/montse-cespedosa-experta-hipotecas-explica-dos-miedos-existentes-hora-comprar-vivienda-fomo-foop.html",
-            "resumen": "Estos temores pueden condicionar una compra",
+            "titulo": "McGregor anuncia su regreso: \"La rodilla está a punto y el cuerpo a pleno rendimiento\"",
+            "link": "https://www.marca.com/combates-ufc/2026/11/26/mcgregor-anuncia-regreso-rodilla-punto-cuerpo-pleno-rendimiento.html",
+            "resumen": "Tras sufrir una grave lesión en el ligamento cruzado el pasado julio, 'The Notorious' ya está preparado para cerrar su combate de despedida con la UFC en 2027",
             "fuente": "Marca"
           },
           {
-            "titulo": "El siguiente paso que dará el Barça ante la sanción a Fermín",
-            "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255417/siguiente-paso-dara-barca-sancion-fermin.html",
-            "resumen": "El FC Barcelona no se quedará de brazos cruzados después de que este mediodía el Comité de Disciplina de la RFEF (Real Federación Española de Fútbol ) hiciera pública la sanción de dos partidos a Fermín López tras su expulsión ante el…",
+            "titulo": "Mérida: \"Estaba nervioso, sabía que haciendo un buen papel Alcaraz podría jugar el sábado\"",
+            "link": "https://www.mundodeportivo.com/tenis/copa-davis/20261126/1004255948/merida-nervioso-sabia-haciendo-buen-papel-alcaraz-jugar-sabado.html",
+            "resumen": "Dani Mérida tuvo un inicio espectacular de Final a 8 de Copa Davis en Bolonia. Abrió la eliminatoria España-Austria poniendo el 1-0 en el marcador, ante la mirada desde el banquillo de Carlos Alcaraz , reservado después de las molestias…",
             "fuente": "Mundo Deportivo"
           },
           {
-            "titulo": "Arteta se 'Saka' un nuevo 'cañón'",
-            "link": "https://www.marca.com/futbol/champions-league/2026/11/25/arteta-saka-nuevo-canon-convirtio-madueke-diferente.html",
-            "resumen": "El extremo suma cuatro goles y tres asistencias en sus últimos 11 partidos con el Arsenal",
+            "titulo": "Marc Márquez: \"Me piden ya el undécimo... quiero saborear Valencia\"",
+            "link": "https://www.marca.com/motor/motogp/gp-valencia/2026/11/26/marc-marquez-me-piden-undecimo-quiero-saborear-valencia.html",
+            "resumen": "Pondrá la chispa necesaria para intentar evitar un Indonesia 2025",
             "fuente": "Marca"
           }
         ]
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "November 25, 2026",
-    "generada": "19:38",
+    "fecha": "November 26, 2026",
+    "generada": "19:19",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "US announces new tariffs on host of countries including China",
-            "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+            "titulo": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+            "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Swiss tourist killed and British and Americans injured by elephants in Cameroon",
-            "link": "https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon",
-            "resumen": "Alain Throo, insurance executive based in London, reportedly gored and later died on hike near Mount Cameroon national park A Swiss tourist has been killed and British and American tourists have been injured when a group of hikers…",
+            "titulo": "‘I’m no longer a UAE official’: UN hopeful Lana Nusseibeh tries to shake off Sudan record",
+            "link": "https://www.theguardian.com/world/2026/nov/26/lana-nusseibeh-uae-sudan-un-secretary-general",
+            "resumen": "The US and Russia’s candidate for secretary general is on a charm offensive. Can she overcome London’s resistance to her bid? Lana Nusseibeh is in Britain this week, attempting to present herself as a potential future UN secretary…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Island Paradise of Mauritius Has Sun, Beaches and Too Many Dogs",
-            "link": "https://www.nytimes.com/2026/11/25/world/africa/maritius-stray-dogs.html",
-            "resumen": "Mauritius, a popular tourist destination off southern Africa, has become overrun with strays. With more and more residents chased and attacked, many are fed up.",
+            "titulo": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
+            "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
+            "resumen": "Dozens of Brazilians were sent to the front lines with little training, and the high salaries they were promised, they say, turned out to be illusory.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-            "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+            "titulo": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+            "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+            "resumen": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
-            "link": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
-            "resumen": "Kishanth Peramalya was denied entry due to sexual assault convictions and sent to Africa where he had no connections The UK sent a Sri Lankan asylum seeker who had been convicted of sexual assault to Eswatini, a southern African country…",
+            "titulo": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+            "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+            "resumen": "Blaze on ring road surrounding Egyptian capital injures at least 21 people and leaves cars and motorcycles charred A crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killing at least 31…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Poundland collapses putting 11,000 jobs at risk",
-            "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-            "resumen": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+            "titulo": "Millions of people to see average monthly mortgage payments rise by £100",
+            "link": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+            "resumen": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
             "fuente": "BBC"
           },
           {
-            "titulo": "US proposes new tariffs on 14 trading partners, including China, Japan and the EU – as it happened",
-            "link": "https://www.theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates",
-            "resumen": "New tariffs planned as Trump administration clamps down on ‘unfair trade practices’ Hannah Webster , senior economist at the think tank New Economics Foundation , also called for other measures. The price cap increase will be difficult…",
+            "titulo": "Trump proposing new tariffs on 14 partners including China and EU",
+            "link": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
+            "resumen": "Administration is suggesting an added 20% tax on Chinese imports, which would bring the total to about 40% US politics live – latest updates Donald Trump is proposing new tariffs on 14 trading partners, including China and the European…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Traveling to Bhutan in 2026: Wood-Fired Pizzas and Monks With Cellphones",
-            "link": "https://www.nytimes.com/2026/11/25/travel/bhutan-travel.html",
-            "resumen": "The view of the Himalayan country as ancient and immutable is being challenged by young Bhutanese who are opening restaurants and shops, and getting beyond “gross national happiness.” A traveler explores.",
+            "titulo": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
+            "link": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
+            "resumen": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., after he was reinstated at Nvidia, the company he is said to have co-founded while eating there.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "What's gone wrong at Poundland?",
-            "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Poundland has collapse into administration. Why?",
+            "titulo": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
+            "link": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
             "fuente": "BBC"
           },
           {
-            "titulo": "US inflation hits highest since May after prices climb 3.8% over the last year",
-            "link": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
-            "resumen": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting The sell-off in the US stock market continued Wednesday as investors reacted to continued concern over the AI trade and fresh…",
+            "titulo": "Judge blocks Brendan Carr-led FCC from taking any further action against ABC’s licenses",
+            "link": "https://www.theguardian.com/us-news/2026/nov/25/brendan-carr-fcc-abc-licenses",
+            "resumen": "Federal judge Loren L AliKhan grants preliminary injunction in ABC’s favor after network sued FCC in August The federal judge Loren L AliKhan on Wednesday granted a preliminary injunction blocking the Brendan Carr-led Federal…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,33 +224,33 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-            "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-            "resumen": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+            "titulo": "Second court defeat for Trump's deep-sea mining ambitions",
+            "link": "https://www.bbc.co.uk/news/articles/c6y4jyx2m172o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Second judge rules against Trump administration's plans to lease areas of ocean floor and survey for mining.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Nasa knocked an asteroid off course. New closeup photos shed light on aftermath",
-            "link": "https://www.theguardian.com/science/2026/nov/25/dimorphos-asteroid-spacecraft-crash-closeup-images",
-            "resumen": "Images of Dimorphos four years on from crash could help scientists design potential planetary defence system Humanity may not yet have a means of fending off a Vogon constructor fleet – the destroyers of Earth in The Hitchhiker’s Guide to…",
+            "titulo": "Young people are having less sex. What's going on? - video",
+            "link": "https://www.theguardian.com/science/video/2026/nov/26/young-people-are-having-less-sex-than-ever-whats-going-on-video",
+            "resumen": "Sex among British adults has slumped in recent decades, with under-45s having half as many monthly encounters as in 1990 and one in three under-25s reporting that they have never had sexual intercourse. To unpick some of the possible…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Europe’s Hera Mission Releases Close-Up Images of the Asteroid Hit by a NASA Spacecraft",
-            "link": "https://www.nytimes.com/2026/11/25/science/hera-nasa-photos-dart-asteroid.html",
-            "resumen": "A European mission called Hera has just revealed the first close-up look at the aftermath of NASA’s audacious planetary defense test.",
+            "titulo": "The N.F.L. Player Who Left Football for Math",
+            "link": "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html",
+            "resumen": "John Urschel left the game in part because of health risks. Now he’s scoring points in a new profession, but A.I. looms as a different kind of career hazard.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
-            "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-            "resumen": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
+            "titulo": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
+            "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Massive storms are descending on both US coasts as an estimated 80 million Americans hit the road for Thanksgiving holiday.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Beaver supermoon lights up skylines around the world – video",
-            "link": "https://www.theguardian.com/science/video/2026/nov/25/beaver-supermoon-lights-up-skylines-around-the-world-video",
-            "resumen": "A stunning supermoon rose over skylines around the world. Supermoons occur when the full moon coincides with the moon being at or near its closest point to Earth, making it appear larger than usual. The November full moon is also known as…",
+            "titulo": "Contraceptive pill usage in Great Britain fell drastically in last decade, research finds",
+            "link": "https://www.theguardian.com/society/2026/nov/26/contraceptive-pill-usage-in-great-britain-fell-drastically-in-last-decade-research-finds",
+            "resumen": "Survey published in Lancet reveals ‘hormonal hesitancy’ on the rise – with implants and injections also increasingly spurned The number of young women using hormonal contraception fell drastically in the past decade, with social media…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Confusion and anger - Yoro red card rescinded, but row goes on",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cvze7y6n2redo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Leny Yoro's red card against Liverpool has prompted an unseemly difference of opinion between Man Utd and Pro Ref.",
+            "titulo": "Boxing chiefs to assess Fury mental health before fight",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/cwj3klxj10edo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Tyson Fury's mental health wil be assessed to ensure he is fit to fight Anthony Joshua following documentary revelations.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Club Brugge v Liverpool, Lille v Bayern Munich and more: Champions League clockwatch – live",
-            "link": "https://www.theguardian.com/football/live/2026/nov/25/club-brugge-v-liverpool-lille-v-bayern-munich-and-more-champions-league-clockwatch-live",
-            "resumen": "⚽️ Updates from Wednesday’s 8pm GMT matches ⚽️ Live scoreboard | Read Football Daily | Email Simon Rob Smyth is running a separate liveblog on Manchester United’s latest examination, at Sporting. You can find that here , and meanwhile the…",
+            "titulo": "Human flamethrower Aaron Rodgers lays bare the cultural rot at the once-great Steelers",
+            "link": "https://www.theguardian.com/sport/2026/nov/26/aaron-rodgers-released-pittsburgh-steelers-nfl-exit",
+            "resumen": "The quarterback’s spectacularly messy exit from Pittsburgh could herald an overdue collapse at one of the NFL’s most famous franchises Nobody in the world, except maybe Pittsburgh Steelers owner Art Rooney II, is surprised that the…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "'Best midfielder in the world' - where does Bellingham rank?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmkgdjkr2y70o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Jose Mourinho called Real Madrid's Jude Bellingham \"the best midfielder in the world\", but where would you rank him?",
+            "titulo": "Russell says Verstappen's criticism 'quite amusing'",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/c5lykr98yd88o?at_medium=RSS&at_campaign=rss",
+            "resumen": "George Russell says Max Verstappen can \"say what he wants\" and that he found the Red Bull driver's criticisms of him after the Las Vegas Grand Prix \"quite amusing\".",
             "fuente": "BBC"
           },
           {
-            "titulo": "End beckons for Aaron Rodgers as Steelers bench struggling QB days before 43rd birthday",
-            "link": "https://www.theguardian.com/sport/2026/nov/25/steelers-bench-aaron-rodgers-mason-rudolph-broncos-nfl",
-            "resumen": "Four-time MVP will be inactive for Friday’s game Pittsburgh have lost two straight to fall to 6-4 Mike McCarthy had backed Rodgers a day earlier The Pittsburgh Steelers have benched four-time NFL MVP Aaron Rodgers and will start Mason…",
+            "titulo": "Sunderland v Jagiellonia Bialystok, Crystal Palace v Real Sociedad, and more: Europa League – live",
+            "link": "https://www.theguardian.com/football/live/2026/nov/26/sunderland-v-jagiellonia-bialystok-crystal-palace-v-real-sociedad-and-more-europa-league-live",
+            "resumen": "⚽️ Updates from Thursday’s 8pm GMT matches ⚽️ Live scoreboard | Read Football Daily | Email Will It is kicking off in London … Crystal Palace: Henderson, Richards, Disasi, Canvot, Timber, Hughes, Kamada, Chilwell, Nketiah, Pino, Mateta.…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Glasner criticises Forest players yet to learn English",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Nottingham Forest manager Oliver Glasner has questioned why some of his squad cannot speak English after being in the country for a number of years.",
+            "titulo": "Not even making a 12-man bench - what next for Garnacho?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cr3wgd5exl0do?at_medium=RSS&at_campaign=rss",
+            "resumen": "Alejandro Garnacho's brief Aston Villa career already looks over, so what next for the 22-year-old?",
             "fuente": "BBC"
           }
         ]
