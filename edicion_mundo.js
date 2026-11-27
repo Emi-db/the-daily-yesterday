@@ -1,40 +1,40 @@
 // Archivo GENERADO por generar_edicion.py — no editar a mano.
 const EDICION_MUNDO = {
   "es": {
-    "fecha": "26 de noviembre de 2026",
-    "generada": "19:19",
+    "fecha": "27 de noviembre de 2026",
+    "generada": "19:13",
     "secciones": [
       {
         "nombre": "El Mundo",
         "notas": [
           {
-            "titulo": "Efecto BYD: por qué Brasil se ha convertido en un \"laboratorio en América Latina\" para las empresas chinas",
-            "link": "https://www.bbc.com/mundo/articles/ck1ewnv46x70o?at_medium=RSS&at_campaign=rss",
-            "resumen": "La enorme planta que se construye en el noreste de Brasil marca el ascenso de China al liderazgo del mercado automotriz global: Ford ocupó ese mismo predio hasta que cerró sus puertas en 2021.",
+            "titulo": "\"Ni EE.UU. llegó tan lejos\": por qué Costa Rica le impidió la entrada al país a Francesca Albanese, relatora especial de la ONU sobre los territorios palestinos",
+            "link": "https://www.bbc.com/mundo/articles/cmpqrv8e8n32o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Albanese había sido invitada al país para recibir este viernes un doctorado honoris causa por la Universidad de Costa Rica, desde donde dijeron que \"lamentan profundamente esta situación\".",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "Una nueva investigación en Francia apuntala la veracidad de los mensajes antisemitas del delfín de Marine Le Pen",
-            "link": "https://elpais.com/internacional/2026-11-26/una-nueva-investigacion-en-francia-apuntala-la-veracidad-de-los-mensajes-antisemitas-del-delfin-de-marine-le-pen.html",
-            "resumen": "El diario ‘Le Monde’ publica más pruebas de las soflamas de Jordan Bardella, hoy presidente del Reagrupamiento Nacional, en 2013 en Facebook",
+            "titulo": "La tensión entre Francia y Alemania dificulta el acuerdo presupuestario en la UE",
+            "link": "https://elpais.com/internacional/2026-11-27/la-tension-entre-francia-y-alemania-dificulta-el-acuerdo-presupuestario-en-la-ue.html",
+            "resumen": "Macron y Merz muestran de nuevo falta de sintonía en el Consejo Europeo. El presidente, António Costa, confía en que la negociación fructifique en la próxima reunión a mediados de diciembre",
             "fuente": "El País"
           },
           {
-            "titulo": "EE. UU. suspende los operativos conjuntos en Ecuador por sospechas de asesinatos extrajudiciales",
-            "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261126-ee-uu-pausa-los-operativos-conjuntos-en-ecuador-por-sospechas-de-asesinatos-extrajudiciales",
-            "resumen": "La muerte de Carlos Germán Muñoz Jara, alias 'Charlie', señalado por las autoridades ecuatorianas de pertenecer al grupo delincuencial Los Choneros ha derivado en la paralización de las operaciones conjuntas entre Estados Unidos y…",
+            "titulo": "Informe desde Madrid: debate a cuatro deja ver la clara división en España entre izquierda y derecha",
+            "link": "https://www.france24.com/es/video/20261127-informe-desde-madrid-debate-a-cuatro-deja-ver-la-clara-divisi%C3%B3n-en-espa%C3%B1a-entre-izquierda-y-derecha",
+            "resumen": "El debate electoral a cuatro volvió a poner de manifiesto la fuerte polarización política que marca la campaña en España. Mientras Pedro Sánchez, del PSOE y la aspirante de Frente Amplio, Ada Colau, coordinaron sus críticas al Partido…",
             "fuente": "France 24"
           },
           {
-            "titulo": "La España de los (casi) 50 millones: cómo la inmigración ha transformado el país en la última década y se ha convertido en tema clave de las elecciones",
-            "link": "https://www.bbc.com/mundo/articles/ckq5vgpwwq76o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Con casi 50 millones de habitantes y más muertes que nacimientos, España llega a las elecciones del 29 de noviembre en pleno debate sobre cómo gestionar la inmigración.",
+            "titulo": "Los campesinos en Colombia que no dejan de recibir amenazas por un terreno que les devolvió el gobierno hace 6 meses",
+            "link": "https://www.bbc.com/mundo/articles/cqevrxnk1p8po?at_medium=RSS&at_campaign=rss",
+            "resumen": "Campesinos a los que les fueron cerca de 400 hectáreas en Colombia están recibiendo amenazas para que abandonen estos terrenos.",
             "fuente": "BBC Mundo"
           },
           {
-            "titulo": "La justicia francesa investiga la filtración de información confidencial para favorecer al partido de Le Pen",
-            "link": "https://elpais.com/internacional/2026-11-26/un-caso-de-revelacion-de-secretos-judiciales-salpica-al-partido-de-le-pen.html",
-            "resumen": "Un delegado del Gobierno dimite por su posible implicación en este escándalo que muestra los crecientes vínculos entre altos cargos y el partido ultraderechista",
+            "titulo": "La UE lucha por aprobar un presupuesto antes de la posible llegada de Le Pen al poder en Francia",
+            "link": "https://elpais.com/internacional/2026-11-26/la-ue-lucha-por-aprobar-un-presupuesto-antes-de-la-posible-llegada-de-le-pen-al-poder-en-francia.html",
+            "resumen": "El canciller alemán Merz exige solidaridad unánime en la ayuda a Ucrania pero cuatro países son reacios: Hungría, Eslovaquia, República Checa y Bulgaria",
             "fuente": "El País"
           }
         ]
@@ -43,9 +43,9 @@ const EDICION_MUNDO = {
         "nombre": "Economía",
         "notas": [
           {
-            "titulo": "Hernández de Cos se convertirá en febrero en el primer español en presidir el BCE",
-            "link": "https://elpais.com/economia/2026-11-26/hernandez-de-cos-se-convertira-en-febrero-en-el-primer-espanol-en-presidir-el-bce.html",
-            "resumen": "El exgobernador del Banco de España relevará a Lagarde al frente de la autoridad monetaria europea tras obtener el apoyo de Francia y Alemania",
+            "titulo": "Las pensiones subirán un 3,5% en 2027 tras crecer la inflación el 4,1% en noviembre",
+            "link": "https://elpais.com/economia/2026-11-27/las-pensiones-subiran-un-35-en-2027.html",
+            "resumen": "El Gobierno adelanta el anuncio de la revalorización de las mínimas y las no contributivas, que mejorarán entre el 8,8% y el 14,2%. El Ingreso Mínimo Vital aumentará un 14,1%",
             "fuente": "El País"
           },
           {
@@ -55,9 +55,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "Perfil | Hernández de Cos, un liberal pragmático experto en forjar consensos",
-            "link": "https://elpais.com/economia/2026-11-26/hernandez-de-cos-un-liberal-pragmatico-experto-en-forjar-consensos.html",
-            "resumen": "El próximo presidente del BCE, después de tres décadas en bancos centrales, asumirá un desafío mayúsculo: una potencial crisis en Francia",
+            "titulo": "La pensión media de jubilación de los hombres ya supera los 1.800 euros al mes",
+            "link": "https://elpais.com/economia/2026-11-27/la-pension-media-de-jubilacion-de-los-hombres-ya-supera-los-1800-euros-al-mes.html",
+            "resumen": "Las jubiladas perciben 1.276 euros mensuales, lo que deja la brecha de género en el nivel más bajo desde que hay registros",
             "fuente": "El País"
           },
           {
@@ -67,9 +67,9 @@ const EDICION_MUNDO = {
             "fuente": "Expansión"
           },
           {
-            "titulo": "Cientos de transportistas se manifiestan frente a la Seguridad Social porque aún no ha anticipado su jubilación",
-            "link": "https://elpais.com/economia/2026-11-26/cientos-de-transportistas-se-manifiestan-frente-a-la-seguridad-social-porque-aun-no-ha-anticipado-su-jubilacion.html",
-            "resumen": "A mediados de diciembre se reúne la comisión que analizará si los índices de siniestralidad justifican adelantar el retiro en el transporte de mercancías, una semana antes de una convocatoria de huelga",
+            "titulo": "De Francia a la inflación y de la IA a la integración europea: la larga lista de deberes de Hernández de Cos",
+            "link": "https://elpais.com/economia/2026-11-27/de-francia-a-la-inflacion-y-de-la-ia-a-la-integracion-europea-la-larga-lista-de-deberes-de-hernandez-de-cos.html",
+            "resumen": "La UE arma al BCE con una cúpula de alto perfil técnico y menos peso político para afrontar un escenario plagado de incertidumbres",
             "fuente": "El País"
           }
         ]
@@ -77,6 +77,24 @@ const EDICION_MUNDO = {
       {
         "nombre": "Ciencia y Tecnología",
         "notas": [
+          {
+            "titulo": "Rebelión científica tras el anuncio de un colaborador de OpenAI que asegura haber resuelto el gran problema de la física",
+            "link": "https://elpais.com/ciencia/2026-11-27/rebelion-cientifica-tras-el-anuncio-de-un-colaborador-de-openai-que-asegura-haber-resuelto-el-gran-problema-de-la-fisica.html",
+            "resumen": "Ven Chandrasekaran, de Stanford, propone una descripción de la gravedad cuántica, difundida y aplaudida por Sam Altman en redes. La élite del campo la cuestiona y la tacha de operación de márketing",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "El Colegio de Médicos de Madrid se atrinchera en el futuro Museo Cajal: el Ministerio de Ciencia le da 10 días para “entregar las llaves”",
+            "link": "https://elpais.com/ciencia/2026-11-27/el-colegio-de-medicos-de-madrid-se-atrinchera-en-el-futuro-museo-cajal-el-ministerio-de-ciencia-le-da-10-dias-para-entregar-las-llaves.html",
+            "resumen": "El Gobierno exige al ultraconservador Manuel Martínez-Sellés que acate las órdenes ministeriales y amenaza con expulsar a la corporación, cuya espectacular sede se dedicará parcialmente a exponer el legado del científico",
+            "fuente": "El País"
+          },
+          {
+            "titulo": "Un mes con el iPhone Duo es vivir ‘Regreso al futuro’",
+            "link": "https://elpais.com/tecnologia/2026-11-27/un-mes-con-el-iphone-duo-es-vivir-regreso-al-futuro.html",
+            "resumen": "El primer plegable de Apple está cambiando mi forma de usar el móvil. Es refinado y, de lejos, el iPhone más divertido y rompedor que he probado. También resulta desconcertante y cabe esperar mejoras importantes. ¿Merece la pena pagar…",
+            "fuente": "El País"
+          },
           {
             "titulo": "Los astrónomos se rebelan contra el permiso de Elon Musk para desplegar un millón de centros de datos en el espacio",
             "link": "https://elpais.com/ciencia/2026-11-26/los-astronomos-se-rebelan-contra-el-permiso-de-elon-musk-para-desplegar-un-millon-de-centros-de-datos-en-el-espacio.html",
@@ -87,24 +105,6 @@ const EDICION_MUNDO = {
             "titulo": "WhatsApp ya permite programar mensajes: “Algunos es mejor enviarlos más tarde”",
             "link": "https://elpais.com/tecnologia/2026-11-26/whatsapp-ya-permite-programar-mensajes-algunos-es-mejor-enviarlos-mas-tarde.html",
             "resumen": "La nueva función, disponible por ahora solo en Android, permite redactar el texto y fijar la fecha y hora exactas en las que llegará al destinatario, desde 10 minutos hasta 14 días más tarde",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Sylvie Retailleau, exministra de Educación de Francia: “Es muy importante darles la palabra a los jóvenes”",
-            "link": "https://elpais.com/ciencia/2026-11-26/sylvie-retailleau-exministra-de-educacion-en-francia-es-muy-importante-darles-la-palabra-a-los-jovenes.html",
-            "resumen": "La actual presidenta de Universcience, el organismo que agrupa los principales museos científicos de París, defiende el papel de la ciencia y la cultura frente a los desafíos políticos y sociales de Europa",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "El mundo no se pone de acuerdo sobre los robots asesinos: “Pueden acelerar una escalada de la violencia”",
-            "link": "https://elpais.com/tecnologia/2026-11-26/el-mundo-no-se-pone-de-acuerdo-sobre-los-robots-asesinos-pueden-acelerar-una-escalada-de-la-violencia.html",
-            "resumen": "Naciones Unidas ha sido incapaz de impulsar el control o prohibición de las armas autónomas, que ya han matado en algunos escenarios bélicos y cuya proliferación podría cambiar la naturaleza de la guerra",
-            "fuente": "El País"
-          },
-          {
-            "titulo": "Aves marinas actúan como ‘espías’ grabando sonidos de barcos pesqueros",
-            "link": "https://elpais.com/clima-y-medio-ambiente/2026-11-25/aves-marinas-actuan-como-espias-grabando-sonidos-de-barcos-pesqueros.html",
-            "resumen": "Un estudio realizado con alcatraces y pardelas baleares muestra que este sistema detecta buques que pasan desapercibidos con la tecnología de seguimiento habitual",
             "fuente": "El País"
           }
         ]
@@ -119,9 +119,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "España - Austria Copa Davis de tenis, en directo",
-            "link": "https://www.mundodeportivo.com/tenis/copa-davis/20261126/1004255577/espana-austria-directo-copa-davis-tenis-partidos-carlos-alcaraz-rafa-jodar-vivo-online.html",
-            "resumen": "",
+            "titulo": "Márquez: \"Empecé a sentir el miedo, a sentir respeto por las motos\"",
+            "link": "https://www.mundodeportivo.com/motor/motogp/20261127/1004256270/marc-marquez-da-principales-razones-retirada-empece-sentir-miedo-sentir-respeto-motos.html",
+            "resumen": "\"Llegué a mi manera y me voy a mi manera\", ha manifestado Marc Márquez en la rueda de prensa especial que se ha improvisado al final del FP1 matinal. en la abarrotada sala de prensa del circuit de Cheste, un lleno hasta la bendera en la…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -131,9 +131,9 @@ const EDICION_MUNDO = {
             "fuente": "Marca"
           },
           {
-            "titulo": "Mérida: \"Estaba nervioso, sabía que haciendo un buen papel Alcaraz podría jugar el sábado\"",
-            "link": "https://www.mundodeportivo.com/tenis/copa-davis/20261126/1004255948/merida-nervioso-sabia-haciendo-buen-papel-alcaraz-jugar-sabado.html",
-            "resumen": "Dani Mérida tuvo un inicio espectacular de Final a 8 de Copa Davis en Bolonia. Abrió la eliminatoria España-Austria poniendo el 1-0 en el marcador, ante la mirada desde el banquillo de Carlos Alcaraz , reservado después de las molestias…",
+            "titulo": "Así gestó Márquez el anuncio de la retirada de MotoGP al más puro estilo 'Love Actually'",
+            "link": "https://www.mundodeportivo.com/motor/motogp/20261127/1004256256/asi-gesto-marc-marquez-anuncio-retirada-motogp-puro-estilo-love-actually.html",
+            "resumen": "Durante la larga rueda de prensa de Marc Márquez en el circuit de la Comunitat Valenciana en Cheste, ha ido dando pequeñas píldoras de cómo se gestó el anuncio de su retirada este viernes antes del FP1. Primero, la decisión la tomó en…",
             "fuente": "Mundo Deportivo"
           },
           {
@@ -147,40 +147,40 @@ const EDICION_MUNDO = {
     ]
   },
   "en": {
-    "fecha": "November 26, 2026",
-    "generada": "19:19",
+    "fecha": "November 27, 2026",
+    "generada": "19:13",
     "secciones": [
       {
         "nombre": "World",
         "notas": [
           {
-            "titulo": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-            "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
+            "titulo": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+            "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+            "fuente": "BBC"
+          },
+          {
+            "titulo": "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind",
+            "link": "https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind",
+            "resumen": "What started as one artist’s response to being cut out of a music video has exploded, becoming a driving force in Nigeria’s cultural landscape As a student in the central Nigerian city of Ilorin, Lawal Habeeb Kola loved staying in his…",
+            "fuente": "The Guardian"
+          },
+          {
+            "titulo": "Puma Shen, Critic of China, Could be the Next Mayor of Taipei",
+            "link": "https://www.nytimes.com/2026/11/27/world/asia/puma-shen-taiwan-election-china.html",
+            "resumen": "Puma Shen, who has been sanctioned by China for his efforts to prepare civilians for an invasion, could become Taiwan’s next political star if he wins.",
+            "fuente": "N.Y. Times"
+          },
+          {
+            "titulo": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+            "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
             "fuente": "BBC"
           },
           {
             "titulo": "‘I’m no longer a UAE official’: UN hopeful Lana Nusseibeh tries to shake off Sudan record",
             "link": "https://www.theguardian.com/world/2026/nov/26/lana-nusseibeh-uae-sudan-un-secretary-general",
             "resumen": "The US and Russia’s candidate for secretary general is on a charm offensive. Can she overcome London’s resistance to her bid? Lana Nusseibeh is in Britain this week, attempting to present herself as a potential future UN secretary…",
-            "fuente": "The Guardian"
-          },
-          {
-            "titulo": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
-            "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
-            "resumen": "Dozens of Brazilians were sent to the front lines with little training, and the high salaries they were promised, they say, turned out to be illusory.",
-            "fuente": "N.Y. Times"
-          },
-          {
-            "titulo": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
-            "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
-            "resumen": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.",
-            "fuente": "BBC"
-          },
-          {
-            "titulo": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
-            "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
-            "resumen": "Blaze on ring road surrounding Egyptian capital injures at least 21 people and leaves cars and motorcycles charred A crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killing at least 31…",
             "fuente": "The Guardian"
           }
         ]
@@ -189,33 +189,33 @@ const EDICION_MUNDO = {
         "nombre": "Business",
         "notas": [
           {
-            "titulo": "Millions of people to see average monthly mortgage payments rise by £100",
-            "link": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
-            "resumen": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
+            "titulo": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+            "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Trump proposing new tariffs on 14 partners including China and EU",
-            "link": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
-            "resumen": "Administration is suggesting an added 20% tax on Chinese imports, which would bring the total to about 40% US politics live – latest updates Donald Trump is proposing new tariffs on 14 trading partners, including China and the European…",
+            "titulo": "‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers",
+            "link": "https://www.theguardian.com/us-news/2026/nov/27/ai-retailer-consumer-guardrails",
+            "resumen": "Labor leaders and advocates urge protections for workers and consumers as AI use becomes more commonplace As millions of Americans begin holiday shopping this Black Friday, consumers and workers alike are already seeing how artificial…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
-            "link": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
-            "resumen": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., after he was reinstated at Nvidia, the company he is said to have co-founded while eating there.",
+            "titulo": "It’s Boom Times for Old TV Shows. New TV, Not So Much.",
+            "link": "https://www.nytimes.com/2026/11/27/business/media/old-tv-shows-mad-men.html",
+            "resumen": "Fewer original series, decision fatigue and a desire for comfort have viewers escaping to the past.",
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
-            "link": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
+            "titulo": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+            "link": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
+            "resumen": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Judge blocks Brendan Carr-led FCC from taking any further action against ABC’s licenses",
-            "link": "https://www.theguardian.com/us-news/2026/nov/25/brendan-carr-fcc-abc-licenses",
-            "resumen": "Federal judge Loren L AliKhan grants preliminary injunction in ABC’s favor after network sued FCC in August The federal judge Loren L AliKhan on Wednesday granted a preliminary injunction blocking the Brendan Carr-led Federal…",
+            "titulo": "Amazon’s sale deals deceive customers, thinktank alleges",
+            "link": "https://www.theguardian.com/global/2026/nov/27/amazon-sale-deals-deceive-customers-black-friday-cyber-monday",
+            "resumen": "Two-thirds of Black Friday and Cyber Monday sale products were priced the same or lower in previous months Groundwork Collaborative finds, a claim Amazon disputes An Apple Watch on sale for $680. A pair of women’s Hunter yellow rainboots…",
             "fuente": "The Guardian"
           }
         ]
@@ -224,9 +224,9 @@ const EDICION_MUNDO = {
         "nombre": "Science & Tech",
         "notas": [
           {
-            "titulo": "Second court defeat for Trump's deep-sea mining ambitions",
-            "link": "https://www.bbc.co.uk/news/articles/c6y4jyx2m172o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Second judge rules against Trump administration's plans to lease areas of ocean floor and survey for mining.",
+            "titulo": "New satellite data shows how fast some African cities are sinking",
+            "link": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows.",
             "fuente": "BBC"
           },
           {
@@ -242,15 +242,15 @@ const EDICION_MUNDO = {
             "fuente": "N.Y. Times"
           },
           {
-            "titulo": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
-            "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-            "resumen": "Massive storms are descending on both US coasts as an estimated 80 million Americans hit the road for Thanksgiving holiday.",
+            "titulo": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+            "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+            "resumen": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Contraceptive pill usage in Great Britain fell drastically in last decade, research finds",
-            "link": "https://www.theguardian.com/society/2026/nov/26/contraceptive-pill-usage-in-great-britain-fell-drastically-in-last-decade-research-finds",
-            "resumen": "Survey published in Lancet reveals ‘hormonal hesitancy’ on the rise – with implants and injections also increasingly spurned The number of young women using hormonal contraception fell drastically in the past decade, with social media…",
+            "titulo": "‘I felt a zap race through my body’: what happens when someone is hit by lightning?",
+            "link": "https://www.theguardian.com/science/2026/nov/28/what-happens-when-someone-is-hit-by-lightning",
+            "resumen": "Tens of thousands of people experience strikes each year. What are the effects of a current five times hotter than the sun – and how can you keep safe? Caitlin Thomas recalls knowing that something terrible had happened but not fully…",
             "fuente": "The Guardian"
           }
         ]
@@ -259,33 +259,33 @@ const EDICION_MUNDO = {
         "nombre": "Sports",
         "notas": [
           {
-            "titulo": "Boxing chiefs to assess Fury mental health before fight",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/cwj3klxj10edo?at_medium=RSS&at_campaign=rss",
-            "resumen": "Tyson Fury's mental health wil be assessed to ensure he is fit to fight Anthony Joshua following documentary revelations.",
+            "titulo": "Mercedes set pace in eventful Qatar second practice",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/cqpv903y40jko?at_medium=RSS&at_campaign=rss",
+            "resumen": "World champion Kimi Antonelli sets the pace ahead of Mercedes team-mate George Russell in a disrupted second practice at the Qatar Grand Prix.",
             "fuente": "BBC"
           },
           {
-            "titulo": "Human flamethrower Aaron Rodgers lays bare the cultural rot at the once-great Steelers",
-            "link": "https://www.theguardian.com/sport/2026/nov/26/aaron-rodgers-released-pittsburgh-steelers-nfl-exit",
-            "resumen": "The quarterback’s spectacularly messy exit from Pittsburgh could herald an overdue collapse at one of the NFL’s most famous franchises Nobody in the world, except maybe Pittsburgh Steelers owner Art Rooney II, is surprised that the…",
+            "titulo": "Mike Tomlin calls Steelers ‘dumpster fire’ as Brady rips Rodgers for breaking locker room sanctity",
+            "link": "https://www.theguardian.com/sport/2026/nov/27/mike-tomlin-aaron-rodgers-tom-brady-steelers",
+            "resumen": "Ex-coach says QB was ‘beloved’ by teammates Rodgers released after diatribe about McCarthy Mike Tomlin, who coached Aaron Rodgers and the Steelers last year, and Tom Brady, one of Rodgers’s longtime peers as an elite quarterback, ⁠weighed…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Russell says Verstappen's criticism 'quite amusing'",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/c5lykr98yd88o?at_medium=RSS&at_campaign=rss",
-            "resumen": "George Russell says Max Verstappen can \"say what he wants\" and that he found the Red Bull driver's criticisms of him after the Las Vegas Grand Prix \"quite amusing\".",
+            "titulo": "Decline of deities - the long game the All Blacks cannot afford to lose",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkgkl7de60go?at_medium=RSS&at_campaign=rss",
+            "resumen": "Statistically, this generation of All Blacks is the weakest in decades. How has a sporting shorthand for success slipped so far?",
             "fuente": "BBC"
           },
           {
-            "titulo": "Sunderland v Jagiellonia Bialystok, Crystal Palace v Real Sociedad, and more: Europa League – live",
-            "link": "https://www.theguardian.com/football/live/2026/nov/26/sunderland-v-jagiellonia-bialystok-crystal-palace-v-real-sociedad-and-more-europa-league-live",
-            "resumen": "⚽️ Updates from Thursday’s 8pm GMT matches ⚽️ Live scoreboard | Read Football Daily | Email Will It is kicking off in London … Crystal Palace: Henderson, Richards, Disasi, Canvot, Timber, Hughes, Kamada, Chilwell, Nketiah, Pino, Mateta.…",
+            "titulo": "Jerry Jones hits out at Cowboys’ ‘damning setbacks’ after latest meltdown",
+            "link": "https://www.theguardian.com/sport/2026/nov/27/dallas-cowboys-jerry-jones-brian-schottenheimer",
+            "resumen": "Owner still backs head coach after 39-38 loss to Eagles Brian Schottenheimer has overseen record skid at home Jaguars’ Parker Washington sidelined for Titans clash Jerry Jones has backed Dallas Cowboys head coach Brian Schottenheimer…",
             "fuente": "The Guardian"
           },
           {
-            "titulo": "Not even making a 12-man bench - what next for Garnacho?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cr3wgd5exl0do?at_medium=RSS&at_campaign=rss",
-            "resumen": "Alejandro Garnacho's brief Aston Villa career already looks over, so what next for the 22-year-old?",
+            "titulo": "Cricket Australia may not like sandpaper forum findings - Vaughan",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c5pv903jvy2po?at_medium=RSS&at_campaign=rss",
+            "resumen": "Cricket Australia will not like what it finds from a forum into the sandpaper scandal, according to former England captain Michael Vaughan.",
             "fuente": "BBC"
           }
         ]
